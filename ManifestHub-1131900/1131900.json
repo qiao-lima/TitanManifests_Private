@@ -1,0 +1,92 @@
+{
+    "appid": 1131900,
+    "name": "3rd eye",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:11:49",
+    "change_number": 29182100,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1131901": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6960886888788212358",
+                    "size": "901871203",
+                    "download": "706894032"
+                }
+            },
+            "decryptionkey": "68bb874504b2c29bae9eced53d04cd7d2c3f90c8e50843acfb2f74af9a67b076"
+        },
+        "1131902": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3529543470544607324",
+                    "size": "901871203",
+                    "download": "706893984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1131903": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5769148627520335974",
+                    "size": "901871203",
+                    "download": "706885808"
+                }
+            },
+            "decryptionkey": "9934e41612c11aad64de4b16a618aa98930e3cc9944d1d1b0fd30600f1407486"
+        },
+        "1131904": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1247227979032778274",
+                    "size": "901871203",
+                    "download": "706885808"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1131905": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2025505427339061632",
+                    "size": "860476894",
+                    "download": "667031040"
+                }
+            }
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "4424517",
+                "timeupdated": "1574706035"
+            }
+        }
+    }
+}
