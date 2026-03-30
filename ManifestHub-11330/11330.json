@@ -1,0 +1,28 @@
+{
+    "appid": 11330,
+    "name": "Obulis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 16:35:37",
+    "change_number": 30113935,
+    "depot": {
+        "11331": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8902871505586228473",
+                    "size": "51034516",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0bb7439753564442428e805ed6bb551a5a1bd51a0e990d596811cecd14c09b45"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "252024"
+            }
+        }
+    }
+}
