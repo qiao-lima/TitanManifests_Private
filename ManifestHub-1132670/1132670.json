@@ -1,0 +1,56 @@
+{
+    "appid": 1132670,
+    "name": "Metal Heads",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 10:52:45",
+    "change_number": 29917426,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1132671": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1824617746554686568",
+                    "size": "7372478255",
+                    "download": "3501013344"
+                },
+                "experimental": {
+                    "gid": "1824617746554686568",
+                    "size": "7372478255",
+                    "download": "3501013344"
+                }
+            },
+            "decryptionkey": "a0aa9e37a7784bae2d3a3876a7cb1436bc3abac26d566c9101f29d7daf6900f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19122280",
+                "timeupdated": "1751795545"
+            },
+            "experimental": {
+                "buildid": "19122280",
+                "description": "Experimental version is for those wanting to get access to updates before they are released. These could be extreeeeemely broken.",
+                "timeupdated": "1751795560"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
