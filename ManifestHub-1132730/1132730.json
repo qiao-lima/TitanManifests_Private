@@ -1,0 +1,27 @@
+{
+    "appid": 1132730,
+    "name": "巅峰骑士团",
+    "type": "Game",
+    "schinese_name": "巅峰骑士团",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 17:16:12",
+    "change_number": 29414390,
+    "depot": {
+        "1132731": {
+            "manifests": {
+                "public": {
+                    "gid": "5817813790861357692",
+                    "size": "760146678",
+                    "download": "192424768"
+                }
+            },
+            "decryptionkey": "8cd65d768fae340184d66327a3d5476f631b9ea226298728c73481dd35a163e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18763655",
+                "timeupdated": "1749201366"
+            }
+        }
+    }
+}
