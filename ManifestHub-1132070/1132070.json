@@ -1,0 +1,27 @@
+{
+    "appid": 1132070,
+    "name": "5.0",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 18:57:31",
+    "change_number": 29994443,
+    "depot": {
+        "1132071": {
+            "manifests": {
+                "public": {
+                    "gid": "2970638421237809429",
+                    "size": "37320795",
+                    "download": "17958512"
+                }
+            },
+            "decryptionkey": "6c96ed1aac78fadc32a5a4070e6e7d711901077a32a57f090a35cf82fc37fcbc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4074258",
+                "timeupdated": "1564953247"
+            }
+        }
+    }
+}
