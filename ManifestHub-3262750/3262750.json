@@ -1,0 +1,46 @@
+{
+    "appid": 3262750,
+    "name": "Whispers of the Void Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 23:23:31",
+    "change_number": 29421224,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3262751": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1488791424222840435",
+                    "size": "3681507398",
+                    "download": "3500493984"
+                }
+            },
+            "decryptionkey": "89d244997b8a96bfe98b6768222bf803a9278102bf9f808c17dc6f17b8a418c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18768174",
+                "timeupdated": "1749223372"
+            }
+        }
+    }
+}
