@@ -1,0 +1,28 @@
+{
+    "appid": "581350",
+    "type": "Game",
+    "name": "Nicolay's Adventure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-28 11:58:57",
+    "depot": {
+        "581351": {
+            "manifests": {
+                "public": {
+                    "gid": "782302036407731700",
+                    "size": "417952816",
+                    "download": "357600096"
+                }
+            },
+            "decryptionkey": "1ecc915fe140fdbe7c750f9a0ec8f6e7af26cab00f0978190119e4f4b22f74d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1567896",
+                "timeupdated": "1484329932"
+            }
+        }
+    },
+    "access_token": 1369761554070819984
+}
