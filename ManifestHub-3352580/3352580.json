@@ -1,0 +1,28 @@
+{
+    "appid": 3352580,
+    "name": "Aloft - Supporter Pack",
+    "type": "DLC",
+    "schinese_name": "Aloft - 支持者回馈礼包",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:52:20",
+    "change_number": 29767906,
+    "depot": {
+        "3352580": {
+            "manifests": {
+                "public": {
+                    "gid": "4641934724710294930",
+                    "size": "302224110",
+                    "download": "281882464"
+                }
+            },
+            "dlcappid": "3352580",
+            "decryptionkey": "dad71f0783613579b08d5787dc32c61d420acb327988eb00bb6049ff1df2b630"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16944292",
+                "timeupdated": "1736463923"
+            }
+        }
+    }
+}
