@@ -1,0 +1,58 @@
+{
+    "appid": 38480,
+    "name": "Earthworm Jim",
+    "type": "Game",
+    "schinese_name": "蚯蚓战士",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 05:08:47",
+    "change_number": 30003148,
+    "depot": {
+        "overridescddb": "1",
+        "38481": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8666142790673692312",
+                    "size": "1562046818",
+                    "download": "771140352"
+                }
+            },
+            "decryptionkey": "6778a7f58d926166ed32d1f84241ff1b10a0b7145ca2ca0077ad0f7c70801607"
+        },
+        "38482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5892488620554026924",
+                    "size": "1493879461",
+                    "download": "669628752"
+                }
+            },
+            "decryptionkey": "25aa08933e66b7b47200d27a59da2d7853f12df589e7479a4c324af1e636c28f"
+        },
+        "38483": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1816006724853228160",
+                    "size": "1490017921",
+                    "download": "665957504"
+                }
+            },
+            "decryptionkey": "826eb98a82d4c9e3d7ab327001926694cf02e676a1cbde059fdd9c0641b2acd7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18889735",
+                "timeupdated": "1750374446"
+            }
+        }
+    }
+}
