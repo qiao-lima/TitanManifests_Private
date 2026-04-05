@@ -1,0 +1,42 @@
+{
+    "appid": 1758200,
+    "name": "ITRP _ Gas Prison",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 14:16:50",
+    "change_number": 29787556,
+    "depot": {
+        "baselanguages": "english,german,spanish,russian,ukrainian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1758201": {
+            "manifests": {
+                "public": {
+                    "gid": "8776992128640901316",
+                    "size": "107011759",
+                    "download": "57712080"
+                }
+            },
+            "decryptionkey": "0810fd541000fd63dffdb167dfa250bb13d9c4d348dd11b4c7d7d9d22513101e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18415346",
+                "timeupdated": "1746896212"
+            }
+        }
+    }
+}
