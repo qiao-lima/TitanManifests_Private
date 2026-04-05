@@ -1,0 +1,32 @@
+{
+    "appid": 2461170,
+    "name": "Secret Pie - Hidden Room",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 09:04:27",
+    "change_number": 29808228,
+    "depot": {
+        "2461170": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6171748928244115519",
+                    "size": "74073043",
+                    "download": "52644624"
+                }
+            },
+            "dlcappid": "2461170",
+            "decryptionkey": "97bf7665a2688bc03c94feeb63cc7f69a498e59f853b7c860779f814ae4db942"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15926075",
+                "timeupdated": "1728025666"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
