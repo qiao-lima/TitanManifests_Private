@@ -1,0 +1,28 @@
+{
+    "appid": 2243110,
+    "name": "EMPTY SHELL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 13:38:59",
+    "change_number": 30166712,
+    "depot": {
+        "2243111": {
+            "manifests": {
+                "public": {
+                    "gid": "5116057172438680442",
+                    "size": "292969310",
+                    "download": "106794944"
+                }
+            },
+            "decryptionkey": "aad786dc745df38b6d2bacc92cb92b1cecf32be45eaffe3682bc8c786041aa7d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18784006",
+                "timeupdated": "1749383452"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
