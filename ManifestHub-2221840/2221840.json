@@ -1,0 +1,52 @@
+{
+    "appid": 2221840,
+    "name": "Sex and the Furry Titty 3: Come Inside, Sweety",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:23:24",
+    "change_number": 29719722,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2221841": {
+            "manifests": {
+                "public": {
+                    "gid": "8066546950096871737",
+                    "size": "2399166744",
+                    "download": "1654987168"
+                }
+            },
+            "decryptionkey": "9c64d8d4a97700162de3d91372d607c0b32e26b07eacac186762aaa29e0ef4ae"
+        },
+        "2900390": {
+            "dlcappid": "2900390",
+            "manifests": {
+                "public": {
+                    "gid": "6543008594258223691",
+                    "size": "4518191640",
+                    "download": "4578616208"
+                }
+            },
+            "decryptionkey": "a50332276e1a9600bd604be4c9fab3ae8197d96cf928ede8088b0e01ceb30213"
+        },
+        "2900400": {
+            "dlcappid": "2900400",
+            "manifests": {
+                "public": {
+                    "gid": "4232272425730124487",
+                    "size": "2195579782",
+                    "download": "2130442496"
+                }
+            },
+            "decryptionkey": "86a31dc32f27c42f1d68b0f6018136c2b8d7be96fafe313a544cdb398e6fc260"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18799221",
+                "timeupdated": "1749493109"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
