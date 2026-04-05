@@ -1,0 +1,44 @@
+{
+    "appid": 564180,
+    "name": "ICEY OST",
+    "type": "Music",
+    "schinese_name": "ICEY 原声音轨",
+    "isfreeapp": 1,
+    "update_time": "2025-07-02 09:54:36",
+    "change_number": 26201212,
+    "depot": {
+        "564180": {
+            "config": {
+                "highqualityaudio": "1",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "439130953118298257",
+                    "size": "166421321",
+                    "download": "168029008"
+                }
+            },
+            "decryptionkey": "4af1bf4f3cb6f1beedc9cbb0b00d29fd503508593ff3b2110ef2e29e6607c362"
+        },
+        "564181": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5144839010230535267",
+                    "size": "61448408",
+                    "download": "49613008"
+                }
+            },
+            "decryptionkey": "cc854e398c6192fbd0fc2512a451176110169807efb7344cc553c0079789c692"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4572058",
+                "timeupdated": "1579078937"
+            }
+        }
+    }
+}
