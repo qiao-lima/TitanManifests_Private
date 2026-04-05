@@ -1,0 +1,30 @@
+{
+    "appid": 628750,
+    "name": "aMAZE 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 01:33:20",
+    "change_number": 29149159,
+    "depot": {
+        "628751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3787733102877312434",
+                    "size": "119377621",
+                    "download": "116494368"
+                }
+            },
+            "decryptionkey": "f89507d3759bab72f0c12baa8e61fed98c5c5e83e4cfb0faf6ea229118dd6355"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18581520",
+                "timeupdated": "1748001439"
+            }
+        }
+    }
+}
