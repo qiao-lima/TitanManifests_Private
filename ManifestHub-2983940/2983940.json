@@ -1,0 +1,72 @@
+{
+    "appid": 2983940,
+    "name": "SkateLab",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:51:38",
+    "change_number": 30203656,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2983941": {
+            "manifests": {
+                "public": {
+                    "gid": "2507582812463313344",
+                    "size": "4810142080",
+                    "download": "4259492976"
+                },
+                "0.0.117b-ue5.6_beta": {
+                    "gid": "2012043194794206101",
+                    "size": "4665425227",
+                    "download": "4176117184"
+                },
+                "0.0.0.99b-characterbeta": {
+                    "gid": "8292685993929685516",
+                    "size": "5146238099",
+                    "download": "4565136912"
+                },
+                "0.0.0.67.1-pre-character-public": {
+                    "gid": "999357228326762959",
+                    "size": "3506903876",
+                    "download": "3032276592"
+                }
+            },
+            "decryptionkey": "620f341dbd89ba3cb4eddd84f36f5cc3bb73095b28a59a4b9557ec88173f36d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18855613",
+                "timeupdated": "1749816348"
+            },
+            "0.0.117b-ue5.6_beta": {
+                "buildid": "18922282",
+                "description": "06-18-2025 Engine 5.6 Beta",
+                "timeupdated": "1750311553"
+            },
+            "0.0.0.99b-characterbeta": {
+                "buildid": "17344552",
+                "description": "02-12-2025 Character Beta",
+                "timeupdated": "1749307587"
+            },
+            "0.0.0.67.1-pre-character-public": {
+                "buildid": "15972031",
+                "description": "10-08-2024 'Physics Update'",
+                "timeupdated": "1749307569"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
