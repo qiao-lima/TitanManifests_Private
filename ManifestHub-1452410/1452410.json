@@ -1,0 +1,41 @@
+{
+    "appid": 1452410,
+    "name": "Case Kovacs - Agent 228",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-13 23:11:39",
+    "change_number": 30039403,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1452411": {
+            "manifests": {
+                "public": {
+                    "gid": "4632539891096557155",
+                    "size": "2049503967",
+                    "download": "883425184"
+                }
+            },
+            "decryptionkey": "eb71868e102a8d9b0434c5c639b58e177a7966cafb1aec2fe74e4ad460d78d8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5859505",
+                "timeupdated": "1605881137"
+            }
+        }
+    }
+}
