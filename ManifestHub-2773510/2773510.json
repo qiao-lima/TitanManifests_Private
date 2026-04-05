@@ -1,0 +1,29 @@
+{
+    "appid": 2773510,
+    "name": "FOR THE QUEEN : Adventures of a Village Girl",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 12:40:40",
+    "change_number": 29948228,
+    "depot": {
+        "2773510": {
+            "manifests": {
+                "public": {
+                    "gid": "5357151121466017826",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "2773510",
+            "decryptionkey": "af6408222e6c7c395483edd77597824742988daf98e1be178824514f9fcb5366"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13215537",
+                "timeupdated": "1705645394"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
