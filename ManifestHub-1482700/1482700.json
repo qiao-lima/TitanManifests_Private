@@ -1,0 +1,31 @@
+{
+    "appid": 1482700,
+    "name": "Speed Stars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 07:05:07",
+    "change_number": 29382765,
+    "depot": {
+        "1482701": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5309546438757362089",
+                    "size": "686774232",
+                    "download": "197195680"
+                }
+            },
+            "decryptionkey": "58464e5ae1fd1ba7524343dff0e363f9c27f0abde7b8ed76dc314152bd943bc7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8832100",
+                "timeupdated": "1653860169"
+            }
+        }
+    }
+}
