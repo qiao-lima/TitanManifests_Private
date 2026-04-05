@@ -1,0 +1,30 @@
+{
+    "appid": 2361080,
+    "name": "Step By Step",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 22:57:42",
+    "change_number": 30098331,
+    "depot": {
+        "2361081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6894795916003794490",
+                    "size": "192897175",
+                    "download": "145500736"
+                }
+            },
+            "decryptionkey": "2e16a1daef7db71a8f801cea335249ef31f1cee2635dc6dafc2d109eb67c2f79"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19251310",
+                "timeupdated": "1752703059"
+            }
+        }
+    }
+}
