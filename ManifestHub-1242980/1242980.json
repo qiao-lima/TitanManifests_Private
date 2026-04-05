@@ -1,0 +1,28 @@
+{
+    "appid": 1242980,
+    "name": "KeyWe",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 05:04:06",
+    "change_number": 29807166,
+    "depot": {
+        "1242981": {
+            "manifests": {
+                "public": {
+                    "gid": "5928213140524838374",
+                    "size": "1854350553",
+                    "download": "565157168"
+                }
+            },
+            "decryptionkey": "c4ff3a18b74e7013d0def2c2719d68c7705c071c3ddbf860a3631fcfb8d81659"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11652308",
+                "timeupdated": "1689325549"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
