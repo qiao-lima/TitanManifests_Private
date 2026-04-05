@@ -1,0 +1,53 @@
+{
+    "appid": 3417500,
+    "name": "KILLDOZER",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 19:41:49",
+    "change_number": 29955140,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3417501": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2069605239186896003",
+                    "size": "1941951516",
+                    "download": "1036193072"
+                }
+            },
+            "decryptionkey": "71192f9ca8bc9e88243297dbe57792c57421f5b867659d7500f03f2c976b0d11"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18997028",
+                "timeupdated": "1750863394"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
