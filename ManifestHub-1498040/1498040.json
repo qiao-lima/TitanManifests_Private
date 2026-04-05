@@ -1,0 +1,59 @@
+{
+    "appid": "1498040",
+    "type": "Game",
+    "name": "Bio Prototype",
+    "schinese_name": "原点计划",
+    "isfreeapp": "0",
+    "change_number": "28987627",
+    "update_time": "2025-05-15 02:46:32",
+    "depot": {
+        "baselanguages": "english",
+        "1498041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3389231934335181570",
+                    "size": "227339359",
+                    "download": "112988656"
+                }
+            },
+            "decryptionkey": "796cabe25553794ae00922c4207c8aaca02877309852e94646a4d626d5189a65"
+        },
+        "1498042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3768297803319929854",
+                    "size": "507590840",
+                    "download": "164794624"
+                }
+            },
+            "decryptionkey": "92431add8531ebe461c21bcf9ce427980162161929b70b38dbe9a50baec50780"
+        },
+        "1498043": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "241403080856782670",
+                    "size": "229892940",
+                    "download": "112372352"
+                }
+            },
+            "decryptionkey": "d463c6a8255b7f169fc8931da6b4e9fbeb861ae608fdcbcaff642e52ec2803ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12186889",
+                "timeupdated": "1694683260"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 15178407152255016152
+}
