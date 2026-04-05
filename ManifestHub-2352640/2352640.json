@@ -1,0 +1,49 @@
+{
+    "appid": 2352640,
+    "name": "You are Peter Shorts",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 19:08:29",
+    "change_number": 29747321,
+    "depot": {
+        "2352641": {
+            "manifests": {
+                "public": {
+                    "gid": "5602739216730686158",
+                    "size": "68798895",
+                    "download": "52919808"
+                },
+                "public_beta": {
+                    "gid": "5602739216730686158",
+                    "size": "68798895",
+                    "download": "52919808"
+                },
+                "previous_version": {
+                    "gid": "6011214648942567685",
+                    "size": "66434315",
+                    "download": "50610176"
+                }
+            },
+            "decryptionkey": "9c122e303321fa53a6ff3ef3d8278d84b15654aeb128fb409e7c4e000a2cfbb1"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18999333",
+                "timeupdated": "1750874902"
+            },
+            "public_beta": {
+                "buildid": "18999333",
+                "description": "newer version",
+                "timeupdated": "1750874868"
+            },
+            "previous_version": {
+                "buildid": "14699690",
+                "description": "previous stable build",
+                "timeupdated": "1744249176"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
