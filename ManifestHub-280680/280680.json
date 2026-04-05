@@ -1,0 +1,109 @@
+{
+    "appid": 280680,
+    "name": "Krita",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 22:37:52",
+    "change_number": 30098111,
+    "depot": {
+        "overridescddb": "1",
+        "workshopdepot": "280680",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,dutch",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "280681": {
+            "systemdefined": "1",
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5697720818733026338",
+                    "size": "0",
+                    "download": "0"
+                },
+                "rollback": {
+                    "gid": "5697720818733026338",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "baddb076af5bd847f9b4a70a0cdb83740b1a0724a1b4cedf1a3e3a223a745b4b"
+        },
+        "280682": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "257553361850733865",
+                    "size": "549635288",
+                    "download": "190644352"
+                },
+                "rollback": {
+                    "gid": "6333154296950230284",
+                    "size": "571704387",
+                    "download": "184943184"
+                }
+            },
+            "decryptionkey": "86c126ddb42071c4ce7cd430018739e0b35e228dd59d35ce160360eabed73f72"
+        },
+        "280683": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6739448752876182877",
+                    "size": "938045796",
+                    "download": "311282288"
+                },
+                "rollback": {
+                    "gid": "1285552380979750503",
+                    "size": "1023120381",
+                    "download": "308280608"
+                }
+            },
+            "decryptionkey": "9c024c741808fd1d0203e1e31b77ad9a3e0e29b7b3c06dc5228e258bfafb92aa"
+        },
+        "280684": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5206442357350595520",
+                    "size": "946816096",
+                    "download": "277417424"
+                },
+                "rollback": {
+                    "gid": "5500175666311093483",
+                    "size": "963918439",
+                    "download": "252184176"
+                }
+            },
+            "decryptionkey": "e57e0186d6d1f641e1a40408a81f126382a46ce850b451064ba027fbaf0dbecd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19251086",
+                "timeupdated": "1752701868"
+            },
+            "rollback": {
+                "buildid": "12917408",
+                "description": "Previous stable version. For users who want/need to roll back for some reason.",
+                "timeupdated": "1722026611"
+            }
+        },
+        "workshopdepotdecryptionkey": "4984cb7e514feec869f6bbfa4ed438778140cbbf9206097f476357d9a313acae"
+    }
+}
