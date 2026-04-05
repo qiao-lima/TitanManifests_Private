@@ -1,0 +1,44 @@
+{
+    "appid": "443940",
+    "type": "Game",
+    "name": "Unknown Battle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:05:51",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "443941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7930231859627754324",
+                    "size": "700877350",
+                    "download": "288686832"
+                }
+            },
+            "decryptionkey": "fbec11864ac91f5a8ed4e899780eb479f06240770afac4aa653ea743d0e783ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1024186"
+            }
+        }
+    },
+    "access_token": 5332932553489368208
+}
