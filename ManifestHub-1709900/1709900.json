@@ -1,0 +1,28 @@
+{
+    "appid": 1709900,
+    "name": "Tower Tactics: Liberation",
+    "type": "Game",
+    "schinese_name": "塔楼战术：解放",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 01:28:58",
+    "change_number": 29147656,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1709901": {
+            "manifests": {
+                "public": {
+                    "gid": "7650238448636924244",
+                    "size": "79814368",
+                    "download": "38575104"
+                }
+            },
+            "decryptionkey": "f1bdadbf552e261bf283a3d1caf24cdf293cea88deb9dc61d4f9a7ab13823306"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18580351",
+                "timeupdated": "1747995944"
+            }
+        }
+    }
+}
