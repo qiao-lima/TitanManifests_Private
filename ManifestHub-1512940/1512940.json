@@ -1,0 +1,43 @@
+{
+    "appid": 1512940,
+    "name": "Malody V",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 03:33:13",
+    "change_number": 30218537,
+    "depot": {
+        "1512941": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8783177731609764009",
+                    "size": "215986908",
+                    "download": "138512848"
+                },
+                "beta": {
+                    "gid": "3508868967417765935",
+                    "size": "216030464",
+                    "download": "138457808"
+                }
+            },
+            "decryptionkey": "029c48acbc3b14085c811abd6bfb87dd070cfc070378992e738f4aae033c7296"
+        },
+        "workshopdepot": "1512940",
+        "branches": {
+            "public": {
+                "buildid": "19311615",
+                "timeupdated": "1753171191"
+            },
+            "beta": {
+                "buildid": "19337662",
+                "description": "beta testing version",
+                "timeupdated": "1753324390"
+            }
+        },
+        "workshopdepotdecryptionkey": "2250bcb640cd7bad589c1e982c9144a685b28c4f57a02390c3481d91ff9bd3e7"
+    }
+}
