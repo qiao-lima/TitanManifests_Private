@@ -1,0 +1,80 @@
+{
+    "appid": 29720,
+    "name": "Guild Wars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 07:12:47",
+    "change_number": 30200391,
+    "depot": {
+        "29541": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7341522229593941192",
+                    "size": "2398566064",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7f93d15c7db86244f86cecadc8137f20f72eddd640ea65297e2f067d0471dde6"
+        },
+        "29542": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5992366029106745127",
+                    "size": "2396185776",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d65c53534c4cf98eefa63b517b1ebd1b983c2c41846e0d55d7837cb1eda51431"
+        },
+        "29543": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2449735973173310759",
+                    "size": "2398566064",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "088886029cf89247fa5fc98ed39121aae6b13e7dd9f61eda89bc44569c469798"
+        },
+        "29544": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4759027866653794960",
+                    "size": "2396185776",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "32d6a8f3f7e420afc49d460ddc5d840f89281780094a55e9b98691aae327df1d"
+        },
+        "29545": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6697105966861456616",
+                    "size": "2398566064",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "294bbd3fe13cf5879b9e8203dd86d2f6e0be165a2c9ccd312f28d4e31ff26ffa"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "52234"
+            }
+        }
+    }
+}
