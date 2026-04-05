@@ -1,0 +1,65 @@
+{
+    "appid": "567170",
+    "type": "Game",
+    "name": "Mystery Mine",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "20895740",
+    "update_time": "2024-08-14 19:18:55",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian,ukrainian",
+        "567171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8129785291634749721",
+                    "size": "354675663",
+                    "download": "82694896"
+                }
+            },
+            "decryptionkey": "8ff48f4979497fa7a6b246c34f61b8cf291847f3054958f47e4570d0be483549"
+        },
+        "567172": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7476189912987306213",
+                    "size": "396297441",
+                    "download": "95196320"
+                }
+            },
+            "decryptionkey": "d54643a1a08e3fabb989bb99c403798fae0690175af26cc30fe35bac2be6895a"
+        },
+        "567173": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5963581352368107228",
+                    "size": "401108960",
+                    "download": "95122976"
+                }
+            },
+            "decryptionkey": "5a48b41defd3baab1d031f261827548539530a6f9b9f8165002f6ee7a996f971"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1835730",
+                "timeupdated": "1495305699"
+            }
+        }
+    },
+    "access_token": 4754911394408004610
+}
