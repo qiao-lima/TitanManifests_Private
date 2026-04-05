@@ -1,0 +1,58 @@
+{
+    "appid": 1745790,
+    "name": "City Zoomer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 12:31:26",
+    "change_number": 30009621,
+    "depot": {
+        "1745791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5972297681183072299",
+                    "size": "836584081",
+                    "download": "628207584"
+                }
+            },
+            "decryptionkey": "cc1905210192c75af9f88ed3d8b25b101bee1a466a937a2e85ab0276aed5baa7"
+        },
+        "1745792": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8612293218918680114",
+                    "size": "857795367",
+                    "download": "636105616"
+                }
+            },
+            "decryptionkey": "180ee105a48468f8baff480c3172ecd621079557b9f709c537e7f66a7c4333f9"
+        },
+        "1745793": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3059426454105137864",
+                    "size": "853034892",
+                    "download": "632372144"
+                }
+            },
+            "decryptionkey": "faf320b46532ff22041ee0b220e8dacdab4dd48e1dc095e62354a5d8bd9d7db5"
+        },
+        "baselanguages": "english,koreana,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "11958872",
+                "timeupdated": "1692222228"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
