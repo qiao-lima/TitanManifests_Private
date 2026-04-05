@@ -1,0 +1,72 @@
+{
+    "appid": 588440,
+    "name": "False Front",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:24:52",
+    "change_number": 29135541,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,portuguese,swedish,turkish",
+        "hasdepotsindlc": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1241870": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "1241870",
+            "manifests": {
+                "public": {
+                    "gid": "6539651952698740067",
+                    "size": "82557",
+                    "download": "82992"
+                }
+            },
+            "decryptionkey": "2a73a5c2b8df2d5c5db47c6ad5416cf984eeae5ba77b4c69441f9b26b6ff6538"
+        },
+        "588441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5734905974034323982",
+                    "size": "3839230650",
+                    "download": "872679376"
+                }
+            },
+            "decryptionkey": "f5208428705539638252502cc34778647550807e2acdccf63c0bf58047763289"
+        },
+        "588442": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "588444": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11697181",
+                "timeupdated": "1689278724"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
