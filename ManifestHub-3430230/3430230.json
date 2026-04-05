@@ -1,0 +1,28 @@
+{
+    "appid": 3430230,
+    "name": "Hentai Stories - Supporter Art Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 10:15:24",
+    "change_number": 29800598,
+    "depot": {
+        "3430230": {
+            "manifests": {
+                "public": {
+                    "gid": "7262363795015172405",
+                    "size": "1443619548",
+                    "download": "1294481600"
+                }
+            },
+            "dlcappid": "3430230",
+            "decryptionkey": "e3b37d0e2c43e9c753a3c8e27261557118be46361db78662fd1e9cdab5f1e766"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17305436",
+                "timeupdated": "1739183922"
+            }
+        }
+    }
+}
