@@ -1,0 +1,38 @@
+{
+    "appid": 1543380,
+    "name": "I Fetch Rocks",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 14:43:44",
+    "change_number": 29843529,
+    "depot": {
+        "1543381": {
+            "manifests": {
+                "public": {
+                    "gid": "1217112547344847332",
+                    "size": "2831928054",
+                    "download": "870309632"
+                },
+                "multiplayer_beta": {
+                    "gid": "9126536407435732720",
+                    "size": "3157212104",
+                    "download": "1035288704"
+                }
+            },
+            "decryptionkey": "b62803e1927027120cbe47775b88c7f56aa22cac2e78f1987e92248f07709289"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13977838",
+                "timeupdated": "1747563297"
+            },
+            "multiplayer_beta": {
+                "buildid": "18657312",
+                "description": "Multiplayer Beta",
+                "timeupdated": "1748516238"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
