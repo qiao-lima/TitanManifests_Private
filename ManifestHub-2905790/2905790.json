@@ -1,0 +1,28 @@
+{
+    "appid": 2905790,
+    "name": "PROJECT TACHYON",
+    "type": "Game",
+    "schinese_name": "超光速计划",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 08:54:38",
+    "change_number": 30044402,
+    "depot": {
+        "2905791": {
+            "manifests": {
+                "public": {
+                    "gid": "1695077790571178279",
+                    "size": "2371960524",
+                    "download": "733422224"
+                }
+            },
+            "decryptionkey": "8f41a9226ab0785dc4ad5763b2076b36932750036b451d81e802d445f6e3996e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18559714",
+                "timeupdated": "1747969682"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
