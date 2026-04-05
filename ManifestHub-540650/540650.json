@@ -1,0 +1,34 @@
+{
+    "appid": 540650,
+    "name": "Dawn of Warriors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:54:21",
+    "change_number": 29649066,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "540651": {
+            "manifests": {
+                "public": {
+                    "gid": "2762749077268744567",
+                    "size": "64388563",
+                    "download": "39718912"
+                }
+            },
+            "decryptionkey": "a825fa1b23dbefb027c269a09f99a47eec8cd0424506b1b56140851120e9c1fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1393932",
+                "timeupdated": "1476531485"
+            }
+        }
+    }
+}
