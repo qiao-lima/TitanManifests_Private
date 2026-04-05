@@ -1,0 +1,46 @@
+{
+    "appid": 2271930,
+    "name": "IfSunSets",
+    "type": "Game",
+    "schinese_name": "落日余晖",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:16:00",
+    "change_number": 30217675,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2271931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5700586722407399763",
+                    "size": "19240117142",
+                    "download": "18572651904"
+                }
+            },
+            "decryptionkey": "a9c8ce48855c73a5fa7beb2422ba11ac8bd612529feb8e8bd8a06cb0004652f2"
+        },
+        "baselanguages": "english,german,koreana,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19267950",
+                "timeupdated": "1752807331"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
