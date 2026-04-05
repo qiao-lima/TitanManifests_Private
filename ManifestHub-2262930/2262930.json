@@ -1,0 +1,81 @@
+{
+    "appid": 2262930,
+    "name": "Bombe",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 22:13:08",
+    "change_number": 30194171,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2262932": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3300811402653372191",
+                    "size": "89188076",
+                    "download": "59300208"
+                },
+                "testing": {
+                    "gid": "305037297292855728",
+                    "size": "89132319",
+                    "download": "59293248"
+                }
+            },
+            "decryptionkey": "a4988f49f480c7124865b393dbd99b5d8ee316574f6d4168ee3fb0d5063bcff4"
+        },
+        "2262933": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5175599579223801012",
+                    "size": "108044852",
+                    "download": "65114320"
+                },
+                "testing": {
+                    "gid": "7394199065283350881",
+                    "size": "108126015",
+                    "download": "65766352"
+                }
+            }
+        },
+        "2262934": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8936934594091567170",
+                    "size": "105719364",
+                    "download": "63408688"
+                },
+                "testing": {
+                    "gid": "2023927404805065820",
+                    "size": "105671375",
+                    "download": "63429616"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17928361",
+                "timeupdated": "1743443373"
+            },
+            "testing": {
+                "buildid": "19320458",
+                "description": " Testing branch for unstable and experimental",
+                "timeupdated": "1753218784"
+            }
+        }
+    }
+}
