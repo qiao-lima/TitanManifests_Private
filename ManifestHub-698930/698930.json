@@ -1,0 +1,53 @@
+{
+    "appid": "698930",
+    "type": "Game",
+    "name": "ZAMBI 2 KIL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:36:13",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "698931": {
+            "manifests": {
+                "public": {
+                    "gid": "1370796994721829915",
+                    "size": "190191785",
+                    "download": "132042624"
+                }
+            },
+            "decryptionkey": "e75431213fa92d00bee6e6e1b7fed832bb1ba60c51117a5066c11ebdd48681ca"
+        },
+        "698940": {
+            "manifests": {
+                "public": {
+                    "gid": "5663927541747563588",
+                    "size": "840921",
+                    "download": "47136"
+                }
+            },
+            "dlcappid": "698940",
+            "decryptionkey": "26edc094596ed694970ffc29b92b08d5598f809e3a5b61d60d20cee77aa2a68e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2038465",
+                "timeupdated": "1502772063"
+            }
+        }
+    },
+    "access_token": 5746439782735795132
+}
