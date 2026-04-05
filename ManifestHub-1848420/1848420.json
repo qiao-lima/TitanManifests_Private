@@ -1,0 +1,29 @@
+{
+    "appid": 1848420,
+    "name": "Graviteam Tactics: Bird Grove",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:51:28",
+    "change_number": 28799314,
+    "depot": {
+        "1848420": {
+            "manifests": {
+                "public": {
+                    "gid": "2514756143253052168",
+                    "size": "749756753",
+                    "download": "379759792"
+                }
+            },
+            "dlcappid": "1848420",
+            "decryptionkey": "2f366ace6c34db54f812b799f7eea8dc034fa0706e5f91772b73ae4b113829ed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11075785",
+                "timeupdated": "1682333171"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
