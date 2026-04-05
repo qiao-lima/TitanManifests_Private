@@ -1,0 +1,62 @@
+{
+    "appid": 2706370,
+    "name": "AC Sailing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-08 20:40:52",
+    "change_number": 29955953,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2706371": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4168502644167490168",
+                    "size": "4178146349",
+                    "download": "3869189136"
+                }
+            },
+            "decryptionkey": "1207864b13de7b29529eb7e9e17a43727d6e574f7895775fb0e086672e6d7a10"
+        },
+        "2706372": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7494575686003435978",
+                    "size": "4178146349",
+                    "download": "3870507136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18894306",
+                "timeupdated": "1750150383"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
