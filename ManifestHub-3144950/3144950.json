@@ -1,0 +1,41 @@
+{
+    "appid": 3144950,
+    "name": "Pet Lands",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 01:03:26",
+    "change_number": 29977992,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3144951": {
+            "manifests": {
+                "public": {
+                    "gid": "1438491573912770652",
+                    "size": "4997681347",
+                    "download": "4126234480"
+                }
+            },
+            "decryptionkey": "fdadcdb4423eb2a2d8c114de8f8238a47f3209ee475b32bde7517af2546984ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16197056",
+                "timeupdated": "1730029480"
+            }
+        }
+    }
+}
