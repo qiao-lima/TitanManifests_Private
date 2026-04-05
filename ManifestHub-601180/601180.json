@@ -1,0 +1,37 @@
+{
+    "appid": 601180,
+    "name": "Doug and Lily",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 23:11:10",
+    "change_number": 30039398,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "601181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8215253015646466115",
+                    "size": "116628837",
+                    "download": "51126352"
+                }
+            },
+            "decryptionkey": "def365cc7a29a4ce42622d363f4115d0593ff37527243eed3055805f25560e07"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1661387",
+                "timeupdated": "1488297204"
+            }
+        }
+    }
+}
