@@ -1,0 +1,31 @@
+{
+    "appid": 2197730,
+    "name": "TAIMANIN RPG Extasy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 07:17:12",
+    "change_number": 29172052,
+    "depot": {
+        "2197731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1723784542702973491",
+                    "size": "1076122284",
+                    "download": "248838848"
+                }
+            },
+            "decryptionkey": "d900f41a529aab71936b58b9ac60fa50b61748d21b2f5d39325569be53e947b7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15044028",
+                "timeupdated": "1721097677"
+            }
+        }
+    }
+}
