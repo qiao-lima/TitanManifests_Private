@@ -1,0 +1,41 @@
+{
+    "appid": 1969920,
+    "name": "Tomb Explorer VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 21:28:11",
+    "change_number": 30097139,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1969921": {
+            "manifests": {
+                "public": {
+                    "gid": "6726828083232335685",
+                    "size": "24193264548",
+                    "download": "24085333328"
+                }
+            },
+            "decryptionkey": "fab6ed41c008bd0014a16e04b9622d5f4804e37b9c2a3b8039896748665276fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19239313",
+                "timeupdated": "1752697688"
+            }
+        }
+    }
+}
