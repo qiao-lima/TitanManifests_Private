@@ -1,0 +1,28 @@
+{
+    "appid": 2740000,
+    "name": "Cute Suika: Big Watermelon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 03:59:49",
+    "change_number": 29591559,
+    "depot": {
+        "2740001": {
+            "manifests": {
+                "public": {
+                    "gid": "7458621534619282735",
+                    "size": "336381173",
+                    "download": "231051344"
+                }
+            },
+            "decryptionkey": "abb5fddae68f6ae4b5e38bd3150323ec0999d0e84e11ffa57a812a5adb48f7b5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15313195",
+                "timeupdated": "1723176734"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
