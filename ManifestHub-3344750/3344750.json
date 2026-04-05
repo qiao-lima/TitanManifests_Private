@@ -1,0 +1,29 @@
+{
+    "appid": 3344750,
+    "name": "DEBUG DEADLINE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 11:57:11",
+    "change_number": 29561438,
+    "depot": {
+        "3344751": {
+            "manifests": {
+                "public": {
+                    "gid": "5893469243185037542",
+                    "size": "2470884844",
+                    "download": "910641488"
+                }
+            },
+            "decryptionkey": "16e2a1265df493a34a0fed585372529b4f5d62e46b82b11bcab5b284a1b3de0e"
+        },
+        "baselanguages": "english,koreana,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18633843",
+                "timeupdated": "1748393363"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
