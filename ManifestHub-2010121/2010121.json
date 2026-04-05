@@ -1,0 +1,54 @@
+{
+    "appid": 2010121,
+    "name": "RetroArch - BlueMSX",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 08:52:55",
+    "change_number": 30006002,
+    "depot": {
+        "2010121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "2010121",
+            "manifests": {
+                "public": {
+                    "gid": "2473956849702636977",
+                    "size": "1571749",
+                    "download": "627984"
+                },
+                "nightly": {
+                    "gid": "4895987780923906571",
+                    "size": "1571749",
+                    "download": "763616"
+                }
+            },
+            "decryptionkey": "e342d1965f8e34c39661dcaa53f2d9e5df74de3ee19758b7ef2881e02adda494"
+        },
+        "2079441": {
+            "config": {
+                "oslist": "macos"
+            },
+            "dlcappid": "2010121"
+        },
+        "2079440": {
+            "config": {
+                "oslist": "linux"
+            },
+            "dlcappid": "2010121"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265078",
+                "timeupdated": "1745845060"
+            },
+            "nightly": {
+                "buildid": "19187342",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752220369"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
