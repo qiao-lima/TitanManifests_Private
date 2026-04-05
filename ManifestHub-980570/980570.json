@@ -1,0 +1,28 @@
+{
+    "appid": 980570,
+    "name": "Thronebreaker: Bonus Content",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-29 09:53:57",
+    "change_number": 26201212,
+    "depot": {
+        "980570": {
+            "dlcappid": "980570",
+            "manifests": {
+                "public": {
+                    "gid": "4628226053779213449",
+                    "size": "2741082288",
+                    "download": "2728999760"
+                }
+            },
+            "decryptionkey": "cd107d1b0e1867d44ea7455a700008ab7bd519c3031a74e90cd9929b365760a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3292937",
+                "timeupdated": "1541777530"
+            }
+        }
+    }
+}
