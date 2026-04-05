@@ -1,0 +1,42 @@
+{
+    "appid": 2688570,
+    "name": "The Inn-Sanity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 23:31:20",
+    "change_number": 30039523,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2688571": {
+            "manifests": {
+                "public": {
+                    "gid": "8798450884129991373",
+                    "size": "26566244971",
+                    "download": "10184339728"
+                }
+            },
+            "decryptionkey": "77496ac0aabbc8afeed0af2d9d7610fc5ba54ddc8ad823a98f45d0f70b4cc7f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16843098",
+                "timeupdated": "1735120941"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
