@@ -1,0 +1,27 @@
+{
+    "appid": 2793610,
+    "name": "Minami Lane Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 07:00:30",
+    "change_number": 29495671,
+    "depot": {
+        "2793611": {
+            "manifests": {
+                "public": {
+                    "gid": "2943050868652555744",
+                    "size": "27670342",
+                    "download": "20941856"
+                }
+            },
+            "decryptionkey": "1354565e08fcd3fbbcae17885bee786f034e45a5017adfc068a067f915f466f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13458330",
+                "timeupdated": "1707944061"
+            }
+        }
+    }
+}
