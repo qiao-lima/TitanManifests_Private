@@ -1,0 +1,31 @@
+{
+    "appid": 2857980,
+    "name": "Einstein's Cats",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 23:48:29",
+    "change_number": 29694066,
+    "depot": {
+        "2857981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7404352392866291784",
+                    "size": "351763987",
+                    "download": "111800000"
+                }
+            },
+            "decryptionkey": "4fdafd1e1a8472937c7f2a7a4958af5322af796df78c0f681e83cbfc471b6178"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18958418",
+                "timeupdated": "1750632421"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
