@@ -1,0 +1,24 @@
+{
+    "appid": 2829100,
+    "name": "The Crew Motorfest - Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 09:19:13",
+    "change_number": 29856560,
+    "depot": {
+        "2829101": {},
+        "2698941": {
+            "manifests": {
+                "public": {
+                    "gid": "6931954782824843628",
+                    "size": "65137283016",
+                    "download": "60266868656"
+                }
+            },
+            "depotfromapp": "2698940",
+            "decryptionkey": "d883429e0c229f4e0634265ea029ccf4200bf0a6d171047809fab73ae807ba8c"
+        },
+        "branches": {}
+    }
+}
