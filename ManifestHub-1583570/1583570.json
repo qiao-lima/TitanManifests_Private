@@ -1,0 +1,30 @@
+{
+    "appid": 1583570,
+    "name": "СИМУЛЯТОР ОДИНОЧЕСТВА В РУССКОЙ ДЕРЕВНЕ",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 23:59:48",
+    "change_number": 29694141,
+    "depot": {
+        "1583571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6762502732854992350",
+                    "size": "6192732590",
+                    "download": "2600086256"
+                }
+            },
+            "decryptionkey": "0e28dc411befc5cf2a9db4bb219ff889abe39f15392abc85cb69e8d707965ee8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8836202",
+                "timeupdated": "1653921466"
+            }
+        }
+    }
+}
