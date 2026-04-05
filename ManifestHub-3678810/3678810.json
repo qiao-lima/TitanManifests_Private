@@ -1,0 +1,45 @@
+{
+    "appid": 3678810,
+    "name": "Reflection Of Sin",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 10:03:15",
+    "change_number": 29819287,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "3678811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3360731793658729602",
+                    "size": "2036173227",
+                    "download": "1868257360"
+                }
+            },
+            "decryptionkey": "357019e82cc3d09dc5828a0b50884e115a5285751228b2032f55abc31466d250"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19048691",
+                "timeupdated": "1751274190"
+            }
+        }
+    }
+}
