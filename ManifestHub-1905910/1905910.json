@@ -1,0 +1,47 @@
+{
+    "appid": 1905910,
+    "name": "Steel Hunters Beta Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 11:16:57",
+    "change_number": 29858291,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1905911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5217059644604245927",
+                    "size": "32067936401",
+                    "download": "12659206880"
+                }
+            },
+            "decryptionkey": "1f1485c7595da977c7358f0bc4188a3293f8980b25a9ba437a4f5c8d0325f5d6"
+        },
+        "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese,polish,brazilian,ukrainian,latam",
+        "branches": {
+            "public": {
+                "buildid": "17579968",
+                "timeupdated": "1741097229"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 2129741525800398451
+}
