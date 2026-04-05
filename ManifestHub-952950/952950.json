@@ -1,0 +1,46 @@
+{
+    "appid": 952950,
+    "name": "03.04",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-31 07:25:33",
+    "change_number": 29287266,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "952951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7601820513731421089",
+                    "size": "2532842008",
+                    "download": "2151063856"
+                }
+            },
+            "decryptionkey": "2152e526c3242b143734f45ef7384909417a5dc3636bbddabc023f77196c1d40"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3482555",
+                "timeupdated": "1547844971"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
