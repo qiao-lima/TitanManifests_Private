@@ -1,0 +1,140 @@
+{
+    "appid": 512790,
+    "name": "Quern - Undying Thoughts",
+    "type": "Game",
+    "schinese_name": "Quern - 不朽之念",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 23:39:10",
+    "change_number": 29712383,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,hungarian,czech",
+        "512791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6542836633525313538",
+                    "size": "8818266882",
+                    "download": "2634319648"
+                },
+                "1.1.0": {
+                    "gid": "4572196756666670139",
+                    "size": "8292012398",
+                    "download": "2555873520"
+                },
+                "previous_patch": {
+                    "gid": "8749655456186490743",
+                    "size": "8795162188",
+                    "download": "2611046000"
+                }
+            },
+            "decryptionkey": "7053104246951f3341e356c2bdd1268b74689928bc6f8814a6503891df2b2c53"
+        },
+        "512793": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1602921924887759797",
+                    "size": "8863080699",
+                    "download": "2658352640"
+                },
+                "1.1.0": {
+                    "gid": "3718071199520900557",
+                    "size": "8313162226",
+                    "download": "2564540336"
+                },
+                "previous_patch": {
+                    "gid": "8554272562797172014",
+                    "size": "8808645302",
+                    "download": "2618442240"
+                }
+            },
+            "decryptionkey": "738fb1a033e5a7cb3e9b23d30a2b2dc4b0373ebf94e318c2e43888583772c725"
+        },
+        "512794": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8380601299728100577",
+                    "size": "8808921731",
+                    "download": "2634298080"
+                },
+                "1.1.0": {
+                    "gid": "1202867012507720251",
+                    "size": "8292601114",
+                    "download": "2555359936"
+                },
+                "previous_patch": {
+                    "gid": "5750571657545881336",
+                    "size": "8787823800",
+                    "download": "2609760176"
+                }
+            },
+            "decryptionkey": "904b1ed115948b3a80c71f74bac5d1ea60a126970647979b3f3ea16038112f15"
+        },
+        "512795": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8895285165996728303",
+                    "size": "8839027300",
+                    "download": "2644245152"
+                }
+            },
+            "decryptionkey": "3eabc2080324a835db5d0d9d83d3e1d1b61f54e3a1c477613f274bb2cd772518"
+        },
+        "512792": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7632478442934465988",
+                    "size": "8872621789",
+                    "download": "2649147072"
+                },
+                "1.1.0": {
+                    "gid": "1923873858935889038",
+                    "size": "8364059966",
+                    "download": "2580453184"
+                },
+                "previous_patch": {
+                    "gid": "1147268324188418408",
+                    "size": "8866965094",
+                    "download": "2636127184"
+                }
+            },
+            "decryptionkey": "1b609393cb24762a3de39170ea5a450a2e3200353b9266bf0fd529d72fd09a8b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18853645",
+                "timeupdated": "1749806846"
+            },
+            "1.1.0": {
+                "buildid": "1913018",
+                "timeupdated": "1522757673"
+            },
+            "previous_patch": {
+                "buildid": "2293379",
+                "timeupdated": "1522671054"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
