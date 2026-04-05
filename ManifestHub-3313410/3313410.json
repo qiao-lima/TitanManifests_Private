@@ -1,0 +1,27 @@
+{
+    "appid": 3313410,
+    "name": "刻印战记1：法利兹传",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 14:56:54",
+    "change_number": 29861606,
+    "depot": {
+        "3313411": {
+            "manifests": {
+                "public": {
+                    "gid": "3564514489713200031",
+                    "size": "1109180987",
+                    "download": "1045790896"
+                }
+            },
+            "decryptionkey": "28029911b40fefbac8174cd11e934fc3da3c6616c88685170ce5fea9c97c5868"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18947835",
+                "timeupdated": "1750483732"
+            }
+        }
+    }
+}
