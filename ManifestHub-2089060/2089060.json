@@ -1,0 +1,42 @@
+{
+    "appid": 2089060,
+    "name": "Furry Boss",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 02:17:56",
+    "change_number": 30001174,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,russian",
+        "2089061": {
+            "manifests": {
+                "public": {
+                    "gid": "7951831516636965866",
+                    "size": "368848726",
+                    "download": "324235392"
+                }
+            },
+            "decryptionkey": "80a1224a2ac96b4e0d6f4e30d9164f465b4da1e8d355fc0c9f7f7a3b777a0066"
+        },
+        "2089062": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5295548429288781342",
+                    "size": "371846920",
+                    "download": "327135648"
+                }
+            },
+            "decryptionkey": "a532c93a333236a31fe683d4b7e10e9794693f844b06b9923ae952424d11b5ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13767900",
+                "timeupdated": "1710700913"
+            }
+        }
+    }
+}
