@@ -1,0 +1,27 @@
+{
+    "appid": 3147550,
+    "name": "Over Heroes",
+    "type": "Game",
+    "schinese_name": "守望联盟",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 22:42:58",
+    "change_number": 29508359,
+    "depot": {
+        "3147551": {
+            "manifests": {
+                "public": {
+                    "gid": "3844362927216996194",
+                    "size": "2632042546",
+                    "download": "922221840"
+                }
+            },
+            "decryptionkey": "dadbd0f5a301439ee8f566f4a8bfbc3c0a72006e3133e57acb9af3d8ec28136f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18825793",
+                "timeupdated": "1749649415"
+            }
+        }
+    }
+}
