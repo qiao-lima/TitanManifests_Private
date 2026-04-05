@@ -1,0 +1,28 @@
+{
+    "appid": 2850080,
+    "name": "Heads Will Roll: Reforged - Not a Hero",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:36:50",
+    "change_number": 29701461,
+    "depot": {
+        "2850080": {
+            "manifests": {
+                "public": {
+                    "gid": "4247576309731664467",
+                    "size": "2243416",
+                    "download": "2242608"
+                }
+            },
+            "dlcappid": "2850080",
+            "decryptionkey": "e79ad69cab8dde1b709cffe60fffc9031966e1939847a039a16359ca70109903"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14467167",
+                "timeupdated": "1716460959"
+            }
+        }
+    }
+}
