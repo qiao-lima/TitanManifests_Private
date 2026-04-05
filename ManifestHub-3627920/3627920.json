@@ -1,0 +1,28 @@
+{
+    "appid": 3627920,
+    "name": "The Mirror's Edge 鏡界",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 13:11:51",
+    "change_number": 29910094,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "3627921": {
+            "manifests": {
+                "public": {
+                    "gid": "5925975256976608885",
+                    "size": "2665662015",
+                    "download": "1135408576"
+                }
+            },
+            "decryptionkey": "dd95031cde6b7b00bb437be56e5cfdb1d21c55af3752bd33ce26c8e23af68ac0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18776800",
+                "timeupdated": "1749289711"
+            }
+        }
+    }
+}
