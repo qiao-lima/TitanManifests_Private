@@ -1,0 +1,46 @@
+{
+    "appid": 2343790,
+    "name": "A Little to the Left: Cupboards & Drawers",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 20:08:32",
+    "change_number": 29793366,
+    "depot": {
+        "2343791": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1813266626795120628",
+                    "size": "937256916",
+                    "download": "816501856"
+                }
+            },
+            "dlcappid": "2343790",
+            "decryptionkey": "bca36b3144693458d85d458757a3b8ca728a9424fe307fd360cd81fa98efa882"
+        },
+        "2343792": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5567435932420847168",
+                    "size": "898124654",
+                    "download": "782261680"
+                }
+            },
+            "dlcappid": "2343790",
+            "decryptionkey": "25252034054079c81f78613eb721fe19652a6a90e7dbccc71b6f155fdc717355"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14589446",
+                "timeupdated": "1719327779"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
