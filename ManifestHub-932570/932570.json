@@ -1,0 +1,32 @@
+{
+    "appid": 932570,
+    "name": "阿比斯的宝藏 - Treasure of abyss",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 23:19:51",
+    "change_number": 29447169,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "932571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7225668485212584580",
+                    "size": "1048082693",
+                    "download": "872094368"
+                }
+            },
+            "decryptionkey": "0293f8e1c6d72b534903b2765a722c971b2077b5414d0a585ba500847f63de49"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7664058",
+                "timeupdated": "1636121125"
+            }
+        }
+    }
+}
