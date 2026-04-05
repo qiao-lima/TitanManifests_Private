@@ -1,0 +1,49 @@
+{
+    "appid": 1708320,
+    "name": "GRAPPIN",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 08:12:13",
+    "change_number": 29944085,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1708321": {
+            "manifests": {
+                "public": {
+                    "gid": "4704590552085562452",
+                    "size": "4417516041",
+                    "download": "4211199424"
+                }
+            },
+            "decryptionkey": "3474a468bad9765dbb30ac07793196f0447b7778e42e9fbdce5ebb0f942ed7cc"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "15480314",
+                "timeupdated": "1724488141"
+            }
+        }
+    }
+}
