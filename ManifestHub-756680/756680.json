@@ -1,0 +1,30 @@
+{
+    "appid": 756680,
+    "name": "Angelo Skate Away",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 09:00:19",
+    "change_number": 29964228,
+    "depot": {
+        "756681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "687259209636910559",
+                    "size": "599388330",
+                    "download": "89489968"
+                }
+            },
+            "decryptionkey": "2f9eb1daa55a190dcc8fbaf53decba7da5bd3df4f88ef2cad5e82cc49fef1581"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2471641",
+                "timeupdated": "1516966818"
+            }
+        }
+    }
+}
