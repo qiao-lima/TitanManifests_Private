@@ -1,0 +1,39 @@
+{
+    "appid": 3051470,
+    "name": "Kaya's Prophecy",
+    "type": "Game",
+    "schinese_name": "酋长的野望",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 03:51:44",
+    "change_number": 30142449,
+    "depot": {
+        "3051471": {
+            "manifests": {
+                "public": {
+                    "gid": "2484691943971470103",
+                    "size": "330331709",
+                    "download": "245043280"
+                },
+                "update_beta": {
+                    "gid": "2938291524864656706",
+                    "size": "338122798",
+                    "download": "256171504"
+                }
+            },
+            "decryptionkey": "fd82a12824aaa017fd9f9df79a69c912499fcb6030c97006df6481e8eecd7432"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18425931",
+                "timeupdated": "1747387003"
+            },
+            "update_beta": {
+                "buildid": "19191727",
+                "description": "Public branch for update beta testing",
+                "timeupdated": "1752241541"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 4950010657296042549
+}
