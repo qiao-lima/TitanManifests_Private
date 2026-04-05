@@ -1,0 +1,41 @@
+{
+    "appid": 1652780,
+    "name": "Spectral Ascension",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 06:52:13",
+    "change_number": 30161342,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1652781": {
+            "manifests": {
+                "public": {
+                    "gid": "3800531696182789003",
+                    "size": "1241055513",
+                    "download": "1113721360"
+                }
+            },
+            "decryptionkey": "b37f5a11fbfe2c3dbfe2f34e996b7e66af4443bb01916c91cfb08b3296402bcf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6922873",
+                "timeupdated": "1624488578"
+            }
+        }
+    }
+}
