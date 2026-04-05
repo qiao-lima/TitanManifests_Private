@@ -1,0 +1,31 @@
+{
+    "appid": "583660",
+    "type": "Game",
+    "name": "Dark Project",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23064641",
+    "update_time": "2024-08-28 11:58:59",
+    "depot": {
+        "583661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7727168576848333577",
+                    "size": "488665002",
+                    "download": "231823760"
+                }
+            },
+            "decryptionkey": "9161c2edc861ad7e74181a13a8beff3b6be930c2d6256932f60fd4631c9c418d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1596093",
+                "timeupdated": "1485574186"
+            }
+        }
+    },
+    "access_token": 7993876567924949007
+}
