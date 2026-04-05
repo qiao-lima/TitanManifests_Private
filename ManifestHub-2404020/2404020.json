@@ -1,0 +1,27 @@
+{
+    "appid": 2404020,
+    "name": "Spellfield",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 12:13:59",
+    "change_number": 29580486,
+    "depot": {
+        "2404021": {
+            "manifests": {
+                "public": {
+                    "gid": "4017910572382697325",
+                    "size": "229213566",
+                    "download": "129215104"
+                }
+            },
+            "decryptionkey": "ec9a01cb9123c87e7aa99b91465d3f9d392eb6bad451306b4ba27dd096d88f55"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12511482",
+                "timeupdated": "1698069039"
+            }
+        }
+    }
+}
