@@ -1,0 +1,33 @@
+{
+    "appid": 3191030,
+    "name": "Nubby's Number Factory",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 04:10:58",
+    "change_number": 30218978,
+    "depot": {
+        "baselanguages": "english",
+        "3191032": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5802904218712958066",
+                    "size": "216617847",
+                    "download": "173580592"
+                }
+            },
+            "decryptionkey": "fe1f138f1cbca290e8c586f5e6bab023a77a3e86abeeb58de673d1530ad5dc69"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19196107",
+                "timeupdated": "1752265944"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
