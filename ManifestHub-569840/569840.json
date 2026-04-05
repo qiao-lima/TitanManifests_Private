@@ -1,0 +1,32 @@
+{
+    "appid": "569840",
+    "type": "Game",
+    "name": "FBI MANIA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:19:15",
+    "depot": {
+        "baselanguages": "english",
+        "569841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3063899059038531914",
+                    "size": "20517149",
+                    "download": "18207184"
+                }
+            },
+            "decryptionkey": "a8200d8d72f0f075245a94d5291399c12952a73f7e189a05e36ad1b00148b5cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1596636",
+                "timeupdated": "1485618291"
+            }
+        }
+    },
+    "access_token": 58900969742626372
+}
