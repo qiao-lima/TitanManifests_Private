@@ -1,0 +1,71 @@
+{
+    "appid": 2983140,
+    "name": "无罪之庭/Trials of Innocence",
+    "type": "Game",
+    "schinese_name": "无罪之庭",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 22:33:37",
+    "change_number": 30077508,
+    "depot": {
+        "2983141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1577566424263372471",
+                    "size": "1418417479",
+                    "download": "984048016"
+                },
+                "1.2.2.510_release": {
+                    "gid": "1037714691113192975",
+                    "size": "1418415649",
+                    "download": "984143312"
+                },
+                "1.2.2.508_release": {
+                    "gid": "9073105968489174229",
+                    "size": "1404982752",
+                    "download": "974044048"
+                },
+                "1.2.1.507_release": {
+                    "gid": "1599171335840013280",
+                    "size": "1404657350",
+                    "download": "973732080"
+                },
+                "1.2.0.506_release": {
+                    "gid": "3336956025245640733",
+                    "size": "1404248310",
+                    "download": "973417056"
+                }
+            },
+            "decryptionkey": "e5c1c6fcbc504b4de16dc3c37c6992c4d18c6333676321a396808c3d27682714"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18618782",
+                "timeupdated": "1748314044"
+            },
+            "1.2.2.510_release": {
+                "buildid": "18382564",
+                "description": "不出错的版本",
+                "timeupdated": "1748248954"
+            },
+            "1.2.2.508_release": {
+                "buildid": "17885990",
+                "description": "2025.03.27",
+                "timeupdated": "1743344329"
+            },
+            "1.2.1.507_release": {
+                "buildid": "17870868",
+                "description": "2025.03.27",
+                "timeupdated": "1743091874"
+            },
+            "1.2.0.506_release": {
+                "buildid": "17855589",
+                "description": "2025.03.26",
+                "timeupdated": "1743010236"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
