@@ -1,0 +1,44 @@
+{
+    "appid": 1626600,
+    "name": "桃夭塔 Taoyaota",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:14:24",
+    "change_number": 30203025,
+    "depot": {
+        "1626601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5870371573027327134",
+                    "size": "547666484",
+                    "download": "351980176"
+                }
+            },
+            "decryptionkey": "005e2060ac3c123c97f0bfecfb5e2c86c5ac336a1425a6778cdec6479a9f2de3"
+        },
+        "1626602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7380769210447887130",
+                    "size": "892340292",
+                    "download": "359387024"
+                }
+            },
+            "decryptionkey": "2c49b6872a7b91a1aded8580657b6ba9d178add44ae5b8b887ecea33c0e5fe69"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "6902431",
+                "timeupdated": "1624223675"
+            }
+        }
+    }
+}
