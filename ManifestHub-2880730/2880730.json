@@ -1,0 +1,132 @@
+{
+    "appid": 2880730,
+    "name": "AI2U: With You 'Til The End",
+    "type": "Game",
+    "schinese_name": " AI2U: 与你直到世界尽头 ~ 我的病娇猫娘AI女友",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 14:18:07",
+    "change_number": 30186619,
+    "depot": {
+        "baselanguages": "english,schinese,japanese,latam",
+        "2880731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2694679400182609137",
+                    "size": "5235716458",
+                    "download": "1891937888"
+                },
+                "beta": {
+                    "gid": "1985075007229863822",
+                    "size": "5789859854",
+                    "download": "1891984816"
+                }
+            },
+            "decryptionkey": "e2ca87b16b3ac8c52ccd235d0e58670b6d208f1fa79f280ba0b72586dc36340a"
+        },
+        "2880733": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7373985760323859729",
+                    "size": "5235717922",
+                    "download": "1850623504"
+                },
+                "beta": {
+                    "gid": "4346018405513704394",
+                    "size": "5197142130",
+                    "download": "1827855824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2880732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5834248611663505921",
+                    "size": "5889169475",
+                    "download": "1934447664"
+                },
+                "beta": {
+                    "gid": "5834248611663505921",
+                    "size": "5889169475",
+                    "download": "1934447664"
+                }
+            }
+        },
+        "2880734": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6894365130046304479",
+                    "size": "5235717922",
+                    "download": "2012475216"
+                },
+                "beta": {
+                    "gid": "6551489654597419812",
+                    "size": "5789824614",
+                    "download": "2012463136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2880735": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6434839406390977681",
+                    "size": "5905947399",
+                    "download": "2057765488"
+                },
+                "beta": {
+                    "gid": "6434839406390977681",
+                    "size": "5905947399",
+                    "download": "2057765488"
+                }
+            }
+        },
+        "2880736": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3572453467238262337",
+                    "size": "5905947399",
+                    "download": "1984967504"
+                },
+                "beta": {
+                    "gid": "3572453467238262337",
+                    "size": "5905947399",
+                    "download": "1984967504"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19203077",
+                "timeupdated": "1752346186"
+            },
+            "beta": {
+                "buildid": "19267390",
+                "description": "beta branch",
+                "timeupdated": "1752795994"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
