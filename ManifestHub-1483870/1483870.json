@@ -1,0 +1,61 @@
+{
+    "appid": 1483870,
+    "name": "Draw & Guess",
+    "type": "Game",
+    "schinese_name": "Draw & Guess - 你画我猜",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 13:14:22",
+    "change_number": 29842191,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese",
+        "1483871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7875787135879155335",
+                    "size": "853324729",
+                    "download": "569797024"
+                }
+            },
+            "decryptionkey": "3e39df44a18dd1013bc7a6a9fcb645852308303acb9901fca0686753cd371508"
+        },
+        "1483872": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3874756353407861100",
+                    "size": "878888783",
+                    "download": "565850960"
+                }
+            },
+            "decryptionkey": "6b21827b939f59ad3d9eda1d3059d61b71712e7d456d0d3a97fbb37956ee87c6"
+        },
+        "1483873": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8445468756880081379",
+                    "size": "834622222",
+                    "download": "564889008"
+                }
+            },
+            "decryptionkey": "42b18e61776276b0d3cd1bbb0ddde9c35284f6cdc57a88fd55c8f20cd3d78660"
+        },
+        "workshopdepot": "1483870",
+        "branches": {
+            "public": {
+                "buildid": "19064789",
+                "timeupdated": "1751372056"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "546615c12ff0cd0f8ec72ea33c332f3b2014f3dbd02940fe312ab327934d6258"
+    },
+    "access_token": 4024649994957616606
+}
