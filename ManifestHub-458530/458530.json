@@ -1,0 +1,30 @@
+{
+    "appid": 458530,
+    "name": "Epistory - OST",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 18:37:39",
+    "change_number": 29280027,
+    "depot": {
+        "458530": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4593707658912460841",
+                    "size": "295283161",
+                    "download": "297735424"
+                }
+            },
+            "decryptionkey": "f7e9d2eb7dbb49c90d5e3be89b54afeff9a9300df3c77045687627da4785f436"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4573731",
+                "timeupdated": "1579112890"
+            }
+        }
+    }
+}
