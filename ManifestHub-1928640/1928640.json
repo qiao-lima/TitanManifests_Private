@@ -1,0 +1,28 @@
+{
+    "appid": 1928640,
+    "name": "无尽大陆",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 22:58:42",
+    "change_number": 29998209,
+    "depot": {
+        "1928641": {
+            "manifests": {
+                "public": {
+                    "gid": "8507966413642172070",
+                    "size": "369379313",
+                    "download": "297961152"
+                }
+            },
+            "decryptionkey": "01b0c20c03842fddf8cd3366302265ce11d3542041cb5f868b70dabcc9253fa5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8681251",
+                "timeupdated": "1651721841"
+            }
+        }
+    },
+    "access_token": 426124578538090438
+}
