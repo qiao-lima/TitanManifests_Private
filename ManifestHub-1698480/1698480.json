@@ -1,0 +1,27 @@
+{
+    "appid": 1698480,
+    "name": "A Sex Slave's  Love Story",
+    "type": "Game",
+    "schinese_name": "性奴隶志愿少女 ",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 15:25:21",
+    "change_number": 29663378,
+    "depot": {
+        "1698481": {
+            "manifests": {
+                "public": {
+                    "gid": "4724781007819820292",
+                    "size": "353477893",
+                    "download": "219373408"
+                }
+            },
+            "decryptionkey": "fe729519dca0a21922206f7dd838622615dddb551429997e6eb43acfb5d28f7e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10627416",
+                "timeupdated": "1677225677"
+            }
+        }
+    }
+}
