@@ -1,0 +1,31 @@
+{
+    "appid": 1459970,
+    "name": "Those Who Remain - Lights Out Comic",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-24 03:52:07",
+    "change_number": 26201212,
+    "depot": {
+        "1459970": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "838880987910362193",
+                    "size": "466096905",
+                    "download": "218400192"
+                }
+            },
+            "dlcappid": "1459970",
+            "decryptionkey": "f4c864ee25e7d40c5edaa80b581ad59be773d2f9c7c67887c79f1da932be7e54"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5748160",
+                "timeupdated": "1603880831"
+            }
+        }
+    }
+}
