@@ -1,0 +1,52 @@
+{
+    "appid": 285290,
+    "name": "Little Pink Best Buds Prototype",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:28:09",
+    "change_number": 30057887,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "285291": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "459165502222461660",
+                    "size": "307530676",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "dc9a38e29b1a1e2b2ceb5088290da067d15155c6dbbc0642dba2edfd74d6f86c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "208181"
+            }
+        }
+    }
+}
