@@ -1,0 +1,72 @@
+{
+    "appid": 1290,
+    "name": "Darkest Hour: Europe '44-'45 Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 10:47:52",
+    "change_number": 30164250,
+    "depot": {
+        "overridescddb": "1",
+        "1281": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5775344916275395542",
+                    "size": "10852570755",
+                    "download": "3106487584"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "4376981082077672751",
+                    "size": "2130157052",
+                    "download": "627444112"
+                },
+                "previous": {
+                    "gid": "5786003204048175177",
+                    "size": "10353224478",
+                    "download": "2842788496"
+                }
+            },
+            "depotfromapp": "1280",
+            "decryptionkey": "138734b199283e7885c9608a0e3084ee8dfd76197283503c8d34fe3be62b77f4"
+        },
+        "1291": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5742532375255249221",
+                    "size": "2621911901",
+                    "download": "1123807904"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "3431600298929727963",
+                    "size": "794647",
+                    "download": "254192"
+                },
+                "previous": {
+                    "gid": "5803402660365387711",
+                    "size": "2066093291",
+                    "download": "904388384"
+                }
+            },
+            "decryptionkey": "7c4a5055dd1b27cad7360b9172a473af3a4c0c8f8b12ce9b0070b8e66936d6ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19298036",
+                "timeupdated": "1753091244"
+            },
+            "legacy-v6.0.0": {
+                "buildid": "1026294",
+                "description": "v6.0.0",
+                "timeupdated": "1677240195"
+            },
+            "previous": {
+                "buildid": "16273989",
+                "description": "Last good build",
+                "timeupdated": "1752217964"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
