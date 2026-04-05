@@ -1,0 +1,31 @@
+{
+    "appid": 1605950,
+    "name": "太空战舰",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 18:21:33",
+    "change_number": 30016733,
+    "depot": {
+        "1605951": {
+            "manifests": {
+                "public": {
+                    "gid": "5229942473515849672",
+                    "size": "402672018",
+                    "download": "90960336"
+                }
+            },
+            "decryptionkey": "49b8e8fd9f3884cc149dc5ea81ff7772787a99bb08833b821db98f11e58ea31f"
+        },
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "workshopdepot": "1605950",
+        "branches": {
+            "public": {
+                "buildid": "19194275",
+                "timeupdated": "1752254485"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
