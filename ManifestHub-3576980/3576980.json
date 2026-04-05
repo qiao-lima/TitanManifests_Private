@@ -1,0 +1,31 @@
+{
+    "appid": 3576980,
+    "name": "encrypted_nightmares",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 00:33:26",
+    "change_number": 29958703,
+    "depot": {
+        "3576981": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6108991487189085027",
+                    "size": "10684417214",
+                    "download": "10646070544"
+                }
+            },
+            "decryptionkey": "2849b9e1910703cbcbb88dcb397973a987542a559e6261757b01d155b35e13ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18127626",
+                "timeupdated": "1744801945"
+            }
+        }
+    }
+}
