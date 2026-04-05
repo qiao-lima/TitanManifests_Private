@@ -1,0 +1,40 @@
+{
+    "appid": 614890,
+    "name": "Cuit",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-01 16:25:57",
+    "change_number": 29309176,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "614891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9147586980819594461",
+                    "size": "68104528",
+                    "download": "41725728"
+                }
+            },
+            "decryptionkey": "ffc93a4ac85ebcd6214ce0fda44e1a7711168c0fbc165ba4aabdbd0708945736"
+        },
+        "hasdepotsindlc": "1",
+        "workshopdepot": "614890",
+        "branches": {
+            "public": {
+                "buildid": "1807699",
+                "timeupdated": "1494268772"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
