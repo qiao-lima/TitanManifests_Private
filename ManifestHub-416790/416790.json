@@ -1,0 +1,196 @@
+{
+    "appid": 416790,
+    "name": "The Metronomicon: Slay The Dance Floor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 06:32:45",
+    "change_number": 29836172,
+    "depot": {
+        "workshopdepot": "416790",
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,brazilian",
+        "416791": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5912236288519290104",
+                    "size": "2192002603",
+                    "download": "751034688"
+                },
+                "songeditorincluded": {
+                    "gid": "4407866237562589617",
+                    "size": "4384001874",
+                    "download": "754523776"
+                }
+            },
+            "decryptionkey": "16084710a2ffbb869600b56705cd8e0b927070752d6463572a66b800a28da4c6"
+        },
+        "416792": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5333852346939167936",
+                    "size": "2221321564",
+                    "download": "761530144"
+                },
+                "songeditorincluded": {
+                    "gid": "5333852346939167936",
+                    "size": "2221321564",
+                    "download": "761530144"
+                }
+            },
+            "decryptionkey": "917d9a1748c5eca8e49b737cbaa89ad46102ba4c3ef48bfd8fa62f06fc56c2b2"
+        },
+        "509090": {
+            "dlcappid": "509090",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5248695457098318972",
+                    "size": "122561527",
+                    "download": "122336336"
+                },
+                "songeditorincluded": {
+                    "gid": "5248695457098318972",
+                    "size": "122561527",
+                    "download": "122336336"
+                }
+            },
+            "decryptionkey": "f273a00d48f0c140b3ff78e1393836c14ce102167b06641b0af80591b087f95f"
+        },
+        "522651": {
+            "dlcappid": "522651",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5798862463837564397",
+                    "size": "13036288",
+                    "download": "12799360"
+                },
+                "songeditorincluded": {
+                    "gid": "5798862463837564397",
+                    "size": "13036288",
+                    "download": "12799360"
+                }
+            },
+            "decryptionkey": "e2a9aea49d0c5e335893b4c0c4b38f72da9b1c48677283d47472e32da5b69aaa"
+        },
+        "522650": {
+            "dlcappid": "522650",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "108643824505281268",
+                    "size": "14661954",
+                    "download": "14336112"
+                },
+                "songeditorincluded": {
+                    "gid": "108643824505281268",
+                    "size": "14661954",
+                    "download": "14336112"
+                }
+            },
+            "decryptionkey": "ae47688236dc8b3141537fad12a350462c7f75f574cc8ceab85ac69d5d0e43d1"
+        },
+        "522652": {
+            "dlcappid": "522652",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1322274412146071746",
+                    "size": "14262310",
+                    "download": "13807024"
+                },
+                "songeditorincluded": {
+                    "gid": "1322274412146071746",
+                    "size": "14262310",
+                    "download": "13807024"
+                }
+            },
+            "decryptionkey": "8bd9747a0b260c02875d21237cdea041f2d7d5a0eff3c8dcc6fea322172e2227"
+        },
+        "558290": {
+            "dlcappid": "558290",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5222478475686752889",
+                    "size": "15064490",
+                    "download": "14840224"
+                },
+                "songeditorincluded": {
+                    "gid": "5222478475686752889",
+                    "size": "15064490",
+                    "download": "14840224"
+                }
+            },
+            "decryptionkey": "7a94269af5438ad147f7259026575e73aea84b43138d8dbd861386f98b8c5b0e"
+        },
+        "567900": {
+            "dlcappid": "567900",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1095823283207358831",
+                    "size": "4837322",
+                    "download": "4719168"
+                },
+                "songeditorincluded": {
+                    "gid": "1095823283207358831",
+                    "size": "4837322",
+                    "download": "4719168"
+                }
+            },
+            "decryptionkey": "15f58ee8c7e37a5c77efffeff57c600b60f7bb728ca50f56b44920e5b3008c22"
+        },
+        "674670": {
+            "dlcappid": "674670",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1218971481811290258",
+                    "size": "13391414",
+                    "download": "13199584"
+                },
+                "songeditorincluded": {
+                    "gid": "1218971481811290258",
+                    "size": "13391414",
+                    "download": "13199584"
+                }
+            },
+            "decryptionkey": "e3151a3169572d76df5973d6726ebd83e4f43248d915132d47b5dc8e0e258935"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12944577",
+                "timeupdated": "1704474718"
+            },
+            "songeditorincluded": {
+                "buildid": "12944678",
+                "description": "Includes the Song Editor! Make your own tracks!  Doubles the download file size.",
+                "timeupdated": "1702774501"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
