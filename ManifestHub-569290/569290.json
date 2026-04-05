@@ -1,0 +1,43 @@
+{
+    "appid": 569290,
+    "name": "Metamorfose S",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 06:13:39",
+    "change_number": 30199769,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,brazilian",
+        "569291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3171126924937078185",
+                    "size": "239293568",
+                    "download": "164184112"
+                }
+            },
+            "decryptionkey": "21b51041a3f6156999241b29a050b2c33873f0258def3388d6e9c22e1d2a203c"
+        },
+        "569292": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3246562",
+                "timeupdated": "1540475479"
+            }
+        }
+    }
+}
