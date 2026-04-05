@@ -1,0 +1,55 @@
+{
+    "appid": 842980,
+    "name": "Dungeon Crusher: Soul Hunters",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 15:35:51",
+    "change_number": 30112788,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "",
+        "842982": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8357858104747296461",
+                    "size": "326883684",
+                    "download": "178307264"
+                }
+            },
+            "decryptionkey": "06e70e508ecb330cc9dd11b53609d2f11b8d98da9541f21e5c4f92dd936dc2be"
+        },
+        "842983": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2942049278364048159",
+                    "size": "613411420",
+                    "download": "216915232"
+                }
+            },
+            "decryptionkey": "cd6f00c971b9bb7541015e71611a7be52c275b7545db8563090c3c2055547415"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19091288",
+                "timeupdated": "1751548444"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
