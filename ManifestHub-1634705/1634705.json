@@ -1,0 +1,28 @@
+{
+    "appid": 1634705,
+    "name": "SAMURAI WARRIORS 5 - Additional Weapon Set 3",
+    "type": "DLC",
+    "schinese_name": "战国无双５ - 追加武器组合3",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:15:35",
+    "change_number": 26201212,
+    "depot": {
+        "1634705": {
+            "manifests": {
+                "public": {
+                    "gid": "7343416453991975207",
+                    "size": "524",
+                    "download": "352"
+                }
+            },
+            "dlcappid": "1634705",
+            "decryptionkey": "d011b496b68e023975f77d637fcbb90644ef32fda9a39ca8104278b7c2498c2e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6933389",
+                "timeupdated": "1624627050"
+            }
+        }
+    }
+}
