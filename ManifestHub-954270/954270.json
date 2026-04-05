@@ -1,0 +1,45 @@
+{
+    "appid": 954270,
+    "name": "LOGistICAL 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 05:38:24",
+    "change_number": 29596158,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "954271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2789923906463387863",
+                    "size": "338688103",
+                    "download": "229613456"
+                }
+            },
+            "decryptionkey": "452ef0ab53bffd10683370dd67bdc15910b8c6fc164580d6149a70ff412a3d0c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7711923",
+                "timeupdated": "1637107742"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
