@@ -1,0 +1,28 @@
+{
+    "appid": 2653530,
+    "name": "No.HazedHeart",
+    "type": "Game",
+    "schinese_name": "迷途少女",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:18:01",
+    "change_number": 29675107,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2653531": {
+            "manifests": {
+                "public": {
+                    "gid": "5349464402269708474",
+                    "size": "559264259",
+                    "download": "69231424"
+                }
+            },
+            "decryptionkey": "5c68a3811fd3a89054f8d12192561936bed692b0fed6067081708c2c23043f49"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13445440",
+                "timeupdated": "1707843085"
+            }
+        }
+    }
+}
