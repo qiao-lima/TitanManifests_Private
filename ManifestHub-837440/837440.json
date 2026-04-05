@@ -1,0 +1,27 @@
+{
+    "appid": 837440,
+    "name": "MineSweep",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 15:37:49",
+    "change_number": 29602994,
+    "depot": {
+        "837441": {
+            "manifests": {
+                "public": {
+                    "gid": "3402883575251739830",
+                    "size": "79048109",
+                    "download": "15918416"
+                }
+            },
+            "decryptionkey": "7de7d2e7bff27af3820c7f62f2d072076fa30b6ab36df404e456266a84b06312"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2696091",
+                "timeupdated": "1523972173"
+            }
+        }
+    }
+}
