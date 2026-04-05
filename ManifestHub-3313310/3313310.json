@@ -1,0 +1,30 @@
+{
+    "appid": 3313310,
+    "name": "Fishing The Abyss",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 12:37:09",
+    "change_number": 30109416,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "3313311": {
+            "manifests": {
+                "public": {
+                    "gid": "1652460264299074625",
+                    "size": "317588390",
+                    "download": "205379280"
+                }
+            },
+            "decryptionkey": "24aefdfd75079cd737d52974848e0578283933d6fe98ea1fa58d63ec52390411"
+        },
+        "3313312": {},
+        "branches": {
+            "public": {
+                "buildid": "18575014",
+                "timeupdated": "1747964654"
+            }
+        }
+    }
+}
