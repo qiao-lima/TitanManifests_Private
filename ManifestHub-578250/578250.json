@@ -1,0 +1,32 @@
+{
+    "appid": "578250",
+    "type": "Game",
+    "name": "Invention",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24143171",
+    "update_time": "2024-08-14 19:20:05",
+    "depot": {
+        "baselanguages": "english,russian",
+        "578251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2065092625828202875",
+                    "size": "1003362617",
+                    "download": "316168000"
+                }
+            },
+            "decryptionkey": "b619d2e87964005e74c1ff52bede51c718fb944c998c964de091ae95f52d1934"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1554423",
+                "timeupdated": "1483695553"
+            }
+        }
+    },
+    "access_token": 11666596458872346729
+}
