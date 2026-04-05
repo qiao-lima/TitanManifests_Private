@@ -1,0 +1,42 @@
+{
+    "appid": 1203190,
+    "name": "Wreckfest 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 20:51:47",
+    "change_number": 30157348,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1203191": {
+            "manifests": {
+                "public": {
+                    "gid": "6437065186557454958",
+                    "size": "13467647758",
+                    "download": "11601631616"
+                }
+            },
+            "decryptionkey": "46aa2b5ac9dd960c2fb3808c8033df048fede7062052f754db267609ecbef621"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19103800",
+                "timeupdated": "1751634001"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
