@@ -1,0 +1,61 @@
+{
+    "appid": 2285150,
+    "name": "The Front",
+    "type": "Game",
+    "schinese_name": "The Front 前线",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:15:11",
+    "change_number": 30206948,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2285151": {
+            "manifests": {
+                "public": {
+                    "gid": "5845457189695850251",
+                    "size": "61280732576",
+                    "download": "57699809344"
+                },
+                "alphatest": {
+                    "gid": "6988211777354709742",
+                    "size": "61481226467",
+                    "download": "57836080448"
+                }
+            },
+            "decryptionkey": "1e7de60c1cc825964d43eb37232a95b15b7638fcd507b51001fa869d0a6fc67f"
+        },
+        "workshopdepot": "2285150",
+        "branches": {
+            "public": {
+                "buildid": "19254272",
+                "timeupdated": "1752824414"
+            },
+            "alphatest": {
+                "buildid": "19198890",
+                "description": "Alphatest",
+                "timeupdated": "1752469810"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c25d9562d9a08deb3661a3d396e2b6d0b6d2796b53e02e4023068781c500f0af"
+    }
+}
