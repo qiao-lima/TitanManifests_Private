@@ -1,0 +1,69 @@
+{
+    "appid": 575870,
+    "name": "Call to 10",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:11:59",
+    "change_number": 30056460,
+    "depot": {
+        "baselanguages": "",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "575871": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8177359998691616402",
+                    "size": "597460553",
+                    "download": "157203728"
+                }
+            },
+            "decryptionkey": "ea055c0403db6828378bfc5b03bf17d79a040851b5aa964e306f271aaae79143"
+        },
+        "575872": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7168843013404709580",
+                    "size": "588881877",
+                    "download": "156968592"
+                }
+            },
+            "decryptionkey": "880b393761bad9b8ef3dc5d1843d3226f018dbf400de0365a4e888eba7afc9f1"
+        },
+        "575873": {},
+        "575874": {
+            "config": {
+                "language": "koreana",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2935409234438011397",
+                    "size": "587236723",
+                    "download": "155730112"
+                }
+            },
+            "decryptionkey": "8b1f264c569bcc6fe71d9e6047acce3557ef2c318c9f27cc7aa65458799d4ec9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1671081",
+                "timeupdated": "1488806928"
+            }
+        }
+    },
+    "access_token": 4189051746740258616
+}
