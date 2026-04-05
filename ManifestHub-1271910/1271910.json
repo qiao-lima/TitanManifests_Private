@@ -1,0 +1,77 @@
+{
+    "appid": 1271910,
+    "name": "Baby Dino Adventures",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 15:40:03",
+    "change_number": 29951289,
+    "depot": {
+        "baselanguages": "english,german,french,brazilian",
+        "1271912": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4213761611242498578",
+                    "size": "676209335",
+                    "download": "239028752"
+                },
+                "development": {
+                    "gid": "4213761611242498578",
+                    "size": "676209335",
+                    "download": "239028752"
+                }
+            },
+            "decryptionkey": "1e62c2e65a9ff69ea2d1399c5aed39fb96a82b5aad5a755ac126757632dc3283"
+        },
+        "1271913": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3961882958592605698",
+                    "size": "781740170",
+                    "download": "223706864"
+                },
+                "development": {
+                    "gid": "3961882958592605698",
+                    "size": "781740170",
+                    "download": "223706864"
+                }
+            },
+            "decryptionkey": "959402dbd1e4ca19755febdca04c2647608b4a302c35c1f35a4ab5567e639bcd"
+        },
+        "1271914": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4405659296532677416",
+                    "size": "900178141",
+                    "download": "261216768"
+                },
+                "development": {
+                    "gid": "4405659296532677416",
+                    "size": "900178141",
+                    "download": "261216768"
+                }
+            },
+            "decryptionkey": "a7b39868508da79f8f4744e7b7129631bdc025a690d439f2db9a62ab3477da33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18836994",
+                "timeupdated": "1749718949"
+            },
+            "development": {
+                "buildid": "18836994",
+                "description": "Test branch",
+                "timeupdated": "1749714744"
+            }
+        }
+    }
+}
