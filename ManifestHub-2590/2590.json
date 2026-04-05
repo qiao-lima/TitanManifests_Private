@@ -1,0 +1,28 @@
+{
+    "appid": 2590,
+    "name": "Alpha Prime",
+    "type": "Game",
+    "schinese_name": "最后生机",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 20:05:24",
+    "change_number": 29235264,
+    "depot": {
+        "2591": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1092702747643401782",
+                    "size": "1029077701",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3da4558fc210e878149d3134ace5308330ebe6a5f923facc7ca0b4de91a96fe0"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "242380"
+            }
+        }
+    }
+}
