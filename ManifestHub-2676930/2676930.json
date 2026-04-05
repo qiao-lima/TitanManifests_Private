@@ -1,0 +1,44 @@
+{
+    "appid": 2676930,
+    "name": "Rebel Duet",
+    "type": "Game",
+    "schinese_name": "叛逆二重奏",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 06:18:19",
+    "change_number": 30179796,
+    "depot": {
+        "2676931": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4110802869725063401",
+                    "size": "3581363902",
+                    "download": "3393362720"
+                }
+            },
+            "decryptionkey": "b9a943e9928ea24b4f5d60393a9d674f2659937160af72e8c7339dc11f8bce85"
+        },
+        "2676932": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6098911282344468328",
+                    "size": "3691634173",
+                    "download": "3444941648"
+                }
+            },
+            "decryptionkey": "ebca2fa5e9cd29f0e59441b6b08bae2f9d805faf740908ba064c4814fd936882"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18875745",
+                "timeupdated": "1750022551"
+            }
+        }
+    }
+}
