@@ -1,0 +1,33 @@
+{
+    "appid": 1725350,
+    "name": "Mari and Bayu - The Road Home",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 09:35:42",
+    "change_number": 29945295,
+    "depot": {
+        "1725351": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "375663484780909225",
+                    "size": "4922299306",
+                    "download": "1241137248"
+                }
+            },
+            "decryptionkey": "0a68c9554cd30d4ee2a4729674d7b6164cf7f481a4cf3fa045a6e5ff429e22b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19143011",
+                "timeupdated": "1751963735"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
