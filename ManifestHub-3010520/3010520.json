@@ -1,0 +1,43 @@
+{
+    "appid": 3010520,
+    "name": "Pub Sim",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 04:11:22",
+    "change_number": 30218990,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3010521": {
+            "manifests": {
+                "public": {
+                    "gid": "7040893452784042978",
+                    "size": "11208531375",
+                    "download": "8115986320"
+                }
+            },
+            "decryptionkey": "877cf606b46e20683d68b3e173bb538fd5711121346035a798c28478abfeffcd"
+        },
+        "baselanguages": "english,hungarian",
+        "branches": {
+            "public": {
+                "buildid": "18110702",
+                "timeupdated": "1744721992"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
