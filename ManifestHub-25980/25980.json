@@ -1,0 +1,171 @@
+{
+    "appid": 25980,
+    "name": "Majesty 2",
+    "type": "Game",
+    "schinese_name": "王权2：幻想王国",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 15:51:34",
+    "change_number": 30147167,
+    "depot": {
+        "73071": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6252479094991448780",
+                    "size": "290673866",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "73071",
+            "decryptionkey": "bc67ed51b767ed3976327e6f9804b9c60a00121c41204a2395ef77fa75726838"
+        },
+        "73041": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6847122960154494987",
+                    "size": "517117077",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "73041",
+            "decryptionkey": "458285a6b6ecb8fcd05f6cf52fd701dec1ccc91e89e783bbe9a40f1fa3331815"
+        },
+        "25981": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4276883000032915546",
+                    "size": "1340069461",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "baa3c2b3d3676b5dd00d2c16662a34a2fb79cd544316c6a8050cdadf1491b07a"
+        },
+        "42881": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "9213977251889976785",
+                    "size": "148844168",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "42881",
+            "decryptionkey": "957a4b19768d3633ae373e4d97f418f7af835e3723eaba9643bad4c3f439befe"
+        },
+        "25982": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1133671134943664858",
+                    "size": "897179935",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0e1f85d3be54f04058383fbb227feca49cfd4e523300729a31b6fb5d276faac8"
+        },
+        "25983": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2873992528789546582",
+                    "size": "883093320",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6395675030df94efe94e537b54612e52162ea7e12790c6f5f8cde734cc1c7eca"
+        },
+        "42882": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4243767550038823946",
+                    "size": "145122837",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ca1a450915e4c0607145c3d8ca3d4b3d812f80722afbbb6a5e3e2ba77fa5b10c"
+        },
+        "42883": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7141023552789206538",
+                    "size": "134934499",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b0e506b3d12cd1a09261dd0f7421c9879a1053383e9881eead06c6c823f13e2b"
+        },
+        "73042": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1062396317122468310",
+                    "size": "367985997",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "50235df9ab08ace5f40c4fe5235a91396d05e0457eda948bb4fb731db6052544"
+        },
+        "73043": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5391179831923070699",
+                    "size": "367749132",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "30e0ac32a6538d14e28dd3df9996416a32dbff434897563b65068e6008fc1a71"
+        },
+        "73072": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3641803018976468562",
+                    "size": "227084472",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c8d93b82645b6a6256a121e2ec8dd8d6e665ba0cb92f79972711958cd2ca46f9"
+        },
+        "73073": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6688521327620375743",
+                    "size": "226331702",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "108a7ebe92ba80f6860c27abefb1d3eeeb49419d188c08af29889e25ad16b0de"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "3662"
+            }
+        }
+    }
+}
