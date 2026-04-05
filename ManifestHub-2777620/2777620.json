@@ -1,0 +1,42 @@
+{
+    "appid": 2777620,
+    "name": "Entropy Survivors Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 17:00:48",
+    "change_number": 29745187,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2777621": {
+            "manifests": {
+                "public": {
+                    "gid": "6556285728333658508",
+                    "size": "4399264938",
+                    "download": "3875691648"
+                }
+            },
+            "decryptionkey": "b8883a4b66554946413fcadfb30b1fc5067082a630b4685713a0de1484be0dad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18997706",
+                "timeupdated": "1750867241"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
