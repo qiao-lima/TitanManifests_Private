@@ -1,0 +1,31 @@
+{
+    "appid": 2975030,
+    "name": "Lust Shot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 07:13:04",
+    "change_number": 30033392,
+    "depot": {
+        "2975031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "237602180438544084",
+                    "size": "1091564327",
+                    "download": "191343184"
+                }
+            },
+            "decryptionkey": "b5376faaa3dfbd3d5040efbdc7e544f751d540be86afa609955b5b8e4a254991"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15481256",
+                "timeupdated": "1724503960"
+            }
+        }
+    }
+}
