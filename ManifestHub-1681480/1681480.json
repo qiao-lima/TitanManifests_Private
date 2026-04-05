@@ -1,0 +1,44 @@
+{
+    "appid": 1681480,
+    "name": "The Repairing Mantis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:31:56",
+    "change_number": 29111571,
+    "depot": {
+        "1681481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4806083374407062410",
+                    "size": "2160256587",
+                    "download": "564272336"
+                }
+            },
+            "decryptionkey": "9d36077ca95f083a0e62ff71d9312a0d608b682c14709171749632a7016adeb8"
+        },
+        "1681482": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2792756376215400893",
+                    "size": "2160256587",
+                    "download": "563164848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17271940",
+                "timeupdated": "1738877293"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
