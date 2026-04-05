@@ -1,0 +1,36 @@
+{
+    "appid": 1508030,
+    "name": "Object N",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 10:39:35",
+    "change_number": 29660341,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1508031": {
+            "manifests": {
+                "public": {
+                    "gid": "3250103021992601765",
+                    "size": "1032649280",
+                    "download": "653896176"
+                }
+            },
+            "decryptionkey": "c86864000b986ff74069e89884c1859f662528ec8340d69f4ef67abfc6f3e5c9"
+        },
+        "workshopdepot": "1508030",
+        "branches": {
+            "public": {
+                "buildid": "18934440",
+                "timeupdated": "1750387170"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
