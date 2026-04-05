@@ -1,0 +1,32 @@
+{
+    "appid": 2639380,
+    "name": "The Neverwhere Tales - Book 1",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 08:22:50",
+    "change_number": 29963649,
+    "depot": {
+        "2639381": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6386796019983584436",
+                    "size": "10625726827",
+                    "download": "10468692336"
+                }
+            },
+            "decryptionkey": "e4715cee704fcdd9d3bad0a99cf879f59915d1765bdab3f0f749e5768e3351a0"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18702389",
+                "timeupdated": "1748870524"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
