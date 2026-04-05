@@ -1,0 +1,42 @@
+{
+    "appid": 2179170,
+    "name": "A Tower Full of Cats",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 02:26:51",
+    "change_number": 29378327,
+    "depot": {
+        "2179172": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6009145817390408562",
+                    "size": "715321896",
+                    "download": "650849232"
+                }
+            },
+            "decryptionkey": "23f53d1a9eea8840e76ab0b793ef58979ed88f0ba5a04df0414f69fdf66d15b6"
+        },
+        "2179173": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "487730538997255829",
+                    "size": "724221216",
+                    "download": "653121232"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18736492",
+                "timeupdated": "1749061600"
+            }
+        }
+    }
+}
