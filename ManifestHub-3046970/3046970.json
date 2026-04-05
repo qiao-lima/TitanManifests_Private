@@ -1,0 +1,28 @@
+{
+    "appid": 3046970,
+    "name": "RPG Developer Bakin Charming Chinese Townscape Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:35:19",
+    "change_number": 26201212,
+    "depot": {
+        "3046970": {
+            "manifests": {
+                "public": {
+                    "gid": "2588586647629727343",
+                    "size": "885409991",
+                    "download": "228788608"
+                }
+            },
+            "dlcappid": "3046970",
+            "decryptionkey": "6a81bf583075244cea46ebbcc2a90815fc2f23724c08f6ddb6c9d18fec34272a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14777480",
+                "timeupdated": "1718865728"
+            }
+        }
+    }
+}
