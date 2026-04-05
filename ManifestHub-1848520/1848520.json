@@ -1,0 +1,75 @@
+{
+    "appid": 1848520,
+    "name": "Fruit Salad",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 01:20:31",
+    "change_number": 30121444,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,schinese,japanese,portuguese,latam",
+        "1848522": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4555075618596219308",
+                    "size": "182594936",
+                    "download": "104849280"
+                }
+            },
+            "decryptionkey": "033eed26d3321491ca17de4b222984810a06eb478b9a89bd85ea5861bd42f392"
+        },
+        "1848523": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1698630151338145816",
+                    "size": "169460640",
+                    "download": "100907376"
+                }
+            },
+            "decryptionkey": "fd3a6481bb25c8dd64b041c286b9c50194f5812e8d3f4b2629210a44058890bb"
+        },
+        "1848525": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "863938720579273722",
+                    "size": "182594936",
+                    "download": "104849280"
+                }
+            },
+            "decryptionkey": "47777b6c1295201a984c48980b0d812fd54528de0a465f84355ae804e2c9b86f"
+        },
+        "1848524": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5048274015206768805",
+                    "size": "264243554",
+                    "download": "122080848"
+                }
+            },
+            "decryptionkey": "374b75cf69c0bb31d5da61dafaae6d6c45d8971bc5967d234bbb4ba82f116a2b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16108262",
+                "timeupdated": "1729356720"
+            }
+        }
+    }
+}
