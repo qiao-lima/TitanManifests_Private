@@ -1,0 +1,35 @@
+{
+    "appid": 364250,
+    "name": "XIIZEAL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 08:21:00",
+    "change_number": 29313460,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "364251": {
+            "manifests": {
+                "public": {
+                    "gid": "1220122391276227519",
+                    "size": "34551760",
+                    "download": "32743168"
+                }
+            },
+            "decryptionkey": "c3a6887d62a212388171c1e014cda99eca76d70af536228b8482ab007b3966de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6356291",
+                "timeupdated": "1615797808"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
