@@ -1,0 +1,708 @@
+{
+    "appid": "274920",
+    "type": "Application",
+    "name": "FaceRig",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971154",
+    "update_time": "2025-05-14 09:07:55",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "workshopdepot": "274920",
+        "274921": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6021779526665287571",
+                    "size": "3454622389",
+                    "download": "2874970288"
+                },
+                "multiavatar": {
+                    "gid": "5879188438219162641",
+                    "size": "3809276462",
+                    "download": "2885348096"
+                },
+                "nextversion": {
+                    "gid": "6021779526665287571",
+                    "size": "3454622389",
+                    "download": "2874970288"
+                },
+                "previousversion": {
+                    "gid": "5455265838488544702",
+                    "size": "3809302798",
+                    "download": "2885359808"
+                }
+            },
+            "decryptionkey": "f09a0c980be9150b0a0d3c9bdbfc20b59f5de9976545e417f2d101a576c55804"
+        },
+        "274922": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "315190": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "315190",
+            "manifests": {
+                "public": {
+                    "gid": "5952686382161509885",
+                    "size": "15106048",
+                    "download": "9784464"
+                },
+                "multiavatar": {
+                    "gid": "3819024190380148398",
+                    "size": "15106048",
+                    "download": "9784432"
+                },
+                "nextversion": {
+                    "gid": "5952686382161509885",
+                    "size": "15106048",
+                    "download": "9784464"
+                },
+                "previousversion": {
+                    "gid": "3819024190380148398",
+                    "size": "15106048",
+                    "download": "9784432"
+                }
+            },
+            "decryptionkey": "e3d1f71f5b834925a44471172ea7330d294f92b9ea36d076dbfb5445a4357736"
+        },
+        "321700": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "321700",
+            "manifests": {
+                "public": {
+                    "gid": "1374807515078168050",
+                    "size": "408606720",
+                    "download": "276011472"
+                },
+                "multiavatar": {
+                    "gid": "3951730317341718870",
+                    "size": "408578048",
+                    "download": "275981696"
+                },
+                "nextversion": {
+                    "gid": "1374807515078168050",
+                    "size": "408606720",
+                    "download": "276011472"
+                },
+                "previousversion": {
+                    "gid": "3951730317341718870",
+                    "size": "408578048",
+                    "download": "275981696"
+                }
+            },
+            "decryptionkey": "87fc46a9e9299d337ad14ab4495b8a2525ff8e498d9cee6b6b8b72702abdac82"
+        },
+        "326810": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "326810",
+            "manifests": {
+                "public": {
+                    "gid": "8255112253247044194",
+                    "size": "367978496",
+                    "download": "230948048"
+                },
+                "multiavatar": {
+                    "gid": "6594252010359624747",
+                    "size": "367923200",
+                    "download": "230891808"
+                },
+                "nextversion": {
+                    "gid": "8255112253247044194",
+                    "size": "367978496",
+                    "download": "230948048"
+                },
+                "previousversion": {
+                    "gid": "6594252010359624747",
+                    "size": "367923200",
+                    "download": "230891808"
+                }
+            },
+            "decryptionkey": "9b6f79e38330da1da457d9e9c5720b13e4316e6a08366661ae5fcce5c237d2cf"
+        },
+        "334330": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "334330",
+            "manifests": {
+                "public": {
+                    "gid": "6456335267549417753",
+                    "size": "387340288",
+                    "download": "281219552"
+                },
+                "multiavatar": {
+                    "gid": "7246342329153030511",
+                    "size": "387360768",
+                    "download": "281403792"
+                },
+                "nextversion": {
+                    "gid": "6456335267549417753",
+                    "size": "387340288",
+                    "download": "281219552"
+                },
+                "previousversion": {
+                    "gid": "7246342329153030511",
+                    "size": "387360768",
+                    "download": "281403792"
+                }
+            },
+            "decryptionkey": "ff7b815c4e2f7ca9fa5265c41b745ad6c55c5332237b801323d60d161454860d"
+        },
+        "333790": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "333790",
+            "manifests": {
+                "public": {
+                    "gid": "395483433667139434",
+                    "size": "68579328",
+                    "download": "47545680"
+                },
+                "multiavatar": {
+                    "gid": "8806183789894051447",
+                    "size": "68579328",
+                    "download": "47546352"
+                },
+                "nextversion": {
+                    "gid": "395483433667139434",
+                    "size": "68579328",
+                    "download": "47545680"
+                },
+                "previousversion": {
+                    "gid": "8806183789894051447",
+                    "size": "68579328",
+                    "download": "47546352"
+                }
+            },
+            "decryptionkey": "327e99efd349b25d0c22d1f686a15452b1490aa432c92eccc29cee3cc25e1cb8"
+        },
+        "406190": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "406190",
+            "manifests": {
+                "public": {
+                    "gid": "7961913795072144353",
+                    "size": "563949568",
+                    "download": "355433200"
+                },
+                "multiavatar": {
+                    "gid": "2717561712617520107",
+                    "size": "563924992",
+                    "download": "355398400"
+                },
+                "nextversion": {
+                    "gid": "7961913795072144353",
+                    "size": "563949568",
+                    "download": "355433200"
+                },
+                "previousversion": {
+                    "gid": "2717561712617520107",
+                    "size": "563924992",
+                    "download": "355398400"
+                }
+            },
+            "decryptionkey": "48c1095674af95ad3e6243c613859fc27c82f21e38251a80fe9c6a5767504849"
+        },
+        "414240": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "414240",
+            "manifests": {
+                "public": {
+                    "gid": "970662340245769008",
+                    "size": "47251456",
+                    "download": "37690960"
+                },
+                "multiavatar": {
+                    "gid": "1137633362581688544",
+                    "size": "47251456",
+                    "download": "37691680"
+                },
+                "nextversion": {
+                    "gid": "970662340245769008",
+                    "size": "47251456",
+                    "download": "37690960"
+                },
+                "previousversion": {
+                    "gid": "1137633362581688544",
+                    "size": "47251456",
+                    "download": "37691680"
+                }
+            },
+            "decryptionkey": "c56a4b678281a0d92e3ce80994dcb7e87207320a8179610538a06ed51a0697aa"
+        },
+        "420680": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "420680",
+            "manifests": {
+                "public": {
+                    "gid": "4306444656705037871",
+                    "size": "37341963",
+                    "download": "31901232"
+                },
+                "multiavatar": {
+                    "gid": "8889057463593038919",
+                    "size": "31023507",
+                    "download": "27116960"
+                },
+                "nextversion": {
+                    "gid": "4306444656705037871",
+                    "size": "37341963",
+                    "download": "31901232"
+                },
+                "previousversion": {
+                    "gid": "8889057463593038919",
+                    "size": "31023507",
+                    "download": "27116960"
+                }
+            },
+            "decryptionkey": "be7f1f2b3c5bd4145f056410b57451c7fe7803d4c03986ef4231099c23bf09c8"
+        },
+        "420820": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "420820",
+            "manifests": {
+                "public": {
+                    "gid": "2938065200343330374",
+                    "size": "124",
+                    "download": "160"
+                },
+                "multiavatar": {
+                    "gid": "2938065200343330374",
+                    "size": "124",
+                    "download": "160"
+                },
+                "nextversion": {
+                    "gid": "2938065200343330374",
+                    "size": "124",
+                    "download": "160"
+                },
+                "previousversion": {
+                    "gid": "2938065200343330374",
+                    "size": "124",
+                    "download": "160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "420821": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "420821",
+            "manifests": {
+                "public": {
+                    "gid": "3530344754114503999",
+                    "size": "150392832",
+                    "download": "113631264"
+                },
+                "multiavatar": {
+                    "gid": "713247906843278177",
+                    "size": "150388736",
+                    "download": "113629008"
+                },
+                "nextversion": {
+                    "gid": "3530344754114503999",
+                    "size": "150392832",
+                    "download": "113631264"
+                },
+                "previousversion": {
+                    "gid": "713247906843278177",
+                    "size": "150388736",
+                    "download": "113629008"
+                }
+            },
+            "decryptionkey": "ecf8dc5a81964c57d38a173ec6ef661524149cd2f1fda102c22f282e8307d147"
+        },
+        "420822": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "420822",
+            "manifests": {
+                "public": {
+                    "gid": "4412942925337080485",
+                    "size": "84250624",
+                    "download": "52857584"
+                },
+                "multiavatar": {
+                    "gid": "2426590753283641248",
+                    "size": "84246528",
+                    "download": "52853584"
+                },
+                "nextversion": {
+                    "gid": "4412942925337080485",
+                    "size": "84250624",
+                    "download": "52857584"
+                },
+                "previousversion": {
+                    "gid": "2426590753283641248",
+                    "size": "84246528",
+                    "download": "52853584"
+                }
+            },
+            "decryptionkey": "98e0a996434e61a725e618fcc1e0a29749ed803151fb1d711cc739802a9958ef"
+        },
+        "420823": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "420823",
+            "manifests": {
+                "public": {
+                    "gid": "4084131112421538141",
+                    "size": "339974144",
+                    "download": "204139328"
+                },
+                "multiavatar": {
+                    "gid": "3586495230386950185",
+                    "size": "339986432",
+                    "download": "205197280"
+                },
+                "nextversion": {
+                    "gid": "4084131112421538141",
+                    "size": "339974144",
+                    "download": "204139328"
+                },
+                "previousversion": {
+                    "gid": "3586495230386950185",
+                    "size": "339986432",
+                    "download": "205197280"
+                }
+            },
+            "decryptionkey": "7806cd1c5166bb9987d5d65d72e1b2a39fdbd7b396225d4ce0634e9bd265ba03"
+        },
+        "420824": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "420824",
+            "manifests": {
+                "public": {
+                    "gid": "3393349604280993144",
+                    "size": "532455492",
+                    "download": "483773328"
+                },
+                "multiavatar": {
+                    "gid": "3393349604280993144",
+                    "size": "532455492",
+                    "download": "483773328"
+                },
+                "nextversion": {
+                    "gid": "3393349604280993144",
+                    "size": "532455492",
+                    "download": "483773328"
+                },
+                "previousversion": {
+                    "gid": "3393349604280993144",
+                    "size": "532455492",
+                    "download": "483773328"
+                }
+            },
+            "decryptionkey": "3a6f742e9ddc0c4b29c8f143d32de93791878a35296eb7eda182c929d07263e3"
+        },
+        "420825": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "420825",
+            "manifests": {
+                "public": {
+                    "gid": "6751500068571413240",
+                    "size": "197837883",
+                    "download": "200420064"
+                },
+                "multiavatar": {
+                    "gid": "2826921516515283742",
+                    "size": "119794403",
+                    "download": "121310048"
+                },
+                "nextversion": {
+                    "gid": "6751500068571413240",
+                    "size": "197837883",
+                    "download": "200420064"
+                },
+                "previousversion": {
+                    "gid": "2826921516515283742",
+                    "size": "119794403",
+                    "download": "121310048"
+                }
+            },
+            "decryptionkey": "612296d5d1b91b9f77099e0b9f79d68b6d92f79bce3bf71218d7225c35c68e3c"
+        },
+        "420826": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "420826",
+            "manifests": {
+                "public": {
+                    "gid": "22564200773653069",
+                    "size": "204134400",
+                    "download": "115197984"
+                },
+                "multiavatar": {
+                    "gid": "4295213703978199567",
+                    "size": "204130304",
+                    "download": "115193920"
+                },
+                "nextversion": {
+                    "gid": "22564200773653069",
+                    "size": "204134400",
+                    "download": "115197984"
+                },
+                "previousversion": {
+                    "gid": "4295213703978199567",
+                    "size": "204130304",
+                    "download": "115193920"
+                }
+            },
+            "decryptionkey": "66ee8fa93363954296b69aab889222fcdfbfef99aad3a65516dc5b2062ba809c"
+        },
+        "420827": {
+            "dlcappid": "420827",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "420828": {
+            "dlcappid": "420828",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7744540098719498024",
+                    "size": "153192448",
+                    "download": "108069712"
+                },
+                "multiavatar": {
+                    "gid": "4377152427463798560",
+                    "size": "153192448",
+                    "download": "108069488"
+                },
+                "nextversion": {
+                    "gid": "7744540098719498024",
+                    "size": "153192448",
+                    "download": "108069712"
+                },
+                "previousversion": {
+                    "gid": "4377152427463798560",
+                    "size": "153192448",
+                    "download": "108069488"
+                }
+            },
+            "decryptionkey": "3e4c958d1c8ca9a1383d57deb2f4cbc849f0aaed6ccd03003f3ccd7b00670aae"
+        },
+        "420829": {
+            "dlcappid": "420829",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5000863866443005709",
+                    "size": "126156800",
+                    "download": "82448288"
+                },
+                "nextversion": {
+                    "gid": "5000863866443005709",
+                    "size": "126156800",
+                    "download": "82448288"
+                }
+            },
+            "decryptionkey": "b52344fbfe0a9cfb4d95949e1e79e95affa1709282eca1474adb09eaa293e1c5"
+        },
+        "853281": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "853281",
+            "manifests": {
+                "public": {
+                    "gid": "1403117637147401710",
+                    "size": "146575360",
+                    "download": "118194272"
+                },
+                "nextversion": {
+                    "gid": "1403117637147401710",
+                    "size": "146575360",
+                    "download": "118194272"
+                }
+            },
+            "decryptionkey": "72425e4712953468a9cefd53feabba280d68d01c139c427e7d669ba4633fe7d9"
+        },
+        "853280": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "853280",
+            "manifests": {
+                "public": {
+                    "gid": "7088803757974560619",
+                    "size": "145690624",
+                    "download": "116296912"
+                },
+                "nextversion": {
+                    "gid": "7088803757974560619",
+                    "size": "145690624",
+                    "download": "116296912"
+                }
+            },
+            "decryptionkey": "ce56dcf624bac40a519dbd122ec70c80c6145d31f70443537fe8564189acce0b"
+        },
+        "853282": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "853282",
+            "manifests": {
+                "public": {
+                    "gid": "3556728490887013382",
+                    "size": "99725312",
+                    "download": "99342240"
+                },
+                "nextversion": {
+                    "gid": "3556728490887013382",
+                    "size": "99725312",
+                    "download": "99342240"
+                }
+            },
+            "decryptionkey": "97dd5e1eb144f504b423446833ccb6fcafe90253c12986d28301cbc0f70db563"
+        },
+        "893550": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3220832091291327119",
+                    "size": "38418929",
+                    "download": "36629344"
+                },
+                "nextversion": {
+                    "gid": "3220832091291327119",
+                    "size": "38418929",
+                    "download": "36629344"
+                }
+            },
+            "dlcappid": "893550",
+            "decryptionkey": "886d4e3f87732be7013847465ff7107824062479b6cb3fe36b8cd658631ed1d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5970861",
+                "timeupdated": "1609405026"
+            },
+            "multiavatar": {
+                "buildid": "2261241",
+                "timeupdated": "1509980997"
+            },
+            "nextversion": {
+                "buildid": "5970861",
+                "description": "Coming soon version of Facerig. Could be unstable, but have future unreleased features.",
+                "timeupdated": "1609405017"
+            },
+            "previousversion": {
+                "buildid": "2231430",
+                "description": "Previous stable version of FaceRig. If something is wrong with the latest one, please feel free to get this version.",
+                "timeupdated": "1509640684"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "588ef776b86f001a42a23316826bc4e702b8b72c1675c88f2f1b865766bb3db3"
+    },
+    "access_token": 5258015579603631962
+}
