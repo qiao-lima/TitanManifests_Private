@@ -1,0 +1,31 @@
+{
+    "appid": 1176160,
+    "name": "Space Wars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 01:17:58",
+    "change_number": 29169453,
+    "depot": {
+        "1176161": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1776412125542845649",
+                    "size": "168987199",
+                    "download": "87973776"
+                }
+            },
+            "decryptionkey": "5d5cb3619937391cd64946ad354a1c265e552701ca89b127e537359ac6926e9c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4279536",
+                "timeupdated": "1570810222"
+            }
+        }
+    }
+}
