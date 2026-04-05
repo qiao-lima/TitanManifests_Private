@@ -1,0 +1,29 @@
+{
+    "appid": 1913370,
+    "name": "OPERATOR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 02:53:32",
+    "change_number": 30040842,
+    "depot": {
+        "1913371": {
+            "manifests": {
+                "public": {
+                    "gid": "7893437276726595209",
+                    "size": "47446447001",
+                    "download": "28887390960"
+                }
+            },
+            "decryptionkey": "14e1d60b03f5511ee5e4a550d5f3d5a71dd6317cf8b974cd3aec8077798ecdaf"
+        },
+        "1913372": {},
+        "branches": {
+            "public": {
+                "buildid": "19108799",
+                "timeupdated": "1751635507"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
