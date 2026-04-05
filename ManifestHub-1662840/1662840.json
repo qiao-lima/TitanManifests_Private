@@ -1,0 +1,43 @@
+{
+    "appid": 1662840,
+    "name": "Parquet",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 07:10:35",
+    "change_number": 29982017,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1662841": {
+            "manifests": {
+                "public": {
+                    "gid": "8293426649655053820",
+                    "size": "2841633749",
+                    "download": "2613105984"
+                }
+            },
+            "decryptionkey": "8b576122479cbe8a136e652ede790011ce57867852f4c10356c1be209f402137"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "7270362",
+                "timeupdated": "1630286167"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
