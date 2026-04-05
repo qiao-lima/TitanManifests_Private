@@ -1,0 +1,43 @@
+{
+    "appid": 925440,
+    "name": "神社的百合香 ~ Floral Aroma in the Shrine",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:20:23",
+    "change_number": 29294644,
+    "depot": {
+        "925442": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8719272869268894878",
+                    "size": "104549333",
+                    "download": "87686640"
+                }
+            },
+            "decryptionkey": "0194a6e2c8842a4cdcf79bb09b1812884e7d2498ce5c6f5809aeb523f916304e"
+        },
+        "925441": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5097499358907365064",
+                    "size": "113276593",
+                    "download": "91701776"
+                }
+            },
+            "decryptionkey": "42f1335ee2d94c465a50c547b7c52bffd1f49872c140ffd3ab4af6f83cdbd982"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4094875",
+                "timeupdated": "1565518161"
+            }
+        }
+    }
+}
