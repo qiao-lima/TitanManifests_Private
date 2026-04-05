@@ -1,0 +1,38 @@
+{
+    "appid": 2928560,
+    "name": "RPG Developer Bakin Layout Data Comic",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 08:51:41",
+    "change_number": 30084416,
+    "depot": {
+        "2928560": {
+            "manifests": {
+                "public": {
+                    "gid": "8870852574919552992",
+                    "size": "13372048",
+                    "download": "5612512"
+                },
+                "test": {
+                    "gid": "8870852574919552992",
+                    "size": "13372048",
+                    "download": "5612512"
+                }
+            },
+            "dlcappid": "2928560",
+            "decryptionkey": "bbf115b23fcadf411100fd4eaaa9a3a0a4d56c7a8f68a207d36330120954e0a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19227625",
+                "timeupdated": "1752652296"
+            },
+            "test": {
+                "buildid": "19227625",
+                "description": "test用",
+                "timeupdated": "1752571073"
+            }
+        }
+    }
+}
