@@ -1,0 +1,27 @@
+{
+    "appid": 2644700,
+    "name": "Impossible",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 16:58:31",
+    "change_number": 29367472,
+    "depot": {
+        "2644701": {
+            "manifests": {
+                "public": {
+                    "gid": "8272697636814278190",
+                    "size": "29348215",
+                    "download": "9486688"
+                }
+            },
+            "decryptionkey": "a21a5096493f58a97aa26b5e121b78f9a637d57eb2cb8af14623e1eb3dd3c992"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12401368",
+                "timeupdated": "1696927584"
+            }
+        }
+    }
+}
