@@ -1,0 +1,28 @@
+{
+    "appid": 2873840,
+    "name": "shining",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 18:26:21",
+    "change_number": 28116513,
+    "depot": {
+        "2873841": {
+            "manifests": {
+                "public": {
+                    "gid": "6393035718823524201",
+                    "size": "104204835",
+                    "download": "26751616"
+                }
+            },
+            "decryptionkey": "0b23f7d178f19139ee3ee070d66376072c6789131dfaea967675146a900302e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13632692",
+                "timeupdated": "1709557364"
+            }
+        }
+    },
+    "access_token": 12063051677693763194
+}
