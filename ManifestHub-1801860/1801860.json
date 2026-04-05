@@ -1,0 +1,41 @@
+{
+    "appid": 1801860,
+    "name": "WOLF RIOT",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-25 16:39:40",
+    "change_number": 29173598,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1801861": {
+            "manifests": {
+                "public": {
+                    "gid": "4537878819955087608",
+                    "size": "2247250118",
+                    "download": "732545456"
+                }
+            },
+            "decryptionkey": "5ce26cdc295aa86168813ba6d14548ea1f62cb90dacb713f95a68ca2661a0486"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9977932",
+                "timeupdated": "1668947246"
+            }
+        }
+    }
+}
