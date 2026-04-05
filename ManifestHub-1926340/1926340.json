@@ -1,0 +1,27 @@
+{
+    "appid": 1926340,
+    "name": "Shell Girls in Puzzle Skulls",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 00:51:46",
+    "change_number": 29869384,
+    "depot": {
+        "1926341": {
+            "manifests": {
+                "public": {
+                    "gid": "2774066609521820669",
+                    "size": "32354489",
+                    "download": "21652016"
+                }
+            },
+            "decryptionkey": "50efd465219316943ca455521b27292ab4c214f6f72a21181947e5f22f920b3d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8612404",
+                "timeupdated": "1650749173"
+            }
+        }
+    }
+}
