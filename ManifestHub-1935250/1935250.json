@@ -1,0 +1,28 @@
+{
+    "appid": 1935250,
+    "name": "Chernobylite - Charity Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 16:11:31",
+    "change_number": 29911278,
+    "depot": {
+        "1935250": {
+            "manifests": {
+                "public": {
+                    "gid": "1033237140666714046",
+                    "size": "174698967",
+                    "download": "173249984"
+                }
+            },
+            "dlcappid": "1935250",
+            "decryptionkey": "941ebb09831816d7e374e710c049522e83cea8d0369312ba6b8884dcccbaedfa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8366729",
+                "timeupdated": "1647262346"
+            }
+        }
+    }
+}
