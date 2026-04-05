@@ -1,0 +1,75 @@
+{
+    "appid": 1180660,
+    "name": "Tell Me Why",
+    "type": "Game",
+    "schinese_name": "谓何",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 14:18:32",
+    "change_number": 30186626,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,japanese,brazilian,latam",
+        "1180661": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1121084895673538244",
+                    "size": "8304209743",
+                    "download": "7944168128"
+                }
+            },
+            "decryptionkey": "72a19a685d8cb6c64f161658219bf9ba99357042dc78c688d5f4045238367e6e"
+        },
+        "1238430": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1238430",
+            "manifests": {
+                "public": {
+                    "gid": "8556954704237120738",
+                    "size": "4930597663",
+                    "download": "4851231024"
+                }
+            },
+            "decryptionkey": "b71e20beeb0a44dea82ac77729b642341ab2258027aa98e2ff2dd572347d026e"
+        },
+        "1266670": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1266670",
+            "manifests": {
+                "public": {
+                    "gid": "3458796689156191626",
+                    "size": "6104439167",
+                    "download": "6023478304"
+                }
+            },
+            "decryptionkey": "f813ea8876461b335086830b177793094f3ec2c29bd1cf3453ee3df66d2c245a"
+        },
+        "1378550": {
+            "dlcappid": "1378550",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "747528671958658547",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5726698",
+                "timeupdated": "1604073728"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
