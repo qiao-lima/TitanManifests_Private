@@ -1,0 +1,31 @@
+{
+    "appid": "568450",
+    "type": "Game",
+    "name": "Hoplite",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23325551",
+    "update_time": "2024-08-14 19:19:04",
+    "depot": {
+        "568451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7482086882169478588",
+                    "size": "44610226",
+                    "download": "18959088"
+                }
+            },
+            "decryptionkey": "0df37c2f03c2483942d502ca05fb881656e94f0d0cd895c2c6b7cffb6f50740c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1516567",
+                "timeupdated": "1481650005"
+            }
+        }
+    },
+    "access_token": 16117746353844475488
+}
