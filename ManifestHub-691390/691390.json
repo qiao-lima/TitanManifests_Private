@@ -1,0 +1,29 @@
+{
+    "appid": 691390,
+    "name": "Alchemage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 12:22:21",
+    "change_number": 29431331,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "691391": {
+            "manifests": {
+                "public": {
+                    "gid": "5531714994277053324",
+                    "size": "572010221",
+                    "download": "178073200"
+                }
+            },
+            "decryptionkey": "2db282ec029b26d2f436121e160853f25053b50efb26c1a6b63d14b2ea665258"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5791088",
+                "timeupdated": "1604629653"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
