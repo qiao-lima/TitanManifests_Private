@@ -1,0 +1,49 @@
+{
+    "appid": 2668910,
+    "name": "Bodycam Real Shoot",
+    "type": "Game",
+    "schinese_name": "Bodycam真实射击",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 09:22:04",
+    "change_number": 30162995,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2668911": {
+            "manifests": {
+                "public": {
+                    "gid": "3652528365843755711",
+                    "size": "52988864276",
+                    "download": "51556702864"
+                }
+            },
+            "decryptionkey": "7af8795092286b0e0325fdb4eb350b82637fac1049a3ca19ba2080364c75f4ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19036455",
+                "timeupdated": "1751115333"
+            }
+        }
+    }
+}
