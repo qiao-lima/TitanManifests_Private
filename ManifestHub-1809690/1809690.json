@@ -1,0 +1,38 @@
+{
+    "appid": 1809690,
+    "name": "Hidden Deep Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 09:11:07",
+    "change_number": 29916833,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1809691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8127822310527465291",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9ec7afd32d4dc8923c5925c25c6c9ee3533a5d03a6f4239b2f75c2aecc77e2a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8032897",
+                "timeupdated": "1642408376"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
