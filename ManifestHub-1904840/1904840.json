@@ -1,0 +1,48 @@
+{
+    "appid": 1904840,
+    "name": "City Bus Manager - Russia",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 12:47:31",
+    "change_number": 26201212,
+    "depot": {
+        "1904840": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1904840"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6557044312063056820",
+                    "size": "2972396136",
+                    "download": "2998022608"
+                }
+            },
+            "dlcappid": "1904840",
+            "decryptionkey": "05d75864b42529960b18433137bd74d425799a0645ccb60d18adb5d93debe352"
+        },
+        "1904841": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1904840"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1869172726112929244",
+                    "size": "2972396136",
+                    "download": "2998022608"
+                }
+            },
+            "dlcappid": "1904840",
+            "decryptionkey": "c3eccffead65c791f37019e97c3068e0d7c4c416d6879c0a01d99b648a395913"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10054151",
+                "timeupdated": "1669995350"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
