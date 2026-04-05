@@ -1,0 +1,78 @@
+{
+    "appid": 1384660,
+    "name": "Up to Par",
+    "type": "Game",
+    "schinese_name": "杆够准！",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 10:03:19",
+    "change_number": 29579421,
+    "depot": {
+        "1384662": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1140512517332335778",
+                    "size": "512294851",
+                    "download": "351009216"
+                },
+                "modifierspublicbeta": {
+                    "gid": "4478576710373211896",
+                    "size": "514173709",
+                    "download": "352438128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1384663": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6233203452905491519",
+                    "size": "522840547",
+                    "download": "354152352"
+                },
+                "modifierspublicbeta": {
+                    "gid": "3939712269551054983",
+                    "size": "524719421",
+                    "download": "355577760"
+                }
+            },
+            "decryptionkey": "0d23f536ec5e84b3055a0d43d10fda819105675708e407f9480835ee50662e69"
+        },
+        "1384664": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "403543118928479352",
+                    "size": "547532419",
+                    "download": "362105056"
+                },
+                "modifierspublicbeta": {
+                    "gid": "8291487963978731088",
+                    "size": "549533291",
+                    "download": "363583552"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18272766",
+                "timeupdated": "1746661454"
+            },
+            "modifierspublicbeta": {
+                "buildid": "18851260",
+                "description": "Modifiers Public Beta",
+                "timeupdated": "1749810276"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
