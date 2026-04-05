@@ -1,0 +1,28 @@
+{
+    "appid": 3491040,
+    "name": "Yoshima: Hentai Simulator - Wallpaper Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 10:15:53",
+    "change_number": 27899686,
+    "depot": {
+        "3491040": {
+            "manifests": {
+                "public": {
+                    "gid": "7024514320710261914",
+                    "size": "170273019",
+                    "download": "171910960"
+                }
+            },
+            "dlcappid": "3491040",
+            "decryptionkey": "4012a373903ec3073fecd37b606389a87f62e38b56f68a1c2bd56591d5299d2c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17619210",
+                "timeupdated": "1741263375"
+            }
+        }
+    }
+}
