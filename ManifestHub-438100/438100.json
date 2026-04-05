@@ -1,0 +1,66 @@
+{
+    "appid": 438100,
+    "name": "VRChat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 19:34:44",
+    "change_number": 30212675,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "438101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "160107330494607422",
+                    "size": "1276518316",
+                    "download": "564277952"
+                },
+                "open-beta": {
+                    "gid": "3537195859503635779",
+                    "size": "1286053597",
+                    "download": "574783072"
+                },
+                "steam-audio-beta": {
+                    "gid": "7091205947744280413",
+                    "size": "1308198169",
+                    "download": "557337216"
+                }
+            },
+            "decryptionkey": "3479e8ef2bdeedf17313e5cd206d1eab607bc61385b6fe88bc499ea004033f70"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19278271",
+                "timeupdated": "1752864761"
+            },
+            "open-beta": {
+                "buildid": "19301007",
+                "description": "Open Beta",
+                "timeupdated": "1753137381"
+            },
+            "steam-audio-beta": {
+                "buildid": "19001025",
+                "description": "Steam Audio Open Beta",
+                "timeupdated": "1750900676"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
