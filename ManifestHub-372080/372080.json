@@ -1,0 +1,75 @@
+{
+    "appid": 372080,
+    "name": "Kramora's Shadow",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 00:55:56",
+    "change_number": 29869426,
+    "depot": {
+        "372081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1246684889985819611",
+                    "size": "349508946",
+                    "download": "144976336"
+                },
+                "beta": {
+                    "gid": "1246684889985819611",
+                    "size": "349508946",
+                    "download": "144976336"
+                }
+            },
+            "decryptionkey": "1c11c8f30d062d2889494c8c1b4373126dc4fa43cd2d058c16489419f6564b46"
+        },
+        "372082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7617864035244624777",
+                    "size": "225915575",
+                    "download": "99036720"
+                },
+                "beta": {
+                    "gid": "7617864035244624777",
+                    "size": "225915575",
+                    "download": "99036720"
+                }
+            },
+            "decryptionkey": "7dda32345efa4d49aa71365ae04fc4c87ce772aed3cb9399ca4e16479a5c5dc7"
+        },
+        "372083": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7782681861459321791",
+                    "size": "455703852",
+                    "download": "161853136"
+                },
+                "beta": {
+                    "gid": "7782681861459321791",
+                    "size": "455703852",
+                    "download": "161853136"
+                }
+            },
+            "decryptionkey": "4d22f0560d2bf2bd5ac4d5c62b9b1161e6f11a101e87acd3e542f8e202b70cac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18809271",
+                "timeupdated": "1749555695"
+            },
+            "beta": {
+                "buildid": "18809271",
+                "timeupdated": "1749555653"
+            }
+        }
+    }
+}
