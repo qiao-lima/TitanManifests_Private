@@ -1,0 +1,44 @@
+{
+    "appid": 2994020,
+    "name": "Puck",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-14 21:12:15",
+    "change_number": 30055792,
+    "depot": {
+        "baselanguages": "english",
+        "2994021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5369161611927115251",
+                    "size": "923829868",
+                    "download": "105730560"
+                },
+                "legacy": {
+                    "gid": "8368351722070243896",
+                    "size": "1000562365",
+                    "download": "117144448"
+                }
+            },
+            "decryptionkey": "2b0bdd193262e293b6422b417a9fc6330277778cd29582d6773462a276675ce3"
+        },
+        "workshopdepot": "2994020",
+        "branches": {
+            "public": {
+                "buildid": "18792194",
+                "timeupdated": "1749465740"
+            },
+            "legacy": {
+                "buildid": "17684447",
+                "description": "Previous patch branch",
+                "timeupdated": "1742349064"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
