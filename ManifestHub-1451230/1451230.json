@@ -1,0 +1,43 @@
+{
+    "appid": 1451230,
+    "name": "Blood of Titans",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 22:41:51",
+    "change_number": 30174969,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1451231": {
+            "manifests": {
+                "public": {
+                    "gid": "427558190367872838",
+                    "size": "588906172",
+                    "download": "414650992"
+                }
+            },
+            "decryptionkey": "9139503d404202494b685cd0c153da7c40d4955e09c88f86b4d285e243d2d58d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19185967",
+                "timeupdated": "1752469325"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
