@@ -1,0 +1,28 @@
+{
+    "appid": 2305900,
+    "name": "GUNFIELD",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 17:14:36",
+    "change_number": 29992166,
+    "depot": {
+        "2305901": {
+            "manifests": {
+                "public": {
+                    "gid": "423216409149871193",
+                    "size": "317055716",
+                    "download": "201532912"
+                }
+            },
+            "decryptionkey": "42d049270e3ebae28f1391b05aab389cedb0d63916edfa8b0a6e43dee14694bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18586747",
+                "timeupdated": "1748027139"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
