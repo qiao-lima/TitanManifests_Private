@@ -1,0 +1,46 @@
+{
+    "appid": 305900,
+    "name": "Minigame Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-05 05:31:59",
+    "change_number": 29907525,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "305901": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8617288649086520229",
+                    "size": "9415847785",
+                    "download": "1452056192"
+                }
+            },
+            "decryptionkey": "69d5dc38a4c40b88a3470ea314de588fceb79bb213018f8d7a5e8edb44f20362"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19114967",
+                "timeupdated": "1751689915"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
