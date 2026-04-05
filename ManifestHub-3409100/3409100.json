@@ -1,0 +1,28 @@
+{
+    "appid": 3409100,
+    "name": "RPG Maker MZ - Winlu Fantasy Tileset - Mushroom",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:51:25",
+    "change_number": 26929920,
+    "depot": {
+        "3409100": {
+            "manifests": {
+                "public": {
+                    "gid": "8775101474073376361",
+                    "size": "2392711",
+                    "download": "1667488"
+                }
+            },
+            "dlcappid": "3409100",
+            "decryptionkey": "022c53af8a11b97bb814ebdafbe6e8607a0a5044bc27202e340e3094dd4d6198"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16931769",
+                "timeupdated": "1736278650"
+            }
+        }
+    }
+}
