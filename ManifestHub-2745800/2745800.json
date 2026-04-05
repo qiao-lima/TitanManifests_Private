@@ -1,0 +1,54 @@
+{
+    "appid": 2745800,
+    "name": "Writer's Rush",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 08:07:52",
+    "change_number": 29597962,
+    "depot": {
+        "2745801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4327614116640111641",
+                    "size": "387766610",
+                    "download": "161117200"
+                }
+            },
+            "decryptionkey": "7fd1640fed6fcd2f238c7c326e52af90bd7c07296c5ddad482cdf8651c20c238"
+        },
+        "2745802": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8807202547190400963",
+                    "size": "377816668",
+                    "download": "153016800"
+                }
+            }
+        },
+        "2745803": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2053053818174794077",
+                    "size": "354697258",
+                    "download": "155530144"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18783179",
+                "timeupdated": "1749371410"
+            }
+        }
+    }
+}
