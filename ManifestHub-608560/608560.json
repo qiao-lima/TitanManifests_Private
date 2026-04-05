@@ -1,0 +1,28 @@
+{
+    "appid": "608560",
+    "type": "Game",
+    "name": "Last Tale",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "21104387",
+    "update_time": "2024-08-14 19:24:15",
+    "depot": {
+        "608561": {
+            "manifests": {
+                "public": {
+                    "gid": "8771636821091143475",
+                    "size": "275878768",
+                    "download": "90475536"
+                }
+            },
+            "decryptionkey": "f56273c9127be4f51e778eb5afa1f11ee729ff1b489057270ca931d931a07394"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1740859",
+                "timeupdated": "1491543097"
+            }
+        }
+    },
+    "access_token": 18394714341406332481
+}
