@@ -1,0 +1,36 @@
+{
+    "appid": 611500,
+    "name": "Quake Champions",
+    "type": "Game",
+    "schinese_name": "雷神之锤：冠军",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 15:01:08",
+    "change_number": 29788388,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "611501": {
+            "manifests": {
+                "public": {
+                    "gid": "7671001399888684015",
+                    "size": "35968575202",
+                    "download": "32334717744"
+                }
+            },
+            "decryptionkey": "3e77832feb2c02f7e18ad6c5b24a0e4bd69402c075cd9d1625a5ba0b9bff65e1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18998061",
+                "timeupdated": "1751032860"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
