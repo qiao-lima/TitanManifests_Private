@@ -1,0 +1,58 @@
+{
+    "appid": 3122960,
+    "name": "Goeland Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 01:18:20",
+    "change_number": 30040192,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,schinese,russian,japanese,portuguese,brazilian",
+        "3122961": {},
+        "3122962": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8937007315316544716",
+                    "size": "652336320",
+                    "download": "375403728"
+                }
+            }
+        },
+        "3122963": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5790135759114219231",
+                    "size": "576707764",
+                    "download": "395036064"
+                }
+            },
+            "decryptionkey": "647e27c9968b09109f1c3f4b9dc6c7f1b08b6ac8812581a1b820c2e56663b4e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19067664",
+                "timeupdated": "1751385767"
+            }
+        }
+    }
+}
