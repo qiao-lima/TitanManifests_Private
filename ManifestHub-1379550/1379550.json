@@ -1,0 +1,39 @@
+{
+    "appid": 1379550,
+    "name": "The USB Stick Found in the Grass",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 21:17:14",
+    "change_number": 29693059,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1379551": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6731476633222727530",
+                    "size": "4186261411",
+                    "download": "4076029440"
+                }
+            },
+            "decryptionkey": "cdc39163de66e2cd7fb3f73133c3db7fb9f97d127948deba79b23f3f19c8ecbb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6272605",
+                "timeupdated": "1613937891"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
