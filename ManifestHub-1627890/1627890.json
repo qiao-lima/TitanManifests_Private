@@ -1,0 +1,30 @@
+{
+    "appid": 1627890,
+    "name": "Ants Took My Eyeball",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 14:56:22",
+    "change_number": 29861597,
+    "depot": {
+        "1627891": {
+            "manifests": {
+                "public": {
+                    "gid": "5385509320030684325",
+                    "size": "231658212",
+                    "download": "121356032"
+                }
+            },
+            "decryptionkey": "b861249ab7ffd634b52c15ed3a318456e388e4c4f1a666163f43c96121315139"
+        },
+        "workshopdepot": "1627890",
+        "branches": {
+            "public": {
+                "buildid": "18792308",
+                "timeupdated": "1749461763"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
