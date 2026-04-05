@@ -1,0 +1,67 @@
+{
+    "appid": 2498480,
+    "name": "Milthm",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-04 11:09:39",
+    "change_number": 29895416,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "2498481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5721393092024208340",
+                    "size": "1669476566",
+                    "download": "552557168"
+                }
+            },
+            "decryptionkey": "e941ab7b943f44c72ae37d322df1e950b8e08d1bca991be7391788d89ac1ea60"
+        },
+        "2498482": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6307190204019944497",
+                    "size": "1743681373",
+                    "download": "506881168"
+                }
+            },
+            "decryptionkey": "fde356a3ed060c6a2dc704f50b51391fa32d5cce468ce4da471c957508027936"
+        },
+        "2498483": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "932965249028650193",
+                    "size": "1597676939",
+                    "download": "454952304"
+                }
+            },
+            "decryptionkey": "94e1fd0dcfb7213fa8cd7c0bc85d7ca89d23a5a937f0f2cb1585a11f4ec53f3d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19096563",
+                "timeupdated": "1751603826"
+            }
+        }
+    }
+}
