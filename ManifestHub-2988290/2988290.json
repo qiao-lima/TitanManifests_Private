@@ -1,0 +1,27 @@
+{
+    "appid": 2988290,
+    "name": "Endless Tentacle Cave",
+    "type": "Game",
+    "schinese_name": "无底触穴",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 01:17:49",
+    "change_number": 30100302,
+    "depot": {
+        "2988291": {
+            "manifests": {
+                "public": {
+                    "gid": "8837497843717923430",
+                    "size": "2133512190",
+                    "download": "1787518976"
+                }
+            },
+            "decryptionkey": "c4051cecc4562a0c10f24104538c83a67710d5e74249edf016d700cdbe21c23d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15558947",
+                "timeupdated": "1725186567"
+            }
+        }
+    }
+}
