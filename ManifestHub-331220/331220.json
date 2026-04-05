@@ -1,0 +1,80 @@
+{
+    "appid": 331220,
+    "name": "Thief Town",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 23:22:54",
+    "change_number": 29239451,
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "331221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5456878905585177105",
+                    "size": "219077097",
+                    "download": "99067600"
+                },
+                "dev": {
+                    "gid": "5456878905585177105",
+                    "size": "219077097",
+                    "download": "99067600"
+                }
+            },
+            "decryptionkey": "090e7bb28d5821f9f74073c35ea1675f72cd68e4c918f85e2e5e773d11259556"
+        },
+        "331222": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7183685614154464975",
+                    "size": "216979407",
+                    "download": "96664560"
+                },
+                "dev": {
+                    "gid": "7183685614154464975",
+                    "size": "216979407",
+                    "download": "96664560"
+                }
+            }
+        },
+        "331223": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3396006356066915032",
+                    "size": "254786606",
+                    "download": "108848944"
+                },
+                "dev": {
+                    "gid": "3396006356066915032",
+                    "size": "254786606",
+                    "download": "108848944"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1634779",
+                "timeupdated": "1487214149"
+            },
+            "dev": {
+                "buildid": "1634779",
+                "timeupdated": "1487214139"
+            }
+        }
+    }
+}
