@@ -1,0 +1,63 @@
+{
+    "appid": 234330,
+    "name": "Marvel Puzzle Quest",
+    "type": "Game",
+    "schinese_name": "漫威迷城：黑暗王朝",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 20:19:35",
+    "change_number": 30117622,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "234331": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6153265406310797913",
+                    "size": "285784212",
+                    "download": "145242720"
+                }
+            },
+            "decryptionkey": "aa9b7126d3542d957b7283d01b2e78bd79885efe608f9dd560a4078992e8d7c9"
+        },
+        "markdlcdepots": "0",
+        "baselanguages": "english,german,french,italian,koreana,spanish,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19251117",
+                "timeupdated": "1752779742"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
