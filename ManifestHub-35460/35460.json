@@ -1,0 +1,158 @@
+{
+    "appid": 35460,
+    "name": "The Ball",
+    "type": "Game",
+    "schinese_name": "球",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:13:51",
+    "change_number": 29172292,
+    "depot": {
+        "35461": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6885145582194998720",
+                    "size": "1510639696",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0bfed4245ea01faf7ad728362fa4af3b4e7a9a2ec25dada83a3e319b67abf99c"
+        },
+        "35462": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "167826020736243945",
+                    "size": "9899",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1b4a97d33f27ebbe2e57df90b551c99185ba186e2ebd4228ae04eec66483dd83"
+        },
+        "35463": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2935549175990490162",
+                    "size": "9899",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ec67ca8a0bc234fc2f6a66b3de80c357af61fb58becc0492fde967a95060e2d6"
+        },
+        "35464": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5263973061943304953",
+                    "size": "9899",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c1270ad2c3365b924627ab54af800112cc7daaa3f6690424bf831c894b675c59"
+        },
+        "35465": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5372085188721650218",
+                    "size": "9899",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "01588591fc705ae6445240f8d99411679d63b060addd4691425cde4e12fa9e45"
+        },
+        "35466": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4028668795899334330",
+                    "size": "9899",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6a6f3a35017b4063498acb5c9c04858d9ba6926edeb093f75e0d2045449fd1c8"
+        },
+        "35467": {
+            "config": {
+                "language": "danish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2710641592590239179",
+                    "size": "9899",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "89d14b8bd5fd7d17686a844f5414aa74231d907cc2029c534202628a2be83cef"
+        },
+        "35468": {
+            "config": {
+                "language": "dutch"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "191795499178626292",
+                    "size": "9899",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "803810b39028e5d73227770978a3293e9c7f6df54e19144f7e82c5495a58232a"
+        },
+        "35469": {
+            "config": {
+                "language": "swedish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "244167494993044088",
+                    "size": "9899",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "741e5b7f4f119c52aa10b101ea349705d7b360802516abbae32ea4c0c86a0d09"
+        },
+        "104341": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5687616463847247570",
+                    "size": "9899",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "58bc6a87f6546522b183d8d6cec3a81f1937de309802890f3f8960d44c202f8f"
+        },
+        "98004": {
+            "manifests": {
+                "public": {
+                    "gid": "3820295219509622112",
+                    "size": "14166300",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "98004",
+            "decryptionkey": "065c4353512e5b2688060dbb1d2934c6149b210c65230e1ccce7a7899ed1bd1c"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,spanish,german,french,italian,russian,dutch,danish,swedish,polish",
+        "branches": {
+            "public": {
+                "buildid": "153324"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
