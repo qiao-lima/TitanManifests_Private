@@ -1,0 +1,45 @@
+{
+    "appid": 1955340,
+    "name": "Super Raft Boat Together",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 18:42:43",
+    "change_number": 30191405,
+    "depot": {
+        "1955341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2856167978105699053",
+                    "size": "765572847",
+                    "download": "118780112"
+                }
+            },
+            "decryptionkey": "655e828ccb569d0aff31819213dadb5061c7b91c6cb72d0fc6751aedfa24db3d"
+        },
+        "1955342": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1416119432009694979",
+                    "size": "797839908",
+                    "download": "131518256"
+                }
+            }
+        },
+        "baselanguages": "english,german,spanish,schinese,russian,japanese,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19097626",
+                "timeupdated": "1751566291"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
