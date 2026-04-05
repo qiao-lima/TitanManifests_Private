@@ -1,0 +1,64 @@
+{
+    "appid": 3041820,
+    "name": "Lilia: The Fallen Flower in the Prison City",
+    "type": "Game",
+    "schinese_name": "乱欲牢城~监狱都市的花之少女~",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:03:42",
+    "change_number": 30216807,
+    "depot": {
+        "3041821": {
+            "manifests": {
+                "public": {
+                    "gid": "6740039673975076334",
+                    "size": "447369916",
+                    "download": "382863920"
+                }
+            },
+            "decryptionkey": "1774cc267afce6d89ab3042f335b82d785dd05ae90df2c1b314559ea3e4bb934"
+        },
+        "3041822": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1850919591991688249",
+                    "size": "442911200",
+                    "download": "381226688"
+                }
+            },
+            "decryptionkey": "1a68ff98a7817e24bd5c2c2633076e2a46aac753e47351dd4cf61bcfbea07277"
+        },
+        "3041823": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8537056967881612553",
+                    "size": "442156185",
+                    "download": "380355024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3661540": {
+            "dlcappid": "3661540",
+            "manifests": {
+                "public": {
+                    "gid": "5885255478826982259",
+                    "size": "3967901",
+                    "download": "3856608"
+                }
+            },
+            "decryptionkey": "5ecdf521dcceb1c8e7c2e72a634dabcdfd8a1bd331fd72e4203ddb098abb5610"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18187145",
+                "timeupdated": "1745289209"
+            }
+        }
+    }
+}
