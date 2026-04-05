@@ -1,0 +1,36 @@
+{
+    "appid": 2718240,
+    "name": "PolyPine",
+    "type": "Game",
+    "schinese_name": "小松林 PolyPine",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 16:05:40",
+    "change_number": 30070991,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2718241": {
+            "manifests": {
+                "public": {
+                    "gid": "7110377957027774947",
+                    "size": "244862282",
+                    "download": "87963248"
+                }
+            },
+            "decryptionkey": "6cc06aeab0483c18060930db7b0b6722950a28806d50052dcddce79ba4f02a14"
+        },
+        "baselanguages": "english,german,french,schinese,russian,japanese,polish,swedish,czech,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "19231616",
+                "timeupdated": "1752591932"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
