@@ -1,0 +1,64 @@
+{
+    "appid": 348910,
+    "name": "Faerie Solitaire Harvest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 01:38:22",
+    "change_number": 29732591,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "348911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4173218940252008967",
+                    "size": "234936100",
+                    "download": "181262928"
+                }
+            },
+            "decryptionkey": "aba07a487564e58b08b7815adc5583879fc4de884d612af1044d200b9c69c827"
+        },
+        "348912": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3999560947253211798",
+                    "size": "193459642",
+                    "download": "173898048"
+                }
+            }
+        },
+        "348913": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1435578489160350219",
+                    "size": "213898759",
+                    "download": "180374848"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18987296",
+                "timeupdated": "1750811897"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
