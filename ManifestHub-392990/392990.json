@@ -1,0 +1,71 @@
+{
+    "appid": 392990,
+    "name": "PCE Open Testing Beta",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 23:31:21",
+    "change_number": 30194730,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229032": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "392992": {
+            "manifests": {
+                "public": {
+                    "gid": "7169069183898027083",
+                    "size": "12452615591",
+                    "download": "9218564800"
+                }
+            },
+            "decryptionkey": "404a53de29bafac3f65e00419715ba7dd611039be66c8092324b9dc6c62ba8ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19303584",
+                "timeupdated": "1753123060"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 4916025423347788954
+}
