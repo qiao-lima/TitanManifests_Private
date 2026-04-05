@@ -1,0 +1,99 @@
+{
+    "appid": 1624320,
+    "name": "Eigengrau",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:43:25",
+    "change_number": 29367082,
+    "depot": {
+        "baselanguages": "",
+        "1624321": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4546821586433795044",
+                    "size": "48574144",
+                    "download": "48854688"
+                }
+            },
+            "decryptionkey": "e2baab5d5981e7465d9937cdf22195d01a01dea49208ad731bf8b5424335c999"
+        },
+        "1624325": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "458231137492647389",
+                    "size": "42492157",
+                    "download": "33854960"
+                }
+            },
+            "decryptionkey": "09f08c2e2c786b61358365f600b551472749d1db2e09b0b30266bac18fbac3d7"
+        },
+        "1624326": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3903607432671441180",
+                    "size": "18861016",
+                    "download": "6523520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1624322": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2194224506539476168",
+                    "size": "21606160",
+                    "download": "7160704"
+                }
+            },
+            "decryptionkey": "382b09302d615458ca4b6c4d1e840325ff53087a5466beec95d5e1e76e1a06cd"
+        },
+        "1624323": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1977592931177007124",
+                    "size": "9966897",
+                    "download": "3569456"
+                }
+            },
+            "decryptionkey": "3616133a3e26cd1b458480b211e2bfec98ac3e7a7e44fc0d75b40630c80ed293"
+        },
+        "1624324": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4221519479782754897",
+                    "size": "107882002",
+                    "download": "87900848"
+                }
+            },
+            "decryptionkey": "0a10e9888a0b8108d54fe7681d1a78a3492cde8d00ed6495d0fae681de9f9b69"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18730944",
+                "timeupdated": "1749026384"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
