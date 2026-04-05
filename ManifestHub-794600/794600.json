@@ -1,0 +1,53 @@
+{
+    "appid": 794600,
+    "name": "LET IT DIE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 03:28:24",
+    "change_number": 30218487,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "794601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5708794844077361220",
+                    "size": "43695403823",
+                    "download": "27865342704"
+                }
+            },
+            "decryptionkey": "202385b8bc3029959378251990b973817a80888b1d4792b65f34476813fecd2c"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18878494",
+                "timeupdated": "1751271222"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
