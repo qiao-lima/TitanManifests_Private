@@ -1,0 +1,52 @@
+{
+    "appid": 2882870,
+    "name": "Doll Impostor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 11:37:56",
+    "change_number": 30034700,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2882871": {
+            "manifests": {
+                "public": {
+                    "gid": "3934259462712091317",
+                    "size": "12881865097",
+                    "download": "12127165488"
+                },
+                "original": {
+                    "gid": "1379108789512295956",
+                    "size": "934355812",
+                    "download": "818344224"
+                }
+            },
+            "decryptionkey": "05aaa231aeeb68d9ff8503272ffed7c5f3d348a0c479f034924c0fc2a830ddb0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19206588",
+                "timeupdated": "1752403069"
+            },
+            "original": {
+                "buildid": "14196241",
+                "description": "original",
+                "timeupdated": "1718010141"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
