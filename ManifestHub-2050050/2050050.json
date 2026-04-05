@@ -1,0 +1,46 @@
+{
+    "appid": 2050050,
+    "name": "Rift Loopers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 16:37:17",
+    "change_number": 29173025,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2050051": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3392160696531983518",
+                    "size": "4098797613",
+                    "download": "3949430560"
+                }
+            },
+            "decryptionkey": "090139d70d82ef15136f66a2088654ccb9bfe23a404799329f1585558ab96c6a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15244153",
+                "timeupdated": "1722644783"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
