@@ -1,0 +1,28 @@
+{
+    "appid": 3041770,
+    "name": "Breakout Beyond",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 06:12:08",
+    "change_number": 29915939,
+    "depot": {
+        "3041771": {
+            "manifests": {
+                "public": {
+                    "gid": "1883813526158953474",
+                    "size": "624933936",
+                    "download": "141266464"
+                }
+            },
+            "decryptionkey": "b39b23f1b5b7105f9f5614188d9ee8be6bd7c15dea9f11d0f56f34d79dd23d76"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18647216",
+                "timeupdated": "1750252306"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
