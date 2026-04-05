@@ -1,0 +1,31 @@
+{
+    "appid": 1209720,
+    "name": "Machina of the Planet Tree -Unity Unions-",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 20:37:29",
+    "change_number": 30138205,
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "1209721": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4043923117887333721",
+                    "size": "655195580",
+                    "download": "512007680"
+                }
+            },
+            "decryptionkey": "31891a66491ab0e5576fbebeb2a87aeee3d93e53abb7c1f8af8fb66e7616f352"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5167651",
+                "timeupdated": "1592356022"
+            }
+        }
+    }
+}
