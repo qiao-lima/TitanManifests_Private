@@ -1,0 +1,28 @@
+{
+    "appid": 2598630,
+    "name": "The Dragonhood",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 18:58:20",
+    "change_number": 29994457,
+    "depot": {
+        "2598631": {
+            "manifests": {
+                "public": {
+                    "gid": "6156913224862939928",
+                    "size": "909735626",
+                    "download": "310243728"
+                }
+            },
+            "decryptionkey": "ea8a0e5026e57ad95e942a9889ea3f49351e3ed2751881fb5cf0d6462cb4e949"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16026504",
+                "timeupdated": "1729686656"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
