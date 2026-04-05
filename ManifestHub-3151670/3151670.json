@@ -1,0 +1,28 @@
+{
+    "appid": 3151670,
+    "name": "Trombone Champ: Unflattened",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 21:43:11",
+    "change_number": 29975719,
+    "depot": {
+        "3151671": {
+            "manifests": {
+                "public": {
+                    "gid": "4162330217251134045",
+                    "size": "2084170675",
+                    "download": "984204528"
+                }
+            },
+            "decryptionkey": "85557c97fe3028cb817410bf7e1aac01f0578ec78cf622a65e53061f04d0cfe4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18541904",
+                "timeupdated": "1747933159"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
