@@ -1,0 +1,45 @@
+{
+    "appid": 935880,
+    "name": "Glass Masquerade 2: Illusions",
+    "type": "Game",
+    "schinese_name": "玻璃舞会2：幻想",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 05:16:56",
+    "change_number": 29171312,
+    "depot": {
+        "935881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5822767234094158677",
+                    "size": "761939299",
+                    "download": "296754320"
+                }
+            },
+            "decryptionkey": "38bcf8a07964d2e15f2e3207e14bcdc6c801315f050016d13565ab597a4f6d2a"
+        },
+        "935882": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4311562683793056397",
+                    "size": "777881663",
+                    "download": "301773152"
+                }
+            },
+            "decryptionkey": "4a7fc1f64780eb047121d3de7deaa5845d98514853a4be26f796bba3db3e97f9"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "10198990",
+                "timeupdated": "1671706909"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
