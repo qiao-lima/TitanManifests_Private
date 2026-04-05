@@ -1,0 +1,30 @@
+{
+    "appid": 371570,
+    "name": "Tap Heroes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 23:16:50",
+    "change_number": 29552303,
+    "depot": {
+        "371571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4589223591152756572",
+                    "size": "29605434",
+                    "download": "28433184"
+                }
+            },
+            "decryptionkey": "8f62fa3f04afc321fde2a9b7a4b8d14a54013c1f9bcfbe0f8228cfb5aeb0d2cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2115280",
+                "timeupdated": "1505307010"
+            }
+        }
+    }
+}
