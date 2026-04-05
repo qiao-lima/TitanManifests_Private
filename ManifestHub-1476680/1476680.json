@@ -1,0 +1,37 @@
+{
+    "appid": 1476680,
+    "name": "A World of Little Legends",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 01:00:17",
+    "change_number": 30058333,
+    "depot": {
+        "1476681": {
+            "manifests": {
+                "public": {
+                    "gid": "6850588699605285980",
+                    "size": "488038359",
+                    "download": "135072352"
+                },
+                "beta": {
+                    "gid": "2060271754156763070",
+                    "size": "500536998",
+                    "download": "143800816"
+                }
+            },
+            "decryptionkey": "63a4c48347c3e464c7aa29705bdcf4b31ecfac6da8188a30d8719dcc6fbdf760"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18738591",
+                "timeupdated": "1749060386"
+            },
+            "beta": {
+                "buildid": "19084464",
+                "description": "Beta testing.",
+                "timeupdated": "1751487755"
+            }
+        }
+    }
+}
