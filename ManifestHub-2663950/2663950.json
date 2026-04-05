@@ -1,0 +1,40 @@
+{
+    "appid": 2663950,
+    "name": "再见断刀",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 18:18:01",
+    "change_number": 30191002,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2663951": {
+            "manifests": {
+                "public": {
+                    "gid": "1179384671642478606",
+                    "size": "7388259349",
+                    "download": "1706605312"
+                }
+            },
+            "decryptionkey": "004668597f47ae4de102eb65dbd8957898380a9082876d15c45563fbc4a1bfcf"
+        },
+        "3633640": {
+            "dlcappid": "3633640",
+            "manifests": {
+                "public": {
+                    "gid": "7664168641376633358",
+                    "size": "860193778",
+                    "download": "829167392"
+                }
+            },
+            "decryptionkey": "78dfded45ebabe7659c29ad5b2aa13c26ff937701e6d4b1906e6dd5f0cd8293d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18893242",
+                "timeupdated": "1750143079"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
