@@ -1,0 +1,29 @@
+{
+    "appid": "938570",
+    "type": "Game",
+    "name": "Space Transfer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18821630",
+    "update_time": "2024-08-14 20:04:51",
+    "depot": {
+        "938571": {
+            "manifests": {
+                "public": {
+                    "gid": "8664526280619387096",
+                    "size": "658297515",
+                    "download": "271584704"
+                }
+            },
+            "decryptionkey": "afd5f1571edc24925128b25e2bed2a2417d95c101ec85e947dcd1cb9fca1aa03"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "3103564",
+                "timeupdated": "1536394617"
+            }
+        }
+    },
+    "access_token": 10554756499150238041
+}
