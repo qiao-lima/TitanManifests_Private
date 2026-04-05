@@ -1,0 +1,42 @@
+{
+    "appid": 2650830,
+    "name": "Crayon Computer",
+    "type": "Game",
+    "schinese_name": "蜡笔计算机",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 22:24:19",
+    "change_number": 29238118,
+    "depot": {
+        "2650831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6143777933395846418",
+                    "size": "116198440",
+                    "download": "69742784"
+                }
+            },
+            "decryptionkey": "7acf861f568286a8104b7084faf1a44c65e57cefae22bc1acb1ae6f485e1f763"
+        },
+        "2650832": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5412734668896563974",
+                    "size": "197138838",
+                    "download": "85869216"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13489112",
+                "timeupdated": "1708240878"
+            }
+        }
+    }
+}
