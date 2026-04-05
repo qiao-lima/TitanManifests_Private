@@ -1,0 +1,39 @@
+{
+    "appid": 1973710,
+    "name": "ヘブンバーンズレッド",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 03:41:07",
+    "change_number": 30218612,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "koreana,tchinese,japanese",
+        "1973711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6368535178243619139",
+                    "size": "38271501789",
+                    "download": "35056278272"
+                }
+            },
+            "decryptionkey": "f9b7c13407da5cff58d249c1b167561ef3b4388bf83109210655528563827af4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19274378",
+                "timeupdated": "1753149924"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
