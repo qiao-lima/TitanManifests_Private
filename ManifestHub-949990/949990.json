@@ -1,0 +1,30 @@
+{
+    "appid": 949990,
+    "name": "Magical Monster Land",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 23:10:42",
+    "change_number": 29887001,
+    "depot": {
+        "949991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4801361659980594312",
+                    "size": "24672248",
+                    "download": "20111984"
+                }
+            },
+            "decryptionkey": "49ad7a297f7b70388340cb88374270fe5e3d06b6df2d867e1208e66a6eafdda4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16870808",
+                "timeupdated": "1735491948"
+            }
+        }
+    }
+}
