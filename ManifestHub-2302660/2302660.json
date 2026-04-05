@@ -1,0 +1,44 @@
+{
+    "appid": 2302660,
+    "name": "Homicipher",
+    "type": "Game",
+    "schinese_name": "文字化化",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 20:07:54",
+    "change_number": 29748195,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "2302661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3195545419749960305",
+                    "size": "331942657",
+                    "download": "200198736"
+                }
+            },
+            "decryptionkey": "2af13d0401290a5bc53126249ba4d1d553d7d890d56c8f228916568fa3b2358a"
+        },
+        "2302662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7592804467415797855",
+                    "size": "341037063",
+                    "download": "199730880"
+                }
+            },
+            "decryptionkey": "45e7664ae09f55c3b206e5ad052b4cefdcd9a1ee86e9c64284e066280e2718b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17564251",
+                "timeupdated": "1740907366"
+            }
+        }
+    }
+}
