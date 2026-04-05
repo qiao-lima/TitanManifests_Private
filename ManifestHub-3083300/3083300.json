@@ -1,0 +1,59 @@
+{
+    "appid": 3083300,
+    "name": "Proverbs",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 02:18:06",
+    "change_number": 30177292,
+    "depot": {
+        "3083301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7622462476194081546",
+                    "size": "290324462",
+                    "download": "138068096"
+                },
+                "beta": {
+                    "gid": "7251018809282283348",
+                    "size": "307357630",
+                    "download": "141507984"
+                }
+            },
+            "decryptionkey": "3eed75a70a6242e6d25b6bb98fec84b9995a70fc0061bf1cbc9a021a1d6f00fd"
+        },
+        "3083302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3013420250637397844",
+                    "size": "323273993",
+                    "download": "147885424"
+                },
+                "beta": {
+                    "gid": "7630472994179504023",
+                    "size": "335911153",
+                    "download": "151577872"
+                }
+            },
+            "decryptionkey": "4795bd4b73dd1b1ba26f7937c2ecda0f1ee6c7a20def5ec60cd2af193a2cf0e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17292116",
+                "timeupdated": "1739029924"
+            },
+            "beta": {
+                "buildid": "17949533",
+                "description": "Public beta branch",
+                "timeupdated": "1743570424"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
