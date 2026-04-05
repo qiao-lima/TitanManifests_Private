@@ -1,0 +1,54 @@
+{
+    "appid": 2051620,
+    "name": "Enlisted",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 08:38:44",
+    "change_number": 30201511,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,latam",
+        "2051621": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5677481396597681840",
+                    "size": "52073140392",
+                    "download": "51460396448"
+                }
+            },
+            "decryptionkey": "2e88998155ed76d2223ff26539918546cbf9ee06024cfbef3ddb71940b022fcf"
+        },
+        "2051622": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "2051623": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1501247991652256417",
+                    "size": "318572285",
+                    "download": "87262112"
+                }
+            },
+            "decryptionkey": "55d1bcf02fdc2d9245ab0236c0b44a3a27321898924f5e8226cc327d043c4637"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19339246",
+                "timeupdated": "1753336152"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
