@@ -1,0 +1,48 @@
+{
+    "appid": 1531270,
+    "name": "Dance with me",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 15:01:28",
+    "change_number": 29989597,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1531271": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "792128087080325968",
+                    "size": "711877207",
+                    "download": "549969472"
+                }
+            },
+            "decryptionkey": "081a71d7469f33af861d8b3aef9fb785b14f2f5b01ed90b2c8466f8b2e6e83f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18293454",
+                "timeupdated": "1746007334"
+            }
+        }
+    }
+}
