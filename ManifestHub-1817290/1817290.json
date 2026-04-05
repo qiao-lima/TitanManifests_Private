@@ -1,0 +1,56 @@
+{
+    "appid": "1817290",
+    "type": "Game",
+    "name": "In Nightmare",
+    "schinese_name": "暗夜长梦",
+    "isfreeapp": "0",
+    "change_number": "28855315",
+    "update_time": "2025-05-07 14:01:15",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1817291": {
+            "config": {
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4097996082684627289",
+                    "size": "12861398027",
+                    "download": "7909740800"
+                },
+                "local": {
+                    "gid": "8532041262299404394",
+                    "size": "12858096653",
+                    "download": "7908542416"
+                }
+            },
+            "decryptionkey": "3286dc44755b592443a91777e8bbae3bef19279aeff5650a2f6e38b2ce01debb"
+        },
+        "1817292": {
+            "config": {
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5383833916948517430",
+                    "size": "12858096653",
+                    "download": "7908542416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18052202",
+                "timeupdated": "1744268836"
+            },
+            "local": {
+                "buildid": "17389939",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1739779840"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
