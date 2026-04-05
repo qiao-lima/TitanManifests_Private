@@ -1,0 +1,27 @@
+{
+    "appid": 2448140,
+    "name": "SWEET FEETS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 15:01:48",
+    "change_number": 29989608,
+    "depot": {
+        "2448141": {
+            "manifests": {
+                "public": {
+                    "gid": "8551177225925155586",
+                    "size": "221027969",
+                    "download": "135135792"
+                }
+            },
+            "decryptionkey": "5f7235a1130032a4620d45a85e1f5d92b6f02bd03a653935900a6b0f9d313f05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11570458",
+                "timeupdated": "1687882173"
+            }
+        }
+    }
+}
