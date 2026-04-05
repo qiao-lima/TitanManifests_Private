@@ -1,0 +1,32 @@
+{
+    "appid": 1438700,
+    "name": "Silicon Valley Investor",
+    "type": "Game",
+    "schinese_name": "硅谷投资客",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 19:11:41",
+    "change_number": 29920527,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "1438701": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4528074426479967899",
+                    "size": "247022607",
+                    "download": "73202752"
+                }
+            },
+            "decryptionkey": "7d351e3dc4cda020368496b2c44207cf4e946ee67a47b836cbe3fc5b72195a05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5896426",
+                "timeupdated": "1606639652"
+            }
+        }
+    }
+}
