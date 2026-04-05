@@ -1,0 +1,27 @@
+{
+    "appid": 1296260,
+    "name": "Sakura Knight 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 06:42:18",
+    "change_number": 30179965,
+    "depot": {
+        "1296261": {
+            "manifests": {
+                "public": {
+                    "gid": "663755793618613577",
+                    "size": "251860003",
+                    "download": "164133072"
+                }
+            },
+            "decryptionkey": "7582970e8aa3a8ce94431aff90b44876a4dce18a3830a0a4a352263549aa77b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5110424",
+                "timeupdated": "1591110755"
+            }
+        }
+    }
+}
