@@ -1,0 +1,92 @@
+{
+    "appid": 473530,
+    "name": "Slime-san",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 20:44:07",
+    "change_number": 29936826,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "473531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6024022040711328375",
+                    "size": "1609134919",
+                    "download": "442136928"
+                }
+            },
+            "decryptionkey": "a2233ad9b18e9ee68b7e14d62928692167233240ef93e80f02e265a32b9cba98"
+        },
+        "473532": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3515398552128573472",
+                    "size": "1614094103",
+                    "download": "443740144"
+                }
+            },
+            "decryptionkey": "edb7100a7f72cac49ec2da880326d225eeaf3175dd55f565584f18a42e513a65"
+        },
+        "473533": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3754658508336679439",
+                    "size": "1657927767",
+                    "download": "455389952"
+                }
+            },
+            "decryptionkey": "e44c576dceb8ab0fb44082817240e0a61397991c1f722fb0b600281ce41ee84e"
+        },
+        "473534": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3587123479120495445",
+                    "size": "1648791577",
+                    "download": "454166048"
+                }
+            },
+            "decryptionkey": "2b1444b5479bf12887b0f9759399d41192069549649eacded9313b0b932ff9a4"
+        },
+        "613000": {
+            "manifests": {
+                "public": {
+                    "gid": "6588785021342199856",
+                    "size": "803944390",
+                    "download": "652741680"
+                }
+            },
+            "dlcappid": "613000",
+            "decryptionkey": "2f9ad7f41acb63136ea4f07c367f57ae2941b96c37bfa672bc09b001614f2816"
+        },
+        "workshopdepot": "473530",
+        "branches": {
+            "public": {
+                "buildid": "3377380",
+                "timeupdated": "1544294665"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
