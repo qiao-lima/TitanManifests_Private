@@ -1,0 +1,34 @@
+{
+    "appid": 1348060,
+    "name": "Bug Blast",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 07:52:53",
+    "change_number": 29837112,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1348061": {
+            "manifests": {
+                "public": {
+                    "gid": "6409461532844950770",
+                    "size": "262994907",
+                    "download": "215510592"
+                }
+            },
+            "decryptionkey": "5692d047daf595fc666d3d24324053b3031defbd50ca1b8fad65cbc75c541e5f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5147778",
+                "timeupdated": "1591830222"
+            }
+        }
+    }
+}
