@@ -1,0 +1,27 @@
+{
+    "appid": 1249990,
+    "name": "Suicide Guy Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 13:15:21",
+    "change_number": 26201212,
+    "depot": {
+        "1249991": {
+            "manifests": {
+                "public": {
+                    "gid": "7746125713686942989",
+                    "size": "43078951",
+                    "download": "37015200"
+                }
+            },
+            "decryptionkey": "8ce114bd921b8e4adc9221b0f021370d757c7d4fd6e22ff104f5c2af895b9903"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4684509",
+                "timeupdated": "1581945504"
+            }
+        }
+    }
+}
