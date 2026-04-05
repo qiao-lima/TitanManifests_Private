@@ -1,0 +1,31 @@
+{
+    "appid": 501930,
+    "name": "Sig.Null",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-19 22:51:30",
+    "change_number": 30149907,
+    "depot": {
+        "501931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "841255245848236174",
+                    "size": "74829712",
+                    "download": "58769520"
+                }
+            },
+            "decryptionkey": "427781ec58b18cc3e0905cf5f4c03d634b919e43b7b768d45aff8a586e7ab170"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "12567983",
+                "timeupdated": "1698633649"
+            }
+        }
+    }
+}
