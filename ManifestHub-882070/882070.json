@@ -1,0 +1,27 @@
+{
+    "appid": 882070,
+    "name": "PlatONIR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 23:54:08",
+    "change_number": 30120340,
+    "depot": {
+        "882071": {
+            "manifests": {
+                "public": {
+                    "gid": "2070805346401125337",
+                    "size": "7662580",
+                    "download": "2890560"
+                }
+            },
+            "decryptionkey": "969f77d7291fef82fecb4b694b9acf4ed7b8d231df4c4dc976e684cfb10d398e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2917452",
+                "timeupdated": "1530689046"
+            }
+        }
+    }
+}
