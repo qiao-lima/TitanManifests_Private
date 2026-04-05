@@ -1,0 +1,32 @@
+{
+    "appid": 1578390,
+    "name": "My Garage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 06:47:56",
+    "change_number": 30125115,
+    "depot": {
+        "1578391": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8928485095974649563",
+                    "size": "9779388373",
+                    "download": "3548975648"
+                }
+            },
+            "decryptionkey": "2629060dc735b648e02216c3c27486fc1158eabb37d690a8d820d7565abe107f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19270283",
+                "timeupdated": "1752817672"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
