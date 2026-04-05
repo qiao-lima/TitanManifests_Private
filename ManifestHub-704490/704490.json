@@ -1,0 +1,28 @@
+{
+    "appid": 704490,
+    "name": "Caves!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:45",
+    "change_number": 30056467,
+    "depot": {
+        "704491": {
+            "manifests": {
+                "public": {
+                    "gid": "3664095322006270075",
+                    "size": "32594158",
+                    "download": "12597904"
+                }
+            },
+            "decryptionkey": "fac6a2869c456a7d3accd03f4dcdc7732653e038c6b30eb3a56c75959b377747"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2085852",
+                "timeupdated": "1504281332"
+            }
+        }
+    },
+    "access_token": 15269958212537454442
+}
