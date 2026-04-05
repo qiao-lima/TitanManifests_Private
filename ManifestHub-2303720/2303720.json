@@ -1,0 +1,41 @@
+{
+    "appid": 2303720,
+    "name": "Multiplayer Cowboys",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:17:55",
+    "change_number": 29717370,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2303721": {
+            "manifests": {
+                "public": {
+                    "gid": "2716969202252503079",
+                    "size": "3901811333",
+                    "download": "3717352624"
+                }
+            },
+            "decryptionkey": "a163935494e0b404272476b4592503dbc95bafe8718fb5ae44e424bcf403fdcc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10437397",
+                "timeupdated": "1675110582"
+            }
+        }
+    }
+}
