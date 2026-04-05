@@ -1,0 +1,30 @@
+{
+    "appid": 1854810,
+    "name": "My Pet Sitter is a Futanari",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 07:14:46",
+    "change_number": 29780629,
+    "depot": {
+        "1854811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7448653930813883032",
+                    "size": "163077101",
+                    "download": "65842256"
+                }
+            },
+            "decryptionkey": "62a01d5da26242ff49caae98de511292682813e53b4474fddcc022d0518025bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8794712",
+                "timeupdated": "1653337436"
+            }
+        }
+    }
+}
