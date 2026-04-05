@@ -1,0 +1,51 @@
+{
+    "appid": 669910,
+    "name": "Miles & Kilo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 13:11:35",
+    "change_number": 30026896,
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "669911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4843651262048823872",
+                    "size": "164501084",
+                    "download": "114666752"
+                }
+            },
+            "decryptionkey": "d2698021ce575f018efc984359446cc517297e63027ca643377c3a2d1c90d0ac"
+        },
+        "669912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5795358048464099468",
+                    "size": "203940053",
+                    "download": "122622416"
+                }
+            },
+            "decryptionkey": "d47220e4ca4d17196824585e93b2db2c2a3f012b0e8ed2d4435e2b77a6267381"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4578122",
+                "timeupdated": "1579210500"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
