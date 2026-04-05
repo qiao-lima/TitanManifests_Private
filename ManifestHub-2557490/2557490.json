@@ -1,0 +1,30 @@
+{
+    "appid": 2557490,
+    "name": "Dirt Bike Racer Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 22:01:43",
+    "change_number": 29975942,
+    "depot": {
+        "2557491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5868285475173444964",
+                    "size": "791933253",
+                    "download": "663293648"
+                }
+            },
+            "decryptionkey": "1d8beb8cfee99f516a3c24d36efd921d9ad6d43c63f13d95bb6af77ea248b53e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18112718",
+                "timeupdated": "1744716708"
+            }
+        }
+    }
+}
