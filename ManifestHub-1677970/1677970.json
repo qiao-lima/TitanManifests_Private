@@ -1,0 +1,49 @@
+{
+    "appid": 1677970,
+    "name": "Railroad Corporation 2",
+    "type": "Game",
+    "schinese_name": "铁路公司2",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:23:37",
+    "change_number": 30207091,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1677971": {
+            "manifests": {
+                "public": {
+                    "gid": "3784197078164947600",
+                    "size": "6725190791",
+                    "download": "2498792064"
+                },
+                "version12750": {
+                    "gid": "5010879974556945434",
+                    "size": "8071508666",
+                    "download": "3228828112"
+                },
+                "version14177": {
+                    "gid": "7105846883430510716",
+                    "size": "6668622430",
+                    "download": "2448631056"
+                }
+            },
+            "decryptionkey": "afba9fdf829512712bcba4a5ab6ec10b963c9b6ff125c36b33df8a0135d83932"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19315633",
+                "timeupdated": "1753262032"
+            },
+            "version12750": {
+                "buildid": "17532607",
+                "description": "before save files wiping",
+                "timeupdated": "1749026765"
+            },
+            "version14177": {
+                "buildid": "18845305",
+                "description": "before 2nd save files wipe",
+                "timeupdated": "1752441345"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
