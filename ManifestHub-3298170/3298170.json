@@ -1,0 +1,27 @@
+{
+    "appid": 3298170,
+    "name": "S.E.X. Z.O.N.E. ☢️",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 07:52:54",
+    "change_number": 30152528,
+    "depot": {
+        "3298171": {
+            "manifests": {
+                "public": {
+                    "gid": "7218771208087882472",
+                    "size": "4973504587",
+                    "download": "2443487776"
+                }
+            },
+            "decryptionkey": "c97c78d0a28de86914f3a202160326f8af316958da81877faf0c496319be7111"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16656060",
+                "timeupdated": "1733487044"
+            }
+        }
+    }
+}
