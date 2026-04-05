@@ -1,0 +1,44 @@
+{
+    "appid": 789660,
+    "name": "Buggos",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 12:03:58",
+    "change_number": 29689419,
+    "depot": {
+        "workshopdepot": "789660",
+        "baselanguages": "english",
+        "789662": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3587348397598371333",
+                    "size": "362739284",
+                    "download": "77568064"
+                },
+                "beta": {
+                    "gid": "3909611676175915672",
+                    "size": "359512450",
+                    "download": "77362576"
+                }
+            },
+            "decryptionkey": "9d74b5a2393fedda4972be0e5e05ad002cba768d87474ba0480c87c2bc170b0e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13761395",
+                "timeupdated": "1710584329"
+            },
+            "beta": {
+                "buildid": "12841512",
+                "description": "For beta testing new version of Buggos",
+                "timeupdated": "1701365280"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3ca112a2b384896c9258c3464289e4e96854e4a3d4020f7e49e0545482f9713c"
+    }
+}
