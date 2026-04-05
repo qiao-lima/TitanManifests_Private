@@ -1,0 +1,43 @@
+{
+    "appid": 2668080,
+    "name": "SNOWBREAK",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 18:58:41",
+    "change_number": 30212144,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2668081": {
+            "manifests": {
+                "public": {
+                    "gid": "6474417827630609550",
+                    "size": "37249606159",
+                    "download": "36553885248"
+                }
+            },
+            "decryptionkey": "08a4f7f6d4398eca33e57a0ebd41aff377e7bd72ef5fa37ee5e8895d1b82f50f"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19332890",
+                "timeupdated": "1753293517"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
