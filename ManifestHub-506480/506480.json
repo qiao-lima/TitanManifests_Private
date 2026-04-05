@@ -1,0 +1,58 @@
+{
+    "appid": 506480,
+    "name": "Archmage Rises",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 21:06:38",
+    "change_number": 30019195,
+    "depot": {
+        "506481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2350295922858712693",
+                    "size": "5441097270",
+                    "download": "1760168928"
+                },
+                "beta": {
+                    "gid": "2728332654460547974",
+                    "size": "5443638414",
+                    "download": "1762895136"
+                }
+            },
+            "decryptionkey": "7fb3cf0aa87aa59e1b5fe2a162fd4740fe5e0e4012be7ee8180007ce2d948013"
+        },
+        "506482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "88426885159206118",
+                    "size": "5466116002",
+                    "download": "1772810896"
+                },
+                "beta": {
+                    "gid": "1899709071200052609",
+                    "size": "5468654395",
+                    "download": "1775744336"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14357094",
+                "timeupdated": "1715719566"
+            },
+            "beta": {
+                "buildid": "19195488",
+                "description": "Events Beta - 0.3.2",
+                "timeupdated": "1752264392"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
