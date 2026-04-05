@@ -1,0 +1,44 @@
+{
+    "appid": 3380320,
+    "name": "Non-Euclidean Minesweeper",
+    "type": "Game",
+    "schinese_name": "非欧几里得扫雷",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 18:30:24",
+    "change_number": 30156399,
+    "depot": {
+        "baselanguages": "",
+        "3380321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "991880067518923807",
+                    "size": "20049040",
+                    "download": "13406816"
+                }
+            },
+            "decryptionkey": "ba48bf0cc55485209162e2dc37b2c37901ad32086ef90a653f1cb9afa6855de8"
+        },
+        "3380322": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1362762964745354077",
+                    "size": "310516831",
+                    "download": "116275408"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19266362",
+                "timeupdated": "1752789532"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
