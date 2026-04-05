@@ -1,0 +1,32 @@
+{
+    "appid": 3245600,
+    "name": "Double Fine PsychOdyssey",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 11:57:12",
+    "change_number": 29687450,
+    "depot": {
+        "3245600": {
+            "manifests": {
+                "public": {
+                    "gid": "1499112014531074591",
+                    "size": "218715774751",
+                    "download": "221014004080"
+                }
+            },
+            "dlcappid": "3245600",
+            "config": {
+                "optionaldlc": "3245600"
+            },
+            "decryptionkey": "97164139d21ecf4706f9a240c1dcb2836ac7d533e2c434a027347281cd5422dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16490565",
+                "timeupdated": "1732695448"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
