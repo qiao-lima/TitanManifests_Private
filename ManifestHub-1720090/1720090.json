@@ -1,0 +1,46 @@
+{
+    "appid": 1720090,
+    "name": "Aspire: Ina's Tale",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 18:57:35",
+    "change_number": 30017320,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1720091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6558543278294455644",
+                    "size": "1655827455",
+                    "download": "492255712"
+                }
+            },
+            "decryptionkey": "760062f244b6c9e9b8fbaaf412e186244d12f04caedaf9c41ff15a960967ce2b"
+        },
+        "1817430": {
+            "dlcappid": "1817430",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2459987916685125040",
+                    "size": "35634494",
+                    "download": "31358064"
+                }
+            },
+            "decryptionkey": "fdaec3acf71418357c03a894af46464df1483df939b2f710fa881e2772708da3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8451589",
+                "timeupdated": "1648476034"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
