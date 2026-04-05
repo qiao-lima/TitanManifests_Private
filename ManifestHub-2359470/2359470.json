@@ -1,0 +1,44 @@
+{
+    "appid": 2359470,
+    "name": "Strayed",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 04:30:24",
+    "change_number": 30219212,
+    "depot": {
+        "2359471": {
+            "manifests": {
+                "public": {
+                    "gid": "7212870514044646328",
+                    "size": "3044435471",
+                    "download": "2681921392"
+                },
+                "public-staging": {
+                    "gid": "7212870514044646328",
+                    "size": "3044435471",
+                    "download": "2681921392"
+                }
+            },
+            "decryptionkey": "fae5ab274cd384def39251b423becea322c959a06e5ec256ba8460c38b2b79c3"
+        },
+        "2359472": {
+            "config": {
+                "language": "english"
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19337998",
+                "timeupdated": "1753327820"
+            },
+            "public-staging": {
+                "buildid": "19337998",
+                "description": "Public staging branch",
+                "timeupdated": "1753334229"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
