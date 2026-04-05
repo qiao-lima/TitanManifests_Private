@@ -1,0 +1,57 @@
+{
+    "appid": 3172860,
+    "name": "Lust Epidemic 18+",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 10:01:24",
+    "change_number": 29984603,
+    "depot": {
+        "3172861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5171641883856997954",
+                    "size": "884152275",
+                    "download": "325189104"
+                }
+            },
+            "decryptionkey": "623f99b45d8afab9c117ac6ec68ad5adafe7e1199fbc8da49c0ef666b474ce5a"
+        },
+        "3172862": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3159912371865749836",
+                    "size": "908499821",
+                    "download": "332638512"
+                }
+            },
+            "decryptionkey": "cda3bc086bb5fcf7beb1d8aa717400f5350024369dc3f61cf8d6e762aa42168e"
+        },
+        "3172863": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1289046375567684206",
+                    "size": "885964460",
+                    "download": "324355072"
+                }
+            },
+            "decryptionkey": "859b68896c9302d305e0687373e31d62600ab0fe8ad5bbd5ddad08168033472e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15849082",
+                "timeupdated": "1727433141"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
