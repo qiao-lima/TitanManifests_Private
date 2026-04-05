@@ -1,0 +1,42 @@
+{
+    "appid": 2919110,
+    "name": "Shallow Sea Roaming",
+    "type": "Game",
+    "schinese_name": "浅海漫游",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 01:11:08",
+    "change_number": 29914655,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2919111": {
+            "manifests": {
+                "public": {
+                    "gid": "5611079626735951039",
+                    "size": "10166860078",
+                    "download": "9767834160"
+                }
+            },
+            "decryptionkey": "0a84b23baf8bc149458f59b63900e7709e308159a117a354f051c3a6ec041b3a"
+        },
+        "baselanguages": "english,german,french,schinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18637204",
+                "timeupdated": "1748414577"
+            }
+        }
+    }
+}
