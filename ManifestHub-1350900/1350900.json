@@ -1,0 +1,31 @@
+{
+    "appid": 1350900,
+    "name": "RPG Maker MZ - Add-on Vol.1: RM2k Rearrange Soundtrack & SE",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:47:52",
+    "change_number": 26201212,
+    "depot": {
+        "1350900": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4498110872010504358",
+                    "size": "44847445",
+                    "download": "43712000"
+                }
+            },
+            "dlcappid": "1350900",
+            "decryptionkey": "63b39682ef62593aec4099c236bf5d70dede6f91aba90d3c0f6c1f84bd473af9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5510112",
+                "timeupdated": "1599446422"
+            }
+        }
+    }
+}
