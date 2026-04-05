@@ -1,0 +1,56 @@
+{
+    "appid": 856490,
+    "name": "Falling words",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 11:54:01",
+    "change_number": 29841037,
+    "depot": {
+        "856491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5560153324250744241",
+                    "size": "80672072",
+                    "download": "24390800"
+                }
+            },
+            "decryptionkey": "e45740aabc48d4bc7f7eb35ca8b4bcc973968316a64decfed774d39946e7eff3"
+        },
+        "856492": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7823475800619871144",
+                    "size": "100952172",
+                    "download": "28576464"
+                }
+            },
+            "decryptionkey": "c81fb371fc7da01c87bcfafcc7c0eb8d0429c8228918d54be6db04d9e0b44acd"
+        },
+        "856493": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6124594879964544504",
+                    "size": "96205299",
+                    "download": "28591120"
+                }
+            },
+            "decryptionkey": "ddecfbb733aba7c6ef90455b2122637afae55fab968d10545854eee321952e78"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2768600",
+                "timeupdated": "1526139755"
+            }
+        }
+    }
+}
