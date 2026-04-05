@@ -1,0 +1,101 @@
+{
+    "appid": 329130,
+    "name": "Reassembly",
+    "type": "Game",
+    "schinese_name": "重组",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 19:14:45",
+    "change_number": 29954804,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "329130",
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,polish,turkish,brazilian",
+        "329131": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4839602549532422465",
+                    "size": "123908904",
+                    "download": "102583472"
+                },
+                "beta": {
+                    "gid": "4839602549532422465",
+                    "size": "123908904",
+                    "download": "102583472"
+                }
+            },
+            "decryptionkey": "267b3dfd646f701a44706c4e22f8421e859bb2b7ff264ea7106d9fdc833211a1"
+        },
+        "329132": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7640489419007103993",
+                    "size": "132685615",
+                    "download": "106796432"
+                },
+                "beta": {
+                    "gid": "7640489419007103993",
+                    "size": "132685615",
+                    "download": "106796432"
+                }
+            },
+            "decryptionkey": "63e0e9e894fa57419db07435676963aac8963d11edf72ae09e240a4b2c19bf2b"
+        },
+        "329133": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1446294067501623196",
+                    "size": "119258660",
+                    "download": "102030192"
+                },
+                "beta": {
+                    "gid": "1446294067501623196",
+                    "size": "119258660",
+                    "download": "102030192"
+                }
+            },
+            "decryptionkey": "616c4c2226f9daa40fa906a480d5f104b7a98ed5033d82d56903f9f7ce386721"
+        },
+        "329134": {
+            "dlcappid": "1012980",
+            "manifests": {
+                "public": {
+                    "gid": "6431344855630987537",
+                    "size": "100730275",
+                    "download": "100740832"
+                },
+                "beta": {
+                    "gid": "6431344855630987537",
+                    "size": "100730275",
+                    "download": "100740832"
+                }
+            },
+            "decryptionkey": "c7121c008bde1b2a2a26448ca35f4a8b3d0f1a9652f6559c20025e83f11115fa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19149099",
+                "timeupdated": "1751998479"
+            },
+            "beta": {
+                "buildid": "19149099",
+                "timeupdated": "1751993880"
+            }
+        },
+        "workshopdepotdecryptionkey": "1ef7292fac4ddfdad3e2c289f5708b64add847980c19a40d18feca9f4274d31b"
+    }
+}
