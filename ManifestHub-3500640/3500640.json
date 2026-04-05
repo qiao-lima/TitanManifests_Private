@@ -1,0 +1,46 @@
+{
+    "appid": 3500640,
+    "name": "Arithmetic",
+    "type": "Game",
+    "schinese_name": "数算箱题",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 21:50:24",
+    "change_number": 29681324,
+    "depot": {
+        "baselanguages": "english,koreana,spanish,schinese,tchinese,japanese",
+        "workshopdepot": "3500640",
+        "3500642": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8506891159564080161",
+                    "size": "95220960",
+                    "download": "31115424"
+                }
+            },
+            "decryptionkey": "9a8c9c60fc9fbc8c1c0805e74aa243f0400a55e8fcad3ed786bea072b7613680"
+        },
+        "3500643": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1344384686515436012",
+                    "size": "78772712",
+                    "download": "26642912"
+                }
+            },
+            "decryptionkey": "d0f24eec3a222aa3553314c2ad529835c3ec74540c8c5e2ef1339c79c51608d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17574908",
+                "timeupdated": "1741010305"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
