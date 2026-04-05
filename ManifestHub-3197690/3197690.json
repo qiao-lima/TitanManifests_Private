@@ -1,0 +1,28 @@
+{
+    "appid": 3197690,
+    "name": "Three Skies Ascension",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 11:33:43",
+    "change_number": 30204489,
+    "depot": {
+        "3197691": {
+            "manifests": {
+                "public": {
+                    "gid": "3501715727172713224",
+                    "size": "2061107094",
+                    "download": "991433664"
+                }
+            },
+            "decryptionkey": "fb43e7acb7bb362d55dfbc3d674b67536a5280ae11702b778efc5c22036a2d24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18633388",
+                "timeupdated": "1748530431"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
