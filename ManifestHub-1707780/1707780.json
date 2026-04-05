@@ -1,0 +1,45 @@
+{
+    "appid": 1707780,
+    "name": "Parasite Infection",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:17:58",
+    "change_number": 30193488,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1707781": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2475632781180339896",
+                    "size": "635298132",
+                    "download": "308863008"
+                }
+            },
+            "decryptionkey": "c9e0b84d0fa309d7f987f8b998f7cccc1738a4ef002ce5adef093cd3e95c2d0d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17056133",
+                "timeupdated": "1753215475"
+            }
+        }
+    }
+}
