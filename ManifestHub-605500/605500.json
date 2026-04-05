@@ -1,0 +1,28 @@
+{
+    "appid": "605500",
+    "type": "Game",
+    "name": "What's under your blanket 2 !?",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28032603",
+    "update_time": "2025-03-19 20:55:45",
+    "depot": {
+        "605501": {
+            "manifests": {
+                "public": {
+                    "gid": "7868346124439309428",
+                    "size": "618410914",
+                    "download": "43148288"
+                }
+            },
+            "decryptionkey": "2a384c850e5148ce431473edd9a062d9ac7fbb7f642ff32697aeee4c4a1cb9cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1817243",
+                "timeupdated": "1494576785"
+            }
+        }
+    },
+    "access_token": 7359800142879921116
+}
