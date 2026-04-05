@@ -1,0 +1,50 @@
+{
+    "appid": 1299290,
+    "name": "Somber Echoes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 18:51:45",
+    "change_number": 30156561,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1299291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3986811877768699900",
+                    "size": "19020460866",
+                    "download": "8012315968"
+                }
+            },
+            "decryptionkey": "fc5b32cacdd3a6013c462e43074cafc32edca676dc5cfec129389fce3934f001"
+        },
+        "1299292": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19143893",
+                "timeupdated": "1751990375"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
