@@ -1,0 +1,39 @@
+{
+    "appid": 1587130,
+    "name": "Blood West",
+    "type": "Game",
+    "schinese_name": "血色西部",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 12:52:19",
+    "change_number": 30166027,
+    "depot": {
+        "1587131": {
+            "manifests": {
+                "public": {
+                    "gid": "2268120924133833946",
+                    "size": "4575171186",
+                    "download": "3776946288"
+                }
+            },
+            "decryptionkey": "d3b09a2ce3e50bcdc756c824fc4c55fb27e7ce2af1e9f9d43b89f4781acf8383"
+        },
+        "3158590": {
+            "dlcappid": "3158590",
+            "manifests": {
+                "public": {
+                    "gid": "2485594866451917127",
+                    "size": "523928646",
+                    "download": "436330800"
+                }
+            },
+            "decryptionkey": "ce8e093dd1f41a4afbd46af1e713952ba4c7aacc718a1980b319ddf880e57b71"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19083494",
+                "timeupdated": "1751560988"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
