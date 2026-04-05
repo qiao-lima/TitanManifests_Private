@@ -1,0 +1,29 @@
+{
+    "appid": 2983250,
+    "name": "AIR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 16:11:45",
+    "change_number": 29645289,
+    "depot": {
+        "2983251": {
+            "manifests": {
+                "public": {
+                    "gid": "8381237800707405748",
+                    "size": "2741446904",
+                    "download": "2472898752"
+                }
+            },
+            "decryptionkey": "1d2f3c4b812333c9525df635402db7ba20966dc65af74a25b60762dbdfc2691d"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18922434",
+                "timeupdated": "1750320700"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
