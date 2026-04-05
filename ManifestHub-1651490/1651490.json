@@ -1,0 +1,79 @@
+{
+    "appid": 1651490,
+    "name": "Tiny Life",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 10:52:10",
+    "change_number": 30046059,
+    "depot": {
+        "baselanguages": "",
+        "1651492": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7695667606500813786",
+                    "size": "460897892",
+                    "download": "213990272"
+                },
+                "preview": {
+                    "gid": "7695667606500813786",
+                    "size": "460897892",
+                    "download": "213990272"
+                }
+            },
+            "decryptionkey": "08475bf85040176d7caafb87b963d3faee2eaf4f6b58b4d47c8795cb75189476"
+        },
+        "1651493": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5119064417571306172",
+                    "size": "462755086",
+                    "download": "214062848"
+                },
+                "preview": {
+                    "gid": "5119064417571306172",
+                    "size": "462755086",
+                    "download": "214062848"
+                }
+            },
+            "decryptionkey": "e7e585d7119af71216bdc3a21f32ec785a5d0a876a2ab8117bede702a78c53c9"
+        },
+        "1651494": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8071639230419778381",
+                    "size": "487549138",
+                    "download": "221028720"
+                },
+                "preview": {
+                    "gid": "8071639230419778381",
+                    "size": "487549138",
+                    "download": "221028720"
+                }
+            },
+            "decryptionkey": "ebaa5528639649d22f7c5075a0815dfa67dd1f3fca12b001e718c467591c6ec4"
+        },
+        "workshopdepot": "1651490",
+        "branches": {
+            "public": {
+                "buildid": "19214231",
+                "timeupdated": "1752486726"
+            },
+            "preview": {
+                "buildid": "19214231",
+                "description": "Public preview branch",
+                "timeupdated": "1752486623"
+            }
+        },
+        "workshopdepotdecryptionkey": "d7b238017aa5e0e3fd4c98b993c4f70243db1b75216e2d0cf28ecec377d0090c"
+    }
+}
