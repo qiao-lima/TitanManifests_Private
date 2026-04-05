@@ -1,0 +1,44 @@
+{
+    "appid": "433850",
+    "type": "Game",
+    "name": "Z1 Battle Royale",
+    "schinese_name": "杀戮之王",
+    "isfreeapp": "1",
+    "change_number": "28973357",
+    "update_time": "2025-05-14 12:28:00",
+    "depot": {
+        "depotdeltapatches": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "433851": {
+            "manifests": {
+                "public": {
+                    "gid": "1929288548044868931",
+                    "size": "17809463752",
+                    "download": "16373360064"
+                }
+            },
+            "decryptionkey": "328ed7f5d231ca0cfc1c9994b2ab907a6815029ce6e7dbb701ffff987f2eb751"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,thai,japanese,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "16699462",
+                "timeupdated": "1733869424"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
