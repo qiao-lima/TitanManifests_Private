@@ -1,0 +1,28 @@
+{
+    "appid": 3348280,
+    "name": "A Few Days With Bianca",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:48:00",
+    "change_number": 29765393,
+    "depot": {
+        "3348281": {
+            "manifests": {
+                "public": {
+                    "gid": "9150440412785708667",
+                    "size": "333527085",
+                    "download": "118176176"
+                }
+            },
+            "decryptionkey": "6b148f77f81e69160b706a56bbe3247fa65c715e7651f0d591cafa1d028cc832"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19012502",
+                "timeupdated": "1750947690"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
