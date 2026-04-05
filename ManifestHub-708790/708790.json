@@ -1,0 +1,52 @@
+{
+    "appid": 708790,
+    "name": "Fantasy World",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:30:53",
+    "change_number": 30057887,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "708791": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1524439653138960065",
+                    "size": "54581374",
+                    "download": "7062096"
+                }
+            },
+            "decryptionkey": "966acb1895290c68df9727f34e8cb189492d9a7a926ac6721c2568921854b124"
+        },
+        "708792": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3526612789488450359",
+                    "size": "54581374",
+                    "download": "7062096"
+                }
+            },
+            "decryptionkey": "c6a937033fa6925dabfa80281f6b8da8c08ed41436641eee9b2408cff88f5250"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "3427272",
+                "timeupdated": "1545841210"
+            }
+        }
+    },
+    "access_token": 12744142502290642531
+}
