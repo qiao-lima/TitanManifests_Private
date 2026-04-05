@@ -1,0 +1,75 @@
+{
+    "appid": 2763670,
+    "name": "Arctic Eggs",
+    "type": "Game",
+    "schinese_name": "极地煎蛋",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 15:02:49",
+    "change_number": 29931554,
+    "depot": {
+        "baselanguages": "english",
+        "2763671": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5962519641248733923",
+                    "size": "623011331",
+                    "download": "358033200"
+                },
+                "beta": {
+                    "gid": "3678679845358169102",
+                    "size": "584810929",
+                    "download": "319883344"
+                }
+            },
+            "decryptionkey": "334609a04e348bc9288fcbe62b64f9e81f5f37202436e25bda9cf458151e3eeb"
+        },
+        "2763672": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8415021840251150286",
+                    "size": "549716640",
+                    "download": "333370048"
+                },
+                "beta": {
+                    "gid": "3067360471956045309",
+                    "size": "530504032",
+                    "download": "314888096"
+                }
+            },
+            "decryptionkey": "14b0ff4e177b80f2818529365dfc67eea74ad7837d7b692c841265fa5ab53290"
+        },
+        "2763674": {
+            "manifests": {
+                "public": {
+                    "gid": "2393331842493873404",
+                    "size": "551034656",
+                    "download": "338322592"
+                },
+                "beta": {
+                    "gid": "7480996606290211201",
+                    "size": "531785808",
+                    "download": "315796368"
+                }
+            },
+            "decryptionkey": "f31c3585e3cfb6aad7fc68e5861bf96cfbc080083054a9ded9bce4407ca661af"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18492481",
+                "timeupdated": "1747435664"
+            },
+            "beta": {
+                "buildid": "15281198",
+                "description": "Beta Channel",
+                "timeupdated": "1722973690"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
