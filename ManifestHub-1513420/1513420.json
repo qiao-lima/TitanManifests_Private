@@ -1,0 +1,33 @@
+{
+    "appid": 1513420,
+    "name": "Escalation!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 22:31:44",
+    "change_number": 29830534,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "1513421": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2478755638083507395",
+                    "size": "1942086943",
+                    "download": "1259391680"
+                }
+            },
+            "decryptionkey": "14302e0f2a2d055348ca238241f0da8be063775c8adbf1dde72f55d09b06bb09"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "7544672",
+                "timeupdated": "1634368517"
+            }
+        }
+    }
+}
