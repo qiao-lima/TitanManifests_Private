@@ -1,0 +1,27 @@
+{
+    "appid": 3505700,
+    "name": "Lobotomy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 16:52:00",
+    "change_number": 30036726,
+    "depot": {
+        "3505701": {
+            "manifests": {
+                "public": {
+                    "gid": "809098500362929471",
+                    "size": "1771702796",
+                    "download": "647325872"
+                }
+            },
+            "decryptionkey": "572c2ee1aa84c75b8fca7243ce8791961ce01a594ebefe1c9a10f30be80e1551"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18823442",
+                "timeupdated": "1749637949"
+            }
+        }
+    }
+}
