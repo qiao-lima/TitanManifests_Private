@@ -1,0 +1,50 @@
+{
+    "appid": 563470,
+    "name": "Reaping Rewards",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 14:15:06",
+    "change_number": 29787514,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "563471": {
+            "manifests": {
+                "public": {
+                    "gid": "3447076681793321428",
+                    "size": "2015743274",
+                    "download": "579218784"
+                },
+                "sneak_peek": {
+                    "gid": "1629377368955533830",
+                    "size": "1961317592",
+                    "download": "625400208"
+                }
+            },
+            "decryptionkey": "0a3d56a617e85ae293e2983ede57b361fd1ab001112cd4e57725e12edf9e30aa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1878200",
+                "timeupdated": "1496961843"
+            },
+            "sneak_peek": {
+                "buildid": "1655303",
+                "timeupdated": "1487977852"
+            }
+        }
+    }
+}
