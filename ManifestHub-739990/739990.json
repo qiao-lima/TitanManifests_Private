@@ -1,0 +1,28 @@
+{
+    "appid": 739990,
+    "name": "Lucky Panda",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 06:14:10",
+    "change_number": 29657541,
+    "depot": {
+        "739991": {
+            "manifests": {
+                "public": {
+                    "gid": "5862079126344350839",
+                    "size": "137863763",
+                    "download": "64892192"
+                }
+            },
+            "decryptionkey": "71273c8e3866f46f80a7b36c227289d0c5e1382c6026e9f1bdc9e6064e052255"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2231163",
+                "timeupdated": "1509000657"
+            }
+        }
+    },
+    "access_token": 7079401493060039536
+}
