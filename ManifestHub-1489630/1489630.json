@@ -1,0 +1,56 @@
+{
+    "appid": 1489630,
+    "name": "Carrier Command 2",
+    "type": "Game",
+    "schinese_name": "航母指挥官2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 23:32:41",
+    "change_number": 29436737,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1489631": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "647459837881637346",
+                    "size": "1296658087",
+                    "download": "475313696"
+                }
+            },
+            "decryptionkey": "4aeaff33ce828e179d33a551109dd8861c61ced318318f07de6b519f081231b3"
+        },
+        "1489632": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2606589220877463914",
+                    "size": "611725105",
+                    "download": "120482496"
+                }
+            },
+            "decryptionkey": "13d81d19fb6eca8c42546b1d00149b70ce330a3ecbb22f816e3b46c948264c29"
+        },
+        "workshopdepot": "1489630",
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18778436",
+                "timeupdated": "1749310355"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6b5d7ae9843840a610abf7677c4e8ca8c08c53c19dfaa151c13dd61bbc6f5c17"
+    }
+}
