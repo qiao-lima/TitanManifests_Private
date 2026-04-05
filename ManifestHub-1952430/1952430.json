@@ -1,0 +1,28 @@
+{
+    "appid": 1952430,
+    "name": "RPG Developer Bakin Ruins Pack Vol.1",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 11:35:12",
+    "change_number": 26201212,
+    "depot": {
+        "1952430": {
+            "manifests": {
+                "public": {
+                    "gid": "3793332422439324468",
+                    "size": "87554624",
+                    "download": "40194208"
+                }
+            },
+            "dlcappid": "1952430",
+            "decryptionkey": "2043bc5052db81584345e74a02e935207d0e63f4f10a4e53ad9ae18bf9d2d719"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9735983",
+                "timeupdated": "1666002972"
+            }
+        }
+    }
+}
