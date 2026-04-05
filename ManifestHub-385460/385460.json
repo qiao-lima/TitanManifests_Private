@@ -1,0 +1,33 @@
+{
+    "appid": 385460,
+    "name": "ATV GP",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:29:03",
+    "change_number": 30057887,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "385461": {
+            "manifests": {
+                "public": {
+                    "gid": "1427638407467439629",
+                    "size": "664530368",
+                    "download": "362653840"
+                }
+            },
+            "decryptionkey": "412190a110e240f81ce20c2f300880cfd687fbd768c874f9f0143fbe75f3118d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "684635"
+            }
+        }
+    }
+}
