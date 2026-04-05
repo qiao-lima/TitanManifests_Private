@@ -1,0 +1,47 @@
+{
+    "appid": 2666410,
+    "name": "Astra Ignota",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 17:32:13",
+    "change_number": 29388532,
+    "depot": {
+        "2666411": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5812878121756396706",
+                    "size": "68908410",
+                    "download": "49169488"
+                }
+            },
+            "decryptionkey": "b53ba0d139a430c7d960751c8cbabff0dd744886a5a8490851261798869758df"
+        },
+        "2666412": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2918109239422132763",
+                    "size": "68503418",
+                    "download": "49019856"
+                }
+            },
+            "decryptionkey": "82f89eeee923f3b07c527c5c97f823fb4951fb358704a4170976d7d0ad958610"
+        },
+        "baselanguages": "english,koreana,spanish,schinese,japanese,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "18628910",
+                "timeupdated": "1749106738"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
