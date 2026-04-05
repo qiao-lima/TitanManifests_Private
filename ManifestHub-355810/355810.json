@@ -1,0 +1,66 @@
+{
+    "appid": "355810",
+    "type": "Game",
+    "name": "Centauri Sector",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28657105",
+    "update_time": "2025-04-25 10:06:44",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "355811": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3212047335968818841",
+                    "size": "128780421",
+                    "download": "88756144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "355812": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1307430966943990318",
+                    "size": "161951703",
+                    "download": "96098880"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "355813": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "877709277712401897",
+                    "size": "142217737",
+                    "download": "89392080"
+                }
+            },
+            "decryptionkey": "923da5343aa58c6004c6433891430ce0d86c84fc8cad5e70788d39cbaafadd7d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "873001"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
