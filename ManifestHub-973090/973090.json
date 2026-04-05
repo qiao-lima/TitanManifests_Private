@@ -1,0 +1,55 @@
+{
+    "appid": 973090,
+    "name": "Toilet Simulator",
+    "type": "Game",
+    "schinese_name": "厕所模拟器",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 09:22:55",
+    "change_number": 29453043,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "973091": {
+            "manifests": {
+                "public": {
+                    "gid": "1890869590297738509",
+                    "size": "2558839068",
+                    "download": "2197412208"
+                }
+            },
+            "decryptionkey": "b24fb47273eccc3a0041af2ef12dbd6ff81d2d5dc23280311a5a07fa9425e048"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3699056",
+                "timeupdated": "1554138894"
+            }
+        }
+    }
+}
