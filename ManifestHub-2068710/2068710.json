@@ -1,0 +1,28 @@
+{
+    "appid": 2068710,
+    "name": "Hot Lap League",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 18:16:01",
+    "change_number": 30211397,
+    "depot": {
+        "2068711": {
+            "manifests": {
+                "public": {
+                    "gid": "3315003844986255260",
+                    "size": "753448437",
+                    "download": "562263824"
+                }
+            },
+            "decryptionkey": "05fdea0319a0c9f4ec20d444c798e6b13733abc18c551977199cdf9e04d145c2"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "9398101",
+                "timeupdated": "1661557099"
+            }
+        }
+    }
+}
