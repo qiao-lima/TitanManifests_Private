@@ -1,0 +1,32 @@
+{
+    "appid": 2669440,
+    "name": "元卡牌2MetaCard2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 16:21:46",
+    "change_number": 29932791,
+    "depot": {
+        "2669441": {
+            "manifests": {
+                "public": {
+                    "gid": "6818248496937755119",
+                    "size": "1239088645",
+                    "download": "301597456"
+                }
+            },
+            "decryptionkey": "c4125b3ef8521ae6cf11084f70ed64e938b317e6f1e3234e16611882c7cd02f7"
+        },
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "workshopdepot": "2669440",
+        "branches": {
+            "public": {
+                "buildid": "17532575",
+                "timeupdated": "1740667121"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    },
+    "access_token": 1757978147449386149
+}
