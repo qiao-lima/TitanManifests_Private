@@ -1,0 +1,54 @@
+{
+    "appid": 2100530,
+    "name": "Chinese Frontiers Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:58:02",
+    "change_number": 29648093,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2100531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4810925361737701236",
+                    "size": "17846385514",
+                    "download": "8384717872"
+                }
+            },
+            "decryptionkey": "f292a759636b1434c5aecd9bf6b4fadf90e7a13cf5272c9c00a88cb03b39f9d0"
+        },
+        "2100532": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18769988",
+                "timeupdated": "1749234999"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
