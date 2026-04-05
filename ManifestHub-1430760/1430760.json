@@ -1,0 +1,30 @@
+{
+    "appid": 1430760,
+    "name": "Aquarist",
+    "type": "Game",
+    "schinese_name": "Aquarist - 建造水族馆，繁殖鱼类，拓展你的业务!",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:54:00",
+    "change_number": 30207596,
+    "depot": {
+        "1430761": {
+            "manifests": {
+                "public": {
+                    "gid": "1191817954613823122",
+                    "size": "17506620754",
+                    "download": "6566343984"
+                }
+            },
+            "decryptionkey": "63fed22ae0423ecd4bfea90e201fc98d953636578f824bbb610442283ad1b8cd"
+        },
+        "workshopdepot": "1430760",
+        "branches": {
+            "public": {
+                "buildid": "19329202",
+                "timeupdated": "1753278837"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
