@@ -1,0 +1,74 @@
+{
+    "appid": 2082470,
+    "name": "VEIN Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 03:37:00",
+    "change_number": 30218571,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2082471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3672389117054113803",
+                    "size": "60343687606",
+                    "download": "20259580032"
+                },
+                "experimental": {
+                    "gid": "3587501285500882797",
+                    "size": "69736793628",
+                    "download": "21893431232"
+                }
+            },
+            "decryptionkey": "5d097b779608575432c12250d9083fc83be9e37fd4a4e0cf9b8c1bd68b23636e"
+        },
+        "2082472": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4228695020431687981",
+                    "size": "55237734195",
+                    "download": "19393481184"
+                },
+                "experimental": {
+                    "gid": "1893017472503263631",
+                    "size": "63350681872",
+                    "download": "20922167504"
+                }
+            },
+            "decryptionkey": "7623c6d28c2ef1a099e590e96c14a902a70a7d54c0249804b4e2f00c84778278"
+        },
+        "workshopdepot": "2082470",
+        "branches": {
+            "public": {
+                "buildid": "19186572",
+                "timeupdated": "1752237023"
+            },
+            "experimental": {
+                "buildid": "19337688",
+                "description": "Bleeding-edge updates, unstable",
+                "timeupdated": "1753324616"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
