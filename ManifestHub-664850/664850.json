@@ -1,0 +1,72 @@
+{
+    "appid": 664850,
+    "name": "8-bit Adventure Anthology: Volume I",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-26 00:16:19",
+    "change_number": 29178455,
+    "depot": {
+        "664851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4333675409046649148",
+                    "size": "218268569",
+                    "download": "23272544"
+                }
+            },
+            "decryptionkey": "f8d349c2c6c1e8f1793a4098700fa0393ea6f641d45964082d1836cf16afa14c"
+        },
+        "664852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4276678738869706666",
+                    "size": "265369094",
+                    "download": "34700256"
+                }
+            },
+            "decryptionkey": "695671cba88e6c10dbe1d563478589e535c3dd2e8b309feb8e991e02e458d522"
+        },
+        "664853": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6163603557668222763",
+                    "size": "261853680",
+                    "download": "35466272"
+                }
+            },
+            "decryptionkey": "d7b9357e3a71a0f0d0ee7a68a7f530698dc3ec597e8b4db2ca33a72f97e02183"
+        },
+        "664854": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7991639193067723728",
+                    "size": "213059513",
+                    "download": "21702400"
+                }
+            },
+            "decryptionkey": "af04c92be8347287d841a39c7f402ac9846f6a7557b433a861a2814b30fb50b4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2299351",
+                "timeupdated": "1513264207"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
