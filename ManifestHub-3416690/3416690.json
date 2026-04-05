@@ -1,0 +1,27 @@
+{
+    "appid": 3416690,
+    "name": "Tales Beyond The Tomb - The Last Vigil",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 19:12:45",
+    "change_number": 30037777,
+    "depot": {
+        "3416691": {
+            "manifests": {
+                "public": {
+                    "gid": "1711348942945815311",
+                    "size": "3516803647",
+                    "download": "3171193792"
+                }
+            },
+            "decryptionkey": "4d5f84f37528b842cfad7fd2888bd1f4c1a7082ad2ba9f2dfc1f5d5f971b9cfb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18958907",
+                "timeupdated": "1750638480"
+            }
+        }
+    }
+}
