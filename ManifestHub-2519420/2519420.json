@@ -1,0 +1,27 @@
+{
+    "appid": 2519420,
+    "name": "Cat city",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 08:16:39",
+    "change_number": 29618878,
+    "depot": {
+        "2519421": {
+            "manifests": {
+                "public": {
+                    "gid": "5082717007964757837",
+                    "size": "395944223",
+                    "download": "93646656"
+                }
+            },
+            "decryptionkey": "528c659464565657a224465c1bd950a9757201e21c4d4c4e55f47beef36d2a12"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12351213",
+                "timeupdated": "1696403377"
+            }
+        }
+    }
+}
