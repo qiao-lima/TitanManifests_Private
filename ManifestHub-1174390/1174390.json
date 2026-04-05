@@ -1,0 +1,52 @@
+{
+    "appid": 1174390,
+    "name": "ANNIE:Last Hope",
+    "type": "Game",
+    "schinese_name": "ANNIE:Last Hope / 安妮：最后的希望",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 16:11:29",
+    "change_number": 29900231,
+    "depot": {
+        "1174391": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "761506003476154878",
+                    "size": "3973574204",
+                    "download": "681346496"
+                }
+            },
+            "decryptionkey": "86b21b32156d251857600edbc4a8d93934a027bdd2e6c7e1684c9941d5173c1f"
+        },
+        "1174392": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "local": {
+                    "gid": "7514752786564805066",
+                    "size": "3518155706",
+                    "download": "556614912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18805248",
+                "timeupdated": "1749611184"
+            },
+            "local": {
+                "buildid": "4288735",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1571138649"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
