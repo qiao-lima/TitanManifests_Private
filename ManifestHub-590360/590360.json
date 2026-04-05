@@ -1,0 +1,28 @@
+{
+    "appid": 590360,
+    "name": "The Wild Eight – Soundtrack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:15:16",
+    "change_number": 26201212,
+    "depot": {
+        "590360": {
+            "manifests": {
+                "public": {
+                    "gid": "2406936901304181784",
+                    "size": "56289987",
+                    "download": "49306480"
+                }
+            },
+            "dlcappid": "590360",
+            "decryptionkey": "d3bcb62bfc06d150709fa1a70bb4ca96a9bd4355a27e6506473af0ee37515c70"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1622376",
+                "timeupdated": "1486722404"
+            }
+        }
+    }
+}
