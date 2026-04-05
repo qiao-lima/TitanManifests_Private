@@ -1,0 +1,41 @@
+{
+    "appid": 2534540,
+    "name": "东方妖精武踏会 Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 09:33:14",
+    "change_number": 28019573,
+    "depot": {
+        "2534541": {
+            "manifests": {
+                "public": {
+                    "gid": "1016458604068373684",
+                    "size": "214419911",
+                    "download": "212908560"
+                }
+            },
+            "decryptionkey": "9fe51ee11a95d280a08a0d38fd92cd90b78c26f25081b5d4a24e89fdfbf11eda"
+        },
+        "2534542": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2352436458469487113",
+                    "size": "1134329969",
+                    "download": "1147959680"
+                }
+            },
+            "decryptionkey": "6104b780dc7fbf7b97c82748f2e95c76c028ca073f27e6c961971cebc403066e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17762762",
+                "timeupdated": "1742289308"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
