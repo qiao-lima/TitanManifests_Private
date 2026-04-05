@@ -1,0 +1,33 @@
+{
+    "appid": 2783560,
+    "name": "E-Girl RoomMate",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:01:21",
+    "change_number": 29685686,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,italian,spanish,tchinese,russian,japanese",
+        "2783561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1937932322959561078",
+                    "size": "1705097881",
+                    "download": "547712688"
+                }
+            },
+            "decryptionkey": "33795240e11a05d5cc67f26955f39d6cfc7f3205d51c235d4d2b8870069e643e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17275543",
+                "timeupdated": "1738899371"
+            }
+        }
+    }
+}
