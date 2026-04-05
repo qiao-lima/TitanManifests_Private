@@ -1,0 +1,29 @@
+{
+    "appid": 31100,
+    "name": "Wallace & Gromit Ep 1: Fright of the Bumblebees",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 13:10:43",
+    "change_number": 29918204,
+    "depot": {
+        "31101": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1145156878640559962",
+                    "size": "435377199",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f7f4133e91a013cfe62739a4a98f2532af39e7f651980aa4b2b3a59d63e9304c"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,french,spanish,german,italian",
+        "branches": {
+            "public": {
+                "buildid": "11346"
+            }
+        }
+    }
+}
