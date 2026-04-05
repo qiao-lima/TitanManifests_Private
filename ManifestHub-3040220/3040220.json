@@ -1,0 +1,79 @@
+{
+    "appid": 3040220,
+    "name": "Captain Blood",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 05:42:17",
+    "change_number": 29981097,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,turkish,brazilian,ukrainian,vietnamese",
+        "3040221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6937868401622531474",
+                    "size": "13872748293",
+                    "download": "3681226032"
+                }
+            },
+            "decryptionkey": "4e420c4703c98612bdd32e142ab68e49de39d49835b722b523ddede7ae026a17"
+        },
+        "3040222": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2666868164437206389",
+                    "size": "13866712853",
+                    "download": "3681265504"
+                }
+            }
+        },
+        "3040223": {
+            "config": {
+                "oslist": "windows",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1720590327560315700",
+                    "size": "5869266533",
+                    "download": "2628903632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18673097",
+                "timeupdated": "1748953783"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
