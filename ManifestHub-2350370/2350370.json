@@ -1,0 +1,28 @@
+{
+    "appid": 2350370,
+    "name": "Profi Girls",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 09:51:58",
+    "change_number": 29839002,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2350371": {
+            "manifests": {
+                "public": {
+                    "gid": "3034152896385001385",
+                    "size": "287156957",
+                    "download": "183103088"
+                }
+            },
+            "decryptionkey": "95413fffe91984efe09f6aebdfe3f669128d1a66a1bd797d769e3d3ffe3ca38b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11023426",
+                "timeupdated": "1681760492"
+            }
+        }
+    }
+}
