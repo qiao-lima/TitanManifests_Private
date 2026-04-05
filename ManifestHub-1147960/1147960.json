@@ -1,0 +1,27 @@
+{
+    "appid": 1147960,
+    "name": "Okaeri",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:44:51",
+    "change_number": 29422981,
+    "depot": {
+        "1147961": {
+            "manifests": {
+                "public": {
+                    "gid": "3326899035497962788",
+                    "size": "4332888401",
+                    "download": "1837161568"
+                }
+            },
+            "decryptionkey": "90f9a006c81969fbee614d43b5624276a3d22b212cb0dcca2dab25ec6e109fab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4182774",
+                "timeupdated": "1568118376"
+            }
+        }
+    }
+}
