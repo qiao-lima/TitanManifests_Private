@@ -1,0 +1,29 @@
+{
+    "appid": 3138780,
+    "name": "Do No Harm",
+    "type": "Game",
+    "schinese_name": "触手回春",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 08:40:14",
+    "change_number": 30181367,
+    "depot": {
+        "3138781": {
+            "manifests": {
+                "public": {
+                    "gid": "1331156372462066657",
+                    "size": "1934846704",
+                    "download": "618976320"
+                }
+            },
+            "decryptionkey": "877abb2ce4370120a9d52d84882d51e8277bf75cf3abaf324184e13ec1e07992"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,portuguese,polish,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "19075684",
+                "timeupdated": "1751441710"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
