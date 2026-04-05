@@ -1,0 +1,27 @@
+{
+    "appid": 3395220,
+    "name": "Skuf vs beer bottle party",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 01:12:54",
+    "change_number": 29732330,
+    "depot": {
+        "3395221": {
+            "manifests": {
+                "public": {
+                    "gid": "5920024615414698627",
+                    "size": "130146629",
+                    "download": "89170128"
+                }
+            },
+            "decryptionkey": "b8b1b9d11a5eb9e2c0965b77716d635f29b93d0e158c5d54cd7855eec6bced43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16907237",
+                "timeupdated": "1736016703"
+            }
+        }
+    }
+}
