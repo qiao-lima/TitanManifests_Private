@@ -1,0 +1,45 @@
+{
+    "appid": 3641850,
+    "name": "KingComing",
+    "type": "Game",
+    "schinese_name": "皇上驾到",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 10:33:25",
+    "change_number": 29946280,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3641851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3550591748813764812",
+                    "size": "670959352",
+                    "download": "498432240"
+                }
+            },
+            "decryptionkey": "fceaa54a379a67325513c97ea383640a80a7e1b3bffa9e20e4e57a98597bf2ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19143723",
+                "timeupdated": "1751967198"
+            }
+        }
+    }
+}
