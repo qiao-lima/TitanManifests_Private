@@ -1,0 +1,52 @@
+{
+    "appid": 1675900,
+    "name": "Warlander",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 18:12:38",
+    "change_number": 29647253,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,turkish,brazilian,latam",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1675901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "832939599428164527",
+                    "size": "11258309129",
+                    "download": "10687709632"
+                }
+            },
+            "decryptionkey": "fe75a2e006426eb8247eec627743412480cd31a19944415300eb79a9047aec39"
+        },
+        "1675902": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8794185638516547617",
+                    "size": "2708883737",
+                    "download": "1282730368"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18719300",
+                "timeupdated": "1750320196"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
