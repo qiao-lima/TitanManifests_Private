@@ -1,0 +1,28 @@
+{
+    "appid": 2612700,
+    "name": "S4U: CITYPUNK 2011 AND LOVE PUNCH",
+    "type": "Game",
+    "schinese_name": "S4U: 都市朋克2011与爱的重拳",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:49:18",
+    "change_number": 29766210,
+    "depot": {
+        "2612701": {
+            "manifests": {
+                "public": {
+                    "gid": "239740227953628750",
+                    "size": "997519190",
+                    "download": "315174688"
+                }
+            },
+            "decryptionkey": "56abaf7395bf19b0113fe0fc504e7955b855660954875c3595bb88a6fb7108d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18529825",
+                "timeupdated": "1747726767"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
