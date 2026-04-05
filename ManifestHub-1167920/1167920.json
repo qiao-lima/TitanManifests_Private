@@ -1,0 +1,56 @@
+{
+    "appid": 1167920,
+    "name": "The Dark Pictures: Man of Medan - Friend's Pass",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:31:46",
+    "change_number": 29617529,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,arabic,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1167921": {
+            "manifests": {
+                "public": {
+                    "gid": "2453703185207933321",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "84a9248ec9dd2f1761cf810e64cebd2f2f81cedc3ffaed4c07fac96d2cb2a2e1"
+        },
+        "939851": {
+            "depotfromapp": "939850",
+            "sharedinstall": "2"
+        },
+        "939852": {
+            "depotfromapp": "939850",
+            "sharedinstall": "2"
+        },
+        "939855": {
+            "depotfromapp": "939850",
+            "sharedinstall": "2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4257021",
+                "timeupdated": "1570182956"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 13860691822010083080
+}
