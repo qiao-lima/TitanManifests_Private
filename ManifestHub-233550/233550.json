@@ -1,0 +1,157 @@
+{
+    "appid": 233550,
+    "name": "Another World",
+    "type": "Game",
+    "schinese_name": "异世界：20周年纪念版",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 21:35:01",
+    "change_number": 30118608,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,turkish,brazilian",
+        "markdlcdepots": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "233551": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1494191091138106781",
+                    "size": "260146892",
+                    "download": "96321920"
+                }
+            },
+            "decryptionkey": "46050a249e8389b4945669d898cd64066b0f8a3f1113edc77c24365e714ac35d"
+        },
+        "233552": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2949748488952184304",
+                    "size": "123060982",
+                    "download": "3884318405030"
+                }
+            },
+            "decryptionkey": "5b19e6196e604880169570e7fe84b360eb733cec385b6a0abd8361c9e884c250"
+        },
+        "233553": {
+            "manifests": {
+                "public": {
+                    "gid": "3154270753900636626",
+                    "size": "622455222",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "56cbfa74c1e9f43792129981366e32145461d807dea96ba466d29bd9d1eb80cd"
+        },
+        "233554": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5088400616173049407",
+                    "size": "691361933",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6f077b271868169c007838815fe5ff0c6632ad8e0d3e52b6746dd6c1a2564e80"
+        },
+        "233555": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1465730807360147085",
+                    "size": "563077772",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d29648f2c927745c3a9f33954ff3490464cd22173571c48aef45c432bd6e14b3"
+        },
+        "233556": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5888938156839927030",
+                    "size": "634520738",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "52b3d446f1fcb4267b26d7df2bda1e06ea3c6f6f67a320e15f1e83705541e4a7"
+        },
+        "233557": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7677544051568122262",
+                    "size": "778807279",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0d5961eca75497741f8676d526ccab2cd85e0e7ca0c0df9ee31f7f61308c329c"
+        },
+        "233558": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2951581070163192633",
+                    "size": "608450048",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c8616b01cdc0d1886ac5bcae3776f18d2e1e4aa75ae1144d8fba1a46072d7243"
+        },
+        "233559": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6406008548087300595",
+                    "size": "587696463",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1eb569ae1fee261342afa9bbece8ed2692d6ed9f1ed0cf9ce1705847b4ea817d"
+        },
+        "233560": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3508261048918030306",
+                    "size": "118281098",
+                    "download": "3185908016818"
+                }
+            },
+            "decryptionkey": "40401d288af7a0de052f0625822d08a395da99615e0970d9f880d8bfe749f9f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8516704",
+                "timeupdated": "1652884163"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
