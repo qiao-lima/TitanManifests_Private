@@ -1,0 +1,32 @@
+{
+    "appid": "449440",
+    "type": "Game",
+    "name": "The Big Elk",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "21805716",
+    "update_time": "2024-08-14 19:06:46",
+    "depot": {
+        "449441": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1125035779268193578",
+                    "size": "66753752",
+                    "download": "64422608"
+                }
+            },
+            "decryptionkey": "ab5e26c2ad0fbca195a8502a3013bba5bddd87188478a76d6091f0f9d50b3780"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1630092",
+                "timeupdated": "1487070575"
+            }
+        }
+    },
+    "access_token": 1441777077362482090
+}
