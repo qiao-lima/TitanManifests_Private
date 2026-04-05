@@ -1,0 +1,61 @@
+{
+    "appid": 1810050,
+    "name": "Fortune Avenue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 05:53:36",
+    "change_number": 29516432,
+    "depot": {
+        "baselanguages": "english,german,french,schinese,russian,polish,czech,turkish,brazilian",
+        "1810054": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6209710383842677975",
+                    "size": "577704929",
+                    "download": "273528576"
+                },
+                "unstable": {
+                    "gid": "6209710383842677975",
+                    "size": "577704929",
+                    "download": "273528576"
+                }
+            }
+        },
+        "1810052": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2754821294363848470",
+                    "size": "576497453",
+                    "download": "272585648"
+                },
+                "unstable": {
+                    "gid": "2754821294363848470",
+                    "size": "576497453",
+                    "download": "272585648"
+                }
+            },
+            "decryptionkey": "6575f7dbbb7608bbe7d71afe5321f34372457adf87460acb86992c8001e24249"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18608789",
+                "timeupdated": "1748960343"
+            },
+            "unstable": {
+                "buildid": "18608789",
+                "description": "Public test",
+                "timeupdated": "1748254090"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
