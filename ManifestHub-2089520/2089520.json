@@ -1,0 +1,29 @@
+{
+    "appid": 2089520,
+    "name": "Reborn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-03 00:51:44",
+    "change_number": 29869384,
+    "depot": {
+        "baselanguages": "",
+        "2089521": {
+            "manifests": {
+                "public": {
+                    "gid": "8971666456986059764",
+                    "size": "544730892",
+                    "download": "197806736"
+                }
+            },
+            "decryptionkey": "e402ae06e826000029a04b6eb9c69186ebdea7357679a53d3a6a7982dda4c107"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18964121",
+                "timeupdated": "1750678772"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
