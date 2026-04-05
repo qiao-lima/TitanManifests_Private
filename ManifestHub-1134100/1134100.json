@@ -1,0 +1,38 @@
+{
+    "appid": 1134100,
+    "name": "Frozenheim",
+    "type": "Game",
+    "schinese_name": "维京之城",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 17:44:24",
+    "change_number": 29992748,
+    "depot": {
+        "1134101": {
+            "manifests": {
+                "public": {
+                    "gid": "1518455517318787019",
+                    "size": "6405752972",
+                    "download": "2751973456"
+                },
+                "beta": {
+                    "gid": "4517698741297305113",
+                    "size": "10699800133",
+                    "download": "3323430064"
+                }
+            },
+            "decryptionkey": "4c5467587a34d40d8980200a39b4ffcfdeec32c4944bae3e459fb3f5d0c3a7c4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19130160",
+                "timeupdated": "1752065850"
+            },
+            "beta": {
+                "buildid": "16368968",
+                "description": "Beta build",
+                "timeupdated": "1731350962"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
