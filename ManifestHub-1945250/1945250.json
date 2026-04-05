@@ -1,0 +1,28 @@
+{
+    "appid": 1945250,
+    "name": "Blacktop Hoops",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 00:59:03",
+    "change_number": 29265501,
+    "depot": {
+        "1945251": {
+            "manifests": {
+                "public": {
+                    "gid": "1378433750324915499",
+                    "size": "9081403450",
+                    "download": "3601974368"
+                }
+            },
+            "decryptionkey": "58e2afec7101d1db3a6fe93deec804625355925861e1a0e26e85d70ea4ce1949"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18661702",
+                "timeupdated": "1748537935"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
