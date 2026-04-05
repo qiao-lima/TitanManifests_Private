@@ -1,0 +1,45 @@
+{
+    "appid": 1309140,
+    "name": "Space Battle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 13:36:22",
+    "change_number": 29410958,
+    "depot": {
+        "baselanguages": "english,spanish",
+        "hasdepotsindlc": "1",
+        "1309141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3003434577914475319",
+                    "size": "230265083",
+                    "download": "109603552"
+                }
+            },
+            "decryptionkey": "6683b03e9653b210e03708cde3cf6b0bfd180bc58bd580c6fcb2bb810df212e3"
+        },
+        "1309142": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4468223985153663160",
+                    "size": "322068663",
+                    "download": "107029600"
+                }
+            },
+            "decryptionkey": "eecfc9ce5187433e190af95825a73d60614edc435fd8653df6cac11618705f62"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18761358",
+                "timeupdated": "1749188176"
+            }
+        }
+    }
+}
