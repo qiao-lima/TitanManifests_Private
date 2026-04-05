@@ -1,0 +1,123 @@
+{
+    "appid": 425240,
+    "name": "Pressure Overdrive",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 20:12:40",
+    "change_number": 29912847,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,brazilian",
+        "hasdepotsindlc": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "425241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7765762628035873432",
+                    "size": "1198263175",
+                    "download": "611677056"
+                },
+                "beta": {
+                    "gid": "7765762628035873432",
+                    "size": "1198263175",
+                    "download": "611677056"
+                },
+                "legacy": {
+                    "gid": "886243046910582237",
+                    "size": "1034254001",
+                    "download": "451684688"
+                }
+            },
+            "decryptionkey": "27ab454e66bd6e48381b291b93557bfa718ee8f1586e85fcdf9ff1ee5fe43653"
+        },
+        "425242": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5989685781739958059",
+                    "size": "1215603862",
+                    "download": "607486320"
+                },
+                "beta": {
+                    "gid": "5989685781739958059",
+                    "size": "1215603862",
+                    "download": "607486320"
+                },
+                "legacy": {
+                    "gid": "2001276937581200526",
+                    "size": "1053888094",
+                    "download": "447751280"
+                }
+            },
+            "decryptionkey": "1793a2031f986a636dc7f20c33ea678c2f3928fe7c37551332f08a3ca6e3cae1"
+        },
+        "425243": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "439106524018897618",
+                    "size": "1186012361",
+                    "download": "604660304"
+                },
+                "beta": {
+                    "gid": "439106524018897618",
+                    "size": "1186012361",
+                    "download": "604660304"
+                },
+                "legacy": {
+                    "gid": "8744484364176424294",
+                    "size": "1183683449",
+                    "download": "604539440"
+                }
+            },
+            "decryptionkey": "ce2807910dfec912f7b69eff5d7ed0f79f93ee40124e3656760fe1f4ff2b9f54"
+        },
+        "692140": {
+            "manifests": {
+                "public": {
+                    "gid": "1522430267211166359",
+                    "size": "57383344",
+                    "download": "57259584"
+                },
+                "beta": {
+                    "gid": "1522430267211166359",
+                    "size": "57383344",
+                    "download": "57259584"
+                },
+                "legacy": {
+                    "gid": "3700595928390796550",
+                    "size": "57383344",
+                    "download": "57259584"
+                }
+            },
+            "decryptionkey": "4b7b37e933bb37c8cb0c71618b2dfdd6bc2fc6490b7312fb0695be942ce6bcb7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2491968",
+                "timeupdated": "1517578034"
+            },
+            "beta": {
+                "buildid": "2491968",
+                "timeupdated": "1517573043"
+            },
+            "legacy": {
+                "buildid": "2482730",
+                "timeupdated": "1517342061"
+            }
+        }
+    }
+}
