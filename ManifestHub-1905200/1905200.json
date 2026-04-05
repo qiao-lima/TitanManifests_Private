@@ -1,0 +1,82 @@
+{
+    "appid": 1905200,
+    "name": "RetroArch - Beetle Saturn",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:13:35",
+    "change_number": 29983849,
+    "depot": {
+        "1905200": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "1905200",
+            "manifests": {
+                "public": {
+                    "gid": "573913782907357516",
+                    "size": "6370899",
+                    "download": "979488"
+                },
+                "nightly": {
+                    "gid": "7416179073027589485",
+                    "size": "6483539",
+                    "download": "1374960"
+                }
+            },
+            "decryptionkey": "a9831633ac85c7b24d6f7b89a100072c98ca6817bb32e65cd76d119d63dcfc0d"
+        },
+        "1905201": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7320349849834858430",
+                    "size": "7268204",
+                    "download": "1028384"
+                },
+                "nightly": {
+                    "gid": "6014578323339745947",
+                    "size": "7382892",
+                    "download": "1452480"
+                }
+            },
+            "dlcappid": "1905200",
+            "decryptionkey": "a18930f261995759e9df44ba62ba6ef67fe9fdaa0d4d9c79f95e6b8215540dbe"
+        },
+        "1905202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "614616121405220497",
+                    "size": "14617228",
+                    "download": "1575264"
+                },
+                "nightly": {
+                    "gid": "788789393752507793",
+                    "size": "14789356",
+                    "download": "2095632"
+                }
+            },
+            "dlcappid": "1905200",
+            "decryptionkey": "c1a3f552246593c36bc93a9ba14e265ae93c125d9fcd7db405a9671399a163d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265269",
+                "timeupdated": "1745845214"
+            },
+            "nightly": {
+                "buildid": "19172214",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752135207"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
