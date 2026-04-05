@@ -1,0 +1,29 @@
+{
+    "appid": 2850310,
+    "name": "Kanon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 00:43:52",
+    "change_number": 29311968,
+    "depot": {
+        "2850311": {
+            "manifests": {
+                "public": {
+                    "gid": "5445185861234302012",
+                    "size": "2002837340",
+                    "download": "1815033232"
+                }
+            },
+            "decryptionkey": "6bbee5ccd95b5f0ecd4468b82abb7710f269833055353288c20fcb02fb5e8b8b"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18619233",
+                "timeupdated": "1748345697"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
