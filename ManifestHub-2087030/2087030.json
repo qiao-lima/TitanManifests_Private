@@ -1,0 +1,47 @@
+{
+    "appid": 2087030,
+    "name": "Shatterline",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 19:51:46",
+    "change_number": 30156954,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2087031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6153797404824656863",
+                    "size": "25622668199",
+                    "download": "24569828160"
+                }
+            },
+            "decryptionkey": "45c4a6a5a2a34c5d066bd2e654f351b74e75d97060ab471c2c04250670ed134f"
+        },
+        "baselanguages": "english,japanese,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "19176672",
+                "timeupdated": "1752156199"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
