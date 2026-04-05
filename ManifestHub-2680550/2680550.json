@@ -1,0 +1,28 @@
+{
+    "appid": 2680550,
+    "name": "Hollywood Animal",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 09:00:28",
+    "change_number": 30201829,
+    "depot": {
+        "2680551": {
+            "manifests": {
+                "public": {
+                    "gid": "3133601269081412442",
+                    "size": "4259213646",
+                    "download": "1683608672"
+                }
+            },
+            "decryptionkey": "acee2ffb440b3d2df9f1939207db34e30f2ae56d123ef9d19f7d0d5889b23579"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19314269",
+                "timeupdated": "1753257624"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
