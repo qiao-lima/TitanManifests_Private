@@ -1,0 +1,28 @@
+{
+    "appid": "466790",
+    "type": "Game",
+    "name": "PixBit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:10:05",
+    "depot": {
+        "466791": {
+            "manifests": {
+                "public": {
+                    "gid": "7043873322084739123",
+                    "size": "97790772",
+                    "download": "72127312"
+                }
+            },
+            "decryptionkey": "bcdae4395a8ef60055891e4b4e5a4b4a23ff7d9d970eb3f37e6a140311037f54"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1116298",
+                "timeupdated": "1462738901"
+            }
+        }
+    },
+    "access_token": 13926378618238671837
+}
