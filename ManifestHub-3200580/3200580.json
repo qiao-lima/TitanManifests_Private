@@ -1,0 +1,45 @@
+{
+    "appid": 3200580,
+    "name": "Deathly Dominion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-09 02:58:50",
+    "change_number": 29960245,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3200581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3406645682861492632",
+                    "size": "5812630444",
+                    "download": "5447875968"
+                }
+            },
+            "decryptionkey": "43700c00515c1037d973830e14045f6ea18fc33c6bfb955a133d26641b37c7c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19154156",
+                "timeupdated": "1752026324"
+            }
+        }
+    }
+}
