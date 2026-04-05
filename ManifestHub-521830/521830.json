@@ -1,0 +1,28 @@
+{
+    "appid": "521830",
+    "type": "Game",
+    "name": "H.I.S.T.O.R.Y T.O.R.C.H.K.A",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:13:43",
+    "depot": {
+        "521831": {
+            "manifests": {
+                "public": {
+                    "gid": "5839293147839397843",
+                    "size": "61900393",
+                    "download": "37091680"
+                }
+            },
+            "decryptionkey": "7f66a658e44abf47e8614f51abad0dd73e698bf14c2b82a77c048710cad0ff8a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1866297",
+                "timeupdated": "1496584976"
+            }
+        }
+    },
+    "access_token": 4984133077781046035
+}
