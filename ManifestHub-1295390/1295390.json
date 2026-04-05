@@ -1,0 +1,42 @@
+{
+    "appid": 1295390,
+    "name": "ADVERSE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:25:42",
+    "change_number": 29652389,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1295391": {
+            "manifests": {
+                "public": {
+                    "gid": "3545459356907495",
+                    "size": "1384862247",
+                    "download": "393780736"
+                }
+            },
+            "decryptionkey": "0e6084af2a7cce43f9bdb8209ea46e2c1d661f26456f933a4c964896c6c3c684"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6541028",
+                "timeupdated": "1618420600"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
