@@ -1,0 +1,28 @@
+{
+    "appid": 1990900,
+    "name": "方境战记BlockFight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:14:31",
+    "change_number": 29699332,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1990901": {
+            "manifests": {
+                "public": {
+                    "gid": "6095437229203373467",
+                    "size": "846091056",
+                    "download": "102826400"
+                }
+            },
+            "decryptionkey": "2891b12b42bed9a3e4c8efb1679c56e48b6f8e70f8579c03d87c37420ab57c6f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9006523",
+                "timeupdated": "1656167081"
+            }
+        }
+    }
+}
