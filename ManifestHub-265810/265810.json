@@ -1,0 +1,56 @@
+{
+    "appid": 265810,
+    "name": "The Sandbox",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 06:16:04",
+    "change_number": 29171696,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,spanish,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "265811": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6856666716051786489",
+                    "size": "79934886",
+                    "download": "40859280"
+                },
+                "beta": {
+                    "gid": "6856666716051786489",
+                    "size": "79934886",
+                    "download": "40859280"
+                },
+                "local": {
+                    "gid": "2916866848247030378",
+                    "size": "79932321",
+                    "download": "40857600"
+                }
+            },
+            "decryptionkey": "7e9e7acb211e1c83e8a8a2febe72bfcdd34642b2077f18dd0efe155039ec128f"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "504578"
+            },
+            "beta": {
+                "buildid": "504578",
+                "description": "v 1.9.10"
+            },
+            "local": {
+                "buildid": "499612",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
