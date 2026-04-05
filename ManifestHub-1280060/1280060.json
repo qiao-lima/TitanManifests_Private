@@ -1,0 +1,31 @@
+{
+    "appid": 1280060,
+    "name": "Hoverflow",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 09:08:09",
+    "change_number": 29874770,
+    "depot": {
+        "1280061": {
+            "manifests": {
+                "public": {
+                    "gid": "6178588568925470301",
+                    "size": "2764761142",
+                    "download": "1072657984"
+                }
+            },
+            "decryptionkey": "d71a27d0e292c081b4f329f51fb488da3d47a59fd1808b9b451ea36d88798186"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "1280060",
+        "branches": {
+            "public": {
+                "buildid": "19090328",
+                "timeupdated": "1751529968"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
