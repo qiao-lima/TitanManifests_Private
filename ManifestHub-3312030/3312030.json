@@ -1,0 +1,48 @@
+{
+    "appid": 3312030,
+    "name": "AI Learns To Drive",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:52:46",
+    "change_number": 30212933,
+    "depot": {
+        "3312031": {
+            "manifests": {
+                "public": {
+                    "gid": "7350531384481699362",
+                    "size": "256837521",
+                    "download": "108724032"
+                },
+                "compatibility": {
+                    "gid": "8654212778909694237",
+                    "size": "256847672",
+                    "download": "108713776"
+                },
+                "test": {
+                    "gid": "7350531384481699362",
+                    "size": "256837521",
+                    "download": "108724032"
+                }
+            },
+            "decryptionkey": "7ad30214c8a641abe2c259c892ec5d4e563e8cf2b1799cf748b8c5e596a112bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19275112",
+                "timeupdated": "1752844186"
+            },
+            "compatibility": {
+                "buildid": "19333469",
+                "description": "Version for those who cannot run the main branch.",
+                "timeupdated": "1753296759"
+            },
+            "test": {
+                "buildid": "19275112",
+                "description": "Testing branch.",
+                "timeupdated": "1752843903"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
