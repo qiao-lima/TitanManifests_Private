@@ -1,0 +1,33 @@
+{
+    "appid": 1176623,
+    "name": "WARRIORS OROCHI 4 Ultimate - Weapon `Fork`",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-16 13:32:46",
+    "change_number": 30089127,
+    "depot": {
+        "1176623": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1704228327576068055",
+                    "size": "8750388",
+                    "download": "552096"
+                }
+            },
+            "dlcappid": "1176623",
+            "decryptionkey": "17e5a774d054a88796d6555b8153b64705422150ff6162c3f9c01c50f327421c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4426511",
+                "timeupdated": "1574817763"
+            }
+        }
+    }
+}
