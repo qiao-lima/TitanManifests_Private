@@ -1,0 +1,27 @@
+{
+    "appid": 857010,
+    "name": "HUBE: Seeker of Achievements",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:13:13",
+    "change_number": 30214870,
+    "depot": {
+        "857011": {
+            "manifests": {
+                "public": {
+                    "gid": "9188176263062605820",
+                    "size": "16574968",
+                    "download": "10519552"
+                }
+            },
+            "decryptionkey": "1691949846f287476abe7b18cd7e06dc7329a3fee016164d9e80de5a67387457"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2778890",
+                "timeupdated": "1526475931"
+            }
+        }
+    }
+}
