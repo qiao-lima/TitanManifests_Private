@@ -1,0 +1,40 @@
+{
+    "appid": 1662860,
+    "name": "Trapper: Drug Dealing RPG",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 21:57:14",
+    "change_number": 30214643,
+    "depot": {
+        "1662861": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "83863114519144786",
+                    "size": "1373517448",
+                    "download": "1142496832"
+                }
+            },
+            "decryptionkey": "b0f00f0ee96a0aebcf1e7efee54f95719c6f91009a36c6422870a395dfb5a939"
+        },
+        "1662862": {
+            "config": {
+                "language": "english",
+                "oslist": "windows,linux"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18103754",
+                "timeupdated": "1744658729"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
