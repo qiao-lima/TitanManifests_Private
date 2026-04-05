@@ -1,0 +1,28 @@
+{
+    "appid": 3358110,
+    "name": "WARRIORS: Abyss - 3,000 Karma Embers",
+    "type": "DLC",
+    "schinese_name": "无双深渊 - 3000个实用道具“业萤火”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:14:53",
+    "change_number": 27473633,
+    "depot": {
+        "3358110": {
+            "manifests": {
+                "public": {
+                    "gid": "6770187367082928544",
+                    "size": "16",
+                    "download": "64"
+                }
+            },
+            "dlcappid": "3358110",
+            "decryptionkey": "2f525b2ffbe129a613aa2a8d468d4aeed107e092c88d8ab33c53654d6794bb89"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16675379",
+                "timeupdated": "1733707320"
+            }
+        }
+    }
+}
