@@ -1,0 +1,32 @@
+{
+    "appid": 1781070,
+    "name": "Bright Memory: Infinite Black Kitten DLC",
+    "type": "DLC",
+    "schinese_name": "《光明记忆：无限》DLC - 黑丝猫咪套装",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 14:00:14",
+    "change_number": 26201212,
+    "depot": {
+        "1781070": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4628102701507202926",
+                    "size": "15020889",
+                    "download": "15153808"
+                }
+            },
+            "dlcappid": "1781070",
+            "decryptionkey": "b5a46bc2207c721cf73bde0d6190254673d9ba060c2ecd5e9c27d65bf4c38411"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7607230",
+                "timeupdated": "1635314341"
+            }
+        }
+    }
+}
