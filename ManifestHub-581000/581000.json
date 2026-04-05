@@ -1,0 +1,35 @@
+{
+    "appid": 581000,
+    "name": "Armored Gear",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 00:48:56",
+    "change_number": 30150588,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "581001": {
+            "manifests": {
+                "public": {
+                    "gid": "2692933207295117895",
+                    "size": "61240267",
+                    "download": "47746320"
+                }
+            },
+            "decryptionkey": "eadcc0d89e88232f9a0f06603f4861acd13175d1aca8e1898b56b7a3df40277e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1712064",
+                "timeupdated": "1490341520"
+            }
+        }
+    },
+    "access_token": 18035129423138079947
+}
