@@ -1,0 +1,27 @@
+{
+    "appid": 2571430,
+    "name": "My Little Universe Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-21 06:26:46",
+    "change_number": 29091501,
+    "depot": {
+        "2571431": {
+            "manifests": {
+                "public": {
+                    "gid": "8748131348407617951",
+                    "size": "79982700",
+                    "download": "79609264"
+                }
+            },
+            "decryptionkey": "77a56f02d78607a79ed02bd63c09bdbacbacbf8a59df3b6836a57b0705c6c901"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12058895",
+                "timeupdated": "1693313901"
+            }
+        }
+    }
+}
