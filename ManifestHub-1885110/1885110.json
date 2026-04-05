@@ -1,0 +1,50 @@
+{
+    "appid": 1885110,
+    "name": "Cryptmaster",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 21:59:24",
+    "change_number": 29937720,
+    "depot": {
+        "1885111": {
+            "manifests": {
+                "public": {
+                    "gid": "8686871120533426193",
+                    "size": "2020428115",
+                    "download": "1792819408"
+                },
+                "old_build": {
+                    "gid": "4386847550307477434",
+                    "size": "3621037390",
+                    "download": "1416163360"
+                },
+                "public_testing": {
+                    "gid": "8686871120533426193",
+                    "size": "2020428115",
+                    "download": "1792819408"
+                }
+            },
+            "decryptionkey": "174afeda5e3bb5d3548b04c1266968b4ed0280b63468f301b2f78de189ad9479"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,spanish",
+        "branches": {
+            "public": {
+                "buildid": "18904872",
+                "timeupdated": "1751386234"
+            },
+            "old_build": {
+                "buildid": "14826482",
+                "description": "Will be the version one back from the latest build.",
+                "timeupdated": "1722802849"
+            },
+            "public_testing": {
+                "buildid": "18904872",
+                "description": "Beta builds of the game!",
+                "timeupdated": "1750206009"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
