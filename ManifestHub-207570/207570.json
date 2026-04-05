@@ -1,0 +1,78 @@
+{
+    "appid": "207570",
+    "type": "Game",
+    "name": "English Country Tune",
+    "schinese_name": "华丽推箱子",
+    "isfreeapp": "0",
+    "change_number": "28970158",
+    "update_time": "2025-05-14 07:38:06",
+    "depot": {
+        "overridescddb": "1",
+        "207571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8307359918131710219",
+                    "size": "283851287",
+                    "download": "0"
+                },
+                "testing": {
+                    "gid": "2546435811287524399",
+                    "size": "308707873",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cc8f6871f6bba2a47a4b0987950189cdf0c17ce2a0f60b3b89d0498fbb505415"
+        },
+        "207572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2232712507818075851",
+                    "size": "285655771",
+                    "download": "0"
+                },
+                "testing": {
+                    "gid": "797434499398736293",
+                    "size": "304541542",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b26d599055ca94581fa51a60405fbff6304080e9e55c346a23f18294e1b8cc5d"
+        },
+        "207573": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5681144404624345672",
+                    "size": "339455910",
+                    "download": "0"
+                },
+                "testing": {
+                    "gid": "5681144404624345672",
+                    "size": "339455910",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b984a92771c19d58258e1e0a293314359df4895bca57dc7ef047dca32bdde447"
+        },
+        "branches": {
+            "public": {
+                "buildid": "75654"
+            },
+            "testing": {
+                "buildid": "85162",
+                "description": "bugfixing"
+            }
+        }
+    }
+}
