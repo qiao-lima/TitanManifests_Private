@@ -1,0 +1,46 @@
+{
+    "appid": "471910",
+    "type": "Game",
+    "name": "Soul of the Devil",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26297603",
+    "update_time": "2024-11-21 20:18:54",
+    "depot": {
+        "baselanguages": "english,russian",
+        "471911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "414737355050840350",
+                    "size": "461796109",
+                    "download": "395725712"
+                }
+            },
+            "decryptionkey": "4edb37dd570a0f4cfb89ce093f69de9d66650c715ab01f00af0ced34e1162888"
+        },
+        "630820": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4845896823171089053",
+                    "size": "461706942",
+                    "download": "395637312"
+                }
+            },
+            "dlcappid": "630820",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1981237",
+                "timeupdated": "1500830442"
+            }
+        }
+    },
+    "access_token": 3979301723344260681
+}
