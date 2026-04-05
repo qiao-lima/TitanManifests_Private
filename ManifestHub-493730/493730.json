@@ -1,0 +1,92 @@
+{
+    "appid": "493730",
+    "type": "Game",
+    "name": "HardCube",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:12:06",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "493731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7039848195091331821",
+                    "size": "470480307",
+                    "download": "99966064"
+                }
+            },
+            "decryptionkey": "776d5b0afbbb07aee19ef7578506ae95a45f464accf2da20e95dc64cd03061fa"
+        },
+        "493732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4061651390829883441",
+                    "size": "455699399",
+                    "download": "85578256"
+                }
+            },
+            "decryptionkey": "6c2e4b84e8a895edf987495503502ed6c7d0e44bf5748ad380616c25b64f6c81"
+        },
+        "493733": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8275590495503085163",
+                    "size": "478424608",
+                    "download": "92493264"
+                }
+            },
+            "decryptionkey": "25f0da6ec29ccd29dcf43b6b59d58dada110aeb9fc5997598cf35c8db31bd21a"
+        },
+        "500780": {
+            "dlcappid": "500780",
+            "manifests": {
+                "public": {
+                    "gid": "6213229028090804543",
+                    "size": "41003435",
+                    "download": "40335856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "574680": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4206502744874100898",
+                    "size": "17359896",
+                    "download": "17592928"
+                }
+            },
+            "dlcappid": "574680",
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "1542359",
+                "timeupdated": "1482875025"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 3665865949294747601
+}
