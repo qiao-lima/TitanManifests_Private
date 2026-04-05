@@ -1,0 +1,53 @@
+{
+    "appid": 2746000,
+    "name": "Cyclic Warriors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 07:50:46",
+    "change_number": 29658499,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2746001": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7793594995973612927",
+                    "size": "3872157589",
+                    "download": "3473171360"
+                }
+            },
+            "decryptionkey": "0bbf02ffc881ce23cf4052dc5e5ae8de5743d59cc6f62dd7c97be500f9f14fb6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18933107",
+                "timeupdated": "1750377041"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
