@@ -1,0 +1,45 @@
+{
+    "appid": 2582540,
+    "name": "RoGlass",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:58:33",
+    "change_number": 29429622,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2582541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7273334423486896337",
+                    "size": "300875961",
+                    "download": "191163728"
+                }
+            },
+            "decryptionkey": "ab47fac8b70c3548f20619615ff8296da2e001cfd8145d9004eff2845f414865"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17491255",
+                "timeupdated": "1740437512"
+            }
+        }
+    }
+}
