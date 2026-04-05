@@ -1,0 +1,28 @@
+{
+    "appid": 3449840,
+    "name": "Fisher Idle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 23:20:54",
+    "change_number": 30098787,
+    "depot": {
+        "3449841": {
+            "manifests": {
+                "public": {
+                    "gid": "6009207448245888590",
+                    "size": "845540608",
+                    "download": "304387360"
+                }
+            },
+            "decryptionkey": "0716a9315162c640fe56c0cb7ba00bcd1529f8d203b1e4afd779bbd0efa78952"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18875890",
+                "timeupdated": "1750024646"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
