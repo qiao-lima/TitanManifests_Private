@@ -1,0 +1,28 @@
+{
+    "appid": 2317930,
+    "name": "Easy Red 2: Normandy",
+    "type": "DLC",
+    "schinese_name": "易红2：诺曼底",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 18:43:18",
+    "change_number": 30017118,
+    "depot": {
+        "2317930": {
+            "dlcappid": "2317930",
+            "manifests": {
+                "public": {
+                    "gid": "5612018561843790201",
+                    "size": "36",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "abd13ac0def91994aa63d469d8606fe414d99506f540f683af7807eef45cf1dc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17850355",
+                "timeupdated": "1742899947"
+            }
+        }
+    }
+}
