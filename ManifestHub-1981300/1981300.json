@@ -1,0 +1,41 @@
+{
+    "appid": 1981300,
+    "name": "Shadow Racer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-08 18:40:03",
+    "change_number": 29954288,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1981301": {
+            "manifests": {
+                "public": {
+                    "gid": "4086643379790524037",
+                    "size": "4497157920",
+                    "download": "1880519616"
+                }
+            },
+            "decryptionkey": "733600483b464724858c1d84245e7b48ec54272d25d7ad3c2ad1a31acdebdfdf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8754399",
+                "timeupdated": "1652788061"
+            }
+        }
+    }
+}
