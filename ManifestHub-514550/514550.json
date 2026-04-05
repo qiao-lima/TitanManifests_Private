@@ -1,0 +1,42 @@
+{
+    "appid": 514550,
+    "name": "Beat The Dictators",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:11:57",
+    "change_number": 30056460,
+    "depot": {
+        "514551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1161452380370926960",
+                    "size": "125813157",
+                    "download": "24590240"
+                }
+            },
+            "decryptionkey": "cc25bbdd477eb1ac7ad09aa96ba632282a9d4f6c8446d3b34feb3dd6516ddde4"
+        },
+        "514552": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3763854359100038736",
+                    "size": "135004402",
+                    "download": "26476736"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1301652",
+                "timeupdated": "1472218070"
+            }
+        }
+    }
+}
