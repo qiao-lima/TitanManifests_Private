@@ -1,0 +1,27 @@
+{
+    "appid": 1674440,
+    "name": "Submarine War",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 14:37:06",
+    "change_number": 30132526,
+    "depot": {
+        "1674441": {
+            "manifests": {
+                "public": {
+                    "gid": "2468037306574705370",
+                    "size": "100162629",
+                    "download": "27968512"
+                }
+            },
+            "decryptionkey": "cbc273c1ca531eeef2236ad6ea7a1c4457133ad2c29cf6b2ca0cc1b960996466"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7022331",
+                "timeupdated": "1626183931"
+            }
+        }
+    }
+}
