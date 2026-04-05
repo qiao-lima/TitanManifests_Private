@@ -1,0 +1,48 @@
+{
+    "appid": 480,
+    "name": "Spacewar",
+    "type": "Game",
+    "schinese_name": "开发者示例游戏",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:27:15",
+    "change_number": 30057887,
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "481": {
+            "manifests": {
+                "public": {
+                    "gid": "3183503801510301321",
+                    "size": "1906055",
+                    "download": "797632"
+                },
+                "previous": {
+                    "gid": "8382873932604653347",
+                    "size": "1752776",
+                    "download": "841424"
+                }
+            },
+            "decryptionkey": "410c88e63fbfc9d184683d5734c8d22d4948c70b6292273888197ad98b678db4"
+        },
+        "workshopdepot": "480",
+        "baselanguages": "",
+        "privatebranches": "1",
+        "branches": {
+            "public": {
+                "buildid": "3538192",
+                "timeupdated": "1549489971"
+            },
+            "previous": {
+                "buildid": "316058",
+                "description": "SDK 1.30",
+                "timeupdated": "1503510482"
+            }
+        },
+        "workshopdepotdecryptionkey": "1ba148737057ffccfb54e6398f623004aa241b945b023fadcf0c3bf1b52045ec"
+    }
+}
