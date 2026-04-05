@@ -1,0 +1,28 @@
+{
+    "appid": 3111510,
+    "name": "Aesthetic Clicker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 03:52:32",
+    "change_number": 30160156,
+    "depot": {
+        "3111511": {
+            "manifests": {
+                "public": {
+                    "gid": "2695089174578762816",
+                    "size": "96551853",
+                    "download": "28452272"
+                }
+            },
+            "decryptionkey": "deb003786fe8dc34262d3677c0dbf98f65e7af1cf8364d0bed510711437a65c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15119337",
+                "timeupdated": "1721701529"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
