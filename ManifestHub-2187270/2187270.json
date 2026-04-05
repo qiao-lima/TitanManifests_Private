@@ -1,0 +1,28 @@
+{
+    "appid": "2187270",
+    "type": "Game",
+    "name": "Automatic war",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23466505",
+    "update_time": "2024-08-14 21:04:29",
+    "depot": {
+        "2187271": {
+            "manifests": {
+                "public": {
+                    "gid": "6831789092416776900",
+                    "size": "97983383",
+                    "download": "48659824"
+                }
+            },
+            "decryptionkey": "bea957071631eaa0c2b7b68b4518ac4a8978d69508916450fad93c6dc93181c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9732579",
+                "timeupdated": "1665948557"
+            }
+        }
+    },
+    "access_token": 17879171192575417376
+}
