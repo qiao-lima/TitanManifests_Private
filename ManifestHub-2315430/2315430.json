@@ -1,0 +1,74 @@
+{
+    "appid": 2315430,
+    "name": "The Executive - Movie Industry Tycoon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 18:36:41",
+    "change_number": 30116218,
+    "depot": {
+        "2315431": {
+            "manifests": {
+                "public": {
+                    "gid": "913977753859607638",
+                    "size": "1295697302",
+                    "download": "295821968"
+                },
+                "experimental-branch": {
+                    "gid": "913977753859607638",
+                    "size": "1295697302",
+                    "download": "295821968"
+                }
+            },
+            "decryptionkey": "3c10b450fd01b2a223c4efb4b565fafb56309518f23a7475025782f7137cee3c"
+        },
+        "2315432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8756442533806734235",
+                    "size": "1157312606",
+                    "download": "276902912"
+                },
+                "experimental-branch": {
+                    "gid": "8756442533806734235",
+                    "size": "1157312606",
+                    "download": "276902912"
+                }
+            }
+        },
+        "2315433": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6283473803585279177",
+                    "size": "1103773799",
+                    "download": "275392752"
+                },
+                "experimental-branch": {
+                    "gid": "6283473803585279177",
+                    "size": "1103773799",
+                    "download": "275392752"
+                }
+            }
+        },
+        "workshopdepot": "2315430",
+        "branches": {
+            "public": {
+                "buildid": "18883810",
+                "timeupdated": "1750083323"
+            },
+            "experimental-branch": {
+                "buildid": "18883810",
+                "description": "A branch for latest changes and fixes - Might be unstable!",
+                "timeupdated": "1750083275"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6665993ee6e3bac348d6dffe5f15cabd6b79b5c878465e80d0e046e5e5623065"
+    }
+}
