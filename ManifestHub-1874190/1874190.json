@@ -1,0 +1,42 @@
+{
+    "appid": 1874190,
+    "name": "Vorax",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 18:37:53",
+    "change_number": 30136649,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1874191": {
+            "manifests": {
+                "public": {
+                    "gid": "8073060834346560519",
+                    "size": "35231821610",
+                    "download": "14652912864"
+                }
+            },
+            "decryptionkey": "d7fc5cf60313b3871aae27348dfac62e50e75d553ad2147119f06727a9c114fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18536532",
+                "timeupdated": "1750672108"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
