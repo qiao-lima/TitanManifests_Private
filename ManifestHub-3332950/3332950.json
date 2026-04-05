@@ -1,0 +1,42 @@
+{
+    "appid": 3332950,
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl — OST and Artbook",
+    "type": "Music",
+    "schinese_name": "潜行者2：切尔诺贝利之心原声和原画",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 16:01:51",
+    "change_number": 27102243,
+    "depot": {
+        "3332951": {
+            "manifests": {
+                "public": {
+                    "gid": "4560703518807076833",
+                    "size": "1505714330",
+                    "download": "1230931824"
+                }
+            },
+            "decryptionkey": "bbc6a28d2ba65a7efa0e1ae5d445e18b6c62f9b74f235761f95d3ec00201974e"
+        },
+        "3332952": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5587306026943101600",
+                    "size": "4513865559",
+                    "download": "4318865456"
+                }
+            },
+            "decryptionkey": "ef8e291f55cede6e64183baac65954c90b2b4466ee9f1ca9b1f219f1a72073f0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17001586",
+                "timeupdated": "1737018591"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 1610503047386597590
+}
