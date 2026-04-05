@@ -1,0 +1,42 @@
+{
+    "appid": 2893260,
+    "name": "Maliki : Poison Of The Past",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 11:12:37",
+    "change_number": 30025946,
+    "depot": {
+        "2893262": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "645493153150086995",
+                    "size": "3474256059",
+                    "download": "1581586608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2893261": {
+            "manifests": {
+                "public": {
+                    "gid": "7537249539091915925",
+                    "size": "3378728007",
+                    "download": "1516977072"
+                }
+            },
+            "decryptionkey": "305319ae6ba3f1cf25e4ac55f706bdd8e5f63cc579c33b36ac451d2103262836"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18883781",
+                "timeupdated": "1750082758"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
