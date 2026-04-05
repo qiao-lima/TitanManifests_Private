@@ -1,0 +1,45 @@
+{
+    "appid": 2648460,
+    "name": "Hiraeth Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:40:39",
+    "change_number": 29765047,
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2648461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3392760386972894850",
+                    "size": "14148488765",
+                    "download": "13258933104"
+                }
+            },
+            "decryptionkey": "4e6d5addbaf276e0840ac313bd9f0f6e2c21a9a892930783344ec9c496669e3f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19012278",
+                "timeupdated": "1750946896"
+            }
+        }
+    }
+}
