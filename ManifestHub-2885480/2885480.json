@@ -1,0 +1,28 @@
+{
+    "appid": 2885480,
+    "name": "BattleCap",
+    "type": "Game",
+    "schinese_name": "瓶盖战舰",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 01:31:02",
+    "change_number": 29148486,
+    "depot": {
+        "2885481": {
+            "manifests": {
+                "public": {
+                    "gid": "6882886276889010361",
+                    "size": "2533828443",
+                    "download": "655469552"
+                }
+            },
+            "decryptionkey": "bb46f868623b5fb4d73fbbf157ce03651c335fc2fecc872628754a664a1ad0ec"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18580960",
+                "timeupdated": "1747998986"
+            }
+        }
+    }
+}
