@@ -1,0 +1,31 @@
+{
+    "appid": 906870,
+    "name": "FurryFury",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 23:17:40",
+    "change_number": 29631714,
+    "depot": {
+        "906871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4259261969240447384",
+                    "size": "864692715",
+                    "download": "431487856"
+                }
+            },
+            "decryptionkey": "59c20ff802b73de1f52ff978ef371025a76d1a1b8c12fe475750db9db48f53e9"
+        },
+        "baselanguages": "english,french,russian,polish",
+        "branches": {
+            "public": {
+                "buildid": "10812559",
+                "timeupdated": "1679329963"
+            }
+        }
+    }
+}
