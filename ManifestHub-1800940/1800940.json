@@ -1,0 +1,64 @@
+{
+    "appid": 1800940,
+    "name": "The Enjenir",
+    "type": "Game",
+    "schinese_name": "工程大湿 The Enjenir",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 16:36:24",
+    "change_number": 30113946,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1800941": {
+            "manifests": {
+                "public": {
+                    "gid": "8954388178155140084",
+                    "size": "9018299218",
+                    "download": "2784907008"
+                },
+                "beta": {
+                    "gid": "8954388178155140084",
+                    "size": "9018299218",
+                    "download": "2784907008"
+                },
+                "legacy": {
+                    "gid": "3841290302948105396",
+                    "size": "4142401214",
+                    "download": "1627830576"
+                }
+            },
+            "decryptionkey": "b4c278ce077bc280eb7a8aa35aeda21f50ba0bb7529e41e7d72d5e0f749002f9"
+        },
+        "workshopdepot": "1800940",
+        "branches": {
+            "public": {
+                "buildid": "19192348",
+                "timeupdated": "1752512220"
+            },
+            "beta": {
+                "buildid": "19192348",
+                "description": "Public Beta Testing Branch",
+                "timeupdated": "1752512233"
+            },
+            "legacy": {
+                "buildid": "14888815",
+                "description": "V0.2 - Old Save Compatible",
+                "timeupdated": "1722554840"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "9eeb708257392fb707a6eb8ac1c350568683ef8e8b8469bcb15f0bf512aca940"
+    }
+}
