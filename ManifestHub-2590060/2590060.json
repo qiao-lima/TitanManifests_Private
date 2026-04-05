@@ -1,0 +1,41 @@
+{
+    "appid": 2590060,
+    "name": "Wandering Sword Soundtrack",
+    "type": "Music",
+    "schinese_name": "逸剑风云决原声音乐集",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:17:03",
+    "change_number": 30210323,
+    "depot": {
+        "2590061": {
+            "manifests": {
+                "public": {
+                    "gid": "3029296403949029167",
+                    "size": "129970593",
+                    "download": "129528416"
+                }
+            },
+            "decryptionkey": "9401107c4e5d44722b3d4f98a1d2f5f9b9fc09b968a843c771c1e597959cceca"
+        },
+        "2590062": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3310731387138897197",
+                    "size": "1109246580",
+                    "download": "1062758368"
+                }
+            },
+            "decryptionkey": "7782f10af3334de62eef51894a0292714422317f7ae093f044941b739960284a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18456616",
+                "timeupdated": "1750762776"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
