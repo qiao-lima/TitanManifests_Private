@@ -1,0 +1,74 @@
+{
+    "appid": 738600,
+    "name": "Odyssey: The Deep Space Expedition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 11:14:13",
+    "change_number": 30025970,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "738601": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5381853347967943351",
+                    "size": "1294533732",
+                    "download": "596603376"
+                },
+                "test": {
+                    "gid": "7010891420067074474",
+                    "size": "1244180464",
+                    "download": "566206464"
+                }
+            },
+            "decryptionkey": "de7544bd5199cd0f9a2f2134a0a03a0679dd0cb23ba569459423d6b759e2a513"
+        },
+        "738602": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3609567428510375192",
+                    "size": "1294533732",
+                    "download": "595886480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "992770": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5479274399077067188",
+                    "size": "28672990",
+                    "download": "24173584"
+                },
+                "test": {
+                    "gid": "5479274399077067188",
+                    "size": "28672990",
+                    "download": "24173584"
+                }
+            },
+            "decryptionkey": "e772ee5b12d573bf361428eeb3ee4f9a84fa614b86afdd1bce95810102ee17ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19200656",
+                "timeupdated": "1752315246"
+            },
+            "test": {
+                "buildid": "17916830",
+                "timeupdated": "1743356534"
+            }
+        }
+    }
+}
