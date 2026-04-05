@@ -1,0 +1,59 @@
+{
+    "appid": 1290790,
+    "name": "Sokpop S08: Yardlings",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 03:52:03",
+    "change_number": 30160150,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1290791": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1490632199628190963",
+                    "size": "27465216",
+                    "download": "27649152"
+                }
+            },
+            "decryptionkey": "1e5362122603a7d51b96926ed5a8afde766d1664160368c39c53805e9dc7b6d6"
+        },
+        "1290792": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7669713042281284028",
+                    "size": "66109250",
+                    "download": "27725808"
+                }
+            },
+            "decryptionkey": "1b9703430f1af1e3db5dc0d23b763c8937c7fa8af404e66d5602a8b50a3a8179"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4940242",
+                "timeupdated": "1587733379"
+            }
+        }
+    }
+}
