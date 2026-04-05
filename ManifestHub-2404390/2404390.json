@@ -1,0 +1,39 @@
+{
+    "appid": 2404390,
+    "name": "B.E.S.T",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 13:44:15",
+    "change_number": 30068400,
+    "depot": {
+        "2404391": {
+            "manifests": {
+                "public": {
+                    "gid": "1947473931752993817",
+                    "size": "8942753882",
+                    "download": "8773124096"
+                }
+            },
+            "decryptionkey": "5d8d29659c12b8e99311c773599f78045adcf1503d8192e9199bbecc92abb1ce"
+        },
+        "2722810": {
+            "dlcappid": "2722810",
+            "manifests": {
+                "public": {
+                    "gid": "1812075524158544125",
+                    "size": "219747",
+                    "download": "62912"
+                }
+            },
+            "decryptionkey": "e5e30ddb394c56c59908d49d962e8f4585b64ce809af786875214692a0721f42"
+        },
+        "2404392": {},
+        "branches": {
+            "public": {
+                "buildid": "18918220",
+                "timeupdated": "1750282479"
+            }
+        }
+    }
+}
