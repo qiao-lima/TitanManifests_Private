@@ -1,0 +1,54 @@
+{
+    "appid": 2392280,
+    "name": "TDS - Tower Defense Strategy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 04:52:24",
+    "change_number": 30142925,
+    "depot": {
+        "2392281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5552873111270887869",
+                    "size": "1291240631",
+                    "download": "509481648"
+                }
+            },
+            "decryptionkey": "0be342cb8e6a01ba5429bbc63786465de3a8e96c6ad86213028d279c74bdd27a"
+        },
+        "2392283": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6486982345412258000",
+                    "size": "1427516669",
+                    "download": "571113264"
+                }
+            }
+        },
+        "2392284": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1639099041903829383",
+                    "size": "1309338046",
+                    "download": "510176384"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18616982",
+                "timeupdated": "1748299203"
+            }
+        }
+    }
+}
