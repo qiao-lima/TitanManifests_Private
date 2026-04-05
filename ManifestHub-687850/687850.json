@@ -1,0 +1,45 @@
+{
+    "appid": 687850,
+    "name": "Head Goal: Soccer Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 07:51:26",
+    "change_number": 29925829,
+    "depot": {
+        "687851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3405040190409233154",
+                    "size": "63808736",
+                    "download": "16139392"
+                }
+            },
+            "decryptionkey": "dc444a1d7c1238d65be111ffd266fb7653f6443b44ccca80ee2e34b0a9edaed5"
+        },
+        "687852": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1742568616835683211",
+                    "size": "82424444",
+                    "download": "20313200"
+                }
+            },
+            "decryptionkey": "ba7b6fd980e08a6f9ac12364bb4c98e6546c93d80e1631befa30dc42fb1faacb"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "19128439",
+                "timeupdated": "1751871081"
+            }
+        }
+    }
+}
