@@ -1,0 +1,30 @@
+{
+    "appid": 453850,
+    "name": "Dear RED - Extended",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 15:35:35",
+    "change_number": 30112782,
+    "depot": {
+        "453851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4400400438099716734",
+                    "size": "64076555",
+                    "download": "57915024"
+                }
+            },
+            "decryptionkey": "ada97d42206d23d5b5f99c2057ece81cd9442b1724c789ebd303b6c47705b335"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1260794",
+                "timeupdated": "1470247124"
+            }
+        }
+    }
+}
