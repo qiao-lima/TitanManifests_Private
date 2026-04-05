@@ -1,0 +1,28 @@
+{
+    "appid": 1659350,
+    "name": "RPG Maker MZ - Heroine Character Generator for MZ",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:48:43",
+    "change_number": 26201212,
+    "depot": {
+        "1659350": {
+            "dlcappid": "1659350",
+            "manifests": {
+                "public": {
+                    "gid": "3852242451508833190",
+                    "size": "3913603",
+                    "download": "1833568"
+                }
+            },
+            "decryptionkey": "39ff6c75019896422b3af44413039293b927b2b6e567e46c5b3804012748a40d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12356751",
+                "timeupdated": "1696442203"
+            }
+        }
+    }
+}
