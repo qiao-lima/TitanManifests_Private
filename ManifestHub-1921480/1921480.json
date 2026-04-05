@@ -1,0 +1,33 @@
+{
+    "appid": 1921480,
+    "name": "#BLUD",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 17:07:44",
+    "change_number": 28990979,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1921481": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "467289960333819675",
+                    "size": "9447446693",
+                    "download": "3852338400"
+                }
+            },
+            "decryptionkey": "8defbdfe2faf0d810c2e71573a71750d0b0a7a103d39120653107eb84c59978f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16370542",
+                "timeupdated": "1732563906"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
