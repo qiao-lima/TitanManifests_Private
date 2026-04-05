@@ -1,0 +1,29 @@
+{
+    "appid": 726480,
+    "name": "CPUCores - System Hardware Analyzer",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 11:00:33",
+    "change_number": 27530874,
+    "depot": {
+        "726480": {
+            "manifests": {
+                "public": {
+                    "gid": "1966767085389962462",
+                    "size": "1264176",
+                    "download": "1238560"
+                }
+            },
+            "dlcappid": "726480",
+            "decryptionkey": "c80d3dd9033b9fef991db1e79159287307918debf93ce1b757b27e21bc1edf78"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14463690",
+                "timeupdated": "1716439037"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
