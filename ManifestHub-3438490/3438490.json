@@ -1,0 +1,42 @@
+{
+    "appid": 3438490,
+    "name": "アンリアリイ・サバイバーズ：わたしたちのときめき無人島ライフ",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 16:10:19",
+    "change_number": 30209041,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3438491": {
+            "manifests": {
+                "public": {
+                    "gid": "6018190848806207178",
+                    "size": "1717969714",
+                    "download": "1533311152"
+                }
+            },
+            "decryptionkey": "899ed163a5078bf89fb4c512120d2a07bf87f2500008eef55989f5da2e7b32d2"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "17287521",
+                "timeupdated": "1738976308"
+            }
+        }
+    }
+}
