@@ -1,0 +1,38 @@
+{
+    "appid": 2928530,
+    "name": "RPG Developer Bakin Layout Data Sci-Fi",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 08:51:19",
+    "change_number": 30084407,
+    "depot": {
+        "2928530": {
+            "manifests": {
+                "public": {
+                    "gid": "4321774435784564392",
+                    "size": "37725346",
+                    "download": "27320048"
+                },
+                "test": {
+                    "gid": "4321774435784564392",
+                    "size": "37725346",
+                    "download": "27320048"
+                }
+            },
+            "dlcappid": "2928530",
+            "decryptionkey": "7238f821aaf164b1527667af6db34ae95e2fb85e38b50e1f01fb111da07a3e1f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19227592",
+                "timeupdated": "1752652272"
+            },
+            "test": {
+                "buildid": "19227592",
+                "description": "test用",
+                "timeupdated": "1752570862"
+            }
+        }
+    }
+}
