@@ -1,0 +1,27 @@
+{
+    "appid": 2377550,
+    "name": "Tribes of Midgard - Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 04:54:28",
+    "change_number": 27449067,
+    "depot": {
+        "2377551": {
+            "manifests": {
+                "public": {
+                    "gid": "1746512163109114217",
+                    "size": "344548575",
+                    "download": "206677872"
+                }
+            },
+            "decryptionkey": "0a24b77c07cd5faa4a2dfff6311936947247a056bffb44fd4d1b9392d83b2146"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10898339",
+                "timeupdated": "1680230879"
+            }
+        }
+    }
+}
