@@ -1,0 +1,76 @@
+{
+    "appid": 2990640,
+    "name": "Endoparasitic 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 19:34:12",
+    "change_number": 30095648,
+    "depot": {
+        "2990641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "828396508514972447",
+                    "size": "193438040",
+                    "download": "90147824"
+                },
+                "beta": {
+                    "gid": "828396508514972447",
+                    "size": "193438040",
+                    "download": "90147824"
+                }
+            },
+            "decryptionkey": "9f0b5ddf7f9014543c381b0166c730c457ca0a17d3992c626f73d9b7e860949f"
+        },
+        "2990642": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7126612083868266124",
+                    "size": "170589444",
+                    "download": "85520224"
+                },
+                "beta": {
+                    "gid": "7126612083868266124",
+                    "size": "170589444",
+                    "download": "85520224"
+                }
+            }
+        },
+        "2990643": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3809938041752544053",
+                    "size": "285164102",
+                    "download": "109530864"
+                },
+                "beta": {
+                    "gid": "3809938041752544053",
+                    "size": "285164102",
+                    "download": "109530864"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19138758",
+                "timeupdated": "1752690579"
+            },
+            "beta": {
+                "buildid": "19138758",
+                "description": "for testing new patches",
+                "timeupdated": "1751998489"
+            }
+        }
+    }
+}
