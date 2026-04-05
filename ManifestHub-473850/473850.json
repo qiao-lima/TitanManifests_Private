@@ -1,0 +1,31 @@
+{
+    "appid": 473850,
+    "name": "The Center - ARK Expansion Map",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 03:04:32",
+    "change_number": 26201212,
+    "depot": {
+        "473851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "449192873055354601",
+                    "size": "21",
+                    "download": "128"
+                }
+            },
+            "dlcappid": "473850",
+            "decryptionkey": "99fb597107882942ca94e2038215f03f8707d57b059460ec6bde8265bf020733"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1129256",
+                "timeupdated": "1463380509"
+            }
+        }
+    }
+}
