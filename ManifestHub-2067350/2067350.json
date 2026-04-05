@@ -1,0 +1,43 @@
+{
+    "appid": 2067350,
+    "name": "Phantom Breaker: Battle Grounds Ultimate",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 04:33:16",
+    "change_number": 30198727,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2067351": {
+            "manifests": {
+                "public": {
+                    "gid": "8877061375810317802",
+                    "size": "1629266026",
+                    "download": "1451044464"
+                }
+            },
+            "decryptionkey": "1a8b74534d1d5ec46124cacb6c94dc54a7cf24c361e401d2bef7ccebb70012a8"
+        },
+        "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18401783",
+                "timeupdated": "1746835516"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
