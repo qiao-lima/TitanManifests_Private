@@ -1,0 +1,43 @@
+{
+    "appid": 3330250,
+    "name": "Ithya: Magic Studies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 11:21:43",
+    "change_number": 30066108,
+    "depot": {
+        "3330251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4848133774464836362",
+                    "size": "910437759",
+                    "download": "798831872"
+                }
+            },
+            "decryptionkey": "a7633b3d30636dfe1dae9b0d4f95964133d913e1bc86fef04e6300f14129dca2"
+        },
+        "3330252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "490936156379769233",
+                    "size": "942037799",
+                    "download": "820111328"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19227650",
+                "timeupdated": "1752571160"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
