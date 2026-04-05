@@ -1,0 +1,331 @@
+{
+    "appid": 502570,
+    "name": "Houdini Indie",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:55:09",
+    "change_number": 30215400,
+    "depot": {
+        "workshopdepot": "502570",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "502571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2475746596543255006",
+                    "size": "6009996993",
+                    "download": "2267390336"
+                },
+                "houdini185_py3": {
+                    "gid": "1746312102034644107",
+                    "size": "3998396734",
+                    "download": "1588213200"
+                },
+                "houdini19.0": {
+                    "gid": "8593797450475842033",
+                    "size": "4163856667",
+                    "download": "1629098224"
+                },
+                "houdini19.5": {
+                    "gid": "4153534420100914183",
+                    "size": "4215061984",
+                    "download": "1715895968"
+                },
+                "houdini19.5.303": {
+                    "gid": "504889839198547108",
+                    "size": "4382004668",
+                    "download": "1744396816"
+                },
+                "houdini19.5_previous": {
+                    "gid": "7760424911256607842",
+                    "size": "4214170199",
+                    "download": "1715384624"
+                },
+                "daily_19.5": {
+                    "gid": "4778036103730232179",
+                    "size": "4262100184",
+                    "download": "1774504544"
+                },
+                "daily_19.5_apple_arm64": {
+                    "gid": "7761748776803209013",
+                    "size": "4203898458",
+                    "download": "1705999776"
+                },
+                "daily_20.0": {
+                    "gid": "421752706724288635",
+                    "size": "5089153448",
+                    "download": "2177809456"
+                },
+                "daily_20.0_apple_arm64": {
+                    "gid": "7760424911256607842",
+                    "size": "4214170199",
+                    "download": "1715384624"
+                },
+                "daily_20.5": {
+                    "gid": "1268907461308397646",
+                    "size": "5692456895",
+                    "download": "2305855712"
+                },
+                "daily_20.5_apple_arm64": {
+                    "gid": "9221398206300116295",
+                    "size": "5103131333",
+                    "download": "2128987392"
+                },
+                "houdini_20.5_apple_arm64": {
+                    "gid": "9221398206300116295",
+                    "size": "5103131333",
+                    "download": "2128987392"
+                },
+                "houdini20.0": {
+                    "gid": "9221398206300116295",
+                    "size": "5103131333",
+                    "download": "2128987392"
+                },
+                "houdini20.0.653": {
+                    "gid": "1874744983984135062",
+                    "size": "4722114434",
+                    "download": "2028916288"
+                },
+                "houdini20.0_previous": {
+                    "gid": "6192595790603956213",
+                    "size": "5248264211",
+                    "download": "2102461536"
+                },
+                "houdini20.5": {
+                    "gid": "2475746596543255006",
+                    "size": "6009996993",
+                    "download": "2267390336"
+                },
+                "houdini20.5.410": {
+                    "gid": "486785946387958547",
+                    "size": "5741762728",
+                    "download": "2297101456"
+                },
+                "houdini20.5_previous": {
+                    "gid": "4253952990120051994",
+                    "size": "5769707583",
+                    "download": "2301711952"
+                }
+            },
+            "decryptionkey": "45059bb8eb99ebc52bc35445ee7afb5beb7ae9ecdb14cd772bcb16c934250517"
+        },
+        "502572": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7829574537898076280",
+                    "size": "4865228457",
+                    "download": "1964059712"
+                },
+                "houdini185_py3": {
+                    "gid": "8406557942481531366",
+                    "size": "6188413901",
+                    "download": "1781104176"
+                },
+                "houdini19.0": {
+                    "gid": "3081557455536245406",
+                    "size": "3511009686",
+                    "download": "1422472320"
+                },
+                "houdini19.5": {
+                    "gid": "4477777439662271866",
+                    "size": "3618575499",
+                    "download": "1531254800"
+                },
+                "houdini19.5.303": {
+                    "gid": "5540897734355711308",
+                    "size": "3633224097",
+                    "download": "1518897664"
+                },
+                "houdini19.5_previous": {
+                    "gid": "2825187295223401459",
+                    "size": "3618390223",
+                    "download": "1530513888"
+                },
+                "daily_19.5": {
+                    "gid": "2265036558159623667",
+                    "size": "3621421904",
+                    "download": "1531810992"
+                },
+                "daily_19.5_apple_arm64": {
+                    "gid": "8605302058311212496",
+                    "size": "3332200558",
+                    "download": "1477973760"
+                },
+                "daily_20.0": {
+                    "gid": "9045877185214016291",
+                    "size": "4545098927",
+                    "download": "1885406192"
+                },
+                "daily_20.0_apple_arm64": {
+                    "gid": "5186129154309438866",
+                    "size": "4222484492",
+                    "download": "1806517648"
+                },
+                "daily_20.5": {
+                    "gid": "6403653113893527354",
+                    "size": "4865326985",
+                    "download": "1986850112"
+                },
+                "daily_20.5_apple_arm64": {
+                    "gid": "8983718922092453982",
+                    "size": "4556620049",
+                    "download": "1914278352"
+                },
+                "houdini_20.5_apple_arm64": {
+                    "gid": "1857876891334809228",
+                    "size": "4556534637",
+                    "download": "1888387232"
+                },
+                "houdini20.0": {
+                    "gid": "8007623906898872657",
+                    "size": "4541956969",
+                    "download": "1865077040"
+                },
+                "houdini20.0.653": {
+                    "gid": "3952989985207741218",
+                    "size": "4536855268",
+                    "download": "1862801440"
+                },
+                "houdini20.0_previous": {
+                    "gid": "5758237240126967581",
+                    "size": "4539716200",
+                    "download": "1863935504"
+                },
+                "houdini20.5": {
+                    "gid": "7829574537898076280",
+                    "size": "4865228457",
+                    "download": "1964059712"
+                },
+                "houdini20.5.410": {
+                    "gid": "9094213431782128293",
+                    "size": "4968245203",
+                    "download": "2023948912"
+                },
+                "houdini20.5_previous": {
+                    "gid": "7771872022328832619",
+                    "size": "4967861345",
+                    "download": "2022398240"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19162267",
+                "timeupdated": "1752098740"
+            },
+            "houdini185_py3": {
+                "buildid": "7719048",
+                "description": "Houdini 18.5 Python 3 Production Build",
+                "timeupdated": "1637078552"
+            },
+            "houdini19.0": {
+                "buildid": "9386044",
+                "description": "Houdini 19.0 Production Build",
+                "timeupdated": "1661456197"
+            },
+            "houdini19.5": {
+                "buildid": "12762587",
+                "description": "Houdini 19.5 Production Build",
+                "timeupdated": "1700592925"
+            },
+            "houdini19.5.303": {
+                "buildid": "9157280",
+                "description": "Houdini 19.5.303",
+                "timeupdated": "1675184814"
+            },
+            "houdini19.5_previous": {
+                "buildid": "12484201",
+                "description": "Previous 19.5 Production Build",
+                "timeupdated": "1700593049"
+            },
+            "daily_19.5": {
+                "buildid": "19203112",
+                "description": "Daily Houdini 19.5 builds",
+                "timeupdated": "1752346495"
+            },
+            "daily_19.5_apple_arm64": {
+                "buildid": "19200945",
+                "description": "Daily Houdini 19.5 build (Apple Silicon)",
+                "timeupdated": "1752318995"
+            },
+            "daily_20.0": {
+                "buildid": "19277831",
+                "description": "Daily Houdini 20.0 build",
+                "timeupdated": "1752857554"
+            },
+            "daily_20.0_apple_arm64": {
+                "buildid": "19270409",
+                "description": "Daily Houdini 20.0 build (Apple Silicon)",
+                "timeupdated": "1752818516"
+            },
+            "daily_20.5": {
+                "buildid": "19339034",
+                "description": "Daily Houdini 20.5 builds",
+                "timeupdated": "1753334625"
+            },
+            "daily_20.5_apple_arm64": {
+                "buildid": "19338914",
+                "description": "Daily Houdini 20.5 build (Apple Silicon)",
+                "timeupdated": "1753333636"
+            },
+            "houdini_20.5_apple_arm64": {
+                "buildid": "19155630",
+                "description": "Houdini 20.5 Production Build (Apple Silicon)",
+                "timeupdated": "1752099022"
+            },
+            "houdini20.0": {
+                "buildid": "14863338",
+                "description": "Houdini 20.0 Production Build",
+                "timeupdated": "1719519687"
+            },
+            "houdini20.0.653": {
+                "buildid": "13810882",
+                "description": "Houdini 20.0.653",
+                "timeupdated": "1720007079"
+            },
+            "houdini20.0_previous": {
+                "buildid": "14557657",
+                "description": "Previous 20.0 Production Build",
+                "timeupdated": "1719520400"
+            },
+            "houdini20.5": {
+                "buildid": "19162267",
+                "description": "Houdini 20.5 Production Build",
+                "timeupdated": "1752098701"
+            },
+            "houdini20.5.410": {
+                "buildid": "16328860",
+                "description": "Houdini 20.5.410",
+                "timeupdated": "1749220442"
+            },
+            "houdini20.5_previous": {
+                "buildid": "18654141",
+                "description": "Previous 20.5 Production Build",
+                "timeupdated": "1752099170"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
