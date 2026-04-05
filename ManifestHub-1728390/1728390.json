@@ -1,0 +1,41 @@
+{
+    "appid": 1728390,
+    "name": "怪盗ミューのシークレットプリマ",
+    "type": "Game",
+    "schinese_name": "怪盜喵的秘密女主角",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:06:35",
+    "change_number": 29313890,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1728392": {
+            "manifests": {
+                "public": {
+                    "gid": "2522962427134790620",
+                    "size": "1181660602",
+                    "download": "913179600"
+                }
+            },
+            "decryptionkey": "c46c20fc0d7021a679c0229f4ef014e21350ea0f96a8017d55fd1981e8bb542a"
+        },
+        "1728391": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8844528454616590448",
+                    "size": "1181423002",
+                    "download": "909917088"
+                }
+            },
+            "decryptionkey": "05afe43b61b4bf6fa2fbf962c5170290e09e3594c2ba674d4351125abb07377e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10226370",
+                "timeupdated": "1672275351"
+            }
+        }
+    }
+}
