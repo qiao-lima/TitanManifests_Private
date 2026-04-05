@@ -1,0 +1,49 @@
+{
+    "appid": 1927380,
+    "name": "TEMPLE of RUBBO",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 08:16:19",
+    "change_number": 29559958,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1927381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2661904178358606048",
+                    "size": "55314432",
+                    "download": "55878720"
+                }
+            },
+            "decryptionkey": "98a4251833f25a8f7d72942b3858f61e40a2b275a1b4fb546f8eabb7363711d1"
+        },
+        "1927382": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3011020889663757473",
+                    "size": "91351374",
+                    "download": "57449520"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18530515",
+                "timeupdated": "1747730158"
+            }
+        }
+    }
+}
