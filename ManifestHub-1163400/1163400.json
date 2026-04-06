@@ -1,0 +1,28 @@
+{
+    "appid": 1163400,
+    "name": "DFF NT: Gabranth Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:44",
+    "change_number": 26201212,
+    "depot": {
+        "1163400": {
+            "manifests": {
+                "public": {
+                    "gid": "3197115772360453483",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1163400",
+            "decryptionkey": "d32f65cd7fba164030f93367ac175819b547a62a2a43e94321747bb1be6196c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4210335",
+                "timeupdated": "1568890058"
+            }
+        }
+    }
+}
