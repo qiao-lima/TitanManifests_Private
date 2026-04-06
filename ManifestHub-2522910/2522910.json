@@ -1,0 +1,32 @@
+{
+    "appid": 2522910,
+    "name": "Quasimorph - Supporter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 14:47:50",
+    "change_number": 29602238,
+    "depot": {
+        "2522910": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6442186968851825426",
+                    "size": "834363966",
+                    "download": "762518128"
+                }
+            },
+            "dlcappid": "2522910",
+            "decryptionkey": "b03244034508e3ea3fd43eb2d8878aaea19d6244e7ef432f380b27475506449f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18893301",
+                "timeupdated": "1750142866"
+            }
+        }
+    }
+}
