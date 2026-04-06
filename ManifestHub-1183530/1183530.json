@@ -1,0 +1,30 @@
+{
+    "appid": 1183530,
+    "name": "Go Fight Fantastic",
+    "type": "Game",
+    "schinese_name": "奇妙大作战",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 22:14:06",
+    "change_number": 29813336,
+    "depot": {
+        "1183531": {
+            "manifests": {
+                "public": {
+                    "gid": "3250303121853910316",
+                    "size": "5495255602",
+                    "download": "3241705120"
+                }
+            },
+            "decryptionkey": "1f64b89b8ea0af3c08a566cfdf4e29c215dc0a3f1b266798d95a3e9dac9571ae"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16147253",
+                "timeupdated": "1729763177"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
