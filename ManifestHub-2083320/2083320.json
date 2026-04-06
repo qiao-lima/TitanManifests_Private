@@ -1,0 +1,52 @@
+{
+    "appid": 2083320,
+    "name": "Omega Warp",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 02:50:26",
+    "change_number": 30001555,
+    "depot": {
+        "2083321": {
+            "manifests": {
+                "public": {
+                    "gid": "7476985649825000712",
+                    "size": "238905056",
+                    "download": "191537184"
+                }
+            },
+            "decryptionkey": "7c848c3148e3f0beae00c873e5592a6d357bcd7ca140cc1aa6893cd8d0a5cf37"
+        },
+        "2083322": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "122913781828331108",
+                    "size": "39533928",
+                    "download": "11960944"
+                }
+            },
+            "decryptionkey": "74fa1cf986e641f8af3bbae2da7c69bbb99432bc2b4cc7b4f6a51d08256c93f7"
+        },
+        "2083323": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7996387699717989684",
+                    "size": "50119470",
+                    "download": "14454800"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18896451",
+                "timeupdated": "1750161041"
+            }
+        }
+    }
+}
