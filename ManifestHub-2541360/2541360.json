@@ -1,0 +1,32 @@
+{
+    "appid": 2541360,
+    "name": "Tales From The Arcade: Starship Murder",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 22:58:32",
+    "change_number": 29465474,
+    "depot": {
+        "2541361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7110183342965648855",
+                    "size": "438724848",
+                    "download": "97877264"
+                }
+            },
+            "decryptionkey": "572dad92db31c4e94894d9856656b801a0988fff70aebbbec64bf7a7cdd4be8b"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18557862",
+                "timeupdated": "1749481102"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
