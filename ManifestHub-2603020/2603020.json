@@ -1,0 +1,44 @@
+{
+    "appid": 2603020,
+    "name": "Citadelum",
+    "type": "Game",
+    "schinese_name": "万神之城 Citadelum",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 13:26:35",
+    "change_number": 30185788,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2603021": {
+            "manifests": {
+                "public": {
+                    "gid": "8285399500456585998",
+                    "size": "5392358425",
+                    "download": "1582687088"
+                }
+            },
+            "decryptionkey": "7524dec83e20cc12831a547d7fec9d1b84f8541f334acf468d7e044f132d6e09"
+        },
+        "workshopdepot": "2603020",
+        "branches": {
+            "public": {
+                "buildid": "19175793",
+                "timeupdated": "1752152024"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "90db1e7501c77271ccce4298595fb51406b571c86d11f3827532135a1e6702c3"
+    }
+}
