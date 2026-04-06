@@ -1,0 +1,27 @@
+{
+    "appid": 794190,
+    "name": "Football Russian 20!8",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 10:20:22",
+    "change_number": 30007488,
+    "depot": {
+        "794191": {
+            "manifests": {
+                "public": {
+                    "gid": "7924633685557826511",
+                    "size": "316421763",
+                    "download": "104087760"
+                }
+            },
+            "decryptionkey": "7949d7ac6f8243b3b4ac05760cb4d9ce74c78b1b3eeefda785dde505a67a5ca0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2466507",
+                "timeupdated": "1516832175"
+            }
+        }
+    }
+}
