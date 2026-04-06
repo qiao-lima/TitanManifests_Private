@@ -1,0 +1,43 @@
+{
+    "appid": 1975670,
+    "name": "White Lavender",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 05:17:33",
+    "change_number": 29159088,
+    "depot": {
+        "1975671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1297192148927780688",
+                    "size": "445217650",
+                    "download": "209881024"
+                }
+            },
+            "decryptionkey": "8181b5879e52a889eac2093805e73eddec95fa80ec54664235f08a77840f9480"
+        },
+        "1975672": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8450519244359665623",
+                    "size": "470560580",
+                    "download": "216918480"
+                }
+            },
+            "decryptionkey": "f5cb4fb994d3927d5bfba0d4d0cd444a08d6d64ccf227820d10aec147cb17b8b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9006048",
+                "timeupdated": "1656154265"
+            }
+        }
+    }
+}
