@@ -1,0 +1,28 @@
+{
+    "appid": 1912041,
+    "name": "Touken Ranbu Warriors - Honmaru Backdrop \"Rainy Season\"",
+    "type": "DLC",
+    "schinese_name": "刀剑乱舞无双 - 主城景趣 “梅雨”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:15:46",
+    "change_number": 26201212,
+    "depot": {
+        "1912041": {
+            "dlcappid": "1912041",
+            "manifests": {
+                "public": {
+                    "gid": "1476349272581275690",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "385a62f47de2b4e9e73225c9c33361e9d418ca47d37528a031ccedef0dc0de73"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8421357",
+                "timeupdated": "1648023629"
+            }
+        }
+    }
+}
