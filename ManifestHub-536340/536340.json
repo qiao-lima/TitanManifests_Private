@@ -1,0 +1,46 @@
+{
+    "appid": "536340",
+    "type": "Game",
+    "name": "Endless Room",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23220963",
+    "update_time": "2024-08-28 11:58:30",
+    "depot": {
+        "baselanguages": "english,russian",
+        "536341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2850450284153575013",
+                    "size": "504574992",
+                    "download": "180875264"
+                }
+            },
+            "decryptionkey": "ce7586cd7d0eb502fa03ddbf8c626f83a589e95d515b774fed3cc6a27b6d164a"
+        },
+        "536342": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8705519622715039835",
+                    "size": "504580824",
+                    "download": "180878704"
+                }
+            },
+            "decryptionkey": "595d506be2eeb9c3a59d2d9b7f89bf42d10740aea0c0eadda7a326dcccdba110"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1366457",
+                "timeupdated": "1475224184"
+            }
+        }
+    },
+    "access_token": 9525418203510872661
+}
