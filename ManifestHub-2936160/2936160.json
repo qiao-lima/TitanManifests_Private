@@ -1,0 +1,45 @@
+{
+    "appid": 2936160,
+    "name": "Pyramid Game",
+    "type": "Game",
+    "schinese_name": "金字塔游戏",
+    "isfreeapp": 1,
+    "update_time": "2025-07-09 19:01:52",
+    "change_number": 29973548,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2936161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5258650963509454515",
+                    "size": "397901322",
+                    "download": "120688816"
+                }
+            },
+            "decryptionkey": "8b889a7c03a33061e0c644f3f73bd39eca4f02fe20b1986fd50f366423d7e820"
+        },
+        "2936162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1849395369765671830",
+                    "size": "421342911",
+                    "download": "130544368"
+                }
+            },
+            "decryptionkey": "0b0262317cae58f99454ae13c503a9486bf88fe145700396716109e78e356409"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18843274",
+                "timeupdated": "1749744986"
+            }
+        }
+    }
+}
