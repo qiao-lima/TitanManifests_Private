@@ -1,0 +1,74 @@
+{
+    "appid": 2707070,
+    "name": "SubwaySim 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:33:44",
+    "change_number": 30210601,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2707071": {
+            "manifests": {
+                "public": {
+                    "gid": "1593524016528732060",
+                    "size": "6083252731",
+                    "download": "5408233872"
+                }
+            },
+            "decryptionkey": "45615e6f882308fd298bcb21be7a3df4add896748f19c82ef96f52d48b95de36"
+        },
+        "2707072": {
+            "manifests": {
+                "public": {
+                    "gid": "8962215060849220238",
+                    "size": "2426537469",
+                    "download": "2160075600"
+                }
+            },
+            "decryptionkey": "97255bb5f8bd6943cb3b760c158efafb1f7a5f0042c0e15b49485bb128ab1b82"
+        },
+        "2707073": {
+            "manifests": {
+                "public": {
+                    "gid": "4762635301576007881",
+                    "size": "1895690036",
+                    "download": "1680466960"
+                }
+            },
+            "decryptionkey": "1440d88a0caea0b27f1dcb8159b3851d48b1adfb743b98de0c0f78c8034b4dfa"
+        },
+        "3405570": {
+            "dlcappid": "3405570",
+            "manifests": {
+                "public": {
+                    "gid": "1390296005129719779",
+                    "size": "169701322",
+                    "download": "165298592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19159089",
+                "timeupdated": "1752238932"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
