@@ -1,0 +1,42 @@
+{
+    "appid": 1590850,
+    "name": "DeadOS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 16:56:06",
+    "change_number": 30209900,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1590851": {
+            "manifests": {
+                "public": {
+                    "gid": "2043950953965481920",
+                    "size": "288260757",
+                    "download": "126684800"
+                }
+            },
+            "decryptionkey": "90abaa1ddd415b0c7533e726b4291b86620372245dac0154049e3d666af646bf"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19331491",
+                "timeupdated": "1753286160"
+            }
+        }
+    }
+}
