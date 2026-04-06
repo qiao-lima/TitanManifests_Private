@@ -1,0 +1,28 @@
+{
+    "appid": 1784404,
+    "name": "RPG Maker MZ - Halloween 2021 - Free Asset for MZ",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 09:49:06",
+    "change_number": 26201212,
+    "depot": {
+        "1784404": {
+            "manifests": {
+                "public": {
+                    "gid": "5132851505286843455",
+                    "size": "568224",
+                    "download": "555648"
+                }
+            },
+            "dlcappid": "1784404",
+            "decryptionkey": "437896bf5923d7109c4d810b8278f9e64f0f4d86a5e7465cec47a44d37cf43e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7591812",
+                "timeupdated": "1635135800"
+            }
+        }
+    }
+}
