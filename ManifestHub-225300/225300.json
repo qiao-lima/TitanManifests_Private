@@ -1,0 +1,29 @@
+{
+    "appid": 225300,
+    "name": "Tomb Raider II",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 07:44:35",
+    "change_number": 29892330,
+    "depot": {
+        "preloadonly": "1",
+        "225301": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1701443328413221856",
+                    "size": "349264865",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "11e5778224416d09359430d3cb0fbf1ae4b012ec5ddf2a91843f1b3e05f9187f"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "24581"
+            }
+        }
+    }
+}
