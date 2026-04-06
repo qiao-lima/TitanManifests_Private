@@ -1,0 +1,29 @@
+{
+    "appid": 1849570,
+    "name": "恋~一些小清新的猎奇故事~",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 23:00:18",
+    "change_number": 29420794,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "schinese",
+        "1849572": {
+            "manifests": {
+                "public": {
+                    "gid": "2737571651768069698",
+                    "size": "3972998086",
+                    "download": "3920502784"
+                }
+            },
+            "decryptionkey": "2495c1a42b50376c637f370a1abcb3b0c891bf6cad365b3b7d38dd0ec4ab7b30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18767915",
+                "timeupdated": "1749222009"
+            }
+        }
+    }
+}
