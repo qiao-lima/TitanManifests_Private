@@ -1,0 +1,269 @@
+{
+    "appid": 350110,
+    "name": "TransOcean 2: Rivals",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:41:56",
+    "change_number": 30193771,
+    "depot": {
+        "baselanguages": "",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "350111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "752857133505163033",
+                    "size": "1576924053",
+                    "download": "667768992"
+                }
+            },
+            "decryptionkey": "034294c612e1a6cdc0d942404658ea3e850ede5524bed7a932572f17d728c889"
+        },
+        "350112": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8122522597165775688",
+                    "size": "1587180461",
+                    "download": "669205056"
+                }
+            },
+            "decryptionkey": "5d16737399e979326213b1ea728b4a3195f048ce2f2932ba6589cad10b4b2d1d"
+        },
+        "350113": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1316800001797044545",
+                    "size": "5460042683",
+                    "download": "865585024"
+                }
+            },
+            "decryptionkey": "c4eaf9ba1d2979b860ab1b9e327045638a28f28c46b6c9d2c1583ab84dcc26a3"
+        },
+        "350114": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8855531968272591833",
+                    "size": "5855124405",
+                    "download": "930897984"
+                }
+            },
+            "decryptionkey": "ba62dcd9729ec50e0f5c4ee4533189775f14f18a1be01f104ab8b11ff635f2c3"
+        },
+        "350115": {
+            "config": {
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2369023674484718068",
+                    "size": "253588",
+                    "download": "36608"
+                }
+            },
+            "decryptionkey": "416f9bc13576c102024d514395159136a869889edd957e3b00266d6f12a7a257"
+        },
+        "350116": {
+            "config": {
+                "language": "german",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1963432802648145466",
+                    "size": "265788",
+                    "download": "38208"
+                }
+            },
+            "decryptionkey": "d4bea81d21dd865b076629aae226ed6038995e7764ec87d17bb96e3558e868f3"
+        },
+        "350117": {
+            "config": {
+                "language": "french",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5842426567271163906",
+                    "size": "280468",
+                    "download": "38592"
+                }
+            },
+            "decryptionkey": "ac286dd0cae01cdf0d3300193a740b38ebc48d44b9c4653bb50e013839b8bea4"
+        },
+        "350118": {
+            "config": {
+                "language": "italian",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6734279769575148944",
+                    "size": "267844",
+                    "download": "36848"
+                }
+            },
+            "decryptionkey": "deadb024fcc0cc720a25712e612e59c5aea00c11c77dd62a18b091d7865757ef"
+        },
+        "350119": {
+            "config": {
+                "language": "spanish",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7466924010076510265",
+                    "size": "263972",
+                    "download": "36816"
+                }
+            },
+            "decryptionkey": "d78fbad6f4df5484a9968e31747e3ddf2ebf3eb93ff99321093a63d3b46416db"
+        },
+        "350120": {
+            "config": {
+                "language": "russian",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5298074002102750485",
+                    "size": "390372",
+                    "download": "41072"
+                }
+            },
+            "decryptionkey": "d976f0543498f167162893c558d0d1fd1ad1aea736283e4f3dd427f5e9ba5bb8"
+        },
+        "350121": {
+            "config": {
+                "language": "polish",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1330439563818696996",
+                    "size": "272372",
+                    "download": "40016"
+                }
+            },
+            "decryptionkey": "289177cccdd11094d9286dbe31d8e9d0674159be9e047d657f337d7d8d5a0709"
+        },
+        "350122": {
+            "config": {
+                "language": "hungarian",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3737533735527083125",
+                    "size": "269940",
+                    "download": "39328"
+                }
+            },
+            "decryptionkey": "12584b9c274440224c8880454e83823e1d80fe40a1f2379017ec85777ff4501f"
+        },
+        "350123": {
+            "config": {
+                "language": "czech",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "307936644065998607",
+                    "size": "262452",
+                    "download": "39456"
+                }
+            },
+            "decryptionkey": "abad0fd90182b9b51603f0147dd36ad32f614956a741310403714d8c41d2c377"
+        },
+        "350124": {
+            "config": {
+                "language": "turkish",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8363916300459777570",
+                    "size": "271572",
+                    "download": "37632"
+                }
+            },
+            "decryptionkey": "98289bf4bd6e89add53c21dd28576b1f66870d4db1bce6e364ca14a813209a00"
+        },
+        "350125": {
+            "config": {
+                "language": "brazilian",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5082601674150295858",
+                    "size": "263004",
+                    "download": "36640"
+                }
+            },
+            "decryptionkey": "12cf3fca54f3c22b6d9165a069e7f4e7762d5da5a54c6a4ab9d5eae25fcb2601"
+        },
+        "350126": {
+            "config": {
+                "language": "dutch"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1116708533585947431",
+                    "size": "260916",
+                    "download": "36992"
+                }
+            },
+            "decryptionkey": "5983c34a02e20c596c7b6aa388e451898d4eea700c2719f4c0315abb9163f8ed"
+        },
+        "445240": {
+            "config": {
+                "osarch": "64"
+            },
+            "dlcappid": "445240"
+        },
+        "445241": {
+            "dlcappid": "445240",
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6601114169787511586",
+                    "size": "66756331",
+                    "download": "57388368"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1487463",
+                "timeupdated": "1481188321"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
