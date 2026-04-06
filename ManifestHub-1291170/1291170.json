@@ -1,0 +1,62 @@
+{
+    "appid": 1291170,
+    "name": "Terrordrome - Reign of the Legends",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:05:59",
+    "change_number": 30193364,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1291171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4949943145738762779",
+                    "size": "14008640526",
+                    "download": "12317729872"
+                }
+            },
+            "decryptionkey": "1a3918aa22c50743d5a2748097a8952bd085d245b7a4815b8b6d4b7be5e7b6d2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19188206",
+                "timeupdated": "1752261940"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
