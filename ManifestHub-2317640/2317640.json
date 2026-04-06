@@ -1,0 +1,28 @@
+{
+    "appid": 2317640,
+    "name": "JUMP KING QUEST",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 19:56:14",
+    "change_number": 29866027,
+    "depot": {
+        "2317641": {
+            "manifests": {
+                "public": {
+                    "gid": "3263761997448951042",
+                    "size": "2289022744",
+                    "download": "1482426224"
+                }
+            },
+            "decryptionkey": "5d59bfdb823edffd726a9d9c35778a6f146d51963f262ded040f372f12cf8330"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18268098",
+                "timeupdated": "1746463516"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
