@@ -1,0 +1,43 @@
+{
+    "appid": 1658880,
+    "name": "汉字大冒险",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:56:07",
+    "change_number": 29572182,
+    "depot": {
+        "1658881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "692456509757155812",
+                    "size": "426190844",
+                    "download": "54854544"
+                }
+            },
+            "decryptionkey": "5c34826ed647d4890489887083be1d0745e52c7985c533f9494153f365b56324"
+        },
+        "1658882": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2427588926966676249",
+                    "size": "420963798",
+                    "download": "53457200"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10224537",
+                "timeupdated": "1672237001"
+            }
+        }
+    }
+}
