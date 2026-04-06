@@ -1,0 +1,39 @@
+{
+    "appid": 995070,
+    "name": "Rise Eterna",
+    "type": "Game",
+    "schinese_name": "崛起永恒",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 07:01:21",
+    "change_number": 29962675,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "995071": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3611212152440676693",
+                    "size": "2911777592",
+                    "download": "2225463824"
+                }
+            },
+            "decryptionkey": "a615bf6918b96ed2006cc29d122ffbe8450448e5754dc1fbd44345579b51c871"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16963037",
+                "timeupdated": "1736512327"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
