@@ -1,0 +1,34 @@
+{
+    "appid": 1486140,
+    "name": "Microcosmum 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 20:16:57",
+    "change_number": 30055043,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1486141": {
+            "manifests": {
+                "public": {
+                    "gid": "7792164648639873739",
+                    "size": "2515260997",
+                    "download": "772062128"
+                }
+            },
+            "decryptionkey": "08eb1abc386a84cd1a8698afb8993b6c2584a5615f06d16a083d8d387731af29"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19220458",
+                "timeupdated": "1752520611"
+            }
+        }
+    }
+}
