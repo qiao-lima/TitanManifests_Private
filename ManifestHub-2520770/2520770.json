@@ -1,0 +1,47 @@
+{
+    "appid": 2520770,
+    "name": "骑士派对",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-23 08:20:20",
+    "change_number": 29138887,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "2520771": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "312709546570271120",
+                    "size": "3264739013",
+                    "download": "3012770944"
+                }
+            },
+            "decryptionkey": "568315870a01bf5e812386dd7c12b2410b847d38b2f60483f27c33d6db85eba0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13293998",
+                "timeupdated": "1706433838"
+            }
+        }
+    }
+}
