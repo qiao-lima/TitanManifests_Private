@@ -1,0 +1,62 @@
+{
+    "appid": "2004220",
+    "type": "Game",
+    "name": "异世界杂货铺 Skyscraper In Another World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24724107",
+    "update_time": "2024-08-10 01:32:12",
+    "depot": {
+        "2004222": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5958965899644568497",
+                    "size": "249146408",
+                    "download": "128553360"
+                },
+                "compatible": {
+                    "gid": "7051383881690760507",
+                    "size": "237172184",
+                    "download": "116709552"
+                },
+                "test": {
+                    "gid": "5958965899644568497",
+                    "size": "249146408",
+                    "download": "128553360"
+                },
+                "test_update": {
+                    "gid": "2570730069210303818",
+                    "size": "240544872",
+                    "download": "118100272"
+                }
+            },
+            "decryptionkey": "b1cb14234c80db07a818a54618d9a07c09474b154bf4db06bf7356f00bfb0ca4"
+        },
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "10883788",
+                "timeupdated": "1680147275"
+            },
+            "compatible": {
+                "buildid": "9728689",
+                "description": "兼容版。用于兼容老硬件",
+                "timeupdated": "1665847539"
+            },
+            "test": {
+                "buildid": "10883788",
+                "description": "test测试没问题后再推送到主分支",
+                "timeupdated": "1680098200"
+            },
+            "test_update": {
+                "buildid": "10016800",
+                "description": "测试热更",
+                "timeupdated": "1669809488"
+            }
+        }
+    }
+}
