@@ -1,0 +1,32 @@
+{
+    "appid": 2973500,
+    "name": "Let's take a bath with Purin 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 16:46:41",
+    "change_number": 30169739,
+    "depot": {
+        "baselanguages": "english,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,finnish,brazilian,latam",
+        "2973501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7810986358642462714",
+                    "size": "3443513292",
+                    "download": "899960688"
+                }
+            },
+            "decryptionkey": "bd4257b868b65b6a4f8920cfb1df1c6af0ac26a8647e8928b631ab992d371819"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "16810139",
+                "timeupdated": "1734672148"
+            }
+        }
+    }
+}
