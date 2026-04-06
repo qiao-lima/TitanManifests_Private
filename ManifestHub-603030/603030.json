@@ -1,0 +1,32 @@
+{
+    "appid": "603030",
+    "type": "Game",
+    "name": "Lamp Head",
+    "schinese_name": "灯箱",
+    "isfreeapp": "0",
+    "change_number": "24776912",
+    "update_time": "2024-08-14 19:23:36",
+    "depot": {
+        "603031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8159288403624648389",
+                    "size": "185759939",
+                    "download": "22210256"
+                }
+            },
+            "decryptionkey": "548f4cc3c21bb150f8a75d5c7553cfe48130b683153539e1acb27f428f562566"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1840565",
+                "timeupdated": "1495552681"
+            }
+        }
+    },
+    "access_token": 12596384199904005132
+}
