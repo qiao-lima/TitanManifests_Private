@@ -1,0 +1,60 @@
+{
+    "appid": 581130,
+    "name": "Metal Waltz",
+    "type": "Game",
+    "schinese_name": "钢铁华尔兹",
+    "isfreeapp": 1,
+    "update_time": "2025-07-12 07:31:14",
+    "change_number": 30024290,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,arabic",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "581131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6668374625413991626",
+                    "size": "1405898082",
+                    "download": "1160575456"
+                }
+            },
+            "decryptionkey": "892d98caddf02cabe047250f5e3a85737f49cc35552f14c11461265dad31c1aa"
+        },
+        "581133": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19007905",
+                "timeupdated": "1750994112"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
