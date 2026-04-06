@@ -1,0 +1,50 @@
+{
+    "appid": 2581470,
+    "name": "Robocop: Rogue City Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 10:36:38",
+    "change_number": 30086102,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2581471": {
+            "manifests": {
+                "public": {
+                    "gid": "8591266680730270729",
+                    "size": "40461065869",
+                    "download": "38962980992"
+                }
+            },
+            "decryptionkey": "6094091bf711f5624efc3de2fa3e00475b026c7353246ea4c0ae0282f505a113"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18752659",
+                "timeupdated": "1749208536"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
