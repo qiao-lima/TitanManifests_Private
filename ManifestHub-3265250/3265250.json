@@ -1,0 +1,42 @@
+{
+    "appid": 3265250,
+    "name": "MindsEye",
+    "type": "Game",
+    "schinese_name": "MindsEye 心之眼",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 10:26:34",
+    "change_number": 30163910,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3265251": {
+            "manifests": {
+                "public": {
+                    "gid": "79622245246124445",
+                    "size": "52820711620",
+                    "download": "42596743040"
+                }
+            },
+            "decryptionkey": "4314da2fbb6b1038e0f8199b23f2f2c4ab77a7b1fb15289036bdc4fb0178a0a1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19177340",
+                "timeupdated": "1752584335"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
