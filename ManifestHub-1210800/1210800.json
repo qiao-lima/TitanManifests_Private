@@ -1,0 +1,41 @@
+{
+    "appid": 1210800,
+    "name": "Rum & Gun",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 06:45:22",
+    "change_number": 29891693,
+    "depot": {
+        "1210801": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5782647584710754841",
+                    "size": "306252332",
+                    "download": "144755648"
+                },
+                "pre-release": {
+                    "gid": "7193378096190799679",
+                    "size": "305677697",
+                    "download": "144615872"
+                }
+            },
+            "decryptionkey": "cb27fb9f49dcb73a382aa83a2e4ff08379720daafa530a9283a00acb71732c2c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19103624",
+                "timeupdated": "1751607915"
+            },
+            "pre-release": {
+                "buildid": "15626904",
+                "description": "Test version for patch 1.7, the end of Early Access",
+                "timeupdated": "1725754306"
+            }
+        }
+    }
+}
