@@ -1,0 +1,53 @@
+{
+    "appid": 879000,
+    "name": "Comanche",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 00:16:08",
+    "change_number": 29921702,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "879001": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3789250448743981258",
+                    "size": "57991757875",
+                    "download": "22331409024"
+                }
+            },
+            "decryptionkey": "0cdee94be1f1cc3bf4c82dafc776e052384e783e9473b757367cf8f0ec1b9d44"
+        },
+        "879002": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,polish,czech",
+        "branches": {
+            "public": {
+                "buildid": "7247193",
+                "timeupdated": "1629997193"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
