@@ -1,0 +1,41 @@
+{
+    "appid": 2262720,
+    "name": "Dreadful River Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 00:17:35",
+    "change_number": 29851154,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2262721": {
+            "manifests": {
+                "public": {
+                    "gid": "9032620103590540117",
+                    "size": "11961084717",
+                    "download": "11135981520"
+                }
+            },
+            "decryptionkey": "a2708383b52ef219753ce5688736dfd5402e71b6b28177a6df5789dc2f0f1af7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19071780",
+                "timeupdated": "1751411848"
+            }
+        }
+    }
+}
