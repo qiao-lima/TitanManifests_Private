@@ -1,0 +1,27 @@
+{
+    "appid": 3438900,
+    "name": "Azazel Gamble",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 09:08:36",
+    "change_number": 30084657,
+    "depot": {
+        "3438901": {
+            "manifests": {
+                "public": {
+                    "gid": "641535574799998193",
+                    "size": "3191405143",
+                    "download": "1279039456"
+                }
+            },
+            "decryptionkey": "3c580d1ba9e9aeb45e2036fa247dbac3b1543bb2424428d986658b7ded82e0ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19241525",
+                "timeupdated": "1752653309"
+            }
+        }
+    }
+}
