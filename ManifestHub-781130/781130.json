@@ -1,0 +1,78 @@
+{
+    "appid": 781130,
+    "name": "Creatura",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 18:17:02",
+    "change_number": 30211433,
+    "depot": {
+        "workshopdepot": "781130",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "781131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4048884298991151165",
+                    "size": "650188532",
+                    "download": "225207264"
+                }
+            },
+            "decryptionkey": "1169ffcdf763b6ae746a864b733831db3d32003cff5fb0cc573439fa9ee9cce7"
+        },
+        "781132": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6622131312899441874",
+                    "size": "759683020",
+                    "download": "236646080"
+                }
+            },
+            "decryptionkey": "ea4992d61397af3d68f45398e11ae45b8d1feeb7fd5f2e6f40fc677844d60378"
+        },
+        "781133": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7688612076799046189",
+                    "size": "752599915",
+                    "download": "229623312"
+                }
+            },
+            "decryptionkey": "de1f629fd2c67c835bee741d5a6ebb62c0c3dc484a50c08efcab5558d503016c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19332421",
+                "timeupdated": "1753291016"
+            }
+        },
+        "workshopdepotdecryptionkey": "efb47ad743aa603e176f6e6322a05584cec68a1b3205607f89112d4ca706d1b5"
+    }
+}
