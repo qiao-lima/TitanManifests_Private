@@ -1,0 +1,33 @@
+{
+    "appid": 1493750,
+    "name": "Evil Dead: The Game",
+    "type": "Game",
+    "schinese_name": "鬼玩人：游戏",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 08:20:06",
+    "change_number": 29138882,
+    "depot": {
+        "1493751": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5051544891169509199",
+                    "size": "16916370129",
+                    "download": "16570294384"
+                }
+            },
+            "decryptionkey": "3011c24d44b125bdf6af3f40424f7eb8c58639dca083ec2373e4f6a780f296c7"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "15739537",
+                "timeupdated": "1727334079"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
