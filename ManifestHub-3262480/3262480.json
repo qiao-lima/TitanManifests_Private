@@ -1,0 +1,60 @@
+{
+    "appid": 3262480,
+    "name": "JUMP! The Floor Is...",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 03:12:44",
+    "change_number": 30032353,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3262481": {
+            "manifests": {
+                "public": {
+                    "gid": "5694369113695842165",
+                    "size": "5830002494",
+                    "download": "5466758352"
+                },
+                "previous": {
+                    "gid": "568886345582933605",
+                    "size": "5798320007",
+                    "download": "5434255216"
+                }
+            },
+            "decryptionkey": "84b9ac366fa5c4660c75d1a97033a3e09ee84c044e1a2f94b9b1b0231eef0ad1"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19116727",
+                "timeupdated": "1751760381"
+            },
+            "previous": {
+                "buildid": "17070287",
+                "description": "Build",
+                "timeupdated": "1738024128"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
