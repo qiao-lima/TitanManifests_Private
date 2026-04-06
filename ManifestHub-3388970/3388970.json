@@ -1,0 +1,47 @@
+{
+    "appid": 3388970,
+    "name": "Wretch: Divine Ascent Playtest",
+    "type": "Beta",
+    "schinese_name": "无用之人：登神长阶 Playtest",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 04:28:23",
+    "change_number": 29941933,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "3388971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7838741014209345644",
+                    "size": "2405842880",
+                    "download": "2098478144"
+                }
+            },
+            "decryptionkey": "eae6ec86ed23e515cfae197332f0ceaea6283fe337479c1e17b0cac23a76408b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18037978",
+                "timeupdated": "1744188962"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 6518316214831233212
+}
