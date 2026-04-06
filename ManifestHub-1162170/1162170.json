@@ -1,0 +1,34 @@
+{
+    "appid": 1162170,
+    "name": "Below Sunshade",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 21:13:15",
+    "change_number": 29903922,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1162178": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "214005640752711837",
+                    "size": "1318012800",
+                    "download": "1175074368"
+                }
+            },
+            "decryptionkey": "561146f19d54245cacdee762b55923068f0af37f69fb51ac7c9f74775ff116f0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19106583",
+                "timeupdated": "1751624422"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
