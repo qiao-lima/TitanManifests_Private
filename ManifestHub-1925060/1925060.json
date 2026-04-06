@@ -1,0 +1,27 @@
+{
+    "appid": 1925060,
+    "name": "Game of seduction",
+    "type": "Game",
+    "schinese_name": "SM的诱惑游戏",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 15:01:49",
+    "change_number": 29663048,
+    "depot": {
+        "1925061": {
+            "manifests": {
+                "public": {
+                    "gid": "1741904297400477296",
+                    "size": "334849996",
+                    "download": "196695344"
+                }
+            },
+            "decryptionkey": "5f63de0d852c03df13a34b95d04297a412dd9aa51c22fc0ac49227aa70231e8f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13931273",
+                "timeupdated": "1712119703"
+            }
+        }
+    }
+}
