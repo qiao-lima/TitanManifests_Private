@@ -1,0 +1,56 @@
+{
+    "appid": 3422450,
+    "name": "Stray of Lost Cat",
+    "type": "Game",
+    "schinese_name": "迷途猫的灵魂碎片",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 16:53:00",
+    "change_number": 30147596,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "hasdepotsindlc": "1",
+        "3422451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1255980592942900813",
+                    "size": "1908845326",
+                    "download": "763856112"
+                }
+            },
+            "decryptionkey": "bb50c3368640da453d133afbc069a9999808178f58a9f47936bf9fca42b41a6a"
+        },
+        "3422452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1851333238297331629",
+                    "size": "1933411599",
+                    "download": "771649696"
+                }
+            }
+        },
+        "3463990": {
+            "dlcappid": "3463990",
+            "manifests": {
+                "public": {
+                    "gid": "2508264281014097353",
+                    "size": "360410113",
+                    "download": "359976848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19257681",
+                "timeupdated": "1752745589"
+            }
+        }
+    }
+}
