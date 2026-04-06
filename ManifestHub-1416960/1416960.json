@@ -1,0 +1,70 @@
+{
+    "appid": 1416960,
+    "name": "Everafter Falls",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 05:12:33",
+    "change_number": 30199148,
+    "depot": {
+        "baselanguages": "english,french,spanish,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1416961": {
+            "manifests": {
+                "public": {
+                    "gid": "9015907322940327305",
+                    "size": "403001261",
+                    "download": "269690080"
+                }
+            },
+            "decryptionkey": "2257e99decaf0453ec32df3a6762cc771e6ad768998a6dab444a236f02315163"
+        },
+        "1416962": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5880023688776975363",
+                    "size": "396863497",
+                    "download": "266152432"
+                }
+            },
+            "decryptionkey": "8054c729d9b4192f95afbfd8926be13d77400cc2444678b85ba5192ff3d34ab6"
+        },
+        "1416963": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8997076951609915115",
+                    "size": "517980941",
+                    "download": "287467824"
+                }
+            },
+            "decryptionkey": "c335a4cae8de8708503cee6322771bed0f459928d3a50333a3af3301fe90c76e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19227231",
+                "timeupdated": "1752568863"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
