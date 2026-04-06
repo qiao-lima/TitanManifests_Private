@@ -1,0 +1,52 @@
+{
+    "appid": 2182790,
+    "name": "Riff XR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 00:17:03",
+    "change_number": 30175979,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2182791": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6959994466130651036",
+                    "size": "34030042367",
+                    "download": "32707486832"
+                }
+            },
+            "decryptionkey": "0aa7274b69bae3fe451c7ca0101244ea8ae302b7c88ef74123290e899fd0bc0f"
+        },
+        "2182792": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19304527",
+                "timeupdated": "1753139820"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
