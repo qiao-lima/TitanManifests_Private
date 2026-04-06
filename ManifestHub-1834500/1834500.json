@@ -1,0 +1,45 @@
+{
+    "appid": 1834500,
+    "name": "做了个魔塔",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-13 07:12:52",
+    "change_number": 30033391,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "1834501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "999437672921556992",
+                    "size": "429575112",
+                    "download": "330018592"
+                }
+            },
+            "decryptionkey": "9c395dbfd2c7a1d8e795e8bc0f7619a0184b5eaaee421a2e1579a8cf7b7dddf6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7994619",
+                "timeupdated": "1641800928"
+            }
+        }
+    }
+}
