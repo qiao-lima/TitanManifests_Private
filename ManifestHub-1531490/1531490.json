@@ -1,0 +1,65 @@
+{
+    "appid": 1531490,
+    "name": "Harmony's Odyssey",
+    "type": "Game",
+    "schinese_name": "小魔女星拼乐",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 18:44:54",
+    "change_number": 30171647,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1531491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6574213696673387365",
+                    "size": "3959270924",
+                    "download": "624902656"
+                }
+            },
+            "decryptionkey": "9db9c201ff126f1d10049476437a29e4f235c73e477c9c249f80d36bd5b490bd"
+        },
+        "1531492": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3047537817016527401",
+                    "size": "3984351396",
+                    "download": "628511744"
+                }
+            },
+            "decryptionkey": "9f750ba6b53b854bd15f9e0bd342e08c3151c5e2fa1a912688707e70bdbc8d39"
+        },
+        "1531493": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7391428486854295480",
+                    "size": "3966518399",
+                    "download": "628889936"
+                }
+            },
+            "decryptionkey": "c7f4a2c4087d8b7c2837247697ddc2ccf08ff599f44fc0f7c7d1447eb4715706"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "branches": {
+            "public": {
+                "buildid": "13454984",
+                "timeupdated": "1708940190"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
