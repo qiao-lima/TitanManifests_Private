@@ -1,0 +1,46 @@
+{
+    "appid": 1307370,
+    "name": "Rain City",
+    "type": "Game",
+    "schinese_name": "雨城",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 04:14:14",
+    "change_number": 29806971,
+    "depot": {
+        "1307371": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "80576504219573389",
+                    "size": "961560159",
+                    "download": "223844064"
+                }
+            },
+            "decryptionkey": "ef9cedb34a38b880716984851b7e8ed13e674232799738fe689794959423de18"
+        },
+        "1307372": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1054208924772046961",
+                    "size": "962824980",
+                    "download": "224802944"
+                }
+            },
+            "decryptionkey": "767a24571bdb793b4fee8fe2ca0904405091b45d58e31490d9eb73bb7343cce4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10062478",
+                "timeupdated": "1669961815"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
