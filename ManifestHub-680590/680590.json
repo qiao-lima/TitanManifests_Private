@@ -1,0 +1,58 @@
+{
+    "appid": 680590,
+    "name": "Minotaur",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 20:44:26",
+    "change_number": 29921142,
+    "depot": {
+        "baselanguages": "",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "680591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "463033942470018932",
+                    "size": "2562811341",
+                    "download": "2392692592"
+                }
+            },
+            "decryptionkey": "ef69d8c08afa141054d09c56eddc9748df002563ca58ae0f27c07af13081867c"
+        },
+        "680592": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5464024893450955205",
+                    "size": "2570022739",
+                    "download": "2395146576"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18887037",
+                "timeupdated": "1750099137"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
