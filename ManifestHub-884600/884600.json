@@ -1,0 +1,49 @@
+{
+    "appid": 884600,
+    "name": "Soul at Stake Test Server",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:31:55",
+    "change_number": 30057887,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "884601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6709498037136255252",
+                    "size": "32372673245",
+                    "download": "20656020112"
+                }
+            },
+            "decryptionkey": "0c8b21c044474c0138a4c316598a365d1bae4f29e078c2071012995d898db4b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5300498",
+                "timeupdated": "1594988960"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 17104946179167907133
+}
