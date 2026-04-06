@@ -1,0 +1,47 @@
+{
+    "appid": 1592240,
+    "name": "Zoelie - SCAD Games Studio",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-26 19:50:15",
+    "change_number": 29766640,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1592241": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6212667557112851814",
+                    "size": "13669946838",
+                    "download": "3917262352"
+                }
+            },
+            "decryptionkey": "a301738c65aea05aed06a2477cf68910d81728217c15f2bd8aaa8fbef5da136d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6634578",
+                "timeupdated": "1619900177"
+            }
+        }
+    }
+}
