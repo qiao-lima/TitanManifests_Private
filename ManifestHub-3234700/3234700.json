@@ -1,0 +1,45 @@
+{
+    "appid": 3234700,
+    "name": "突破重围",
+    "type": "Game",
+    "schinese_name": "突破重围",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 05:36:49",
+    "change_number": 30032960,
+    "depot": {
+        "3234701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2535961805811027441",
+                    "size": "355820587",
+                    "download": "96481584"
+                }
+            },
+            "decryptionkey": "6df023d134893521f2bc184f1263815fc10a66a5e1f94d12e18fcd95c16007dd"
+        },
+        "3234702": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1360122374649767044",
+                    "size": "356797913",
+                    "download": "95426992"
+                }
+            }
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "18545941",
+                "timeupdated": "1747815016"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 12411220023888252205
+}
