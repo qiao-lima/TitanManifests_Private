@@ -1,0 +1,31 @@
+{
+    "appid": "501800",
+    "type": "Game",
+    "name": "REED",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24646381",
+    "update_time": "2024-08-14 19:12:47",
+    "depot": {
+        "501801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5983014233652103324",
+                    "size": "77168560",
+                    "download": "30411216"
+                }
+            },
+            "decryptionkey": "7297a381aa119e7764adb0a3321180106badbed8794955c73e720863b6318efc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1241611",
+                "timeupdated": "1469268926"
+            }
+        }
+    },
+    "access_token": 16838200699090011692
+}
