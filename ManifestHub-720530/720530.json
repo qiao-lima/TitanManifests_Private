@@ -1,0 +1,27 @@
+{
+    "appid": "720530",
+    "type": "Music",
+    "name": "Killer Instinct - The Complete Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28516632",
+    "update_time": "2025-04-17 05:10:39",
+    "depot": {
+        "720530": {
+            "manifests": {
+                "public": {
+                    "gid": "4139157417108635110",
+                    "size": "759652520",
+                    "download": "631864160"
+                }
+            },
+            "decryptionkey": "a91f8ebe9f17a4336d7557ecb50955ed97e27bc65ab877a587ca70ed91915075"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6403555",
+                "timeupdated": "1616101499"
+            }
+        }
+    }
+}
