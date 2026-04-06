@@ -1,0 +1,27 @@
+{
+    "appid": 1392170,
+    "name": "Schastye",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 21:35:50",
+    "change_number": 30118631,
+    "depot": {
+        "1392171": {
+            "manifests": {
+                "public": {
+                    "gid": "3645007929122491864",
+                    "size": "579346669",
+                    "download": "337964560"
+                }
+            },
+            "decryptionkey": "9f7210a06d60a8ab068542b0e780a6ee18b3f8a03161ed3bee4bfcddd3c26d87"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5516155",
+                "timeupdated": "1599568894"
+            }
+        }
+    }
+}
