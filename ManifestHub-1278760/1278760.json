@@ -1,0 +1,27 @@
+{
+    "appid": 1278760,
+    "name": "TinyShot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-22 03:16:24",
+    "change_number": 29111567,
+    "depot": {
+        "1278761": {
+            "manifests": {
+                "public": {
+                    "gid": "6082852144824105490",
+                    "size": "1808174695",
+                    "download": "219072048"
+                }
+            },
+            "decryptionkey": "978ae666895ee0563be9e82a12c63693f9d43c80c6d0cde2bd954f4c2dc9d81c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6134366",
+                "timeupdated": "1611589303"
+            }
+        }
+    }
+}
