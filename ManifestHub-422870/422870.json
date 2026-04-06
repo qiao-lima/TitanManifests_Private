@@ -1,0 +1,32 @@
+{
+    "appid": "422870",
+    "type": "Game",
+    "name": "Super Duper Flying Genocide 2017",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 19:04:05",
+    "depot": {
+        "baselanguages": "english",
+        "422871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8937122262184561819",
+                    "size": "5903365",
+                    "download": "5918960"
+                }
+            },
+            "decryptionkey": "a468ad672b67580e27d4500d86ccecb751e7a620ca114d45601e34ef0aacc040"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1572428",
+                "timeupdated": "1484598353"
+            }
+        }
+    },
+    "access_token": 17292478203042407463
+}
