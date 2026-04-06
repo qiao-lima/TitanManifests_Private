@@ -1,0 +1,41 @@
+{
+    "appid": "285710",
+    "type": "Tool",
+    "name": "Goat Simulator Development Kit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 18:42:30",
+    "depot": {
+        "overridescddb": "1",
+        "285711": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8928491864861472915",
+                    "size": "34918943008",
+                    "download": "20532765424"
+                },
+                "local": {
+                    "gid": "5284712140695465767",
+                    "size": "4487184951",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "21d5bae28cba50f32883ba38676e08920aed4bfd3e3bddb90053ad1f71e1a3d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1160056",
+                "timeupdated": "1464940870"
+            },
+            "local": {
+                "buildid": "222248",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 8604930332400048948
+}
