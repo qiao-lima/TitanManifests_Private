@@ -1,0 +1,72 @@
+{
+    "appid": "1901380",
+    "type": "Game",
+    "name": "Goddess Of War Ashley Ⅱ",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "20646642",
+    "update_time": "2024-08-14 20:56:04",
+    "depot": {
+        "1901381": {
+            "manifests": {
+                "public": {
+                    "gid": "6662506385242104699",
+                    "size": "370974779",
+                    "download": "136623216"
+                }
+            },
+            "decryptionkey": "8e007347c567e75544e007619f99347e4aec7018c1b4f287ebd337c201b9078f"
+        },
+        "1901440": {
+            "dlcappid": "1901440",
+            "manifests": {
+                "public": {
+                    "gid": "4648484585459626862",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1901441": {
+            "dlcappid": "1901441",
+            "manifests": {
+                "public": {
+                    "gid": "7239399669076284427",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1901442": {
+            "dlcappid": "1901442",
+            "manifests": {
+                "public": {
+                    "gid": "6845237059705909255",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1901443": {
+            "dlcappid": "1901443",
+            "manifests": {
+                "public": {
+                    "gid": "3141267989367385997",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8194421",
+                "timeupdated": "1644737629"
+            }
+        }
+    },
+    "access_token": 6453593998568825015
+}
