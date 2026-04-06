@@ -1,0 +1,43 @@
+{
+    "appid": 2753620,
+    "name": "Fruit Mountain",
+    "type": "Game",
+    "schinese_name": "水果山",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 02:37:44",
+    "change_number": 30122438,
+    "depot": {
+        "2753621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6726411292068359769",
+                    "size": "371810246",
+                    "download": "257613856"
+                }
+            },
+            "decryptionkey": "911ea55f97dd7488af659c92740ef0bc2835ed24bda7c3f96d62972e2cda7fdc"
+        },
+        "2753622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7788784556298125302",
+                    "size": "508701694",
+                    "download": "288280656"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18728705",
+                "timeupdated": "1749015728"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
