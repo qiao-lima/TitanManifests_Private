@@ -1,0 +1,57 @@
+{
+    "appid": 1429880,
+    "name": "Little Sim World",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 18:19:20",
+    "change_number": 30191033,
+    "depot": {
+        "baselanguages": "english",
+        "1429881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3697115564457091883",
+                    "size": "1085556136",
+                    "download": "755108480"
+                }
+            },
+            "decryptionkey": "3faa97d2844a3dbe09fc697d4a781583446c83202f4ef4129091ba7c261426ff"
+        },
+        "1429882": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6594150767348702933",
+                    "size": "1622852231",
+                    "download": "824193184"
+                }
+            }
+        },
+        "1429883": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3158446245067632299",
+                    "size": "1155875290",
+                    "download": "763137328"
+                }
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "19316008",
+                "timeupdated": "1753198325"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
