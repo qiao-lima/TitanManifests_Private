@@ -1,0 +1,36 @@
+{
+    "appid": 2305840,
+    "name": "Cat Quest III",
+    "type": "Game",
+    "schinese_name": "猫咪斗恶龙3 Cat Quest III",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 10:29:01",
+    "change_number": 30007630,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2305841": {
+            "manifests": {
+                "public": {
+                    "gid": "438037350979946842",
+                    "size": "1101524170",
+                    "download": "899234464"
+                }
+            },
+            "decryptionkey": "7bf9c3f47228c505c20c83dc23a54cbbca66b316a368aab8094deac72c8f4149"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "19156096",
+                "timeupdated": "1752226135"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
