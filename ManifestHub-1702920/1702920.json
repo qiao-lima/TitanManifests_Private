@@ -1,0 +1,41 @@
+{
+    "appid": "1702920",
+    "type": "Music",
+    "name": "The Ascent - Original Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27818411",
+    "update_time": "2025-03-07 00:20:32",
+    "depot": {
+        "1702921": {
+            "manifests": {
+                "public": {
+                    "gid": "51549358366094405",
+                    "size": "275583360",
+                    "download": "231296912"
+                }
+            },
+            "decryptionkey": "58ff1f0cec68a6e418c4f30ccb880d6f417df05b6684abd46126dd18f87131fa"
+        },
+        "1702922": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2429943495088332577",
+                    "size": "715637743",
+                    "download": "721561920"
+                }
+            },
+            "decryptionkey": "cd94c2cdbb552605b90233dc1fc0dbc9daa122b476b5f79c15e96eb1e9cea5a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7106559",
+                "timeupdated": "1627556504"
+            }
+        }
+    },
+    "access_token": 18264705585304671107
+}
