@@ -1,0 +1,45 @@
+{
+    "appid": 812090,
+    "name": "RAW FOOTAGE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-22 19:18:00",
+    "change_number": 29125057,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "812091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4565370316248984127",
+                    "size": "5963636214",
+                    "download": "2867854512"
+                }
+            },
+            "decryptionkey": "ae088472ebff768d62a704d1fc371b17037a29818a55a635fef567c422ab9750"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3057773",
+                "timeupdated": "1535026536"
+            }
+        }
+    }
+}
