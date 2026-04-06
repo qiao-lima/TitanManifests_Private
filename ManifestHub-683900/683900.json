@@ -1,0 +1,57 @@
+{
+    "appid": 683900,
+    "name": "RollerCoaster Tycoon Classic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:00:10",
+    "change_number": 29727797,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,dutch",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "683901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "499120243934810309",
+                    "size": "371207121",
+                    "download": "220161200"
+                }
+            },
+            "decryptionkey": "75a7eba78181218a222110bc5e1c68edf298b335b16fb0ce91fbc285732cde5f"
+        },
+        "683902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4738578713061850096",
+                    "size": "435205570",
+                    "download": "241842496"
+                }
+            },
+            "decryptionkey": "6c8ec21f32d0ad18e712e5fb00572d7a8dd3f00bad4e8ba3bdec3e4464388717"
+        },
+        "683903": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18984088",
+                "timeupdated": "1750786518"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
