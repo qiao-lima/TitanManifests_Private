@@ -1,0 +1,43 @@
+{
+    "appid": 2824310,
+    "name": "Lucky Hunter",
+    "type": "Game",
+    "schinese_name": "幸运猎人",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 01:20:43",
+    "change_number": 30176693,
+    "depot": {
+        "2824311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6147370659195394374",
+                    "size": "535536874",
+                    "download": "146498560"
+                }
+            },
+            "decryptionkey": "f585b2a24c271daf811af9725f0a3405225d1a30175a5ad4c83b82951c72bfeb"
+        },
+        "2824312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3011137565032790590",
+                    "size": "614587336",
+                    "download": "177168432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19300185",
+                "timeupdated": "1753106212"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
