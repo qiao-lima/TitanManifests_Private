@@ -1,0 +1,29 @@
+{
+    "appid": 2384920,
+    "name": "消防员康纳 - Firefighter Connor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 01:18:23",
+    "change_number": 30159152,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2384921": {
+            "manifests": {
+                "public": {
+                    "gid": "7227387411243615074",
+                    "size": "1315390252",
+                    "download": "340973536"
+                }
+            },
+            "decryptionkey": "65a0830d086f573a699fa2c439fda65bfead80620570ca6650160b8af85dd452"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18727839",
+                "timeupdated": "1749007518"
+            }
+        }
+    }
+}
