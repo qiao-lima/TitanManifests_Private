@@ -1,0 +1,35 @@
+{
+    "appid": 243380,
+    "name": "Might & Magic VI",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:27:38",
+    "change_number": 30057887,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "243381": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1751616771448012577",
+                    "size": "544541048",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2bca845a0ebcbfd5e4b780ff5801f4a11a7900cda530eedca1f38e3c2839c719"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "87833"
+            }
+        }
+    }
+}
