@@ -1,0 +1,38 @@
+{
+    "appid": "332780",
+    "type": "Game",
+    "name": "National Zombie Park",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22496404",
+    "update_time": "2024-08-14 18:49:32",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "332781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3998516201007943270",
+                    "size": "1092194311",
+                    "download": "394653376"
+                }
+            },
+            "decryptionkey": "f3c2b9ec59f0823fb3c1234f2e4a46c74713ceb9f643a265fb4d2bb3ed000112"
+        },
+        "branches": {
+            "public": {
+                "buildid": "478680"
+            }
+        }
+    },
+    "access_token": 6428910923659732889
+}
