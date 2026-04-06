@@ -1,0 +1,28 @@
+{
+    "appid": 1646720,
+    "name": "ARK: Genesis Part 2 Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 14:56:42",
+    "change_number": 29823720,
+    "depot": {
+        "1646721": {
+            "manifests": {
+                "public": {
+                    "gid": "3554231410773184939",
+                    "size": "183027975",
+                    "download": "166728656"
+                }
+            },
+            "decryptionkey": "1bf44613e8c13d5ee0502dc5df83f31953a28cc2a10a835dad9180d1b634c4d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6785097",
+                "timeupdated": "1622479639"
+            }
+        }
+    },
+    "access_token": 3965590415632377873
+}
