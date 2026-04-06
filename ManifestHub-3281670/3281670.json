@@ -1,0 +1,44 @@
+{
+    "appid": "3281670",
+    "type": "Demo",
+    "name": "LEENIE'S TALE Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27732158",
+    "update_time": "2025-03-01 18:57:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3281671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "11530062707169441",
+                    "size": "1194370717",
+                    "download": "1088984496"
+                }
+            },
+            "decryptionkey": "18fe5b45b96cc5d775709e03ef9c3ca516c305229942f36c5dceb720114483e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17558339",
+                "timeupdated": "1740826584"
+            }
+        }
+    }
+}
