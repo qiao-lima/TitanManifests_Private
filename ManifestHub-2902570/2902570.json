@@ -1,0 +1,27 @@
+{
+    "appid": 2902570,
+    "name": "Rebellion: Rise of the Damned",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 22:11:35",
+    "change_number": 29937841,
+    "depot": {
+        "2902571": {
+            "manifests": {
+                "public": {
+                    "gid": "598351917881277525",
+                    "size": "2787083210",
+                    "download": "2614073120"
+                }
+            },
+            "decryptionkey": "ffc9e96d1472ba9e5b1d6b75197460818456960285698302a8487f5d47634d13"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18158727",
+                "timeupdated": "1744991544"
+            }
+        }
+    }
+}
