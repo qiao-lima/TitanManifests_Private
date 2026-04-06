@@ -1,0 +1,89 @@
+{
+    "appid": 1748230,
+    "name": "RESTLESS SOUL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 23:24:03",
+    "change_number": 29421238,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1748231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3782838833569051370",
+                    "size": "222460977",
+                    "download": "68450832"
+                },
+                "local": {
+                    "gid": "5897031542476054952",
+                    "size": "119113971",
+                    "download": "29952144"
+                }
+            },
+            "decryptionkey": "78a98f1a7b5edb93c21fd501884b365c82916cb6b49d5d67e85e9116f74ff57f"
+        },
+        "1748232": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6964512482677385642",
+                    "size": "236278333",
+                    "download": "72958544"
+                }
+            },
+            "decryptionkey": "1a3fb8936d912d5907365d3f47e32801726c40991e96476bf01868caac475884"
+        },
+        "1748233": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5323537007614022266",
+                    "size": "242227283",
+                    "download": "68321904"
+                }
+            },
+            "decryptionkey": "5c01f3f26efeedad6e394b6585006f3c46af606417a383ac08f624170e6d68c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13967495",
+                "timeupdated": "1712348048"
+            },
+            "local": {
+                "buildid": "7326065",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1631131868"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
