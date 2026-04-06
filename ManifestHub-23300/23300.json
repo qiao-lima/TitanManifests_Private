@@ -1,0 +1,106 @@
+{
+    "appid": 23300,
+    "name": "Yosumin!",
+    "type": "Game",
+    "schinese_name": "四角方块",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:33:31",
+    "change_number": 30193673,
+    "depot": {
+        "23301": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3867212194040668897",
+                    "size": "51968821",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "adbde342aab49561d8b9a0b13918b01c182d10b19b331dfa8e57f513570c8a2c"
+        },
+        "23302": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7900001632342634501",
+                    "size": "13439555",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "69660689e142d88663b51b0c1c78320ac9d5e2e05bc1bacbee999708ba66c71f"
+        },
+        "23303": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3964265845672849572",
+                    "size": "13474365",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8c85e40cba7c50c566d5380ff2373ed6a9f6c10d849550b559068426bdca10fe"
+        },
+        "23304": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1188851212745068992",
+                    "size": "13452044",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5931826dfa59be343fb3294b703e400dda318c6bb4e346f0cde8f80f8f386d59"
+        },
+        "23305": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9067391786109890163",
+                    "size": "13394971",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5e9b7c90c6471fb051aedebfd27d29ebe6afa973925169638be1f9152c706892"
+        },
+        "23306": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7166356412461156529",
+                    "size": "13427301",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "dc46c37f3809d87169a248ec7bc912caddc49cb7ff133d63d7bb1458e019c7ad"
+        },
+        "23307": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5770559867986476480",
+                    "size": "13460476",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "46998f581d0768210a1bb1a8fde951d98d446fd6e45a71f7390afb741e94baa9"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "716"
+            }
+        }
+    }
+}
