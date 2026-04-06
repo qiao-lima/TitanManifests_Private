@@ -1,0 +1,29 @@
+{
+    "appid": "1943700",
+    "type": "DLC",
+    "name": "Preorder Bonus - Artbook - Syberia the World Before (2)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22332387",
+    "update_time": "2024-07-16 02:46:02",
+    "depot": {
+        "1943701": {
+            "manifests": {
+                "public": {
+                    "gid": "2053391060692080498",
+                    "size": "109853344",
+                    "download": "105874048"
+                }
+            },
+            "dlcappid": "1943700",
+            "decryptionkey": "a358a424b1dadd4e6868a9813602e8949e1b5de51624adc4dfff8e04d5e9cc24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8405501",
+                "timeupdated": "1647783135"
+            }
+        }
+    },
+    "access_token": 7343484449713997210
+}
