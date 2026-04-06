@@ -1,0 +1,32 @@
+{
+    "appid": "533910",
+    "type": "Game",
+    "name": "Offroad: VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25093108",
+    "update_time": "2024-09-05 22:20:57",
+    "depot": {
+        "baselanguages": "english",
+        "533911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4155236504989350077",
+                    "size": "172201557",
+                    "download": "44440416"
+                }
+            },
+            "decryptionkey": "4faa81088e4eb7eb587a42a08a00336b1f98b1bee9232f05b6fbb56e86d151c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1391421",
+                "timeupdated": "1476408176"
+            }
+        }
+    },
+    "access_token": 18359086537617545298
+}
