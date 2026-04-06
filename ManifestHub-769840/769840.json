@@ -1,0 +1,42 @@
+{
+    "appid": 769840,
+    "name": "Muddledash",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 20:58:17",
+    "change_number": 29445936,
+    "depot": {
+        "769841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2943357154046613550",
+                    "size": "239328561",
+                    "download": "146703504"
+                }
+            },
+            "decryptionkey": "c53524a81adfd48a1be433603b517e8b94d50fef329d0c13db43dde4c3940c60"
+        },
+        "769842": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8091766032626458034",
+                    "size": "253718030",
+                    "download": "150767952"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3285321",
+                "timeupdated": "1541602741"
+            }
+        }
+    }
+}
