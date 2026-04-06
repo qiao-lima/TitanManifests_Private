@@ -1,0 +1,51 @@
+{
+    "appid": 374940,
+    "name": "Tank Battle: Normandy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:52:04",
+    "change_number": 29767873,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "374941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6524043109481933842",
+                    "size": "359150371",
+                    "download": "308855136"
+                }
+            },
+            "decryptionkey": "2cbc48268a5d12509de219d8855330b211c08e97324c7784fe8966a827278f69"
+        },
+        "374942": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1048038974458863717",
+                    "size": "338442046",
+                    "download": "299071376"
+                }
+            },
+            "decryptionkey": "6d1a2256c5ce60dfc4335f43c1255776198dd13f7690455cdf6f989f7fda917a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16267135",
+                "timeupdated": "1730480051"
+            }
+        }
+    }
+}
