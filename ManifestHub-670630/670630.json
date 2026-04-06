@@ -1,0 +1,44 @@
+{
+    "appid": 670630,
+    "name": "Slingshot Puzzle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 22:53:36",
+    "change_number": 29830765,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish",
+        "670631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "631107654086862066",
+                    "size": "77889523",
+                    "download": "44078128"
+                }
+            },
+            "decryptionkey": "345584df00f19089ecebd7768cd47939fccc7efdc4b38dccae2d96596c2beb05"
+        },
+        "670632": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4943074783723839204",
+                    "size": "102013831",
+                    "download": "50760464"
+                }
+            },
+            "decryptionkey": "b74734d5ee330974e66801cdf1d6fbab72edb042493752f7d14e660ae3e8aa6b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2759161",
+                "timeupdated": "1525881432"
+            }
+        }
+    }
+}
