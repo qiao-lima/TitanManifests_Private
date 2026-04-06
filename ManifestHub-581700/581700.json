@@ -1,0 +1,55 @@
+{
+    "appid": "581700",
+    "type": "Game",
+    "name": "Whispers: Last Hope",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-28 11:58:58",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "581701": {},
+        "581702": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9159432226657826517",
+                    "size": "1124815558",
+                    "download": "270364928"
+                }
+            },
+            "decryptionkey": "d4a0c001c0b2ff5900f4d62931383c5800df6c0773fd817dcebe5208e887dc95"
+        },
+        "581703": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6065437689322405545",
+                    "size": "1102794037",
+                    "download": "270562816"
+                }
+            },
+            "decryptionkey": "999ed89cf209e6a70f43f96df16825dc354c6e16700995495e0dc34a865b870b"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "1794295",
+                "timeupdated": "1493728679"
+            }
+        }
+    },
+    "access_token": 14074891797495668583
+}
