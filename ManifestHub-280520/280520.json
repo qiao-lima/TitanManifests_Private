@@ -1,0 +1,108 @@
+{
+    "appid": 280520,
+    "name": "Crea",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:11:12",
+    "change_number": 30216285,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "workshopdepot": "280520",
+        "baselanguages": "english",
+        "280521": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4657683228950945991",
+                    "size": "126981869",
+                    "download": "97731120"
+                }
+            },
+            "decryptionkey": "500701b7960dbb419bc87e688b1f12212f3348cb30cf5feb9d4d5d5cb506a36a"
+        },
+        "280522": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5296340728934969049",
+                    "size": "31731976",
+                    "download": "8969168"
+                }
+            },
+            "decryptionkey": "d30651fa11201fbf6b90ee4e415c0f58621b5ea4e8df079b80e9d520837ad05c"
+        },
+        "280525": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4761826033196816466",
+                    "size": "38151224",
+                    "download": "9993712"
+                }
+            },
+            "decryptionkey": "fc1dd295d09a0b1f222660e51c4db0e67241953f802f0ad6dc4f046f52b68687"
+        },
+        "280523": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "786916921918084071",
+                    "size": "119951311",
+                    "download": "22401200"
+                }
+            },
+            "decryptionkey": "c10c8ca9c8ab70ddd3aeb11d39082328cf8a321fe9d0c3c1b4bd33beea87a324"
+        },
+        "280524": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6910366188519432841",
+                    "size": "98312372",
+                    "download": "19224192"
+                }
+            },
+            "decryptionkey": "a0d491dec7467a4f45c0728eb0ffbe5e3a2fe73d1fbbebda8234b8a62175da50"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4101540",
+                "timeupdated": "1565711617"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "49ebd1b1260a5ecb77ce904204b1f2eefaccbe03680e963090e9018155878f67"
+    }
+}
