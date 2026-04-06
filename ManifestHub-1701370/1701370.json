@@ -1,0 +1,59 @@
+{
+    "appid": 1701370,
+    "name": "Practisim Designer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-18 17:52:36",
+    "change_number": 30135873,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1701371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4369539676107649619",
+                    "size": "10660809770",
+                    "download": "3419465104"
+                }
+            },
+            "decryptionkey": "c534a1112736677ea840f7a94f59bc00bdba3f9c4690436ddbf0133a59e95ad2"
+        },
+        "1701373": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7112371987459804517",
+                    "size": "10414135643",
+                    "download": "3379318512"
+                }
+            },
+            "decryptionkey": "7beab312a641e3c5a41d01f6c452922f8982f1ea19b0905c13bf25aed7f65ca7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19270508",
+                "timeupdated": "1752857550"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
