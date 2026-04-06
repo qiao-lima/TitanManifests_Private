@@ -1,0 +1,28 @@
+{
+    "appid": 1634702,
+    "name": "SAMURAI WARRIORS 5 - Additional Horse \"Qilin\"",
+    "type": "DLC",
+    "schinese_name": "战国无双５ - 追加军马“麒麟”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:15:34",
+    "change_number": 26201212,
+    "depot": {
+        "1634702": {
+            "manifests": {
+                "public": {
+                    "gid": "7678779145897431601",
+                    "size": "524",
+                    "download": "352"
+                }
+            },
+            "dlcappid": "1634702",
+            "decryptionkey": "321398799fb90a44de3241b42377f08379d10455aab53baa30a161c1601f946f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6933386",
+                "timeupdated": "1624626919"
+            }
+        }
+    }
+}
