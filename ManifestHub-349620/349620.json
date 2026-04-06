@@ -1,0 +1,73 @@
+{
+    "appid": 349620,
+    "name": "BlastZone 2 Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 02:56:07",
+    "change_number": 29979294,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "349621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1228760426545305717",
+                    "size": "74857319",
+                    "download": "42025312"
+                }
+            },
+            "decryptionkey": "c7bfffa60ee536d1a05be7d7c7236578a0dc93c85ea80cad7e402b945d635e1c"
+        },
+        "349622": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6707526924948361562",
+                    "size": "3904720",
+                    "download": "1354752"
+                }
+            },
+            "decryptionkey": "2959a2d46f3d0ad96a969202b867e8a4d09381a9bed990686c49295a90b672e3"
+        },
+        "349623": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3113579448304519390",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "96bab2d27dfbb7e6d10d7470565090b7d2d4fe48f84728bc95da49b0ae8cab06"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18959092",
+                "timeupdated": "1751080065"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
