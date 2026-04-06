@@ -1,0 +1,31 @@
+{
+    "appid": 978450,
+    "name": "Data mining 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 18:11:14",
+    "change_number": 30037260,
+    "depot": {
+        "978451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5594244232684146501",
+                    "size": "27179391",
+                    "download": "24686720"
+                }
+            },
+            "decryptionkey": "084a554f25b649cd6fca50773af09700edcca808608317dff8348600cd2e1600"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "13490086",
+                "timeupdated": "1708258592"
+            }
+        }
+    }
+}
