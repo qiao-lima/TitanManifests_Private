@@ -1,0 +1,30 @@
+{
+    "appid": 553670,
+    "name": "Beholder - Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 10:47:41",
+    "change_number": 29678314,
+    "depot": {
+        "553670": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3157774598972427745",
+                    "size": "9501999",
+                    "download": "9471408"
+                }
+            },
+            "decryptionkey": "d89eed7438914a1ec9859e58768375bbeba774765b162473181563aacce4936c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1445743",
+                "timeupdated": "1478591205"
+            }
+        }
+    }
+}
