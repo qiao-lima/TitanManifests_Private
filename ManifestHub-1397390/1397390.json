@@ -1,0 +1,36 @@
+{
+    "appid": 1397390,
+    "name": "The Break-In",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 18:21:53",
+    "change_number": 30191086,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1397392": {
+            "manifests": {
+                "public": {
+                    "gid": "4953095495452737081",
+                    "size": "8397780577",
+                    "download": "756837312"
+                }
+            },
+            "decryptionkey": "d0d92dae796cdbdb47de6b3d30879a3791866a281b5c2ccf5da7c90033324fc6"
+        },
+        "1397391": {},
+        "branches": {
+            "public": {
+                "buildid": "19116317",
+                "timeupdated": "1751709221"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
