@@ -1,0 +1,27 @@
+{
+    "appid": 3375580,
+    "name": "Lustful Dead 🔞",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 18:14:04",
+    "change_number": 29912125,
+    "depot": {
+        "3375581": {
+            "manifests": {
+                "public": {
+                    "gid": "8158881489791512611",
+                    "size": "1200119878",
+                    "download": "339319632"
+                }
+            },
+            "decryptionkey": "356f9f51b32235d1960ba5c55dddff8f9ce4af31717026e1e314d0da2096e2a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17220339",
+                "timeupdated": "1738559429"
+            }
+        }
+    }
+}
