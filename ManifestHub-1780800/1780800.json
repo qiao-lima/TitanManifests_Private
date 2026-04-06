@@ -1,0 +1,29 @@
+{
+    "appid": 1780800,
+    "name": "Chill Corner - Kawaii & Happiness (Music Album)",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:26:38",
+    "change_number": 29721227,
+    "depot": {
+        "1780800": {
+            "manifests": {
+                "public": {
+                    "gid": "5586735012168399549",
+                    "size": "1069276113",
+                    "download": "713654368"
+                }
+            },
+            "dlcappid": "1780800",
+            "decryptionkey": "f456d8c431b78c65b06ec799f957cfbfeb8e46167cd83bd5f3987dca02b715fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18978581",
+                "timeupdated": "1750762424"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
