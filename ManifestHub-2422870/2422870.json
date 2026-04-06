@@ -1,0 +1,47 @@
+{
+    "appid": 2422870,
+    "name": "Bronzebeard's Tavern",
+    "type": "Game",
+    "schinese_name": "铜须酒馆",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 14:23:25",
+    "change_number": 30167468,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2422871": {
+            "manifests": {
+                "public": {
+                    "gid": "8938864157530872195",
+                    "size": "2632741705",
+                    "download": "2447387744"
+                }
+            },
+            "decryptionkey": "5e12c568d89f839c61851e113b653f37285a1c4073f65d40d338cbf0e8c34061"
+        },
+        "2422872": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19041823",
+                "timeupdated": "1751197289"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
