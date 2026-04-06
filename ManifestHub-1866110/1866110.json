@@ -1,0 +1,28 @@
+{
+    "appid": 1866110,
+    "name": "Anime Gas Station",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 20:01:22",
+    "change_number": 29974369,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1866111": {
+            "manifests": {
+                "public": {
+                    "gid": "5476620741604644205",
+                    "size": "214328645",
+                    "download": "84735808"
+                }
+            },
+            "decryptionkey": "d3d928ee997ec32a7d704e3904759bcc84d76c770dd688d9faa5ff13fe269fee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8208283",
+                "timeupdated": "1644948323"
+            }
+        }
+    }
+}
