@@ -1,0 +1,36 @@
+{
+    "appid": 1704550,
+    "name": "TEST RE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-24 14:25:13",
+    "change_number": 29720774,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1704551": {
+            "manifests": {
+                "public": {
+                    "gid": "7291156637100728754",
+                    "size": "2255692583",
+                    "download": "1985578032"
+                }
+            },
+            "decryptionkey": "9d4f106a64d3b5e74609c3abe5e19f5b3e457ef4efded9ada1dc64f3f7375124"
+        },
+        "baselanguages": "english,french,schinese,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18452974",
+                "timeupdated": "1750760088"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
