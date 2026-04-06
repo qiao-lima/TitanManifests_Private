@@ -1,0 +1,27 @@
+{
+    "appid": 1281510,
+    "name": "Kirakira stars project Nagisa",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 14:56:04",
+    "change_number": 29861591,
+    "depot": {
+        "1281511": {
+            "manifests": {
+                "public": {
+                    "gid": "6075534459927619940",
+                    "size": "2566150625",
+                    "download": "739555424"
+                }
+            },
+            "decryptionkey": "64784c7739c5eda3813495ea9c47b192f6f8866ba31fb831bfc15cf5f1d8bcd3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5183848",
+                "timeupdated": "1592484063"
+            }
+        }
+    }
+}
