@@ -1,0 +1,31 @@
+{
+    "appid": 1189290,
+    "name": "The Black Grimoire: Cursebreaker",
+    "type": "Game",
+    "schinese_name": "黑魔法书：破咒者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 07:11:15",
+    "change_number": 29908043,
+    "depot": {
+        "1189291": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3475942539447632611",
+                    "size": "5497132817",
+                    "download": "1469878928"
+                }
+            },
+            "decryptionkey": "341869491ffef1b4850c649a11044ba5ae1059377781b2a17f8b4761b2c0780a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18261897",
+                "timeupdated": "1745827355"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
