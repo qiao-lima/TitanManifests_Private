@@ -1,0 +1,43 @@
+{
+    "appid": 1833540,
+    "name": "STARS ERA: ABYSS FRONTIER",
+    "type": "Game",
+    "schinese_name": "群星战纪：深渊边境",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 13:23:41",
+    "change_number": 30206137,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1833541": {
+            "manifests": {
+                "public": {
+                    "gid": "781318041271097210",
+                    "size": "9972245570",
+                    "download": "9367768688"
+                }
+            },
+            "decryptionkey": "e5fb7c960cbb61665875bfc5d2e0b190833355aacea76a4332310b4930184b41"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "19156195",
+                "timeupdated": "1752047209"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
