@@ -1,0 +1,54 @@
+{
+    "appid": 1552080,
+    "name": "Deepest Chamber: Resurrection",
+    "type": "Game",
+    "schinese_name": "幽深密室：复活",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 19:40:06",
+    "change_number": 29344713,
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1552081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5372744851007003235",
+                    "size": "8516619027",
+                    "download": "3075995728"
+                }
+            },
+            "decryptionkey": "f09a27a36d2d419a1c972ecd02c36e9e3d13dd9ae80d9b4281293f2e5a669d43"
+        },
+        "1552082": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5103857063020115094",
+                    "size": "8537068853",
+                    "download": "3105396224"
+                }
+            },
+            "decryptionkey": "41234fd92df867f91356433b6903c2de4e4991a4e3a50e7f9e397ede235f132d"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "16773310",
+                "timeupdated": "1734454539"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
