@@ -1,0 +1,37 @@
+{
+    "appid": 2648560,
+    "name": "Super Retro Retry",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 01:28:17",
+    "change_number": 30121571,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2648561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7598027578378477768",
+                    "size": "102807381",
+                    "download": "77676352"
+                }
+            },
+            "decryptionkey": "701f4fbfac2ffffff52d2a5b6d7acdc8e3bd16f8b3cb4fcee3385cc4fbc78dd2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19267761",
+                "timeupdated": "1752798493"
+            }
+        }
+    }
+}
