@@ -1,0 +1,35 @@
+{
+    "appid": 2446270,
+    "name": "花园魔三国2 -The Sacrificial Girl of the Fantasy 3 Kingdoms 2-",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 09:07:56",
+    "change_number": 30063843,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2446271": {
+            "manifests": {
+                "public": {
+                    "gid": "800956207853618454",
+                    "size": "1832635401",
+                    "download": "1449095264"
+                }
+            },
+            "decryptionkey": "1ec7158f1c1dcb6bfba78443cd698604092d2313993f6b964bb33b5470ac7a8c"
+        },
+        "2622681": {
+            "dlcappid": "2622680"
+        },
+        "2629451": {
+            "dlcappid": "2629450"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19226461",
+                "timeupdated": "1752566869"
+            }
+        }
+    }
+}
