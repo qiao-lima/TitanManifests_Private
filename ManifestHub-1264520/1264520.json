@@ -1,0 +1,73 @@
+{
+    "appid": 1264520,
+    "name": "Vibrant Venture",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 17:21:35",
+    "change_number": 29803458,
+    "depot": {
+        "workshopdepot": "1264520",
+        "1264521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7661781240591646382",
+                    "size": "814782361",
+                    "download": "136341616"
+                }
+            },
+            "decryptionkey": "4f9b2d72b3960114e65695c456931b99a33a4a634bc6a61b8c54818838bd5013"
+        },
+        "1264523": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5219775659844541903",
+                    "size": "806329717",
+                    "download": "133745840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1264522": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2921039431977100311",
+                    "size": "839126354",
+                    "download": "143764896"
+                }
+            }
+        },
+        "1264524": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3367905610659273950",
+                    "size": "859039858",
+                    "download": "136937280"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19037697",
+                "timeupdated": "1751127690"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
