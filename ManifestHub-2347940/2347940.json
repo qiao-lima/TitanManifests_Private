@@ -1,0 +1,28 @@
+{
+    "appid": 2347940,
+    "name": "Sea of Survivors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:10:33",
+    "change_number": 30213180,
+    "depot": {
+        "2347941": {
+            "manifests": {
+                "public": {
+                    "gid": "5429337503164643509",
+                    "size": "165475024",
+                    "download": "79468704"
+                }
+            },
+            "decryptionkey": "e410306c57c6526ec83c792aebf473ad2c7eee992387c41b99d6e511e1cd5ebf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19310341",
+                "timeupdated": "1753167053"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
