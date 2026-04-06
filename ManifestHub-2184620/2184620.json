@@ -1,0 +1,33 @@
+{
+    "appid": 2184620,
+    "name": "Never 7 - The End of Infinity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 13:52:25",
+    "change_number": 30146289,
+    "depot": {
+        "baselanguages": "english,tchinese,japanese",
+        "2184621": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5801319186847975950",
+                    "size": "1023114306",
+                    "download": "945414832"
+                }
+            },
+            "decryptionkey": "39551a4d76f98b8d5b49a223341364752575137d856bf932d38d65a0035d337d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18121040",
+                "timeupdated": "1746025268"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
