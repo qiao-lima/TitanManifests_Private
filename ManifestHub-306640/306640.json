@@ -1,0 +1,58 @@
+{
+    "appid": 306640,
+    "name": "Battle Academy 2: Eastern Front",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 16:04:03",
+    "change_number": 30091888,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "306641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1055410266183387498",
+                    "size": "1660879993",
+                    "download": "539278640"
+                }
+            },
+            "decryptionkey": "fcf265f36fd15aaca4b9aeedfd0fa6748cdacb8981afe7384a1e691f74b74873"
+        },
+        "306642": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3445208553519129525",
+                    "size": "1279955107",
+                    "download": "447591184"
+                }
+            },
+            "decryptionkey": "ac00ef23e470e4bc49586c0de7dcb26f47e11a64cefa8f92313229be7cde512c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1282523",
+                "timeupdated": "1471364756"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
