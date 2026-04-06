@@ -1,0 +1,57 @@
+{
+    "appid": 649450,
+    "name": "Deadly Escape",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 03:12:49",
+    "change_number": 30001810,
+    "depot": {
+        "649451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1215440351482744568",
+                    "size": "257668691",
+                    "download": "53459808"
+                }
+            },
+            "decryptionkey": "ebe1e9152006c868e185a3bbe6bba118f56a266c6798c949d76a1dc59f61a84b"
+        },
+        "649452": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8707108412045019406",
+                    "size": "307348910",
+                    "download": "68462336"
+                }
+            },
+            "decryptionkey": "c9fcf3563ed068f0180f906d723f3f9a0b8121c271ff5975a4ab7765fb3f70a2"
+        },
+        "649453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4620206734879119229",
+                    "size": "308761655",
+                    "download": "67281664"
+                }
+            },
+            "decryptionkey": "b656a195099df4d753e49672fc64fc1ac5f38179ebccade58ad9d1b17c0e082e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2738270",
+                "timeupdated": "1525236492"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
