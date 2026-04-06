@@ -1,0 +1,52 @@
+{
+    "appid": 3472850,
+    "name": "指尖问道",
+    "type": "Game",
+    "schinese_name": "指尖问道",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 01:07:24",
+    "change_number": 29732252,
+    "depot": {
+        "baselanguages": "schinese,tchinese",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "3472850",
+        "3472851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4326115703504862113",
+                    "size": "548465835",
+                    "download": "229342960"
+                }
+            },
+            "decryptionkey": "72188682cb021cae1728d33a2615ffc905c5e2a3c354e39363ecbefa85b105f4"
+        },
+        "3472852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6088269932451057869",
+                    "size": "566340048",
+                    "download": "182827696"
+                }
+            }
+        },
+        "3472853": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18853493",
+                "timeupdated": "1749807562"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "b2811e2e86d8c7e2e3bb749a41649847a5f2ea41453fcfa8f8f68f6aea769b2a"
+    }
+}
