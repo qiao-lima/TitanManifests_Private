@@ -1,0 +1,47 @@
+{
+    "appid": "1973610",
+    "type": "Game",
+    "name": "建安外史 The Tales of Jian An",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 20:58:30",
+    "depot": {
+        "baselanguages": "schinese,tchinese",
+        "hasdepotsindlc": "0",
+        "1973611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3222082552105119593",
+                    "size": "663544030",
+                    "download": "572114960"
+                }
+            },
+            "decryptionkey": "2ef6377a8f99b3a885967bf81f8465589f2921c79020a39447aabfbff43f042a"
+        },
+        "1973613": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8952299824396628190",
+                    "size": "996117910",
+                    "download": "687814768"
+                }
+            },
+            "decryptionkey": "79722c2970515e31dbeba5d0d8a86e8af40c6c4320fe6f0f503880fad97835d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14371694",
+                "timeupdated": "1715755208"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 13339604863168335643
+}
