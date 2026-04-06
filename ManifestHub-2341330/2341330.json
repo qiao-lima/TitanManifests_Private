@@ -1,0 +1,54 @@
+{
+    "appid": 2341330,
+    "name": "Lost Alone Ultimate",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:14:03",
+    "change_number": 29172449,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish",
+        "2341331": {
+            "manifests": {
+                "public": {
+                    "gid": "5098219663570245601",
+                    "size": "14437406677",
+                    "download": "5154326832"
+                },
+                "previous_version": {
+                    "gid": "361296804978429749",
+                    "size": "14323824293",
+                    "download": "5093486448"
+                }
+            },
+            "decryptionkey": "7241e82b6812d2e59c662f51d93cbb67799e5f67d403c7372f2140381a32c804"
+        },
+        "2571440": {
+            "dlcappid": "2571440",
+            "manifests": {
+                "public": {
+                    "gid": "1371487268562020236",
+                    "size": "14437406677",
+                    "download": "5167317408"
+                },
+                "previous_version": {
+                    "gid": "2352042253501957662",
+                    "size": "14323824293",
+                    "download": "5108581952"
+                }
+            },
+            "decryptionkey": "e632370924e6219f03f637c8bb6e9422e3c146bef5b062c3f235f8168a67b5cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14015772",
+                "timeupdated": "1712791151"
+            },
+            "previous_version": {
+                "buildid": "12901788",
+                "description": "Previous Version",
+                "timeupdated": "1712791173"
+            }
+        }
+    }
+}
