@@ -1,0 +1,27 @@
+{
+    "appid": 2587770,
+    "name": "The Stalked",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 19:44:48",
+    "change_number": 30172458,
+    "depot": {
+        "2587771": {
+            "manifests": {
+                "public": {
+                    "gid": "5697319644816319685",
+                    "size": "6247650606",
+                    "download": "2353938016"
+                }
+            },
+            "decryptionkey": "4b22bf6f3a26016e12ad539ab564080efb47c8b9f98d27af7cf6df6af389544e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13941952",
+                "timeupdated": "1712182377"
+            }
+        }
+    }
+}
