@@ -1,0 +1,27 @@
+{
+    "appid": 2237940,
+    "name": "IN THE BUILDING: CATS 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 08:21:47",
+    "change_number": 29295400,
+    "depot": {
+        "2237941": {
+            "manifests": {
+                "public": {
+                    "gid": "7683395711932251768",
+                    "size": "138604482",
+                    "download": "50978736"
+                }
+            },
+            "decryptionkey": "18ce528d50d3aee886878d04cee341fbc1156c24839c1fdc4258691798a88bd8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10377069",
+                "timeupdated": "1674383956"
+            }
+        }
+    }
+}
