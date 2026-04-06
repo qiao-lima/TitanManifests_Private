@@ -1,0 +1,42 @@
+{
+    "appid": 2072470,
+    "name": "Yokai Art : Adult Content Patch",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 14:55:56",
+    "change_number": 29843712,
+    "depot": {
+        "2072470": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3870107595646724767",
+                    "size": "3823844580",
+                    "download": "1118036656"
+                },
+                "buildx32": {
+                    "gid": "6253962766310342562",
+                    "size": "3380014353",
+                    "download": "1296698480"
+                }
+            },
+            "dlcappid": "2072470",
+            "decryptionkey": "23b865f9503a0a67865b872de0f2d1d86737a85c38cc551be031e076b70fad17"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18677133",
+                "timeupdated": "1748624654"
+            },
+            "buildx32": {
+                "buildid": "9890052",
+                "description": "Public Build x32 DLC",
+                "timeupdated": "1667890479"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
