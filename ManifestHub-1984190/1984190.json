@@ -1,0 +1,28 @@
+{
+    "appid": 1984190,
+    "name": "Genopanic",
+    "type": "Game",
+    "schinese_name": "基因恐慌",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 03:51:26",
+    "change_number": 30142446,
+    "depot": {
+        "1984191": {
+            "manifests": {
+                "public": {
+                    "gid": "2381474598827962497",
+                    "size": "1061864752",
+                    "download": "205472720"
+                }
+            },
+            "decryptionkey": "6b77b69487ce6d4785fefce64c74ca085bd3d24646ab2249c9e9a4319f20e4da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15806162",
+                "timeupdated": "1749034727"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
