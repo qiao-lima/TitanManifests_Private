@@ -1,0 +1,41 @@
+{
+    "appid": 328060,
+    "name": "Tales Runner",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 04:36:28",
+    "change_number": 29245559,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "328061": {
+            "manifests": {
+                "public": {
+                    "gid": "4580295990821528144",
+                    "size": "3883535622",
+                    "download": "3721962720"
+                }
+            },
+            "decryptionkey": "e4dd0730dd46734a1b2d1b4fcf29f1f6ec6037088245d7d89121f3fff136c6a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1027828",
+                "timeupdated": "1458169592"
+            }
+        }
+    }
+}
