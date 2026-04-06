@@ -1,0 +1,28 @@
+{
+    "appid": "463040",
+    "type": "Game",
+    "name": "Experience",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26087506",
+    "update_time": "2024-11-07 18:34:51",
+    "depot": {
+        "463041": {
+            "manifests": {
+                "public": {
+                    "gid": "5029264874241453751",
+                    "size": "61814906",
+                    "download": "45790512"
+                }
+            },
+            "decryptionkey": "ad6989848ab39b6d5b404cf3b1e6fffee524b7823e4d8f00e5c23704915a3ac8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1116030",
+                "timeupdated": "1462709404"
+            }
+        }
+    },
+    "access_token": 14409406530619587260
+}
