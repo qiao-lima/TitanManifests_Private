@@ -1,0 +1,46 @@
+{
+    "appid": "3594870",
+    "type": "DLC",
+    "name": "Katana Dragon Supporter Pack 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28488926",
+    "update_time": "2025-04-15 22:26:00",
+    "depot": {
+        "3594870": {
+            "dlcappid": "3594870",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4650094814027475442",
+                    "size": "99163008",
+                    "download": "79761424"
+                }
+            },
+            "decryptionkey": "46d96c21fdfbed8dfbc786e78552410f5a0c63a8339c65b2b5abc6e93ca00319"
+        },
+        "3594871": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1576227075052237540",
+                    "size": "99163008",
+                    "download": "79759504"
+                }
+            },
+            "dlcappid": "3594870"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18114838",
+                "timeupdated": "1744727155"
+            }
+        }
+    }
+}
