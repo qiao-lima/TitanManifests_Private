@@ -1,0 +1,28 @@
+{
+    "appid": 552980,
+    "name": "Escape The Island",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 09:14:06",
+    "change_number": 29818546,
+    "depot": {
+        "552981": {
+            "manifests": {
+                "public": {
+                    "gid": "7809169233982008869",
+                    "size": "219446049",
+                    "download": "67091312"
+                }
+            },
+            "decryptionkey": "5116ee24eee2e075b1255a0c0b01794decc364633e1eca497bed8da6a9546f3a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1466058",
+                "timeupdated": "1479433250"
+            }
+        }
+    },
+    "access_token": 5936447561203596744
+}
