@@ -1,0 +1,49 @@
+{
+    "appid": 2255310,
+    "name": "Px2d",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:42:52",
+    "change_number": 29762569,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "2255311": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3730993588516590489",
+                    "size": "53515785",
+                    "download": "9091552"
+                }
+            },
+            "decryptionkey": "e1641eb0402fa3f6e6f7b8bbb017e0634c911b4fd44fd4127aa80812b62094e0"
+        },
+        "2335710": {
+            "dlcappid": "2335710",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "351753085860789819",
+                    "size": "33547421",
+                    "download": "7476976"
+                }
+            },
+            "decryptionkey": "99f88665277af5b0cf8843317935454f72e76425d15162a7384f1b34b756cc39"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18087981",
+                "timeupdated": "1744524242"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
