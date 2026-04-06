@@ -1,0 +1,44 @@
+{
+    "appid": 1266430,
+    "name": "Lost In Fantaland",
+    "type": "Game",
+    "schinese_name": "迷失幻途",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 02:59:33",
+    "change_number": 29695721,
+    "depot": {
+        "baselanguages": "",
+        "1266431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5510478416798493768",
+                    "size": "599573922",
+                    "download": "181450224"
+                }
+            },
+            "decryptionkey": "e3b9f795f3c00808cc5bdda941384e8ff28172192504e4da48676a833b8f377c"
+        },
+        "1266432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1966353211410848199",
+                    "size": "632319416",
+                    "download": "191222528"
+                }
+            },
+            "decryptionkey": "4c0ee0c50f566e689fcdb3fd0fae19645e29bbc233a1cab7a6950239031898a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18959385",
+                "timeupdated": "1750643969"
+            }
+        }
+    }
+}
