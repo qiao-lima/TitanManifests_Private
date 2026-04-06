@@ -1,0 +1,65 @@
+{
+    "appid": 387060,
+    "name": "Earth Overclocked",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:21:38",
+    "change_number": 29533432,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "387061": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "647321350505427141",
+                    "size": "44226016",
+                    "download": "32686400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "387062": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7628566071964415860",
+                    "size": "47109107",
+                    "download": "34564864"
+                }
+            },
+            "decryptionkey": "d6ea6f81e82fcf61c3ca52e015fe39608f5063df22dd8015bc33a994ed3875d3"
+        },
+        "387063": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5800188806369214389",
+                    "size": "44821167",
+                    "download": "33556992"
+                }
+            },
+            "decryptionkey": "304b80ecfb518c5e2d0c10f0ff84c4b13380a015412abc523a6f55f0e56e573f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1198492",
+                "timeupdated": "1466828371"
+            }
+        }
+    }
+}
