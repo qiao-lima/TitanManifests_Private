@@ -1,0 +1,43 @@
+{
+    "appid": 3089070,
+    "name": "PGA TOUR 2K25 First Look",
+    "type": "Demo",
+    "schinese_name": "PGA TOUR 2K25 抢先体验",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:41:21",
+    "change_number": 30207411,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3089071": {
+            "manifests": {
+                "public": {
+                    "gid": "5181842561397629620",
+                    "size": "33728995456",
+                    "download": "32202014448"
+                }
+            },
+            "decryptionkey": "cfd30bba743df834ad53f490daeb26ed12ce4c41c3e62bc7f9850bddfbb67315"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18910008",
+                "timeupdated": "1751475753"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
