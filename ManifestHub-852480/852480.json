@@ -1,0 +1,58 @@
+{
+    "appid": 852480,
+    "name": "Snow Daze",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 03:22:57",
+    "change_number": 30059890,
+    "depot": {
+        "baselanguages": "english",
+        "852481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7152261318275507642",
+                    "size": "1675111839",
+                    "download": "1392416192"
+                }
+            },
+            "decryptionkey": "79d3e953de33b4b7fbbc1708f0ad499f88237fb12cbf51605c4c762300910054"
+        },
+        "852482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4703635860269085323",
+                    "size": "1596919750",
+                    "download": "1363621264"
+                }
+            },
+            "decryptionkey": "39e562014785125fa1aaf5772a50f440f9f0b7ac73ad3ddfa06b72875af89d48"
+        },
+        "852483": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "194755125950396208",
+                    "size": "1597335065",
+                    "download": "1363975200"
+                }
+            },
+            "decryptionkey": "8c14d883fce75154753682162de778a7d9bf97c150aa20277391000fa503896f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19214701",
+                "timeupdated": "1752546173"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
