@@ -1,0 +1,41 @@
+{
+    "appid": 3341040,
+    "name": "Band of Crusaders Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 02:49:48",
+    "change_number": 29555909,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3341041": {
+            "manifests": {
+                "public": {
+                    "gid": "107624899841097048",
+                    "size": "6397284412",
+                    "download": "4505490352"
+                }
+            },
+            "decryptionkey": "f23a99e7b5967d4b693b2032a43bde96b498b5d0010e6bf47c1d1d7d90d92f76"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18860141",
+                "timeupdated": "1749840585"
+            }
+        }
+    }
+}
