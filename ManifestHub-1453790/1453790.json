@@ -1,0 +1,43 @@
+{
+    "appid": 1453790,
+    "name": "The Serpent Rogue",
+    "type": "Game",
+    "schinese_name": "蛇之守望者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 20:12:05",
+    "change_number": 29920930,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1453791": {
+            "manifests": {
+                "public": {
+                    "gid": "5388527771751735134",
+                    "size": "1357984008",
+                    "download": "529695888"
+                }
+            },
+            "decryptionkey": "e50f8591f16215ab7dbfc6506a8aec9d8efe46f87446145ea631f73ea2d7cfb6"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "8649194",
+                "timeupdated": "1651590265"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
