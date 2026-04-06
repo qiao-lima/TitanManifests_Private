@@ -1,0 +1,31 @@
+{
+    "appid": 1570330,
+    "name": "West Hunt",
+    "type": "Game",
+    "schinese_name": "西部对决 (West Hunt)",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 18:14:57",
+    "change_number": 29459785,
+    "depot": {
+        "1570331": {
+            "manifests": {
+                "public": {
+                    "gid": "8994617715454435350",
+                    "size": "2711255167",
+                    "download": "826067312"
+                }
+            },
+            "decryptionkey": "5ac859676f89d9398ad7cdf2bc000881eb620df56012ebc9ace954e66a34dbc2"
+        },
+        "1690310": {
+            "dlcappid": "1690310"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18792743",
+                "timeupdated": "1749464091"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
