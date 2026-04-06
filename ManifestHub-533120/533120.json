@@ -1,0 +1,32 @@
+{
+    "appid": "533120",
+    "type": "Game",
+    "name": "VCB: Why City",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28974487",
+    "update_time": "2025-05-14 14:17:48",
+    "depot": {
+        "baselanguages": "english,russian",
+        "533121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2915299371098280608",
+                    "size": "822033425",
+                    "download": "369673104"
+                }
+            },
+            "decryptionkey": "9eb410cb3c15295aab6941e641f75202eed05e7022737f3ebfa8492fe3beb90d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2423679",
+                "timeupdated": "1543253927"
+            }
+        }
+    },
+    "access_token": 1696824318687042128
+}
