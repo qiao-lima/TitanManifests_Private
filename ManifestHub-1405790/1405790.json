@@ -1,0 +1,48 @@
+{
+    "appid": 1405790,
+    "name": "John Wick Hex",
+    "type": "Game",
+    "schinese_name": "疾速追杀Hex",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 18:29:56",
+    "change_number": 30116122,
+    "depot": {
+        "1405791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1065510140519718589",
+                    "size": "1825412367",
+                    "download": "377578688"
+                }
+            },
+            "decryptionkey": "a5c7cc34782eea2d3443c697e6dc81cc12a9b7061bd973f770cd10c2bb095630"
+        },
+        "1405792": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "630301429303617173",
+                    "size": "1853646231",
+                    "download": "393518352"
+                }
+            },
+            "decryptionkey": "dccc50a3e4ffb1ef5f900bbe2bea434192fd4ebd1f5a6eaa1c39e4f62027641a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5595325",
+                "timeupdated": "1601038550"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
