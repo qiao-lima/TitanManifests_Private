@@ -1,0 +1,57 @@
+{
+    "appid": "597110",
+    "type": "Game",
+    "name": "Fruit Sudoku🍉",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "19617320",
+    "update_time": "2024-08-14 19:23:02",
+    "depot": {
+        "597111": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3215532025594866689",
+                    "size": "143193027",
+                    "download": "86883840"
+                }
+            },
+            "decryptionkey": "62d55d515a5a7ecc07e5f65870c37375b834bb5acee9e77958516395ca460346"
+        },
+        "597112": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8999410900756194659",
+                    "size": "147431563",
+                    "download": "89042624"
+                }
+            },
+            "decryptionkey": "808a2c89af10b194384a582b60215b13ee60655b7a01ad008a4bcffbce96dc73"
+        },
+        "597113": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7824002911907646814",
+                    "size": "179385768",
+                    "download": "99356080"
+                }
+            },
+            "decryptionkey": "62977f0e5a0a959971b2925bb419e707c907daf67850e7ccab4b5cf9d0b124c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3735733",
+                "timeupdated": "1555186840"
+            }
+        }
+    },
+    "access_token": 12568447097587461830
+}
