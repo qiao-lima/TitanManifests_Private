@@ -1,0 +1,48 @@
+{
+    "appid": 710230,
+    "name": "Urban Strife",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 00:44:04",
+    "change_number": 29939572,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "710231": {},
+        "710232": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4064752943429871906",
+                    "size": "7183972191",
+                    "download": "6811095344"
+                }
+            },
+            "decryptionkey": "29cc40f22a6ee8ac5b670831c28e2b65b6a26460fcd3b53a7adafbd50f15adea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19065888",
+                "timeupdated": "1751377545"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
