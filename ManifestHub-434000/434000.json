@@ -1,0 +1,77 @@
+{
+    "appid": 434000,
+    "name": "Paws",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-20 20:17:37",
+    "change_number": 29081504,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "434001": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7142065419282579311",
+                    "size": "1763794711",
+                    "download": "808817168"
+                }
+            },
+            "decryptionkey": "b243af5410d9240c9cd3cdcaaf814bbe4e2d416bd23e1aa904e19c9165d5731c"
+        },
+        "434002": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6567831865870279751",
+                    "size": "1750528858",
+                    "download": "810832224"
+                }
+            },
+            "decryptionkey": "ed5c6ab13410d638ab4fd9cf1438cf6ae34b7347891b209c5ee5ef0deacd763f"
+        },
+        "434003": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1029873279493164785",
+                    "size": "1785090384",
+                    "download": "816271712"
+                }
+            },
+            "decryptionkey": "daea893fcd23e01793b3552e8a4b61f046404664e3f57e7b7b39b9f70e77bc6c"
+        },
+        "434004": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7906934443488025089",
+                    "size": "1811469858",
+                    "download": "811410672"
+                }
+            },
+            "decryptionkey": "726eeb485fbd2a851cd4615b053f35841dac2d8424e79c8ac4cd11e982bdbe0d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4750195",
+                "timeupdated": "1583496712"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
