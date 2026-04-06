@@ -1,0 +1,28 @@
+{
+    "appid": "2083720",
+    "type": "Game",
+    "name": "Box Runner!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "19436080",
+    "update_time": "2024-08-14 21:01:28",
+    "depot": {
+        "2083721": {
+            "manifests": {
+                "public": {
+                    "gid": "4323084614475274914",
+                    "size": "72810708",
+                    "download": "18881024"
+                }
+            },
+            "decryptionkey": "2acbd340457ecaeee6c0d9eb5a3b82ceb5572d31d89d72751228d18a4c82a04a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9091571",
+                "timeupdated": "1657374927"
+            }
+        }
+    },
+    "access_token": 11285774906755552817
+}
