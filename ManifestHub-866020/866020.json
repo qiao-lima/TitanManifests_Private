@@ -1,0 +1,60 @@
+{
+    "appid": 866020,
+    "name": "Growtopia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 08:58:34",
+    "change_number": 30105585,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "866021": {
+            "manifests": {
+                "public": {
+                    "gid": "5081248216805331991",
+                    "size": "179180582",
+                    "download": "162239184"
+                }
+            },
+            "decryptionkey": "1b04e7cf87349d1221e571253892912d066583ea19fb014434382f2a6c70a99b"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19093715",
+                "timeupdated": "1751971519"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
