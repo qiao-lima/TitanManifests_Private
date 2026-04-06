@@ -1,0 +1,42 @@
+{
+    "appid": 1844030,
+    "name": "Cricket 22 - Academy Creation Tools",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 15:19:49",
+    "change_number": 29543895,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1844031": {
+            "manifests": {
+                "public": {
+                    "gid": "3384318257412218170",
+                    "size": "46372090103",
+                    "download": "41350871872"
+                }
+            },
+            "decryptionkey": "e85e53e1485be9ef5dbf9f974ce780edce4c93d3ce6c076b4a05621aafb4b2d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9656871",
+                "timeupdated": "1665380147"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
