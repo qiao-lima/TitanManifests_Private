@@ -1,0 +1,32 @@
+{
+    "appid": 703510,
+    "name": "Wooden Battles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 20:42:03",
+    "change_number": 30193080,
+    "depot": {
+        "workshopdepot": "703510",
+        "703511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7261176482594484760",
+                    "size": "357064804",
+                    "download": "106645632"
+                }
+            },
+            "decryptionkey": "6cdcd61dcfca713ff1ad3de61d84ec5e55492b8cd35f463a88f4a1d65479d563"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3820323",
+                "timeupdated": "1557798608"
+            }
+        },
+        "workshopdepotdecryptionkey": "cc582ba0f3e7d931904400b34073f1ef21502fae6939b2c05e55a14db7fa022e"
+    }
+}
