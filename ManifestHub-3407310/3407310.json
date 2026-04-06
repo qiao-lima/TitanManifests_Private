@@ -1,0 +1,28 @@
+{
+    "appid": 3407310,
+    "name": "Consumables",
+    "type": "Game",
+    "schinese_name": "燃料",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 00:14:23",
+    "change_number": 29922252,
+    "depot": {
+        "3407311": {
+            "manifests": {
+                "public": {
+                    "gid": "4457400801154108048",
+                    "size": "675314183",
+                    "download": "429931280"
+                }
+            },
+            "decryptionkey": "6ef1ad943ac077def22e5bb2288116f7076edca908413462b9cce6063006fa97"
+        },
+        "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,thai,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18976828",
+                "timeupdated": "1750753178"
+            }
+        }
+    }
+}
