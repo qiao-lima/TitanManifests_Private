@@ -1,0 +1,60 @@
+{
+    "appid": 1494560,
+    "name": "Rogue Voltage",
+    "type": "Game",
+    "schinese_name": "末日电涌 Rogue Voltage",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:54:00",
+    "change_number": 29769887,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1494561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4494064250958584011",
+                    "size": "949966614",
+                    "download": "234300512"
+                },
+                "icebiome": {
+                    "gid": "8010098460878046736",
+                    "size": "332488862",
+                    "download": "224273376"
+                }
+            },
+            "decryptionkey": "151ae521976c9d9f778cdb753549bb74391175b3ca916db16a91e68f21616495"
+        },
+        "1494562": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7216056474779108635",
+                    "size": "992101788",
+                    "download": "235624912"
+                },
+                "icebiome": {
+                    "gid": "7109977405863113130",
+                    "size": "400798528",
+                    "download": "225585952"
+                }
+            },
+            "decryptionkey": "22cf4392ad655b2f0ff3ca663d7e9e4322257cded0539ef88385605c06c202f1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19014681",
+                "timeupdated": "1750957630"
+            },
+            "icebiome": {
+                "buildid": "18209801",
+                "description": "Ice Biome",
+                "timeupdated": "1745421656"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
