@@ -1,0 +1,38 @@
+{
+    "appid": 3011030,
+    "name": "NO-SKIN",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 21:18:50",
+    "change_number": 30138699,
+    "depot": {
+        "3011031": {
+            "manifests": {
+                "public": {
+                    "gid": "5585832786809469486",
+                    "size": "77344388",
+                    "download": "63833792"
+                },
+                "old_1.0.3": {
+                    "gid": "3149832109796206992",
+                    "size": "77185060",
+                    "download": "63529072"
+                }
+            },
+            "decryptionkey": "2cdd4aa4bbc72f79697ab80f6979ed6927919eac0cad4748b2cc09d2d8d77724"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19226975",
+                "timeupdated": "1752567413"
+            },
+            "old_1.0.3": {
+                "buildid": "17989695",
+                "description": "Version 1.0.3",
+                "timeupdated": "1752478769"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
