@@ -1,0 +1,29 @@
+{
+    "appid": 1156060,
+    "name": "Railroads & Catacombs",
+    "type": "Game",
+    "schinese_name": "铁轨与墓穴 Railroads & Catacombs",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 18:57:47",
+    "change_number": 29994448,
+    "depot": {
+        "baselanguages": "english",
+        "1156061": {
+            "manifests": {
+                "public": {
+                    "gid": "8191263650493318287",
+                    "size": "1182732238",
+                    "download": "373107632"
+                }
+            },
+            "decryptionkey": "f64bae60cadba4d5f6e70caa3f2ef778172f36908669d3cebf4e10fdfa9e5332"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18784565",
+                "timeupdated": "1749389560"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
