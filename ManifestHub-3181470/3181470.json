@@ -1,0 +1,30 @@
+{
+    "appid": 3181470,
+    "name": "Cat & Farm Pals",
+    "type": "Game",
+    "schinese_name": "合成大猫咪",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 13:00:31",
+    "change_number": 29897147,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "hasdepotsindlc": "1",
+        "3181471": {
+            "manifests": {
+                "public": {
+                    "gid": "7914415348831576735",
+                    "size": "619087290",
+                    "download": "247842736"
+                }
+            },
+            "decryptionkey": "5066773f16781ea886f5c11a6b839fd41ed71983bb0a7efb147712f5a44e847b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18702371",
+                "timeupdated": "1748957521"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
