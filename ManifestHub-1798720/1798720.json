@@ -1,0 +1,57 @@
+{
+    "appid": 1798720,
+    "name": "Nora: The Wannabe Alchemist",
+    "type": "Game",
+    "schinese_name": "诺拉的魔药日记",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 19:30:07",
+    "change_number": 30095589,
+    "depot": {
+        "1798721": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "287452541944520612",
+                    "size": "1618279230",
+                    "download": "345741520"
+                }
+            },
+            "decryptionkey": "881e25e810b2309a8978cece8325118f4951d8423309a9217d226c3bb5781d45"
+        },
+        "1798722": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1879224751256165131",
+                    "size": "1502688320",
+                    "download": "342244736"
+                }
+            }
+        },
+        "1798723": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5061985247328365182",
+                    "size": "1401325316",
+                    "download": "331141184"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18581602",
+                "timeupdated": "1748001796"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
