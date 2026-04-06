@@ -1,0 +1,29 @@
+{
+    "appid": "3403320",
+    "type": "Tool",
+    "name": "Builder Simulator - Workshop Exporter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26672985",
+    "update_time": "2024-12-17 14:29:12",
+    "depot": {
+        "3403321": {
+            "manifests": {
+                "public": {
+                    "gid": "4788423715978375691",
+                    "size": "975965197",
+                    "download": "454795216"
+                }
+            },
+            "decryptionkey": "fefb4d097f88be12a092942c84a33663bc64cd2845c80f6007f68fba4fee9c8c"
+        },
+        "workshopdepot": "3403320",
+        "branches": {
+            "public": {
+                "buildid": "16763775",
+                "timeupdated": "1734381938"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
