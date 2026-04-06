@@ -1,0 +1,41 @@
+{
+    "appid": 3264050,
+    "name": "IN THE FACADE WE TRUST™",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 18:38:10",
+    "change_number": 30136651,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3264051": {
+            "manifests": {
+                "public": {
+                    "gid": "8987681869314952507",
+                    "size": "2029687645",
+                    "download": "1700191584"
+                }
+            },
+            "decryptionkey": "b7549833b764b6556847f0e311bac067ba9290b94f46232662ba432e9d9dc119"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18920725",
+                "timeupdated": "1750300332"
+            }
+        }
+    }
+}
