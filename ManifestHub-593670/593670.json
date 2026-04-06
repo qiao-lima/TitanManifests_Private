@@ -1,0 +1,30 @@
+{
+    "appid": 593670,
+    "name": "Sponchies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-07 20:12:58",
+    "change_number": 29936416,
+    "depot": {
+        "593672": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "500035700197733279",
+                    "size": "279916482",
+                    "download": "275764352"
+                }
+            },
+            "decryptionkey": "1fffffe0057156a179148813cebe7d6fdbb16f7f4952623fed6816f86c0700dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2816928",
+                "timeupdated": "1527637429"
+            }
+        }
+    }
+}
