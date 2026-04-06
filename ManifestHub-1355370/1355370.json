@@ -1,0 +1,30 @@
+{
+    "appid": 1355370,
+    "name": "Stories of Submission: Learn Your Place",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 23:23:21",
+    "change_number": 29466052,
+    "depot": {
+        "1355371": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1598162017772615780",
+                    "size": "113400262",
+                    "download": "52522576"
+                }
+            },
+            "decryptionkey": "318147c75b5b8853c9d65b4129c0b3b224ad2d20fd9c9f5fa831957937be7969"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5234825",
+                "timeupdated": "1593547173"
+            }
+        }
+    }
+}
