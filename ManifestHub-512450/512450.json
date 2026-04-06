@@ -1,0 +1,65 @@
+{
+    "appid": "512450",
+    "type": "Game",
+    "name": "BitRay2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:13:39",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "512451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4380505845287468159",
+                    "size": "89922890",
+                    "download": "18402896"
+                }
+            },
+            "decryptionkey": "a85dfd81830f79bf040fb87faa415bf81eef59e7c020896fa8ee097b62570b21"
+        },
+        "512452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9152497195508455907",
+                    "size": "100658207",
+                    "download": "20999488"
+                }
+            },
+            "decryptionkey": "cce23b1b96f435be7f35ecbc1cd15138ca06910112b718500f4b1a14ba4a9cc8"
+        },
+        "512453": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5403861362876828790",
+                    "size": "96913175",
+                    "download": "20220992"
+                }
+            },
+            "decryptionkey": "cb4ab0396b870fcda3323e02b3b2a22921e7ce94e7ae53bc7983fbd269f3537f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1283797",
+                "timeupdated": "1471418609"
+            }
+        }
+    },
+    "access_token": 11272949580477767536
+}
