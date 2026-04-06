@@ -1,0 +1,73 @@
+{
+    "appid": 1706800,
+    "name": "The Art Of Flight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:18:09",
+    "change_number": 29678035,
+    "depot": {
+        "1706802": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7706465652539117375",
+                    "size": "554315475",
+                    "download": "534098832"
+                },
+                "testing": {
+                    "gid": "4400432951708862655",
+                    "size": "554315516",
+                    "download": "534086944"
+                },
+                "convention": {
+                    "gid": "3397034628497845008",
+                    "size": "554287868",
+                    "download": "534073600"
+                }
+            },
+            "decryptionkey": "bafef2215f0a70ac62689a4607b3fc9e6fcdb8c9b40e9192323796980f7ed573"
+        },
+        "1706803": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1199226447185452258",
+                    "size": "560469715",
+                    "download": "535717840"
+                },
+                "testing": {
+                    "gid": "6869124390337149065",
+                    "size": "560469756",
+                    "download": "535718560"
+                },
+                "convention": {
+                    "gid": "4522248160769101116",
+                    "size": "560469756",
+                    "download": "535720304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18883382",
+                "timeupdated": "1750081488"
+            },
+            "testing": {
+                "buildid": "18569326",
+                "description": "testing",
+                "timeupdated": "1747933002"
+            },
+            "convention": {
+                "buildid": "18569558",
+                "description": "convention build",
+                "timeupdated": "1747933878"
+            }
+        }
+    }
+}
