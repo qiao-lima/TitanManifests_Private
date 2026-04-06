@@ -1,0 +1,46 @@
+{
+    "appid": 1615930,
+    "name": "Absented Age: Squarebound International",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 10:11:33",
+    "change_number": 29917203,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1615932": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1201401848152573885",
+                    "size": "392109320",
+                    "download": "240223536"
+                }
+            },
+            "decryptionkey": "8d00b03c4698e1c07b367d666b4d9be23deac35849356b51a85b443fd425e125"
+        },
+        "1615931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2324983546194996336",
+                    "size": "418156814",
+                    "download": "242815744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18732776",
+                "timeupdated": "1749033922"
+            }
+        }
+    }
+}
