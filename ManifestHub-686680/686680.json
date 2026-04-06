@@ -1,0 +1,59 @@
+{
+    "appid": 686680,
+    "name": "Computer Tycoon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 19:12:43",
+    "change_number": 29954739,
+    "depot": {
+        "686682": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "136711232676161801",
+                    "size": "2892614369",
+                    "download": "303186928"
+                },
+                "opentestbranch": {
+                    "gid": "865249672049866492",
+                    "size": "683624552",
+                    "download": "495297488"
+                }
+            },
+            "decryptionkey": "1c1ef0386ad207d0a43d583320ad97b37ef42b2df55521cd489ef0dc45abe3a5"
+        },
+        "686683": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1943671784260903821",
+                    "size": "2909922822",
+                    "download": "307403776"
+                },
+                "opentestbranch": {
+                    "gid": "6887141793410729259",
+                    "size": "718931639",
+                    "download": "494559584"
+                }
+            },
+            "decryptionkey": "ed8a1f580bd9710ec365ad9ff92980f51a2289ac89c9958c352d9bcdd060b1dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17271701",
+                "timeupdated": "1738873229"
+            },
+            "opentestbranch": {
+                "buildid": "19149851",
+                "description": "This is the Open Beta Branch. The Community Tests here the next version - bugs are expected!",
+                "timeupdated": "1751998165"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
