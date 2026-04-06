@@ -1,0 +1,27 @@
+{
+    "appid": 1901410,
+    "name": "Alternative Punishment",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:03:44",
+    "change_number": 30216819,
+    "depot": {
+        "1901411": {
+            "manifests": {
+                "public": {
+                    "gid": "4192106511371680599",
+                    "size": "612483649",
+                    "download": "489530048"
+                }
+            },
+            "decryptionkey": "07bcc36468819bdc5f291f155efa4304d0d7a0e5a6af317114245c9cf1675740"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8292683",
+                "timeupdated": "1646130337"
+            }
+        }
+    }
+}
