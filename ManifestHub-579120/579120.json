@@ -1,0 +1,32 @@
+{
+    "appid": 579120,
+    "name": "Unlucky Seven",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 03:03:20",
+    "change_number": 29402813,
+    "depot": {
+        "579121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3784702623221125330",
+                    "size": "711676279",
+                    "download": "464872592"
+                }
+            },
+            "decryptionkey": "acd0c6935edafe0f99e906b56d72c8e903400efdbeb28de824869eb8e86862fa"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,turkish",
+        "branches": {
+            "public": {
+                "buildid": "4228584",
+                "timeupdated": "1570004262"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
