@@ -1,0 +1,27 @@
+{
+    "appid": 739000,
+    "name": "Grobda Remix",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 20:04:12",
+    "change_number": 29573828,
+    "depot": {
+        "739001": {
+            "manifests": {
+                "public": {
+                    "gid": "899087246557246372",
+                    "size": "3300331404",
+                    "download": "1152616448"
+                }
+            },
+            "decryptionkey": "d3734f3f0bbc29b88d0a48d8121b673e2256e06fabee185c60be44cf3f71d925"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2299002",
+                "timeupdated": "1511167401"
+            }
+        }
+    }
+}
