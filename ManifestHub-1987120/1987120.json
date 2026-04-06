@@ -1,0 +1,34 @@
+{
+    "appid": 1987120,
+    "name": "Arclight Beat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 12:01:45",
+    "change_number": 29986506,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1987121": {
+            "manifests": {
+                "public": {
+                    "gid": "7811191332736616780",
+                    "size": "340834848",
+                    "download": "106936320"
+                }
+            },
+            "decryptionkey": "2827cc71cb93ed1a666834bd929c5b279d440c609b949ce42d88b5a62a96d089"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8677582",
+                "timeupdated": "1651679316"
+            }
+        }
+    }
+}
