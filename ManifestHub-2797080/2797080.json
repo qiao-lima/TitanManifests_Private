@@ -1,0 +1,30 @@
+{
+    "appid": 2797080,
+    "name": "佣兵小队自走棋",
+    "type": "Game",
+    "schinese_name": "佣兵小队自走棋",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 20:52:21",
+    "change_number": 30157356,
+    "depot": {
+        "2797081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8058481856121905016",
+                    "size": "2091084663",
+                    "download": "813496544"
+                }
+            },
+            "decryptionkey": "014c8226b8d68810f0d3ec6d98caeae7f9bad9f27b910626d4ccb4aa5432bcb6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18129930",
+                "timeupdated": "1744812736"
+            }
+        }
+    }
+}
