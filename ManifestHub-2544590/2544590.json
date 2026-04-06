@@ -1,0 +1,59 @@
+{
+    "appid": 2544590,
+    "name": "리프 인 부트스트랩 - LEAP IN BOOTSTRAP",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 04:13:10",
+    "change_number": 30198515,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2544591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5376408496168611406",
+                    "size": "2261259037",
+                    "download": "662853328"
+                }
+            },
+            "decryptionkey": "a2a6282e724ebb6e35e21f6c300123192b0faec6d0d2118fdbe6239bceb47431"
+        },
+        "2559040": {
+            "dlcappid": "2559040",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7297356584188156713",
+                    "size": "983980433",
+                    "download": "158275104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2967740": {
+            "dlcappid": "2967740",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1911689534961671676",
+                    "size": "3961101611",
+                    "download": "687545216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19080697",
+                "timeupdated": "1751466665"
+            }
+        }
+    }
+}
