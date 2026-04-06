@@ -1,0 +1,27 @@
+{
+    "appid": 2827520,
+    "name": "Ant Keeping Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 01:57:17",
+    "change_number": 29870005,
+    "depot": {
+        "2827521": {
+            "manifests": {
+                "public": {
+                    "gid": "8614788340866144100",
+                    "size": "207466000",
+                    "download": "93794320"
+                }
+            },
+            "decryptionkey": "da03b07b1b769c2817297ba0355e1b0793d6dceb4e51827fed63f176c0b7580c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16929002",
+                "timeupdated": "1736260188"
+            }
+        }
+    }
+}
