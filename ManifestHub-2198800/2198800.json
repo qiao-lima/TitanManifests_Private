@@ -1,0 +1,59 @@
+{
+    "appid": 2198800,
+    "name": "CRUMB",
+    "type": "Game",
+    "schinese_name": "CRUMB 电路模拟器",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 01:08:45",
+    "change_number": 29796663,
+    "depot": {
+        "2198801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4704387317878886653",
+                    "size": "1055152835",
+                    "download": "61960480"
+                },
+                "debug": {
+                    "gid": "3895750213333065889",
+                    "size": "1055150839",
+                    "download": "61960160"
+                }
+            },
+            "decryptionkey": "8027d291564930617e13ba046158b40f5e55d7bf2ee2d3cef264335c39c2cfb9"
+        },
+        "2198802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8499370740590997062",
+                    "size": "1052987879",
+                    "download": "59623152"
+                },
+                "debug": {
+                    "gid": "8499370740590997062",
+                    "size": "1052987879",
+                    "download": "59623152"
+                }
+            },
+            "decryptionkey": "9365eb28f5321c24194f0d7aa241d4aae5933f1282f6648c88f83dd8629f3ec8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17183476",
+                "timeupdated": "1738235876"
+            },
+            "debug": {
+                "buildid": "16301507",
+                "description": "CRUMB Debugging",
+                "timeupdated": "1730814485"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
