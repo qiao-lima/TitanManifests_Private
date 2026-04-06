@@ -1,0 +1,41 @@
+{
+    "appid": 2267870,
+    "name": "Stewart The Fox",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-29 11:15:30",
+    "change_number": 29808985,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2267871": {
+            "manifests": {
+                "public": {
+                    "gid": "1050867751385653025",
+                    "size": "2237155877",
+                    "download": "2110335872"
+                }
+            },
+            "decryptionkey": "39c539183345083ef7b290f06a7578de9c8c4578f530c6159c7f351fcfb204c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19028602",
+                "timeupdated": "1751038981"
+            }
+        }
+    }
+}
