@@ -1,0 +1,49 @@
+{
+    "appid": 1606060,
+    "name": "ZeroSpace Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 02:34:22",
+    "change_number": 30197355,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1606061": {
+            "manifests": {
+                "public": {
+                    "gid": "3914847820612481240",
+                    "size": "39926949736",
+                    "download": "37879024272"
+                }
+            },
+            "decryptionkey": "1aac9f1e3a17524e371ba9bf35744f69061ffbdd4a903740d2164d533d94764f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19322442",
+                "timeupdated": "1753234451"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
