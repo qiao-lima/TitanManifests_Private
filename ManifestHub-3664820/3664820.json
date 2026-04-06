@@ -1,0 +1,46 @@
+{
+    "appid": 3664820,
+    "name": "Sandboxels",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 05:40:40",
+    "change_number": 30124479,
+    "depot": {
+        "3664821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3274944282685952398",
+                    "size": "326693980",
+                    "download": "116147200"
+                }
+            },
+            "decryptionkey": "a5f074a366a8dd4ab0bd26ffde13a7503f5081b8a683e089237f418194ee04c3"
+        },
+        "3664822": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7905213497067375236",
+                    "size": "302255909",
+                    "download": "104324144"
+                }
+            }
+        },
+        "workshopdepot": "3664820",
+        "branches": {
+            "public": {
+                "buildid": "19265279",
+                "timeupdated": "1752782929"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3301c7d92547758050fd318e6985e3b228e7ff0ad37306261f92eaa8389febb4"
+    }
+}
