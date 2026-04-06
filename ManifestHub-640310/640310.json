@@ -1,0 +1,57 @@
+{
+    "appid": 640310,
+    "name": "Drive By Hero",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:48:20",
+    "change_number": 29707836,
+    "depot": {
+        "640311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2091528588645019362",
+                    "size": "290448655",
+                    "download": "144913776"
+                }
+            },
+            "decryptionkey": "c620c42c3e01ab752fe43eb31dfca8717c8000a2c2eb9d05cdb3210ee0e25c00"
+        },
+        "640312": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4634456058451956350",
+                    "size": "307298079",
+                    "download": "150035760"
+                }
+            },
+            "decryptionkey": "53c267cd300d7844e344ea696596bdc3c5416df4bd91f96658e97631698fca57"
+        },
+        "640313": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6289616910720941504",
+                    "size": "304019694",
+                    "download": "148286384"
+                }
+            },
+            "decryptionkey": "1503959e313e0c422081028d004d95e8b174d8a91d92857905a67100cdbda976"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "1920369",
+                "timeupdated": "1498589901"
+            }
+        }
+    }
+}
