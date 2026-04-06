@@ -1,0 +1,94 @@
+{
+    "appid": 909660,
+    "name": "Vagrus - The Riven Realms",
+    "type": "Game",
+    "schinese_name": "《瓦格鲁斯 - 万壑之地》",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 18:43:22",
+    "change_number": 30211876,
+    "depot": {
+        "909661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2536129927942840934",
+                    "size": "4282871328",
+                    "download": "2931708416"
+                },
+                "public_beta": {
+                    "gid": "2536129927942840934",
+                    "size": "4282871328",
+                    "download": "2931708416"
+                }
+            },
+            "decryptionkey": "b78c9f863001a8a018cb92afa84b794a77c1c8bb300df1b381ae7a288f24700f"
+        },
+        "909662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2439059526119412447",
+                    "size": "4315034051",
+                    "download": "2942587088"
+                },
+                "public_beta": {
+                    "gid": "2439059526119412447",
+                    "size": "4315034051",
+                    "download": "2942587088"
+                }
+            }
+        },
+        "909663": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2482571876545463023",
+                    "size": "4243835865",
+                    "download": "2878724864"
+                },
+                "public_beta": {
+                    "gid": "2482571876545463023",
+                    "size": "4243835865",
+                    "download": "2878724864"
+                }
+            }
+        },
+        "1761710": {
+            "dlcappid": "1761710",
+            "manifests": {
+                "public": {
+                    "gid": "689301461509361762",
+                    "size": "191469618",
+                    "download": "191203552"
+                },
+                "public_beta": {
+                    "gid": "689301461509361762",
+                    "size": "191469618",
+                    "download": "191203552"
+                }
+            },
+            "decryptionkey": "afd666f882ea51fa1a5d59e334c5ae115a434ab24ee05886b17d76c3bdbb1176"
+        },
+        "1762030": {
+            "dlcappid": "1762030"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19317213",
+                "timeupdated": "1753292579"
+            },
+            "public_beta": {
+                "buildid": "19317213",
+                "description": "Unfinished and buggy features; incomplete content, etc. - secure your save files, use at your own risk only. You may lose everything here.",
+                "timeupdated": "1753292533"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
