@@ -1,0 +1,42 @@
+{
+    "appid": 983380,
+    "name": "Car Manufacture",
+    "type": "Game",
+    "schinese_name": "汽车制造",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:05:42",
+    "change_number": 30210082,
+    "depot": {
+        "baselanguages": "",
+        "983381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1523318420787901947",
+                    "size": "12026425916",
+                    "download": "10484714032"
+                },
+                "public-test": {
+                    "gid": "1523318420787901947",
+                    "size": "12026425916",
+                    "download": "10484714032"
+                }
+            },
+            "decryptionkey": "926edc9b87c8795c4aa84cfbf12c56ec508922e075da0591934bbd294dce0c07"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19330145",
+                "timeupdated": "1753286736"
+            },
+            "public-test": {
+                "buildid": "19330145",
+                "description": "Public testing branch",
+                "timeupdated": "1753285582"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
