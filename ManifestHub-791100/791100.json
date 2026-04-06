@@ -1,0 +1,28 @@
+{
+    "appid": 791100,
+    "name": "Paint Skills",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 22:33:50",
+    "change_number": 30020084,
+    "depot": {
+        "791101": {
+            "manifests": {
+                "public": {
+                    "gid": "795763409890272408",
+                    "size": "118240793",
+                    "download": "36512976"
+                }
+            },
+            "decryptionkey": "26d4fdcc0112ad402408170d391dc67ea08d9f4237be51ca2a6dcf117776e183"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2453170",
+                "timeupdated": "1516399451"
+            }
+        }
+    },
+    "access_token": 2422077469640242574
+}
