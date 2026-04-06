@@ -1,0 +1,40 @@
+{
+    "appid": 2545360,
+    "name": "Lonely Mountains: Snow Riders",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 14:50:37",
+    "change_number": 30167888,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,polish,brazilian",
+        "2545361": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5818028561835039765",
+                    "size": "1430405500",
+                    "download": "1136606624"
+                }
+            },
+            "decryptionkey": "097b0ce09326208a8d662ac6de3f39f1cc1f8bad9caaecd6ffb87937706620d8"
+        },
+        "3390150": {
+            "dlcappid": "3390150",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19221132",
+                "timeupdated": "1752569663"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
