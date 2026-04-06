@@ -1,0 +1,28 @@
+{
+    "appid": "605510",
+    "type": "Game",
+    "name": "Rigor Mortis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:24:00",
+    "depot": {
+        "605511": {
+            "manifests": {
+                "public": {
+                    "gid": "8255493044207799086",
+                    "size": "920900847",
+                    "download": "54550752"
+                }
+            },
+            "decryptionkey": "3f6429c53bf5fca21ca14a21e90eda20b7de185b9e5da0ff7166a429317d37f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2009402",
+                "timeupdated": "1501767103"
+            }
+        }
+    },
+    "access_token": 17899440750244979442
+}
