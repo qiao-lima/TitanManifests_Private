@@ -1,0 +1,32 @@
+{
+    "appid": "568890",
+    "type": "Game",
+    "name": "Its your last chance in new school",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "21132844",
+    "update_time": "2024-08-14 19:19:09",
+    "depot": {
+        "568891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2495508055491111363",
+                    "size": "88133580",
+                    "download": "40712144"
+                }
+            },
+            "decryptionkey": "9d60920a30c8a9f2899dfbe6a5c051d05a7b5da7e5da059c9133473fd0bf56b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1516998",
+                "timeupdated": "1481662800"
+            }
+        }
+    },
+    "access_token": 5548034970576659366
+}
