@@ -1,0 +1,38 @@
+{
+    "appid": 790060,
+    "name": "The Void Rains Upon Her Heart",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:03:27",
+    "change_number": 30214740,
+    "depot": {
+        "790061": {
+            "manifests": {
+                "public": {
+                    "gid": "2433728880782663752",
+                    "size": "209203280",
+                    "download": "168324160"
+                },
+                "chinese": {
+                    "gid": "1760106391179421610",
+                    "size": "246672768",
+                    "download": "183795504"
+                }
+            },
+            "decryptionkey": "732e35828bde8e203ffa2c4dac9a3328248b14a4b77df5ef70348ef28272124f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19294059",
+                "timeupdated": "1753053334"
+            },
+            "chinese": {
+                "buildid": "19334794",
+                "description": "Chinese Beta",
+                "timeupdated": "1753304602"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
