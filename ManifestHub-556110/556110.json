@@ -1,0 +1,28 @@
+{
+    "appid": "556110",
+    "type": "Game",
+    "name": "Galactic Fighter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:17:38",
+    "depot": {
+        "556111": {
+            "manifests": {
+                "public": {
+                    "gid": "2517581189299742562",
+                    "size": "93236589",
+                    "download": "47578576"
+                }
+            },
+            "decryptionkey": "aa509dce6e8957cde4d2c27ea21a7a169c7dfa0565796cf9e7cfed8c3fd12390"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1557293",
+                "timeupdated": "1483893617"
+            }
+        }
+    },
+    "access_token": 4262888701449479648
+}
