@@ -1,0 +1,27 @@
+{
+    "appid": 332740,
+    "name": "Pinstripe Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:46:53",
+    "change_number": 29706871,
+    "depot": {
+        "332741": {
+            "manifests": {
+                "public": {
+                    "gid": "7635999550622612491",
+                    "size": "120491023",
+                    "download": "91946640"
+                }
+            },
+            "decryptionkey": "0495111bdf6b7aeffef03572fe169a6e54056d93342ba861dc2795608bd3df93"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7819429",
+                "timeupdated": "1638490270"
+            }
+        }
+    }
+}
