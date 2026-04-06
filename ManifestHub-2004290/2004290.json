@@ -1,0 +1,39 @@
+{
+    "appid": 2004290,
+    "name": "Instant War",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 12:35:02",
+    "change_number": 29987053,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2004291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "576636392844604022",
+                    "size": "1450322949",
+                    "download": "1143289216"
+                }
+            },
+            "decryptionkey": "9c56c0d7255703de2c49b860e8f4b28954c431bcb52baa4bf386bc056aa6fc18"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "19074666",
+                "timeupdated": "1751612785"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
