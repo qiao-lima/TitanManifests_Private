@@ -1,0 +1,46 @@
+{
+    "appid": 270630,
+    "name": "Haunt the House: Terrortown",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 14:05:28",
+    "change_number": 30011349,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "270631": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4916975713646864640",
+                    "size": "261924142",
+                    "download": "216901488"
+                }
+            },
+            "decryptionkey": "19beb985dea08ddd8ca9569b5391b0fcc4b52a179927d7116ef62ba43b22dbba"
+        },
+        "270633": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4703999749636982101",
+                    "size": "393052077",
+                    "download": "218763040"
+                }
+            },
+            "decryptionkey": "88c23075270bd398aa7c5d67bd80b7191b859870b7d807a4bf53c92c8333a225"
+        },
+        "branches": {
+            "public": {
+                "buildid": "872871"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
