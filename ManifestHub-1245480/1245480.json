@@ -1,0 +1,73 @@
+{
+    "appid": 1245480,
+    "name": "SYNDUALITY Echo of Ada",
+    "type": "Game",
+    "schinese_name": "奇异贤伴 爱达之歌",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:27:23",
+    "change_number": 30217809,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1245481": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "489804641243683190",
+                    "size": "73283383572",
+                    "download": "67265191248"
+                }
+            },
+            "decryptionkey": "c5e7a814d9d7df873a2dc41b6e1ec96bb1ce1d98ee7ab6b5c9dee96e6c6592c5"
+        },
+        "1245482": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2163557720205822787",
+                    "size": "15",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1299100": {
+            "dlcappid": "1299100",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5231014665795451893",
+                    "size": "14464",
+                    "download": "3568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19138364",
+                "timeupdated": "1752555602"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
