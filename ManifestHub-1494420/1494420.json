@@ -1,0 +1,52 @@
+{
+    "appid": 1494420,
+    "name": "Silica",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 13:46:27",
+    "change_number": 30186116,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1494421": {
+            "manifests": {
+                "public": {
+                    "gid": "1699841905398475123",
+                    "size": "39400736874",
+                    "download": "20614457136"
+                },
+                "beta": {
+                    "gid": "7051994364484560527",
+                    "size": "39532921205",
+                    "download": "20730655776"
+                }
+            },
+            "decryptionkey": "235884e86240f9c2ed0e91f1a9f3f909896e04df14f6fdc82f5e7b5139f2e347"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18943170",
+                "timeupdated": "1750944391"
+            },
+            "beta": {
+                "buildid": "19078253",
+                "description": "Branch for Beta playtesting",
+                "timeupdated": "1751454764"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
