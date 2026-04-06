@@ -1,0 +1,30 @@
+{
+    "appid": "368900",
+    "type": "Game",
+    "name": "Brilliant Bob",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 18:55:11",
+    "depot": {
+        "368901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4522044539565769886",
+                    "size": "387904808",
+                    "download": "118367616"
+                }
+            },
+            "decryptionkey": "5bc76bedfdb27a8649596598e38af046fa40e529df6a85913e95e8caffec3c94"
+        },
+        "branches": {
+            "public": {
+                "buildid": "712648"
+            }
+        }
+    },
+    "access_token": 7161258125617679435
+}
