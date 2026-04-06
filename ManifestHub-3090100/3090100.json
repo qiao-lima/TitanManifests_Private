@@ -1,0 +1,28 @@
+{
+    "appid": 3090100,
+    "name": "Prison Princess: Trapped Allure",
+    "type": "Game",
+    "schinese_name": "囚狱公主 墮入圈套的少女们",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 15:45:06",
+    "change_number": 29523388,
+    "depot": {
+        "3090101": {
+            "manifests": {
+                "public": {
+                    "gid": "2200863792657031694",
+                    "size": "913221859",
+                    "download": "536756432"
+                }
+            },
+            "decryptionkey": "55ec45e591ca45d31ce7526bd025a7eedb4ff0cb4ee6d3421a879bf84c2e90c0"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18836138",
+                "timeupdated": "1749713075"
+            }
+        }
+    }
+}
