@@ -1,0 +1,28 @@
+{
+    "appid": 1206110,
+    "name": "Frontline: The Great Patriotic War",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 21:10:35",
+    "change_number": 29937110,
+    "depot": {
+        "1206111": {
+            "manifests": {
+                "public": {
+                    "gid": "2263876757888666767",
+                    "size": "1445689859",
+                    "download": "300529360"
+                }
+            },
+            "decryptionkey": "7f4971a615f2c98dd133e9c3f8e204829acfd83b1e60ce62f0368f4bb18afc33"
+        },
+        "baselanguages": "english,german,french,italian,russian,japanese,portuguese,romanian,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "10801350",
+                "timeupdated": "1679133603"
+            }
+        }
+    }
+}
