@@ -1,0 +1,35 @@
+{
+    "appid": 2553950,
+    "name": "谍：惊蛰 Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 05:37:56",
+    "change_number": 29133712,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2553951": {
+            "manifests": {
+                "public": {
+                    "gid": "1047138828062838721",
+                    "size": "847610850",
+                    "download": "768894928"
+                }
+            },
+            "decryptionkey": "81920fe134c7d837afc26ca532653b1d40861c45a326258318b35eea04f69118"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13655639",
+                "timeupdated": "1709722257"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
