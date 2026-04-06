@@ -1,0 +1,119 @@
+{
+    "appid": 638510,
+    "name": "dotAGE",
+    "type": "Game",
+    "schinese_name": "点老救世记 - dotAGE",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 16:19:07",
+    "change_number": 29991145,
+    "depot": {
+        "baselanguages": "english,italian",
+        "638511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1206931215489067377",
+                    "size": "517094506",
+                    "download": "272441360"
+                },
+                "experimental": {
+                    "gid": "1868307450098057037",
+                    "size": "516635454",
+                    "download": "272382112"
+                },
+                "v_1_6_5": {
+                    "gid": "2841280664207174612",
+                    "size": "568942697",
+                    "download": "269542192"
+                },
+                "v_1_5_0": {
+                    "gid": "6213256611522864034",
+                    "size": "416721780",
+                    "download": "144187568"
+                }
+            },
+            "decryptionkey": "43a0d933728c94f2a389e62a5437babad1243459004f122547c8531220af92b9"
+        },
+        "638512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2205321891601541610",
+                    "size": "593589626",
+                    "download": "289647600"
+                },
+                "experimental": {
+                    "gid": "8125391017634755999",
+                    "size": "593171028",
+                    "download": "289610768"
+                },
+                "v_1_6_5": {
+                    "gid": "4338068972211522806",
+                    "size": "645411271",
+                    "download": "286727872"
+                },
+                "v_1_5_0": {
+                    "gid": "1304934017528750980",
+                    "size": "493198681",
+                    "download": "161330912"
+                }
+            },
+            "decryptionkey": "0a458c956d531952042aea24b4c4a526c5096a218867c10589f20ab0a45c0124"
+        },
+        "638513": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5727949569310787846",
+                    "size": "583249846",
+                    "download": "279510320"
+                },
+                "experimental": {
+                    "gid": "5410414378861039215",
+                    "size": "582852201",
+                    "download": "279369600"
+                },
+                "v_1_6_5": {
+                    "gid": "8635019693160294620",
+                    "size": "635154550",
+                    "download": "276561728"
+                },
+                "v_1_5_0": {
+                    "gid": "2400925152527107543",
+                    "size": "482796981",
+                    "download": "151092640"
+                }
+            },
+            "decryptionkey": "30538dfc756c6289722cc17ae352c918e555cba28bb5753583d6b42f48ac5020"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19177680",
+                "timeupdated": "1752160741"
+            },
+            "experimental": {
+                "buildid": "18673573",
+                "description": "Updated faster, but may be more unstable",
+                "timeupdated": "1748606698"
+            },
+            "v_1_6_5": {
+                "buildid": "18196061",
+                "description": "Fallback version 1.6.5f",
+                "timeupdated": "1748852134"
+            },
+            "v_1_5_0": {
+                "buildid": "17056040",
+                "description": "Fallback version 1.5.0",
+                "timeupdated": "1742540236"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
