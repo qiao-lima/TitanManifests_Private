@@ -1,0 +1,70 @@
+{
+    "appid": 2520820,
+    "name": "MetaDock",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 13:41:51",
+    "change_number": 29918366,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2520821": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9214843449932700444",
+                    "size": "78004131",
+                    "download": "25813824"
+                },
+                "development": {
+                    "gid": "1692618453175396217",
+                    "size": "85334688",
+                    "download": "35236992"
+                },
+                "old-ui": {
+                    "gid": "702814578312918455",
+                    "size": "71410814",
+                    "download": "24199472"
+                },
+                "old-ui-test-branch": {
+                    "gid": "702814578312918455",
+                    "size": "71410814",
+                    "download": "24199472"
+                }
+            },
+            "decryptionkey": "d791c5ef5c1c52934e652d44afdd6ee5758e0fd892cc5ac4aff3f30e37daf25a"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18843265",
+                "timeupdated": "1749744770"
+            },
+            "development": {
+                "buildid": "19122930",
+                "description": "Development test branch",
+                "timeupdated": "1751805706"
+            },
+            "old-ui": {
+                "buildid": "16849100",
+                "description": "The UI before the latest update",
+                "timeupdated": "1735131234"
+            },
+            "old-ui-test-branch": {
+                "buildid": "16849100",
+                "description": "old ui test branch",
+                "timeupdated": "1735131163"
+            }
+        }
+    }
+}
