@@ -1,0 +1,40 @@
+{
+    "appid": 314430,
+    "name": "M.A.R.S.",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-28 17:04:08",
+    "change_number": 29803295,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "314431年": {},
+        "baselanguages": "english",
+        "314431": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8798451354356188266",
+                    "size": "12647406162",
+                    "download": "7169132272"
+                }
+            },
+            "decryptionkey": "b4f7304c207ede9b4bc651a59f14982e031435414d40d3621f2ba7321eadc1eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18174562",
+                "timeupdated": "1745211443"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
