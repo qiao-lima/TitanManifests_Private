@@ -1,0 +1,32 @@
+{
+    "appid": 1285270,
+    "name": "Farm Your Friends",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:55:08",
+    "change_number": 29770151,
+    "depot": {
+        "1285271": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8868711900319626801",
+                    "size": "703911761",
+                    "download": "178928560"
+                }
+            },
+            "decryptionkey": "755629771cf385c8fa39403ae70461e33837f90b5a9fa2c86f2d39e12e303650"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "18983125",
+                "timeupdated": "1750959672"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
