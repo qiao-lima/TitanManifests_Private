@@ -1,0 +1,28 @@
+{
+    "appid": 586520,
+    "name": "Castle Werewolf",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:01",
+    "change_number": 30056460,
+    "depot": {
+        "586521": {
+            "manifests": {
+                "public": {
+                    "gid": "5282153265462776143",
+                    "size": "23794277",
+                    "download": "18915040"
+                }
+            },
+            "decryptionkey": "8b47d754ecea6977dd445cea03ee997bebad53fd30c639df3d2768dc99f07a30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1637015",
+                "timeupdated": "1487281497"
+            }
+        }
+    },
+    "access_token": 919269812514494368
+}
