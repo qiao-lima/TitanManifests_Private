@@ -1,0 +1,49 @@
+{
+    "appid": 940520,
+    "name": "Attractorache",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:49:50",
+    "change_number": 29575040,
+    "depot": {
+        "940521": {
+            "manifests": {
+                "public": {
+                    "gid": "858641285232751193",
+                    "size": "423215754",
+                    "download": "138249648"
+                }
+            },
+            "decryptionkey": "7ffe27143ea6feceb66302bf2a01a5dfb30d6b6485098d72732d0657a3cee1e6"
+        },
+        "943870": {
+            "manifests": {
+                "public": {
+                    "gid": "6279470751535249822",
+                    "size": "135978022",
+                    "download": "86123712"
+                }
+            },
+            "dlcappid": "943870",
+            "decryptionkey": "2ea1e792f15cb5c176856485ea55a824ac427a75bea395139cdb3904ecf8712a"
+        },
+        "943871": {
+            "manifests": {
+                "public": {
+                    "gid": "7244136144625438610",
+                    "size": "11654778",
+                    "download": "11527200"
+                }
+            },
+            "dlcappid": "943871",
+            "decryptionkey": "1c65133bc317e8c12dacdcfbe8c9f6d98e2d76dfbc0e73690dfe4c4e58f7db63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3330219",
+                "timeupdated": "1542867858"
+            }
+        }
+    }
+}
