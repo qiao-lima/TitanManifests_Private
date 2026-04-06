@@ -1,0 +1,32 @@
+{
+    "appid": 1494840,
+    "name": "Scoot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 11:56:04",
+    "change_number": 30204848,
+    "depot": {
+        "1494841": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6299956753621727440",
+                    "size": "2591642934",
+                    "download": "1038619072"
+                }
+            },
+            "decryptionkey": "eb14283ecc75934fce88f8dc7b3eeeee8e138990a7befcdcc3b80a618755a353"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18980158",
+                "timeupdated": "1750846869"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
