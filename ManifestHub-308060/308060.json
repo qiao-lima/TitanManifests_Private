@@ -1,0 +1,99 @@
+{
+    "appid": 308060,
+    "name": "Black The Fall",
+    "type": "Game",
+    "schinese_name": "黑色：坠落",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 11:18:33",
+    "change_number": 30066049,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,romanian,brazilian",
+        "308061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4796677973967541978",
+                    "size": "1762176128",
+                    "download": "752010208"
+                }
+            },
+            "decryptionkey": "1175992b0b0d52ce4c0d4e841cd7c832a24647b10e8b49fbeae003372d695c60"
+        },
+        "308064": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7666232137357751722",
+                    "size": "1767283160",
+                    "download": "755119952"
+                }
+            },
+            "decryptionkey": "30cfe4a6220b78a911247bd0a784e0bb8d47b8380fa825571cde0b7f1cba588f"
+        },
+        "308062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "741206382213144470",
+                    "size": "492916795",
+                    "download": "175983776"
+                }
+            },
+            "decryptionkey": "1ff807217e8da80d2a4b3476cc138fab5af35e459ad51a0a2cdae2bd0d0d2da7"
+        },
+        "308063": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1701796682342178663",
+                    "size": "486741884",
+                    "download": "176969168"
+                }
+            },
+            "decryptionkey": "73f66912ba86e7c81a8927074ac52afca903f7a1a4f3957bdc361e59462dc96d"
+        },
+        "654540": {
+            "manifests": {
+                "public": {
+                    "gid": "714834630019098",
+                    "size": "114395081",
+                    "download": "103100016"
+                }
+            },
+            "dlcappid": "654540",
+            "decryptionkey": "791ac1a1a86f37ffffa6ba24c3d0ce3862b4449936889836e08d3b97586fc6f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2318661",
+                "timeupdated": "1511785798"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
