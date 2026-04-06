@@ -1,0 +1,32 @@
+{
+    "appid": 1870121,
+    "name": "Bright Memory: Infinite Cheongsam (Blue Flowers) DLC",
+    "type": "DLC",
+    "schinese_name": "《光明记忆：无限》DLC - 青花旗袍套装",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 14:00:17",
+    "change_number": 26201212,
+    "depot": {
+        "1870121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5628063841075777893",
+                    "size": "14822717",
+                    "download": "14932400"
+                }
+            },
+            "dlcappid": "1870121",
+            "decryptionkey": "76810c4f743eb2b4867bdcab19d37502a84d09d662a47ef5b35731f4053470d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7984405",
+                "timeupdated": "1641551558"
+            }
+        }
+    }
+}
