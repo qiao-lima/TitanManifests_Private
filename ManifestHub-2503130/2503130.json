@@ -1,0 +1,34 @@
+{
+    "appid": 2503130,
+    "name": "Only Fortress",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-15 15:28:47",
+    "change_number": 30070361,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2503131": {
+            "manifests": {
+                "public": {
+                    "gid": "5514862620020107286",
+                    "size": "101556054",
+                    "download": "88019472"
+                }
+            },
+            "decryptionkey": "d4223e9e811a6f211eed1e667804f2cbaeefd7b06e0d474f37b1945993a749c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19231230",
+                "timeupdated": "1752589721"
+            }
+        }
+    }
+}
