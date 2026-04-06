@@ -1,0 +1,59 @@
+{
+    "appid": 358770,
+    "name": "The Reject Demon: Toko Chapter 0 - Prelude",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:55:20",
+    "change_number": 29201033,
+    "depot": {
+        "358771": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4746474968637438236",
+                    "size": "698818004",
+                    "download": "488799840"
+                }
+            },
+            "decryptionkey": "4adaeb04f3418e2bf219e1dba49a60460e0d4c6300f7ef9108f4dd7982b9fc17"
+        },
+        "369340": {
+            "dlcappid": "369340",
+            "manifests": {
+                "public": {
+                    "gid": "2986906842076111578",
+                    "size": "38116149",
+                    "download": "36474400"
+                }
+            },
+            "config": {
+                "optionaldlc": "369340"
+            },
+            "decryptionkey": ""
+        },
+        "762140": {
+            "manifests": {
+                "public": {
+                    "gid": "5083992607144861142",
+                    "size": "198750361",
+                    "download": "192001440"
+                }
+            },
+            "dlcappid": "762140",
+            "config": {
+                "optionaldlc": "762140"
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2357351",
+                "timeupdated": "1512992393"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
