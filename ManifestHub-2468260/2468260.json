@@ -1,0 +1,27 @@
+{
+    "appid": 2468260,
+    "name": "Fae Farm - Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 17:15:27",
+    "change_number": 29790860,
+    "depot": {
+        "2468261": {
+            "manifests": {
+                "public": {
+                    "gid": "7075302437682831363",
+                    "size": "144748916",
+                    "download": "143478832"
+                }
+            },
+            "decryptionkey": "9aee5b18f7cc6edd7f9a2ae26689c0e1d0faad3894db3d5a027869ba4e282a0f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15079978",
+                "timeupdated": "1721330964"
+            }
+        }
+    }
+}
