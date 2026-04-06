@@ -1,0 +1,66 @@
+{
+    "appid": 692890,
+    "name": "Roboquest",
+    "type": "Game",
+    "schinese_name": "Roboquest (机械守护者)",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 09:18:24",
+    "change_number": 30144437,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "692891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "77653654787748319",
+                    "size": "5436677182",
+                    "download": "5171599024"
+                }
+            },
+            "decryptionkey": "6de29760974d9a062f71a50a766e6560959934a90bd6c43849e4b5c2c3040c66"
+        },
+        "1410960": {
+            "dlcappid": "1410960",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "2729110": {
+            "dlcappid": "2729110",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3922345365598588541",
+                    "size": "172477001",
+                    "download": "153358928"
+                }
+            },
+            "decryptionkey": "7147a52fbc37206a8101897f11ccce51c3fe1fd5cb493899bfa7bc357f1b5d8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18720358",
+                "timeupdated": "1749128367"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
