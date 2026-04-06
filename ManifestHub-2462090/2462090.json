@@ -1,0 +1,38 @@
+{
+    "appid": 2462090,
+    "name": "Star Knight: Order of the Vortex",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 21:26:25",
+    "change_number": 29904072,
+    "depot": {
+        "2462091": {
+            "manifests": {
+                "public": {
+                    "gid": "8881763389699211221",
+                    "size": "102264088",
+                    "download": "68513600"
+                },
+                "beta": {
+                    "gid": "134065258722520301",
+                    "size": "135996534",
+                    "download": "82986096"
+                }
+            },
+            "decryptionkey": "870a8024c3fd970d39f67220f17e94764c425b938ab24b07fe782751ec08bfea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18188552",
+                "timeupdated": "1745375237"
+            },
+            "beta": {
+                "buildid": "19112486",
+                "description": "current beta",
+                "timeupdated": "1751660779"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
