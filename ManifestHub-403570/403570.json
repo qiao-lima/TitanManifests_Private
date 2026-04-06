@@ -1,0 +1,27 @@
+{
+    "appid": "403570",
+    "type": "Game",
+    "name": "Stigmat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22853371",
+    "update_time": "2024-08-14 18:59:21",
+    "depot": {
+        "403571": {
+            "manifests": {
+                "public": {
+                    "gid": "2790849680482433119",
+                    "size": "82730439",
+                    "download": "82298480"
+                }
+            },
+            "decryptionkey": "78ebd994cbafdd1f1c61ab9c4475ec554bea47b3c00b772ff76bc2ba9fc09c58"
+        },
+        "branches": {
+            "public": {
+                "buildid": "840326"
+            }
+        }
+    },
+    "access_token": 6053548316747854580
+}
