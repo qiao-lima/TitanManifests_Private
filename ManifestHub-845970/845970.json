@@ -1,0 +1,27 @@
+{
+    "appid": 845970,
+    "name": "Trivia Vault: Movie Trivia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 23:13:01",
+    "change_number": 29805494,
+    "depot": {
+        "845971": {
+            "manifests": {
+                "public": {
+                    "gid": "2366641931337018512",
+                    "size": "133612603",
+                    "download": "28053104"
+                }
+            },
+            "decryptionkey": "7658bf1a15e9628873ca0e385044db972ec2beaf64543f0e7758ee4d5d52ed13"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2680599",
+                "timeupdated": "1523504694"
+            }
+        }
+    }
+}
