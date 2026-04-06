@@ -1,0 +1,37 @@
+{
+    "appid": 455940,
+    "name": "Odd||Even",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:43:52",
+    "change_number": 29731445,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "455941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1916645288793213766",
+                    "size": "30460605",
+                    "download": "27657664"
+                }
+            },
+            "decryptionkey": "94ab8bbf4ee057fee051793ac50b52657edb04357c441fa6015f8ee6b8fc0103"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1144333",
+                "timeupdated": "1464110953"
+            }
+        }
+    }
+}
