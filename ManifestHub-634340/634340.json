@@ -1,0 +1,38 @@
+{
+    "appid": 634340,
+    "name": "Legend of Himari",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 03:18:46",
+    "change_number": 29170425,
+    "depot": {
+        "baselanguages": "english",
+        "634341": {
+            "manifests": {
+                "public": {
+                    "gid": "8364377956043435272",
+                    "size": "55731208",
+                    "download": "46539616"
+                }
+            },
+            "decryptionkey": "2df235a2678d2e6670b2a75c4d4923e0741e070002db35b1d4a0a71cf119bbf8"
+        },
+        "634342": {
+            "manifests": {
+                "public": {
+                    "gid": "2971784017044453406",
+                    "size": "14837230",
+                    "download": "10000752"
+                }
+            },
+            "decryptionkey": "a561359d69570213d79f74c7df914cc7b7cd4436c6dedbda3e3050153090a7fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18596480",
+                "timeupdated": "1748114321"
+            }
+        }
+    }
+}
