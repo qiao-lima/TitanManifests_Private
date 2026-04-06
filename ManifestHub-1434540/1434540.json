@@ -1,0 +1,56 @@
+{
+    "appid": 1434540,
+    "name": "Zoeti",
+    "type": "Game",
+    "schinese_name": "星咏之诗",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 06:36:50",
+    "change_number": 29836211,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "1434541": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6293089789700030610",
+                    "size": "1149356187",
+                    "download": "511416544"
+                }
+            },
+            "decryptionkey": "418e315d0e566827ad0fe6620fb617d6a736c8854f4e9421880c94d8eeeef3ed"
+        },
+        "1434543": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3063463706484121648",
+                    "size": "1238267712",
+                    "download": "657456336"
+                }
+            },
+            "decryptionkey": "22ea077a176ca34ad3a46390e2a7e076fa514440ace907f71e97303fac84aa28"
+        },
+        "2550260": {
+            "dlcappid": "2550260",
+            "manifests": {
+                "public": {
+                    "gid": "2165783912063930410",
+                    "size": "646571689",
+                    "download": "531256912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18608440",
+                "timeupdated": "1748470717"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
