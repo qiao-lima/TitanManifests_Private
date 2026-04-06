@@ -1,0 +1,48 @@
+{
+    "appid": 1833300,
+    "name": "Epics of Distant Realm: Holy Return",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 17:42:46",
+    "change_number": 30190388,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1833301": {
+            "manifests": {
+                "public": {
+                    "gid": "6605383188597454545",
+                    "size": "2854473753",
+                    "download": "1781872896"
+                }
+            },
+            "decryptionkey": "0827f71aa021eec70e29b181bd39b9f1e785aa456f71c2f042f0c8a30edf65ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10222496",
+                "timeupdated": "1672196149"
+            }
+        }
+    }
+}
