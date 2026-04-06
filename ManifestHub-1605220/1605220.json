@@ -1,0 +1,35 @@
+{
+    "appid": 1605220,
+    "name": "Dune: Spice Wars",
+    "type": "Game",
+    "schinese_name": "沙丘：香料战争",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 09:19:44",
+    "change_number": 29964515,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1605221": {
+            "manifests": {
+                "public": {
+                    "gid": "5515600411821139442",
+                    "size": "6119445565",
+                    "download": "1845512528"
+                }
+            },
+            "decryptionkey": "d9b810744ceded0de8e527039bd842c9931c76da38fb1683230642fd71842411"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19145763",
+                "timeupdated": "1752049134"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
