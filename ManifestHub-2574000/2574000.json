@@ -1,0 +1,41 @@
+{
+    "appid": 2574000,
+    "name": "Femboy Burgers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 01:47:22",
+    "change_number": 29940210,
+    "depot": {
+        "2574001": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "412551260336893427",
+                    "size": "287102698",
+                    "download": "227690848"
+                },
+                "beta": {
+                    "gid": "8487550315257172599",
+                    "size": "285417492",
+                    "download": "215022912"
+                }
+            },
+            "decryptionkey": "fdb59b5c62be97543a4189b9aabda7bf23a548b852b8afbe643dcf33f051aa30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19139032",
+                "timeupdated": "1751935637"
+            },
+            "beta": {
+                "buildid": "12149623",
+                "description": "For steamworks testing",
+                "timeupdated": "1694266473"
+            }
+        }
+    }
+}
