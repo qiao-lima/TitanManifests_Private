@@ -1,0 +1,38 @@
+{
+    "appid": "575740",
+    "type": "Game",
+    "name": "Omega One",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:19:47",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "575741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8611473451634085858",
+                    "size": "90381894",
+                    "download": "77423712"
+                }
+            },
+            "decryptionkey": "2ec62ff9bfe4e6650c8c255fd5396d9d4b89286e9a31040d7f36eeaa89282575"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1603374",
+                "timeupdated": "1485955953"
+            }
+        }
+    },
+    "access_token": 9875855538446795145
+}
