@@ -1,0 +1,27 @@
+{
+    "appid": 911610,
+    "name": "Guacamelee! 2 - Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 18:32:42",
+    "change_number": 30211711,
+    "depot": {
+        "911610": {
+            "manifests": {
+                "public": {
+                    "gid": "5462289405921883338",
+                    "size": "277995669",
+                    "download": "278074656"
+                }
+            },
+            "decryptionkey": "266a7cbc97f12aa1ef138b65e2c9066d473b591219bbd8f979bd1509a67cc26c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4637115",
+                "timeupdated": "1580760318"
+            }
+        }
+    }
+}
