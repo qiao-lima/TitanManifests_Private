@@ -1,0 +1,29 @@
+{
+    "appid": 2515530,
+    "name": "Everlasting Snooze",
+    "type": "Game",
+    "schinese_name": "连眠不觉",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 10:18:32",
+    "change_number": 29250463,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2515531": {
+            "manifests": {
+                "public": {
+                    "gid": "1553788657826802353",
+                    "size": "669681045",
+                    "download": "510951360"
+                }
+            },
+            "decryptionkey": "0afa1e967c5a541b203dd7ec4dec4f5634620eb08910221ad22582101f3d3251"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18550857",
+                "timeupdated": "1747837050"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
