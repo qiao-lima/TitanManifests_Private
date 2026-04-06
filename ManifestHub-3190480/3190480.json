@@ -1,0 +1,28 @@
+{
+    "appid": 3190480,
+    "name": "A Few Nights With Margaret",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 13:15:47",
+    "change_number": 29809677,
+    "depot": {
+        "3190481": {
+            "manifests": {
+                "public": {
+                    "gid": "3290720692076958751",
+                    "size": "333784541",
+                    "download": "115970112"
+                }
+            },
+            "decryptionkey": "519657066cfff7b65c83a6d8aa32d2c6e701e5ce2bb3eb9239cdebdda4ece050"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19011467",
+                "timeupdated": "1750943339"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
