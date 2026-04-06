@@ -1,0 +1,86 @@
+{
+    "appid": 2231010,
+    "name": "Fetish Locator Week Three",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 23:51:54",
+    "change_number": 30140551,
+    "depot": {
+        "2231011": {
+            "manifests": {
+                "public": {
+                    "gid": "1231452066041958992",
+                    "size": "9544162699",
+                    "download": "9371981424"
+                },
+                "beta": {
+                    "gid": "1231452066041958992",
+                    "size": "9544162699",
+                    "download": "9371981424"
+                }
+            },
+            "decryptionkey": "dc1ee08608d1296dd55d6a7bc537a5b5f133d7b264b0a346a638e361b6ea7985"
+        },
+        "2362820": {
+            "dlcappid": "2362820",
+            "manifests": {
+                "public": {
+                    "gid": "2962357088771642523",
+                    "size": "645205",
+                    "download": "423456"
+                },
+                "beta": {
+                    "gid": "2962357088771642523",
+                    "size": "645205",
+                    "download": "423456"
+                }
+            },
+            "decryptionkey": "1921312b331b5b858127b86f413d88c293928e1ac8c02aed474816329fd4d791"
+        },
+        "2755430": {
+            "dlcappid": "2755430",
+            "manifests": {
+                "public": {
+                    "gid": "6046209077264401193",
+                    "size": "3076983314",
+                    "download": "3115924912"
+                },
+                "beta": {
+                    "gid": "6046209077264401193",
+                    "size": "3076983314",
+                    "download": "3115924912"
+                }
+            },
+            "decryptionkey": "7b0d8c5c2a1cd3ba72332e744f1b573e9830ae340d9b1b4c21c6650170594cd2"
+        },
+        "3051920": {
+            "dlcappid": "3051920",
+            "manifests": {
+                "public": {
+                    "gid": "1633136301486243420",
+                    "size": "3279844470",
+                    "download": "3318858768"
+                },
+                "beta": {
+                    "gid": "1633136301486243420",
+                    "size": "3279844470",
+                    "download": "3318858768"
+                }
+            },
+            "decryptionkey": "fc0dd369666bc3d9113dde401bcd810a98d4ff8167f4451adebee468791a2523"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19261042",
+                "timeupdated": "1752791336"
+            },
+            "beta": {
+                "buildid": "19261042",
+                "description": "beta branch",
+                "timeupdated": "1752761298"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
