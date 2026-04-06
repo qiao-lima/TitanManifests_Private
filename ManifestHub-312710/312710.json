@@ -1,0 +1,26 @@
+{
+    "appid": 312710,
+    "name": "Broadsword : Age of Chivalry",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:03:01",
+    "change_number": 29728698,
+    "depot": {
+        "312711": {
+            "manifests": {
+                "public": {
+                    "gid": "3181131967013274531",
+                    "size": "636007748",
+                    "download": "227250048"
+                }
+            },
+            "decryptionkey": "4f7beb08dacbfb25742ff0143d36e7de055383ed070b025f9625bd0ae945f3ab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "758624"
+            }
+        }
+    }
+}
