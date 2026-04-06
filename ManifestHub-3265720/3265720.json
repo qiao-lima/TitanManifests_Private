@@ -1,0 +1,51 @@
+{
+    "appid": 3265720,
+    "name": "Soulers Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 15:51:40",
+    "change_number": 30208679,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,koreana,schinese,russian,japanese",
+        "3265721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7364801376088916703",
+                    "size": "3185796091",
+                    "download": "586145184"
+                }
+            },
+            "decryptionkey": "d7c8366cd920615fa738a4c2d88958fe3ffe6a2f101701958eea04a6a15c9b78"
+        },
+        "3265723": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1801113808836051255",
+                    "size": "4779849593",
+                    "download": "964475456"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19326932",
+                "timeupdated": "1753280718"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
