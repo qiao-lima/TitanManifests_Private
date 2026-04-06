@@ -1,0 +1,31 @@
+{
+    "appid": 1499370,
+    "name": "RPG Maker MZ - Katakura Hibiki's Lords of Darkness",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 19:59:22",
+    "change_number": 26201212,
+    "depot": {
+        "1499370": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5486087561727869947",
+                    "size": "75858669",
+                    "download": "69339680"
+                }
+            },
+            "dlcappid": "1499370",
+            "decryptionkey": "d32c500e0766cbdb3e0cc557e1f87fa5b0151ea26eaa1e21a8651222d67dcd63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5954063",
+                "timeupdated": "1607678454"
+            }
+        }
+    }
+}
