@@ -1,0 +1,77 @@
+{
+    "appid": 2184350,
+    "name": "Guild Saga: Vanished Worlds",
+    "type": "Game",
+    "schinese_name": "公会传说 遗落的世界",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 19:01:34",
+    "change_number": 29973541,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2184351": {
+            "manifests": {
+                "public": {
+                    "gid": "2343683622064187663",
+                    "size": "6175680280",
+                    "download": "550141968"
+                },
+                "local": {
+                    "gid": "6026649543054225792",
+                    "size": "3284124439",
+                    "download": "202630048"
+                },
+                "experimental": {
+                    "gid": "2343683622064187663",
+                    "size": "6175680280",
+                    "download": "550141968"
+                },
+                "legacy": {
+                    "gid": "8242424517427191003",
+                    "size": "4985344505",
+                    "download": "488564480"
+                }
+            },
+            "decryptionkey": "2a999e283fd4e1e911dbf0b0af2cb0c12ad487fe85f8d9718b6ecf52971962ba"
+        },
+        "2184352": {
+            "manifests": {
+                "local": {
+                    "gid": "4174086034059294776",
+                    "size": "3283328053",
+                    "download": "198929552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18709544",
+                "timeupdated": "1748906506"
+            },
+            "local": {
+                "buildid": "10738914",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1678450015"
+            },
+            "experimental": {
+                "buildid": "18709544",
+                "description": "Experimental release",
+                "timeupdated": "1751133553"
+            },
+            "legacy": {
+                "buildid": "16300894",
+                "description": "Keep playing where you left off with full save compatibility.",
+                "timeupdated": "1747963904"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
