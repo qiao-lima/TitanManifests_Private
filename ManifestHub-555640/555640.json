@@ -1,0 +1,35 @@
+{
+    "appid": 555640,
+    "name": "Japanese School Life",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 05:04:04",
+    "change_number": 29807166,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "555641": {
+            "manifests": {
+                "public": {
+                    "gid": "3092092386144044636",
+                    "size": "1557656280",
+                    "download": "1453393824"
+                }
+            },
+            "decryptionkey": "7432b47d01674e922a1e2b53914b417ac636b07539602d1e5f0f95fd809e1c60"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1985710",
+                "timeupdated": "1501091883"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
