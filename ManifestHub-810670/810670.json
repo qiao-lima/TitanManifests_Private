@@ -1,0 +1,39 @@
+{
+    "appid": 810670,
+    "name": "NALOGI",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 12:08:07",
+    "change_number": 29785320,
+    "depot": {
+        "810671": {
+            "manifests": {
+                "public": {
+                    "gid": "3724550174543608676",
+                    "size": "1119942763",
+                    "download": "951799248"
+                }
+            },
+            "decryptionkey": "c98a79d792c8d29fe03b962c67aefb4441772e2fb4d747f83dc93a5a44093c03"
+        },
+        "971910": {
+            "manifests": {
+                "public": {
+                    "gid": "6910993913152124560",
+                    "size": "276367",
+                    "download": "12512"
+                }
+            },
+            "dlcappid": "971910",
+            "decryptionkey": "3edffdeb3e183cfd06993a2a20169526fada077ead0b33ca90c267d48b58e16a"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "3257920",
+                "timeupdated": "1540838635"
+            }
+        }
+    }
+}
