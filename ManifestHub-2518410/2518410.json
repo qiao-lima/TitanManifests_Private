@@ -1,0 +1,52 @@
+{
+    "appid": 2518410,
+    "name": "Moroi",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 21:12:38",
+    "change_number": 30214042,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2518411": {
+            "manifests": {
+                "public": {
+                    "gid": "8538240339167015167",
+                    "size": "11210682295",
+                    "download": "10501092736"
+                },
+                "romana-romanian": {
+                    "gid": "1363711762703923074",
+                    "size": "11161607813",
+                    "download": "10452174432"
+                }
+            },
+            "decryptionkey": "c87f5ae507167b0b905e70c1decd7432aa1767ee3570b681570a54ca8edf728f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18427761",
+                "timeupdated": "1747335653"
+            },
+            "romana-romanian": {
+                "buildid": "18755507",
+                "description": "Branch containing the Romanian language version of the game",
+                "timeupdated": "1749150345"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
