@@ -1,0 +1,36 @@
+{
+    "appid": 432010,
+    "name": "World's Dawn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 17:37:02",
+    "change_number": 29390665,
+    "depot": {
+        "432011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3923032811417234767",
+                    "size": "96376766",
+                    "download": "94858688"
+                }
+            },
+            "decryptionkey": "14c1de5f34a36c7d3767944b5275ac36333933d24a55596ea4c21c205ef3744f"
+        },
+        "432012": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1793396",
+                "timeupdated": "1493690535"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
