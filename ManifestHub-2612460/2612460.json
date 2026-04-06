@@ -1,0 +1,29 @@
+{
+    "appid": 2612460,
+    "name": "A Promise Best Left Unkept - Bonus Scenes [Season 1]",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 19:17:56",
+    "change_number": 30137149,
+    "depot": {
+        "2612460": {
+            "manifests": {
+                "public": {
+                    "gid": "834793650842171511",
+                    "size": "96354670",
+                    "download": "94946544"
+                }
+            },
+            "dlcappid": "2612460",
+            "decryptionkey": "1e2416b3f616248e7702dc140cc9f7160562ef2d5e6dbbcf97526cce4bff11d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19278296",
+                "timeupdated": "1752862589"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
