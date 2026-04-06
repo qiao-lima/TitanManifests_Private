@@ -1,0 +1,27 @@
+{
+    "appid": 2164200,
+    "name": "Acretia - Guardians of Lian",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 14:01:21",
+    "change_number": 29306588,
+    "depot": {
+        "2164201": {
+            "manifests": {
+                "public": {
+                    "gid": "3617677287135637124",
+                    "size": "5252505139",
+                    "download": "741063808"
+                }
+            },
+            "decryptionkey": "ed173d1e90c40dc1eb05f0ec64b7cc08be9f18c4dd04674f89bdc7c4456491a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10506557",
+                "timeupdated": "1675868633"
+            }
+        }
+    }
+}
