@@ -1,0 +1,59 @@
+{
+    "appid": 2940490,
+    "name": "Furry Aim Trainer",
+    "type": "Game",
+    "schinese_name": "獸圈  瞄准训练器",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 01:52:10",
+    "change_number": 29869932,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2940491": {
+            "manifests": {
+                "public": {
+                    "gid": "6156134496486069489",
+                    "size": "921063287",
+                    "download": "739188000"
+                },
+                "censoredstreamermode": {
+                    "gid": "5595554844942869068",
+                    "size": "530520718",
+                    "download": "409183856"
+                }
+            },
+            "decryptionkey": "acb7f9e48ea2bca6750bbed6a329bafa85966f29553dc320180d270527096969"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19083866",
+                "timeupdated": "1751484070"
+            },
+            "censoredstreamermode": {
+                "buildid": "16344174",
+                "description": "Censored Mode for Streamers",
+                "timeupdated": "1731082403"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
