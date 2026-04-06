@@ -1,0 +1,85 @@
+{
+    "appid": 1621210,
+    "name": "Nemithia - Tale of the Legendary Saviors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 08:27:58",
+    "change_number": 29315465,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "workshopdepot": "1621210",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1621211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2068194372972688187",
+                    "size": "1479309820",
+                    "download": "121499488"
+                },
+                "public-beta": {
+                    "gid": "2068194372972688187",
+                    "size": "1479309820",
+                    "download": "121499488"
+                }
+            },
+            "decryptionkey": "e6b21c222e5ce9af05eee87eadc79762568f90213ed67464096a13d7cd3fa6b4"
+        },
+        "1621212": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2423581028775093685",
+                    "size": "1511431999",
+                    "download": "118507360"
+                },
+                "public-beta": {
+                    "gid": "2423581028775093685",
+                    "size": "1511431999",
+                    "download": "118507360"
+                }
+            },
+            "decryptionkey": "6cccfc8a789cd08b86fae59329d6c5f3ff5f6a1c4165f80c2e504d3df67f1ffe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18695304",
+                "timeupdated": "1748817669"
+            },
+            "public-beta": {
+                "buildid": "18695304",
+                "description": "Public Beta Branch",
+                "timeupdated": "1748817310"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
