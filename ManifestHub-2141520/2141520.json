@@ -1,0 +1,64 @@
+{
+    "appid": 2141520,
+    "name": "Survivor Mercs",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 12:22:27",
+    "change_number": 30047440,
+    "depot": {
+        "2141521": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5478096112282449666",
+                    "size": "584108134",
+                    "download": "263770736"
+                },
+                "beta": {
+                    "gid": "2292649356907838013",
+                    "size": "194009377",
+                    "download": "53232960"
+                },
+                "local": {
+                    "gid": "2130515370812420819",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e1a9dbd6086605f9927671be457d84bc54801cfa77bd0657fef24460f2a76b43"
+        },
+        "2141522": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "2141523": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18770213",
+                "timeupdated": "1749236722"
+            },
+            "beta": {
+                "buildid": "9619684",
+                "description": "an internal beta branch",
+                "lcsrequired": "1",
+                "timeupdated": "1664473007"
+            },
+            "local": {
+                "buildid": "9619084",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1664473591"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
