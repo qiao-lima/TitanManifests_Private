@@ -1,0 +1,45 @@
+{
+    "appid": 2682580,
+    "name": "DUCKSIDE",
+    "type": "Game",
+    "schinese_name": "鸭界争锋",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 07:02:27",
+    "change_number": 30104064,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2682581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "269728534641514390",
+                    "size": "13651737744",
+                    "download": "6133252560"
+                }
+            },
+            "decryptionkey": "83bf933e89fe0beed0565f603bcd6ce3d6b6491081677ef77c8d694fe0186f33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18610310",
+                "timeupdated": "1748270947"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
