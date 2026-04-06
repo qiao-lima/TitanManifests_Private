@@ -1,0 +1,48 @@
+{
+    "appid": 1928090,
+    "name": "Cook Serve Forever",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 04:03:11",
+    "change_number": 29798085,
+    "depot": {
+        "1928091": {
+            "manifests": {
+                "public": {
+                    "gid": "3844498530715360236",
+                    "size": "3765289995",
+                    "download": "3159400960"
+                },
+                "oldbuild": {
+                    "gid": "2032473321858473157",
+                    "size": "1947190199",
+                    "download": "1604085104"
+                },
+                "prevversion": {
+                    "gid": "6801016308535796094",
+                    "size": "3797403209",
+                    "download": "3164191872"
+                }
+            },
+            "decryptionkey": "c0967e878f7bb94a4470b065f57b26a4cd13b423a995ca97d487d54600c7b5c6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18892094",
+                "timeupdated": "1750133838"
+            },
+            "oldbuild": {
+                "buildid": "12270633",
+                "description": "The old version of the game, for those curious.",
+                "timeupdated": "1737133592"
+            },
+            "prevversion": {
+                "buildid": "18630292",
+                "description": "Previous 0.25.05 patch (Jan 2025)",
+                "timeupdated": "1750133819"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
