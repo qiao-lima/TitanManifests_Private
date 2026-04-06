@@ -1,0 +1,27 @@
+{
+    "appid": 1818590,
+    "name": "You Are A Pilot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 01:24:09",
+    "change_number": 29242228,
+    "depot": {
+        "1818591": {
+            "manifests": {
+                "public": {
+                    "gid": "7438689641898993773",
+                    "size": "2837046575",
+                    "download": "252426112"
+                }
+            },
+            "decryptionkey": "e27feed702bdd5348d3a9683e3c9131a90b780d3c072db75602addb8bada284c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13494605",
+                "timeupdated": "1708327997"
+            }
+        }
+    }
+}
