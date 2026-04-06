@@ -1,0 +1,62 @@
+{
+    "appid": 3167550,
+    "name": "Tiny Pasture",
+    "type": "Game",
+    "schinese_name": "动物栏：桌面牧场",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 11:43:08",
+    "change_number": 30204657,
+    "depot": {
+        "3167552": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3168006641593067527",
+                    "size": "212828324",
+                    "download": "84794608"
+                },
+                "moduploader": {
+                    "gid": "6766960644749862154",
+                    "size": "367658411",
+                    "download": "84690944"
+                }
+            },
+            "decryptionkey": "33361caf10efc9ff15081a065b3a6de507c769dc7f1d976a67177ca845c5093c"
+        },
+        "3167551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4335908119545997481",
+                    "size": "141403112",
+                    "download": "68938224"
+                },
+                "moduploader": {
+                    "gid": "4858462219304377453",
+                    "size": "221465088",
+                    "download": "66619408"
+                }
+            },
+            "decryptionkey": "2eb36141e330220bd89c47de8cca1c780182686771b6f5e9251eeef811774d14"
+        },
+        "workshopdepot": "3167550",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "19140668",
+                "timeupdated": "1751968735"
+            },
+            "moduploader": {
+                "buildid": "18038587",
+                "description": "use for upload mod to workshop",
+                "timeupdated": "1744190372"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8ad4b349f08144eb89fa2093abe11113c34919b9d82567c4f0d802ade2479a76"
+    }
+}
