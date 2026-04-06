@@ -1,0 +1,82 @@
+{
+    "appid": 2055590,
+    "name": "Star Overdrive",
+    "type": "Game",
+    "schinese_name": "星跃狂飙",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 02:13:44",
+    "change_number": 30197124,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "hasdepotsindlc": "0",
+        "2055591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8135045151515369760",
+                    "size": "23029348060",
+                    "download": "9232461216"
+                }
+            },
+            "decryptionkey": "aac10a225fadffc8c80bb9d6a5fc56bc91de6418ca92399910c044aab6044da4"
+        },
+        "3710290": {
+            "dlcappid": "3710290",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1901268086904421467",
+                    "size": "345814262",
+                    "download": "296809024"
+                }
+            },
+            "decryptionkey": "b48f950dc13e00a049d63ac95e4e2332c07a5ce7c5f0216feaf4f042f5ca7c47"
+        },
+        "3710300": {
+            "dlcappid": "3710300",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "478890845958188085",
+                    "size": "14",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "2dcfe00ace555c859797454b56baf36aeac90ef743a13aa6a846545b2662a3f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18996346",
+                "timeupdated": "1751378520"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
