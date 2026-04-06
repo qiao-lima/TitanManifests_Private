@@ -1,0 +1,38 @@
+{
+    "appid": "555700",
+    "type": "Game",
+    "name": "Absoloot",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:17:32",
+    "depot": {
+        "555701": {
+            "manifests": {
+                "public": {
+                    "gid": "4233129858444080807",
+                    "size": "123532782",
+                    "download": "47653632"
+                }
+            },
+            "decryptionkey": "59d322061819cd89ca41285de43a60c6b3669b9b7880f7ccf9520ebf69434942"
+        },
+        "555702": {
+            "manifests": {
+                "public": {
+                    "gid": "5862597558614458650",
+                    "size": "149659118",
+                    "download": "54969264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1702155",
+                "timeupdated": "1490003911"
+            }
+        }
+    },
+    "access_token": 14383147544233453909
+}
