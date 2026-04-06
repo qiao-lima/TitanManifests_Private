@@ -1,0 +1,27 @@
+{
+    "appid": 2125070,
+    "name": "孤胆惊魂3:起源 Fear3:Origins",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 15:47:01",
+    "change_number": 30113019,
+    "depot": {
+        "2125071": {
+            "manifests": {
+                "public": {
+                    "gid": "5406123856316147201",
+                    "size": "540978842",
+                    "download": "417795056"
+                }
+            },
+            "decryptionkey": "560f9cdd009c1d6df1024e8ad7b1d0a19200a6e0b5f6dcdd075b95454f0dac10"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18778592",
+                "timeupdated": "1749311582"
+            }
+        }
+    }
+}
