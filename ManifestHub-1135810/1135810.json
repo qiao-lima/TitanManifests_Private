@@ -1,0 +1,116 @@
+{
+    "appid": 1135810,
+    "name": "Vault of the Void",
+    "type": "Game",
+    "schinese_name": "Vault of the Void / 虚空穹牢",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 03:24:42",
+    "change_number": 30080681,
+    "depot": {
+        "1135811": {},
+        "1135812": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6754984019105922896",
+                    "size": "557449543",
+                    "download": "352427632"
+                },
+                "beta": {
+                    "gid": "7196922549473293566",
+                    "size": "557451591",
+                    "download": "356687024"
+                },
+                "localisation": {
+                    "gid": "6754984019105922896",
+                    "size": "557449543",
+                    "download": "352427632"
+                },
+                "win7": {
+                    "gid": "7674727133144087300",
+                    "size": "556512793",
+                    "download": "352017056"
+                }
+            },
+            "decryptionkey": "77b938bb983bfec671e0c15440300d51c4660081579cc6373fbe0ab12d783f31"
+        },
+        "1135813": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6083665172107783919",
+                    "size": "612244880",
+                    "download": "366524416"
+                },
+                "beta": {
+                    "gid": "170963344392507175",
+                    "size": "612245340",
+                    "download": "373392432"
+                },
+                "localisation": {
+                    "gid": "6083665172107783919",
+                    "size": "612244880",
+                    "download": "366524416"
+                },
+                "win7": {
+                    "gid": "5956664200064181291",
+                    "size": "609823915",
+                    "download": "366025104"
+                }
+            },
+            "decryptionkey": "f570b850206127ca4a66d82c2e455900cf665ca32973a1cbdcf4ae1bd34d6eef"
+        },
+        "1135814": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "87913800612579623",
+                    "size": "333321408",
+                    "download": "336496336"
+                },
+                "beta": {
+                    "gid": "87913800612579623",
+                    "size": "333321408",
+                    "download": "336496336"
+                },
+                "localisation": {
+                    "gid": "87913800612579623",
+                    "size": "333321408",
+                    "download": "336496336"
+                },
+                "win7": {
+                    "gid": "87913800612579623",
+                    "size": "333321408",
+                    "download": "336496336"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18668376",
+                "timeupdated": "1748627404"
+            },
+            "beta": {
+                "buildid": "18960547",
+                "timeupdated": "1750656236"
+            },
+            "localisation": {
+                "buildid": "18668376",
+                "description": "Branch for testing Vault of the Voids Localisation",
+                "timeupdated": "1748577379"
+            },
+            "win7": {
+                "buildid": "17858825",
+                "description": "The LAST version to support Windows 7 -- you will not receive any future update when playing on this branch",
+                "timeupdated": "1745959336"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
