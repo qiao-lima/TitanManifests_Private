@@ -1,0 +1,38 @@
+{
+    "appid": "679260",
+    "type": "Game",
+    "name": "Bus Driver Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28976832",
+    "update_time": "2025-05-14 22:41:56",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "679261": {
+            "manifests": {
+                "public": {
+                    "gid": "1062533051578844802",
+                    "size": "4193681710",
+                    "download": "2982558320"
+                }
+            },
+            "decryptionkey": "108dea479c72079845776e7e4c364b5d75ee93ea06953ee2b2c352c05239065d"
+        },
+        "workshopdepot": "679260",
+        "branches": {
+            "public": {
+                "buildid": "8543318",
+                "timeupdated": "1649767611"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a7b0597042b32e47b708ea8f85f4c0af0dcbfb4a4958790fb4869c594744e417"
+    },
+    "access_token": 3580113315924045305
+}
