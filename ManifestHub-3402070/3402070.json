@@ -1,0 +1,32 @@
+{
+    "appid": 3402070,
+    "name": "Sheep Furry - DLC",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:24:09",
+    "change_number": 26816743,
+    "depot": {
+        "3402070": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2141567956615658808",
+                    "size": "180420255",
+                    "download": "178931728"
+                }
+            },
+            "dlcappid": "3402070",
+            "decryptionkey": "9a5d6e9b3786192aa5270a80fac0f30c9f72819f7db14071d48483dcb9917f20"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16716777",
+                "timeupdated": "1733980235"
+            }
+        }
+    }
+}
