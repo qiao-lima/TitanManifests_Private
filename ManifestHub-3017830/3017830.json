@@ -1,0 +1,53 @@
+{
+    "appid": 3017830,
+    "name": "Sky Resort 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:41:55",
+    "change_number": 29488046,
+    "depot": {
+        "3017831": {
+            "manifests": {
+                "public": {
+                    "gid": "4785627891019510403",
+                    "size": "1366486552",
+                    "download": "1262735648"
+                }
+            },
+            "decryptionkey": "9275462968d30aa2fa21aa6923ea1be771924dbe15f24af6b52e66fb4fbaf9fb"
+        },
+        "3030660": {
+            "dlcappid": "3030660",
+            "manifests": {
+                "public": {
+                    "gid": "1146379126484916939",
+                    "size": "928598395",
+                    "download": "930215376"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3017832": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7491592930862338961",
+                    "size": "744",
+                    "download": "448"
+                }
+            },
+            "decryptionkey": "b11bcf0ad1915e2ab6a23999dfa901784aa8dc0a3e5f71cdb20da3b84df582b3"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18726681",
+                "timeupdated": "1749000081"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
