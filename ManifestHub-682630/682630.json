@@ -1,0 +1,31 @@
+{
+    "appid": 682630,
+    "name": "Box Maze 2 : Agent Cubert",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 03:31:53",
+    "change_number": 30080762,
+    "depot": {
+        "682631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7068655695372547178",
+                    "size": "312948515",
+                    "download": "222205280"
+                }
+            },
+            "decryptionkey": "85f2f8caaaf70cb54b088437e710eef76739caa7d221a3c17e97e5ebcfd300ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2415573",
+                "timeupdated": "1515170675"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
