@@ -1,0 +1,49 @@
+{
+    "appid": 1631860,
+    "name": "My Cute Pagangirl",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:40:51",
+    "change_number": 29491889,
+    "depot": {
+        "1631861": {
+            "manifests": {
+                "public": {
+                    "gid": "3801749538479987116",
+                    "size": "1273743901",
+                    "download": "631801664"
+                }
+            },
+            "decryptionkey": "a91e40b7f38dee9d49742d11e7acf29fea942931507b754116dba97307cda842"
+        },
+        "1688000": {
+            "dlcappid": "1688000",
+            "manifests": {
+                "public": {
+                    "gid": "606012234186318297",
+                    "size": "1590100497",
+                    "download": "644197872"
+                }
+            },
+            "decryptionkey": "c5b11bc5a1ee42d0e67fec835445d7c6b28c43306b1c163ecc7c1cbbca43dd62"
+        },
+        "3793980": {
+            "dlcappid": "3793980",
+            "manifests": {
+                "public": {
+                    "gid": "5378103556391264069",
+                    "size": "13482000",
+                    "download": "13624896"
+                }
+            },
+            "decryptionkey": "1dbad2a130d1c424abe50197b9f92c8aa97cc5c0c02a0b77a063ad31752e500f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18784516",
+                "timeupdated": "1749389028"
+            }
+        }
+    }
+}
