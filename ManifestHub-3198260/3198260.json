@@ -1,0 +1,41 @@
+{
+    "appid": 3198260,
+    "name": "Small Dragon Big Appetite",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-30 15:56:33",
+    "change_number": 29824837,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3198261": {
+            "manifests": {
+                "public": {
+                    "gid": "1643534014377729166",
+                    "size": "426133661",
+                    "download": "318755632"
+                }
+            },
+            "decryptionkey": "54ef86a5ec6d5cabfb2baef6335ee197a9623ab9cd4fbcdb9bb61557c8ec95f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15681735",
+                "timeupdated": "1726169746"
+            }
+        }
+    }
+}
