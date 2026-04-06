@@ -1,0 +1,27 @@
+{
+    "appid": 2229570,
+    "name": "SEX & DRIFT",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 04:37:06",
+    "change_number": 29568668,
+    "depot": {
+        "2229571": {
+            "manifests": {
+                "public": {
+                    "gid": "1095776423880082243",
+                    "size": "1099120080",
+                    "download": "932167072"
+                }
+            },
+            "decryptionkey": "a66c621de508834ec995e7409feed3001cf57f7d6e31b74075408236e865ee19"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10145099",
+                "timeupdated": "1671016352"
+            }
+        }
+    }
+}
