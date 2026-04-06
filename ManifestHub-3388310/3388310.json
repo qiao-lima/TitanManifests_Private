@@ -1,0 +1,43 @@
+{
+    "appid": "3388310",
+    "type": "Beta",
+    "name": "The Scouring Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28487890",
+    "update_time": "2025-04-15 21:33:11",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3388311": {
+            "manifests": {
+                "public": {
+                    "gid": "8549868893089752957",
+                    "size": "632279712",
+                    "download": "605427024"
+                }
+            },
+            "decryptionkey": "855597ff319ee3abc860ad3fab93128e2d9e6f1b39ae4ed5ec33da7eb02b4ff6"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "18112002",
+                "timeupdated": "1744723985"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
