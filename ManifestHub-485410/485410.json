@@ -1,0 +1,28 @@
+{
+    "appid": "485410",
+    "type": "Game",
+    "name": "Alien Run",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23423410",
+    "update_time": "2024-08-14 19:11:17",
+    "depot": {
+        "485411": {
+            "manifests": {
+                "public": {
+                    "gid": "8853683519918805825",
+                    "size": "117133721",
+                    "download": "91335520"
+                }
+            },
+            "decryptionkey": "bf878f7789e74e66bd9d901432b3292be6beb47a4b53e2d581f4705d19179674"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1184992",
+                "timeupdated": "1466124128"
+            }
+        }
+    },
+    "access_token": 5471613278704504621
+}
