@@ -1,0 +1,80 @@
+{
+    "appid": 2313550,
+    "name": "Vampire Survivors: Tides of the Foscari",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 07:57:50",
+    "change_number": 30200912,
+    "depot": {
+        "2313551": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6130364014836738278",
+                    "size": "22742032",
+                    "download": "16724976"
+                },
+                "public-beta": {
+                    "gid": "6130364014836738278",
+                    "size": "22742032",
+                    "download": "16724976"
+                }
+            },
+            "dlcappid": "2313550",
+            "decryptionkey": "adde095c43621ed1f47b4d76bc65191b5bb3cf09a92e70cd11c97c46350fc378"
+        },
+        "2313552": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1558868848623609580",
+                    "size": "22741845",
+                    "download": "16724560"
+                },
+                "public-beta": {
+                    "gid": "1558868848623609580",
+                    "size": "22741845",
+                    "download": "16724560"
+                }
+            },
+            "dlcappid": "2313550",
+            "decryptionkey": "a7b5b861ccf517e0c14ce63f873786764694c151a527fe75ec81e02d2c4078a3"
+        },
+        "2313553": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2292058323533949756",
+                    "size": "22741981",
+                    "download": "16724848"
+                },
+                "public-beta": {
+                    "gid": "2292058323533949756",
+                    "size": "22741981",
+                    "download": "16724848"
+                }
+            },
+            "dlcappid": "2313550",
+            "decryptionkey": "da82ac8729e1fe259dfdd0201ec6c0844448797142f1a16ad4161057eb8666be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18794503",
+                "timeupdated": "1749726655"
+            },
+            "public-beta": {
+                "buildid": "18794503",
+                "description": "Public Beta",
+                "timeupdated": "1749481774"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
