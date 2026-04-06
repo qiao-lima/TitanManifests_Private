@@ -1,0 +1,29 @@
+{
+    "appid": 1780810,
+    "name": "Chill Corner - Live Wallpaper & Custom Music",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 08:14:21",
+    "change_number": 29799747,
+    "depot": {
+        "1780810": {
+            "manifests": {
+                "public": {
+                    "gid": "6637204907788586584",
+                    "size": "942272138",
+                    "download": "585641872"
+                }
+            },
+            "dlcappid": "1780810",
+            "decryptionkey": "3dce10832a4444af61ff0eda802b4ecbf214904b91d6d8aca9d8088caebc3e75"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18978590",
+                "timeupdated": "1750762452"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
