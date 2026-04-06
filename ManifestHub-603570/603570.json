@@ -1,0 +1,33 @@
+{
+    "appid": "603570",
+    "type": "Game",
+    "name": "Cowboy zombie",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23197953",
+    "update_time": "2024-08-14 19:23:42",
+    "depot": {
+        "603571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7369707305657491398",
+                    "size": "255822048",
+                    "download": "80581072"
+                }
+            },
+            "decryptionkey": "33f1b3364a85c32bc6b30a92b1e32cb88dc3600ca22bea016babf86dcfb82588"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1666609",
+                "timeupdated": "1488479850"
+            }
+        }
+    },
+    "access_token": 800467814293067154
+}
