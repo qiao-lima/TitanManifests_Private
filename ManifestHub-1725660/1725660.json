@@ -1,0 +1,112 @@
+{
+    "appid": 1725660,
+    "name": "Opus Castle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 23:16:27",
+    "change_number": 29670904,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1725661": {
+            "manifests": {
+                "public": {
+                    "gid": "4167678507987914538",
+                    "size": "7904357957",
+                    "download": "7655695904"
+                }
+            },
+            "decryptionkey": "d755b80ab7f9bae0f9e07bfadc52daf887a8974ba6f3f9a4ffb625ce43ac2b76"
+        },
+        "1793470": {
+            "dlcappid": "1793470",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8393702665711202969",
+                    "size": "520758290",
+                    "download": "518841216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3320990": {
+            "dlcappid": "3320990",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8614741027052903065",
+                    "size": "653568388",
+                    "download": "643680192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3654290": {
+            "dlcappid": "3654290",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7193807745499466387",
+                    "size": "369846238",
+                    "download": "368690000"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3654300": {
+            "dlcappid": "3654300",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6486456885311296887",
+                    "size": "403551508",
+                    "download": "401030064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3654310": {
+            "dlcappid": "3654310",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8977089645274632300",
+                    "size": "2957781245",
+                    "download": "2876746448"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18679366",
+                "timeupdated": "1748640665"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
