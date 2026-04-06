@@ -1,0 +1,37 @@
+{
+    "appid": "477980",
+    "type": "Game",
+    "name": "Overhell",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:10:58",
+    "depot": {
+        "477981": {
+            "manifests": {
+                "public": {
+                    "gid": "3792153434306677692",
+                    "size": "20704774",
+                    "download": "20873008"
+                },
+                "old_game": {
+                    "gid": "6917118953724370293",
+                    "size": "22026758",
+                    "download": "22198352"
+                }
+            },
+            "decryptionkey": "9cc64acf895dd2758fe0f8413138e55a5cf81ed6274c21350900efaa358b9148"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1251712",
+                "timeupdated": "1469784547"
+            },
+            "old_game": {
+                "buildid": "1231493",
+                "timeupdated": "1468761915"
+            }
+        }
+    },
+    "access_token": 12795457190711902739
+}
