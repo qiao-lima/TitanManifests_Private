@@ -1,0 +1,45 @@
+{
+    "appid": 1365410,
+    "name": "My Universe - Fashion Boutique",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 05:23:40",
+    "change_number": 29246308,
+    "depot": {
+        "1365411": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1007582983476601686",
+                    "size": "1294879216",
+                    "download": "629644176"
+                }
+            },
+            "decryptionkey": "2a2f8f83b7a31ee378e56e2e5360c15250398e0efd584c171848b25b8228060d"
+        },
+        "1365412": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1753980173506527170",
+                    "size": "876327572",
+                    "download": "731728864"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5794600",
+                "timeupdated": "1605706929"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
