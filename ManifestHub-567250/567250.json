@@ -1,0 +1,28 @@
+{
+    "appid": "567250",
+    "type": "Game",
+    "name": "Cat Goes Platform",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:18:58",
+    "depot": {
+        "567251": {
+            "manifests": {
+                "public": {
+                    "gid": "5173592540686815514",
+                    "size": "278603690",
+                    "download": "280661920"
+                }
+            },
+            "decryptionkey": "95be5e26b4a546ebe6227dfba9e9686d3483db13222308d229005fbfde475de0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1699056",
+                "timeupdated": "1489772435"
+            }
+        }
+    },
+    "access_token": 18266396214907085522
+}
