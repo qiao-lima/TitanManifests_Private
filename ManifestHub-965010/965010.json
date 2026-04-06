@@ -1,0 +1,42 @@
+{
+    "appid": 965010,
+    "name": "Trinoline",
+    "type": "Game",
+    "schinese_name": "特里诺兰",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 14:11:55",
+    "change_number": 30035681,
+    "depot": {
+        "965011": {
+            "manifests": {
+                "public": {
+                    "gid": "945350430667904712",
+                    "size": "6188138622",
+                    "download": "6217424544"
+                }
+            },
+            "decryptionkey": "b52e727da2f1b0e967c6a17f180b1d8f3fd2049663c71d7d5d2fb15f15bbdb21"
+        },
+        "965012": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7894075601972916096",
+                    "size": "6669138897",
+                    "download": "6450122544"
+                }
+            },
+            "decryptionkey": "782a7e4fbee43da0017c7b5a6abd588bec9c17a9871d5304fae68b570594c53e"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18581134",
+                "timeupdated": "1748403547"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
