@@ -1,0 +1,27 @@
+{
+    "appid": 1383630,
+    "name": "Antarctica 88",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 02:56:23",
+    "change_number": 29833983,
+    "depot": {
+        "1383631": {
+            "manifests": {
+                "public": {
+                    "gid": "7153226624910366671",
+                    "size": "735167536",
+                    "download": "320786464"
+                }
+            },
+            "decryptionkey": "77bb7191440a6d4af93a5c978967d21a51e33f78ba0ca0cfc45739289a8da17c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5605222",
+                "timeupdated": "1601295421"
+            }
+        }
+    }
+}
