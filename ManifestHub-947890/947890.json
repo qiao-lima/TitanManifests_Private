@@ -1,0 +1,39 @@
+{
+    "appid": 947890,
+    "name": "VirtualCast",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-26 07:04:25",
+    "change_number": 29756230,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "japanese",
+        "947893": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5062509660503319629",
+                    "size": "1260859643",
+                    "download": "584215904"
+                }
+            },
+            "decryptionkey": "8483c249bcafb64c02f868673d0a7eede0bf7993e5c8f573011046870df1760c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18994223",
+                "timeupdated": "1750917859"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
