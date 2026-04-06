@@ -1,0 +1,30 @@
+{
+    "appid": 1770600,
+    "name": "Long and Hard... Summer!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 19:31:38",
+    "change_number": 30037902,
+    "depot": {
+        "1770601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8489158283531478425",
+                    "size": "568087041",
+                    "download": "491555856"
+                }
+            },
+            "decryptionkey": "1511a10b29c673a116079523099650cb316d1e66d0b817641711bd8e2c6ed2d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11234685",
+                "timeupdated": "1722454978"
+            }
+        }
+    }
+}
