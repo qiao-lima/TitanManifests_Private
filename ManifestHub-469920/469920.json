@@ -1,0 +1,111 @@
+{
+    "appid": 469920,
+    "name": "hackmud",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 03:11:59",
+    "change_number": 30032347,
+    "depot": {
+        "469921": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2248184476399604364",
+                    "size": "203835151",
+                    "download": "127770608"
+                },
+                "edge": {
+                    "gid": "2248184476399604364",
+                    "size": "203835151",
+                    "download": "127770608"
+                }
+            },
+            "decryptionkey": "300113f53a251a9a4552cb02e8a664944c6f26912974716ebcba5a731ca5b4e3"
+        },
+        "469924": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9057338686374219837",
+                    "size": "191736575",
+                    "download": "124208352"
+                },
+                "edge": {
+                    "gid": "9057338686374219837",
+                    "size": "191736575",
+                    "download": "124208352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "469922": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "288863022811785774",
+                    "size": "187391316",
+                    "download": "124758560"
+                },
+                "edge": {
+                    "gid": "288863022811785774",
+                    "size": "187391316",
+                    "download": "124758560"
+                }
+            }
+        },
+        "469923": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1022278313003020305",
+                    "size": "243728779",
+                    "download": "138310768"
+                },
+                "edge": {
+                    "gid": "1022278313003020305",
+                    "size": "243728779",
+                    "download": "138310768"
+                }
+            }
+        },
+        "571220": {
+            "dlcappid": "571220",
+            "manifests": {
+                "public": {
+                    "gid": "3936392980416181034",
+                    "size": "188541436",
+                    "download": "188975184"
+                },
+                "edge": {
+                    "gid": "3936392980416181034",
+                    "size": "188541436",
+                    "download": "188975184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18932761",
+                "timeupdated": "1750439549"
+            },
+            "edge": {
+                "buildid": "18932761",
+                "timeupdated": "1750376502"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
