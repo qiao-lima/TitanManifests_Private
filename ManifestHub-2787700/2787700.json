@@ -1,0 +1,28 @@
+{
+    "appid": "2787700",
+    "type": "Game",
+    "name": "Kemono Heroes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28526571",
+    "update_time": "2025-04-17 18:13:25",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2787701": {
+            "manifests": {
+                "public": {
+                    "gid": "4186953244066239813",
+                    "size": "1382295762",
+                    "download": "223608896"
+                }
+            },
+            "decryptionkey": "a5c0c6ce33ba8b9c8865f8e915cae3fd143e9e99f0d76f80947c5ba8131c4f4f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18142370",
+                "timeupdated": "1744884798"
+            }
+        }
+    }
+}
