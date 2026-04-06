@@ -1,0 +1,44 @@
+{
+    "appid": "621530",
+    "type": "Game",
+    "name": "One Star",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "21117169",
+    "update_time": "2024-08-14 19:26:23",
+    "depot": {
+        "621531": {
+            "config": {
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2734225457813935092",
+                    "size": "138065172",
+                    "download": "67274896"
+                }
+            },
+            "decryptionkey": "c09aa9b0b78d81f593ec92a5c5f108917751f23238c02661212579d57ecad8e8"
+        },
+        "621532": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1326749606041844673",
+                    "size": "167871736",
+                    "download": "74081680"
+                }
+            },
+            "decryptionkey": "5935b95dc3fa7d31005529be0805aa2c5843fec218ea6e1a74e483de7f345572"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1744017",
+                "timeupdated": "1491692488"
+            }
+        }
+    },
+    "access_token": 15173420732847359270
+}
