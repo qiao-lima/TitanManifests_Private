@@ -1,0 +1,32 @@
+{
+    "appid": "3228180",
+    "type": "Game",
+    "name": "Click Mage",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28630912",
+    "update_time": "2025-04-24 05:15:10",
+    "depot": {
+        "baselanguages": "",
+        "3228181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7191687618428690918",
+                    "size": "581697890",
+                    "download": "110884208"
+                }
+            },
+            "decryptionkey": "bfdbd64a77edbb619c3b3122f2c9002d6f542b240425b3563aa93e2d0e74235e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17762914",
+                "timeupdated": "1742289104"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
