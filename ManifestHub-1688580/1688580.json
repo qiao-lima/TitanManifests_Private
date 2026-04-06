@@ -1,0 +1,28 @@
+{
+    "appid": 1688580,
+    "name": "A YEAR OF SPRINGS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 11:58:37",
+    "change_number": 29297123,
+    "depot": {
+        "1688581": {
+            "manifests": {
+                "public": {
+                    "gid": "207552851141670331",
+                    "size": "293990992",
+                    "download": "128164144"
+                }
+            },
+            "decryptionkey": "b411798dd4ab83a8e00037c8b57656cb87497bc471180f536546690ef53ee9d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18674482",
+                "timeupdated": "1748663632"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
