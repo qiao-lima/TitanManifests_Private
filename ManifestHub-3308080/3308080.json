@@ -1,0 +1,28 @@
+{
+    "appid": 3308080,
+    "name": "RPG Maker MZ - KR Legendary Palaces - Vampire Tileset",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:51:14",
+    "change_number": 26201212,
+    "depot": {
+        "3308080": {
+            "manifests": {
+                "public": {
+                    "gid": "1196639521746926940",
+                    "size": "8859262",
+                    "download": "3708240"
+                }
+            },
+            "dlcappid": "3308080",
+            "decryptionkey": "c141c6fc33a5bcd2f2866830d6c0d752c2c6d22a9062ec130ff622bf2a791c1a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16210310",
+                "timeupdated": "1730142340"
+            }
+        }
+    }
+}
