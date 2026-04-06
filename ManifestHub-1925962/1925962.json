@@ -1,0 +1,28 @@
+{
+    "appid": 1925962,
+    "name": "RPG Maker MZ - Meal Time Tileset - Modern edition",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:49:23",
+    "change_number": 26201212,
+    "depot": {
+        "1925962": {
+            "manifests": {
+                "public": {
+                    "gid": "7399925046634874112",
+                    "size": "943346",
+                    "download": "925696"
+                }
+            },
+            "dlcappid": "1925962",
+            "decryptionkey": "dab1312527c61a0a3087126e5f6911612b63335d9841275dae5182c05c4add72"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8330564",
+                "timeupdated": "1647478543"
+            }
+        }
+    }
+}
