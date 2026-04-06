@@ -1,0 +1,32 @@
+{
+    "appid": 2605470,
+    "name": "CUSTOM ORDER MAID 3D2 Overbearing and preppy girl maid GP-02",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:17:42",
+    "change_number": 26201212,
+    "depot": {
+        "2605471": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5524113308894808503",
+                    "size": "1129899117",
+                    "download": "364956960"
+                }
+            },
+            "dlcappid": "2605470",
+            "decryptionkey": "08ad566e67f0c4eb4883de1a7311f52471b6e449fc39379f7d413337d41b4221"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12271811",
+                "timeupdated": "1695622928"
+            }
+        }
+    }
+}
