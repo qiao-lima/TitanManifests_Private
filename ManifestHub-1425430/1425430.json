@@ -1,0 +1,30 @@
+{
+    "appid": 1425430,
+    "name": "The Outer Worlds Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:12:10",
+    "change_number": 27543783,
+    "depot": {
+        "1425431": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7519777501223290928",
+                    "size": "337869709",
+                    "download": "326737856"
+                }
+            },
+            "decryptionkey": "16f7345094a515179560047721d15bb7530648a30cf9fc5095a49814474b9de3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5549808",
+                "timeupdated": "1600214906"
+            }
+        }
+    }
+}
