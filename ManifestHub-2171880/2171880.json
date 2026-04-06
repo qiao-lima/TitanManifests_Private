@@ -1,0 +1,47 @@
+{
+    "appid": 2171880,
+    "name": "Albatroz",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:03:42",
+    "change_number": 30216814,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2171881": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8843624704807388933",
+                    "size": "42243533489",
+                    "download": "19658391824"
+                }
+            },
+            "decryptionkey": "fdbb725b63c40c0f42638252833e0e0d39cb39473d6dd22bbe799b1563855c83"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19305312",
+                "timeupdated": "1753133047"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
