@@ -1,0 +1,44 @@
+{
+    "appid": 758370,
+    "name": "Through the Ages",
+    "type": "Game",
+    "schinese_name": "历史巨轮",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 10:05:29",
+    "change_number": 30128060,
+    "depot": {
+        "758371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6738688091805404928",
+                    "size": "227703012",
+                    "download": "138241248"
+                }
+            },
+            "decryptionkey": "5ccb8b392bad1b67001d96b3878dc4d87a2e8339a2b200f09aed5ca802bfc540"
+        },
+        "758372": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2771422175398053790",
+                    "size": "149714644",
+                    "download": "110772064"
+                }
+            },
+            "decryptionkey": "4976393a991ce51b21bf745708b94aa753426345662d35d2d31e6612aa4aa0fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18827015",
+                "timeupdated": "1749718267"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
