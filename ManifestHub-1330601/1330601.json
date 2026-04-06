@@ -1,0 +1,67 @@
+{
+    "appid": "1330601",
+    "type": "Music",
+    "name": "Serious Sam 4 Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-08-14 20:32:33",
+    "depot": {
+        "1330601": {
+            "manifests": {
+                "public": {
+                    "gid": "7625151393205303654",
+                    "size": "209494606",
+                    "download": "208792032"
+                }
+            },
+            "decryptionkey": "fe769b7965a5d85d019ca0fd6468e33566d5e46a97c444767d0200b895bd5822"
+        },
+        "1421270": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "467350258182456511",
+                    "size": "1113158045",
+                    "download": "1127258416"
+                }
+            },
+            "decryptionkey": "fb65ef7cb5bd084dc7eda482a88b48b719425454108543d65ce3d6a112b2f385"
+        },
+        "1421271": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1000382280801807599",
+                    "size": "1478799761",
+                    "download": "1454380160"
+                }
+            },
+            "decryptionkey": "2c9300c44ea15b6a6a760368c4a0f90a25c4f83d5e69a8c750011fe762ec417f"
+        },
+        "1421272": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "525597887555514304",
+                    "size": "482534578",
+                    "download": "474088448"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6426719",
+                "timeupdated": "1616515902"
+            }
+        }
+    },
+    "access_token": 3588476444239279310
+}
