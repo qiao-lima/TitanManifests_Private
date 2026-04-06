@@ -1,0 +1,47 @@
+{
+    "appid": 1504740,
+    "name": "Find Yourself",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 21:15:30",
+    "change_number": 30214079,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1504741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8022091888124105313",
+                    "size": "5256530253",
+                    "download": "5100181152"
+                }
+            },
+            "decryptionkey": "cbefeebc157ed50a96eee1c2d4c2221911fd79254367e8c7063481c4fee5ffb1"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19051659",
+                "timeupdated": "1751291614"
+            }
+        }
+    }
+}
