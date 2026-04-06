@@ -1,0 +1,45 @@
+{
+    "appid": 3106510,
+    "name": "Floor 9",
+    "type": "Game",
+    "schinese_name": "第9层",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 22:15:03",
+    "change_number": 29794942,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "3106511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8104559781049240631",
+                    "size": "545334216",
+                    "download": "228186992"
+                }
+            },
+            "decryptionkey": "ebc537e37ae52b3b8b0fba4afd15b18593ab6647728a4de4b0432010843130dc"
+        },
+        "3106512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2061786123823150390",
+                    "size": "557616399",
+                    "download": "216126880"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17696575",
+                "timeupdated": "1741855277"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
