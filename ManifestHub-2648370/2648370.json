@@ -1,0 +1,41 @@
+{
+    "appid": 2648370,
+    "name": "Before The Sun Rises",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 19:36:46",
+    "change_number": 30117101,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2648371": {
+            "manifests": {
+                "public": {
+                    "gid": "3564215562913376053",
+                    "size": "849712439",
+                    "download": "658876304"
+                }
+            },
+            "decryptionkey": "482f4e885379accfa7900edbb9c3c95388eab3aac6039934a44c54dd220a6e84"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13016080",
+                "timeupdated": "1703207604"
+            }
+        }
+    }
+}
