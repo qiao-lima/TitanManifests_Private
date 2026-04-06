@@ -1,0 +1,64 @@
+{
+    "appid": 2773280,
+    "name": "ANEURISM IV",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:23:16",
+    "change_number": 30215018,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2773281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1677949087624841417",
+                    "size": "1477678812",
+                    "download": "768514928"
+                },
+                "preview": {
+                    "gid": "1677949087624841417",
+                    "size": "1477678812",
+                    "download": "768514928"
+                }
+            },
+            "decryptionkey": "0baa8f9cbe5a1fc3fbe71857aafe65b90379e67019d61fda1e44205ad376e2ec"
+        },
+        "2773282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2701117279988739241",
+                    "size": "1442203116",
+                    "download": "772604656"
+                },
+                "preview": {
+                    "gid": "2701117279988739241",
+                    "size": "1442203116",
+                    "download": "772604656"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19032889",
+                "timeupdated": "1751104654"
+            },
+            "preview": {
+                "buildid": "19032889",
+                "description": " Public preview branch",
+                "timeupdated": "1751066689"
+            }
+        }
+    }
+}
