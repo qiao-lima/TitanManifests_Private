@@ -1,0 +1,31 @@
+{
+    "appid": "585580",
+    "type": "Game",
+    "name": "The Safeguard Garrison",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:21:13",
+    "depot": {
+        "585581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1089418213548924386",
+                    "size": "466548657",
+                    "download": "78370688"
+                }
+            },
+            "decryptionkey": "991f4993c61c6d08152bb9d57b39b3b347f91022b093a83ef6e1ddb6b9b46eed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1866563",
+                "timeupdated": "1496601936"
+            }
+        }
+    },
+    "access_token": 17945364230454527393
+}
