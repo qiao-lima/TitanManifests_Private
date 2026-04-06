@@ -1,0 +1,69 @@
+{
+    "appid": 1775490,
+    "name": "Slice & Dice",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-22 00:03:28",
+    "change_number": 29108026,
+    "depot": {
+        "1775491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4763518613403027202",
+                    "size": "161380158",
+                    "download": "122938656"
+                },
+                "local": {
+                    "gid": "6618448620814073396",
+                    "size": "191893918",
+                    "download": "154119728"
+                }
+            },
+            "decryptionkey": "28d97678dce1e4792d1d37f29e42d777a0b5ec6b8bbf6ec8357f69cb8688165a"
+        },
+        "1775492": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2653796323165545414",
+                    "size": "186391822",
+                    "download": "130163392"
+                }
+            },
+            "decryptionkey": "4fea2b792b9441b160b17b8c7a6942c490c0ef82b312083f45424247eee3ab5e"
+        },
+        "1775493": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1795594182061030090",
+                    "size": "176232839",
+                    "download": "130855040"
+                }
+            },
+            "decryptionkey": "b949545e9cb4aeb9a86ff1fdf9f1e83dc00841560b98c3df5dced4a49dbdebf1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18519589",
+                "timeupdated": "1747843403"
+            },
+            "local": {
+                "buildid": "12416679",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1697050193"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
