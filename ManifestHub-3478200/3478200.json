@@ -1,0 +1,30 @@
+{
+    "appid": 3478200,
+    "name": "Trilogy of the Moon",
+    "type": "Game",
+    "schinese_name": "月亮三部曲 (Trilogy of the Moon) ",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 08:52:33",
+    "change_number": 30144266,
+    "depot": {
+        "baselanguages": "english,koreana",
+        "hasdepotsindlc": "1",
+        "3478201": {
+            "manifests": {
+                "public": {
+                    "gid": "38066385038200383",
+                    "size": "10248591969",
+                    "download": "9255765568"
+                }
+            },
+            "decryptionkey": "03bb32be6195269cf7e30a1f0ba4207cf42c817b2d0c70f7eb87e9529c0875a5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19127865",
+                "timeupdated": "1751866218"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
