@@ -1,0 +1,39 @@
+{
+    "appid": 3359200,
+    "name": "All Aboard! The Train Defense Express",
+    "type": "Game",
+    "schinese_name": "All Aboard! 火车防御特快",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 04:12:03",
+    "change_number": 30032615,
+    "depot": {
+        "3359201": {
+            "manifests": {
+                "public": {
+                    "gid": "4595402676624118807",
+                    "size": "128538088",
+                    "download": "75080208"
+                },
+                "beta": {
+                    "gid": "4595402676624118807",
+                    "size": "128538088",
+                    "download": "75080208"
+                }
+            },
+            "decryptionkey": "24b2900992a8746f8861f4be9a7d2396ad60821dfbd2f62f906058befd5ca044"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19029381",
+                "timeupdated": "1751043726"
+            },
+            "beta": {
+                "buildid": "19029381",
+                "description": "Early beta testing new content, fixes, etc.",
+                "timeupdated": "1751043585"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
