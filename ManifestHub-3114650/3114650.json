@@ -1,0 +1,27 @@
+{
+    "appid": 3114650,
+    "name": "墙之恐惧: The Walls Still Stand",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 21:14:50",
+    "change_number": 29166324,
+    "depot": {
+        "3114651": {
+            "manifests": {
+                "public": {
+                    "gid": "3804647804336559567",
+                    "size": "1952628447",
+                    "download": "688667904"
+                }
+            },
+            "decryptionkey": "9101406f10ee55d5571496df799b19dafcc4188c9f277f09d0e33f4ca6e83c01"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15378197",
+                "timeupdated": "1723704960"
+            }
+        }
+    }
+}
