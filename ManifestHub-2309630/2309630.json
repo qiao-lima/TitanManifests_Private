@@ -1,0 +1,60 @@
+{
+    "appid": 2309630,
+    "name": "The Devilry Reservation",
+    "type": "Game",
+    "schinese_name": "恶魔保留地",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 18:26:32",
+    "change_number": 30191169,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2309631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1231556472371627650",
+                    "size": "313129111",
+                    "download": "147923152"
+                }
+            },
+            "decryptionkey": "b9d7925df347170c85d79032e956ae35036b28837fa20f55a3e982ca9c45096e"
+        },
+        "2309632": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4852104183859896352",
+                    "size": "423581323",
+                    "download": "155675776"
+                }
+            }
+        },
+        "2309633": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3401768913596303771",
+                    "size": "364697513",
+                    "download": "155002560"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19293909",
+                "timeupdated": "1753051580"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
