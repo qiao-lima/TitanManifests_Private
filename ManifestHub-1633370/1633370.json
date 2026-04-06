@@ -1,0 +1,45 @@
+{
+    "appid": 1633370,
+    "name": "Boat Crew",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 12:48:45",
+    "change_number": 29896940,
+    "depot": {
+        "baselanguages": "english",
+        "1633371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2756130339410031112",
+                    "size": "786243335",
+                    "download": "644431968"
+                },
+                "experimental": {
+                    "gid": "2756130339410031112",
+                    "size": "786243335",
+                    "download": "644431968"
+                }
+            },
+            "decryptionkey": "a1cb9a467238e14f3daa8d67086275cdd70ba6c65edee62f78a5d18e29220dd5"
+        },
+        "workshopdepot": "1633370",
+        "branches": {
+            "public": {
+                "buildid": "19107604",
+                "timeupdated": "1751629720"
+            },
+            "experimental": {
+                "buildid": "19107604",
+                "description": "Experimental",
+                "timeupdated": "1751629425"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
