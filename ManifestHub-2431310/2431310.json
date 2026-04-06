@@ -1,0 +1,41 @@
+{
+    "appid": 2431310,
+    "name": "ANYU",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 12:15:06",
+    "change_number": 30205125,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2431311": {
+            "manifests": {
+                "public": {
+                    "gid": "5680526478783898923",
+                    "size": "905104115",
+                    "download": "802596448"
+                }
+            },
+            "decryptionkey": "0f0bd05812e78e3d54cb02745a4bbef38c7ca33bf6421dae395b8e1b35961ddd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11687124",
+                "timeupdated": "1689188892"
+            }
+        }
+    }
+}
