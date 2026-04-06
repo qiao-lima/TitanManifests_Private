@@ -1,0 +1,34 @@
+{
+    "appid": 563750,
+    "name": "World Boxing Manager",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 12:14:04",
+    "change_number": 29679068,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "563751": {
+            "manifests": {
+                "public": {
+                    "gid": "4516391116572476526",
+                    "size": "666892242",
+                    "download": "74958064"
+                }
+            },
+            "decryptionkey": "4e12adad28c99dcc018ff64ad701326bbc24b1f16a79a7775b5ef3c6a12501d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3316354",
+                "timeupdated": "1542445231"
+            }
+        }
+    }
+}
