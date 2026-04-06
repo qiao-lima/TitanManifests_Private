@@ -1,0 +1,40 @@
+{
+    "appid": 3371100,
+    "name": "DJMAX RESPECT V - V LIBERTY II Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:27:45",
+    "change_number": 29731111,
+    "depot": {
+        "3371101": {
+            "manifests": {
+                "public": {
+                    "gid": "3445982635205711503",
+                    "size": "220695209",
+                    "download": "221243936"
+                }
+            },
+            "decryptionkey": "b9cfce1bdad0d8f7a0a78e04ddd0d0dee30aa496f7b80a2967067055f81f747a"
+        },
+        "3371102": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2229611850643792319",
+                    "size": "978324738",
+                    "download": "963601104"
+                }
+            },
+            "decryptionkey": "b8a8d734924c03bdf0fc7863b28951a4c8650536ddfe4eb4ef6c9cdc154f9846"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16831959",
+                "timeupdated": "1734936802"
+            }
+        }
+    }
+}
