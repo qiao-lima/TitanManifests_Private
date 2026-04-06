@@ -1,0 +1,31 @@
+{
+    "appid": 3434340,
+    "name": "Oblitus mortis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 20:11:36",
+    "change_number": 30075548,
+    "depot": {
+        "baselanguages": "english,french,spanish,portuguese,brazilian,latam",
+        "3434341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "640093935574314280",
+                    "size": "59016765",
+                    "download": "43679584"
+                }
+            },
+            "decryptionkey": "951d55fb1670c08c94e596f879320377f45817df1df0812ed5fa759ba8c38bb1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18519348",
+                "timeupdated": "1747665873"
+            }
+        }
+    }
+}
