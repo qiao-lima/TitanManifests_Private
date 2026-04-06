@@ -1,0 +1,38 @@
+{
+    "appid": 457710,
+    "name": "Road Madness",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:11:28",
+    "change_number": 29184255,
+    "depot": {
+        "457711": {
+            "manifests": {
+                "public": {
+                    "gid": "5742669346690297539",
+                    "size": "215266332",
+                    "download": "59794896"
+                }
+            },
+            "decryptionkey": "6d28320018b7f74e6820945befc6c497e43782dc8e82e047fb1fe91d5e070d05"
+        },
+        "491310": {
+            "manifests": {
+                "public": {
+                    "gid": "644748338193806841",
+                    "size": "4233083",
+                    "download": "4201632"
+                }
+            },
+            "dlcappid": "491310",
+            "decryptionkey": "970eb8473196e813ac040cc6e0f2c361eb9085b7a01c2a7f2bd14213ef3d17b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1179922",
+                "timeupdated": "1465905454"
+            }
+        }
+    }
+}
