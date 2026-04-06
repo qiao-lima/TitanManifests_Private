@@ -1,0 +1,55 @@
+{
+    "appid": 3122870,
+    "name": "Bythzkel Sombréa Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 04:33:17",
+    "change_number": 30102570,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "3122871": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2692116343614475243",
+                    "size": "2935502635",
+                    "download": "699803856"
+                }
+            },
+            "decryptionkey": "9a1c82cdfaf45e0049ba9ecb581a32e700380003bd7966daadfa0dfd9b9aad3a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19225208",
+                "timeupdated": "1752554500"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
