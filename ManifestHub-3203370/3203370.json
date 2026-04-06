@@ -1,0 +1,57 @@
+{
+    "appid": 3203370,
+    "name": "Ala Mobile",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 03:33:03",
+    "change_number": 30080787,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,japanese,portuguese,polish,dutch,brazilian,latam,indonesian",
+        "3203371": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3626194875408319493",
+                    "size": "1168171167",
+                    "download": "391871808"
+                }
+            }
+        },
+        "3203372": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9201975124234946337",
+                    "size": "1194995088",
+                    "download": "394917488"
+                }
+            }
+        },
+        "3203373": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3880938825921825693",
+                    "size": "1101105493",
+                    "download": "369785520"
+                }
+            },
+            "decryptionkey": "5b0a637543b83268c24a4c0b612ea57ca39e1da3ed4e29e7f139f330da94cf17"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19087607",
+                "timeupdated": "1751510989"
+            }
+        }
+    }
+}
