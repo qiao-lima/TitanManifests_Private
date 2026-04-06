@@ -1,0 +1,31 @@
+{
+    "appid": 1541850,
+    "name": "Endless Furry Clicker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 11:12:19",
+    "change_number": 30204086,
+    "depot": {
+        "1541851": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6399907558557866939",
+                    "size": "204521524",
+                    "download": "98936816"
+                }
+            },
+            "decryptionkey": "d6ae5e60cbb4995cb00ca1ce56847f5bda80d668caf27b682668389c785a5713"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19281392",
+                "timeupdated": "1752880577"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
