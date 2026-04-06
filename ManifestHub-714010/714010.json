@@ -1,0 +1,66 @@
+{
+    "appid": 714010,
+    "name": "Aimlabs",
+    "type": "Game",
+    "schinese_name": "瞄准实验室",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 19:54:50",
+    "change_number": 30212962,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "714010",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "714011": {
+            "manifests": {
+                "public": {
+                    "gid": "5613442949244039815",
+                    "size": "17732635083",
+                    "download": "7901215056"
+                },
+                "beta": {
+                    "gid": "6541160657659868857",
+                    "size": "17678715265",
+                    "download": "7831071072"
+                }
+            },
+            "decryptionkey": "b959968aba4c376652705a7f8697f75a1e4d94e7546548e2bb26d220cea76698"
+        },
+        "714013": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6236786288122970659",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "6236786288122970659",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19279714",
+                "timeupdated": "1753078181"
+            },
+            "beta": {
+                "buildid": "19178325",
+                "description": "beta test branch",
+                "timeupdated": "1752167193"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
