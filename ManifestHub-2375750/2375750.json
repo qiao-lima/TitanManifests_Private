@@ -1,0 +1,41 @@
+{
+    "appid": 2375750,
+    "name": "Railway Empire 2 - Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 07:55:00",
+    "change_number": 29756937,
+    "depot": {
+        "2375751": {
+            "manifests": {
+                "public": {
+                    "gid": "8071810704569483384",
+                    "size": "492648897",
+                    "download": "465720736"
+                }
+            },
+            "decryptionkey": "1e489f3223ccf9a9ad54bacc5d764963d5f0ef0f0ed5133ca95e37d613ee76b4"
+        },
+        "2375752": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "989194616501367806",
+                    "size": "2539284268",
+                    "download": "2120258080"
+                }
+            },
+            "decryptionkey": "404dd68a18096c611934f3d104ff1cc4c1141bff6b016cc334c33e2fb160de73"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18839091",
+                "timeupdated": "1750770023"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
