@@ -1,0 +1,44 @@
+{
+    "appid": 1436670,
+    "name": "Pumpkin Jack Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 11:55:05",
+    "change_number": 29841058,
+    "depot": {
+        "1436671": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5346506146351053727",
+                    "size": "75677040",
+                    "download": "73353168"
+                }
+            },
+            "decryptionkey": "f0129d23ad4fa1375adc29f3052f3509b81a3e2d102677ce4118445de2a372e0"
+        },
+        "1436672": {
+            "config": {
+                "highqualityaudio": "1",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "178557086002219794",
+                    "size": "1301386914",
+                    "download": "1045441424"
+                }
+            },
+            "decryptionkey": "a9c7be88eb7c930a6e9ce630cf09a5c5b9ef1663d218b725ff83a001291455a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5727058",
+                "timeupdated": "1603451423"
+            }
+        }
+    }
+}
