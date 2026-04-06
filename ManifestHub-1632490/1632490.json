@@ -1,0 +1,69 @@
+{
+    "appid": 1632490,
+    "name": "Shashingo: Learn Japanese with Photography",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 18:37:09",
+    "change_number": 29257648,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1632491": {
+            "manifests": {
+                "public": {
+                    "gid": "3358518960642909062",
+                    "size": "681769144",
+                    "download": "555537168"
+                },
+                "languages": {
+                    "gid": "3358518960642909062",
+                    "size": "681769144",
+                    "download": "555537168"
+                }
+            },
+            "decryptionkey": "f67f17999240ddd63123856692f5911adb7ba0e5736260647bd33a52435d6ed3"
+        },
+        "2392860": {
+            "dlcappid": "2392860",
+            "manifests": {
+                "public": {
+                    "gid": "4445778168521652976",
+                    "size": "155392",
+                    "download": "154816"
+                },
+                "languages": {
+                    "gid": "4445778168521652976",
+                    "size": "155392",
+                    "download": "154816"
+                }
+            },
+            "decryptionkey": "5acb0af525b78f8a7fdfa63d36cfa64dcb2c2b712572f50a5b85a4820906d12a"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18608528",
+                "timeupdated": "1748252819"
+            },
+            "languages": {
+                "buildid": "18608528",
+                "description": "Community translated languages beta",
+                "timeupdated": "1748252714"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
