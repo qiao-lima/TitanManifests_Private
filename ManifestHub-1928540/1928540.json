@@ -1,0 +1,87 @@
+{
+    "appid": 1928540,
+    "name": "Horticular",
+    "type": "Game",
+    "schinese_name": "园艺大师 Horticular",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:34:53",
+    "change_number": 30213546,
+    "depot": {
+        "workshopdepot": "1928540",
+        "1928541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "147351916204761211",
+                    "size": "364876812",
+                    "download": "147595280"
+                },
+                "test": {
+                    "gid": "6909692601866623596",
+                    "size": "354490782",
+                    "download": "139534576"
+                }
+            },
+            "decryptionkey": "a7961bda09e236dd8b36b9e45dcb0553b27e100162abcb0545f0f58ba1212474"
+        },
+        "1928542": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1205505245666171629",
+                    "size": "376000822",
+                    "download": "150975760"
+                },
+                "test": {
+                    "gid": "9009687255718712098",
+                    "size": "344670595",
+                    "download": "137642432"
+                }
+            },
+            "decryptionkey": "53db8f0fa281168f3a3f3d49926b13417355aea3e82ae1305618780423f6452e"
+        },
+        "1928543": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4550598921814270548",
+                    "size": "374090204",
+                    "download": "148233792"
+                }
+            }
+        },
+        "3421790": {
+            "dlcappid": "3421790",
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3236486145121132625",
+                    "size": "5086536",
+                    "download": "2362112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19333583",
+                "timeupdated": "1753298270"
+            },
+            "test": {
+                "buildid": "15878754",
+                "description": "Test branch for v1.1",
+                "timeupdated": "1727720008"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
