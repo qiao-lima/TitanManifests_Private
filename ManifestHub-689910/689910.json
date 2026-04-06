@@ -1,0 +1,90 @@
+{
+    "appid": 689910,
+    "name": "Another Lost Phone: Laura's Story",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:32:18",
+    "change_number": 29669271,
+    "depot": {
+        "689911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1428934087885329893",
+                    "size": "102924645",
+                    "download": "39250544"
+                },
+                "testchinese": {
+                    "gid": "1428934087885329893",
+                    "size": "102924645",
+                    "download": "39250544"
+                }
+            },
+            "decryptionkey": "3c455c8a8625f9645f470503cdfb004bd6fb2ef9d84f13d0f2e85354772bee74"
+        },
+        "689912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3903590415160669080",
+                    "size": "155436406",
+                    "download": "53164144"
+                },
+                "testchinese": {
+                    "gid": "3903590415160669080",
+                    "size": "155436406",
+                    "download": "53164144"
+                }
+            },
+            "decryptionkey": "64ffcc7f3e1d89cb5c4d2a6c16d97cc7961a01cfe326e52782c40bb43d4328cb"
+        },
+        "689913": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3310134447758281087",
+                    "size": "152323489",
+                    "download": "54296144"
+                },
+                "testchinese": {
+                    "gid": "3310134447758281087",
+                    "size": "152323489",
+                    "download": "54296144"
+                }
+            },
+            "decryptionkey": "46dec9c96b1f93208fdcb0a8f7472a0ecbd467bc4a1798840c4ec79a78f7ba1c"
+        },
+        "717630": {
+            "manifests": {
+                "public": {
+                    "gid": "6972128802412422295",
+                    "size": "429422519",
+                    "download": "433602160"
+                },
+                "testchinese": {
+                    "gid": "6972128802412422295",
+                    "size": "429422519",
+                    "download": "433602160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2774874",
+                "timeupdated": "1527610304"
+            },
+            "testchinese": {
+                "buildid": "2774874",
+                "timeupdated": "1526475465"
+            }
+        }
+    }
+}
