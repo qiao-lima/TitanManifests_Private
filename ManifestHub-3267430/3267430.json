@@ -1,0 +1,63 @@
+{
+    "appid": 3267430,
+    "name": "Last Remains",
+    "type": "Game",
+    "schinese_name": "遗骸",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 20:18:14",
+    "change_number": 29628525,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3267431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3825054337814105731",
+                    "size": "25129886184",
+                    "download": "22055567680"
+                },
+                "development": {
+                    "gid": "6608583073362536425",
+                    "size": "25129885904",
+                    "download": "22055578928"
+                }
+            },
+            "decryptionkey": "7f4f1fa469c4bc63de14ff6f56c50c25a958287221d8029fd049c8b653da24d4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18893643",
+                "timeupdated": "1750145285"
+            },
+            "development": {
+                "buildid": "18836562",
+                "description": "Development version for internal testing",
+                "timeupdated": "1749712838"
+            }
+        }
+    }
+}
