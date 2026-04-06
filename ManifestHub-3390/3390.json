@@ -1,0 +1,28 @@
+{
+    "appid": "3390",
+    "type": "Game",
+    "name": "Feeding Frenzy 2: Shipwreck Showdown Deluxe",
+    "schinese_name": "吞食鱼2",
+    "isfreeapp": "0",
+    "change_number": "28969249",
+    "update_time": "2025-05-14 06:21:45",
+    "depot": {
+        "3391": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4846223393322219002",
+                    "size": "21082939",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7dc003180be558f3af5c201bade330909be77d0ffff337d8a28c08768c7bf44e"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "10688"
+            }
+        }
+    }
+}
