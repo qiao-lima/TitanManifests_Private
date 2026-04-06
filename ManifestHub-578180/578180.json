@@ -1,0 +1,35 @@
+{
+    "appid": "578180",
+    "type": "Game",
+    "name": "Lost Base Escape",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 19:20:02",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "578181": {
+            "manifests": {
+                "public": {
+                    "gid": "4471310501393292764",
+                    "size": "432414768",
+                    "download": "174159424"
+                }
+            },
+            "decryptionkey": "69933d9c033d52ceb65ac98f172f0dc9c960e26f38c27741a9101a64ad0518c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1553025",
+                "timeupdated": "1483632959"
+            }
+        }
+    },
+    "access_token": 6403222980665210390
+}
