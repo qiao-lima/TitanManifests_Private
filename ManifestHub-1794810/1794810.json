@@ -1,0 +1,34 @@
+{
+    "appid": 1794810,
+    "name": "Myth of Empires Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 07:01:30",
+    "change_number": 29780478,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1794811": {
+            "manifests": {
+                "public": {
+                    "gid": "52420973479590735",
+                    "size": "9994225651",
+                    "download": "8100033712"
+                }
+            },
+            "decryptionkey": "995f1feb66b02ba661048be931face47ce493238e3af232eac70f28bb161c486"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19008341",
+                "timeupdated": "1751004085"
+            }
+        }
+    }
+}
