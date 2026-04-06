@@ -1,0 +1,28 @@
+{
+    "appid": 776530,
+    "name": "DYNASTY WARRIORS 9:Season Pass/真・三國無双８:シーズンパス",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:04",
+    "change_number": 26201212,
+    "depot": {
+        "776530": {
+            "manifests": {
+                "public": {
+                    "gid": "2707467272273053159",
+                    "size": "98464",
+                    "download": "57376"
+                }
+            },
+            "dlcappid": "776530",
+            "decryptionkey": "95a02a65c2a411225aa20e646c17a50358fcb0cabc60348896aa0ed14254227e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2446921",
+                "timeupdated": "1516251609"
+            }
+        }
+    }
+}
