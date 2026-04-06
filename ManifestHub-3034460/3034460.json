@@ -1,0 +1,60 @@
+{
+    "appid": 3034460,
+    "name": "Kurisu",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 07:52:53",
+    "change_number": 30152528,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,russian,japanese",
+        "3034461": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1991558776486822563",
+                    "size": "521184854",
+                    "download": "158495168"
+                }
+            }
+        },
+        "3034463": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5269983041203701566",
+                    "size": "385762474",
+                    "download": "118515632"
+                }
+            },
+            "decryptionkey": "fd983c6514d92da8b503b4ac971161da96e06c62b8ec5477250b3d221e1cdf3f"
+        },
+        "3034462": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2247403334972050984",
+                    "size": "368811448",
+                    "download": "110054880"
+                }
+            }
+        },
+        "workshopdepot": "3034460",
+        "branches": {
+            "public": {
+                "buildid": "18755299",
+                "timeupdated": "1749149166"
+            }
+        },
+        "workshopdepotdecryptionkey": "a26844792eed4752897105ad0e047021996996ea94afc03e32987068c27cb541"
+    }
+}
