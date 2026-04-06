@@ -1,0 +1,28 @@
+{
+    "appid": 2027300,
+    "name": "RUUUUUUN",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:56:10",
+    "change_number": 29683740,
+    "depot": {
+        "2027301": {
+            "manifests": {
+                "public": {
+                    "gid": "8831045884271468342",
+                    "size": "15520161",
+                    "download": "8896288"
+                }
+            },
+            "decryptionkey": "afdcaa476f555d82e9ce7933a34f38f6ce9b581a91d5901ebb62a93b0b64659f"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "8905487",
+                "timeupdated": "1654793047"
+            }
+        }
+    }
+}
