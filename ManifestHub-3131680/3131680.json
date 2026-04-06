@@ -1,0 +1,29 @@
+{
+    "appid": 3131680,
+    "name": "Stardust Skate",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 07:24:54",
+    "change_number": 29811390,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3131681": {
+            "manifests": {
+                "public": {
+                    "gid": "4440382781806269832",
+                    "size": "272884526",
+                    "download": "171725200"
+                }
+            },
+            "decryptionkey": "fdfcb50336600c43ec6da7c73fa47f784aaa9f2805fb108f6d8273264e188d92"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17949959",
+                "timeupdated": "1743597012"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
