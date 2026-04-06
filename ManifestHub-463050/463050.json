@@ -1,0 +1,32 @@
+{
+    "appid": "463050",
+    "type": "Game",
+    "name": "The Pit And The Pendulum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26817481",
+    "update_time": "2024-12-30 21:39:34",
+    "depot": {
+        "463051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2186205925287584467",
+                    "size": "114801248",
+                    "download": "69139920"
+                }
+            },
+            "decryptionkey": "9a856a9c40754831552bd1d86d9b556619b6d40bbdffe0510845306f41f10e75"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "1109907",
+                "timeupdated": "1462374627"
+            }
+        }
+    },
+    "access_token": 15206625229517761288
+}
