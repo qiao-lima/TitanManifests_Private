@@ -1,0 +1,90 @@
+{
+    "appid": 2812450,
+    "name": "Tiny Garden",
+    "type": "Game",
+    "schinese_name": "手提菜园",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 11:23:03",
+    "change_number": 30204296,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "2812451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3830105530065370137",
+                    "size": "1416150623",
+                    "download": "490570832"
+                }
+            },
+            "decryptionkey": "92971f4b75b3fdfcd20b47058bcc1355587bf47f8d0dde109c5d19a73d2fe192"
+        },
+        "2812452": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1491208372279432088",
+                    "size": "1416171344",
+                    "download": "489766800"
+                }
+            }
+        },
+        "2812453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3280279212230867739",
+                    "size": "1505178841",
+                    "download": "510818096"
+                }
+            }
+        },
+        "3493700": {
+            "dlcappid": "3493700",
+            "manifests": {
+                "public": {
+                    "gid": "286172990771027038",
+                    "size": "11844288",
+                    "download": "9193840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3623570": {
+            "dlcappid": "3623570",
+            "manifests": {
+                "public": {
+                    "gid": "3569204743356337756",
+                    "size": "11317274",
+                    "download": "9971072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3823710": {
+            "dlcappid": "3823710",
+            "manifests": {
+                "public": {
+                    "gid": "5932221360332499302",
+                    "size": "103451824",
+                    "download": "34369984"
+                }
+            },
+            "decryptionkey": "03d39c8de6a3f8c4a2f8980e7a8d0b71b24d5e0a27d63c9c8d1c9502042f9986"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19172510",
+                "timeupdated": "1752749892"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
