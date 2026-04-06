@@ -1,0 +1,46 @@
+{
+    "appid": 1799570,
+    "name": "Maverta",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 10:11:40",
+    "change_number": 29945886,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1799571": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3560447782893845713",
+                    "size": "85431536",
+                    "download": "31604912"
+                }
+            },
+            "decryptionkey": "246d57f4db74f3fe41fe0b9abce57ea0700572c69a89ea4a1b3e7a47b7e6e75a"
+        },
+        "1799572": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8310771666623801570",
+                    "size": "108609424",
+                    "download": "38793072"
+                }
+            },
+            "decryptionkey": "325b0d9145c2a0d4f0ab00532e42521965fcd455006127da5ef0bf4b5ae0ac09"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7650899",
+                "timeupdated": "1635954778"
+            }
+        }
+    }
+}
