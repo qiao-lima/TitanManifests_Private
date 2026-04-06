@@ -1,0 +1,53 @@
+{
+    "appid": 2273980,
+    "name": "Orcs Must Die! Deathtrap",
+    "type": "Game",
+    "schinese_name": "兽人必须死! 死亡陷阱",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:18:06",
+    "change_number": 30212461,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2273981": {
+            "manifests": {
+                "public": {
+                    "gid": "2455786590240333588",
+                    "size": "16200731485",
+                    "download": "10664933360"
+                },
+                "local": {
+                    "gid": "1225206318473097558",
+                    "size": "16744529506",
+                    "download": "11010006400"
+                }
+            },
+            "decryptionkey": "179ec5c394c5940b45918894a57184084765edbab18b181584b305b0e9d917a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18831311",
+                "timeupdated": "1749747335"
+            },
+            "local": {
+                "buildid": "19326990",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1753263764"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
