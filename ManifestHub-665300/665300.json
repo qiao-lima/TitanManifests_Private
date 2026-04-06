@@ -1,0 +1,68 @@
+{
+    "appid": 665300,
+    "name": "Stream Avatars",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 10:26:27",
+    "change_number": 30144880,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "665300",
+        "665301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7977473417291090922",
+                    "size": "220060524",
+                    "download": "53407600"
+                },
+                "beta--3": {
+                    "gid": "7977473417291090922",
+                    "size": "220060524",
+                    "download": "53407600"
+                }
+            },
+            "decryptionkey": "3dcf4555a8f4a9b92f642d2de7e8b125fd06f8455d560852c4bedf7a808dc8c8"
+        },
+        "665302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9150578862436992085",
+                    "size": "243173781",
+                    "download": "63217840"
+                },
+                "beta--3": {
+                    "gid": "9150578862436992085",
+                    "size": "243173781",
+                    "download": "63217840"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19284487",
+                "timeupdated": "1752917158"
+            },
+            "beta--3": {
+                "buildid": "19284487",
+                "description": "hotkeys",
+                "timeupdated": "1752917169"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c1adf8f82b12c705f3d252b8ce2ce92a12dc3ac81b3229a45fb0817489ca01a5"
+    }
+}
