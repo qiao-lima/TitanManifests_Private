@@ -1,0 +1,51 @@
+{
+    "appid": 1222210,
+    "name": "Extremely Realistic Siege Warfare Simulator",
+    "type": "Game",
+    "schinese_name": "超逼真的攻城模拟器",
+    "isfreeapp": 1,
+    "update_time": "2025-07-20 06:25:56",
+    "change_number": 30152174,
+    "depot": {
+        "workshopdepot": "1222210",
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1222211": {
+            "config": {
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7869599097699923788",
+                    "size": "2660702853",
+                    "download": "1242722016"
+                }
+            },
+            "decryptionkey": "27572203026f59c1b4f19745987f1f1358d36c7da909806d65d0d2b1dcc7b9d5"
+        },
+        "1222212": {
+            "config": {
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7897618692964522395",
+                    "size": "2660702853",
+                    "download": "1242661984"
+                }
+            },
+            "decryptionkey": "64acff0e927c47f9e3e081df3b62aff70168f85264154c67b83965ed713109dd"
+        },
+        "3646980": {
+            "dlcappid": "3646980"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18399645",
+                "timeupdated": "1746781650"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6c628697cfa7fdc05b6d63dea7c513c99061ee5e8155fa78f74b29c67f1c60f3"
+    }
+}
