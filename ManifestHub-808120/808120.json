@@ -1,0 +1,31 @@
+{
+    "appid": 808120,
+    "name": "Anark.io",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 19:00:44",
+    "change_number": 29973525,
+    "depot": {
+        "808121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4683560876523389928",
+                    "size": "306998327",
+                    "download": "36794384"
+                }
+            },
+            "decryptionkey": "875b32599caa1a6d8846c504057bf16c88ccae8d2ad509385a7abf84cba48836"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2576366",
+                "timeupdated": "1520248090"
+            }
+        }
+    }
+}
