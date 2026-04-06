@@ -1,0 +1,56 @@
+{
+    "appid": 2454140,
+    "name": "Bichito Clicker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 04:26:36",
+    "change_number": 29269431,
+    "depot": {
+        "baselanguages": "english,latam",
+        "hasdepotsindlc": "0",
+        "2454141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7054265141938060901",
+                    "size": "545106017",
+                    "download": "407719200"
+                }
+            },
+            "decryptionkey": "66d287306069ea73c45b34a39828352be4ab115b627d7da0399540d113467026"
+        },
+        "2454142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "225813773266441753",
+                    "size": "2555341370",
+                    "download": "304696544"
+                }
+            }
+        },
+        "2454143": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1402545880242266238",
+                    "size": "2600514023",
+                    "download": "305555056"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18664176",
+                "timeupdated": "1748550389"
+            }
+        }
+    }
+}
