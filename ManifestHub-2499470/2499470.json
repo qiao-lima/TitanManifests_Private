@@ -1,0 +1,35 @@
+{
+    "appid": 2499470,
+    "name": "Pumping Simulator 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 12:53:21",
+    "change_number": 29841887,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2499471": {
+            "manifests": {
+                "public": {
+                    "gid": "8317215444559974023",
+                    "size": "7450140643",
+                    "download": "2268978160"
+                }
+            },
+            "decryptionkey": "ce51bb1be6fb214a9e0607240e38f892a836c472795de236e298e82261dc9f35"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18726702",
+                "timeupdated": "1749001196"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
