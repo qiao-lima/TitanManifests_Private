@@ -1,0 +1,28 @@
+{
+    "appid": 1224120,
+    "name": "Jerking Off In Class Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 01:00:40",
+    "change_number": 30121197,
+    "depot": {
+        "1224121": {
+            "manifests": {
+                "public": {
+                    "gid": "6587572070588924460",
+                    "size": "144778740",
+                    "download": "42418496"
+                }
+            },
+            "decryptionkey": "44640866ce8772968a1f1e6139a4de483b2176cfda7a7ccae52e5ecb4941ab7b"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "4857841",
+                "timeupdated": "1585954046"
+            }
+        }
+    }
+}
