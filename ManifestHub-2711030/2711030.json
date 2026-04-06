@@ -1,0 +1,28 @@
+{
+    "appid": 2711030,
+    "name": "Sugardew Island - Your cozy farm shop",
+    "type": "Game",
+    "schinese_name": "甘露岛 - 温馨的农场商店",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 10:42:19",
+    "change_number": 30183281,
+    "depot": {
+        "2711031": {
+            "manifests": {
+                "public": {
+                    "gid": "7358511199395526561",
+                    "size": "1564494741",
+                    "download": "916967680"
+                }
+            },
+            "decryptionkey": "0f306d09a4ddc220d66412aeecb4ae31445760a1dd1f8132a821f67a5dda744f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18941365",
+                "timeupdated": "1750430419"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
