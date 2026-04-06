@@ -1,0 +1,100 @@
+{
+    "appid": "1416260",
+    "type": "Game",
+    "name": "SpellForce 3: Versus Edition",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28987020",
+    "update_time": "2025-05-15 02:06:41",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,polish",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1416262": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5044997787201685228",
+                    "size": "146372036",
+                    "download": "55121040"
+                },
+                "publictest": {
+                    "gid": "3518023098191065825",
+                    "size": "146910932",
+                    "download": "54953920"
+                }
+            },
+            "decryptionkey": "b7d347592ba2491886539f1b60ea873031a2718bb59913845176686fbfeffec4"
+        },
+        "1416261": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4641159150390715040",
+                    "size": "45091996953",
+                    "download": "30148119168"
+                },
+                "publictest": {
+                    "gid": "7203616820566960520",
+                    "size": "45182451288",
+                    "download": "30156504896"
+                }
+            },
+            "decryptionkey": "3b47506058af9bb7b8a7d8afe36b6dd2dc96eb3cb9f6f2dc1f685c01c5742b31"
+        },
+        "1416264": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3320028288632249210",
+                    "size": "2609333511",
+                    "download": "1159162368"
+                },
+                "publictest": {
+                    "gid": "4955462386980615179",
+                    "size": "2537330206",
+                    "download": "1088571760"
+                }
+            },
+            "decryptionkey": "0cb70b51c7cbf77d58f5859fd3c4bd6f7000231699db6588e2b68ca4b331c228"
+        },
+        "workshopdepot": "1416260",
+        "branches": {
+            "public": {
+                "buildid": "9689653",
+                "timeupdated": "1665744689"
+            },
+            "publictest": {
+                "buildid": "13518087",
+                "description": "Public preview builds",
+                "timeupdated": "1709026457"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
