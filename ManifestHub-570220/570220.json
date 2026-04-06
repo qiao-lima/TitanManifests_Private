@@ -1,0 +1,28 @@
+{
+    "appid": 570220,
+    "name": "Farming Simulator 17 - KUHN Equipment Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 16:44:47",
+    "change_number": 29919581,
+    "depot": {
+        "570220": {
+            "manifests": {
+                "public": {
+                    "gid": "5966793930751246448",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "570220",
+            "decryptionkey": "7ec03110892ae1557b1ffa299f66b84e4efb93628c933ce564da0562b34e961f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1589892",
+                "timeupdated": "1485344444"
+            }
+        }
+    }
+}
