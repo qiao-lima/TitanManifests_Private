@@ -1,0 +1,40 @@
+{
+    "appid": 2215290,
+    "name": "我在终点线等你",
+    "type": "Game",
+    "schinese_name": "我在终点线等你",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:14:08",
+    "change_number": 28509341,
+    "depot": {
+        "baselanguages": "schinese",
+        "2215291": {
+            "manifests": {
+                "public": {
+                    "gid": "3589756270442950871",
+                    "size": "2248824936",
+                    "download": "2040232720"
+                }
+            },
+            "decryptionkey": "7313c7aec79aca287ab103b807e4e86eafc4f55f861df92e9341bb6d924e177f"
+        },
+        "2764330": {
+            "dlcappid": "2764330",
+            "manifests": {
+                "public": {
+                    "gid": "5910800602634983404",
+                    "size": "179789745",
+                    "download": "167632192"
+                }
+            },
+            "decryptionkey": "9ced9ad8a974d85d2244388863e90e1474ca9f54505f23207e6031f79534e5c4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18129676",
+                "timeupdated": "1744811457"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
