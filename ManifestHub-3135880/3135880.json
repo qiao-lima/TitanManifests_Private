@@ -1,0 +1,27 @@
+{
+    "appid": 3135880,
+    "name": "Dragon's Dog mother",
+    "type": "Game",
+    "schinese_name": "凡尔赛法环",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 16:35:20",
+    "change_number": 29971299,
+    "depot": {
+        "3135881": {
+            "manifests": {
+                "public": {
+                    "gid": "8216052093441182236",
+                    "size": "5184967979",
+                    "download": "2703995872"
+                }
+            },
+            "decryptionkey": "0238e37fba83b4350d82e529cbf967f66566fcc16718ffad0b2a439b72d7b35a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19162691",
+                "timeupdated": "1752075314"
+            }
+        }
+    }
+}
