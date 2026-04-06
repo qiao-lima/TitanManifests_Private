@@ -1,0 +1,42 @@
+{
+    "appid": 2235240,
+    "name": "TaskPals",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 05:08:57",
+    "change_number": 30041952,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2235242": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3732184214210308283",
+                    "size": "69051587",
+                    "download": "22173840"
+                }
+            },
+            "decryptionkey": "05046ec3d8b53df97b43dcb362c833686820df319204be4406e52290b345244b"
+        },
+        "workshopdepot": "2235240",
+        "branches": {
+            "public": {
+                "buildid": "18434764",
+                "timeupdated": "1747081565"
+            }
+        },
+        "workshopdepotdecryptionkey": "8b04e4855bb522830ec440fcd8dcd0833100d398135cd37e5c1998ec5b837d99"
+    }
+}
