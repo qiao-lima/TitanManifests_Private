@@ -1,0 +1,36 @@
+{
+    "appid": 1767730,
+    "name": "Crusade of Deitra",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 04:00:17",
+    "change_number": 29592227,
+    "depot": {
+        "workshopdepot": "1767730",
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1767731": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7908452340936412231",
+                    "size": "610235787",
+                    "download": "393582976"
+                }
+            },
+            "decryptionkey": "1ce4f0da6762fc3f4d372b002e792c2b8b24aaeb0b4d2a563d5bd167da39f33a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13067274",
+                "timeupdated": "1703967345"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
