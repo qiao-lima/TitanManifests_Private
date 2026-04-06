@@ -1,0 +1,43 @@
+{
+    "appid": 2345770,
+    "name": "SuperPantsu Tentikun",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 20:18:03",
+    "change_number": 29628519,
+    "depot": {
+        "2345771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1863425111166178307",
+                    "size": "631938943",
+                    "download": "424676608"
+                }
+            },
+            "decryptionkey": "c767b294525f2fe481b34278f8d88e684e7e87b9539fc80ab9091d31a3af7960"
+        },
+        "2345772": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8737060618154347925",
+                    "size": "676275567",
+                    "download": "426379824"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12963701",
+                "timeupdated": "1702571231"
+            }
+        }
+    }
+}
