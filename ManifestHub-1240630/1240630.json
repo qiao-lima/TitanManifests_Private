@@ -1,0 +1,147 @@
+{
+    "appid": 1240630,
+    "name": "Hex of Steel",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:15:32",
+    "change_number": 30213275,
+    "depot": {
+        "workshopdepot": "1240630",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1240631": {
+            "config": {
+                "oslist": "macos",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6359800704063015768",
+                    "size": "789754598",
+                    "download": "418664928"
+                },
+                "7.7.37": {
+                    "gid": "6359800704063015768",
+                    "size": "789754598",
+                    "download": "418664928"
+                },
+                "7.7.36": {
+                    "gid": "718598803750834440",
+                    "size": "791805829",
+                    "download": "417485120"
+                },
+                "6.8.4": {
+                    "gid": "7735080333194204145",
+                    "size": "711361134",
+                    "download": "341004128"
+                },
+                "legacy": {
+                    "gid": "8703257655725281422",
+                    "size": "437173613",
+                    "download": "302415248"
+                }
+            }
+        },
+        "1240632": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6874501232327465378",
+                    "size": "767129959",
+                    "download": "410721072"
+                },
+                "7.7.37": {
+                    "gid": "6874501232327465378",
+                    "size": "767129959",
+                    "download": "410721072"
+                },
+                "7.7.36": {
+                    "gid": "6748416278758904414",
+                    "size": "764986086",
+                    "download": "409564784"
+                },
+                "6.8.4": {
+                    "gid": "4911979795529455147",
+                    "size": "686707480",
+                    "download": "333264160"
+                },
+                "legacy": {
+                    "gid": "2287577995778974555",
+                    "size": "434642669",
+                    "download": "301013584"
+                }
+            },
+            "decryptionkey": "145e8828b6475849ba8e8f88369db6e0cbf10956ed3cee4faa53506fea3b4ab3"
+        },
+        "1240634": {
+            "config": {
+                "oslist": "linux",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4050691496880848785",
+                    "size": "767978584",
+                    "download": "409705216"
+                },
+                "7.7.37": {
+                    "gid": "4050691496880848785",
+                    "size": "767978584",
+                    "download": "409705216"
+                },
+                "7.7.36": {
+                    "gid": "5253903472799028209",
+                    "size": "765834711",
+                    "download": "408439216"
+                },
+                "6.8.4": {
+                    "gid": "8319632846233091047",
+                    "size": "687662709",
+                    "download": "332140208"
+                },
+                "legacy": {
+                    "gid": "1159452873780154053",
+                    "size": "435928401",
+                    "download": "300722336"
+                }
+            }
+        },
+        "1484260": {
+            "dlcappid": "1484260"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19333705",
+                "timeupdated": "1753298128"
+            },
+            "7.7.37": {
+                "buildid": "19333705",
+                "timeupdated": "1753298082"
+            },
+            "7.7.36": {
+                "buildid": "19162751",
+                "timeupdated": "1752075488"
+            },
+            "6.8.4": {
+                "buildid": "12187463",
+                "description": "Old UI, no localization",
+                "timeupdated": "1694687368"
+            },
+            "legacy": {
+                "buildid": "5919058",
+                "description": "Early Access version",
+                "timeupdated": "1607031973"
+            }
+        },
+        "workshopdepotdecryptionkey": "a7db2f189084e73a52271a79579d30ad2788b7086c399fe470fbce7904ce1e1e"
+    }
+}
