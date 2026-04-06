@@ -1,0 +1,29 @@
+{
+    "appid": 1956770,
+    "name": "M.O.O.D.S.",
+    "type": "Game",
+    "schinese_name": "机械觉醒",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 08:52:37",
+    "change_number": 30152825,
+    "depot": {
+        "1956771": {
+            "manifests": {
+                "public": {
+                    "gid": "3930214253991849817",
+                    "size": "3801808766",
+                    "download": "2587766736"
+                }
+            },
+            "decryptionkey": "b006456130ecd9204f6ac2683f82defa9effa298cfbad50ef7b6dec424d74446"
+        },
+        "baselanguages": "english,german,schinese,tchinese,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19257619",
+                "timeupdated": "1752832267"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
