@@ -1,0 +1,27 @@
+{
+    "appid": 306700,
+    "name": "Iron Fisticle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 08:11:43",
+    "change_number": 30033647,
+    "depot": {
+        "306701": {
+            "manifests": {
+                "public": {
+                    "gid": "8296173468495416431",
+                    "size": "79769808",
+                    "download": "58491920"
+                }
+            },
+            "decryptionkey": "45f2a8474d53391ace1b2f1fcec50a590ffa698941442e1b7e67429768673c67"
+        },
+        "branches": {
+            "public": {
+                "buildid": "528463"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
