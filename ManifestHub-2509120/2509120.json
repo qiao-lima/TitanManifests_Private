@@ -1,0 +1,39 @@
+{
+    "appid": 2509120,
+    "name": "AtmaSphere 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 02:52:30",
+    "change_number": 30159748,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "2509121": {
+            "manifests": {
+                "public": {
+                    "gid": "3137938461819246862",
+                    "size": "2323806678",
+                    "download": "770115840"
+                },
+                "beta": {
+                    "gid": "806929425840130624",
+                    "size": "2323759197",
+                    "download": "770032496"
+                }
+            },
+            "decryptionkey": "9f131b1dbfeaa72e13348dfe0df6023eaf38721fc7e8323d92858dba5e1e13c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18332547",
+                "timeupdated": "1746284213"
+            },
+            "beta": {
+                "buildid": "18269401",
+                "description": "beta",
+                "timeupdated": "1745866044"
+            }
+        }
+    }
+}
