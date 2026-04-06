@@ -1,0 +1,48 @@
+{
+    "appid": "1267790",
+    "type": "Game",
+    "name": "维度访问Resident of Dimension",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 20:28:26",
+    "depot": {
+        "baselanguages": "schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1267791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4181233466489254767",
+                    "size": "684273849",
+                    "download": "363518688"
+                }
+            },
+            "decryptionkey": "b49eb1c5f696ce4ec89a7ebcf9f8c4a0c9dccae0ffa7216176e23c0aefc5de61"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4767815",
+                "timeupdated": "1583960222"
+            }
+        }
+    },
+    "access_token": 9774670006143561759
+}
