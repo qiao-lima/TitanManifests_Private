@@ -1,0 +1,28 @@
+{
+    "appid": "1821320",
+    "type": "Game",
+    "name": "REX",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 17:54:48",
+    "depot": {
+        "1821321": {
+            "manifests": {
+                "public": {
+                    "gid": "2031056174660587623",
+                    "size": "70186446",
+                    "download": "35492944"
+                }
+            },
+            "decryptionkey": "58ecaaf16fd26f7650c4b96301e755e69c4d6bf0e3d95f16a291e9b922bca4a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7709424",
+                "timeupdated": "1636856834"
+            }
+        }
+    },
+    "access_token": 4297019172821880706
+}
