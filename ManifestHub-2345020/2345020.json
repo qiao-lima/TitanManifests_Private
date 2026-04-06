@@ -1,0 +1,27 @@
+{
+    "appid": 2345020,
+    "name": "Bee Island",
+    "type": "Game",
+    "schinese_name": "蜜蜂岛",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 21:47:30",
+    "change_number": 29921547,
+    "depot": {
+        "2345021": {
+            "manifests": {
+                "public": {
+                    "gid": "5283145604550428937",
+                    "size": "2154622116",
+                    "download": "718982704"
+                }
+            },
+            "decryptionkey": "1d9e6fed07e9306261af06dc9fa6432cdd93df234134b3ba3a9f12da6f8e5390"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19125074",
+                "timeupdated": "1751834843"
+            }
+        }
+    }
+}
