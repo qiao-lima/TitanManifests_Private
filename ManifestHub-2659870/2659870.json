@@ -1,0 +1,60 @@
+{
+    "appid": 2659870,
+    "name": "Tales of Virginia",
+    "type": "Game",
+    "schinese_name": "巴吉尼亚战记",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 11:55:27",
+    "change_number": 30184392,
+    "depot": {
+        "2659871": {
+            "config": {
+                "oslist": "windows",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3317989539927773824",
+                    "size": "394957593",
+                    "download": "365310304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2659872": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9201169348032786684",
+                    "size": "401521645",
+                    "download": "368143760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2659873": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5679760583063458545",
+                    "size": "443733405",
+                    "download": "414689232"
+                }
+            },
+            "decryptionkey": "cb01e1856cdff662e2694fd9dc2f653c9623125cedc8c066ffca1961fde30df7"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19313561",
+                "timeupdated": "1753181723"
+            }
+        }
+    }
+}
