@@ -1,0 +1,52 @@
+{
+    "appid": 3444050,
+    "name": "FIND ALL 6: Netherlands",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:24:57",
+    "change_number": 29526630,
+    "depot": {
+        "3444051": {
+            "manifests": {
+                "public": {
+                    "gid": "6795389119179851381",
+                    "size": "346154710",
+                    "download": "249890912"
+                }
+            },
+            "decryptionkey": "838a7d760107eaad2839c1590f9fcb6c69595879f26d9e5d19f6cc822208dd1f"
+        },
+        "3444052": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8062518342596162768",
+                    "size": "348330053",
+                    "download": "249413648"
+                }
+            }
+        },
+        "3444053": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7768918218910242748",
+                    "size": "370471168",
+                    "download": "257620544"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18674312",
+                "timeupdated": "1748610370"
+            }
+        }
+    }
+}
