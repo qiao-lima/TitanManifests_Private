@@ -1,0 +1,163 @@
+{
+    "appid": "330180",
+    "type": "Game",
+    "name": "Pix the Cat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28972020",
+    "update_time": "2025-05-14 10:27:45",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "0",
+        "330181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7343844733964860649",
+                    "size": "480401719",
+                    "download": "438474192"
+                }
+            },
+            "decryptionkey": "67bc979cd1fbb94d7b4022498118800f65d06764a0cfc33de7726d761770c286"
+        },
+        "330182": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3951572433901921956",
+                    "size": "480404837",
+                    "download": "422014160"
+                }
+            },
+            "decryptionkey": "71dd03050b39adec14371522edcb9d1e787547e3048d7ab2a4afa34969e84e11"
+        },
+        "330183": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8871676407410182915",
+                    "size": "595520147",
+                    "download": "509222384"
+                }
+            },
+            "decryptionkey": "eb4f8791c78c3fb7a931a11c62e87fbc64553c1f713400c6323952fb9a80fda7"
+        },
+        "330184": {
+            "config": {
+                "language": "french",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8083519256249702115",
+                    "size": "595524286",
+                    "download": "509211888"
+                }
+            },
+            "decryptionkey": "7b06dd41a0aceed623686c1cffb897eddd5f4957ea687ae67d03f43260bb9026"
+        },
+        "330185": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7758295061523723994",
+                    "size": "580346945",
+                    "download": "505635856"
+                }
+            },
+            "decryptionkey": "b65ebc99667eae2de5a61e4e8c33b29e3d43ea2337b8442cfa95de41964530ca"
+        },
+        "330186": {
+            "config": {
+                "language": "french",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8644254678944732577",
+                    "size": "580351084",
+                    "download": "505635856"
+                }
+            },
+            "decryptionkey": "f45d9e71a2397d037f802532bbffcbd7c57d891e8096101fd8e846f3f08568ca"
+        },
+        "330187": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5754586722433859105",
+                    "size": "480402724",
+                    "download": "422013440"
+                }
+            },
+            "decryptionkey": "b3b75b9fe64708e98e4214f6bd67dbc8c80f8066626133373915922a869c0a56"
+        },
+        "330188": {
+            "config": {
+                "language": "german",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4743647418795455953",
+                    "size": "595521174",
+                    "download": "509223248"
+                }
+            },
+            "decryptionkey": "582241f8aed2b634720dfe2049d9790094c6d36600621477940da69f74db7b66"
+        },
+        "330189": {
+            "config": {
+                "language": "german",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5308373549695001102",
+                    "size": "580347972",
+                    "download": "505635856"
+                }
+            },
+            "decryptionkey": "0dec09ded4bf52de22e6e6a2785afd34bdb69f3e5689de83a760f78594262ca1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "571428"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
