@@ -1,0 +1,36 @@
+{
+    "appid": 272860,
+    "name": "Wreckfest Throw-A-Santa + Sneak Peek 2.0",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 13:55:57",
+    "change_number": 29860646,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "272861": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "429434116226911346",
+                    "size": "840492247",
+                    "download": "816599264"
+                }
+            },
+            "decryptionkey": "ee9f330ce6af71aa06d5ff3c38e1402e11cbb84af087f91fa87144a767a1e575"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "911558"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
