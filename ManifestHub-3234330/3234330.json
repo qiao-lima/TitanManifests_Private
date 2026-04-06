@@ -1,0 +1,56 @@
+{
+    "appid": 3234330,
+    "name": "Ninja Ming",
+    "type": "Game",
+    "schinese_name": "忍者明",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 03:56:54",
+    "change_number": 29923928,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3234331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5766401513614332073",
+                    "size": "864768621",
+                    "download": "582688560"
+                }
+            },
+            "decryptionkey": "2ee543f15981748ad16c8f2cb3e289a09fc50fe32250d28e751a7478115146a8"
+        },
+        "3234332": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7228435484585527081",
+                    "size": "497434458",
+                    "download": "243160080"
+                }
+            }
+        },
+        "3234333": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6775016486869306557",
+                    "size": "441876902",
+                    "download": "225943136"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18432095",
+                "timeupdated": "1748325622"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
