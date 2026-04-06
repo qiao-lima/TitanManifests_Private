@@ -1,0 +1,49 @@
+{
+    "appid": 1556100,
+    "name": "Killer Klowns From Outer Space: The Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 19:20:50",
+    "change_number": 30137208,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1556101": {
+            "manifests": {
+                "public": {
+                    "gid": "1263057302840941765",
+                    "size": "15253659469",
+                    "download": "14560399360"
+                }
+            },
+            "decryptionkey": "655ed65b30e5ecd8a89b096ebbc51004a279894d4808674176db5c27e9297939"
+        },
+        "2376220": {
+            "dlcappid": "2376220",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18678984",
+                "timeupdated": "1748973631"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
