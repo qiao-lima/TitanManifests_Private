@@ -1,0 +1,31 @@
+{
+    "appid": "591950",
+    "type": "Game",
+    "name": "Zpeciation: Tough Days (TD)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-28 11:59:05",
+    "depot": {
+        "591951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5391506209382922631",
+                    "size": "1311569378",
+                    "download": "435424160"
+                }
+            },
+            "decryptionkey": "4002f6f0709947aab1ab008bea8670c40055f0520ad47bbb440b012030188dac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1947695",
+                "timeupdated": "1499612333"
+            }
+        }
+    },
+    "access_token": 13776478484242740057
+}
