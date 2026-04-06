@@ -1,0 +1,78 @@
+{
+    "appid": "629770",
+    "type": "Game",
+    "name": "Tiny Echo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28976041",
+    "update_time": "2025-05-14 22:40:18",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "629771": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8340691473448202405",
+                    "size": "2606887695",
+                    "download": "478500976"
+                }
+            },
+            "decryptionkey": "6bdfbb27eadef2f58174e9b49229286fbaf7fc3dab83975433b58724d1980cde"
+        },
+        "629772": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "618303704146328928",
+                    "size": "2618350021",
+                    "download": "480928432"
+                }
+            },
+            "decryptionkey": "6d38cbb58763f84b66b6e694e8d5c9a23b6c9e6ace9b51f68916dddcec39e692"
+        },
+        "629773": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "860457408937435855",
+                    "size": "2617434280",
+                    "download": "480906368"
+                }
+            },
+            "decryptionkey": "91635602066c29d3f8d1c2c791ffd04eabd1af807241ed73b1df6e9635950c02"
+        },
+        "629774": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1474104197086559599",
+                    "size": "2621730566",
+                    "download": "481716544"
+                }
+            },
+            "decryptionkey": "a7f596f13441c1bffc1f43196e7261b5e8f2974e28335dad9dc9cb5b38f977de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4750485",
+                "timeupdated": "1583501310"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
