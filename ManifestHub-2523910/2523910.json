@@ -1,0 +1,27 @@
+{
+    "appid": 2523910,
+    "name": "The Entrepreneur",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 11:46:28",
+    "change_number": 29917706,
+    "depot": {
+        "2523911": {
+            "manifests": {
+                "public": {
+                    "gid": "7679781238965573847",
+                    "size": "4922017964",
+                    "download": "4536852656"
+                }
+            },
+            "decryptionkey": "67e6c922170e8ab03e5bc77540eee6605cced7b1baa9ab3a1e167eb8b914a08f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18868719",
+                "timeupdated": "1749920795"
+            }
+        }
+    }
+}
