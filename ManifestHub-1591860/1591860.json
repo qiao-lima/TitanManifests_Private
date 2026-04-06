@@ -1,0 +1,39 @@
+{
+    "appid": "1591860",
+    "type": "Game",
+    "name": "审判者",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 07:29:24",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1591861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2756561833971363511",
+                    "size": "7858596582",
+                    "download": "7727775904"
+                }
+            },
+            "decryptionkey": "db872ff7996d8aed07cfb420caa8b7779d3c483c90dbe2cdab922929cb2d4909"
+        },
+        "1620660": {
+            "dlcappid": "1620660",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6628578",
+                "timeupdated": "1619856644"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 11986617622244280906
+}
