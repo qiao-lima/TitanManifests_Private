@@ -1,0 +1,28 @@
+{
+    "appid": 1748750,
+    "name": "Crystarise",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 04:14:00",
+    "change_number": 29715263,
+    "depot": {
+        "1748751": {
+            "manifests": {
+                "public": {
+                    "gid": "819352586341932317",
+                    "size": "3316555710",
+                    "download": "765413648"
+                }
+            },
+            "decryptionkey": "0dd8d1d2c2ce470c3b4a85848cf3041303b123c178c8c25b2a8be85dcf3b6a6c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18974471",
+                "timeupdated": "1750734835"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
