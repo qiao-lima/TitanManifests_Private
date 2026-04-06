@@ -1,0 +1,33 @@
+{
+    "appid": 883210,
+    "name": "Immortal: Unchained - Launch Bonus",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 01:59:16",
+    "change_number": 27015870,
+    "depot": {
+        "883211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "883210",
+            "manifests": {
+                "public": {
+                    "gid": "2589393251944669105",
+                    "size": "47545537",
+                    "download": "47814208"
+                }
+            },
+            "decryptionkey": "c3c07687a158e55b4158dc3196b637cc19af94a9a42d63673ec330579a387caf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4035857",
+                "timeupdated": "1563894057"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
