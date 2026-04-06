@@ -1,0 +1,71 @@
+{
+    "appid": 31180,
+    "name": "Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay ",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:24:01",
+    "change_number": 29292431,
+    "depot": {
+        "31182": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7327265052581776255",
+                    "size": "308586597",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b207e404c8c745152678ef4f493806d9d95355de7eaa63156008cef8fed7208c"
+        },
+        "31181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7798676751075063091",
+                    "size": "356987485",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "38f70daed8c8491e14090a3e97afc6877c09bc42cec83e8fd9675c4a3d207fca"
+        },
+        "31183": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7481420195781868041",
+                    "size": "276779388",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "173752aa41231d074211f46997fb43738b35df0a7a77431435ea90ba5e9edfe9"
+        },
+        "31184": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1833773547815408990",
+                    "size": "268493614",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ce5cf145385954724f6cbd23a5d5b2aae1a8ebea74d66f97d7add2d98a6ca51f"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "19260"
+            }
+        }
+    }
+}
