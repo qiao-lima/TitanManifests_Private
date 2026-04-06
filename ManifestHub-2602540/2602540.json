@@ -1,0 +1,30 @@
+{
+    "appid": 2602540,
+    "name": "Once Upon a Rogue's Tale",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 13:17:34",
+    "change_number": 30206035,
+    "depot": {
+        "2602541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7885687926942332010",
+                    "size": "2630840022",
+                    "download": "534257792"
+                }
+            },
+            "decryptionkey": "2d16d73285d5ae83fe659ddeae5142dd9eebd0e964de61cc2b5a8d5aabdf25cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19318375",
+                "timeupdated": "1753206826"
+            }
+        }
+    }
+}
