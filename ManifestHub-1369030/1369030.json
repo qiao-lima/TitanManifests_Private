@@ -1,0 +1,31 @@
+{
+    "appid": 1369030,
+    "name": "The Art of The Medium",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:32:37",
+    "change_number": 29108948,
+    "depot": {
+        "1369031": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1369030",
+            "manifests": {
+                "public": {
+                    "gid": "1280416061649095824",
+                    "size": "580498267",
+                    "download": "200838544"
+                }
+            },
+            "decryptionkey": "c146f31c1e0c15b5727a0ec1c5b0dd642c0cd5d0ab447ad8a7ee35adc15763e1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6064179",
+                "timeupdated": "1610359237"
+            }
+        }
+    }
+}
