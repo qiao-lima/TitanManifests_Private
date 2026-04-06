@@ -1,0 +1,39 @@
+{
+    "appid": 2426960,
+    "name": "Summoners War",
+    "type": "Game",
+    "schinese_name": "魔灵召唤: 天空之役",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 10:20:07",
+    "change_number": 30182886,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2426961": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1618634532220546616",
+                    "size": "2782443673",
+                    "download": "1443795264"
+                }
+            },
+            "decryptionkey": "36212b96b54cb5c2e81406a73668db6b59d7252c187030dc1ed00e8205856721"
+        },
+        "baselanguages": "english,koreana",
+        "branches": {
+            "public": {
+                "buildid": "19248169",
+                "timeupdated": "1752976849"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
