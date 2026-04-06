@@ -1,0 +1,50 @@
+{
+    "appid": 2262080,
+    "name": "Omega Crafter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 01:16:02",
+    "change_number": 30058503,
+    "depot": {
+        "2262083": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7399142329674094352",
+                    "size": "3184392982",
+                    "download": "2312112288"
+                }
+            },
+            "decryptionkey": "31daa42b8a98cf4b7dc0d1704fad5f2434fbed33a67a2b4f1fb73c7234b1428f"
+        },
+        "2262084": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5875153801790457456",
+                    "size": "3333793025",
+                    "download": "2350138448"
+                }
+            },
+            "decryptionkey": "69ce24428951530865315d2b67c7f9928ffff60926db53f1b1099d8ad89e61fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19150606",
+                "timeupdated": "1752538558"
+            },
+            "local": {
+                "buildid": "10773117",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1678869149"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
