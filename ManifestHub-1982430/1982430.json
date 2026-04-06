@@ -1,0 +1,46 @@
+{
+    "appid": 1982430,
+    "name": "Kunai Strike",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-16 03:15:27",
+    "change_number": 29576707,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1982431": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "706600059793226752",
+                    "size": "5206220792",
+                    "download": "4853578032"
+                }
+            },
+            "decryptionkey": "765f3fe16737d6b5f9caedbdc02e240ef71727aeedbbe718ddfa6d92a7585e23"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9132691",
+                "timeupdated": "1658249997"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
