@@ -1,0 +1,44 @@
+{
+    "appid": 2056200,
+    "name": "Summa Expeditionis",
+    "type": "Game",
+    "schinese_name": "总征程",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 21:52:18",
+    "change_number": 30149563,
+    "depot": {
+        "2056201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5962492144097276257",
+                    "size": "5317049634",
+                    "download": "1353523376"
+                }
+            },
+            "decryptionkey": "404b59722add8cd7714ff57934290484f19a2bbd9bf5f72fe84dcab19b639712"
+        },
+        "2056202": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2848632286631107231",
+                    "size": "3044629175",
+                    "download": "634218944"
+                }
+            },
+            "decryptionkey": "7e60955eb80e94b8902c5f213eb5d4e23572f1e29ff8888e9320fa312a7bdb7e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19181058",
+                "timeupdated": "1752177882"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
