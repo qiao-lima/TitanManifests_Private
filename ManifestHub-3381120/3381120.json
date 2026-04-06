@@ -1,0 +1,42 @@
+{
+    "appid": 3381120,
+    "name": "ZDSimulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 04:11:21",
+    "change_number": 30218990,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,russian,polish,czech,ukrainian",
+        "hasdepotsindlc": "1",
+        "3381121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "234084561146206793",
+                    "size": "2936806218",
+                    "download": "770967824"
+                }
+            },
+            "decryptionkey": "728de21056163f61d9e9347d5812d2dbfd24a3b450348920c66a269e77b23b8f"
+        },
+        "workshopdepot": "3381120",
+        "branches": {
+            "public": {
+                "buildid": "19144543",
+                "timeupdated": "1751971050"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "237a8efafb92aaeff9c2e05502f71b57aafa57365141fae5b1caf9d132b21426"
+    }
+}
