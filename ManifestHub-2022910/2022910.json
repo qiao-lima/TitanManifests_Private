@@ -1,0 +1,64 @@
+{
+    "appid": 2022910,
+    "name": "Twin Cobra",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 19:34:02",
+    "change_number": 29342419,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2022911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5053715398723416821",
+                    "size": "3087369",
+                    "download": "2470976"
+                }
+            },
+            "decryptionkey": "d9fbf4a75f422ec8c176ac515aa4787773dd733e3e93b6fd152ed510c7e55122"
+        },
+        "2022912": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8272858421041274167",
+                    "size": "5008086",
+                    "download": "1893904"
+                }
+            },
+            "decryptionkey": "978c9e4bb538f61f9b38389b6715161151b6f9925d2c835ca421ffbcca5e086a"
+        },
+        "2022913": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3145233664428726209",
+                    "size": "3584241",
+                    "download": "1585888"
+                }
+            },
+            "decryptionkey": "68f0b2feb33abc6d8f0d9916cf98b6917f0ff5d4d692edf209845cb422bad2be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14082590",
+                "timeupdated": "1713356540"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
