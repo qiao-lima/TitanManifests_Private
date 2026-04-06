@@ -1,0 +1,42 @@
+{
+    "appid": 928970,
+    "name": "Lost Frontier",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 20:11:47",
+    "change_number": 30038144,
+    "depot": {
+        "928971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6678670819446372150",
+                    "size": "188316768",
+                    "download": "84659536"
+                }
+            },
+            "decryptionkey": "b448059368253862fdc1e9d11c41ad74597bf663dafcf9dc5d24c60487ffacc4"
+        },
+        "928972": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2118636917888361326",
+                    "size": "211699525",
+                    "download": "88825360"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3216216",
+                "timeupdated": "1539666955"
+            }
+        }
+    }
+}
