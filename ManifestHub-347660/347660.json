@@ -1,0 +1,98 @@
+{
+    "appid": 347660,
+    "name": "Caromble!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 19:27:13",
+    "change_number": 30029814,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,dutch,brazilian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "347661": {
+            "manifests": {
+                "public": {
+                    "gid": "2983487633610202835",
+                    "size": "378772294",
+                    "download": "369407216"
+                }
+            },
+            "decryptionkey": "e35efb593fe8201889d3bf8ecd9c44c6d354d1cdcd0f01b0cc97a086869e2c41"
+        },
+        "347662": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3127475466042028676",
+                    "size": "129057846",
+                    "download": "29522752"
+                }
+            },
+            "decryptionkey": "3d7c299b9a20ed6ded251a93ed747d100548411a3422eb1429d2ae12e801a77d"
+        },
+        "347663": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8754065664103382743",
+                    "size": "171500007",
+                    "download": "44478144"
+                }
+            },
+            "decryptionkey": "895723492c4a63af647d4abcf841f62ac0c9a82d9126aefec68bea5fa6813f9d"
+        },
+        "347664": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4678337985753668542",
+                    "size": "141774104",
+                    "download": "31631728"
+                }
+            },
+            "decryptionkey": "4fa76d407e4aa3fddc64e5bc8b3d86134c3a161666e7091de1e7d3253e0197ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19202790",
+                "timeupdated": "1752344828"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
