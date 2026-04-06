@@ -1,0 +1,31 @@
+{
+    "appid": 779130,
+    "name": "Virtual Fighting Championship",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 13:49:43",
+    "change_number": 29679618,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "779131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "217460890797315044",
+                    "size": "1862433722",
+                    "download": "562146752"
+                }
+            },
+            "decryptionkey": "30b743fa77fdf099113c0a9af504fe6d3850b3cf66d489963f5204949ca520a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18947943",
+                "timeupdated": "1750484978"
+            }
+        }
+    }
+}
