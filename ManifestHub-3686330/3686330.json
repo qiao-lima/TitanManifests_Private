@@ -1,0 +1,40 @@
+{
+    "appid": 3686330,
+    "name": "Maze Mice Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:24:06",
+    "change_number": 29731111,
+    "depot": {
+        "3686331": {
+            "manifests": {
+                "public": {
+                    "gid": "3503881515268063561",
+                    "size": "25468604",
+                    "download": "25209728"
+                }
+            },
+            "decryptionkey": "1382cc7af9c155d86ac7b6bd08614392813ba37921665352bab5e93c5cf32d56"
+        },
+        "3686332": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "240257599882716335",
+                    "size": "141319453",
+                    "download": "142742368"
+                }
+            },
+            "decryptionkey": "2c48014823d141b5b4e6125544068cc300a6683fcb33870857390bbda8a42fbc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18943693",
+                "timeupdated": "1750444197"
+            }
+        }
+    }
+}
