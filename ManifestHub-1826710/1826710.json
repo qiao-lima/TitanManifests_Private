@@ -1,0 +1,33 @@
+{
+    "appid": 1826710,
+    "name": "Creature Keeper",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 20:15:04",
+    "change_number": 30137926,
+    "depot": {
+        "1826711": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5641720724549453190",
+                    "size": "319419362",
+                    "download": "189783184"
+                }
+            },
+            "decryptionkey": "f0a8402627bd8693316b823a87f2d74e6520745e4a4cb2e32e1bd6db8b23de66"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19180656",
+                "timeupdated": "1752866099"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
