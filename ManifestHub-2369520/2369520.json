@@ -1,0 +1,32 @@
+{
+    "appid": 2369520,
+    "name": "Hunchback's Dungeon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 20:59:46",
+    "change_number": 29996443,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "2369521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3213233939644637156",
+                    "size": "196890687",
+                    "download": "149435808"
+                }
+            },
+            "decryptionkey": "e7ef8f6de4c45cefabee6c136b8bffdc3edb84d129560794d6da255db0e8449f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16707630",
+                "timeupdated": "1733922320"
+            }
+        }
+    }
+}
