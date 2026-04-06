@@ -1,0 +1,31 @@
+{
+    "appid": 529240,
+    "name": "Creature Clicker - Capture, Train, Ascend!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 14:55:08",
+    "change_number": 29843694,
+    "depot": {
+        "baselanguages": "english",
+        "529241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4530495770702852041",
+                    "size": "462082686",
+                    "download": "467730944"
+                }
+            },
+            "decryptionkey": "4b5f89ddbd8f793ee76c576d37a898308a93027539a72f044991860341aa165a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15168308",
+                "timeupdated": "1722035667"
+            }
+        }
+    }
+}
