@@ -1,0 +1,78 @@
+{
+    "appid": 262260,
+    "name": "Jets'n'Guns Gold",
+    "type": "Game",
+    "schinese_name": "壮志凌云黄金版",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 09:50:54",
+    "change_number": 29838983,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "262261": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3911864806541250193",
+                    "size": "98390625",
+                    "download": "96872976"
+                },
+                "jng_beta": {
+                    "gid": "3911864806541250193",
+                    "size": "98390625",
+                    "download": "96872976"
+                }
+            },
+            "decryptionkey": "faf003caf0209c5975fbf5b0371ef2f48bb097460d4998f5f0a9c9b7f2a33d56"
+        },
+        "262262": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "760432133937957001",
+                    "size": "103340475",
+                    "download": "98276512"
+                },
+                "jng_beta": {
+                    "gid": "760432133937957001",
+                    "size": "103340475",
+                    "download": "98276512"
+                }
+            },
+            "decryptionkey": "682ccc824246fcae0de2c8b86e85b932c9b40f4c780a2a701dd7ae5a2f966c3f"
+        },
+        "262263": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7421959483329818914",
+                    "size": "97367131",
+                    "download": "96376640"
+                },
+                "jng_beta": {
+                    "gid": "7421959483329818914",
+                    "size": "97367131",
+                    "download": "96376640"
+                }
+            },
+            "decryptionkey": "3e1787f32b21fe47973344513fc6454e141fd641e25929005e96e45f28024403"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1326283",
+                "timeupdated": "1473525154"
+            },
+            "jng_beta": {
+                "buildid": "1326283",
+                "timeupdated": "1473411209"
+            }
+        }
+    }
+}
