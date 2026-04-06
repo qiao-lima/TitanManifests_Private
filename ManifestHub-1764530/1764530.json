@@ -1,0 +1,37 @@
+{
+    "appid": 1764530,
+    "name": "Sailwind",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 00:48:52",
+    "change_number": 29851400,
+    "depot": {
+        "1764531": {
+            "manifests": {
+                "public": {
+                    "gid": "8290032377469509104",
+                    "size": "4013319815",
+                    "download": "720081632"
+                },
+                "beta": {
+                    "gid": "8290032377469509104",
+                    "size": "4013319815",
+                    "download": "720081632"
+                }
+            },
+            "decryptionkey": "907ea10d78e84b92043fd808e954ab7d4fa8de5d3eeab0227d2488d7b899cb30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19072095",
+                "timeupdated": "1751413725"
+            },
+            "beta": {
+                "buildid": "19072095",
+                "description": "beta testing",
+                "timeupdated": "1751413696"
+            }
+        }
+    }
+}
