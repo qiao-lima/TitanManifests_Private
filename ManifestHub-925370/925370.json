@@ -1,0 +1,37 @@
+{
+    "appid": 925370,
+    "name": "Wizard Slime",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-26 09:14:12",
+    "change_number": 29758303,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "925371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1908302217354718304",
+                    "size": "19318272",
+                    "download": "19506000"
+                }
+            },
+            "decryptionkey": "eb2f73bd523673f23e8b3d163c1267cfc77428eb1ff5964ad8d0ea3cb0d06f64"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4358181",
+                "timeupdated": "1572961212"
+            }
+        }
+    }
+}
