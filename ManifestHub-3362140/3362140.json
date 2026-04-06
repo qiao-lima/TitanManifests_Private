@@ -1,0 +1,42 @@
+{
+    "appid": 3362140,
+    "name": "MIRAGE Episode：1",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 11:26:39",
+    "change_number": 30008673,
+    "depot": {
+        "baselanguages": "schinese",
+        "3362142": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3374709702562444897",
+                    "size": "1473749105",
+                    "download": "1104201936"
+                }
+            },
+            "decryptionkey": "f06db3b2261d02249c92aecaf5a7fe78fc19c7ed20c4198a69745de3cfe57fdb"
+        },
+        "3362141": {
+            "manifests": {
+                "public": {
+                    "gid": "4748886362306540715",
+                    "size": "1381873246",
+                    "download": "1005171424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19188891",
+                "timeupdated": "1752227863"
+            }
+        }
+    }
+}
