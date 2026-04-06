@@ -1,0 +1,27 @@
+{
+    "appid": 3109370,
+    "name": "Slot Waste",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 05:52:51",
+    "change_number": 29872391,
+    "depot": {
+        "3109371": {
+            "manifests": {
+                "public": {
+                    "gid": "551696117550957990",
+                    "size": "3521512392",
+                    "download": "826372608"
+                }
+            },
+            "decryptionkey": "ed831c6551039984ee434ae61590c9cf737c455bf5730143f1bc38c24f96139a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15031687",
+                "timeupdated": "1721006570"
+            }
+        }
+    }
+}
