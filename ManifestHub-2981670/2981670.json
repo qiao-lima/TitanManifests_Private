@@ -1,0 +1,42 @@
+{
+    "appid": 2981670,
+    "name": "The King is Watching Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 21:12:06",
+    "change_number": 30173755,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2981671": {
+            "manifests": {
+                "public": {
+                    "gid": "7983216217267092943",
+                    "size": "144653761",
+                    "download": "104849328"
+                }
+            },
+            "decryptionkey": "1b58e14d917a10caa557452bb38b652fa76224989c771f61c5356eb1227ba1f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17595051",
+                "timeupdated": "1741124319"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
