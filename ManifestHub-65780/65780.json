@@ -1,0 +1,28 @@
+{
+    "appid": 65780,
+    "name": "Arma: Gold Edition",
+    "type": "Game",
+    "schinese_name": "武装突袭：黄金版",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 23:24:21",
+    "change_number": 29327194,
+    "depot": {
+        "65781": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1749253253702512236",
+                    "size": "6805080887",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "847f8fee18b674905052ad492e0269c17993b2271d434cd2c33d7880ab2ea1cc"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "23951"
+            }
+        }
+    }
+}
