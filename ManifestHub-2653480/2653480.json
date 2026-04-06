@@ -1,0 +1,28 @@
+{
+    "appid": 2653480,
+    "name": "山水画乡/Shanshui Haven",
+    "type": "Game",
+    "schinese_name": "山水画乡",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 14:16:27",
+    "change_number": 29910477,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2653485": {
+            "manifests": {
+                "public": {
+                    "gid": "8903960089690644283",
+                    "size": "263799720",
+                    "download": "106541600"
+                }
+            },
+            "decryptionkey": "c43780174dc01b9f4c262e336f80a2e50e9d7b0aca1493076844b39e9758a61f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19117479",
+                "timeupdated": "1751721382"
+            }
+        }
+    }
+}
