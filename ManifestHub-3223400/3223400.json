@@ -1,0 +1,42 @@
+{
+    "appid": 3223400,
+    "name": "Masquerade Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:54",
+    "change_number": 29655654,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3223401": {
+            "manifests": {
+                "public": {
+                    "gid": "4630670134744334203",
+                    "size": "341667742",
+                    "download": "228939584"
+                }
+            },
+            "decryptionkey": "db000247528ae2b952db617f0ae8a948c34531e16a4e78e9441dbbf6059c879f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18767647",
+                "timeupdated": "1749220885"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
