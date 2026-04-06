@@ -1,0 +1,28 @@
+{
+    "appid": 994930,
+    "name": "Soccer Manager 2019",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:50:03",
+    "change_number": 29427095,
+    "depot": {
+        "994931": {
+            "manifests": {
+                "public": {
+                    "gid": "8950651467317314038",
+                    "size": "218854905",
+                    "download": "51043424"
+                }
+            },
+            "decryptionkey": "078e5a13418b1fce711f6930c02060c08fe22c97aa9be1cb95b70a230c05f7ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3725930",
+                "timeupdated": "1555059922"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
