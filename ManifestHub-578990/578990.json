@@ -1,0 +1,102 @@
+{
+    "appid": 578990,
+    "name": "Two Worlds II HD - Shattered Embrace",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 17:39:28",
+    "change_number": 29953341,
+    "depot": {
+        "578991": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7492129525043954038",
+                    "size": "12923152720",
+                    "download": "11250041136"
+                }
+            },
+            "decryptionkey": "881886e663ac52c199cc6832bd123fb69c88e99b85855e6c1fa87158c51fadd2"
+        },
+        "578992": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6876283734356030478",
+                    "size": "277809583",
+                    "download": "261651280"
+                }
+            },
+            "decryptionkey": "83b5779817d98abe00063cd80c717c46de4052a484502df21adef365c1ea837e"
+        },
+        "578993": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7674911185959750014",
+                    "size": "302832880",
+                    "download": "287421824"
+                }
+            },
+            "decryptionkey": "35d3a80da4e42d4d258f72cd3bfae76e9b5ce8bf0129c4aaee02c08a0cea88b5"
+        },
+        "578994": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2743920640492243078",
+                    "size": "3459091",
+                    "download": "2750928"
+                }
+            },
+            "decryptionkey": "73541bf42f9ab9e0736f7739f36dbeded860a7af738eb9eade2da34fbbe50343"
+        },
+        "578996": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "578997": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "578998": {
+            "config": {
+                "language": "french",
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "578999": {
+            "config": {
+                "language": "polish",
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "4668781",
+                "timeupdated": "1581520420"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
