@@ -1,0 +1,31 @@
+{
+    "appid": 1303950,
+    "name": "Toodee and Topdee",
+    "type": "Game",
+    "schinese_name": "图迪和托蒂",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 15:54:57",
+    "change_number": 30168917,
+    "depot": {
+        "1303951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6274562967573246885",
+                    "size": "145330063",
+                    "download": "123522256"
+                }
+            },
+            "decryptionkey": "e4cfad84990f84df00ec7820f7c83d9162c29fb0e082b38c502625c797de31f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19300964",
+                "timeupdated": "1753109690"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
