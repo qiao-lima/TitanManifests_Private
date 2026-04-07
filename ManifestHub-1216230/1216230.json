@@ -1,0 +1,78 @@
+{
+    "appid": 1216230,
+    "name": "Project Heartbeat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 19:49:06",
+    "change_number": 29585636,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1216231": {
+            "manifests": {
+                "public": {
+                    "gid": "2833146073074510558",
+                    "size": "582852760",
+                    "download": "419649136"
+                },
+                "beta": {
+                    "gid": "2894595374842528039",
+                    "size": "675689112",
+                    "download": "442997936"
+                },
+                "prev": {
+                    "gid": "2756028975040733009",
+                    "size": "546366477",
+                    "download": "358331808"
+                },
+                "steven": {
+                    "gid": "7927075205670802174",
+                    "size": "614209992",
+                    "download": "427904672"
+                },
+                "tls_fix": {
+                    "gid": "3278266094737770163",
+                    "size": "675768264",
+                    "download": "443018720"
+                }
+            },
+            "decryptionkey": "874c2f5429e5d76c0493db0ef7b9da3dc62913e6a64d8371d192a31b573fefbf"
+        },
+        "baselanguages": "english,spanish",
+        "workshopdepot": "1216230",
+        "branches": {
+            "public": {
+                "buildid": "18256541",
+                "timeupdated": "1745766956"
+            },
+            "beta": {
+                "buildid": "18732900",
+                "description": "Beta branch",
+                "timeupdated": "1750071634"
+            },
+            "prev": {
+                "buildid": "14188164",
+                "description": "Previous Version (0.16)",
+                "timeupdated": "1716159206"
+            },
+            "steven": {
+                "buildid": "17340548",
+                "description": "steven",
+                "timeupdated": "1745823882"
+            },
+            "tls_fix": {
+                "buildid": "18881576",
+                "description": "TLS Fix Test",
+                "timeupdated": "1750071683"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a9a54b33a70eefa3b26859a1b9a5ace1ec59e615497f8d32d0ed4e9c676c916c"
+    }
+}
