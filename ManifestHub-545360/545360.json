@@ -1,0 +1,35 @@
+{
+    "appid": "545360",
+    "type": "Game",
+    "name": "Sleight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "20138283",
+    "update_time": "2024-08-14 19:16:41",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "545361": {
+            "manifests": {
+                "public": {
+                    "gid": "8101984538461444996",
+                    "size": "20212394",
+                    "download": "11876144"
+                }
+            },
+            "decryptionkey": "6cc07fcdd5445ab0ff1812f87cde0293802b2e6ccfc73011381fb69848c83d49"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1446240",
+                "timeupdated": "1478609139"
+            }
+        }
+    },
+    "access_token": 2782347834667731808
+}
