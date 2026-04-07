@@ -1,0 +1,58 @@
+{
+    "appid": 3099870,
+    "name": "Bussy Master: CLUB LEATHER",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 07:57:00",
+    "change_number": 29925875,
+    "depot": {
+        "3099871": {
+            "manifests": {
+                "public": {
+                    "gid": "6748978236710896369",
+                    "size": "885363235",
+                    "download": "718533760"
+                },
+                "v2.04.08": {
+                    "gid": "6748978236710896369",
+                    "size": "885363235",
+                    "download": "718533760"
+                },
+                "v2.03a.07.5": {
+                    "gid": "5258015766686097811",
+                    "size": "806973884",
+                    "download": "676166144"
+                },
+                "v2.03.07b": {
+                    "gid": "9107237525097248303",
+                    "size": "806949854",
+                    "download": "676207264"
+                }
+            },
+            "decryptionkey": "e1073cc9ed17a8603dc21936f3628426be623f0555afd6398603db249d36fcf0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19128116",
+                "timeupdated": "1751871413"
+            },
+            "v2.04.08": {
+                "buildid": "19128116",
+                "description": "v2.04.08",
+                "timeupdated": "1751868029"
+            },
+            "v2.03a.07.5": {
+                "buildid": "19006887",
+                "description": "v2.03a.07.5",
+                "timeupdated": "1750922606"
+            },
+            "v2.03.07b": {
+                "buildid": "18921393",
+                "description": "v2.03.07b [18-06-25]",
+                "timeupdated": "1750304289"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
