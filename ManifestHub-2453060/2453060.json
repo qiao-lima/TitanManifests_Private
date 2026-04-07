@@ -1,0 +1,49 @@
+{
+    "appid": 2453060,
+    "name": "Dreamcore",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 21:04:31",
+    "change_number": 30118200,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2453061": {
+            "manifests": {
+                "public": {
+                    "gid": "3365829094322558392",
+                    "size": "3647608285",
+                    "download": "3371765680"
+                }
+            },
+            "decryptionkey": "0b8213c75958716335ce8364fb117b9ec29713c1fead925ef42641662bcfeec2"
+        },
+        "2453062": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "18841815",
+                "timeupdated": "1749755266"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
