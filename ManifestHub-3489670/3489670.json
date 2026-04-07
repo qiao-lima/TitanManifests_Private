@@ -1,0 +1,32 @@
+{
+    "appid": 3489670,
+    "name": "The Happyhills Homicide 2: Out For Blood",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 09:55:11",
+    "change_number": 30045252,
+    "depot": {
+        "3489671": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "751619005694853192",
+                    "size": "30692864",
+                    "download": "30956464"
+                }
+            },
+            "decryptionkey": "b25d40e9a2fe6ead884f54a1b2b763f0b1ba33eda50ee5e40471958dec50bf11"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18013264",
+                "timeupdated": "1744040053"
+            }
+        }
+    }
+}
