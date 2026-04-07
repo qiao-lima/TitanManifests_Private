@@ -1,0 +1,45 @@
+{
+    "appid": 3241480,
+    "name": "Don't Look Back",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 05:52:03",
+    "change_number": 30160913,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3241486": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7740007059882755100",
+                    "size": "3281428296",
+                    "download": "2346993648"
+                }
+            },
+            "decryptionkey": "83faf272024769bfc00146e59a29fd0359be10a77b05fad5bb76e50ea67e3b98"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19001322",
+                "timeupdated": "1750915063"
+            }
+        }
+    }
+}
