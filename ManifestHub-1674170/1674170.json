@@ -1,0 +1,81 @@
+{
+    "appid": 1674170,
+    "name": "Sprocket",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:17:46",
+    "change_number": 30210341,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1674171": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3556565309499543539",
+                    "size": "2805724508",
+                    "download": "1576698432"
+                },
+                "experimental": {
+                    "gid": "7950052916131165212",
+                    "size": "3444873057",
+                    "download": "1914247424"
+                },
+                "0.127": {
+                    "gid": "7851031514040539145",
+                    "size": "2805730140",
+                    "download": "1576712288"
+                },
+                "0.2-alpha": {
+                    "gid": "7950052916131165212",
+                    "size": "3444873057",
+                    "download": "1914247424"
+                },
+                "uncle_competition": {
+                    "gid": "4150522930305217075",
+                    "size": "2547621076",
+                    "download": "1457466496"
+                }
+            },
+            "decryptionkey": "499f4c7f29d6fce3e91d26828c4520d13d5dfc7a4b88ba43d5fe01959baaec54"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "10865632",
+                "timeupdated": "1679935066"
+            },
+            "experimental": {
+                "buildid": "19331730",
+                "description": "The latest features, at the cost of more bugs.",
+                "timeupdated": "1753287461"
+            },
+            "0.127": {
+                "buildid": "10894503",
+                "description": "The final version before 0.2",
+                "timeupdated": "1748446278"
+            },
+            "0.2-alpha": {
+                "buildid": "19331730",
+                "description": "The legacy 0.2 alpha branch. Identical to the experimental branch and soon to be removed.",
+                "timeupdated": "1753287448"
+            },
+            "uncle_competition": {
+                "buildid": "9348391",
+                "description": "The game version used by 2023's new-year competition.",
+                "timeupdated": "1673014525"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
