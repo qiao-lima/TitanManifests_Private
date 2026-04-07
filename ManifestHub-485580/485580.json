@@ -1,0 +1,80 @@
+{
+    "appid": "485580",
+    "type": "Game",
+    "name": "24 HOURS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25269390",
+    "update_time": "2024-09-18 07:13:56",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "485581": {
+            "manifests": {
+                "public": {
+                    "gid": "5878623386068029138",
+                    "size": "4077338682",
+                    "download": "1897892736"
+                }
+            },
+            "decryptionkey": "606f7ab941b950156e5b54b6fe8c5365d47da19e00c0412b7d4773bcda911c1d"
+        },
+        "525090": {
+            "dlcappid": "525090"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1325285",
+                "timeupdated": "1473366516"
+            }
+        }
+    },
+    "access_token": 5597312255251144599
+}
