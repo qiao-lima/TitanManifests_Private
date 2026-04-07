@@ -1,0 +1,48 @@
+{
+    "appid": "1436110",
+    "type": "Tool",
+    "name": "Football Manager 2021 Resource Archiver",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26928210",
+    "update_time": "2025-01-10 02:02:25",
+    "depot": {
+        "1436111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1302897397049820898",
+                    "size": "39942521",
+                    "download": "13449792"
+                }
+            },
+            "decryptionkey": "ed23c64e3379c991b0a0bf56512bfc6e8f7a656253a5e63218a59e46affcd48a"
+        },
+        "1436112": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2115228376620519194",
+                    "size": "46364110",
+                    "download": "11744128"
+                }
+            },
+            "decryptionkey": "b8d0094601af4e147425b4ed0a78ea14499e8ba3bdfb7f0462a971de28fe6d68"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5870386",
+                "timeupdated": "1606159920"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 14701135545328475225
+}
