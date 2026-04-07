@@ -1,0 +1,47 @@
+{
+    "appid": 1151320,
+    "name": "Netsoccer2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-31 07:25:49",
+    "change_number": 29287428,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "1151321": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2890041890404649621",
+                    "size": "39378069",
+                    "download": "18817728"
+                }
+            },
+            "decryptionkey": "598d27b1238cfeca059c00968966a408acbe972018d14c4586d51acd8572860e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6579907",
+                "timeupdated": "1619046931"
+            }
+        }
+    }
+}
