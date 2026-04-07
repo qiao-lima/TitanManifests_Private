@@ -1,0 +1,32 @@
+{
+    "appid": 702700,
+    "name": "Super Bomberman R",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:57:05",
+    "change_number": 29684144,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "702701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4331846597876384372",
+                    "size": "6359054637",
+                    "download": "6179486592"
+                }
+            },
+            "decryptionkey": "c7bff373e03c51f4adbf1650a0855ba0656048194ba748cac31944971841d89f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3113848",
+                "timeupdated": "1537319231"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
