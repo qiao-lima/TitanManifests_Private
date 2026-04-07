@@ -1,0 +1,78 @@
+{
+    "appid": 2400510,
+    "name": "Dungeons & Degenerate Gamblers",
+    "type": "Game",
+    "schinese_name": "再来一张",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:27:30",
+    "change_number": 30216453,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "2400511": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7082628182374384240",
+                    "size": "592195700",
+                    "download": "509309904"
+                },
+                "public_beta": {
+                    "gid": "7082628182374384240",
+                    "size": "592195700",
+                    "download": "509309904"
+                }
+            },
+            "decryptionkey": "f08be77434663a38ec425845293b8bda95d36ff7a388d6750b7a7169681e2500"
+        },
+        "2400512": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4747699334029871179",
+                    "size": "564870700",
+                    "download": "502974688"
+                },
+                "public_beta": {
+                    "gid": "4747699334029871179",
+                    "size": "564870700",
+                    "download": "502974688"
+                }
+            },
+            "decryptionkey": "492f6a3d8ac2649a1c06a2e0c3f57d43056f49ce83f432ab0a56349256f1b86d"
+        },
+        "2400513": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4474862764373054371",
+                    "size": "573836572",
+                    "download": "505621760"
+                },
+                "public_beta": {
+                    "gid": "4474862764373054371",
+                    "size": "573836572",
+                    "download": "505621760"
+                }
+            },
+            "decryptionkey": "fad855e6d88be1c801695aef8326b8b1e27914f761f41a4a89d110df9a7524e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18957727",
+                "timeupdated": "1750625026"
+            },
+            "public_beta": {
+                "buildid": "18957727",
+                "description": "public beta",
+                "timeupdated": "1750624886"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
