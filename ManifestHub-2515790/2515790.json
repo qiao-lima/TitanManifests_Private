@@ -1,0 +1,45 @@
+{
+    "appid": 2515790,
+    "name": "G-Scramble",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 00:05:07",
+    "change_number": 30099345,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2515791": {
+            "manifests": {
+                "public": {
+                    "gid": "4878486354578438724",
+                    "size": "47560364",
+                    "download": "31309024"
+                },
+                "experimental": {
+                    "gid": "4878486354578438724",
+                    "size": "47560364",
+                    "download": "31309024"
+                }
+            },
+            "decryptionkey": "0adb98d9068e757fa4e6c6386b5d60e0afb786be547a1336ca3d98995b521ec2"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19251894",
+                "timeupdated": "1752707103"
+            },
+            "experimental": {
+                "buildid": "19251894",
+                "description": "experimental",
+                "timeupdated": "1752706949"
+            }
+        }
+    }
+}
