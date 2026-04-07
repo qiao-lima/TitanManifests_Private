@@ -1,0 +1,41 @@
+{
+    "appid": 3505800,
+    "name": "Yurei Hunt",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 10:37:42",
+    "change_number": 30107214,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3505801": {
+            "manifests": {
+                "public": {
+                    "gid": "5059469256214508929",
+                    "size": "4580849153",
+                    "download": "4322423104"
+                }
+            },
+            "decryptionkey": "9521415f6188d413f1ceb9f8efa8aa01177dd315142a3d95cd6bd73c320ad8ed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19220912",
+                "timeupdated": "1752523447"
+            }
+        }
+    }
+}
