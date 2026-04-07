@@ -1,0 +1,78 @@
+{
+    "appid": 2659900,
+    "name": "Sixty Four",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 01:22:43",
+    "change_number": 30100367,
+    "depot": {
+        "2659901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5609987804839283920",
+                    "size": "416230354",
+                    "download": "208427264"
+                },
+                "destabilized": {
+                    "gid": "5609987804839283920",
+                    "size": "416230354",
+                    "download": "208427264"
+                }
+            },
+            "decryptionkey": "948b537e16b1f7f17071329983f2d3d57c5cde71d1a8a34e50dafc71afc03ae7"
+        },
+        "2659902": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "808152674728785092",
+                    "size": "548458403",
+                    "download": "250019280"
+                },
+                "destabilized": {
+                    "gid": "808152674728785092",
+                    "size": "548458403",
+                    "download": "250019280"
+                }
+            },
+            "decryptionkey": "fca91fc5be04e1634c30f493a61926d74a97cfadd1d5f8cb9c64bcecdfba11a6"
+        },
+        "2659903": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7847818130457582289",
+                    "size": "392227681",
+                    "download": "194905008"
+                },
+                "destabilized": {
+                    "gid": "7847818130457582289",
+                    "size": "392227681",
+                    "download": "194905008"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19003260",
+                "timeupdated": "1750899406"
+            },
+            "destabilized": {
+                "buildid": "19003260",
+                "description": "Public testing",
+                "timeupdated": "1750898773"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
