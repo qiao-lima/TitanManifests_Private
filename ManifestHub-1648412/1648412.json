@@ -1,0 +1,28 @@
+{
+    "appid": 1648412,
+    "name": "RPG Maker MZ - DorapixelMapChips - Modern JP Custom",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:48:41",
+    "change_number": 29646235,
+    "depot": {
+        "1648412": {
+            "manifests": {
+                "public": {
+                    "gid": "421379781328308762",
+                    "size": "590445",
+                    "download": "574848"
+                }
+            },
+            "dlcappid": "1648412",
+            "decryptionkey": "915b7f87dd846b874cbe1168808b7b2d70c87bfb13aaae99ba07dcf6944359d2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18924398",
+                "timeupdated": "1750324170"
+            }
+        }
+    }
+}
