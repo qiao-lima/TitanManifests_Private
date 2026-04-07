@@ -1,0 +1,58 @@
+{
+    "appid": 756490,
+    "name": "Next Hero",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 09:51:58",
+    "change_number": 30144633,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "756491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4927237638239966625",
+                    "size": "138465226",
+                    "download": "99164016"
+                }
+            },
+            "decryptionkey": "c68df4c96fbe8617ed4187a5a973cd6fcaceae8896e9018936ba9c629729d4bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4379687",
+                "timeupdated": "1573544126"
+            }
+        }
+    }
+}
