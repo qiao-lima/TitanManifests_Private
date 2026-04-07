@@ -1,0 +1,104 @@
+{
+    "appid": 919360,
+    "name": "Alaloth - Champions of The Four Kingdoms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 16:00:01",
+    "change_number": 30050885,
+    "depot": {
+        "919361": {
+            "manifests": {
+                "public": {
+                    "gid": "6782234734043372328",
+                    "size": "14522330618",
+                    "download": "8329998144"
+                }
+            },
+            "decryptionkey": "58d9c2d65e5d967a7ce16b9e794a0a8b6e87aa144979e0d34b27fe259c768672"
+        },
+        "919362": {
+            "manifests": {
+                "public": {
+                    "gid": "3836044244694625953",
+                    "size": "3880045133",
+                    "download": "1881696112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2069000": {
+            "dlcappid": "2069000",
+            "manifests": {
+                "public": {
+                    "gid": "4104384855880812640",
+                    "size": "382139303",
+                    "download": "366020832"
+                }
+            },
+            "decryptionkey": "ae302e8ed3c4358ace72617d7f43b3a1af7494dff96d7e45e64fa92447dee14d"
+        },
+        "2068930": {
+            "dlcappid": "2068930",
+            "manifests": {
+                "public": {
+                    "gid": "6983843641291875533",
+                    "size": "105986270",
+                    "download": "106788624"
+                }
+            },
+            "decryptionkey": "f581679c56f68de7d1e62b8c7dc34a949747904ea8a4f695d64fba37a2e51425"
+        },
+        "3697680": {
+            "dlcappid": "3697680",
+            "manifests": {
+                "public": {
+                    "gid": "7115590758299740613",
+                    "size": "32250479",
+                    "download": "32256368"
+                }
+            },
+            "decryptionkey": "f454559851b5b2e5e02cc1fc2bdbbc963f18f325e60b900afa4d9d1d2ea6906f"
+        },
+        "3697690": {
+            "dlcappid": "3697690",
+            "manifests": {
+                "public": {
+                    "gid": "4554326912595740994",
+                    "size": "28894326",
+                    "download": "28897568"
+                }
+            },
+            "decryptionkey": "4e2c7b81bdc9d7ab2abfda82d1e516f558e22d7a0a4c666bb08b49256a6dd9ee"
+        },
+        "3697710": {
+            "dlcappid": "3697710",
+            "manifests": {
+                "public": {
+                    "gid": "4440935810086855093",
+                    "size": "32284870",
+                    "download": "32229792"
+                }
+            },
+            "decryptionkey": "0622ea57f3a42684095ac3bdc1610b8f06896631405608ef60bbc20033f48dec"
+        },
+        "3697700": {
+            "dlcappid": "3697700",
+            "manifests": {
+                "public": {
+                    "gid": "8944762483567832505",
+                    "size": "33403006",
+                    "download": "33493616"
+                }
+            },
+            "decryptionkey": "bef4bd9227f58e6c6939efa6a483c9898300ceee517efe1ea234085d8648c7b2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19216663",
+                "timeupdated": "1752505195"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
