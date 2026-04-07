@@ -1,0 +1,41 @@
+{
+    "appid": 1323900,
+    "name": "Scrapnaut",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:48:31",
+    "change_number": 30203609,
+    "depot": {
+        "1323901": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6693442638658940460",
+                    "size": "2270146320",
+                    "download": "770170352"
+                },
+                "experimental": {
+                    "gid": "6693442638658940460",
+                    "size": "2270146320",
+                    "download": "770170352"
+                }
+            },
+            "decryptionkey": "386a977d71bf4c709d071c740ec4cf11d026dab3db5dc311316ee20d5ad57d90"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19326966",
+                "timeupdated": "1753264106"
+            },
+            "experimental": {
+                "buildid": "19326966",
+                "description": "Untested Versions",
+                "timeupdated": "1753263736"
+            }
+        }
+    }
+}
