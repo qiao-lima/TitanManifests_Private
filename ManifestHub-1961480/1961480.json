@@ -1,0 +1,27 @@
+{
+    "appid": 1961480,
+    "name": "3D PUZZLE - Farm House",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 10:15:38",
+    "change_number": 29808645,
+    "depot": {
+        "1961481": {
+            "manifests": {
+                "public": {
+                    "gid": "4483261855754536425",
+                    "size": "7246515619",
+                    "download": "1343805744"
+                }
+            },
+            "decryptionkey": "5d7d3820dee99c9fe181ff054941f8cfc79f11e184d2451eb7d403704c120056"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8810981",
+                "timeupdated": "1653526181"
+            }
+        }
+    }
+}
