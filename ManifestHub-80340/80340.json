@@ -1,0 +1,73 @@
+{
+    "appid": 80340,
+    "name": "Blackwell Unbound",
+    "type": "Game",
+    "schinese_name": "布莱克威尔之谜",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 06:10:50",
+    "change_number": 29915932,
+    "depot": {
+        "overridescddb": "1",
+        "80341": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9039558760825108703",
+                    "size": "204339622",
+                    "download": "165072640"
+                }
+            },
+            "decryptionkey": "64f171f47951a667883d1ae0b739e2db4ad25dd666e093e168fa6097cb5be900"
+        },
+        "80342": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5610423325959327216",
+                    "size": "275581855",
+                    "download": "182998800"
+                }
+            },
+            "decryptionkey": "2dd6b51fb66cf40bd082dc7a96afadb10ae9e12e3d311bea26d2914dac4fa3dc"
+        },
+        "80343": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "378652864369523452",
+                    "size": "219402696",
+                    "download": "169447440"
+                }
+            },
+            "decryptionkey": "818ae4ca72819dac693d131b882cdeefabf4a193df34f9422d00af010e1f377e"
+        },
+        "2022100": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1912275564466960392",
+                    "size": "276559159",
+                    "download": "181330512"
+                }
+            },
+            "decryptionkey": "88d83e3020e7ab8a5dd623944f03018760e996734c243e59b4127b5a862c7bdb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18200167",
+                "timeupdated": "1745364981"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
