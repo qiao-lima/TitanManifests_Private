@@ -1,0 +1,45 @@
+{
+    "appid": 2757700,
+    "name": "TEXNOPLAZM Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 16:16:15",
+    "change_number": 29457728,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2757701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3666925446620270616",
+                    "size": "778225127",
+                    "download": "274416768"
+                }
+            },
+            "decryptionkey": "76849060c1d391ee3ba0159b180b7dbdf674e0a3f95898a25dd5699a1d5ff444"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18791627",
+                "timeupdated": "1749456965"
+            }
+        }
+    }
+}
