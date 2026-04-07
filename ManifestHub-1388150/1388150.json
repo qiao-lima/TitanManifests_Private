@@ -1,0 +1,27 @@
+{
+    "appid": 1388150,
+    "name": "Dispersion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 08:51:29",
+    "change_number": 29837971,
+    "depot": {
+        "1388151": {
+            "manifests": {
+                "public": {
+                    "gid": "5163838445771527962",
+                    "size": "86320684",
+                    "download": "22238384"
+                }
+            },
+            "decryptionkey": "ee98d5e9d45253246a54f59b55ce2e513e4df63ee3c66f366a0821efe8997659"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5443687",
+                "timeupdated": "1598029842"
+            }
+        }
+    }
+}
