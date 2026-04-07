@@ -1,0 +1,42 @@
+{
+    "appid": 3065810,
+    "name": "One Room Dungeon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 22:18:46",
+    "change_number": 29436076,
+    "depot": {
+        "3065811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "995642621353727424",
+                    "size": "693839378",
+                    "download": "228003888"
+                }
+            },
+            "decryptionkey": "e1b08aba9947af1cae1108f45aab20472d3ddccf83a59792f23e9d606b1d1620"
+        },
+        "3065812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7611922743134806229",
+                    "size": "686597749",
+                    "download": "226186768"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18778192",
+                "timeupdated": "1749305920"
+            }
+        }
+    }
+}
