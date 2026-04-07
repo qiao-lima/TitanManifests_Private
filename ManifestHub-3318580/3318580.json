@@ -1,0 +1,27 @@
+{
+    "appid": 3318580,
+    "name": "Scrapworks Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 20:12:25",
+    "change_number": 29371191,
+    "depot": {
+        "3318581": {
+            "manifests": {
+                "public": {
+                    "gid": "3276937638104498580",
+                    "size": "4350348249",
+                    "download": "1484829072"
+                }
+            },
+            "decryptionkey": "face9a0541bd6e849b1fbb4bb72195c5468870c225c2c11267ecbcf9e141bc29"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18733721",
+                "timeupdated": "1749039139"
+            }
+        }
+    }
+}
