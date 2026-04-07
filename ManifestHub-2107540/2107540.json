@@ -1,0 +1,28 @@
+{
+    "appid": 2107540,
+    "name": "Seafrog",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 18:35:48",
+    "change_number": 29746879,
+    "depot": {
+        "2107541": {
+            "manifests": {
+                "public": {
+                    "gid": "1531184296661297780",
+                    "size": "689731900",
+                    "download": "562627280"
+                }
+            },
+            "decryptionkey": "364189e481f9d2e792d49c1a002f01fc72527066d1d74cfc5f505b9c6218d831"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18815842",
+                "timeupdated": "1749596764"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
