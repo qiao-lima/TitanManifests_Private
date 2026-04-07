@@ -1,0 +1,31 @@
+{
+    "appid": "463550",
+    "type": "Game",
+    "name": "Neon Space ULTRA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26859776",
+    "update_time": "2025-01-04 16:12:48",
+    "depot": {
+        "463551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3696034191571989215",
+                    "size": "141358344",
+                    "download": "142021920"
+                }
+            },
+            "decryptionkey": "f5a88428d14c30f88cdb5b5e6f2c04ae0c468844b917283b3382d65c8c9c335b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1164996",
+                "timeupdated": "1465151667"
+            }
+        }
+    },
+    "access_token": 16062217301482610785
+}
