@@ -1,0 +1,41 @@
+{
+    "appid": 3305590,
+    "name": "HELLCAM Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 20:46:57",
+    "change_number": 29445843,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3305591": {
+            "manifests": {
+                "public": {
+                    "gid": "6216112513459931124",
+                    "size": "2839704035",
+                    "download": "2662956080"
+                }
+            },
+            "decryptionkey": "5f26870b3e69b15026cfa86a3db447a5714fc94b0581c0ef26113c6fb14e9761"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16326776",
+                "timeupdated": "1730979244"
+            }
+        }
+    }
+}
