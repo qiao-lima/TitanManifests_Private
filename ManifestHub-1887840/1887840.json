@@ -1,0 +1,46 @@
+{
+    "appid": 1887840,
+    "name": "Another Crab's Treasure",
+    "type": "Game",
+    "schinese_name": "蟹蟹寻宝奇遇",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 11:31:22",
+    "change_number": 30034650,
+    "depot": {
+        "1887842": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "1887841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "161993164972464997",
+                    "size": "8297544955",
+                    "download": "2669635232"
+                },
+                "beta": {
+                    "gid": "339460321503769681",
+                    "size": "7725382134",
+                    "download": "2591879728"
+                }
+            },
+            "decryptionkey": "19257cfc9a0b90cd9687a6893dbd234efcbb0cab05776a8180a2a49a271cccad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18588163",
+                "timeupdated": "1748032818"
+            },
+            "beta": {
+                "buildid": "15067762",
+                "description": "An opt-in branch with early access to experimental changes",
+                "timeupdated": "1721775643"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
