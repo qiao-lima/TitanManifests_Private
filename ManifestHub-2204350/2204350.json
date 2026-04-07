@@ -1,0 +1,35 @@
+{
+    "appid": 2204350,
+    "name": "Midnight Heist",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 20:14:49",
+    "change_number": 30018539,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2204351": {
+            "manifests": {
+                "public": {
+                    "gid": "8528614442288540257",
+                    "size": "4767125115",
+                    "download": "2491096736"
+                }
+            },
+            "decryptionkey": "1d29ac89d3e1d6782bf35c3f1cdaebf821754f40065449f7c11eb86b1b5c7fe9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19195459",
+                "timeupdated": "1752261279"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
