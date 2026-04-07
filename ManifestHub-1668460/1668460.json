@@ -1,0 +1,44 @@
+{
+    "appid": 1668460,
+    "name": "The Fancy Pants Adventures: Classic Pack",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 03:52:06",
+    "change_number": 30151448,
+    "depot": {
+        "1668461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7660244324469957005",
+                    "size": "152040640",
+                    "download": "134811248"
+                }
+            },
+            "decryptionkey": "d6d5304013b62728ae1fbd0d4eaa2c94e2a106952bd9d5309177d97e5141ab5a"
+        },
+        "1668462": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4783792646167254326",
+                    "size": "196794766",
+                    "download": "146592960"
+                }
+            },
+            "decryptionkey": "bfb1cb51e7f16c9ca26f9a609b5bef54c7d5536295a21d7e0fccbbf414712565"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13786547",
+                "timeupdated": "1710857169"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
