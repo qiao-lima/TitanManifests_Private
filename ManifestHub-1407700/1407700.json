@@ -1,0 +1,44 @@
+{
+    "appid": 1407700,
+    "name": "Rock of Ages III: Make & Break Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-16 16:53:13",
+    "change_number": 30092781,
+    "depot": {
+        "1407700": {
+            "config": {
+                "highqualityaudio": "1",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7105033873814823570",
+                    "size": "767162161",
+                    "download": "775587888"
+                }
+            },
+            "decryptionkey": "4eff227a781bf4194e3f04fc8bcc57784ad3457cc43bd3090bc52b1d645c7a67"
+        },
+        "1407701": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7325666073262622494",
+                    "size": "277623551",
+                    "download": "239708576"
+                }
+            },
+            "decryptionkey": "dc3c5f50fe7d1ef15d176f94c240a0a6b9927dc5dd10871e33aeda7490bb5181"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5651657",
+                "timeupdated": "1602103281"
+            }
+        }
+    }
+}
