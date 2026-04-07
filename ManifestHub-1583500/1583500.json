@@ -1,0 +1,27 @@
+{
+    "appid": 1583500,
+    "name": "Eternal Dread 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 11:44:29",
+    "change_number": 29877033,
+    "depot": {
+        "1583501": {
+            "manifests": {
+                "public": {
+                    "gid": "6770466591644827509",
+                    "size": "3962449943",
+                    "download": "1278963584"
+                }
+            },
+            "decryptionkey": "b9100a16b63006ed8f608b1d4baebc8f650c916e661663f2a0743c63f4db6774"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15553963",
+                "timeupdated": "1725103928"
+            }
+        }
+    }
+}
