@@ -1,0 +1,31 @@
+{
+    "appid": 2616280,
+    "name": "买个可乐饼吧！ - 原画设定集&特典包",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 14:31:52",
+    "change_number": 30132438,
+    "depot": {
+        "2616280": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5348498420433477411",
+                    "size": "141880966",
+                    "download": "139363856"
+                }
+            },
+            "dlcappid": "2616280",
+            "decryptionkey": "90c0f4f999cf97c155faf05f4acb8867d891aa20949add3a6d86f83b36b1aba3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18262932",
+                "timeupdated": "1745832108"
+            }
+        }
+    }
+}
