@@ -1,0 +1,35 @@
+{
+    "appid": 869180,
+    "name": "Lucky Shot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:31:52",
+    "change_number": 30057887,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "869181": {
+            "manifests": {
+                "public": {
+                    "gid": "8329209780522834027",
+                    "size": "85432305",
+                    "download": "21746816"
+                }
+            },
+            "decryptionkey": "5960be89a6ed533b407c3d22978523198e7578887bc3aee208dda215341bf173"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2810921",
+                "timeupdated": "1527453098"
+            }
+        }
+    },
+    "access_token": 5268417405663736682
+}
