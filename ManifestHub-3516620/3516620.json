@@ -1,0 +1,46 @@
+{
+    "appid": 3516620,
+    "name": "MAGICAL BEAT",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 04:00:17",
+    "change_number": 30218865,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3516621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "104337503081770020",
+                    "size": "3494134908",
+                    "download": "2851620320"
+                }
+            },
+            "decryptionkey": "fb6691d0b58f62cc11ac75fb533eb5d072742572b9391ca2866a8c48c0095855"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19090559",
+                "timeupdated": "1752803099"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
