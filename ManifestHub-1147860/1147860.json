@@ -1,0 +1,28 @@
+{
+    "appid": 1147860,
+    "name": "UFO 50",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 21:18:26",
+    "change_number": 30157570,
+    "depot": {
+        "1147861": {
+            "manifests": {
+                "public": {
+                    "gid": "2152424767798500372",
+                    "size": "411710938",
+                    "download": "322999376"
+                }
+            },
+            "decryptionkey": "fc4b85d767f513b33d22062a73c72e11855638912726e6927cb6bbc79cc698f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18184035",
+                "timeupdated": "1745957865"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
