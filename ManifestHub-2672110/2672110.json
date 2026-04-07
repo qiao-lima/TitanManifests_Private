@@ -1,0 +1,33 @@
+{
+    "appid": 2672110,
+    "name": "Fantastic Orc",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 23:23:22",
+    "change_number": 29302474,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2672111": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "215531341163548322",
+                    "size": "558634827",
+                    "download": "249980688"
+                }
+            },
+            "decryptionkey": "6c1ca96ec6c34de9c61078b9210bbdaa3cfc07a0a9083cab7b1db404c9805982"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13601023",
+                "timeupdated": "1709511837"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
