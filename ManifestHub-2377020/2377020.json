@@ -1,0 +1,28 @@
+{
+    "appid": 2377020,
+    "name": "Unbroken The Awakening",
+    "type": "Game",
+    "schinese_name": "不屈之人",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 19:44:33",
+    "change_number": 30172450,
+    "depot": {
+        "2377021": {
+            "manifests": {
+                "public": {
+                    "gid": "5080961747604805329",
+                    "size": "22977958847",
+                    "download": "9995229328"
+                }
+            },
+            "decryptionkey": "68a061415032c4d0d5e99f549787e53d66f7163a8c512cb33b1a38b1af8abfc6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19246870",
+                "timeupdated": "1752685536"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
