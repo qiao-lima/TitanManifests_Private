@@ -1,0 +1,28 @@
+{
+    "appid": 2138570,
+    "name": "Mutants: Genesis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 13:18:09",
+    "change_number": 30166426,
+    "depot": {
+        "2138571": {
+            "manifests": {
+                "public": {
+                    "gid": "6490411050099256625",
+                    "size": "1023336465",
+                    "download": "701265344"
+                }
+            },
+            "decryptionkey": "b5e606dd475e60277c22b9470381613c56f7666f97419a6a2e5ea46bb9765e98"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19061794",
+                "timeupdated": "1751445798"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
