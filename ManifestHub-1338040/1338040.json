@@ -1,0 +1,32 @@
+{
+    "appid": 1338040,
+    "name": "Automobilista 2 - Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 16:23:07",
+    "change_number": 29862984,
+    "depot": {
+        "1338041": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2465246470394129566",
+                    "size": "16044898",
+                    "download": "5376896"
+                }
+            },
+            "decryptionkey": "8911dcbe313c35b1019d4d342f813b31cfb22f65726890eb1f9eeaaea5dfc951"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19081257",
+                "timeupdated": "1751469781"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
