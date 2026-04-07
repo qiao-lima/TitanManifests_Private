@@ -1,0 +1,27 @@
+{
+    "appid": 1740570,
+    "name": "CURSED NIGHT - The House",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 12:16:15",
+    "change_number": 29785449,
+    "depot": {
+        "1740571": {
+            "manifests": {
+                "public": {
+                    "gid": "8207489714745367138",
+                    "size": "5877909429",
+                    "download": "2217342176"
+                }
+            },
+            "decryptionkey": "41f3abd9c1a9f194b05296e65992a0aea9de720fa3710a4267bc8df7ab866036"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7377778",
+                "timeupdated": "1631885389"
+            }
+        }
+    }
+}
