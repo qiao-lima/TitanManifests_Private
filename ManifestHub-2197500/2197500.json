@@ -1,0 +1,27 @@
+{
+    "appid": 2197500,
+    "name": "Mining Copper",
+    "type": "Game",
+    "schinese_name": "挖铜矿",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 21:03:59",
+    "change_number": 29372089,
+    "depot": {
+        "2197501": {
+            "manifests": {
+                "public": {
+                    "gid": "6689790861007863432",
+                    "size": "75653536",
+                    "download": "23393648"
+                }
+            },
+            "decryptionkey": "781166feddc5490ddb12d7efd63acb48697e940748ff985e190d531ca1ff490b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9958253",
+                "timeupdated": "1668683767"
+            }
+        }
+    }
+}
