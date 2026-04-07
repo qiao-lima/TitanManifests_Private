@@ -1,0 +1,30 @@
+{
+    "appid": 385690,
+    "name": "Wave Mechanics",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 09:15:00",
+    "change_number": 29677882,
+    "depot": {
+        "385691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3022175564672578974",
+                    "size": "139462078",
+                    "download": "86975712"
+                }
+            },
+            "decryptionkey": "d55975c109e868065db54d9c6c474fcd93a61b9b2d9483ab89ee022773f1eb50"
+        },
+        "branches": {
+            "public": {
+                "buildid": "888202"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
