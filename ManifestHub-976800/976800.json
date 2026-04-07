@@ -1,0 +1,50 @@
+{
+    "appid": "976800",
+    "type": "Game",
+    "name": "九劫曲:诅咒之地 NINE TRIALS",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28108169",
+    "update_time": "2025-03-24 20:18:26",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "976801": {
+            "manifests": {
+                "public": {
+                    "gid": "1545072270683891824",
+                    "size": "12616980523",
+                    "download": "3397732736"
+                }
+            },
+            "decryptionkey": "e5473c1253917a867755672a7c3ba88181ba9fa5a2e8637e027083efc0330f4f"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "4667195",
+                "timeupdated": "1581498596"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
