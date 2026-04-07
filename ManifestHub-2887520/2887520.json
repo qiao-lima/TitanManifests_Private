@@ -1,0 +1,62 @@
+{
+    "appid": 2887520,
+    "name": "The Midnight Walkers Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 17:11:55",
+    "change_number": 30028855,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2887521": {
+            "manifests": {
+                "public": {
+                    "gid": "1523241745306593217",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "10c6f3a58035fc6752df2ce2bb4ec1d2a64e9fc2b0eccde58a750de9db66c71e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18577785",
+                "timeupdated": "1751886783"
+            }
+        }
+    }
+}
