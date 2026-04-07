@@ -1,0 +1,43 @@
+{
+    "appid": 3393460,
+    "name": "绝世好武功测试 test server",
+    "type": "Tool",
+    "schinese_name": "绝世好武功 test server",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 11:15:31",
+    "change_number": 30129133,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3393461": {
+            "manifests": {
+                "public": {
+                    "gid": "8038632092251594048",
+                    "size": "2792395151",
+                    "download": "2482541792"
+                }
+            },
+            "decryptionkey": "fedd38f2c8dc7af9cbe2c5ca991d73b0605a7c50509d851e079b64617b44fb77"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "19273155",
+                "timeupdated": "1752833727"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
