@@ -1,0 +1,31 @@
+{
+    "appid": "526460",
+    "type": "Game",
+    "name": "KickHim",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26641980",
+    "update_time": "2024-12-14 18:39:47",
+    "depot": {
+        "526461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6931054156578137272",
+                    "size": "128007875",
+                    "download": "51188608"
+                }
+            },
+            "decryptionkey": "fb9e13cd9e8c07a5cb92bef074151c030e14f35333f52eaade6121b16adef3bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1329441",
+                "timeupdated": "1473599268"
+            }
+        }
+    },
+    "access_token": 5927194523441558911
+}
