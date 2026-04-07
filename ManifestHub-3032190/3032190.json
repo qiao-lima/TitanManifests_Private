@@ -1,0 +1,55 @@
+{
+    "appid": 3032190,
+    "name": "Just Date Vegan",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 02:50:56",
+    "change_number": 30122607,
+    "depot": {
+        "baselanguages": "english,russian",
+        "3032191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5096547247303415452",
+                    "size": "898244332",
+                    "download": "306968160"
+                }
+            },
+            "decryptionkey": "4d9a65f594a9a059e9c183a946d7a5ac772c0b3b78a71ab3192e789694aa4a22"
+        },
+        "3032192": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4099070881546812343",
+                    "size": "937654901",
+                    "download": "335476656"
+                }
+            }
+        },
+        "3032193": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "693541583258051074",
+                    "size": "910985964",
+                    "download": "323477648"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19097573",
+                "timeupdated": "1751565989"
+            }
+        }
+    }
+}
