@@ -1,0 +1,66 @@
+{
+    "appid": 3003300,
+    "name": "ZM Desktop Elf",
+    "type": "Game",
+    "schinese_name": "战盟桌面精灵",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 02:14:08",
+    "change_number": 30122124,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "workshopdepot": "3003300",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3003301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2422999640894622059",
+                    "size": "1203450644",
+                    "download": "1068945584"
+                }
+            },
+            "decryptionkey": "325e733ae4a99b056ba9313f067dd0c882e5dbed87974e0367e6446c2f876f24"
+        },
+        "3452360": {
+            "dlcappid": "3452360"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19115431",
+                "timeupdated": "1751692132"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "da49b9b1508c9326fd04bd3da51716ed170e113aaf7ce18a32272dbc65b454d2"
+    }
+}
