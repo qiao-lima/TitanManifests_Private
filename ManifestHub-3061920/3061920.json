@@ -1,0 +1,123 @@
+{
+    "appid": 3061920,
+    "name": "Instinct",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 20:56:06",
+    "change_number": 29829284,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian,polish",
+        "3061921": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3228826854825036114",
+                    "size": "3822624956",
+                    "download": "1492129968"
+                }
+            },
+            "decryptionkey": "5d6be12368b44fd2edf2d0a72f1dded154837253100ad1385b2e967fe1332f8b"
+        },
+        "3061922": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3021169174502881546",
+                    "size": "3815798963",
+                    "download": "1525308032"
+                }
+            },
+            "decryptionkey": "770c3d8250b52d29da0adef90a08c63bcbd82902170e38ef46d385990d359e22"
+        },
+        "3061923": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6268881796225904799",
+                    "size": "3873388893",
+                    "download": "1528075456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3061924": {
+            "config": {
+                "language": "czech",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5481427794408880281",
+                    "size": "3834436710",
+                    "download": "1516279856"
+                }
+            },
+            "decryptionkey": "958c90c2a74e601ca37f507f8f1bdde0d863dce6aadd7d85f161364504109e46"
+        },
+        "3061925": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4385967746925428769",
+                    "size": "3846819792",
+                    "download": "1526442144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16167231",
+                "timeupdated": "1729782336"
+            }
+        }
+    }
+}
