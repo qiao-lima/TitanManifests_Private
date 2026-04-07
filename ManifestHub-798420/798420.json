@@ -1,0 +1,69 @@
+{
+    "appid": 798420,
+    "name": "Professional Fishing",
+    "type": "Game",
+    "schinese_name": "专业钓鱼",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 19:51:04",
+    "change_number": 29607174,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,turkish",
+        "hasdepotsindlc": "0",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "798421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4043649148384855671",
+                    "size": "11964533221",
+                    "download": "4857004528"
+                },
+                "32-bit": {
+                    "gid": "4043649148384855671",
+                    "size": "11964533221",
+                    "download": "4857004528"
+                }
+            },
+            "decryptionkey": "e91ec1d1b02d69881047e5b8d12fa2e93224d2654c2cb6c020e53c4cd8217125"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4319338",
+                "timeupdated": "1571914420"
+            },
+            "32-bit": {
+                "buildid": "4319338",
+                "timeupdated": "1571921078"
+            }
+        }
+    }
+}
