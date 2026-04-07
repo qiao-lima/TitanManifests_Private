@@ -1,0 +1,32 @@
+{
+    "appid": 3075370,
+    "name": "Crazy Islands",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 04:17:45",
+    "change_number": 29536183,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3075379": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5738544433876877981",
+                    "size": "10690515397",
+                    "download": "5038199552"
+                }
+            },
+            "decryptionkey": "5137d54b97faece43a2397dbe2bc0332b3a3a4bbd413b5641b19f4ee9d6f0832"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18478663",
+                "timeupdated": "1747324860"
+            }
+        }
+    }
+}
