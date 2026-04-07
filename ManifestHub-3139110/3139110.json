@@ -1,0 +1,42 @@
+{
+    "appid": 3139110,
+    "name": "Eternal Strands Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 23:04:45",
+    "change_number": 30215513,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3139111": {
+            "manifests": {
+                "public": {
+                    "gid": "1744432711779468821",
+                    "size": "16011707845",
+                    "download": "6898257456"
+                }
+            },
+            "decryptionkey": "d7d578cf5930d86cd571bbc252f3bc320e6c5c1e5423bdbf88e97e7419c19f66"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17099544",
+                "timeupdated": "1737733795"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
