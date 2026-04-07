@@ -1,0 +1,32 @@
+{
+    "appid": 415600,
+    "name": "Kart Racing Pro",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 15:19:38",
+    "change_number": 30133364,
+    "depot": {
+        "baselanguages": "english",
+        "415601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3039828881308813942",
+                    "size": "1201044408",
+                    "download": "1004524304"
+                }
+            },
+            "decryptionkey": "2efedb4253c033ce3fcfc067c74e3175b21e25d3f7ee4ad6f2cf6ad89736598f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13024976",
+                "timeupdated": "1703253776"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
