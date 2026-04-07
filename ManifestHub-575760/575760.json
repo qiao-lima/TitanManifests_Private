@@ -1,0 +1,27 @@
+{
+    "appid": 575760,
+    "name": "Project: R.E.B.O.O.T 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 14:20:45",
+    "change_number": 29229172,
+    "depot": {
+        "575761": {
+            "manifests": {
+                "public": {
+                    "gid": "5296631492172654397",
+                    "size": "59859596",
+                    "download": "22212304"
+                }
+            },
+            "decryptionkey": "468a350edcaf85295dee5a66a33e550b4897d1f02c21fc2dcc4752e3f0ed366c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1914507",
+                "timeupdated": "1498328549"
+            }
+        }
+    }
+}
