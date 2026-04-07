@@ -1,0 +1,51 @@
+{
+    "appid": 3176210,
+    "name": "Emissary Zero Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 12:00:08",
+    "change_number": 30066738,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3176211": {
+            "manifests": {
+                "public": {
+                    "gid": "5063446159328622327",
+                    "size": "4706803057",
+                    "download": "4522608768"
+                },
+                "test": {
+                    "gid": "6700741715564892387",
+                    "size": "2909203587",
+                    "download": "2721518240"
+                }
+            },
+            "decryptionkey": "27b242ff8edfcc2412b0a47fc5b8c608cd19afe5ac5c79db74b4bc1feede3836"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17781636",
+                "timeupdated": "1742395462"
+            },
+            "test": {
+                "buildid": "16124968",
+                "description": "test",
+                "timeupdated": "1748646861"
+            }
+        }
+    }
+}
