@@ -1,0 +1,45 @@
+{
+    "appid": 648750,
+    "name": "Tokaido",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 17:06:22",
+    "change_number": 29991994,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,brazilian,ukrainian",
+        "hasdepotsindlc": "1",
+        "648751": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6187291988371558459",
+                    "size": "863427093",
+                    "download": "251691984"
+                }
+            }
+        },
+        "648752": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5168389534861654304",
+                    "size": "839481364",
+                    "download": "244122016"
+                }
+            },
+            "decryptionkey": "adb484eaa59a19b7d23d9408e2fe0dc41ad346d3221c7f501557e251a541c6e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18404839",
+                "timeupdated": "1749484023"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
