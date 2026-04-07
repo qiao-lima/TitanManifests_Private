@@ -1,0 +1,66 @@
+{
+    "appid": "589420",
+    "type": "Game",
+    "name": "Grass Cutter",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28789145",
+    "update_time": "2025-05-03 00:38:53",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "589423": {},
+        "589421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "841331570697303555",
+                    "size": "384285834",
+                    "download": "89458880"
+                }
+            },
+            "decryptionkey": "24091c04572d7bf57f301c6bb0c9507ed94a30bba3441a424af51cd253248884"
+        },
+        "589422": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6913115758434454484",
+                    "size": "351382300",
+                    "download": "94298928"
+                }
+            },
+            "decryptionkey": "e3522926abd62aff0de4622d4f79c3d08d3293c931c5fd781e0a5ecf78542ec9"
+        },
+        "589424": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5303039507949269484",
+                    "size": "384339320",
+                    "download": "106709536"
+                }
+            },
+            "decryptionkey": "2dcbcd3e717e5532b2ff837665c80144c47d88ec08c4fbd8fe0cdb4481462097"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18324027",
+                "timeupdated": "1746203929"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
