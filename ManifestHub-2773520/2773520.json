@@ -1,0 +1,28 @@
+{
+    "appid": 2773520,
+    "name": "完美恋人~fragile love",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 11:44:39",
+    "change_number": 30184207,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2773524": {
+            "manifests": {
+                "public": {
+                    "gid": "7432924373694081971",
+                    "size": "609480273",
+                    "download": "321669872"
+                }
+            },
+            "decryptionkey": "e45a3f2bda75df3b55ccb5e271ef65316325ed8f224cc22bd76732f0932aa696"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19313326",
+                "timeupdated": "1753180689"
+            }
+        }
+    }
+}
