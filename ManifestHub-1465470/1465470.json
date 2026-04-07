@@ -1,0 +1,96 @@
+{
+    "appid": 1465470,
+    "name": "The Crust",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 23:10:20",
+    "change_number": 30215566,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1465471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7971347284320362084",
+                    "size": "6728974305",
+                    "download": "6511725344"
+                },
+                "beta": {
+                    "gid": "3954288192052810014",
+                    "size": "6728972639",
+                    "download": "6511685152"
+                },
+                "previous": {
+                    "gid": "9015014114935934479",
+                    "size": "5662389192",
+                    "download": "5445752064"
+                },
+                "previous2": {
+                    "gid": "8150424745384511003",
+                    "size": "6712696022",
+                    "download": "6496072960"
+                },
+                "previous3": {
+                    "gid": "625617065279728333",
+                    "size": "6728939981",
+                    "download": "6511819840"
+                },
+                "previous4": {
+                    "gid": "558904616892888505",
+                    "size": "6728801554",
+                    "download": "6511685776"
+                }
+            },
+            "decryptionkey": "93f4a37540967cc2e6b661061973e3281089b15e33a95fd24afdb5e6045aeebd"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "19333718",
+                "timeupdated": "1753302168"
+            },
+            "beta": {
+                "buildid": "19334700",
+                "description": "Outposts Beta 0.99.11-exp",
+                "timeupdated": "1753308587"
+            },
+            "previous": {
+                "buildid": "18090669",
+                "description": "Old 0.96.40",
+                "timeupdated": "1752144725"
+            },
+            "previous2": {
+                "buildid": "19121545",
+                "description": "Old 0.98.94",
+                "timeupdated": "1752144765"
+            },
+            "previous3": {
+                "buildid": "19312382",
+                "description": "Old 0.99.09",
+                "timeupdated": "1753221170"
+            },
+            "previous4": {
+                "buildid": "19196047",
+                "description": "Old 0.99.00",
+                "timeupdated": "1752351371"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
