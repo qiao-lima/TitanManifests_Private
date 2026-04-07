@@ -1,0 +1,28 @@
+{
+    "appid": 2513140,
+    "name": "江华号",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 14:14:51",
+    "change_number": 29810025,
+    "depot": {
+        "2513141": {
+            "manifests": {
+                "public": {
+                    "gid": "933697100422758611",
+                    "size": "1467632911",
+                    "download": "1043087472"
+                }
+            },
+            "decryptionkey": "ea1815ae05e806c5cb9088028ee2348204cf0359b8537678845d955f52a0b72d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13215666",
+                "timeupdated": "1705646880"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
