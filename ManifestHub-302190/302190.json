@@ -1,0 +1,102 @@
+{
+    "appid": 302190,
+    "name": "Amerzone: The Explorer’s Legacy (1999)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 18:00:33",
+    "change_number": 29972635,
+    "depot": {
+        "302191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4206247950959042914",
+                    "size": "1940247367",
+                    "download": "1750962656"
+                }
+            },
+            "decryptionkey": "3aee4c6afd0e85bb888062b0ac797a18b8c7324f057423e8fa577c76eb127d70"
+        },
+        "302192": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7743425415301389059",
+                    "size": "1940247367",
+                    "download": "1759545168"
+                }
+            },
+            "decryptionkey": "af66cff71ea9db089b4c8a38bf3013b1b504fa9a3813b4f9cb456e2eb1b531b4"
+        },
+        "302193": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7427589757866124032",
+                    "size": "1928131652",
+                    "download": "1753098880"
+                }
+            },
+            "decryptionkey": "6a1f5593f7793d7e6eceb12550bb078c16fcd795801b9a0629d5b921ef01177b"
+        },
+        "302194": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1582459276961959209",
+                    "size": "1935909803",
+                    "download": "1750737600"
+                }
+            },
+            "decryptionkey": "0af99cc86fdbcb9f6f992e2f5d2b66a5abff689f48cebadb993fc522655a5d68"
+        },
+        "302195": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5103744175423415480",
+                    "size": "1926918353",
+                    "download": "1757824000"
+                }
+            },
+            "decryptionkey": "161c6a12dc51fc534e4734b621560a986bac8fc6e6fe1537cbed2e247b6a94e7"
+        },
+        "302196": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6734656930481816274",
+                    "size": "1949223466",
+                    "download": "1775766784"
+                }
+            },
+            "decryptionkey": "7a60d37d62c6ac324b720f9e71f8462dbc82742abad8793b619e97c037c65e3e"
+        },
+        "302197": {},
+        "branches": {
+            "public": {
+                "buildid": "16998757",
+                "timeupdated": "1744040759"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
