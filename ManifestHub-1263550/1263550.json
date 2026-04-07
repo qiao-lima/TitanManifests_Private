@@ -1,0 +1,56 @@
+{
+    "appid": 1263550,
+    "name": "COMBAT ARMS: THE CLASSIC",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 12:10:03",
+    "change_number": 30184623,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1263551": {
+            "manifests": {
+                "public": {
+                    "gid": "2834336233062304250",
+                    "size": "8406714927",
+                    "download": "2704428768"
+                }
+            },
+            "decryptionkey": "72eae8c22287d4eff90915a671f7f2c1552096730e83974949117f8d30cdc4fd"
+        },
+        "baselanguages": "english,german,italian,schinese,portuguese,turkish,arabic",
+        "branches": {
+            "public": {
+                "buildid": "19313709",
+                "timeupdated": "1753182598"
+            }
+        }
+    }
+}
