@@ -1,0 +1,46 @@
+{
+    "appid": 2594940,
+    "name": "Signal",
+    "type": "Game",
+    "schinese_name": "信号",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 02:31:53",
+    "change_number": 29833732,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "2594941": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4563822259242882237",
+                    "size": "34471786434",
+                    "download": "33822886896"
+                }
+            },
+            "decryptionkey": "ef49471e22a3a38134bdf0b58eebe0ceab226ad2464db2491eb5c8462f7a6bb9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14221465",
+                "timeupdated": "1714483736"
+            }
+        }
+    }
+}
