@@ -1,0 +1,27 @@
+{
+    "appid": 3344150,
+    "name": "Gift Collector [ギフトコレクター]",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 08:35:43",
+    "change_number": 29916608,
+    "depot": {
+        "3344151": {
+            "manifests": {
+                "public": {
+                    "gid": "5968451666248173042",
+                    "size": "8250166998",
+                    "download": "3681618352"
+                }
+            },
+            "decryptionkey": "f1c6362979190f75050e9a30b13a60912afdeb63fb9ee9f6292f87f6ae3198c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16835659",
+                "timeupdated": "1734962690"
+            }
+        }
+    }
+}
