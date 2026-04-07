@@ -1,0 +1,27 @@
+{
+    "appid": 1796880,
+    "name": "The Legend of Tianding Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 04:21:46",
+    "change_number": 29536249,
+    "depot": {
+        "1796881": {
+            "manifests": {
+                "public": {
+                    "gid": "2588239443253411917",
+                    "size": "87815040",
+                    "download": "86721232"
+                }
+            },
+            "decryptionkey": "ed1fb360eed7a92ce6f3bb3a4e140b57e5f868ebb54c3a16fed66dc970c76020"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7564283",
+                "timeupdated": "1634701030"
+            }
+        }
+    }
+}
