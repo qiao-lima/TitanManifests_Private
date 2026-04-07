@@ -1,0 +1,30 @@
+{
+    "appid": 579720,
+    "name": "Neverout",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:05:38",
+    "change_number": 29610163,
+    "depot": {
+        "579721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8570480455122720041",
+                    "size": "1342079070",
+                    "download": "569205136"
+                }
+            },
+            "decryptionkey": "f260bf2098cee646a3a3ed40fd4513eafb7229735d8c1dd1ff45cf6f19551673"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3530056",
+                "timeupdated": "1549291758"
+            }
+        }
+    }
+}
