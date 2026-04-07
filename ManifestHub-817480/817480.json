@@ -1,0 +1,69 @@
+{
+    "appid": "817480",
+    "type": "Tool",
+    "name": "Total War Saga: Thrones of Britannia - Assembly Kit BETA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27204176",
+    "update_time": "2025-01-29 00:44:32",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "817481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4074723242274715805",
+                    "size": "3290558352",
+                    "download": "694895344"
+                },
+                "allegiance_patch": {
+                    "gid": "5738261842482640852",
+                    "size": "4791956645",
+                    "download": "868047056"
+                }
+            },
+            "decryptionkey": "96010d20b58018156131be3fdaca883c2f15787b98340a9bb75a224bd938bd23"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5296335",
+                "timeupdated": "1595325605"
+            },
+            "allegiance_patch": {
+                "buildid": "3068537",
+                "description": "allegiance_patch",
+                "timeupdated": "1545293268"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
