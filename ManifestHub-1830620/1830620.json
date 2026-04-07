@@ -1,0 +1,27 @@
+{
+    "appid": 1830620,
+    "name": "Pleasure Party",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 20:14:04",
+    "change_number": 29772214,
+    "depot": {
+        "1830621": {
+            "manifests": {
+                "public": {
+                    "gid": "5259317435632548610",
+                    "size": "9243634198",
+                    "download": "3719757088"
+                }
+            },
+            "decryptionkey": "89cc55b751c7698e29cb5ad63605cce893f156f3f2460441a3948bb76d92132f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8959547",
+                "timeupdated": "1655496871"
+            }
+        }
+    }
+}
