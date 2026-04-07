@@ -1,0 +1,34 @@
+{
+    "appid": "546450",
+    "type": "Game",
+    "name": "North Side",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23862543",
+    "update_time": "2024-08-14 19:17:08",
+    "depot": {
+        "546451": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4940604886489497794",
+                    "size": "144341085",
+                    "download": "62014320"
+                }
+            },
+            "decryptionkey": "f55c76e7ebdec312eea54a6878ad0f1a7705ce17d2dd07024418f2182fbb505e"
+        },
+        "546452": {},
+        "branches": {
+            "public": {
+                "buildid": "1409872",
+                "timeupdated": "1477305190"
+            }
+        }
+    },
+    "access_token": 32700095339888459
+}
