@@ -1,0 +1,57 @@
+{
+    "appid": "629280",
+    "type": "Game",
+    "name": "Run Away",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27024139",
+    "update_time": "2025-01-16 19:53:08",
+    "depot": {
+        "629281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3313732164073157445",
+                    "size": "106882053",
+                    "download": "33374128"
+                }
+            },
+            "decryptionkey": "bc219c8f6988769ade75c7732947e6233c69a38c8a75be993058c7c83f4a4449"
+        },
+        "629282": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5299283972783464629",
+                    "size": "115916825",
+                    "download": "35794944"
+                }
+            },
+            "decryptionkey": "9e40db4b25e8ddb2172b8de6c49449be2d02aef79af001451d1c256713d6de3f"
+        },
+        "629283": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2300499086669420494",
+                    "size": "151733206",
+                    "download": "44984288"
+                }
+            },
+            "decryptionkey": "bfbfd720c057e22e030fdb51230a948a6efc2f80885c8e3fb551a8e7a67310fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1920081",
+                "timeupdated": "1498582047"
+            }
+        }
+    },
+    "access_token": 7790636877403037208
+}
