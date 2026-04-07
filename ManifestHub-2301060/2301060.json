@@ -1,0 +1,39 @@
+{
+    "appid": 2301060,
+    "name": "Hand2Hand project",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 20:56:01",
+    "change_number": 29572174,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "2301061": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6251777792191785832",
+                    "size": "106355695",
+                    "download": "96525408"
+                }
+            },
+            "decryptionkey": "f829829907baf428ffcb02da3de486ee440053afebb3be4ec7e1181981f56cb7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18872091",
+                "timeupdated": "1749971677"
+            }
+        }
+    }
+}
