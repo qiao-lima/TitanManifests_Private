@@ -1,0 +1,51 @@
+{
+    "appid": 908360,
+    "name": "Monomyth",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 07:52:15",
+    "change_number": 30143893,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "908361": {
+            "manifests": {
+                "public": {
+                    "gid": "5834967982422845029",
+                    "size": "4391387219",
+                    "download": "4148805408"
+                },
+                "testing": {
+                    "gid": "5834967982422845029",
+                    "size": "4391387219",
+                    "download": "4148805408"
+                }
+            },
+            "decryptionkey": "f004ab45afada2c657ed7a32dd0a281a9b0df9056fe522c9d4c74390d82b5b9d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19000390",
+                "timeupdated": "1750958188"
+            },
+            "testing": {
+                "buildid": "19000390",
+                "description": "Public testing branch",
+                "timeupdated": "1750880493"
+            }
+        }
+    }
+}
