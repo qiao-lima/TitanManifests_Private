@@ -1,0 +1,41 @@
+{
+    "appid": 2898250,
+    "name": "Rent A Car Simulator 24: Prologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 04:02:12",
+    "change_number": 29594361,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2898251": {
+            "manifests": {
+                "public": {
+                    "gid": "5719320207884534806",
+                    "size": "4334749016",
+                    "download": "4015929696"
+                }
+            },
+            "decryptionkey": "f0ec4fd554b79b812d6d955c0567e460c9ff5acfd1c49e0cbad201b82e9633fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18887491",
+                "timeupdated": "1750102148"
+            }
+        }
+    }
+}
