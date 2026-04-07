@@ -1,0 +1,62 @@
+{
+    "appid": 2218970,
+    "name": "Plains of Pain",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:04:48",
+    "change_number": 30212243,
+    "depot": {
+        "2218971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3878018010817397830",
+                    "size": "4207358745",
+                    "download": "2094041776"
+                },
+                "experimental": {
+                    "gid": "3878018010817397830",
+                    "size": "4207358745",
+                    "download": "2094041776"
+                },
+                "previous": {
+                    "gid": "4592359011091957356",
+                    "size": "4207354326",
+                    "download": "2094056512"
+                },
+                "v0.5": {
+                    "gid": "7056385628732735879",
+                    "size": "5409139794",
+                    "download": "2707123312"
+                }
+            },
+            "decryptionkey": "48988c75888be5d10947bc1742dc672de4fc08204c95d2d809398f3eb1def877"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19213917",
+                "timeupdated": "1752500515"
+            },
+            "experimental": {
+                "buildid": "19213917",
+                "description": "Next unstable patch",
+                "timeupdated": "1752500449"
+            },
+            "previous": {
+                "buildid": "19180446",
+                "description": "Previous working patch",
+                "timeupdated": "1752500502"
+            },
+            "v0.5": {
+                "buildid": "16964771",
+                "description": "Plains of Pain v0.5",
+                "timeupdated": "1744743012"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
