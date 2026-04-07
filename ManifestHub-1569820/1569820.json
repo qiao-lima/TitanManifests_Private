@@ -1,0 +1,51 @@
+{
+    "appid": 1569820,
+    "name": "Shades Of Rayna",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 18:56:28",
+    "change_number": 30191636,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1569821": {
+            "manifests": {
+                "public": {
+                    "gid": "1593751192667036407",
+                    "size": "13935861225",
+                    "download": "13568994192"
+                },
+                "beta": {
+                    "gid": "1828205950668605732",
+                    "size": "13323642953",
+                    "download": "12948787296"
+                }
+            },
+            "decryptionkey": "44e9977c512cd957fd4451b094c2fc877f56636793140ca9e9003ad35445c129"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19318455",
+                "timeupdated": "1753206984"
+            },
+            "beta": {
+                "buildid": "15215519",
+                "description": "Beta",
+                "timeupdated": "1722446427"
+            }
+        }
+    }
+}
