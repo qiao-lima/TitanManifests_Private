@@ -1,0 +1,45 @@
+{
+    "appid": 667610,
+    "name": "Ancient Cities",
+    "type": "Game",
+    "schinese_name": "Ancient Cities  古城",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 21:32:04",
+    "change_number": 30138873,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,spanish",
+        "667611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5616402744458431425",
+                    "size": "4904359050",
+                    "download": "1922370720"
+                },
+                "previous": {
+                    "gid": "4472377466442085264",
+                    "size": "4878360799",
+                    "download": "1903914064"
+                }
+            },
+            "decryptionkey": "fd2dde360768a68e4e347fb8042dca6a1a6ea926afa87305d1b8355cc5dfcc85"
+        },
+        "workshopdepot": "667610",
+        "branches": {
+            "public": {
+                "buildid": "19118306",
+                "timeupdated": "1751732212"
+            },
+            "previous": {
+                "buildid": "17923044",
+                "description": "v1.0.6.6",
+                "timeupdated": "1750955851"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8d770b5a753447ba2d7697aae8b51d1c67a89a9db973c584948a06987e4d70e2"
+    }
+}
