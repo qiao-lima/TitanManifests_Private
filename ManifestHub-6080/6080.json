@@ -1,0 +1,80 @@
+{
+    "appid": 6080,
+    "name": "Thrillville: Off the Rails",
+    "type": "Game",
+    "schinese_name": "模拟乐园：惊奇世界",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 22:55:09",
+    "change_number": 29724809,
+    "depot": {
+        "6081": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6346186066707809645",
+                    "size": "3801459424",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b92954c37d978e8bb1070db2fee9ab55c15fdff5a0573642b5a20a2936561422"
+        },
+        "6082": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "778398163622586286",
+                    "size": "597172993",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5359a88e9dd005cf1db223ba83cd8836718ccc50afb2e0934f5d80eed0b32c4d"
+        },
+        "6083": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2525139649832140013",
+                    "size": "648542721",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9897e68f67a535cf1b3a0e3c784d3d9a465bfa05ab52763bc37cc341789146e9"
+        },
+        "6084": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3283828742594175119",
+                    "size": "661766338",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ccffb51fd1f34a278f2a88fe8a0fdbd0ff374cc0dcbf7b3441dc9a2d96bfade9"
+        },
+        "6085": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4363381561763326605",
+                    "size": "632757760",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8e83e3052401c8564a4e96c206dd1abb8ef0bfbe4c056ca2d345060974854126"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "251746"
+            }
+        }
+    }
+}
