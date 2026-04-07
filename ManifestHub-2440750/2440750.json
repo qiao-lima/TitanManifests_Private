@@ -1,0 +1,42 @@
+{
+    "appid": 2440750,
+    "name": "Silent North",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 03:52:32",
+    "change_number": 30160156,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2440752": {
+            "manifests": {
+                "public": {
+                    "gid": "2190210517179450779",
+                    "size": "1840061135",
+                    "download": "1450539648"
+                }
+            },
+            "decryptionkey": "00d9dd15a98f0c7e647e9ee304b158435db7197fb839bf49fd0b09a37de22f9f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18648759",
+                "timeupdated": "1748470732"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
