@@ -1,0 +1,27 @@
+{
+    "appid": 2845840,
+    "name": "barbotine",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 16:51:04",
+    "change_number": 30147577,
+    "depot": {
+        "2845841": {
+            "manifests": {
+                "public": {
+                    "gid": "5920030886061334588",
+                    "size": "162461785",
+                    "download": "44918416"
+                }
+            },
+            "decryptionkey": "64078da43b5b9a7e53fcdc10fc0d4c42164f2753d1684994b31bb5bdf63814bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14046557",
+                "timeupdated": "1713045336"
+            }
+        }
+    }
+}
