@@ -1,0 +1,42 @@
+{
+    "appid": 3150030,
+    "name": "Paper Battlefield",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 05:55:59",
+    "change_number": 29798878,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3150031": {
+            "manifests": {
+                "public": {
+                    "gid": "4277737639560923721",
+                    "size": "443991077",
+                    "download": "338837824"
+                }
+            },
+            "decryptionkey": "82ab9d792128d4df020c20713de0ae3156f6e011d543f11dad9fbadf534a42f7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19010563",
+                "timeupdated": "1751086553"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
