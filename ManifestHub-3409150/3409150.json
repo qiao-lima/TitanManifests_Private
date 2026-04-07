@@ -1,0 +1,28 @@
+{
+    "appid": 3409150,
+    "name": "RPG Maker MZ - KR Stone Quarry Tileset",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 00:23:10",
+    "change_number": 29977586,
+    "depot": {
+        "3409150": {
+            "manifests": {
+                "public": {
+                    "gid": "4911124538046655107",
+                    "size": "47955289",
+                    "download": "47977296"
+                }
+            },
+            "dlcappid": "3409150",
+            "decryptionkey": "12d0114c89bcc86eef2b486a96481a665f61fdabbaa293d0a8772d889fd89046"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19167508",
+                "timeupdated": "1752103265"
+            }
+        }
+    }
+}
