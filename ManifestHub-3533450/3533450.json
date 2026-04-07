@@ -1,0 +1,48 @@
+{
+    "appid": 3533450,
+    "name": "ずんだもん DLC",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 09:07:53",
+    "change_number": 30201958,
+    "depot": {
+        "3533450": {
+            "manifests": {
+                "public": {
+                    "gid": "9194202751680967547",
+                    "size": "4206892",
+                    "download": "4207264"
+                },
+                "debug": {
+                    "gid": "9194202751680967547",
+                    "size": "4206892",
+                    "download": "4207264"
+                },
+                "oldversion_test": {
+                    "gid": "9165141286843120420",
+                    "size": "4196147",
+                    "download": "4253616"
+                }
+            },
+            "dlcappid": "3533450",
+            "decryptionkey": "9c3422e204117b9185c9474c97cfb09cc8f9dffd5bf40704c2747623474dea8f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19322475",
+                "timeupdated": "1753258067"
+            },
+            "debug": {
+                "buildid": "19322475",
+                "description": "debug",
+                "timeupdated": "1753236055"
+            },
+            "oldversion_test": {
+                "buildid": "17863016",
+                "description": "for check old builds",
+                "timeupdated": "1750063434"
+            }
+        }
+    }
+}
