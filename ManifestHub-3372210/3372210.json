@@ -1,0 +1,27 @@
+{
+    "appid": 3372210,
+    "name": "LIGHTNING RETURNS:FINAL FANTASY XIII Original Soundtrack PLUS",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:11:06",
+    "change_number": 28736706,
+    "depot": {
+        "3372211": {
+            "manifests": {
+                "public": {
+                    "gid": "3263628168975093125",
+                    "size": "177030737",
+                    "download": "159362752"
+                }
+            },
+            "decryptionkey": "2c7adea10b6cc96205c1ca1aa0051784bdfa016727929d68dae38bf73ff62978"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16679014",
+                "timeupdated": "1733740267"
+            }
+        }
+    }
+}
