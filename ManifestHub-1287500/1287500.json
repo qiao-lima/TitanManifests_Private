@@ -1,0 +1,31 @@
+{
+    "appid": 1287500,
+    "name": "Geisha World",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 16:42:08",
+    "change_number": 30189297,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1287501": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1205794095757115202",
+                    "size": "240849301",
+                    "download": "144767072"
+                }
+            },
+            "decryptionkey": "f1d1830d8cefed8db47166eba445796042a01f61d50494a1327d91f62c19349a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4892504",
+                "timeupdated": "1586800113"
+            }
+        }
+    }
+}
