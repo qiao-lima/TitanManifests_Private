@@ -1,0 +1,45 @@
+{
+    "appid": 2668530,
+    "name": "The Rake",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 06:17:39",
+    "change_number": 29780045,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2668531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "189118846927380690",
+                    "size": "5042673115",
+                    "download": "4901123056"
+                }
+            },
+            "decryptionkey": "3a8447dfffb17f85a96a9974cc585ec2420439d52580897e8ca908565f1a41c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18978810",
+                "timeupdated": "1750938805"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
