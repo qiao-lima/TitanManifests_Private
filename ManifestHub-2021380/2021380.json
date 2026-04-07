@@ -1,0 +1,47 @@
+{
+    "appid": "2021380",
+    "type": "Game",
+    "name": "Steelrising - Closed Beta",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "22534048",
+    "update_time": "2024-05-27 11:50:10",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2021381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8820024585094412878",
+                    "size": "63710859310",
+                    "download": "62644346896"
+                }
+            },
+            "decryptionkey": "c02004180079587824faed5442cdde142c448505eb5c33728458127ea2533dc9"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "9372513",
+                "timeupdated": "1661416023"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
