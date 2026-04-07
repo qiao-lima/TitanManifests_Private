@@ -1,0 +1,27 @@
+{
+    "appid": 344130,
+    "name": "Cataegis : The White Wind",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 16:38:22",
+    "change_number": 29173305,
+    "depot": {
+        "344131": {
+            "manifests": {
+                "public": {
+                    "gid": "4935492876862682509",
+                    "size": "46468746",
+                    "download": "37537552"
+                }
+            },
+            "decryptionkey": "0397a916c1807f983287b4a89eb9b71681d1570dda8b6fcf6dc77910e6eb6018"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3297131",
+                "timeupdated": "1541952594"
+            }
+        }
+    }
+}
