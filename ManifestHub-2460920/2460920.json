@@ -1,0 +1,61 @@
+{
+    "appid": 2460920,
+    "name": "ACRES",
+    "type": "Game",
+    "schinese_name": "亩地",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 21:21:44",
+    "change_number": 30214154,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2460921": {
+            "manifests": {
+                "public": {
+                    "gid": "8373517173147029730",
+                    "size": "1595557059",
+                    "download": "1186591168"
+                },
+                "development": {
+                    "gid": "1319748147511870898",
+                    "size": "1595252815",
+                    "download": "1186293408"
+                },
+                "previous": {
+                    "gid": "997099513326460002",
+                    "size": "2117514553",
+                    "download": "1313740896"
+                }
+            },
+            "decryptionkey": "ad0b9b063d3c69f1fe34bf3c4510219dae3ca63111aa38b5363735d52eb8f94e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19249063",
+                "timeupdated": "1752692817"
+            },
+            "development": {
+                "buildid": "19294449",
+                "description": "Beta Testing",
+                "timeupdated": "1753057908"
+            },
+            "previous": {
+                "buildid": "19030512",
+                "description": "Last Stable Branch",
+                "timeupdated": "1752692781"
+            }
+        }
+    }
+}
