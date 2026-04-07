@@ -1,0 +1,44 @@
+{
+    "appid": 724010,
+    "name": "House of Velez - part 1",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 15:00:48",
+    "change_number": 29989581,
+    "depot": {
+        "724011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7140192064124703362",
+                    "size": "1004284201",
+                    "download": "890293728"
+                }
+            },
+            "decryptionkey": "f7b71d67ba09fe3e390099c5ece05ddf2014455b3ac4a654cd273f08ed04769f"
+        },
+        "1061740": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "475201194365515625",
+                    "size": "1498637262",
+                    "download": "1391392160"
+                }
+            },
+            "dlcappid": "1061740",
+            "decryptionkey": "7938902e7395847956965e691e971a019fb0d23703b25d1c345de3324a5575b2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3711517",
+                "timeupdated": "1554447921"
+            }
+        }
+    }
+}
