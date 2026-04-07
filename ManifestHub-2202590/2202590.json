@@ -1,0 +1,49 @@
+{
+    "appid": 2202590,
+    "name": "Shape Shifter: Formations",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 19:52:52",
+    "change_number": 29747950,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2202591": {
+            "manifests": {
+                "public": {
+                    "gid": "226988963426971914",
+                    "size": "999978010",
+                    "download": "874975888"
+                }
+            },
+            "decryptionkey": "9ba4c6b6f7cdb552e31f84baaa2e174457c18887593f3c58a5037cb2185861e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18999790",
+                "timeupdated": "1750877566"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
