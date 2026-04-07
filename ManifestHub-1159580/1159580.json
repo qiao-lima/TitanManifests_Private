@@ -1,0 +1,30 @@
+{
+    "appid": 1159580,
+    "name": "Moonlighter (Between Dimensions Soundtrack)",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:19:20",
+    "change_number": 26201212,
+    "depot": {
+        "1159581": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7384121196438923661",
+                    "size": "481994915",
+                    "download": "420180896"
+                }
+            },
+            "decryptionkey": "6c9506fce0bb98a12b1f1654ed3927a14aa901bb12b027b4037aeffaba80c661"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4664731",
+                "timeupdated": "1581438960"
+            }
+        }
+    }
+}
