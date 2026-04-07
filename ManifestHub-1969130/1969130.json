@@ -1,0 +1,47 @@
+{
+    "appid": 1969130,
+    "name": "Trash Patrol - Academic Version",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-20 01:52:32",
+    "change_number": 30150880,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1969131": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5479525938376339012",
+                    "size": "968635041",
+                    "download": "678698208"
+                }
+            },
+            "decryptionkey": "6c5ba7cd3cb1cdaf1339116b0239367dbc1754f764079c6a0b1b3476a8163e34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9001564",
+                "timeupdated": "1656546073"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
