@@ -1,0 +1,177 @@
+{
+    "appid": 340990,
+    "name": "Bolt",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:26:04",
+    "change_number": 29131086,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,dutch,czech,brazilian",
+        "340991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4791342756133570435",
+                    "size": "4410463285",
+                    "download": "3761215456"
+                }
+            },
+            "decryptionkey": "8eb42336abc01c8086d88ad39ea78febf64079441bff92ca145d3de269089737"
+        },
+        "340992": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3947352605522898248",
+                    "size": "3020388487",
+                    "download": "2205361648"
+                }
+            },
+            "decryptionkey": "eeb1e606508ff9f3ed748d5fb43f65fed6e1f03b84a1bca2446c60c767cf9e70"
+        },
+        "340993": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1914417402043152744",
+                    "size": "3019777527",
+                    "download": "2206893504"
+                }
+            },
+            "decryptionkey": "f4b1cc200a7e3dc23499e5a49ddbbf93df1a9adf147147167f55931489bd24d1"
+        },
+        "340994": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2119980155050651625",
+                    "size": "3020025010",
+                    "download": "2205521936"
+                }
+            },
+            "decryptionkey": "3e7c536faf1f76a52ebae782d1d649b9f550cb83c2840619c3753abcead32fb5"
+        },
+        "340995": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3242536624626233962",
+                    "size": "3027135078",
+                    "download": "2205266816"
+                }
+            },
+            "decryptionkey": "597a6477b9d32fb1ef35585d466cc05890de036a27190aca9e961c9920654280"
+        },
+        "340996": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7697613911064650713",
+                    "size": "3019881512",
+                    "download": "2191029216"
+                }
+            },
+            "decryptionkey": "397e2a948f5d25224e8b5c78c7c0b56e12f66b2f42ac7f85dc1ef48216887f77"
+        },
+        "340997": {
+            "config": {
+                "language": "dutch",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "776072165725840174",
+                    "size": "3017578743",
+                    "download": "2187100592"
+                }
+            },
+            "decryptionkey": "65158139a02e1666c575f5e9e78bf16d295bf1a9d931b58eb2592065cf8c495f"
+        },
+        "340998": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3600975443958076748",
+                    "size": "3026510259",
+                    "download": "2193741792"
+                }
+            },
+            "decryptionkey": "a95d7d915213f483301620843213d3fedfbf935f68813d7c8fc39dfb1e1aae90"
+        },
+        "340999": {
+            "config": {
+                "language": "czech",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2053702404840716981",
+                    "size": "3023931980",
+                    "download": "2189949408"
+                }
+            },
+            "decryptionkey": "b1ce8bad0d776c1ccb79421663ed9ecb34d7dcca167126f83b2c1a2cd17e7d4b"
+        },
+        "341130": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4501845692540613921",
+                    "size": "3435702972",
+                    "download": "2313450528"
+                }
+            },
+            "decryptionkey": "50b07a220b6bae9031039dcaa4f216289c94b538deb5fe3fb8bcc9834b04d6ac"
+        },
+        "341131": {
+            "config": {
+                "language": "brazilian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3548105574618121344",
+                    "size": "2966173186",
+                    "download": "2163480032"
+                }
+            },
+            "decryptionkey": "013ec2421175327be634516973598f92749e235c50a544611e244ed611b6b4bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "484456"
+            }
+        }
+    }
+}
