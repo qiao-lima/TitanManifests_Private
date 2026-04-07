@@ -1,0 +1,27 @@
+{
+    "appid": 603120,
+    "name": "Happy Campers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 02:45:06",
+    "change_number": 29777690,
+    "depot": {
+        "603121": {
+            "manifests": {
+                "public": {
+                    "gid": "6803710161069150532",
+                    "size": "362265499",
+                    "download": "254403520"
+                }
+            },
+            "decryptionkey": "fa769532c4a9d00bae0c0767ba04b9fc876314606e1d1dca1831e09963cab845"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3160736",
+                "timeupdated": "1538033285"
+            }
+        }
+    }
+}
