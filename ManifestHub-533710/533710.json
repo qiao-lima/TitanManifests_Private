@@ -1,0 +1,31 @@
+{
+    "appid": "533710",
+    "type": "Game",
+    "name": "Torch Cave 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23335325",
+    "update_time": "2024-08-14 19:15:20",
+    "depot": {
+        "533711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1402708253051760069",
+                    "size": "467291549",
+                    "download": "53333488"
+                }
+            },
+            "decryptionkey": "1ac515b9cc1ef319c870f17f1bf9e517ebcdbf66d89dab833ac5740100630864"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1839755",
+                "timeupdated": "1495531219"
+            }
+        }
+    },
+    "access_token": 18398133265251914859
+}
