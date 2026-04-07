@@ -1,0 +1,48 @@
+{
+    "appid": 1904020,
+    "name": "City Bus Manager - Northern Europe",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 12:47:31",
+    "change_number": 26201212,
+    "depot": {
+        "1904020": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1904020"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "17296057665156146",
+                    "size": "2278137875",
+                    "download": "2257064528"
+                }
+            },
+            "dlcappid": "1904020",
+            "decryptionkey": "19a8920f40f99f0197ca8f6f7e998e004922aeec71887003c32139b3e4bf5ce9"
+        },
+        "1904021": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1904020"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4412824665332850579",
+                    "size": "2278137875",
+                    "download": "2257064528"
+                }
+            },
+            "dlcappid": "1904020",
+            "decryptionkey": "e555bf5de17b5d97fd73dd5925bf922c96b14f200e660deebe47a118e7ef588c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10270174",
+                "timeupdated": "1675790150"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
