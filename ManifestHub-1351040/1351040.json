@@ -1,0 +1,32 @@
+{
+    "appid": 1351040,
+    "name": "RPG Maker MZ - Character Generator Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:47:55",
+    "change_number": 26201212,
+    "depot": {
+        "1351040": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8085373820840225986",
+                    "size": "1279933",
+                    "download": "1191264"
+                }
+            },
+            "dlcappid": "1351040",
+            "decryptionkey": "4c00ed433e1931a05c7f8bae44a5ce2caf87304cb2c2c29b4b099b0baea41a1a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5967564",
+                "timeupdated": "1608095858"
+            }
+        }
+    },
+    "access_token": 15757198256129292306
+}
