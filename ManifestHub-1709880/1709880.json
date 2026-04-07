@@ -1,0 +1,44 @@
+{
+    "appid": 1709880,
+    "name": "Loco Motive",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 16:10:55",
+    "change_number": 30209059,
+    "depot": {
+        "1709881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9133694923931446683",
+                    "size": "661680651",
+                    "download": "506981648"
+                }
+            },
+            "decryptionkey": "b43e55a4be57a87ddebc6885791528fec27b4941e0d0c6bd2b33cc7a07b329b6"
+        },
+        "1709882": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6406726136702040381",
+                    "size": "758622139",
+                    "download": "38962736"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18793495",
+                "timeupdated": "1749468387"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
