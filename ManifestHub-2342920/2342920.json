@@ -1,0 +1,31 @@
+{
+    "appid": 2342920,
+    "name": "OBSCURA",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 08:53:00",
+    "change_number": 29944637,
+    "depot": {
+        "2342921": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5147176450609297568",
+                    "size": "839344972",
+                    "download": "630149184"
+                }
+            },
+            "decryptionkey": "372d08f03d618294fbd92e12ac6f207df23a9de4c5f57bfbfb15edd7b9500363"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19131801",
+                "timeupdated": "1751902176"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
