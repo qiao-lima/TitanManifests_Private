@@ -1,0 +1,33 @@
+{
+    "appid": 2180210,
+    "name": "冒险日记  Adventure Diary",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 20:10:13",
+    "change_number": 30213177,
+    "depot": {
+        "baselanguages": "schinese",
+        "2180211": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2889654717726772191",
+                    "size": "302932420",
+                    "download": "165321456"
+                }
+            },
+            "decryptionkey": "7294fd7748f854a31fa2e0b55fb676d78ff5eae2f722b9e14f874b5855cc52b3"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "14891477",
+                "timeupdated": "1719817098"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
