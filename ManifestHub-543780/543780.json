@@ -1,0 +1,28 @@
+{
+    "appid": "543780",
+    "type": "Game",
+    "name": "Other Tanks",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28419968",
+    "update_time": "2025-04-11 10:27:17",
+    "depot": {
+        "543781": {
+            "manifests": {
+                "public": {
+                    "gid": "4337373764243197596",
+                    "size": "47511552",
+                    "download": "31344000"
+                }
+            },
+            "decryptionkey": "28dfe26606f21b413e6321eac32d4956fe9dfcc71487fc4495387499fee1b27b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1587157",
+                "timeupdated": "1485244196"
+            }
+        }
+    },
+    "access_token": 556538073913721850
+}
