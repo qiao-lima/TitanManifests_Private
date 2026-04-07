@@ -1,0 +1,41 @@
+{
+    "appid": 2838610,
+    "name": "Sea of Thieves Original Soundtrack - 2024 Edition",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 01:18:15",
+    "change_number": 30196531,
+    "depot": {
+        "2838611": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7875909020232001654",
+                    "size": "1738750458",
+                    "download": "1582066912"
+                }
+            },
+            "decryptionkey": "4b67114567f4436dd653b8d445f4cd17387f1847571da3df6c3dad018eb64161"
+        },
+        "2838612": {
+            "manifests": {
+                "public": {
+                    "gid": "8126627478010531120",
+                    "size": "146573856",
+                    "download": "146150848"
+                }
+            },
+            "decryptionkey": "12816d82cf7862e0f3f6f759083a0177c62fff6c33ce04679229bd72fd1f1035"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13575999",
+                "timeupdated": "1709039554"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
