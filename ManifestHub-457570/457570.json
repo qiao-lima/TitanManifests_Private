@@ -1,0 +1,65 @@
+{
+    "appid": 457570,
+    "name": "Camp Sunshine",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 03:31:15",
+    "change_number": 30041134,
+    "depot": {
+        "457571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6820210974255525857",
+                    "size": "362212803",
+                    "download": "268932800"
+                }
+            },
+            "decryptionkey": "7f23aa523091ccdc8da41c59c0677a140e315255d617461d77e0e82d6e964ba6"
+        },
+        "457572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4756179247761906860",
+                    "size": "374417712",
+                    "download": "268907312"
+                }
+            },
+            "decryptionkey": "3db4eac0e7c7962008c2f5b5de115112abf2a193531054610e990f12630b0ce9"
+        },
+        "499650": {
+            "dlcappid": "499650",
+            "manifests": {
+                "public": {
+                    "gid": "3150691604130221873",
+                    "size": "274520261",
+                    "download": "270163488"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "546690": {
+            "manifests": {
+                "public": {
+                    "gid": "496319102952352946",
+                    "size": "396563",
+                    "download": "318272"
+                }
+            },
+            "dlcappid": "546690",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1751623",
+                "timeupdated": "1491989934"
+            }
+        }
+    }
+}
