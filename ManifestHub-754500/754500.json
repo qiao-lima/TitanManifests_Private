@@ -1,0 +1,76 @@
+{
+    "appid": 754500,
+    "name": "Plutocracy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:34:59",
+    "change_number": 30203388,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "754501": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "979418013961856776",
+                    "size": "6804122872",
+                    "download": "6243077008"
+                }
+            },
+            "decryptionkey": "d1c9aba47698dd43f7b6d0bfd95efaf5e1598693bd92903575b0150b8435f9d3"
+        },
+        "754509": {
+            "config": {
+                "language": ""
+            }
+        },
+        "754502": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3291065764288644565",
+                    "size": "6847339237",
+                    "download": "6231846384"
+                }
+            },
+            "decryptionkey": "ed7e86fc7eeeaf77dfffdc051bd0f1381d39437910c66cdf0397b610f861b463"
+        },
+        "754503": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6908406265625339359",
+                    "size": "6843577813",
+                    "download": "6211152800"
+                }
+            },
+            "decryptionkey": "6cd20bafa4e5a60ef99d0b2b65c72ac8ee478e8f5ee741e31fa5c6107e3d1b0d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19265355",
+                "timeupdated": "1752783907"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
