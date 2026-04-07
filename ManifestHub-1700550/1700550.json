@@ -1,0 +1,32 @@
+{
+    "appid": 1700550,
+    "name": "Intruder on the Bridge",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 11:01:18",
+    "change_number": 29965928,
+    "depot": {
+        "baselanguages": "english,italian",
+        "1700552": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1730606332228832054",
+                    "size": "8125247936",
+                    "download": "7327053568"
+                }
+            },
+            "decryptionkey": "47c8270be87194eba069258f1bce433cc8d3f5f1f3bbb881d9fbabecb6d41bce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9037407",
+                "timeupdated": "1656599760"
+            }
+        }
+    }
+}
