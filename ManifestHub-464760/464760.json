@@ -1,0 +1,98 @@
+{
+    "appid": "464760",
+    "type": "Game",
+    "name": "Bibou",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25269390",
+    "update_time": "2024-09-18 07:14:36",
+    "depot": {
+        "baselanguages": "english",
+        "464761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5533403389729856337",
+                    "size": "129620389",
+                    "download": "54264080"
+                }
+            },
+            "decryptionkey": "a413d65e80f110ecf698a777181a3d1528cb3955c0896836884027509854e133"
+        },
+        "464762": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2411481686862621656",
+                    "size": "192138831",
+                    "download": "65534336"
+                }
+            },
+            "decryptionkey": "fc661b4ea428073c042762a3357c4b89c068cfdd99f42ac5f882e629006b0e05"
+        },
+        "464763": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9050603104416379770",
+                    "size": "161888196",
+                    "download": "56032384"
+                }
+            },
+            "decryptionkey": "b13924782efee1d67901cd463b9007bc88797aaccdac50b14967a2d6306fcb4d"
+        },
+        "528140": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "671040912245894685",
+                    "size": "258907836",
+                    "download": "56731856"
+                }
+            },
+            "dlcappid": "528140",
+            "decryptionkey": ""
+        },
+        "464764": {
+            "dlcappid": "528140",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "421114612878955968",
+                    "size": "383446935",
+                    "download": "65461120"
+                }
+            }
+        },
+        "464765": {
+            "dlcappid": "528140",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2580916157299412699",
+                    "size": "323442772",
+                    "download": "58499760"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1323940",
+                "timeupdated": "1473320820"
+            }
+        }
+    },
+    "access_token": 3028438960697765448
+}
