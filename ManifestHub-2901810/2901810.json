@@ -1,0 +1,29 @@
+{
+    "appid": 2901810,
+    "name": "Supermrket: El Videojuego de Gestión de Supermercado",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 16:10:59",
+    "change_number": 29932582,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "spanish",
+        "2901811": {
+            "manifests": {
+                "public": {
+                    "gid": "4983460139437654747",
+                    "size": "40102863",
+                    "download": "39369280"
+                }
+            },
+            "decryptionkey": "643fa995b4d7c8c5ae45014441b22d8e7d9b294ef57c09cde1c0a88fee8534b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14323884",
+                "timeupdated": "1715415943"
+            }
+        }
+    }
+}
