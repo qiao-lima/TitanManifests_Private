@@ -1,0 +1,27 @@
+{
+    "appid": 3025600,
+    "name": "Bishojo Battlefield",
+    "type": "Game",
+    "schinese_name": "少女战地",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 13:11:08",
+    "change_number": 30010428,
+    "depot": {
+        "3025601": {
+            "manifests": {
+                "public": {
+                    "gid": "2755756992717853456",
+                    "size": "5774202448",
+                    "download": "1794700256"
+                }
+            },
+            "decryptionkey": "3aefcdb860ab398748f69b37bfc90e44dd088bf59da9722d2818934d149f7806"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18806507",
+                "timeupdated": "1749542242"
+            }
+        }
+    }
+}
