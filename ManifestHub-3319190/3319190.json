@@ -1,0 +1,53 @@
+{
+    "appid": 3319190,
+    "name": "Hlína Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-27 04:44:30",
+    "change_number": 29199192,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3319191": {
+            "manifests": {
+                "public": {
+                    "gid": "7018310322534251372",
+                    "size": "1278555965",
+                    "download": "1163034256"
+                },
+                "final4": {
+                    "gid": "7018310322534251372",
+                    "size": "1278555965",
+                    "download": "1163034256"
+                }
+            },
+            "decryptionkey": "6e06bbd43ec6b3b86cbe6fece808b7d1a11bc3ac32b67e5002b7c65d21fce6f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18615895",
+                "timeupdated": "1748292189"
+            },
+            "final4": {
+                "buildid": "18615895",
+                "description": "final4",
+                "timeupdated": "1748292263"
+            }
+        }
+    }
+}
