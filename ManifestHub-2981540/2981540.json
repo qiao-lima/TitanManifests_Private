@@ -1,0 +1,28 @@
+{
+    "appid": 2981540,
+    "name": "WARNO - Digital Guides",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 17:57:27",
+    "change_number": 29864457,
+    "depot": {
+        "2981540": {
+            "dlcappid": "2981540",
+            "manifests": {
+                "public": {
+                    "gid": "4201596155495234698",
+                    "size": "38294872",
+                    "download": "36121136"
+                }
+            },
+            "decryptionkey": "9ccfc15aa1a5e2cadfbf80f7cad47232df810b4ecd7b5e5f3ae709cc36aca605"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14451807",
+                "timeupdated": "1716364936"
+            }
+        }
+    }
+}
