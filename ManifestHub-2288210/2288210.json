@@ -1,0 +1,28 @@
+{
+    "appid": 2288210,
+    "name": "三国真龙传",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:16:00",
+    "change_number": 30217675,
+    "depot": {
+        "2288211": {
+            "manifests": {
+                "public": {
+                    "gid": "3158842063449042334",
+                    "size": "531861709",
+                    "download": "359312896"
+                }
+            },
+            "decryptionkey": "467ace42ca758022303a54e44bff01f29f21d0a9e569b409086e07171ab06181"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "19338938",
+                "timeupdated": "1753333915"
+            }
+        }
+    }
+}
