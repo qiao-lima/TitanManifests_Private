@@ -1,0 +1,32 @@
+{
+    "appid": 1684153,
+    "name": "DYNASTY WARRIORS 9 Empires - Panda Palace",
+    "type": "DLC",
+    "schinese_name": "真・三国无双８ 帝国 - 熊猫竹林殿",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 16:31:19",
+    "change_number": 26201212,
+    "depot": {
+        "1684153": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3483682469041801168",
+                    "size": "43097472",
+                    "download": "42504288"
+                }
+            },
+            "dlcappid": "1684153",
+            "decryptionkey": "ca639473be1b1181a6b31c44377fc3d71ea79b14de1af33a163729919d77923a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7214402",
+                "timeupdated": "1629359456"
+            }
+        }
+    }
+}
