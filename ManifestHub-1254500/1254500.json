@@ -1,0 +1,31 @@
+{
+    "appid": 1254500,
+    "name": "Bad Lady",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 08:21:35",
+    "change_number": 29452525,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1254501": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6650180962099377499",
+                    "size": "251286649",
+                    "download": "148533968"
+                }
+            },
+            "decryptionkey": "99ed04238428660a936ab2e18fcfb03b36677ae45fc43d98f1a55b4fc11911ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4714060",
+                "timeupdated": "1582649260"
+            }
+        }
+    }
+}
