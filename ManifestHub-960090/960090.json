@@ -1,0 +1,49 @@
+{
+    "appid": 960090,
+    "name": "Bloons TD 6",
+    "type": "Game",
+    "schinese_name": "气球塔防6",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 23:18:51",
+    "change_number": 30215677,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "960091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1316670172502501766",
+                    "size": "2218958818",
+                    "download": "1684004512"
+                }
+            },
+            "decryptionkey": "fa0fa5bda5003ddb011da9f8fd27d1680b2128487a5b03b752ad0772e0f52cd9"
+        },
+        "960093": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8760247393076492076",
+                    "size": "2233066744",
+                    "download": "1687853120"
+                }
+            },
+            "decryptionkey": "dd1593b861e9bd1297c007a48bc6c5d6e2a6a8b3ba8808d76534e20afe5012d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19077493",
+                "timeupdated": "1751510269"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
