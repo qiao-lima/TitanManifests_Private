@@ -1,0 +1,76 @@
+{
+    "appid": 1628390,
+    "name": "Starship Simulator Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 02:20:05",
+    "change_number": 30122205,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1628391": {
+            "manifests": {
+                "public": {
+                    "gid": "1582186626549723670",
+                    "size": "7393997720",
+                    "download": "4900831360"
+                },
+                "alpha_0.223.7.17_dx11": {
+                    "gid": "4156768283155614365",
+                    "size": "2619199193",
+                    "download": "2387447120"
+                },
+                "tech_demo_2": {
+                    "gid": "5128047528229742749",
+                    "size": "3002245068",
+                    "download": "2753184960"
+                }
+            },
+            "decryptionkey": "01a73eb64ef7cdc3f54724b95ed24edc8bb92e6745106e2ef44c82760283a3a4"
+        },
+        "1332101": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3856286510367467978",
+                    "size": "2945082451",
+                    "download": "2684726912"
+                }
+            },
+            "depotfromapp": "1332100"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19153365",
+                "timeupdated": "1752020080"
+            },
+            "alpha_0.223.7.17_dx11": {
+                "buildid": "11526203",
+                "description": "The final DX11 build (0.223.7.17) from June 2023.",
+                "timeupdated": "1700599103"
+            },
+            "tech_demo_2": {
+                "buildid": "12766566",
+                "description": "The final build (0.224.0.29) of Tech Demo 2 from November 2023.",
+                "timeupdated": "1752018376"
+            }
+        }
+    }
+}
