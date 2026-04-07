@@ -1,0 +1,42 @@
+{
+    "appid": 976380,
+    "name": "Never Split the Party Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 04:43:25",
+    "change_number": 29675403,
+    "depot": {
+        "976381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6132139099727648063",
+                    "size": "601186463",
+                    "download": "182252192"
+                }
+            },
+            "decryptionkey": "1c84ff4824a0df64f26924cc0d7a3413a14e1b90f0b047545417401cf94de082"
+        },
+        "976382": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4609132516723584006",
+                    "size": "486880688",
+                    "download": "151040896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18944713",
+                "timeupdated": "1750452197"
+            }
+        }
+    }
+}
