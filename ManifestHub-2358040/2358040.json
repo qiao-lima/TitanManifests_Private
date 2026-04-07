@@ -1,0 +1,52 @@
+{
+    "appid": 2358040,
+    "name": "Fantasy Craft",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 18:12:29",
+    "change_number": 30053091,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2358041": {
+            "manifests": {
+                "public": {
+                    "gid": "1368027860000367234",
+                    "size": "27833503492",
+                    "download": "27321195568"
+                },
+                "experimental": {
+                    "gid": "3470091767605903179",
+                    "size": "23372125937",
+                    "download": "22930047616"
+                }
+            },
+            "decryptionkey": "4964642b7d7c8cb0ddc126df9d808bc0410f2e64cc00b6c29728ead43011e71d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19211943",
+                "timeupdated": "1752508050"
+            },
+            "experimental": {
+                "buildid": "16027872",
+                "description": "Test Update",
+                "timeupdated": "1728841154"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
