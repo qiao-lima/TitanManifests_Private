@@ -1,0 +1,46 @@
+{
+    "appid": 2462150,
+    "name": "The Richmond Rut (In Search of Fenton)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-12 02:00:29",
+    "change_number": 30022040,
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2462151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8541199262007210562",
+                    "size": "3065805296",
+                    "download": "2936165968"
+                }
+            },
+            "decryptionkey": "2379bef342fbaa50063609c65b6fa8d6f855ee1719203dda5080d24bea58bb1b"
+        },
+        "2462152": {},
+        "branches": {
+            "public": {
+                "buildid": "13409885",
+                "timeupdated": "1707440970"
+            }
+        }
+    }
+}
