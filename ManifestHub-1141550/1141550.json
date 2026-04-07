@@ -1,0 +1,87 @@
+{
+    "appid": 1141550,
+    "name": "CUCKOLD SIMULATOR: Life as a Beta Male Cuck",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 15:11:26",
+    "change_number": 29918942,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1141551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1606338776928497237",
+                    "size": "9803521288",
+                    "download": "2666059408"
+                }
+            },
+            "decryptionkey": "51ea3cfe06ce1156a8ca562c78a638afe933250b3252eae6b33100da90016860"
+        },
+        "1618840": {
+            "dlcappid": "1618840"
+        },
+        "1618841": {
+            "dlcappid": "1618840",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "762395762634575019",
+                    "size": "13631485",
+                    "download": "13808880"
+                }
+            },
+            "decryptionkey": "72a7c3a287f93de0af9d649e863439c814c5a927366869975fcb02448051b9ee"
+        },
+        "1812160": {
+            "dlcappid": "1812160"
+        },
+        "1812161": {
+            "dlcappid": "1812160",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7458495184317434677",
+                    "size": "8109108",
+                    "download": "8184752"
+                }
+            },
+            "decryptionkey": "30ff5117f71879b066586288a39519d2ef5c61c0ac9abbcfae147c38ebc64c43"
+        },
+        "2265340": {
+            "dlcappid": "2265340",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8940253925747232941",
+                    "size": "17612425",
+                    "download": "17841616"
+                }
+            },
+            "decryptionkey": "6c50e51b6e62620452f53772ee358721d8a383de99886dea8f0f1d81b5a7f8aa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16439840",
+                "timeupdated": "1731901912"
+            }
+        }
+    }
+}
