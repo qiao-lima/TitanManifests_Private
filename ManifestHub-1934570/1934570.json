@@ -1,0 +1,48 @@
+{
+    "appid": 1934570,
+    "name": "South of Midnight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 05:40:21",
+    "change_number": 29915583,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1934571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6794263031258525399",
+                    "size": "64533564210",
+                    "download": "41732640992"
+                }
+            },
+            "decryptionkey": "8339de2d0121af2b4b3a7ec0b461091ae5a3dcfb4f531c1d45aa3640a8715d17"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18848520",
+                "timeupdated": "1750089699"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 4713076652622357934
+}
