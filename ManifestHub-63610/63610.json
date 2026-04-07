@@ -1,0 +1,71 @@
+{
+    "appid": 63610,
+    "name": "Riven (1997)",
+    "type": "Game",
+    "schinese_name": "神秘岛2：星空断层",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:54:41",
+    "change_number": 29769759,
+    "depot": {
+        "overridescddb": "1",
+        "63611": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7469125334058816620",
+                    "size": "7413109061",
+                    "download": "5131992704"
+                },
+                "previous-version": {
+                    "gid": "1944300418573321316",
+                    "size": "3605379190",
+                    "download": "0"
+                },
+                "last_32bit_release": {
+                    "gid": "5513574142981933738",
+                    "size": "7116065779",
+                    "download": "4856899200"
+                }
+            },
+            "decryptionkey": "bbab6bc956cdec6de22bb380af99db1af024da253b40b7b7fed97cf752769562"
+        },
+        "63612": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8271525394411923617",
+                    "size": "7381787240",
+                    "download": "4822566672"
+                },
+                "last_32bit_release": {
+                    "gid": "1707927182142321399",
+                    "size": "7073536083",
+                    "download": "4538119008"
+                }
+            },
+            "decryptionkey": "a612fff0688008c3bcf1ca70e04ac0f70daa7121aa39d66b008936ba50979dc5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18967904",
+                "timeupdated": "1750958598"
+            },
+            "previous-version": {
+                "buildid": "23904",
+                "description": "Previous Version",
+                "timeupdated": "1536614163"
+            },
+            "last_32bit_release": {
+                "buildid": "4942351",
+                "description": "The last 32 bit build of the game.",
+                "timeupdated": "1747876064"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
