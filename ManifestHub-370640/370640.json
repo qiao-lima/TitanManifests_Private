@@ -1,0 +1,58 @@
+{
+    "appid": 370640,
+    "name": "Midnight's Blessing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:46:39",
+    "change_number": 29060416,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "370641": {
+            "manifests": {
+                "public": {
+                    "gid": "7390001575823932362",
+                    "size": "135374137",
+                    "download": "125860528"
+                },
+                "test": {
+                    "gid": "3995871044342938686",
+                    "size": "135373607",
+                    "download": "125860960"
+                }
+            },
+            "decryptionkey": "4162e22db62f4804443c1b6e17699986bf4dfcddfb0ec11d7809cc68aa70dd69"
+        },
+        "371110": {
+            "manifests": {
+                "public": {
+                    "gid": "5769899766193414608",
+                    "size": "16764074",
+                    "download": "9508400"
+                },
+                "test": {
+                    "gid": "5769899766193414608",
+                    "size": "16764074",
+                    "download": "9508400"
+                }
+            },
+            "dlcappid": "371110",
+            "decryptionkey": "e6ecc1786f10b276d859bba5d62d3ef48856fa717fb44a871a2157918a80ac31"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1031741",
+                "timeupdated": "1458377498"
+            },
+            "test": {
+                "buildid": "850944"
+            }
+        }
+    }
+}
