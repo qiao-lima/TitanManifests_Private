@@ -1,0 +1,100 @@
+{
+    "appid": 377360,
+    "name": "Western Press",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 01:07:56",
+    "change_number": 29796652,
+    "depot": {
+        "workshopdepot": "377360",
+        "377361": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4935272905863455995",
+                    "size": "303097566",
+                    "download": "137789248"
+                },
+                "testing": {
+                    "gid": "4935272905863455995",
+                    "size": "303097566",
+                    "download": "137789248"
+                }
+            },
+            "decryptionkey": "6fa72a8b7d557a5d87102c01c4f174ac7399159bf18e6934953a070b64787a18"
+        },
+        "377362": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3976870297495303793",
+                    "size": "321970695",
+                    "download": "140130512"
+                },
+                "testing": {
+                    "gid": "3976870297495303793",
+                    "size": "321970695",
+                    "download": "140130512"
+                }
+            },
+            "decryptionkey": "ee263d1c1207174c6ba8b6aee2a73d1ac52b1cbb37131ada4f732de8f9846071"
+        },
+        "377363": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2797978241804843686",
+                    "size": "294191905",
+                    "download": "134913072"
+                },
+                "testing": {
+                    "gid": "2797978241804843686",
+                    "size": "294191905",
+                    "download": "134913072"
+                }
+            },
+            "decryptionkey": "d798287b74694aed25f1bd1eba5678c8a07261f977d6a30bad6eb6ca5b1ece14"
+        },
+        "377364": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3477634440858686494",
+                    "size": "315601385",
+                    "download": "138772784"
+                },
+                "testing": {
+                    "gid": "3477634440858686494",
+                    "size": "315601385",
+                    "download": "138772784"
+                }
+            },
+            "decryptionkey": "e191340f6200389397357015b557f91ce17bb8fc5f74b80e65894fb3f3b9d971"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4912800",
+                "timeupdated": "1603772664"
+            },
+            "testing": {
+                "buildid": "4912800",
+                "timeupdated": "1587173665"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
