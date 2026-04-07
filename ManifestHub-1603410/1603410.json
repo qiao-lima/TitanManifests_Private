@@ -1,0 +1,27 @@
+{
+    "appid": 1603410,
+    "name": "Lost Nova",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 18:56:29",
+    "change_number": 30037664,
+    "depot": {
+        "1603411": {
+            "manifests": {
+                "public": {
+                    "gid": "8649948071546596491",
+                    "size": "276861913",
+                    "download": "235233232"
+                }
+            },
+            "decryptionkey": "108da561d4fdefa71145d831c2828d356766c0ffd48e727c243319f96f7ed57e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19208427",
+                "timeupdated": "1752429384"
+            }
+        }
+    }
+}
