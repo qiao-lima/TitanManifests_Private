@@ -1,0 +1,59 @@
+{
+    "appid": 3115390,
+    "name": "SuperImage Pro",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 15:56:33",
+    "change_number": 29824837,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3115391": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1622625924011801002",
+                    "size": "327499899",
+                    "download": "139956080"
+                },
+                "alpha": {
+                    "gid": "1622625924011801002",
+                    "size": "327499899",
+                    "download": "139956080"
+                },
+                "npu-testing": {
+                    "gid": "1091563217738276762",
+                    "size": "329421262",
+                    "download": "137152608"
+                }
+            },
+            "decryptionkey": "48f204e64a70b0c425f7e812fa17cea89cc9e0c6cd75f7b35ba19584e5cd02e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19001625",
+                "timeupdated": "1750887814"
+            },
+            "alpha": {
+                "buildid": "19001625",
+                "description": "Alpha builds, MIGHT BE UNSTABLE!!!",
+                "timeupdated": "1750887419"
+            },
+            "npu-testing": {
+                "buildid": "17244530",
+                "description": "Test NPU support",
+                "timeupdated": "1749678856"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
