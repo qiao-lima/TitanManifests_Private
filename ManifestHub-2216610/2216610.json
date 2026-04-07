@@ -1,0 +1,27 @@
+{
+    "appid": 2216610,
+    "name": "We Who Are About To Die Support Pack (Art & Soundtrack)",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 18:48:37",
+    "change_number": 29495671,
+    "depot": {
+        "2216611": {
+            "manifests": {
+                "public": {
+                    "gid": "5104446333776227174",
+                    "size": "384588929",
+                    "download": "380675680"
+                }
+            },
+            "decryptionkey": "069404e5290cf2c35b540ad2fc6ad8e29604d5f6d795ccec15006d5cb5d2ee7d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9908841",
+                "timeupdated": "1668079272"
+            }
+        }
+    }
+}
