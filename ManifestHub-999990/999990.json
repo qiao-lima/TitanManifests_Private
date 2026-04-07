@@ -1,0 +1,31 @@
+{
+    "appid": 999990,
+    "name": "Bouncing Hero",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 18:43:39",
+    "change_number": 29883670,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "999999": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2963443574660662548",
+                    "size": "35200194",
+                    "download": "25434016"
+                }
+            },
+            "decryptionkey": "34c57169cc9c1a2e19e28e6ad638951bd7dce15f3543539be54e1b12d4be680f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19097344",
+                "timeupdated": "1751564588"
+            }
+        }
+    }
+}
