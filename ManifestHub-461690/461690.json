@@ -1,0 +1,28 @@
+{
+    "appid": "461690",
+    "type": "Game",
+    "name": "Iron Impact",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:09:26",
+    "depot": {
+        "461691": {
+            "manifests": {
+                "public": {
+                    "gid": "2504274484662054874",
+                    "size": "56822653",
+                    "download": "51448144"
+                }
+            },
+            "decryptionkey": "af7f9807d9b5ab70d929b2ad4ac79ff0a92c6239fa29f3fe888898b3249183a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1702153",
+                "timeupdated": "1490003670"
+            }
+        }
+    },
+    "access_token": 12443929571364569913
+}
