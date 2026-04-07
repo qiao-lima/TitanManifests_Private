@@ -1,0 +1,36 @@
+{
+    "appid": 1996010,
+    "name": "Crow Country",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 12:10:36",
+    "change_number": 30205059,
+    "depot": {
+        "1996011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "871590927860205375",
+                    "size": "1308239969",
+                    "download": "337546112"
+                }
+            },
+            "decryptionkey": "03fd552f6a3450a294492f8843ab72c7575d5196b28c686b118bd6d850a7f553"
+        },
+        "1996012": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18838972",
+                "timeupdated": "1749728569"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
