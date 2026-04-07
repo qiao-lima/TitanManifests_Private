@@ -1,0 +1,29 @@
+{
+    "appid": 2752720,
+    "name": "Dice Player One",
+    "type": "Game",
+    "schinese_name": "骰号玩家",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 08:10:34",
+    "change_number": 29618791,
+    "depot": {
+        "2752721": {
+            "manifests": {
+                "public": {
+                    "gid": "4943671411768982117",
+                    "size": "4660789814",
+                    "download": "2035417696"
+                }
+            },
+            "decryptionkey": "57ab5d7b9335b5c606559dd68d876965acce6267a2d52de0a7b8a6202479abc1"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18605257",
+                "timeupdated": "1748227758"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
