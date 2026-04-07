@@ -1,0 +1,63 @@
+{
+    "appid": 1813430,
+    "name": "Beat Banger",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 21:42:47",
+    "change_number": 30214428,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "workshopdepot": "1813430",
+        "1813432": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "746856595355819185",
+                    "size": "793426021",
+                    "download": "499822448"
+                }
+            },
+            "decryptionkey": "e090f238c1fa9a1fb11219efcf2dcbf2cdd0fa0a71aeb1a4fce85bbdeaed7958"
+        },
+        "1813433": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6092029859152256687",
+                    "size": "549195346",
+                    "download": "421271408"
+                }
+            },
+            "decryptionkey": "f4348c6ff06847c732db52d9eb8ff6390cbf0b1e149450203a3eeb59de017caa"
+        },
+        "1813434": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1431772128617458639",
+                    "size": "660583684",
+                    "download": "444284944"
+                }
+            },
+            "decryptionkey": "af400a0b339be84f58d07d25388124333b6b9883b2caca6618fe224144f3162c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18943148",
+                "timeupdated": "1750440506"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "164ec13b0951986ed190139cd40beaae42512bd15d3c0d32ee02e313f7d70854"
+    }
+}
