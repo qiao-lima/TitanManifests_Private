@@ -1,0 +1,61 @@
+{
+    "appid": 656910,
+    "name": "Space Hit",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 14:16:44",
+    "change_number": 29787557,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "656911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8610294494585709228",
+                    "size": "229782102",
+                    "download": "95135456"
+                }
+            },
+            "decryptionkey": "bb31db3eebea76185d2cffbe579bd670899ea85429b5431ca7f5d27ee44e0812"
+        },
+        "676890": {
+            "dlcappid": "676890",
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6075171670901089809",
+                    "size": "1",
+                    "download": "48"
+                }
+            },
+            "decryptionkey": "9e0df262d1c7a88f1aeec71550d67c9f1d174bef166088b19c02e8bd2b278ae9"
+        },
+        "673690": {
+            "dlcappid": "673690",
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7504812305578714831",
+                    "size": "1",
+                    "download": "48"
+                }
+            },
+            "decryptionkey": "1f4639ee8d094b8e3b1cdc74fe72392499617c897522141c42c157dbd65c37fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2096714",
+                "timeupdated": "1504707494"
+            }
+        }
+    }
+}
