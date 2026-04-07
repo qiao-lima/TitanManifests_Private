@@ -1,0 +1,43 @@
+{
+    "appid": 1965390,
+    "name": "オンライン線香花火",
+    "type": "Game",
+    "schinese_name": "线香花火Online",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 23:11:22",
+    "change_number": 29938574,
+    "depot": {
+        "1965391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2525535320597587788",
+                    "size": "334278054",
+                    "download": "170303280"
+                }
+            },
+            "decryptionkey": "d9153a08378002d3611c1df2a77f505581cdd4dd30f70bad6f95c3de461a430c"
+        },
+        "1965392": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3236778683201793229",
+                    "size": "414237629",
+                    "download": "187922912"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18823805",
+                "timeupdated": "1749685156"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
