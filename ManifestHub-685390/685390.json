@@ -1,0 +1,29 @@
+{
+    "appid": 685390,
+    "name": "Pain Train PainPocalypse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:43",
+    "change_number": 30056467,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "685391": {
+            "manifests": {
+                "public": {
+                    "gid": "8999105448364115842",
+                    "size": "779286572",
+                    "download": "252091568"
+                }
+            },
+            "decryptionkey": "77e99ada893c634dc9e7c48879a0543454996e7549ecdb29150efe6385d7aa71"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1981216",
+                "timeupdated": "1500830652"
+            }
+        }
+    },
+    "access_token": 15449555978575757757
+}
