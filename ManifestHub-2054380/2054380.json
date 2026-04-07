@@ -1,0 +1,28 @@
+{
+    "appid": 2054380,
+    "name": "SONOKUNI",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 19:20:29",
+    "change_number": 30192001,
+    "depot": {
+        "2054381": {
+            "manifests": {
+                "public": {
+                    "gid": "2188475414082453464",
+                    "size": "1988716074",
+                    "download": "1884313264"
+                }
+            },
+            "decryptionkey": "915e40b68289cef96ca293aa184495a1d5139e262beb756b135e80ab1be8cba8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18979563",
+                "timeupdated": "1752678094"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
