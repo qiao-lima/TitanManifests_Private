@@ -1,0 +1,58 @@
+{
+    "appid": 1380650,
+    "name": "Draft of Darkness",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 16:30:38",
+    "change_number": 29932963,
+    "depot": {
+        "1380651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "539248447408496743",
+                    "size": "1991638078",
+                    "download": "255508784"
+                },
+                "testing": {
+                    "gid": "6216777073122973844",
+                    "size": "1991637062",
+                    "download": "255508640"
+                }
+            },
+            "decryptionkey": "7a1bb7dc1cda46678d37799efd1f1090035d1552a073b72722d679f212ee1615"
+        },
+        "1380652": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3346261451790318547",
+                    "size": "2023232755",
+                    "download": "263525792"
+                },
+                "testing": {
+                    "gid": "936093328131385908",
+                    "size": "2023232267",
+                    "download": "263468976"
+                }
+            },
+            "decryptionkey": "4b0bd47483d77129f1aa303d5a7d16d9abeda215ca327909f5731e6b82981cd1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19133703",
+                "timeupdated": "1751902231"
+            },
+            "testing": {
+                "buildid": "19133664",
+                "description": "Prerelease content test branch.",
+                "timeupdated": "1751902148"
+            }
+        }
+    }
+}
