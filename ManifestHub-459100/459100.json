@@ -1,0 +1,47 @@
+{
+    "appid": "459100",
+    "type": "Game",
+    "name": "Epsilon corp.",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23362200",
+    "update_time": "2024-08-14 19:08:31",
+    "depot": {
+        "459101": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "135828750405976675",
+                    "size": "1139715092",
+                    "download": "315377232"
+                }
+            },
+            "decryptionkey": "e56de7423ea29bf47593db2ac7b94a59dfeb8c1d8b699b1b843ccea5984e54da"
+        },
+        "459102": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7951770092358398884",
+                    "size": "1150592568",
+                    "download": "313918960"
+                }
+            },
+            "decryptionkey": "f1c2d0914e5daaafa1e04de2f25098251138b3fffc96b13c457ce3332c47fd5a"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1068052",
+                "timeupdated": "1460384900"
+            }
+        }
+    },
+    "access_token": 942418070724179615
+}
