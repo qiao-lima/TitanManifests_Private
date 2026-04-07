@@ -1,0 +1,61 @@
+{
+    "appid": "428790",
+    "type": "Tool",
+    "name": "The Divinity Engine Enhanced Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:04:18",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "428791": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3095167427658641544",
+                    "size": "116028032",
+                    "download": "34268480"
+                }
+            },
+            "decryptionkey": "8b05e66d0012147144fff88761ad471ab73e7f594d20426edcf9af6b579d5b36"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1045826",
+                "timeupdated": "1459422757"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 13400128242778518428
+}
