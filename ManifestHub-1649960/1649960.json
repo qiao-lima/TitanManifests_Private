@@ -1,0 +1,62 @@
+{
+    "appid": 1649960,
+    "name": "Erotic Jigsaw Puzzle 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 21:15:28",
+    "change_number": 29794208,
+    "depot": {
+        "1649961": {
+            "manifests": {
+                "public": {
+                    "gid": "2006530381102818650",
+                    "size": "88297321",
+                    "download": "26184448"
+                }
+            },
+            "decryptionkey": "582921f7c23c70c28656c135f62b7bdc298a7274e4ffbbaf4c007d86a9bd6763"
+        },
+        "1650630": {
+            "dlcappid": "1650630",
+            "manifests": {
+                "public": {
+                    "gid": "5488524752221287154",
+                    "size": "733259",
+                    "download": "592256"
+                }
+            },
+            "decryptionkey": "61b3e283071dcb16bf5b1597bce42c82061afde10ae972dacaa5a8dc3f61356c"
+        },
+        "1649962": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8818974371531546263",
+                    "size": "88985547",
+                    "download": "26742704"
+                }
+            }
+        },
+        "1649963": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6910453254539024463",
+                    "size": "98198961",
+                    "download": "27379680"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6773556",
+                "timeupdated": "1622187285"
+            }
+        }
+    }
+}
