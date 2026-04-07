@@ -1,0 +1,44 @@
+{
+    "appid": 1421480,
+    "name": "Mafia: Definitive Edition - Official Score",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 07:00:28",
+    "change_number": 29435543,
+    "depot": {
+        "1421481": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6303477431289288047",
+                    "size": "202748528",
+                    "download": "198715392"
+                }
+            },
+            "decryptionkey": "c703f0ad825f17cd127af65bdc171438ea1bf97f81c01c6caa9a9d62aa27aa68"
+        },
+        "1421482": {
+            "config": {
+                "highqualityaudio": "1",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5183706551542093734",
+                    "size": "901858336",
+                    "download": "787487632"
+                }
+            },
+            "decryptionkey": "392719da2d30688cb6ab03883c3d1629e4dc80696ee749390170737060097ec2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5528711",
+                "timeupdated": "1599777021"
+            }
+        }
+    }
+}
