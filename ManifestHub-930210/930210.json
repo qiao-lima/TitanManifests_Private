@@ -1,0 +1,69 @@
+{
+    "appid": 930210,
+    "name": "HuniePop 2: Double Date",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 12:04:33",
+    "change_number": 29541710,
+    "depot": {
+        "930211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1278070010370087096",
+                    "size": "1272846699",
+                    "download": "660137904"
+                }
+            },
+            "decryptionkey": "ee621ac854b3597ed70ea6db3f346087c82acc559037dcc06d05cfe43648b83b"
+        },
+        "930212": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8719906893448066907",
+                    "size": "1283555619",
+                    "download": "663216400"
+                }
+            },
+            "decryptionkey": "7102c0da60003320034fa6f50446e4110cc33e3fe7e6d14f8e48222845ca729c"
+        },
+        "930213": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3212615380151686012",
+                    "size": "1288366308",
+                    "download": "663746032"
+                }
+            },
+            "decryptionkey": "b5fcf181ba97a160cdb29dfa70528c4ae8fc92164359053fcb4bc0c6ba2c30f6"
+        },
+        "1928520": {
+            "dlcappid": "1928520",
+            "manifests": {
+                "public": {
+                    "gid": "7330677185928977215",
+                    "size": "774021061",
+                    "download": "762304528"
+                }
+            },
+            "decryptionkey": "897835df97fe65e0653d1debd328928ef2ee127a200403504fc7c60882992b1a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8312748",
+                "timeupdated": "1646378632"
+            }
+        }
+    }
+}
