@@ -1,0 +1,27 @@
+{
+    "appid": 1306160,
+    "name": "Get Over Blood",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 17:10:45",
+    "change_number": 29919718,
+    "depot": {
+        "1306161": {
+            "manifests": {
+                "public": {
+                    "gid": "8926160685056258220",
+                    "size": "2417893276",
+                    "download": "390266608"
+                }
+            },
+            "decryptionkey": "04df6b8087ada78a6e7a3725f3f3c05313dc645dccc87810a65a70874b00b0b4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13628268",
+                "timeupdated": "1709512344"
+            }
+        }
+    }
+}
