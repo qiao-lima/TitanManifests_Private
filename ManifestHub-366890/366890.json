@@ -1,0 +1,38 @@
+{
+    "appid": "366890",
+    "type": "Game",
+    "name": "Zombie Zoeds",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 18:54:55",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "366891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "351793160272849366",
+                    "size": "117170176",
+                    "download": "82479264"
+                }
+            },
+            "decryptionkey": "201ff3e02f89aa5899feb3c77e2b321e66d6fe4ec370ac1ed10686c4e132c48c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "634468"
+            }
+        }
+    },
+    "access_token": 13663964182212555110
+}
