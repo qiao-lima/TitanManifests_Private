@@ -1,0 +1,28 @@
+{
+    "appid": "581860",
+    "type": "Game",
+    "name": "Luci:Horror Story",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-09-18 10:45:33",
+    "depot": {
+        "581861": {
+            "manifests": {
+                "public": {
+                    "gid": "8043069045784773098",
+                    "size": "232949092",
+                    "download": "139482800"
+                }
+            },
+            "decryptionkey": "b56fd2be4b0f3b872778cc9e43972a886af0b29dd9d14d3be21477ec60af9afb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1579822",
+                "timeupdated": "1484864265"
+            }
+        }
+    },
+    "access_token": 8672889838754356037
+}
