@@ -1,0 +1,50 @@
+{
+    "appid": 3233010,
+    "name": "Orebound Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:57:12",
+    "change_number": 29682448,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3233011": {
+            "manifests": {
+                "public": {
+                    "gid": "2816564820559600335",
+                    "size": "4713255127",
+                    "download": "4396060544"
+                }
+            },
+            "decryptionkey": "c0afc8750e949a241b7a7501d13baa794f1d27f07f3388876dc448d0aafeadd2"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "15919886",
+                "timeupdated": "1727981793"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
