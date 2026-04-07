@@ -1,0 +1,49 @@
+{
+    "appid": "608830",
+    "type": "Game",
+    "name": "Project:surviving",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28444202",
+    "update_time": "2025-04-12 20:09:24",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "608831": {
+            "manifests": {
+                "public": {
+                    "gid": "5994662352632986981",
+                    "size": "226705371",
+                    "download": "45221200"
+                }
+            },
+            "decryptionkey": "ccd7b79d6cddf4bbddddffb191d7fe4ff1fc18cce34865154a9ba97ad078c2a3"
+        },
+        "608832": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4511393705056554393",
+                    "size": "226705371",
+                    "download": "45221200"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1789955",
+                "timeupdated": "1493463462"
+            }
+        }
+    },
+    "access_token": 3047356167661728578
+}
