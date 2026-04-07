@@ -1,0 +1,31 @@
+{
+    "appid": 3096370,
+    "name": "Hyper Empire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 04:52:48",
+    "change_number": 30160590,
+    "depot": {
+        "baselanguages": "english",
+        "3096371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7476352491938218780",
+                    "size": "5189495032",
+                    "download": "1959458272"
+                }
+            },
+            "decryptionkey": "cf380fb2ddefa75716b712a06aa253058b91cf76861db4ceb90872a089b22165"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18792783",
+                "timeupdated": "1749463655"
+            }
+        }
+    }
+}
