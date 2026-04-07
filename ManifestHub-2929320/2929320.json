@@ -1,0 +1,28 @@
+{
+    "appid": 2929320,
+    "name": "消防员康纳 - FireFighter Connor CG Image Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 12:22:35",
+    "change_number": 29297331,
+    "depot": {
+        "2929321": {
+            "manifests": {
+                "public": {
+                    "gid": "1946549320468822111",
+                    "size": "99501471",
+                    "download": "92861728"
+                }
+            },
+            "dlcappid": "2929320",
+            "decryptionkey": "193f22a7b0a4e1fbefbb273957ea0cffff10d8d840797463defcf154f5734462"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18683173",
+                "timeupdated": "1748665350"
+            }
+        }
+    }
+}
