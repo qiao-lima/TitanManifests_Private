@@ -1,0 +1,237 @@
+{
+    "appid": "327670",
+    "type": "Game",
+    "name": "Ironcast",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28780106",
+    "update_time": "2025-05-02 13:08:27",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish",
+        "327671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4675441958874053287",
+                    "size": "757711692",
+                    "download": "229857760"
+                }
+            },
+            "decryptionkey": "7be63af4bb2dd3cc83ccd2629d828031a09608597d71ba29f8a00ac5b48f1b24"
+        },
+        "327672": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6004095210652684260",
+                    "size": "765169402",
+                    "download": "231504960"
+                }
+            },
+            "decryptionkey": "f09a3084b1c0fb937617432b3e13b89d8109fab988c8d2e47409ac682281d2ff"
+        },
+        "327673": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7356930628272194017",
+                    "size": "762905703",
+                    "download": "231517008"
+                }
+            },
+            "decryptionkey": "cd7af8319adf33b308fab8ac173a44ec114879a40a41f8091dd8b58a696e4203"
+        },
+        "327674": {
+            "dlcappid": "333440",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7428921133113860988",
+                    "size": "1408766",
+                    "download": "312576"
+                }
+            },
+            "decryptionkey": "769fb2245b7f0c73952579c6048c94fc9143f54238b1a3769228664ac70c6ce4"
+        },
+        "327675": {
+            "dlcappid": "333440",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2197718157653773811",
+                    "size": "1408766",
+                    "download": "312576"
+                }
+            },
+            "decryptionkey": "fc1498f950016ecb3b4da3f2493c5a75cd1dde33e0769be27002c470b108948d"
+        },
+        "327676": {
+            "dlcappid": "333440",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8718932663635775885",
+                    "size": "1408766",
+                    "download": "312656"
+                }
+            },
+            "decryptionkey": "98f6356c68acbc5947bc24f69a4f5235c1cb10ea6663e3385061adb85544f87b"
+        },
+        "327677": {
+            "dlcappid": "333441",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5472300011435982871",
+                    "size": "13817539",
+                    "download": "2308960"
+                }
+            },
+            "decryptionkey": "2ebe1cd6b05226fbd266d720d1d0e2b75384f3f006a8df5c285393e12192f250"
+        },
+        "327678": {
+            "dlcappid": "333441",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3231551761306108092",
+                    "size": "13721563",
+                    "download": "2304592"
+                }
+            },
+            "decryptionkey": "4faf18ebfd02f3cdefc62a1184a0ae4accfceaa52efc88f07cc45abc8fa123d7"
+        },
+        "327679": {
+            "dlcappid": "333441",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1352271681401022435",
+                    "size": "13721563",
+                    "download": "2304528"
+                }
+            },
+            "decryptionkey": "223b4d9dec6a4efeeba4166126b28026ca758c76de6635c479cd0735b908a699"
+        },
+        "333442": {
+            "dlcappid": "362820",
+            "manifests": {
+                "public": {
+                    "gid": "7551485872152252179",
+                    "size": "45047641",
+                    "download": "44612240"
+                }
+            },
+            "decryptionkey": "575d4153cb357aa50a25b0930dcdea82718331fd570bb46c08ffcece8a613de4"
+        },
+        "333443": {
+            "dlcappid": "407451",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3423472269744617050",
+                    "size": "32167152",
+                    "download": "6252512"
+                }
+            },
+            "decryptionkey": "a186ce01496ada0e77588a48186412cf09864f45825da6e8abedfb10ec0a7204"
+        },
+        "333444": {
+            "dlcappid": "407451",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3376880346371451676",
+                    "size": "32071176",
+                    "download": "6249984"
+                }
+            },
+            "decryptionkey": "15b68f3cf20fbfe919a0cf62be35020cfb923e70dc5c4ef279025980f0a38757"
+        },
+        "333445": {
+            "dlcappid": "407451",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1633073453361683131",
+                    "size": "32071176",
+                    "download": "6249968"
+                }
+            },
+            "decryptionkey": "f0a029218737c5d44600d73eca127696ba8c7c8e8c3a3b309f4295c64a0c5d27"
+        },
+        "333446": {
+            "dlcappid": "407450",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5625843089782366468",
+                    "size": "32434341",
+                    "download": "5758752"
+                }
+            },
+            "decryptionkey": "8d6d4735f6792face9a82e5041af4c5fc984d6870a1c51300006ed5194900b15"
+        },
+        "333447": {
+            "dlcappid": "407450",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2838766408550588208",
+                    "size": "32247749",
+                    "download": "5761824"
+                }
+            },
+            "decryptionkey": "603598cc0bbded8d35c58b42824d1d368ac0547cc5f8aef74b29eb02d27e1838"
+        },
+        "333448": {
+            "dlcappid": "407450",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4337130603583447077",
+                    "size": "32247749",
+                    "download": "5761936"
+                }
+            },
+            "decryptionkey": "0e2ef3d75092ce4f9936b64f38462e91eae6cb3a0243478e23d22b1c395c2c5d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1156423",
+                "timeupdated": "1466769401"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
