@@ -1,0 +1,29 @@
+{
+    "appid": 3058140,
+    "name": "Desperate Place",
+    "type": "Game",
+    "schinese_name": "绝望之地",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 15:14:36",
+    "change_number": 30207993,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3058141": {
+            "manifests": {
+                "public": {
+                    "gid": "4599477690632550700",
+                    "size": "568941827",
+                    "download": "389672736"
+                }
+            },
+            "decryptionkey": "d4f7732f4305f14411de00651566d9d732a2c4d62b0d7fda32108713798e4640"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18895224",
+                "timeupdated": "1750226010"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
