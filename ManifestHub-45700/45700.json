@@ -1,0 +1,28 @@
+{
+    "appid": 45700,
+    "name": "Devil May Cry 4",
+    "type": "Game",
+    "schinese_name": "鬼泣4",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:23:33",
+    "change_number": 28969816,
+    "depot": {
+        "45701": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4422185108218732385",
+                    "size": "7920878878",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1302efa5f93914449d8d4b7a25c7a5db86023e4186981e2237b1766f9d255b13"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "21360"
+            }
+        }
+    }
+}
