@@ -1,0 +1,37 @@
+{
+    "appid": 1192380,
+    "name": "TOTALLY BASEBALL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 19:57:00",
+    "change_number": 30137706,
+    "depot": {
+        "1192381": {
+            "manifests": {
+                "public": {
+                    "gid": "677900292677209811",
+                    "size": "5852715418",
+                    "download": "1330398064"
+                },
+                "test_builds": {
+                    "gid": "8737231480481217885",
+                    "size": "5913136481",
+                    "download": "1357710096"
+                }
+            },
+            "decryptionkey": "3edc31ea8ca6c62405c07aebd58796aa20afc6d8030b4ec84a51e4c7ca5ef72f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19088899",
+                "timeupdated": "1751557456"
+            },
+            "test_builds": {
+                "buildid": "19279127",
+                "description": "new builds",
+                "timeupdated": "1752865017"
+            }
+        }
+    }
+}
