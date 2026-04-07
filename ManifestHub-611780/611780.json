@@ -1,0 +1,61 @@
+{
+    "appid": "611780",
+    "type": "Game",
+    "name": "Across The Moment",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 19:24:58",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "611781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5877196679856328411",
+                    "size": "627164729",
+                    "download": "568250816"
+                }
+            },
+            "decryptionkey": "4d283581d201d1105d18a87001bbcbbfe7dd3e2ad03fa3e87f07750719592e80"
+        },
+        "675570": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7579257075449492015",
+                    "size": "40991185",
+                    "download": "36057440"
+                }
+            },
+            "dlcappid": "675570",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2424519",
+                "timeupdated": "1515537021"
+            }
+        }
+    },
+    "access_token": 6643761461653248567
+}
