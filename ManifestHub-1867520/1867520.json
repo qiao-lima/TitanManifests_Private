@@ -1,0 +1,32 @@
+{
+    "appid": 1867520,
+    "name": "Homestead Arcana",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 15:52:39",
+    "change_number": 30147178,
+    "depot": {
+        "1867522": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7164477829340085749",
+                    "size": "7135132582",
+                    "download": "2281604944"
+                }
+            },
+            "decryptionkey": "32139e23768d4680e8589e7bc3715018370a69af6252c674b8069f5b74e6161a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11258314",
+                "timeupdated": "1688158051"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
