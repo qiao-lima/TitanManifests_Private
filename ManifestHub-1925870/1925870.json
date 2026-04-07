@@ -1,0 +1,29 @@
+{
+    "appid": 1925870,
+    "name": "THE ART OF FAR AWAY",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:48:45",
+    "change_number": 26845279,
+    "depot": {
+        "1925870": {
+            "dlcappid": "1925870",
+            "manifests": {
+                "public": {
+                    "gid": "4643457719949147916",
+                    "size": "244245218",
+                    "download": "239824640"
+                }
+            },
+            "decryptionkey": "bc021fff1a452bce94df7196780509efd1dcc08b0e3bf9845324133fc4254804"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8415890",
+                "timeupdated": "1647945509"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
