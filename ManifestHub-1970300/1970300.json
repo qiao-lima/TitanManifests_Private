@@ -1,0 +1,32 @@
+{
+    "appid": 1970300,
+    "name": "轻语谱",
+    "type": "Game",
+    "schinese_name": "轻语谱",
+    "isfreeapp": 1,
+    "update_time": "2025-06-29 11:15:13",
+    "change_number": 29808982,
+    "depot": {
+        "baselanguages": "english,schinese,russian,japanese",
+        "hasdepotsindlc": "0",
+        "1970301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8732976155730348098",
+                    "size": "1165644531",
+                    "download": "794485360"
+                }
+            },
+            "decryptionkey": "fe39f9c2f617163c4c9c57cca726d0faae33374f3422a19d3d6a3a502b991387"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13057268",
+                "timeupdated": "1703769848"
+            }
+        }
+    }
+}
