@@ -1,0 +1,27 @@
+{
+    "appid": 2400760,
+    "name": "Bike Offroad Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 02:15:27",
+    "change_number": 29567908,
+    "depot": {
+        "2400761": {
+            "manifests": {
+                "public": {
+                    "gid": "820632056823327454",
+                    "size": "181743880",
+                    "download": "45390224"
+                }
+            },
+            "decryptionkey": "c2da7e174331e97ecc84f763802f63549cdf83029162b18f3f33615efbbfa7ab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11048331",
+                "timeupdated": "1681983935"
+            }
+        }
+    }
+}
