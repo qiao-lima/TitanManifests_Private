@@ -1,0 +1,28 @@
+{
+    "appid": 745370,
+    "name": "Purple Heart",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 11:36:25",
+    "change_number": 30108329,
+    "depot": {
+        "745371": {
+            "manifests": {
+                "public": {
+                    "gid": "7864705493876953508",
+                    "size": "135136656",
+                    "download": "35201136"
+                }
+            },
+            "decryptionkey": "2151c396227c35dd61ffad8e88bd7bedd9767fbdfdb1dae78a5668b2e75f2b1f"
+        },
+        "baselanguages": "english,tchinese,russian",
+        "branches": {
+            "public": {
+                "buildid": "2318907",
+                "timeupdated": "1511792110"
+            }
+        }
+    }
+}
