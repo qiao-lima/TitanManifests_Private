@@ -1,0 +1,28 @@
+{
+    "appid": "2378320",
+    "type": "Game",
+    "name": "安娜女孩",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26978839",
+    "update_time": "2025-01-14 05:09:10",
+    "depot": {
+        "2378321": {
+            "manifests": {
+                "public": {
+                    "gid": "2172851345986502260",
+                    "size": "2612232696",
+                    "download": "345185280"
+                }
+            },
+            "decryptionkey": "bdf868b68ed54f3e04bb205c57a9b9f623097f8d06b39ca81f48cba502003743"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11195288",
+                "timeupdated": "1683693094"
+            }
+        }
+    },
+    "access_token": 5124746475421808251
+}
