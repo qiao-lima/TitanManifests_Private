@@ -1,0 +1,46 @@
+{
+    "appid": 2367820,
+    "name": "despelote",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 10:01:06",
+    "change_number": 29984596,
+    "depot": {
+        "2367821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7620650897655445726",
+                    "size": "8571666832",
+                    "download": "5780468080"
+                },
+                "demo": {
+                    "gid": "3401152241270266755",
+                    "size": "5366043504",
+                    "download": "3314639200"
+                }
+            },
+            "decryptionkey": "8796585f6b24ff0b4e1c6bcde948308409cade875d6c7d8a78040aee7dd09b2e"
+        },
+        "2367822": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18984981",
+                "timeupdated": "1750965291"
+            },
+            "demo": {
+                "buildid": "17488755",
+                "description": "the demo for steam next fest",
+                "timeupdated": "1740425310"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
