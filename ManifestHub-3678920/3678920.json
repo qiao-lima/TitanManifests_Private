@@ -1,0 +1,27 @@
+{
+    "appid": 3678920,
+    "name": "逆乱西游之西天取经",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 09:25:53",
+    "change_number": 30006496,
+    "depot": {
+        "3678921": {
+            "manifests": {
+                "public": {
+                    "gid": "4066139682887998397",
+                    "size": "283116869",
+                    "download": "102715888"
+                }
+            },
+            "decryptionkey": "810f87d7e0a77820b4c85b9c09e06e11adfd8990e3e32d83231a2ff730cf64cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18849049",
+                "timeupdated": "1749778676"
+            }
+        }
+    }
+}
