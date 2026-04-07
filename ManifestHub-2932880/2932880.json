@@ -1,0 +1,31 @@
+{
+    "appid": 2932880,
+    "name": "A Few Days With Cassandra",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 00:52:02",
+    "change_number": 29869389,
+    "depot": {
+        "2932881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8019168089413522550",
+                    "size": "354289830",
+                    "download": "129747552"
+                }
+            },
+            "decryptionkey": "9b829b73529bb9692db12c0f27d7e6ef4fcc0477152482dcb11edd3492512279"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19009212",
+                "timeupdated": "1750933567"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
