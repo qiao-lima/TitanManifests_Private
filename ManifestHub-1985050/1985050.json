@@ -1,0 +1,67 @@
+{
+    "appid": 1985050,
+    "name": "Field of Glory: Kingdoms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 15:21:01",
+    "change_number": 29969942,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1985051": {
+            "manifests": {
+                "public": {
+                    "gid": "9034905305163298114",
+                    "size": "9652403882",
+                    "download": "2663619296"
+                },
+                "publicbeta": {
+                    "gid": "8569387096574120844",
+                    "size": "9405937395",
+                    "download": "2592005280"
+                }
+            },
+            "decryptionkey": "4163d53617fe646682ace0eb1ac032be866bb8d07f085dedf4c6ab912dab10b9"
+        },
+        "1985052": {
+            "manifests": {
+                "public": {
+                    "gid": "7288285484017750988",
+                    "size": "105517994",
+                    "download": "94876960"
+                },
+                "publicbeta": {
+                    "gid": "1241575219357654204",
+                    "size": "105003198",
+                    "download": "94376688"
+                }
+            },
+            "decryptionkey": "2eebd9c2c00f0e7e9ce888badfadd23ebbb9b8d9fa9e67c95cf01156c7abf121"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19096495",
+                "timeupdated": "1751632248"
+            },
+            "publicbeta": {
+                "buildid": "16498868",
+                "description": "Open Beta",
+                "timeupdated": "1732292832"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
