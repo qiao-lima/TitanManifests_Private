@@ -1,0 +1,69 @@
+{
+    "appid": 1269370,
+    "name": "171",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 08:03:03",
+    "change_number": 29618672,
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1269371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4415259309656013693",
+                    "size": "12477018198",
+                    "download": "9271960912"
+                }
+            },
+            "decryptionkey": "7e1df33a1b894f1b0fc4c79a77610962f3609cf5368826bc77c7ec80241fdf09"
+        },
+        "baselanguages": "english,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "18904409",
+                "timeupdated": "1750204980"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
