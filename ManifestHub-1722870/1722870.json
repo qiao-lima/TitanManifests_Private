@@ -1,0 +1,43 @@
+{
+    "appid": 1722870,
+    "name": "Clank!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 16:59:33",
+    "change_number": 30209958,
+    "depot": {
+        "1722871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7910486096611064471",
+                    "size": "389797687",
+                    "download": "211570720"
+                }
+            },
+            "decryptionkey": "8af2fdee75724efcc53f8c0ba0bbc226840f6c0395aabbdbdfa781ea1995bb51"
+        },
+        "1722872": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3451457157017541405",
+                    "size": "561347086",
+                    "download": "225427408"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18741567",
+                "timeupdated": "1749141776"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
