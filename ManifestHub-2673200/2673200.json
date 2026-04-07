@@ -1,0 +1,41 @@
+{
+    "appid": 2673200,
+    "name": "Risk of Rain Returns Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 10:46:28",
+    "change_number": 26517061,
+    "depot": {
+        "2673201": {},
+        "2673202": {
+            "manifests": {
+                "public": {
+                    "gid": "7449154498319752823",
+                    "size": "196157587",
+                    "download": "156045984"
+                }
+            },
+            "decryptionkey": "457f75ddb77f33a98c93f0d1c506fd7062f1542c8c67c71032520012706d113f"
+        },
+        "2673203": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6291206520722244913",
+                    "size": "547620561",
+                    "download": "552922304"
+                }
+            },
+            "decryptionkey": "550145425250a47bb7df6869eed74219bf675ac0786dd21499a3a39d8dd12975"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12557821",
+                "timeupdated": "1698443097"
+            }
+        }
+    }
+}
