@@ -1,0 +1,43 @@
+{
+    "appid": 2303610,
+    "name": "Fragrance Point",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:19:22",
+    "change_number": 29718147,
+    "depot": {
+        "2303611": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2328735951414050439",
+                    "size": "4544685637",
+                    "download": "1706707680"
+                }
+            },
+            "decryptionkey": "21f7803a317bc7dd3758c44a06f07eb7218807aa539578e5962af16a3f59333c"
+        },
+        "2303614": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6475325852142966495",
+                    "size": "4724414770",
+                    "download": "1721947024"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18976915",
+                "timeupdated": "1750751034"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
