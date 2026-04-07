@@ -1,0 +1,52 @@
+{
+    "appid": 1917850,
+    "name": "Haunted House Renovator",
+    "type": "Game",
+    "schinese_name": " 鬼屋改造家",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 21:42:32",
+    "change_number": 30174200,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1917851": {
+            "manifests": {
+                "public": {
+                    "gid": "5584231910004943727",
+                    "size": "8846389178",
+                    "download": "8461958912"
+                },
+                "previouspatch": {
+                    "gid": "2227864679720197909",
+                    "size": "8830779233",
+                    "download": "8446479232"
+                }
+            },
+            "decryptionkey": "000fc9e34caba5f3aab6e7f398e9b18bfb3fe19cdb3cddb65c4ed2403b748f50"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18858030",
+                "timeupdated": "1749830403"
+            },
+            "previouspatch": {
+                "buildid": "18841898",
+                "description": "Previous patch in case of issues",
+                "timeupdated": "1749830341"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
