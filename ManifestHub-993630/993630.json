@@ -1,0 +1,31 @@
+{
+    "appid": 993630,
+    "name": "Data mining 4",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 04:14:11",
+    "change_number": 29806971,
+    "depot": {
+        "993631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5227069912533891843",
+                    "size": "28214864",
+                    "download": "25675248"
+                }
+            },
+            "decryptionkey": "60bbbaa1ed5c369bc41330a51a02f7feb12be8267a013ad5c6eb5652cf06db5a"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "13490146",
+                "timeupdated": "1708259383"
+            }
+        }
+    }
+}
