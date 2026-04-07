@@ -1,0 +1,27 @@
+{
+    "appid": 1747940,
+    "name": "Neon Arena",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-27 00:17:19",
+    "change_number": 29195203,
+    "depot": {
+        "1747941": {
+            "manifests": {
+                "public": {
+                    "gid": "3227084313665827108",
+                    "size": "79279589",
+                    "download": "15998336"
+                }
+            },
+            "decryptionkey": "745c6736957306ec036289947d78a748a5f9eece8407fb1533d7753ff007b9a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7363696",
+                "timeupdated": "1631711872"
+            }
+        }
+    }
+}
