@@ -1,0 +1,43 @@
+{
+    "appid": 979600,
+    "name": "Kaori After Story",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 00:04:18",
+    "change_number": 29566859,
+    "depot": {
+        "979601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "251456541498094518",
+                    "size": "611283376",
+                    "download": "512405360"
+                }
+            },
+            "decryptionkey": "ef58c51ad39127c238966b5d6bf365b985eb7888311d326632b36bbca6e15ade"
+        },
+        "979602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5841230959058495627",
+                    "size": "612793063",
+                    "download": "513296544"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8036759",
+                "timeupdated": "1642457796"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
