@@ -1,0 +1,42 @@
+{
+    "appid": "1627630",
+    "type": "Game",
+    "name": "杀戮地城 Dungeon Adventure",
+    "schinese_name": "杀戮地城",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 02:14:50",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1627631": {
+            "manifests": {
+                "public": {
+                    "gid": "7305231732758837207",
+                    "size": "455831895",
+                    "download": "359913488"
+                }
+            },
+            "decryptionkey": "153c6cdb2109af998374eb241e45c2e1f6e522194e211e96e36247e115dad51b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8864145",
+                "timeupdated": "1654229570"
+            }
+        }
+    },
+    "access_token": 6076177530861601615
+}
