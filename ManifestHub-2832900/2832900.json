@@ -1,0 +1,33 @@
+{
+    "appid": 2832900,
+    "name": "Indiana Jones and the Great Circle - Digital Artbook",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 14:28:50",
+    "change_number": 29319050,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,latam",
+        "2832901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2486058372922605427",
+                    "size": "6453892562",
+                    "download": "4399174000"
+                }
+            },
+            "decryptionkey": "71580c3b9c67dd7593e249fb5f670b3481755ab2bbdb5cb0d6656f6f9ed45234"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16504756",
+                "timeupdated": "1732306302"
+            }
+        }
+    },
+    "access_token": 10854085857183365089
+}
