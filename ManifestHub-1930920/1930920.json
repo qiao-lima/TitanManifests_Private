@@ -1,0 +1,36 @@
+{
+    "appid": 1930920,
+    "name": "Warplanes: Battles over Pacific",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 10:51:49",
+    "change_number": 30065573,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1930921": {
+            "manifests": {
+                "public": {
+                    "gid": "3686438979859317610",
+                    "size": "1090077407",
+                    "download": "427367376"
+                }
+            },
+            "decryptionkey": "ed7c6e65ff50194bc04f7b55991d4739830d997fbdb2c8270db5ac4b29789ef1"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19227892",
+                "timeupdated": "1752573105"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
