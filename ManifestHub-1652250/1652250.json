@@ -1,0 +1,75 @@
+{
+    "appid": 1652250,
+    "name": "Tales And Tactics",
+    "type": "Game",
+    "schinese_name": "传说与战术自走棋",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 08:01:14",
+    "change_number": 30143951,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1652251": {
+            "manifests": {
+                "public": {
+                    "gid": "4042263998114396903",
+                    "size": "3962343731",
+                    "download": "3232263984"
+                },
+                "fixmysave": {
+                    "gid": "423375095195285731",
+                    "size": "2628507581",
+                    "download": "2440391232"
+                },
+                "win7compatible": {
+                    "gid": "423375095195285731",
+                    "size": "2628507581",
+                    "download": "2440391232"
+                },
+                "experimental": {
+                    "gid": "3602203146790957046",
+                    "size": "3962337497",
+                    "download": "3245746112"
+                }
+            },
+            "decryptionkey": "b33bc6731d4f57b8cbd8877c58b0f35fca6516ce330c14048fb59aadaf364a36"
+        },
+        "1652252": {},
+        "branches": {
+            "public": {
+                "buildid": "18543968",
+                "timeupdated": "1747853746"
+            },
+            "fixmysave": {
+                "buildid": "12213875",
+                "description": "Save issues? Switch to this, launch, quit from menu, switch back to normal.",
+                "timeupdated": "1698470980"
+            },
+            "win7compatible": {
+                "buildid": "12213875",
+                "description": "Windows 7 Compatible Branch - Pre-October Update",
+                "timeupdated": "1698421659"
+            },
+            "experimental": {
+                "buildid": "19283855",
+                "description": "Pre-Release Stability Testing",
+                "timeupdated": "1752908470"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
