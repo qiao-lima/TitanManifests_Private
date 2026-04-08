@@ -1,0 +1,28 @@
+{
+    "appid": "1842240",
+    "type": "Game",
+    "name": "Stowaway",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 21:15:26",
+    "depot": {
+        "1842241": {
+            "manifests": {
+                "public": {
+                    "gid": "8128694411308026154",
+                    "size": "263405230",
+                    "download": "121752128"
+                }
+            },
+            "decryptionkey": "f84c3e53530e32458d0125c76cc8bfe79ba2ddcf2de40b6b6d0b9b0614b659b8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7830748",
+                "timeupdated": "1638707088"
+            }
+        }
+    },
+    "access_token": 14362632293249014780
+}
