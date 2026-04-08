@@ -1,0 +1,28 @@
+{
+    "appid": 2263160,
+    "name": "传说之始",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 13:12:11",
+    "change_number": 29929982,
+    "depot": {
+        "baselanguages": "",
+        "2263161": {
+            "manifests": {
+                "public": {
+                    "gid": "5263504637875438318",
+                    "size": "1532057296",
+                    "download": "288135072"
+                }
+            },
+            "decryptionkey": "539d0c4eefe266e3ee277b99f768f2fcc866c6f2c0117076875003293d55c082"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19036244",
+                "timeupdated": "1751105830"
+            }
+        }
+    }
+}
