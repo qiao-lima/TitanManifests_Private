@@ -1,0 +1,32 @@
+{
+    "appid": 3374140,
+    "name": "The Gears: Factory",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 12:04:20",
+    "change_number": 29600555,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "3374141": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7634163106253707437",
+                    "size": "1203332159",
+                    "download": "419253472"
+                }
+            },
+            "decryptionkey": "a6de069ee74c91ece2f0b9b40624436574c284354432dd9adb79a427b6f3b98f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18852955",
+                "timeupdated": "1749803800"
+            }
+        }
+    }
+}
