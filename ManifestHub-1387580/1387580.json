@@ -1,0 +1,48 @@
+{
+    "appid": 1387580,
+    "name": "AbsentedAge:アブセンテッドエイジ ～亡霊少女のローグライクアクションSRPG -幽玄の章-",
+    "type": "Game",
+    "schinese_name": "AbsentedAge: 亡灵少女的方格世界",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:02:46",
+    "change_number": 29728558,
+    "depot": {
+        "baselanguages": "japanese",
+        "1387581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4057225564803595687",
+                    "size": "418156741",
+                    "download": "242815552"
+                }
+            },
+            "decryptionkey": "492517975f2c091157702d1e117764e3dd52cab29a7f678123595de45af6f4b3"
+        },
+        "1387582": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7186567742117613433",
+                    "size": "392109247",
+                    "download": "240223344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18732839",
+                "timeupdated": "1749034167"
+            }
+        }
+    }
+}
