@@ -1,0 +1,27 @@
+{
+    "appid": 3430780,
+    "name": "Escape the Tower",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-22 02:19:43",
+    "change_number": 29110672,
+    "depot": {
+        "3430781": {
+            "manifests": {
+                "public": {
+                    "gid": "1026182701597890452",
+                    "size": "808897206",
+                    "download": "414468944"
+                }
+            },
+            "decryptionkey": "22441c5c8aadc60440d261370f79ab3b216b1970a0081531b8892dacafd38cf6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17354177",
+                "timeupdated": "1739462134"
+            }
+        }
+    }
+}
