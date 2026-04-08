@@ -1,0 +1,27 @@
+{
+    "appid": 3172420,
+    "name": "人类终结之日——2074",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 14:28:55",
+    "change_number": 29319054,
+    "depot": {
+        "3172421": {
+            "manifests": {
+                "public": {
+                    "gid": "6092963055053755417",
+                    "size": "4686503134",
+                    "download": "867126464"
+                }
+            },
+            "decryptionkey": "1d38acc70d51fa8ce7082d5aa9d7d04bd9aab394dce640602c51e5f99faa08bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18232972",
+                "timeupdated": "1745552634"
+            }
+        }
+    }
+}
