@@ -1,0 +1,60 @@
+{
+    "appid": 1619580,
+    "name": "Slopecrashers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 22:49:41",
+    "change_number": 30194588,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1619581": {
+            "manifests": {
+                "public": {
+                    "gid": "1106103224088830763",
+                    "size": "4014298110",
+                    "download": "3079163936"
+                },
+                "beta": {
+                    "gid": "1106103224088830763",
+                    "size": "4014298110",
+                    "download": "3079163936"
+                }
+            },
+            "decryptionkey": "78268bdf129ff62b394ad6a01bfe74831d564f685507cd84a28c8b407966052a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18963077",
+                "timeupdated": "1751363006"
+            },
+            "beta": {
+                "buildid": "18963077",
+                "description": "beta test",
+                "timeupdated": "1750672774"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
