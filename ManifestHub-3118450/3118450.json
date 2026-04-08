@@ -1,0 +1,41 @@
+{
+    "appid": 3118450,
+    "name": "Cast Cats",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 17:47:15",
+    "change_number": 30037068,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3118451": {
+            "manifests": {
+                "public": {
+                    "gid": "4933351722922646087",
+                    "size": "660035543",
+                    "download": "526148912"
+                }
+            },
+            "decryptionkey": "35e3dd9ebd4841dcf8607883fafd8e26362fa4086cb1080cf131ac1684337e52"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19063581",
+                "timeupdated": "1751365081"
+            }
+        }
+    }
+}
