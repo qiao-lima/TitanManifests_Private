@@ -1,0 +1,271 @@
+{
+    "appid": 251990,
+    "name": "Long Live The Queen",
+    "type": "Game",
+    "schinese_name": "女王万岁",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 06:45:58",
+    "change_number": 29406195,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english",
+        "251991": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4955750190551533341",
+                    "size": "94170641",
+                    "download": "59521984"
+                },
+                "alpha": {
+                    "gid": "4955750190551533341",
+                    "size": "94170641",
+                    "download": "59521984"
+                },
+                "oldstable": {
+                    "gid": "4955750190551533341",
+                    "size": "94170641",
+                    "download": "59521984"
+                },
+                "renpy-6.12.2": {
+                    "gid": "1499039377773948273",
+                    "size": "60410258",
+                    "download": "51247040"
+                },
+                "renpy-6.99.12.2": {
+                    "gid": "7517877439093025071",
+                    "size": "94660255",
+                    "download": "60006320"
+                }
+            },
+            "decryptionkey": "e91a4745c98a16800f42eeac21601da40020a73514a9e312dfaaffaaa85e6c65"
+        },
+        "251992": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "357758644332452105",
+                    "size": "61074513",
+                    "download": "51891968"
+                },
+                "alpha": {
+                    "gid": "357758644332452105",
+                    "size": "61074513",
+                    "download": "51891968"
+                },
+                "oldstable": {
+                    "gid": "357758644332452105",
+                    "size": "61074513",
+                    "download": "51891968"
+                },
+                "renpy-6.12.2": {
+                    "gid": "357758644332452105",
+                    "size": "61074513",
+                    "download": "51891968"
+                },
+                "renpy-6.99.12.2": {
+                    "gid": "1616897825159574728",
+                    "size": "76302867",
+                    "download": "55429888"
+                }
+            },
+            "decryptionkey": "9ec4b5aa40efcb0e46df009daafd56c00e244a17d85768f739c57c82b724c37c"
+        },
+        "251994": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8517848340732562233",
+                    "size": "0",
+                    "download": "0"
+                },
+                "alpha": {
+                    "gid": "8517848340732562233",
+                    "size": "0",
+                    "download": "0"
+                },
+                "oldstable": {
+                    "gid": "6894701691809146561",
+                    "size": "0",
+                    "download": "0"
+                },
+                "renpy-6.12.2": {
+                    "gid": "6894701691809146561",
+                    "size": "0",
+                    "download": "0"
+                },
+                "renpy-6.99.12.2": {
+                    "gid": "8517848340732562233",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ccea40e7019813499fafdf625dd442064c7527d6e99efa91acefa25fa0b33487"
+        },
+        "251995": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9176140368117271110",
+                    "size": "403650",
+                    "download": "93840"
+                },
+                "alpha": {
+                    "gid": "9176140368117271110",
+                    "size": "403650",
+                    "download": "93840"
+                },
+                "oldstable": {
+                    "gid": "9016624938516365263",
+                    "size": "403628",
+                    "download": "93808"
+                },
+                "renpy-6.12.2": {
+                    "gid": "6713720106679595053",
+                    "size": "210587",
+                    "download": "53568"
+                },
+                "renpy-6.99.12.2": {
+                    "gid": "8159902076540460672",
+                    "size": "408641",
+                    "download": "92000"
+                }
+            },
+            "decryptionkey": "558eb443fb0e80c3e883c9b58fe34c845fb2b4a936f57eb1d17f6d37e699d627"
+        },
+        "251996": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7153944874678518582",
+                    "size": "195295",
+                    "download": "83952"
+                },
+                "alpha": {
+                    "gid": "7153944874678518582",
+                    "size": "195295",
+                    "download": "83952"
+                },
+                "oldstable": {
+                    "gid": "765354387521407213",
+                    "size": "195273",
+                    "download": "83920"
+                },
+                "renpy-6.12.2": {
+                    "gid": "6854925712928859190",
+                    "size": "195281",
+                    "download": "83984"
+                },
+                "renpy-6.99.12.2": {
+                    "gid": "806648431928667053",
+                    "size": "200286",
+                    "download": "82112"
+                }
+            },
+            "decryptionkey": "ec9de3d49e1f30aa3f4fb3c967c6da816d7c3926a9a31e8d7558fbd0d6de8caa"
+        },
+        "251993": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1399508185278482823",
+                    "size": "72757203",
+                    "download": "53875360"
+                },
+                "alpha": {
+                    "gid": "1399508185278482823",
+                    "size": "72757203",
+                    "download": "53875360"
+                },
+                "oldstable": {
+                    "gid": "1399508185278482823",
+                    "size": "72757203",
+                    "download": "53875360"
+                },
+                "renpy-6.12.2": {
+                    "gid": "4270484276063426321",
+                    "size": "71752210",
+                    "download": "55167200"
+                },
+                "renpy-6.99.12.2": {
+                    "gid": "4631916462975677253",
+                    "size": "73246521",
+                    "download": "54359520"
+                }
+            },
+            "decryptionkey": "18fb5507e2d205608377c4e6e95c85d24c6cae8bf422850e4c0680ddfdd0f22a"
+        },
+        "251997": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5097180735267040320",
+                    "size": "423795",
+                    "download": "57744"
+                },
+                "alpha": {
+                    "gid": "5097180735267040320",
+                    "size": "423795",
+                    "download": "57744"
+                },
+                "oldstable": {
+                    "gid": "555094081066979088",
+                    "size": "423773",
+                    "download": "57712"
+                },
+                "renpy-6.12.2": {
+                    "gid": "4703028412632909764",
+                    "size": "423781",
+                    "download": "57776"
+                },
+                "renpy-6.99.12.2": {
+                    "gid": "1393842082001970296",
+                    "size": "428786",
+                    "download": "55904"
+                }
+            },
+            "decryptionkey": "5288e32a49fc6c970f541ac5a5a72f7407321edc96a21ac277db5f5e015a098c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18339341",
+                "timeupdated": "1746477833"
+            },
+            "alpha": {
+                "buildid": "18339341",
+                "description": "For testing only, not guaranteed to be stable",
+                "timeupdated": "1746382624"
+            },
+            "oldstable": {
+                "buildid": "9879347",
+                "description": "The previous stable version.",
+                "timeupdated": "1746477741"
+            },
+            "renpy-6.12.2": {
+                "buildid": "1081487",
+                "description": "For old computers. Use only if the other versions do not start.",
+                "timeupdated": "1487817372"
+            },
+            "renpy-6.99.12.2": {
+                "buildid": "18757862",
+                "description": "Testing engine upgrade June 2025",
+                "timeupdated": "1749163551"
+            }
+        }
+    }
+}
