@@ -1,0 +1,27 @@
+{
+    "appid": 1263450,
+    "name": "蔚蓝月下",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 16:08:42",
+    "change_number": 28801380,
+    "depot": {
+        "1263451": {
+            "manifests": {
+                "public": {
+                    "gid": "5177801771432038983",
+                    "size": "2644039268",
+                    "download": "865703024"
+                }
+            },
+            "decryptionkey": "e73b02b5c6257c460f0d7bcc39bb65db45d992a2cff544e951184249793159a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4760773",
+                "timeupdated": "1583822178"
+            }
+        }
+    }
+}
