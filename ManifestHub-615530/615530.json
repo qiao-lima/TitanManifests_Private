@@ -1,0 +1,126 @@
+{
+    "appid": 615530,
+    "name": "Love, Money, Rock'n'Roll",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 22:55:24",
+    "change_number": 29868137,
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "615531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1639284927768996125",
+                    "size": "2809124001",
+                    "download": "2483615760"
+                },
+                "beta_chinese": {
+                    "gid": "2761276072154488943",
+                    "size": "2811719604",
+                    "download": "2486662448"
+                },
+                "gamepad_test": {
+                    "gid": "2003626525882094235",
+                    "size": "2810117538",
+                    "download": "2484183936"
+                }
+            },
+            "decryptionkey": "798a2870c2ddd7da29e898c6f9472b8b5dfcf9bb0799588e2ee149ba756da3f9"
+        },
+        "615532": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7529368853387053414",
+                    "size": "2934070143",
+                    "download": "2518503024"
+                },
+                "beta_chinese": {
+                    "gid": "5782087860985999557",
+                    "size": "2972162451",
+                    "download": "2568806752"
+                },
+                "gamepad_test": {
+                    "gid": "4827501695454133797",
+                    "size": "2935268574",
+                    "download": "2519051840"
+                }
+            },
+            "decryptionkey": "fecd3a957c73d5dcf977d6d5144b5b23574076649553b85fe163793ff1a8557f"
+        },
+        "615533": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7675495179002343670",
+                    "size": "3133454450",
+                    "download": "2568528016"
+                },
+                "beta_chinese": {
+                    "gid": "448641325595197865",
+                    "size": "3139628917",
+                    "download": "2582906368"
+                },
+                "gamepad_test": {
+                    "gid": "7675495179002343670",
+                    "size": "3133454450",
+                    "download": "2568528016"
+                }
+            },
+            "decryptionkey": "09514769a9093810fe2e725d9cb6b97b71628394770f14448a79c651ca2b8b49"
+        },
+        "615534": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1729274472925248836",
+                    "size": "2770668542",
+                    "download": "2491597984"
+                },
+                "beta_chinese": {
+                    "gid": "1729274472925248836",
+                    "size": "2770668542",
+                    "download": "2491597984"
+                },
+                "gamepad_test": {
+                    "gid": "1729274472925248836",
+                    "size": "2770668542",
+                    "download": "2491597984"
+                }
+            },
+            "decryptionkey": "c71f8ed70d1f2c2cc7d2b4a7d5268fbb350d874f5f4916911a0394ea1283714b"
+        },
+        "workshopdepot": "615530",
+        "branches": {
+            "public": {
+                "buildid": "17600842",
+                "timeupdated": "1748445322"
+            },
+            "beta_chinese": {
+                "buildid": "17004794",
+                "description": "Chinese translation",
+                "timeupdated": "1736888086"
+            },
+            "gamepad_test": {
+                "buildid": "18903859",
+                "description": "gamepad test",
+                "timeupdated": "1750197725"
+            }
+        },
+        "workshopdepotdecryptionkey": "e985eb9384b9fc1ba324856319b5c8f65635b08cf34db2d87234f71efb13b259"
+    }
+}
