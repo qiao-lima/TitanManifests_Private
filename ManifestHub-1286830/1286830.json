@@ -1,0 +1,110 @@
+{
+    "appid": 1286830,
+    "name": "STAR WARS™: The Old Republic™",
+    "type": "Game",
+    "schinese_name": "星球大战：旧共和国",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 05:18:04",
+    "change_number": 30160721,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1286831": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7707818389424499420",
+                    "size": "45258580",
+                    "download": "20299104"
+                }
+            },
+            "decryptionkey": "5f441ab499a56229f41d6a145429972e63e773be8f3028defce3e15cd0d2c397"
+        },
+        "1286833": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4599223595034866118",
+                    "size": "17902988412",
+                    "download": "17500209792"
+                }
+            },
+            "decryptionkey": "0dc81a7e097e5bcaa2befe6feca6001c8b4e7ec674d5e5faeae16a1d720c6e05"
+        },
+        "1286834": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3811797453910408225",
+                    "size": "16912078916",
+                    "download": "16454267824"
+                }
+            },
+            "decryptionkey": "14b0eb51cb078a993b393e640b71ca12dc5a1b8bb53b9423259e67a2963f374a"
+        },
+        "1286835": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1116924592521249041",
+                    "size": "16301285672",
+                    "download": "15893632528"
+                }
+            },
+            "decryptionkey": "3dff041725d43f20ec9fc52b005a9c94193a7076ad086dd58d989fceb4f8c717"
+        },
+        "1286836": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7694059683476123398",
+                    "size": "46583589986",
+                    "download": "44956136400"
+                }
+            },
+            "decryptionkey": "b21b5ef05d644660d0c7ad11d5390622abd8a6513a7efa65da7f6ef07421f1d8"
+        },
+        "baselanguages": "english,german,french",
+        "branches": {
+            "public": {
+                "buildid": "18883047",
+                "timeupdated": "1750161254"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
