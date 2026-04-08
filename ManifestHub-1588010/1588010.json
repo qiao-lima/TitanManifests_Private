@@ -1,0 +1,43 @@
+{
+    "appid": 1588010,
+    "name": "PGA TOUR 2K23",
+    "type": "Game",
+    "schinese_name": "《PGA TOUR 2K23》",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 16:58:11",
+    "change_number": 30209930,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1588011": {
+            "manifests": {
+                "public": {
+                    "gid": "963747683682700287",
+                    "size": "15176572583",
+                    "download": "13640642080"
+                }
+            },
+            "decryptionkey": "115b07cbe961849aa56b23cb6e55235fb940462a1138e4808b0f4e72d44e3cb7"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18927457",
+                "timeupdated": "1753285570"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
