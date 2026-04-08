@@ -1,0 +1,43 @@
+{
+    "appid": 3116640,
+    "name": "Torque Drift 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 19:42:47",
+    "change_number": 30192313,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3116641": {
+            "manifests": {
+                "public": {
+                    "gid": "3246030018178987424",
+                    "size": "60741920276",
+                    "download": "59931361440"
+                }
+            },
+            "decryptionkey": "76d9b96d0a9d422a6133e9cba82015446749380a2945965f89fb05b584a507c8"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "19156309",
+                "timeupdated": "1752122928"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
