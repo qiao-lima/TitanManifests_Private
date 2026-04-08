@@ -1,0 +1,52 @@
+{
+    "appid": "2021450",
+    "type": "Demo",
+    "name": "14 Minesweeper Variants Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28460956",
+    "update_time": "2025-04-14 14:28:55",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2021451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4058568280303282962",
+                    "size": "94000075",
+                    "download": "35207776"
+                }
+            },
+            "decryptionkey": "8789d955e5ab16e0d9e01064f2cd6fa11408b74364661bb78ea6a985c71d0ddc"
+        },
+        "2021452": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6255638995280558962",
+                    "size": "152467149",
+                    "download": "48761136"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18095230",
+                "timeupdated": "1744612129"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
