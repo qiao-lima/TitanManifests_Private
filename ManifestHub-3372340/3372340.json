@@ -1,0 +1,27 @@
+{
+    "appid": 3372340,
+    "name": "FINAL FANTASY XV Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:27:44",
+    "change_number": 29731111,
+    "depot": {
+        "3372341": {
+            "manifests": {
+                "public": {
+                    "gid": "5579186600670066646",
+                    "size": "734111481",
+                    "download": "665051648"
+                }
+            },
+            "decryptionkey": "db1c488ab6037f4f1153200605cad9d9f22ea12d99387c441c2d7d8e18c8251c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16678861",
+                "timeupdated": "1733739364"
+            }
+        }
+    }
+}
