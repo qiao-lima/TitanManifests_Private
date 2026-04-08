@@ -1,0 +1,42 @@
+{
+    "appid": "1805510",
+    "type": "Game",
+    "name": "Barn Finders VR: The Pilot",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "26537504",
+    "update_time": "2024-12-07 15:15:09",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1805511": {
+            "manifests": {
+                "public": {
+                    "gid": "5293402213875210887",
+                    "size": "12512331856",
+                    "download": "5530086128"
+                }
+            },
+            "decryptionkey": "1a050dffc47cc593d13492371d5ca350a6f8e869dea3c20564be887b52e57845"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8047781",
+                "timeupdated": "1642599475"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
