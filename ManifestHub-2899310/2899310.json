@@ -1,0 +1,30 @@
+{
+    "appid": 2899310,
+    "name": "Card Engine",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 22:51:40",
+    "change_number": 29724021,
+    "depot": {
+        "2899311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8850010425066394085",
+                    "size": "452426877",
+                    "download": "120990432"
+                }
+            },
+            "decryptionkey": "d574da0ffbea7afb1ab5e2207869784ad04b2b3c39e6f10b0dc11c32204c3dfe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18699152",
+                "timeupdated": "1748853571"
+            }
+        }
+    }
+}
