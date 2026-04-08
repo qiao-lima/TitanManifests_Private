@@ -1,0 +1,43 @@
+{
+    "appid": "370100",
+    "type": "Game",
+    "name": "Uncrowded",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "21483829",
+    "update_time": "2024-08-14 18:55:15",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "370101": {
+            "manifests": {
+                "public": {
+                    "gid": "364083394998781510",
+                    "size": "85658141",
+                    "download": "24381312"
+                }
+            },
+            "decryptionkey": "4a649a3598bf7f06c62d2cd3fa41fb9cfa1fcbc81985d307dc54a41d2e0e0012"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1416164",
+                "timeupdated": "1477501373"
+            }
+        }
+    },
+    "access_token": 10925919277681427444
+}
