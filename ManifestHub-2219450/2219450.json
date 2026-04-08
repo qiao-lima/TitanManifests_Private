@@ -1,0 +1,28 @@
+{
+    "appid": 2219450,
+    "name": "Seer's Gambit",
+    "type": "Game",
+    "schinese_name": "勇者的残局：自走棋",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 08:18:13",
+    "change_number": 30126315,
+    "depot": {
+        "2219451": {
+            "manifests": {
+                "public": {
+                    "gid": "1679431576190188020",
+                    "size": "1157143835",
+                    "download": "401741952"
+                }
+            },
+            "decryptionkey": "981b8780fc1f05ca0e740a0930cf3492d294bd6a0b985911928c02544d1dbe2b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18701718",
+                "timeupdated": "1748868329"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
