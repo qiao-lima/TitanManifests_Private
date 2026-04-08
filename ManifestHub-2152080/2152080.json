@@ -1,0 +1,27 @@
+{
+    "appid": 2152080,
+    "name": "Futanari of the Apocalypse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:16:50",
+    "change_number": 30210319,
+    "depot": {
+        "2152081": {
+            "manifests": {
+                "public": {
+                    "gid": "2743361564534261299",
+                    "size": "167832450",
+                    "download": "70823728"
+                }
+            },
+            "decryptionkey": "5a43c2affd3d40b67db9568c740bd59cf37b76df415ba0890d60def4f40f75b8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10039509",
+                "timeupdated": "1669733233"
+            }
+        }
+    }
+}
