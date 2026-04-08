@@ -1,0 +1,34 @@
+{
+    "appid": 1594880,
+    "name": "Corsairs Legacy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:16:36",
+    "change_number": 30210314,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1594881": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5251296598739143187",
+                    "size": "31153505136",
+                    "download": "15861565264"
+                }
+            },
+            "decryptionkey": "ebfe05cf0ade7af896bef16008d81c8c4a69ed3d2c66f0e18830d18ec6575053"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19203340",
+                "timeupdated": "1752352588"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
