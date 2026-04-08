@@ -1,0 +1,31 @@
+{
+    "appid": "492240",
+    "type": "Game",
+    "name": "Tracks of Triumph: Industrial Zone",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28038543",
+    "update_time": "2025-03-20 02:55:07",
+    "depot": {
+        "492241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2852927282866105469",
+                    "size": "270384460",
+                    "download": "42197040"
+                }
+            },
+            "decryptionkey": "d39b49d08520084c9dd0a90a6723388ff88aada02dd73823d2e0043fd8eb0129"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1865523",
+                "timeupdated": "1496517223"
+            }
+        }
+    },
+    "access_token": 17257494609906149890
+}
