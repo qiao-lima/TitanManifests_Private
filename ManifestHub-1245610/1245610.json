@@ -1,0 +1,53 @@
+{
+    "appid": 1245610,
+    "name": "AChat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 20:09:24",
+    "change_number": 30213168,
+    "depot": {
+        "baselanguages": "english",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1245611": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4660299574598517908",
+                    "size": "13421898580",
+                    "download": "3032671904"
+                }
+            },
+            "decryptionkey": "8f0d1e782ef92d26a8c2566869d3dc9f394383cb37347bde60d823145d74b23b"
+        },
+        "1245612": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19258272",
+                "timeupdated": "1753297757"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
