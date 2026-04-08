@@ -1,0 +1,107 @@
+{
+    "appid": 1634870,
+    "name": "Open Brush",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 18:26:04",
+    "change_number": 30211620,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1634871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8810587627804826145",
+                    "size": "843394428",
+                    "download": "233054016"
+                },
+                "previous": {
+                    "gid": "2057730924779657023",
+                    "size": "512037163",
+                    "download": "127620272"
+                },
+                "beta": {
+                    "gid": "3828996636311105443",
+                    "size": "764370884",
+                    "download": "193299296"
+                }
+            },
+            "decryptionkey": "95056ac1f7768c1b835f3df160a994e48263a083e2cfb07453f2937b6f015b0f"
+        },
+        "1634872": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1929767395100713031",
+                    "size": "875962966",
+                    "download": "242426848"
+                },
+                "beta": {
+                    "gid": "9070682435513685589",
+                    "size": "790656349",
+                    "download": "202772560"
+                }
+            },
+            "decryptionkey": "556e0a81553d282a2ace8a2ae31545be99228a841c9d76cdb2e3b7d1dd62f304"
+        },
+        "1634873": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2016983321192133095",
+                    "size": "850553681",
+                    "download": "231288912"
+                },
+                "beta": {
+                    "gid": "9058715468877780183",
+                    "size": "719610995",
+                    "download": "193318400"
+                }
+            },
+            "decryptionkey": "4ab62d998ae068db008c5efbd400e6f9f05ee2543596ce6c69726b631355e47e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18255837",
+                "timeupdated": "1745762394"
+            },
+            "previous": {
+                "buildid": "8090994",
+                "description": "The previous official release. Use this if you need to check for a regression in the latest official build",
+                "timeupdated": "1675978906"
+            },
+            "beta": {
+                "buildid": "19332554",
+                "description": "Pre-release build which contains features coming soon, but may also contain bugs!",
+                "timeupdated": "1753291561"
+            }
+        }
+    }
+}
