@@ -1,0 +1,78 @@
+{
+    "appid": "379600",
+    "type": "Game",
+    "name": "Diner Mania",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28972643",
+    "update_time": "2025-05-14 11:27:45",
+    "depot": {
+        "379601": {
+            "manifests": {
+                "public": {
+                    "gid": "2792679571812183189",
+                    "size": "67478607",
+                    "download": "64042544"
+                }
+            },
+            "decryptionkey": "a757da44c91803d063c7540f0ea4316a955c59b6a47fa8b4c5b5ae5796b1e1bc"
+        },
+        "379602": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5029544736962435980",
+                    "size": "2396412",
+                    "download": "2094496"
+                }
+            },
+            "decryptionkey": "3df9754c443f37d30982a2b2b8379f9e4781cee924b3d6d301f4b48aa34d537f"
+        },
+        "379603": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1987054583302518194",
+                    "size": "2396124",
+                    "download": "2094512"
+                }
+            },
+            "decryptionkey": "84ad2f6194a0d0a52d2812482e3c3bcca39b164e9c3c0f5cd040125ca6b7b195"
+        },
+        "379604": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4547849454940929478",
+                    "size": "2395144",
+                    "download": "2094448"
+                }
+            },
+            "decryptionkey": "c7121dae33264f9608f905e87303c55b7c798429e92768816447768197c70f21"
+        },
+        "379605": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2568344496625791313",
+                    "size": "2396158",
+                    "download": "2094560"
+                }
+            },
+            "decryptionkey": "95b92cb53e62d81d782e9f35080c7c350185ba93d025b8fbbb34d1d42a4ccd6f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "655986"
+            }
+        }
+    }
+}
