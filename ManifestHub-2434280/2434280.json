@@ -1,0 +1,40 @@
+{
+    "appid": 2434280,
+    "name": "Death From Above Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:22:16",
+    "change_number": 26201212,
+    "depot": {
+        "2434281": {
+            "manifests": {
+                "public": {
+                    "gid": "5128141856953164255",
+                    "size": "99874448",
+                    "download": "99836736"
+                }
+            },
+            "decryptionkey": "8d152f03dc4c50c8201b5be83c7fd7fcb303e4c31d6cf2f1b77ada096efd1f6e"
+        },
+        "2434282": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2282646974202833844",
+                    "size": "506056896",
+                    "download": "512015408"
+                }
+            },
+            "decryptionkey": "7997bf0d9cc6dd89663a6ef836956084672bda7160fa451bc77bec4ec7cbd123"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13520403",
+                "timeupdated": "1708525725"
+            }
+        }
+    }
+}
