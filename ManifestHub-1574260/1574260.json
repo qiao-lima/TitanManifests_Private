@@ -1,0 +1,39 @@
+{
+    "appid": 1574260,
+    "name": "My Friendly Neighborhood",
+    "type": "Game",
+    "schinese_name": "我的友好邻居",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 01:12:03",
+    "change_number": 30176580,
+    "depot": {
+        "1574261": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6952547313761338948",
+                    "size": "8981400296",
+                    "download": "7743443008"
+                }
+            },
+            "decryptionkey": "c0eae99422a76e3eaa5f34391a3ae06817cd2c712c876212c8da996dacec2baa"
+        },
+        "1574262": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19304037",
+                "timeupdated": "1753143117"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
