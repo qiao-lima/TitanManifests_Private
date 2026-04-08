@@ -1,0 +1,28 @@
+{
+    "appid": "1602200",
+    "type": "Game",
+    "name": "Nature Park",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 08:39:05",
+    "depot": {
+        "1602201": {
+            "manifests": {
+                "public": {
+                    "gid": "4285993796593226407",
+                    "size": "631499136",
+                    "download": "219385616"
+                }
+            },
+            "decryptionkey": "ab69bae5a92f808df5fcdd10c85c4b80123fdc512340c5b62a46aeaf91b1a0e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6531190",
+                "timeupdated": "1618294165"
+            }
+        }
+    },
+    "access_token": 2110734672452154942
+}
