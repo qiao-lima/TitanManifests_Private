@@ -1,0 +1,28 @@
+{
+    "appid": 1991980,
+    "name": "Mystic Academy: Escape Room",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 13:42:45",
+    "change_number": 30186056,
+    "depot": {
+        "1991981": {
+            "manifests": {
+                "public": {
+                    "gid": "5713530874747915289",
+                    "size": "8844628964",
+                    "download": "3848516880"
+                }
+            },
+            "decryptionkey": "ab842d3e679523d64cf3b64195cdaf7c2ac81ab5d18a1dae1022f2633a8d24f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13058165",
+                "timeupdated": "1703783053"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
