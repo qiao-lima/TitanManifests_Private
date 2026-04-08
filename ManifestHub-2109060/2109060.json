@@ -1,0 +1,32 @@
+{
+    "appid": 2109060,
+    "name": "Magenta Horizon - Neverending Harvest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 18:42:42",
+    "change_number": 30191405,
+    "depot": {
+        "2109061": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6825633432981658147",
+                    "size": "4569183999",
+                    "download": "1417708512"
+                }
+            },
+            "decryptionkey": "17fcaa86b0ec780c27db8f8c036f000a5d5f1177c063e6fb0dd6d81d9795a0a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18160211",
+                "timeupdated": "1744996577"
+            }
+        }
+    }
+}
