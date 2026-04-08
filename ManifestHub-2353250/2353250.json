@@ -1,0 +1,67 @@
+{
+    "appid": 2353250,
+    "name": "Astrometica",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 01:20:42",
+    "change_number": 30176711,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2353251": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2954092111017826647",
+                    "size": "10248447229",
+                    "download": "9750424848"
+                },
+                "experimental": {
+                    "gid": "568000163601479680",
+                    "size": "9262238397",
+                    "download": "8790217168"
+                },
+                "steamdecktest": {
+                    "gid": "568000163601479680",
+                    "size": "9262238397",
+                    "download": "8790217168"
+                }
+            },
+            "decryptionkey": "6eb33634aeb57c51ab14b8099974d93148de8b54d7a4104cf3b7d6e2aac1b425"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19077594",
+                "timeupdated": "1751580153"
+            },
+            "experimental": {
+                "buildid": "19291604",
+                "description": "Future content beta build",
+                "timeupdated": "1753022965"
+            },
+            "steamdecktest": {
+                "buildid": "19291604",
+                "description": "for steam deck performance",
+                "timeupdated": "1753022817"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
