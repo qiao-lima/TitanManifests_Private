@@ -1,0 +1,41 @@
+{
+    "appid": 2778690,
+    "name": "Challenger's Odyssey",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 01:05:51",
+    "change_number": 29999362,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2778691": {
+            "manifests": {
+                "public": {
+                    "gid": "7524682794433184553",
+                    "size": "983655527",
+                    "download": "671358784"
+                }
+            },
+            "decryptionkey": "70ae544882f2610bae50dad50f0ff5850e0d77e6525c62f59ef35b140bf21bfd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13604179",
+                "timeupdated": "1709228915"
+            }
+        }
+    }
+}
