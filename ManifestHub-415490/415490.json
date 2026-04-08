@@ -1,0 +1,51 @@
+{
+    "appid": "415490",
+    "type": "Game",
+    "name": "Lemurzin",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-28 11:57:34",
+    "depot": {
+        "baselanguages": "english,french,russian",
+        "415491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2965588345974165745",
+                    "size": "314625381",
+                    "download": "34582592"
+                }
+            },
+            "decryptionkey": "2df0e72e888bdad959770694b925b6ed99031ff153b3ca63fad3bbb06f16a55e"
+        },
+        "415492": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "463990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5717599329400930364",
+                    "size": "312678180",
+                    "download": "32342016"
+                }
+            },
+            "dlcappid": "463990",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1082044",
+                "timeupdated": "1461025949"
+            }
+        }
+    },
+    "access_token": 8976906930408830252
+}
