@@ -1,0 +1,28 @@
+{
+    "appid": 2920510,
+    "name": "Werewolf Party",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 18:00:45",
+    "change_number": 30016290,
+    "depot": {
+        "2920511": {
+            "manifests": {
+                "public": {
+                    "gid": "8198556089105036790",
+                    "size": "878027624",
+                    "download": "184400224"
+                }
+            },
+            "decryptionkey": "10b10048b43c4a5423f90e35675f2c8c1e19c9b5cca26837a00c73fbb4acb9bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17960311",
+                "timeupdated": "1743626060"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
