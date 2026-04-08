@@ -1,0 +1,30 @@
+{
+    "appid": 2201390,
+    "name": "Palladise Island：Legendary Space",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 09:47:49",
+    "change_number": 30153080,
+    "depot": {
+        "2201391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2828693953613716866",
+                    "size": "1305114690",
+                    "download": "1034410400"
+                }
+            },
+            "decryptionkey": "06c6d7f609691dd64fe34f64e87569decbab86478c1651eb0c2ce3e0d6a8d573"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10057803",
+                "timeupdated": "1669911030"
+            }
+        }
+    }
+}
