@@ -1,0 +1,42 @@
+{
+    "appid": 2594920,
+    "name": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
+    "type": "Game",
+    "schinese_name": "蕾斯莱莉娅娜的炼金工房 ～忘却的炼金术与极夜的解放者～",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 18:02:00",
+    "change_number": 29972665,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2594921": {
+            "manifests": {
+                "public": {
+                    "gid": "2160382525466027661",
+                    "size": "961714736",
+                    "download": "492826976"
+                }
+            },
+            "decryptionkey": "cc74cf5fd6f04a4b93dcda5d2a932e7acba5f090808eb95b5b7cc1498454b20f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17572396",
+                "timeupdated": "1741580344"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
