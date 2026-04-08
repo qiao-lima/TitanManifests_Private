@@ -1,0 +1,43 @@
+{
+    "appid": "600450",
+    "type": "Game",
+    "name": "Shoot Paint",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27149869",
+    "update_time": "2025-01-24 21:29:13",
+    "depot": {
+        "600452": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4044610769059193144",
+                    "size": "204301194",
+                    "download": "32477904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "600451": {
+            "manifests": {
+                "public": {
+                    "gid": "1607047602689243541",
+                    "size": "52055584",
+                    "download": "12439344"
+                }
+            },
+            "decryptionkey": "413954757e1df43e4769a4550afe0ebdab79e63cd8c5e97aca5b2137f90d1bc8"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "1659417",
+                "timeupdated": "1488222684"
+            }
+        }
+    },
+    "access_token": 18215433929659602014
+}
