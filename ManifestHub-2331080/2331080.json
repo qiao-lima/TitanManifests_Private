@@ -1,0 +1,29 @@
+{
+    "appid": 2331080,
+    "name": "浮生九还",
+    "type": "Game",
+    "schinese_name": "浮生九还",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 13:24:52",
+    "change_number": 29542469,
+    "depot": {
+        "2331081": {
+            "manifests": {
+                "public": {
+                    "gid": "7122729980964963214",
+                    "size": "2074284340",
+                    "download": "507110128"
+                }
+            },
+            "decryptionkey": "b80efb3f8095b39a46887a8800c6f18189afc52fbf7b9fe612733d1c7ff27f7a"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "15220847",
+                "timeupdated": "1722496881"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
