@@ -1,0 +1,27 @@
+{
+    "appid": 2950100,
+    "name": "Cats of the Tang Dynasty",
+    "type": "Game",
+    "schinese_name": "唐朝那些猫",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 23:08:02",
+    "change_number": 29374613,
+    "depot": {
+        "2950101": {
+            "manifests": {
+                "public": {
+                    "gid": "4513031754874496002",
+                    "size": "2686872028",
+                    "download": "1197938320"
+                }
+            },
+            "decryptionkey": "5d550af31aeba81587f9018a5d57169aaee95581f06c7f9b1234fadbc91728c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15676483",
+                "timeupdated": "1726140491"
+            }
+        }
+    }
+}
