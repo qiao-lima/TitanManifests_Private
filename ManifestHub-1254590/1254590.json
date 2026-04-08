@@ -1,0 +1,32 @@
+{
+    "appid": 1254590,
+    "name": "Choco Pixel 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 21:21:15",
+    "change_number": 29435540,
+    "depot": {
+        "1254591": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7316787474814803846",
+                    "size": "14671220",
+                    "download": "12243888"
+                }
+            },
+            "decryptionkey": "8eb2215ab0a73c62a7c37e294cc23ac45003a677a617db127fc1845fad315994"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "13491102",
+                "timeupdated": "1708274289"
+            }
+        }
+    }
+}
