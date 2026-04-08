@@ -1,0 +1,74 @@
+{
+    "appid": 1597980,
+    "name": "City20",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 14:20:56",
+    "change_number": 30167426,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1597985": {
+            "manifests": {
+                "public": {
+                    "gid": "4594175310108724014",
+                    "size": "2293315347",
+                    "download": "1860631600"
+                },
+                "0.3.0": {
+                    "gid": "6072746555329393347",
+                    "size": "2379306171",
+                    "download": "1809220592"
+                },
+                "0.4.1": {
+                    "gid": "5847857005816641118",
+                    "size": "2456861565",
+                    "download": "1873722592"
+                },
+                "0.5.2": {
+                    "gid": "7576921607737285628",
+                    "size": "2613524908",
+                    "download": "1938884208"
+                }
+            },
+            "decryptionkey": "69bc62e3db157c7aa6c2630c3e39c77f0bfe909eef1ee33952712b8ff79fb593"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "19189292",
+                "timeupdated": "1752501063"
+            },
+            "0.3.0": {
+                "buildid": "16555079",
+                "description": "Make sure to backup your save files!",
+                "timeupdated": "1734536720"
+            },
+            "0.4.1": {
+                "buildid": "17156720",
+                "description": "Older version, for saves compatibility.",
+                "timeupdated": "1741706836"
+            },
+            "0.5.2": {
+                "buildid": "18058609",
+                "description": "Older version, for saves compatibility.",
+                "timeupdated": "1752501017"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
