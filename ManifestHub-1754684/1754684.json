@@ -1,0 +1,29 @@
+{
+    "appid": 1754684,
+    "name": "Atelier Sophie 2 - Sophie's Costume \"Comfy and Casual\"",
+    "type": "DLC",
+    "schinese_name": "苏菲的炼金工房２ - 苏菲专用服装“最爱的日常穿着”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:31:17",
+    "change_number": 26201212,
+    "depot": {
+        "1754684": {
+            "manifests": {
+                "public": {
+                    "gid": "4724039468765267212",
+                    "size": "14798410",
+                    "download": "4330192"
+                }
+            },
+            "dlcappid": "1754684",
+            "decryptionkey": "4c4249b7ae1cbad87da903e7b1094b9807fa78daec77ddbdf33e630c4d119478"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7582036",
+                "timeupdated": "1635147560"
+            }
+        }
+    },
+    "access_token": 12796335806120162501
+}
