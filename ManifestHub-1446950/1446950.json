@@ -1,0 +1,99 @@
+{
+    "appid": 1446950,
+    "name": "Frontline Grunt",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 12:16:08",
+    "change_number": 29986762,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1446951": {
+            "manifests": {
+                "public": {
+                    "gid": "5887163740984769563",
+                    "size": "3262",
+                    "download": "2208"
+                }
+            },
+            "decryptionkey": "dd08eaccfbad8f41c8e46d3c58d3bb7d66065d5dc01372db9a86271345e34f8f"
+        },
+        "1446952": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8337082151557485187",
+                    "size": "6730104183",
+                    "download": "6498805536"
+                }
+            },
+            "decryptionkey": "45e170afa7d52576c27444a1efe2c3f0c5e1d7c4b0a0a11699aaed2f22a9c203"
+        },
+        "1446953": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6591973793386144065",
+                    "size": "6963177658",
+                    "download": "6599621904"
+                }
+            },
+            "decryptionkey": "8127fbb54bf148756fa59849784729edd2b734c53805a8e2d75d185c142251db"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19174533",
+                "timeupdated": "1752146163"
+            }
+        }
+    }
+}
