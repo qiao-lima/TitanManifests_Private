@@ -1,0 +1,28 @@
+{
+    "appid": 2549780,
+    "name": "The Karate Kid: Street Rumble",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 20:40:35",
+    "change_number": 29955946,
+    "depot": {
+        "2549781": {
+            "manifests": {
+                "public": {
+                    "gid": "7795500084210821390",
+                    "size": "2228781740",
+                    "download": "178963232"
+                }
+            },
+            "decryptionkey": "07df7d7e96816e68a61e7a46e41d9b8066dafeb91f53f39125a28170a8f974e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15655214",
+                "timeupdated": "1725999949"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
