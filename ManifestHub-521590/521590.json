@@ -1,0 +1,35 @@
+{
+    "appid": 521590,
+    "name": "Subterra",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 22:27:49",
+    "change_number": 29502018,
+    "depot": {
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "521591": {
+            "manifests": {
+                "public": {
+                    "gid": "783546730902242706",
+                    "size": "195278636",
+                    "download": "184239552"
+                }
+            },
+            "decryptionkey": "6956646dc87427a60856f294dcf3aad7ff6395735c85f02c7288d53dad2182ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1422525",
+                "timeupdated": "1477673268"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
