@@ -1,0 +1,44 @@
+{
+    "appid": 2355140,
+    "name": "The Symbiant Re:Union",
+    "type": "Game",
+    "schinese_name": "共生纽带：再续前缘",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 09:44:02",
+    "change_number": 29984311,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2355141": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4111419023411061902",
+                    "size": "780509613",
+                    "download": "634644864"
+                }
+            },
+            "decryptionkey": "5e65acbffbcf90bf1bd2c40cd28be0853b9d7b05ae518e81079ad5f686d4f0d2"
+        },
+        "2355142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7666194092867288588",
+                    "size": "692790227",
+                    "download": "607680752"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19099168",
+                "timeupdated": "1751576100"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
