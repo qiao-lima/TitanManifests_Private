@@ -1,0 +1,28 @@
+{
+    "appid": "569330",
+    "type": "Game",
+    "name": "Flight Simulator: VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:19:11",
+    "depot": {
+        "569331": {
+            "manifests": {
+                "public": {
+                    "gid": "7700335770587452482",
+                    "size": "891290520",
+                    "download": "233367696"
+                }
+            },
+            "decryptionkey": "a4b6b42a36805129235897f327e627fb064c4bbe663718774dcaa728baafc3f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2164802",
+                "timeupdated": "1506937580"
+            }
+        }
+    },
+    "access_token": 4715659674063923104
+}
