@@ -1,0 +1,28 @@
+{
+    "appid": 2919800,
+    "name": "Knightly Passions: Between Life and Death",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:27:18",
+    "change_number": 29289507,
+    "depot": {
+        "2919800": {
+            "dlcappid": "2919800",
+            "manifests": {
+                "public": {
+                    "gid": "7872520727238236038",
+                    "size": "198876078",
+                    "download": "189055120"
+                }
+            },
+            "decryptionkey": "fa3143dba69440aff04ac707fcb37d47670ef05a082438b282063f6de7871b0c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18677455",
+                "timeupdated": "1748625261"
+            }
+        }
+    }
+}
