@@ -1,0 +1,45 @@
+{
+    "appid": 1454640,
+    "name": "A Tale of Paper",
+    "type": "Game",
+    "schinese_name": "纸梦奇谭 A Tale of Paper",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:25",
+    "change_number": 29682941,
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1454641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2874933844558573061",
+                    "size": "4162635867",
+                    "download": "3965892112"
+                }
+            },
+            "decryptionkey": "d0651c2d34622c0953bd987c256f22c5983ddbcbaa5e42d9b1634c3afe5fa325"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14087168",
+                "timeupdated": "1713382236"
+            }
+        }
+    }
+}
