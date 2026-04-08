@@ -1,0 +1,31 @@
+{
+    "appid": 1391280,
+    "name": "3D Hentai Chess",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 16:42:37",
+    "change_number": 29174487,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1391281": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7291346518951620517",
+                    "size": "369285007",
+                    "download": "261275664"
+                }
+            },
+            "decryptionkey": "4531861bb762b715d81f46ed3596fdc1ee2c9f0044412231ec82f619d48b9562"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13989017",
+                "timeupdated": "1712600849"
+            }
+        }
+    }
+}
