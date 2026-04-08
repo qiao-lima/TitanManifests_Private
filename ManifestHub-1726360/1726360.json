@@ -1,0 +1,31 @@
+{
+    "appid": 1726360,
+    "name": "Peter's Adventures in English",
+    "type": "Game",
+    "schinese_name": "Peter的英语冒险 [英语学习]",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 16:15:28",
+    "change_number": 29789773,
+    "depot": {
+        "1726361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7638678468955384316",
+                    "size": "2535524144",
+                    "download": "1184182528"
+                }
+            },
+            "decryptionkey": "b620d9849edfad3675e21293793272667aa1fef5d21b84c1bcdb81f85dd8319b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18776626",
+                "timeupdated": "1749289777"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
