@@ -1,0 +1,37 @@
+{
+    "appid": 41050,
+    "name": "Serious Sam Classic: The First Encounter",
+    "type": "Game",
+    "schinese_name": "英雄萨姆经典版：首次遭遇",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 22:35:39",
+    "change_number": 30119345,
+    "depot": {
+        "41051": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2830472952558079171",
+                    "size": "400111100",
+                    "download": "312451072"
+                },
+                "public_beta_fe": {
+                    "gid": "9096069410207170929",
+                    "size": "400111100",
+                    "download": "312450896"
+                }
+            },
+            "decryptionkey": "bfbefa6017a1844cd197f681d98dfe5103a5ae1dadd356b47bcee44d34ae1d23"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "2426189",
+                "timeupdated": "1515592232"
+            },
+            "public_beta_fe": {
+                "buildid": "796272"
+            }
+        }
+    }
+}
