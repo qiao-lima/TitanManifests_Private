@@ -1,0 +1,28 @@
+{
+    "appid": 1837121,
+    "name": "RPG Maker MZ - DorapixelMapChips - Modern JP Interiors",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:49:15",
+    "change_number": 29664505,
+    "depot": {
+        "1837121": {
+            "manifests": {
+                "public": {
+                    "gid": "8716757044036804051",
+                    "size": "17751280",
+                    "download": "4084688"
+                }
+            },
+            "dlcappid": "1837121",
+            "decryptionkey": "4eeed47ae5694a678af87570148abd888355f3d72c8a7b4619e41f6b1cc1940b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18923976",
+                "timeupdated": "1750322081"
+            }
+        }
+    }
+}
