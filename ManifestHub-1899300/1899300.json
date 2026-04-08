@@ -1,0 +1,35 @@
+{
+    "appid": 1899300,
+    "name": "Combat Complex",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 12:39:47",
+    "change_number": 30145765,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1899301": {
+            "manifests": {
+                "public": {
+                    "gid": "56825943693904585",
+                    "size": "1975902830",
+                    "download": "272315984"
+                }
+            },
+            "decryptionkey": "4143450837131dd1d6b52ce8eb91d17939dc7bf481622ceb1861a5ed6e9c7995"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19284924",
+                "timeupdated": "1752925181"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
