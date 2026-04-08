@@ -1,0 +1,30 @@
+{
+    "appid": 1515900,
+    "name": "Heaven Dust 2",
+    "type": "Game",
+    "schinese_name": "秘馆疑踪2 / Heaven Dust 2",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 13:01:28",
+    "change_number": 29987508,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,russian,japanese,hungarian,brazilian",
+        "hasdepotsindlc": "0",
+        "1515901": {
+            "manifests": {
+                "public": {
+                    "gid": "5461219925964660460",
+                    "size": "916513051",
+                    "download": "354544720"
+                }
+            },
+            "decryptionkey": "3d807e205a7ae7a2c70eeb7fe919c52f17c54a5d642efc4269db0b837bc211d0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12167776",
+                "timeupdated": "1694514439"
+            }
+        }
+    },
+    "access_token": 1912663682185596137
+}
