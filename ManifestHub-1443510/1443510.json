@@ -1,0 +1,32 @@
+{
+    "appid": "1443510",
+    "type": "DLC",
+    "name": "Preorder Bonus - Syberia the World Before",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25065303",
+    "update_time": "2024-09-15 05:43:32",
+    "depot": {
+        "1443510": {
+            "dlcappid": "1443510"
+        },
+        "1443511": {
+            "manifests": {
+                "public": {
+                    "gid": "8163267690984130227",
+                    "size": "109852708",
+                    "download": "86143408"
+                }
+            },
+            "dlcappid": "1443510",
+            "decryptionkey": "dbfae85415a42269a4d778186861d29411cfcf3beaeaa59cc19a092f784fafb2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8399753",
+                "timeupdated": "1647628474"
+            }
+        }
+    },
+    "access_token": 8796557536726079348
+}
