@@ -1,0 +1,44 @@
+{
+    "appid": 411480,
+    "name": "BATTLECREW Space Pirates",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 14:15:03",
+    "change_number": 29787514,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "411481": {
+            "manifests": {
+                "public": {
+                    "gid": "4504354957037061857",
+                    "size": "5151067588",
+                    "download": "1465563536"
+                }
+            },
+            "decryptionkey": "cada994e419c3db0dfb475b9f3fe13610f7ec5dda0f219f14c53c1d4e5b480ab"
+        },
+        "workshopdepot": "411480",
+        "branches": {
+            "public": {
+                "buildid": "2982950",
+                "timeupdated": "1532700962"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
