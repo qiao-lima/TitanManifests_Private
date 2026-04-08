@@ -1,0 +1,31 @@
+{
+    "appid": 1260220,
+    "name": "Hentai Two Girls",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 16:04:38",
+    "change_number": 29544636,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1260221": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8216243192562550594",
+                    "size": "130751378",
+                    "download": "129687760"
+                }
+            },
+            "decryptionkey": "310916fb9e646420eaa6ddeae1a611109502cd662a9abe51e328c6dd2e50af6b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4777411",
+                "timeupdated": "1584174342"
+            }
+        }
+    }
+}
