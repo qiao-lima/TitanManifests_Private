@@ -1,0 +1,41 @@
+{
+    "appid": 2004360,
+    "name": "Hell Division",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 15:50:48",
+    "change_number": 30168848,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2004361": {
+            "manifests": {
+                "public": {
+                    "gid": "6500060917769328742",
+                    "size": "6269534688",
+                    "download": "2226887760"
+                }
+            },
+            "decryptionkey": "a876ea660c77af4c1c55293d891286b177e099b708d92a7fc6c8317780bc6e70"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17196894",
+                "timeupdated": "1738317758"
+            }
+        }
+    }
+}
