@@ -1,0 +1,38 @@
+{
+    "appid": 685000,
+    "name": "BAE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:43",
+    "change_number": 30056467,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "685001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3966755762701741878",
+                    "size": "48815822",
+                    "download": "11407680"
+                }
+            },
+            "decryptionkey": "5467ce28990a903d5080f05ec6c730c9a509926baca79271b4ec06ce097b3420"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1980282",
+                "timeupdated": "1500750260"
+            }
+        }
+    },
+    "access_token": 1489364870672352246
+}
