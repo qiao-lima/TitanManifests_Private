@@ -1,0 +1,29 @@
+{
+    "appid": 2686320,
+    "name": "Sexy Iron Maidens",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 11:46:35",
+    "change_number": 30129672,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2686321": {
+            "manifests": {
+                "public": {
+                    "gid": "837478310403528824",
+                    "size": "580610680",
+                    "download": "505523648"
+                }
+            },
+            "decryptionkey": "3d5aa762633e0190464203a6e77b1dc1d32e6a5279a8d59108198428c04532e1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16436364",
+                "timeupdated": "1731862203"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
