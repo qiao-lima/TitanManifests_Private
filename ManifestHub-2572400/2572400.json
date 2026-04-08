@@ -1,0 +1,34 @@
+{
+    "appid": 2572400,
+    "name": "Kingdom, Dungeon, and Hero",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 12:02:02",
+    "change_number": 29986517,
+    "depot": {
+        "workshopdepot": "2572400",
+        "2572401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8921497873853256799",
+                    "size": "938692099",
+                    "download": "325662208"
+                }
+            },
+            "decryptionkey": "6b02f6c33c4cff2fa7972bfb8a9c87cea0a6c9fd70e1d6db6bd68b442b46c2b7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19081547",
+                "timeupdated": "1751471103"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
