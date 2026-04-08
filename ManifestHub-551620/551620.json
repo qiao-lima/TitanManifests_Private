@@ -1,0 +1,69 @@
+{
+    "appid": 551620,
+    "name": "Approaching Infinity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:36:27",
+    "change_number": 30213570,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "551621": {
+            "manifests": {
+                "public": {
+                    "gid": "5133206829831917606",
+                    "size": "197217486",
+                    "download": "159980832"
+                },
+                "legacy17": {
+                    "gid": "5410150077758334434",
+                    "size": "279489818",
+                    "download": "235121024"
+                },
+                "version1point5": {
+                    "gid": "6335125386224935431",
+                    "size": "157681540",
+                    "download": "142291776"
+                },
+                "betafromnowon": {
+                    "gid": "3292556668679097116",
+                    "size": "197339335",
+                    "download": "160034656"
+                },
+                "legacy18": {
+                    "gid": "6144293929719760100",
+                    "size": "265122990",
+                    "download": "214330848"
+                }
+            },
+            "decryptionkey": "d087c1a1ebfe30a40406d23db94562927895c1f28e1d244bbe0c195c4e855eb6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19197573",
+                "timeupdated": "1752276860"
+            },
+            "legacy17": {
+                "buildid": "10904696",
+                "description": "For pre-1.8 games",
+                "timeupdated": "1685718521"
+            },
+            "version1point5": {
+                "buildid": "5718746",
+                "description": "Legacy Version 1.5",
+                "timeupdated": "1606098480"
+            },
+            "betafromnowon": {
+                "buildid": "19333941",
+                "description": "beta branch",
+                "timeupdated": "1753299383"
+            },
+            "legacy18": {
+                "buildid": "12583598",
+                "description": "The newest old version",
+                "timeupdated": "1721483212"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
