@@ -1,0 +1,70 @@
+{
+    "appid": 2276830,
+    "name": "Kingsvein",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:30:58",
+    "change_number": 29617529,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2276831": {
+            "manifests": {
+                "public": {
+                    "gid": "5235010765956663869",
+                    "size": "738488556",
+                    "download": "640129088"
+                },
+                "beta": {
+                    "gid": "5235010765956663869",
+                    "size": "738488556",
+                    "download": "640129088"
+                },
+                "test": {
+                    "gid": "5235010765956663869",
+                    "size": "738488556",
+                    "download": "640129088"
+                }
+            },
+            "decryptionkey": "bda9c7c9b1d1095a717cbf1dcf309e51145df9162efd362dc83f5a157cb7413e"
+        },
+        "workshopdepot": "2276830",
+        "branches": {
+            "public": {
+                "buildid": "18694155",
+                "timeupdated": "1748897094"
+            },
+            "beta": {
+                "buildid": "18694155",
+                "description": "beta testing branch",
+                "timeupdated": "1748805159"
+            },
+            "test": {
+                "buildid": "18694155",
+                "description": "private testing branch",
+                "timeupdated": "1748804960"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
