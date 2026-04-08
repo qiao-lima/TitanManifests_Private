@@ -1,0 +1,39 @@
+{
+    "appid": "506670",
+    "type": "Game",
+    "name": "ORBITAL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28974127",
+    "update_time": "2025-05-14 13:47:49",
+    "depot": {
+        "baselanguages": "english,russian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "506671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3968536538408082463",
+                    "size": "118214677",
+                    "download": "41293504"
+                }
+            },
+            "decryptionkey": "4ebbcf0822bda391a8885bf371376bcc51859e0527acaafc62f740e68d7b39cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1246024",
+                "timeupdated": "1469545660"
+            }
+        }
+    },
+    "access_token": 7974947939760913285
+}
