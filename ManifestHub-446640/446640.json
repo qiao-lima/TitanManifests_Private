@@ -1,0 +1,36 @@
+{
+    "appid": 446640,
+    "name": "Space Pilgrim Episode IV: Sol",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 20:10:59",
+    "change_number": 29920918,
+    "depot": {
+        "446641": {
+            "manifests": {
+                "public": {
+                    "gid": "6140526218830059222",
+                    "size": "328238333",
+                    "download": "322437152"
+                },
+                "test": {
+                    "gid": "6140526218830059222",
+                    "size": "328238333",
+                    "download": "322437152"
+                }
+            },
+            "decryptionkey": "d221dc1a4e58ccc22883b3dae813a8ff802693c712ef61916f0080c61ab70a9f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1031105",
+                "timeupdated": "1458327583"
+            },
+            "test": {
+                "buildid": "1031105",
+                "timeupdated": "1458327020"
+            }
+        }
+    }
+}
