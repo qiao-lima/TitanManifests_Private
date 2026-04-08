@@ -1,0 +1,34 @@
+{
+    "appid": 1770760,
+    "name": "Codename: TIARAS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-15 16:11:33",
+    "change_number": 30071071,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1770761": {
+            "manifests": {
+                "public": {
+                    "gid": "3822927409936992742",
+                    "size": "166292442",
+                    "download": "152622176"
+                }
+            },
+            "decryptionkey": "2b46a4a36401dddd4494beb26985712efa3d1e449064a8064accf151b69fb0cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7415332",
+                "timeupdated": "1632452229"
+            }
+        }
+    }
+}
