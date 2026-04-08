@@ -1,0 +1,36 @@
+{
+    "appid": 2116000,
+    "name": "阴桃花",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-12 10:52:54",
+    "change_number": 30025787,
+    "depot": {
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2116001": {
+            "manifests": {
+                "public": {
+                    "gid": "8742068693154035970",
+                    "size": "742439",
+                    "download": "234016"
+                }
+            },
+            "decryptionkey": "d119204c2f50cadb39401ff8e374236758a0de15800bbdf4eab916767422f081"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "19027215",
+                "timeupdated": "1751251606"
+            }
+        }
+    }
+}
