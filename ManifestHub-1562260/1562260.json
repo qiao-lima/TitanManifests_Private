@@ -1,0 +1,28 @@
+{
+    "appid": 1562260,
+    "name": "Camping Simulator: The Squad",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 00:42:15",
+    "change_number": 30176259,
+    "depot": {
+        "1562261": {
+            "manifests": {
+                "public": {
+                    "gid": "767487754771586190",
+                    "size": "1967823256",
+                    "download": "609939936"
+                }
+            },
+            "decryptionkey": "d2bf766c1b75f19d6e6a875ba4c98ba46036890dd8945e13afa9afae5f70ae8a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17446832",
+                "timeupdated": "1740095177"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
