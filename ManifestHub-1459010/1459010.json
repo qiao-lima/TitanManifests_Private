@@ -1,0 +1,35 @@
+{
+    "appid": 1459010,
+    "name": "Fallen Leaf",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 02:39:05",
+    "change_number": 30101240,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1459011": {
+            "manifests": {
+                "public": {
+                    "gid": "7950851048740506226",
+                    "size": "985436372",
+                    "download": "805537104"
+                }
+            },
+            "decryptionkey": "900f96286324c26718e105816b8799b56cc0ad4dfcfd45eee317884988a48001"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18573781",
+                "timeupdated": "1747957543"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
