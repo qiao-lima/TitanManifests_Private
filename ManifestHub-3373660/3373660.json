@@ -1,0 +1,42 @@
+{
+    "appid": 3373660,
+    "name": "Look Outside",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 13:18:27",
+    "change_number": 30146041,
+    "depot": {
+        "3373661": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7779877306804918659",
+                    "size": "967904420",
+                    "download": "520343056"
+                },
+                "public_beta_branch": {
+                    "gid": "4257183179204272215",
+                    "size": "968434750",
+                    "download": "520361152"
+                }
+            },
+            "decryptionkey": "88c6e87f7634aef8353a85a294ee8c152ecf785deb98dfec994bfa3181e747d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18951328",
+                "timeupdated": "1750527547"
+            },
+            "public_beta_branch": {
+                "buildid": "19005132",
+                "description": "Public beta branch for balance testing, hotfixes",
+                "timeupdated": "1750911267"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
