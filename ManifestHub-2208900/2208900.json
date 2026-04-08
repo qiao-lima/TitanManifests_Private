@@ -1,0 +1,46 @@
+{
+    "appid": 2208900,
+    "name": "World of Unlit",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 17:33:14",
+    "change_number": 29803529,
+    "depot": {
+        "baselanguages": "english",
+        "2208901": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8377899158235095844",
+                    "size": "5772959643",
+                    "download": "965209536"
+                }
+            },
+            "decryptionkey": "49cd2ef7fc65bb6596d6c4931fa3327f7b2f4ae0d47c7a090adeb86fad9fa1b6"
+        },
+        "2208902": {
+            "config": {
+                "oslist": "macos",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1643672407245372525",
+                    "size": "4109979067",
+                    "download": "805043440"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19037900",
+                "timeupdated": "1751128389"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
