@@ -1,0 +1,60 @@
+{
+    "appid": 2361460,
+    "name": "Toy Shire",
+    "type": "Game",
+    "schinese_name": "玩具郡 Toy Shire",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 01:20:25",
+    "change_number": 30141328,
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "2361460",
+        "2361461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8921744988429599444",
+                    "size": "2784739094",
+                    "download": "1014660096"
+                }
+            },
+            "decryptionkey": "6c8e6c05dd18bd60d8e9b322876fe53dc50e732db4866fa8e68a214889ec8c0c"
+        },
+        "2361462": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "542306982199917607",
+                    "size": "2901443553",
+                    "download": "1080652768"
+                }
+            },
+            "decryptionkey": "b5f044777b7698b365c661654d708eb8f04351ff29a5973556af167a7f216f95"
+        },
+        "2361463": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5768816974377788850",
+                    "size": "2828394310",
+                    "download": "1034379616"
+                }
+            },
+            "decryptionkey": "6948de64a4d934ecc33de930d8d33e15d4d95d51710819f457500b09a67ab4f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19009234",
+                "timeupdated": "1750956365"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d0f24f9f5b4231fd35d4ca0c54755b43cb1649fccbcfebe63555b6339bad0805"
+    }
+}
