@@ -1,0 +1,42 @@
+{
+    "appid": 2984860,
+    "name": "Letters of Bernard Thorne",
+    "type": "Game",
+    "schinese_name": "伯纳德·索恩的信件",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 01:59:00",
+    "change_number": 29833378,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2984861": {
+            "manifests": {
+                "public": {
+                    "gid": "548903748645820082",
+                    "size": "5234397016",
+                    "download": "4891304448"
+                }
+            },
+            "decryptionkey": "4e6a1a96100cd0341e0b9f26ef70b8faa535c0c46ec709920406a1f6dc08846f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18668929",
+                "timeupdated": "1748584817"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
