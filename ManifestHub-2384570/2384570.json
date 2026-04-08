@@ -1,0 +1,28 @@
+{
+    "appid": 2384570,
+    "name": "永恒战歌",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 22:58:45",
+    "change_number": 29998209,
+    "depot": {
+        "2384571": {
+            "manifests": {
+                "public": {
+                    "gid": "649030804942179811",
+                    "size": "102043227",
+                    "download": "39690016"
+                }
+            },
+            "decryptionkey": "2f1bd7f0004b6489a04e2b118d03bb53ad4bcc4eb977a94f6ace272f6b11f5cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11347625",
+                "timeupdated": "1685430950"
+            }
+        }
+    },
+    "access_token": 14365888215635496176
+}
