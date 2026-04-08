@@ -1,0 +1,29 @@
+{
+    "appid": 2699690,
+    "name": "Harmonia Full HD Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 07:27:05",
+    "change_number": 29943582,
+    "depot": {
+        "2699691": {
+            "manifests": {
+                "public": {
+                    "gid": "4814902479262433717",
+                    "size": "1320282599",
+                    "download": "1202937424"
+                }
+            },
+            "decryptionkey": "f66409750f6efd60466bafa0334f4f52df9b18590d73d8ddfcca004403153091"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19140663",
+                "timeupdated": "1751956020"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
