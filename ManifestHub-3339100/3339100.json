@@ -1,0 +1,32 @@
+{
+    "appid": 3339100,
+    "name": "Demon Alive",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 00:12:46",
+    "change_number": 29914358,
+    "depot": {
+        "3339101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "931820815889676833",
+                    "size": "6541040323",
+                    "download": "2440740464"
+                }
+            },
+            "decryptionkey": "ef183af16163ef05d18131a784fbd736fa37ba6795f2d158f277d832c3e9811d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19119794",
+                "timeupdated": "1751752764"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
