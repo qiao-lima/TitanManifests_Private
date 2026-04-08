@@ -1,0 +1,32 @@
+{
+    "appid": 1510860,
+    "name": "Out of Sight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-15 20:10:53",
+    "change_number": 30075539,
+    "depot": {
+        "1510862": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6787933647282377878",
+                    "size": "1606190153",
+                    "download": "625101152"
+                }
+            },
+            "decryptionkey": "15b75f5443a9826e61a556c737efedb8f1d9617513158fe0fe08b3aeb579d95d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6389550",
+                "timeupdated": "1615908471"
+            }
+        }
+    }
+}
