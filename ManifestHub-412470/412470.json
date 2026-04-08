@@ -1,0 +1,79 @@
+{
+    "appid": 412470,
+    "name": "Metal War Online: Retribution",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 20:18:31",
+    "change_number": 30117603,
+    "depot": {
+        "baselanguages": "english,russian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1829726630299308803",
+                    "size": "102931551",
+                    "download": "100658080"
+                }
+            },
+            "depotfromapp": "228980",
+            "decryptionkey": "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4622705914179893434",
+                    "size": "242743889",
+                    "download": "242681440"
+                }
+            },
+            "depotfromapp": "228980",
+            "decryptionkey": "3aae9271fb93da5395ffbfe338d3647de5dcfab3fc6fb901ca2ec28849b3d6bf"
+        },
+        "412471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4066417147135206984",
+                    "size": "5644619",
+                    "download": "2971040"
+                },
+                "beta": {
+                    "gid": "2866261889000540138",
+                    "size": "5646153",
+                    "download": "2971552"
+                }
+            },
+            "decryptionkey": "c14c8d708c8684f67d10eeffe87f790ff6b8912eadeac1ec1e950de36a0d9922"
+        },
+        "412472": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "3461575170601248860",
+                    "size": "5646153",
+                    "download": "2971552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "861535"
+            },
+            "beta": {
+                "buildid": "866569"
+            }
+        }
+    }
+}
