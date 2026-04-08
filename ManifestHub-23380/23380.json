@@ -1,0 +1,106 @@
+{
+    "appid": 23380,
+    "name": "Gyromancer",
+    "type": "Game",
+    "schinese_name": "魔林谜踪 ",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:32:08",
+    "change_number": 30193658,
+    "depot": {
+        "23381": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1888503378042693425",
+                    "size": "162465945",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b665e02dfeaf968445215f9519c6144457077dc4f06b14b45e3dac024e9444ef"
+        },
+        "23382": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7578077498753435847",
+                    "size": "2",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "52d114fa07efbeed92677d9d9cefc82b8c255ee0a6a65cff7b3a586d0eb1d09b"
+        },
+        "23383": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2269028810662868856",
+                    "size": "2",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "099b89d55d034d2168891efa82b9f2f1b9b6232f497e7bd0a3166264daff3667"
+        },
+        "23384": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3231706491067034834",
+                    "size": "2",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3879efe386cb0fb116702e549c36431d106c155738f95f07f2f5ed159c827f2d"
+        },
+        "23385": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "341811900983640089",
+                    "size": "2",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d97bfafdfa24a0f892d19366815d0466a30b5f0f00202a4fd8df5d20f3254725"
+        },
+        "23386": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6572058956356479156",
+                    "size": "2",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "da2971d224bba7501c75385057028a0adef6a7b8f165c8dd9981ffb5da5ae3d0"
+        },
+        "23387": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4990766357579404678",
+                    "size": "2",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4d19ece70776d2c050d9d774198b8b7cfc62c6bcd6113d32a816d901ea6e43e0"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "3619"
+            }
+        }
+    }
+}
