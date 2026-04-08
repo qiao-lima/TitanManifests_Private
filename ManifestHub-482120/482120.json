@@ -1,0 +1,31 @@
+{
+    "appid": "482120",
+    "type": "Game",
+    "name": "Beater Spirit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "19407968",
+    "update_time": "2024-08-14 19:11:11",
+    "depot": {
+        "482121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2972309032831008173",
+                    "size": "17595392",
+                    "download": "17751072"
+                }
+            },
+            "decryptionkey": "3ca3c17fbbb1ece432d920b311c24bf0a20799dcb42021e5d8a2d2a2a8f18164"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1160732",
+                "timeupdated": "1464888759"
+            }
+        }
+    },
+    "access_token": 8539344611044724421
+}
