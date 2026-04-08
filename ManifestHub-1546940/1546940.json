@@ -1,0 +1,32 @@
+{
+    "appid": 1546940,
+    "name": "Beard Blade",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 08:12:15",
+    "change_number": 29944085,
+    "depot": {
+        "1546941": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6331118576360742263",
+                    "size": "98459774",
+                    "download": "36914240"
+                }
+            },
+            "decryptionkey": "7da984a8b78e6eadf9145cfe279f6559150cea5726eb9cea03755d20ef61b8fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7320274",
+                "timeupdated": "1631058051"
+            }
+        }
+    }
+}
