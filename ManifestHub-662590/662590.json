@@ -1,0 +1,28 @@
+{
+    "appid": 662590,
+    "name": "Army Craft",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 09:14:01",
+    "change_number": 29818546,
+    "depot": {
+        "662591": {
+            "manifests": {
+                "public": {
+                    "gid": "3184539880229287641",
+                    "size": "8727040",
+                    "download": "8759184"
+                }
+            },
+            "decryptionkey": "fe23d95599fafeb55cc1139b28582b6978cf0ddad7df9ddf7c4da1f3dca4d2bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1997458",
+                "timeupdated": "1501378627"
+            }
+        }
+    },
+    "access_token": 18444962316284148198
+}
