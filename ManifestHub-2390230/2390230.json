@@ -1,0 +1,48 @@
+{
+    "appid": 2390230,
+    "name": "The Chef's Shift",
+    "type": "Game",
+    "schinese_name": "大厨的轮班 The Chef's Shift",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 12:41:48",
+    "change_number": 30088290,
+    "depot": {
+        "baselanguages": "english",
+        "2390231": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3942154073539687165",
+                    "size": "681338143",
+                    "download": "125536128"
+                }
+            },
+            "decryptionkey": "9526fbf516fa3d4abca5637264e30440d6ad6938440ea8284d58cd35359a6dae"
+        },
+        "2390232": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1976472561552877792",
+                    "size": "703446673",
+                    "download": "133488368"
+                }
+            },
+            "decryptionkey": "b2b285b10a53639c75204a6aa67683dad29a1d4bb36143ee876b9ce58add7227"
+        },
+        "2390233": {},
+        "branches": {
+            "public": {
+                "buildid": "18266870",
+                "timeupdated": "1745854210"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
