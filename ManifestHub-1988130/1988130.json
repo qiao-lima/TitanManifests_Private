@@ -1,0 +1,27 @@
+{
+    "appid": 1988130,
+    "name": "Chirality",
+    "type": "Game",
+    "schinese_name": "薮之渊",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 12:14:31",
+    "change_number": 29679073,
+    "depot": {
+        "1988131": {
+            "manifests": {
+                "public": {
+                    "gid": "7554589070108976266",
+                    "size": "390827951",
+                    "download": "244191184"
+                }
+            },
+            "decryptionkey": "7758656785095c142cfe8074f52f761d1f0c07e63e4be76d8f4c3b29a84261ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11972073",
+                "timeupdated": "1692337723"
+            }
+        }
+    }
+}
