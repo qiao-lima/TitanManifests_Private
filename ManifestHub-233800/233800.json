@@ -1,0 +1,92 @@
+{
+    "appid": 233800,
+    "name": "Arma 3 Tools",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:42:27",
+    "change_number": 29704218,
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "233801": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4716843457898508211",
+                    "size": "415495870",
+                    "download": "104511984"
+                },
+                "development": {
+                    "gid": "8651326443265637205",
+                    "size": "416081792",
+                    "download": "104637488"
+                }
+            },
+            "decryptionkey": "1224182c96a3b25c64e25143a403eca1f641e7853ea4383fd91bd700ea18e928"
+        },
+        "233802": {},
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "18764601",
+                "timeupdated": "1750161714"
+            },
+            "development": {
+                "buildid": "18925805",
+                "description": "Development Build",
+                "timeupdated": "1750331641"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
