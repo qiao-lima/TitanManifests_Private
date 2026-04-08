@@ -1,0 +1,431 @@
+{
+    "appid": 440,
+    "name": "Team Fortress 2",
+    "type": "Game",
+    "schinese_name": "军团要塞2",
+    "isfreeapp": 1,
+    "update_time": "2025-07-02 18:33:27",
+    "change_number": 29865022,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian,latam",
+        "workshopdepot": "440",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "441": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6394200134843491781",
+                    "size": "29876093520",
+                    "download": "14792896016"
+                },
+                "pre_jungleinferno_demos": {
+                    "gid": "7707612755534478338",
+                    "size": "18855865767",
+                    "download": "7735778976"
+                },
+                "ui_scaling_test": {
+                    "gid": "6394200134843491781",
+                    "size": "29876093520",
+                    "download": "14792896016"
+                },
+                "prerelease": {
+                    "gid": "6394200134843491781",
+                    "size": "29876093520",
+                    "download": "14792896016"
+                },
+                "pre_07_25_23_demos": {
+                    "gid": "2023276112389133529",
+                    "size": "26125661395",
+                    "download": "11978937568"
+                },
+                "pre_smissmas_2022_demos": {
+                    "gid": "314077012305764573",
+                    "size": "24749544116",
+                    "download": "10985537760"
+                }
+            },
+            "decryptionkey": "c05cfb536f07ea221c20d5a4f6f7d2444e6190536aa7e53202e41158b443f6bb"
+        },
+        "440": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1118032470228587934",
+                    "size": "825745",
+                    "download": "43168"
+                },
+                "pre_jungleinferno_demos": {
+                    "gid": "1118032470228587934",
+                    "size": "825745",
+                    "download": "43168"
+                },
+                "ui_scaling_test": {
+                    "gid": "1118032470228587934",
+                    "size": "825745",
+                    "download": "43168"
+                },
+                "prerelease": {
+                    "gid": "1118032470228587934",
+                    "size": "825745",
+                    "download": "43168"
+                },
+                "pre_07_25_23_demos": {
+                    "gid": "1118032470228587934",
+                    "size": "825745",
+                    "download": "43168"
+                },
+                "pre_smissmas_2022_demos": {
+                    "gid": "1118032470228587934",
+                    "size": "825745",
+                    "download": "43168"
+                }
+            },
+            "decryptionkey": "44ce5c5297a415a1a6f69c856037a5a2fdd82cd474fa659edfb4d59b2abc55fc"
+        },
+        "232251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3602233681365136068",
+                    "size": "611692395",
+                    "download": "399252864"
+                },
+                "pre_jungleinferno_demos": {
+                    "gid": "2174530283606128348",
+                    "size": "562700702",
+                    "download": "445092848"
+                },
+                "ui_scaling_test": {
+                    "gid": "3602233681365136068",
+                    "size": "611692395",
+                    "download": "399252864"
+                },
+                "prerelease": {
+                    "gid": "3602233681365136068",
+                    "size": "611692395",
+                    "download": "399252864"
+                },
+                "pre_07_25_23_demos": {
+                    "gid": "1093030316367308660",
+                    "size": "585005817",
+                    "download": "467050320"
+                },
+                "pre_smissmas_2022_demos": {
+                    "gid": "8319568912250137931",
+                    "size": "584144460",
+                    "download": "466735776"
+                }
+            },
+            "decryptionkey": "20234395a6d4e6a89257e197259286ac36e725e8dde94ccc468816bb14b35677"
+        },
+        "232252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "678390272316880472",
+                    "size": "103246051",
+                    "download": "22586512"
+                },
+                "pre_jungleinferno_demos": {
+                    "gid": "8624037758464932425",
+                    "size": "485750759",
+                    "download": "370815712"
+                },
+                "ui_scaling_test": {
+                    "gid": "678390272316880472",
+                    "size": "103246051",
+                    "download": "22586512"
+                },
+                "prerelease": {
+                    "gid": "678390272316880472",
+                    "size": "103246051",
+                    "download": "22586512"
+                },
+                "pre_07_25_23_demos": {
+                    "gid": "4845664414220472500",
+                    "size": "510895405",
+                    "download": "391271824"
+                },
+                "pre_smissmas_2022_demos": {
+                    "gid": "2262584799279223344",
+                    "size": "509176417",
+                    "download": "390890000"
+                }
+            },
+            "decryptionkey": "2332c85e8962207698d8d77cce22035502d7ab91bdf0891358dad1a0dd92ff46"
+        },
+        "232253": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2103430481478111071",
+                    "size": "455110767",
+                    "download": "326658048"
+                },
+                "pre_jungleinferno_demos": {
+                    "gid": "3512165917877440762",
+                    "size": "536705326",
+                    "download": "424011840"
+                },
+                "ui_scaling_test": {
+                    "gid": "2103430481478111071",
+                    "size": "455110767",
+                    "download": "326658048"
+                },
+                "prerelease": {
+                    "gid": "2103430481478111071",
+                    "size": "455110767",
+                    "download": "326658048"
+                },
+                "pre_07_25_23_demos": {
+                    "gid": "8481848623592128300",
+                    "size": "562481508",
+                    "download": "446661232"
+                },
+                "pre_smissmas_2022_demos": {
+                    "gid": "2039032268643181297",
+                    "size": "560994616",
+                    "download": "446299360"
+                }
+            },
+            "decryptionkey": "bdbeae4f56fa865d8df2f76623d3346fcd7e56df6dee13b0f23e4a0fe160a446"
+        },
+        "444": {
+            "config": {
+                "lowviolence": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "646330807595077556",
+                    "size": "7452052",
+                    "download": "2986208"
+                },
+                "pre_jungleinferno_demos": {
+                    "gid": "646330807595077556",
+                    "size": "7452052",
+                    "download": "2986208"
+                },
+                "ui_scaling_test": {
+                    "gid": "646330807595077556",
+                    "size": "7452052",
+                    "download": "2986208"
+                },
+                "prerelease": {
+                    "gid": "646330807595077556",
+                    "size": "7452052",
+                    "download": "2986208"
+                },
+                "pre_07_25_23_demos": {
+                    "gid": "646330807595077556",
+                    "size": "7452052",
+                    "download": "2986208"
+                },
+                "pre_smissmas_2022_demos": {
+                    "gid": "646330807595077556",
+                    "size": "7452052",
+                    "download": "2986208"
+                }
+            },
+            "decryptionkey": "2e54917111193472b5968afee6b02a48d018774f79762897158ec6f82fd19b79"
+        },
+        "445": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5602233730528152354",
+                    "size": "90075889",
+                    "download": "79353248"
+                },
+                "pre_jungleinferno_demos": {
+                    "gid": "5602233730528152354",
+                    "size": "90075889",
+                    "download": "79353248"
+                },
+                "ui_scaling_test": {
+                    "gid": "5602233730528152354",
+                    "size": "90075889",
+                    "download": "79353248"
+                },
+                "prerelease": {
+                    "gid": "5602233730528152354",
+                    "size": "90075889",
+                    "download": "79353248"
+                },
+                "pre_07_25_23_demos": {
+                    "gid": "5602233730528152354",
+                    "size": "90075889",
+                    "download": "79353248"
+                },
+                "pre_smissmas_2022_demos": {
+                    "gid": "5602233730528152354",
+                    "size": "90075889",
+                    "download": "79353248"
+                }
+            },
+            "decryptionkey": "5de23d3a008b6de37e573068f0feda39d55e435f134fb531c80865f6451dad68"
+        },
+        "446": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6215119033293728486",
+                    "size": "74594251",
+                    "download": "65214128"
+                },
+                "pre_jungleinferno_demos": {
+                    "gid": "6215119033293728486",
+                    "size": "74594251",
+                    "download": "65214128"
+                },
+                "ui_scaling_test": {
+                    "gid": "6215119033293728486",
+                    "size": "74594251",
+                    "download": "65214128"
+                },
+                "prerelease": {
+                    "gid": "6215119033293728486",
+                    "size": "74594251",
+                    "download": "65214128"
+                },
+                "pre_07_25_23_demos": {
+                    "gid": "6215119033293728486",
+                    "size": "74594251",
+                    "download": "65214128"
+                },
+                "pre_smissmas_2022_demos": {
+                    "gid": "6215119033293728486",
+                    "size": "74594251",
+                    "download": "65214128"
+                }
+            },
+            "decryptionkey": "d0b3a2e80975b0511f08c7129e2c04b6f7e2d8c83b061dfdc915363d4edd392e"
+        },
+        "448": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8469957949853360122",
+                    "size": "73934506",
+                    "download": "64158192"
+                },
+                "pre_jungleinferno_demos": {
+                    "gid": "8469957949853360122",
+                    "size": "73934506",
+                    "download": "64158192"
+                },
+                "ui_scaling_test": {
+                    "gid": "8469957949853360122",
+                    "size": "73934506",
+                    "download": "64158192"
+                },
+                "prerelease": {
+                    "gid": "8469957949853360122",
+                    "size": "73934506",
+                    "download": "64158192"
+                },
+                "pre_07_25_23_demos": {
+                    "gid": "8469957949853360122",
+                    "size": "73934506",
+                    "download": "64158192"
+                },
+                "pre_smissmas_2022_demos": {
+                    "gid": "8469957949853360122",
+                    "size": "73934506",
+                    "download": "64158192"
+                }
+            },
+            "decryptionkey": "8ba091d509d3763a7be4e8e6179cb884298cc863a1048784fbca98ee664b5378"
+        },
+        "449": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2451727451644207550",
+                    "size": "73947996",
+                    "download": "58909344"
+                },
+                "pre_jungleinferno_demos": {
+                    "gid": "2451727451644207550",
+                    "size": "73947996",
+                    "download": "58909344"
+                },
+                "ui_scaling_test": {
+                    "gid": "2451727451644207550",
+                    "size": "73947996",
+                    "download": "58909344"
+                },
+                "prerelease": {
+                    "gid": "2451727451644207550",
+                    "size": "73947996",
+                    "download": "58909344"
+                },
+                "pre_07_25_23_demos": {
+                    "gid": "2451727451644207550",
+                    "size": "73947996",
+                    "download": "58909344"
+                },
+                "pre_smissmas_2022_demos": {
+                    "gid": "2451727451644207550",
+                    "size": "73947996",
+                    "download": "58909344"
+                }
+            },
+            "decryptionkey": "44eacd2f58fc19987f08ed089dd19bb0009108649246d7ab4459fff29d657bf5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18450804",
+                "timeupdated": "1747175444"
+            },
+            "pre_jungleinferno_demos": {
+                "buildid": "2119861",
+                "timeupdated": "1690827460"
+            },
+            "ui_scaling_test": {
+                "buildid": "18450804",
+                "description": "UI Scaling Test",
+                "timeupdated": "1747175481"
+            },
+            "prerelease": {
+                "buildid": "18450804",
+                "timeupdated": "1747175489"
+            },
+            "pre_07_25_23_demos": {
+                "buildid": "11753452",
+                "description": "Pre-07-25-23 Demo Playback",
+                "timeupdated": "1690416239"
+            },
+            "pre_smissmas_2022_demos": {
+                "buildid": "9872056",
+                "description": "Pre-Smissmas 2022 Demo Playback",
+                "timeupdated": "1690827525"
+            }
+        },
+        "workshopdepotdecryptionkey": "44ce5c5297a415a1a6f69c856037a5a2fdd82cd474fa659edfb4d59b2abc55fc"
+    }
+}
