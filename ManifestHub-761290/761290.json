@@ -1,0 +1,48 @@
+{
+    "appid": 761290,
+    "name": "Sink or Skim",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-03 19:55:29",
+    "change_number": 29884597,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "761291": {
+            "manifests": {
+                "public": {
+                    "gid": "6591669387268022313",
+                    "size": "658259409",
+                    "download": "181228112"
+                }
+            },
+            "decryptionkey": "8fc105f24046875b036ec47b698821d60ab2d6483924565da77d1a874ab7c5d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2632789",
+                "timeupdated": "1522036132"
+            }
+        }
+    }
+}
