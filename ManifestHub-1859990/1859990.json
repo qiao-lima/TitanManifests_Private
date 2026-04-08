@@ -1,0 +1,40 @@
+{
+    "appid": 1859990,
+    "name": "Out of Orbit",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 13:42:45",
+    "change_number": 30186056,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1859991": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7574922279179669245",
+                    "size": "127132612",
+                    "download": "75303392"
+                }
+            },
+            "decryptionkey": "60f6e608ad26e3f768d0fa60f9f9848938af9e2bc4937e3081a55118cad39961"
+        },
+        "workshopdepot": "1859990",
+        "branches": {
+            "public": {
+                "buildid": "19228220",
+                "timeupdated": "1752574342"
+            }
+        },
+        "workshopdepotdecryptionkey": "6a117d4f4bf513dd2fdadd5c755f5053f94240826f03062629f72e4330660ed1"
+    }
+}
