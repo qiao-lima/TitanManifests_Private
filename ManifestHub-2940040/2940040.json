@@ -1,0 +1,31 @@
+{
+    "appid": 2940040,
+    "name": "Trolls vs Vikings: Reborn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 03:13:09",
+    "change_number": 30218340,
+    "depot": {
+        "2940041": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3507423602929539470",
+                    "size": "813829799",
+                    "download": "181185568"
+                }
+            },
+            "decryptionkey": "5da71a4c5ce92ae5f59611776ec9b9c2ee051cc574af66a29a71e2fbcf80d11a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19174877",
+                "timeupdated": "1752147418"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
