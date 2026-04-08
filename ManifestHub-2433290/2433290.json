@@ -1,0 +1,40 @@
+{
+    "appid": 2433290,
+    "name": "JR EAST Train Simulator: Senseki Line (Aobadori to Ishinomaki) 205-3100 series",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 05:56:03",
+    "change_number": 29735097,
+    "depot": {
+        "2433291": {
+            "manifests": {
+                "public": {
+                    "gid": "8480120809504110037",
+                    "size": "64506800",
+                    "download": "65371616"
+                }
+            },
+            "dlcappid": "2433290",
+            "decryptionkey": "0813b66d190e40ef206f51016b2cca9f95c4651e6ed7caa6dc0c40771b5789fb"
+        },
+        "2433292": {
+            "manifests": {
+                "public": {
+                    "gid": "8182542575848511177",
+                    "size": "16650241152",
+                    "download": "16878064896"
+                }
+            },
+            "dlcappid": "2433290",
+            "decryptionkey": "f0661961934190e97b5d130a917fc8c0ae8e072c1ae7cf8dfaaca17f4a0b3fa1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18558801",
+                "timeupdated": "1748311628"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
