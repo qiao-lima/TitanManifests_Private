@@ -1,0 +1,30 @@
+{
+    "appid": 889440,
+    "name": "Guts and Glory - Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 13:28:22",
+    "change_number": 26201212,
+    "depot": {
+        "889441": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8778374899867251824",
+                    "size": "177574355",
+                    "download": "177466624"
+                }
+            },
+            "decryptionkey": "32aca97653fd610457c17e920f3ec6fe646a91e05f606c4cc13fc64ca0812c05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4673220",
+                "timeupdated": "1581610112"
+            }
+        }
+    }
+}
