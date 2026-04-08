@@ -1,0 +1,90 @@
+{
+    "appid": 755540,
+    "name": "LIV",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-08 15:41:33",
+    "change_number": 29951332,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "755541": {
+            "manifests": {
+                "public": {
+                    "gid": "6594117540278574789",
+                    "size": "497824195",
+                    "download": "153018448"
+                },
+                "public_beta": {
+                    "gid": "5252232153995606668",
+                    "size": "497829315",
+                    "download": "153021280"
+                },
+                "latest": {
+                    "gid": "3576073790881041247",
+                    "size": "497767539",
+                    "download": "152925232"
+                }
+            },
+            "decryptionkey": "aacf4771546ab0328517855394f2f2283e1463a5ec0eecfbbc0f5cd4908437e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19079600",
+                "timeupdated": "1751467979"
+            },
+            "public_beta": {
+                "buildid": "19052653",
+                "description": "Try out the latest LIV features!",
+                "timeupdated": "1751295883"
+            },
+            "latest": {
+                "buildid": "19147441",
+                "description": "Warning! This is our development branch, and will break from time to time.",
+                "timeupdated": "1751985688"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
