@@ -1,0 +1,28 @@
+{
+    "appid": 2095650,
+    "name": "サカモト危機弾発",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 06:01:40",
+    "change_number": 29962057,
+    "depot": {
+        "2095651": {
+            "manifests": {
+                "public": {
+                    "gid": "204546211752853216",
+                    "size": "381104928",
+                    "download": "80614960"
+                }
+            },
+            "decryptionkey": "7e37e5aca6513848aa0ffc2f8df508ddaad9f678bcb12aa5b8f3168c0d6f0281"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19027529",
+                "timeupdated": "1751033708"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
