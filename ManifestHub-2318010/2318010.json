@@ -1,0 +1,28 @@
+{
+    "appid": 2318010,
+    "name": "Love, Money, Rock'n'Roll Artbook",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:23:22",
+    "change_number": 26201212,
+    "depot": {
+        "2318010": {
+            "dlcappid": "2318010",
+            "manifests": {
+                "public": {
+                    "gid": "5836451513817209806",
+                    "size": "134032862",
+                    "download": "119302752"
+                }
+            },
+            "decryptionkey": "cf1dd9e47013bf7b05eb3d638a59a651e3f8e54fef1e837c94bc550a43a9e08f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10527931",
+                "timeupdated": "1676067769"
+            }
+        }
+    }
+}
