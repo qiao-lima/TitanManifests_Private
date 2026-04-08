@@ -1,0 +1,28 @@
+{
+    "appid": 2334780,
+    "name": "CANINE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 16:44:39",
+    "change_number": 29933232,
+    "depot": {
+        "2334781": {
+            "manifests": {
+                "public": {
+                    "gid": "7648447340134928992",
+                    "size": "785713406",
+                    "download": "396696688"
+                }
+            },
+            "decryptionkey": "71b6db601489fe39fa2042187229473312aabb44fe12c284d25486b1f9687bed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16683034",
+                "timeupdated": "1733765936"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
