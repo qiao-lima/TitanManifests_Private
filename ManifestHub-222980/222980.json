@@ -1,0 +1,50 @@
+{
+    "appid": "222980",
+    "type": "Game",
+    "name": "Dead Pixels",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970368",
+    "update_time": "2025-05-14 07:57:46",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "222981": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1655679098038059433",
+                    "size": "289419870",
+                    "download": "210437696"
+                },
+                "xnabuild": {
+                    "gid": "2829745945702527918",
+                    "size": "155461662",
+                    "download": "132183952"
+                }
+            },
+            "decryptionkey": "172fb67b1048bcba6ea4c5ebeed5b3e5f0e0c5ebd5f25dd2fc05ff7d7ca31eff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18281839",
+                "timeupdated": "1745938405"
+            },
+            "xnabuild": {
+                "buildid": "629149",
+                "description": "Older build that uses XNA and other outdated Frameworks",
+                "timeupdated": "1744642205"
+            }
+        }
+    }
+}
