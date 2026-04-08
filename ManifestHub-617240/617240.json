@@ -1,0 +1,32 @@
+{
+    "appid": "617240",
+    "type": "Game",
+    "name": "Cucumber Blues",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 19:26:02",
+    "depot": {
+        "617241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4112553432447352246",
+                    "size": "285260837",
+                    "download": "91850720"
+                }
+            },
+            "decryptionkey": "6738489462986d64dece69142730d56d0735567361c1a68525de57503e53bf0a"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1906757",
+                "timeupdated": "1498070589"
+            }
+        }
+    },
+    "access_token": 12315280398173968035
+}
