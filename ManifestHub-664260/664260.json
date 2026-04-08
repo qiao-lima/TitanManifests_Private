@@ -1,0 +1,57 @@
+{
+    "appid": 664260,
+    "name": "Company of Heroes: Europe in Ruins",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-13 11:24:29",
+    "change_number": 30034611,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "664261": {
+            "manifests": {
+                "public": {
+                    "gid": "966097182440114680",
+                    "size": "7703759241",
+                    "download": "6895140800"
+                }
+            },
+            "decryptionkey": "b460990e30517c8f2763e84bc08a79eacc33a046e647a36f0a01b1ca728feb3b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19202566",
+                "timeupdated": "1752402227"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
