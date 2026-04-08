@@ -1,0 +1,41 @@
+{
+    "appid": 2898740,
+    "name": "Not a Masterpıece",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-26 03:56:23",
+    "change_number": 29180323,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2898741": {
+            "manifests": {
+                "public": {
+                    "gid": "2924224646238815169",
+                    "size": "682774237",
+                    "download": "583585568"
+                }
+            },
+            "decryptionkey": "a2e2af4687376ff1730446c4dd1b0b34423fcfa4633b827b2e43d45bbc2cdbd7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14628753",
+                "timeupdated": "1717692985"
+            }
+        }
+    }
+}
