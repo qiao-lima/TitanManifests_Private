@@ -1,0 +1,58 @@
+{
+    "appid": 3481440,
+    "name": "Puck Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 18:43:22",
+    "change_number": 29460274,
+    "depot": {
+        "3481441": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7737251864728721606",
+                    "size": "166016164",
+                    "download": "74604928"
+                },
+                "pre-release": {
+                    "gid": "7737251864728721606",
+                    "size": "166016164",
+                    "download": "74604928"
+                }
+            },
+            "decryptionkey": "f99343d8063a037a269fcb7e5b6cde034ceea70f83e3452ece1fec5e6505b1bb"
+        },
+        "3481442": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8691845704816156001",
+                    "size": "148303544",
+                    "download": "70884688"
+                },
+                "pre-release": {
+                    "gid": "8691845704816156001",
+                    "size": "148303544",
+                    "download": "70884688"
+                }
+            },
+            "decryptionkey": "4421071bdfc2e6636c15ba97f4043f91140946d166e92edd10b7a4f64e2bbde5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18792187",
+                "timeupdated": "1749462944"
+            },
+            "pre-release": {
+                "buildid": "18792187",
+                "description": "Pre-release branch",
+                "timeupdated": "1749460336"
+            }
+        }
+    }
+}
