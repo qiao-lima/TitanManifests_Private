@@ -1,0 +1,54 @@
+{
+    "appid": 1813170,
+    "name": "Surrounded",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 23:31:46",
+    "change_number": 30098936,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1813171": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5072285233998231879",
+                    "size": "8224937998",
+                    "download": "7697769888"
+                }
+            },
+            "decryptionkey": "e87cdb750b28cde795daa55a163e11d8db0eea895982a49209837aaa65f4d6cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15065059",
+                "timeupdated": "1721330064"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
