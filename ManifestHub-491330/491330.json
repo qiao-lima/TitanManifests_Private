@@ -1,0 +1,57 @@
+{
+    "appid": 491330,
+    "name": "12 Labours of Hercules V: Kids of Hellas",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 01:17:43",
+    "change_number": 29169450,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,dutch,brazilian",
+        "491331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1048163537202001098",
+                    "size": "286388389",
+                    "download": "283959072"
+                }
+            },
+            "decryptionkey": "d6a8fdceb7d1305e174803b9960f85c55c7e72c12426fd9aed8ab4a168ca8174"
+        },
+        "491332": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3784944414952962462",
+                    "size": "288682964",
+                    "download": "285986656"
+                }
+            },
+            "decryptionkey": "5acf4d0eb71654eef996d76120b311f109780afb9e0607b951b430ffbc317e8f"
+        },
+        "491333": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "978915513261826193",
+                    "size": "286268292",
+                    "download": "283953184"
+                }
+            },
+            "decryptionkey": "7109b8f0c53386694cef6ef3c814570203413cc6ddcf451b872e96c188a3c96e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7260411",
+                "timeupdated": "1632120295"
+            }
+        }
+    }
+}
