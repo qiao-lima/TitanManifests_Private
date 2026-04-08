@@ -1,0 +1,36 @@
+{
+    "appid": "894450",
+    "type": "Game",
+    "name": "Project Defense",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 20:00:15",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "894451": {
+            "manifests": {
+                "public": {
+                    "gid": "3549610414679434822",
+                    "size": "189820177",
+                    "download": "136867536"
+                }
+            },
+            "decryptionkey": "0a1608746251ea865be6d8a958bed554884a33e272885c9c13a17711d288f4f4"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "2913098",
+                "timeupdated": "1530568167"
+            }
+        }
+    },
+    "access_token": 2806928366323431617
+}
