@@ -1,0 +1,58 @@
+{
+    "appid": 1646790,
+    "name": "Striving for Light",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 08:25:36",
+    "change_number": 30201324,
+    "depot": {
+        "1646791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6660213395928457257",
+                    "size": "1544192488",
+                    "download": "1342986720"
+                },
+                "public-beta": {
+                    "gid": "1048451597933209989",
+                    "size": "1539906205",
+                    "download": "1345530208"
+                }
+            },
+            "decryptionkey": "387a839d535759a41e628d9eae51b5df05ad03e45ce39e9d92c6a9bd110d9bd5"
+        },
+        "1646792": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5997496611939847312",
+                    "size": "1556490680",
+                    "download": "1346846480"
+                },
+                "public-beta": {
+                    "gid": "6902361832487746156",
+                    "size": "1550059968",
+                    "download": "1349631264"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19320828",
+                "timeupdated": "1753221271"
+            },
+            "public-beta": {
+                "buildid": "19321164",
+                "description": "New Update Testing Realm",
+                "timeupdated": "1753224577"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
