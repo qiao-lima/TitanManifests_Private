@@ -1,0 +1,28 @@
+{
+    "appid": 2286653,
+    "name": "RPG Maker MZ - SERIALGAMES Living Good City Tileset",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:49:58",
+    "change_number": 26201212,
+    "depot": {
+        "2286653": {
+            "manifests": {
+                "public": {
+                    "gid": "3545293777937205884",
+                    "size": "218199170",
+                    "download": "100900144"
+                }
+            },
+            "dlcappid": "2286653",
+            "decryptionkey": "b779f806cca94e260906e9566de7e122409025285de9c3a35fa315e5200ee92f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10355976",
+                "timeupdated": "1676432264"
+            }
+        }
+    }
+}
