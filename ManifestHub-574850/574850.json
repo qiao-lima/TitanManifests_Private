@@ -1,0 +1,28 @@
+{
+    "appid": "574850",
+    "type": "Game",
+    "name": "Hardnoid",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22500482",
+    "update_time": "2024-08-14 19:19:32",
+    "depot": {
+        "574851": {
+            "manifests": {
+                "public": {
+                    "gid": "8381456281954865720",
+                    "size": "68068864",
+                    "download": "68875728"
+                }
+            },
+            "decryptionkey": "09db46342042dafaae6038537c129f2bdfa7bc63c4ff420537f0c55166e3374f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1624481",
+                "timeupdated": "1486794806"
+            }
+        }
+    },
+    "access_token": 17094322504453807414
+}
