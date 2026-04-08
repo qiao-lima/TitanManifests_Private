@@ -1,0 +1,39 @@
+{
+    "appid": 1874910,
+    "name": "Arma Reforger Tools",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 23:39:47",
+    "change_number": 30215917,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1874911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "986824630161976286",
+                    "size": "271821078",
+                    "download": "193194736"
+                }
+            },
+            "decryptionkey": "8679c498b87f92e7225074bf6166b13b0c8073299dd129451362e92a669941f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19101065",
+                "timeupdated": "1752145273"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
