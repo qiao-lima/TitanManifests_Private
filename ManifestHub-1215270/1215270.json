@@ -1,0 +1,42 @@
+{
+    "appid": 1215270,
+    "name": "Down The Rabbit Hole",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 20:13:06",
+    "change_number": 29866238,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1215271": {
+            "manifests": {
+                "public": {
+                    "gid": "8310696114766822895",
+                    "size": "2418415949",
+                    "download": "864433232"
+                }
+            },
+            "decryptionkey": "8dded2ec9788fb3f4150a4a7102877958b18323d8c77b08b39ff7f657420dbea"
+        },
+        "1215272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1500376270263262729",
+                    "size": "2392855716",
+                    "download": "826180608"
+                }
+            },
+            "decryptionkey": "c52504050dee5edb6dcabe2f2a1bb50828723baa885790d3263e3c4c25e22c3e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16736159",
+                "timeupdated": "1751045082"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
