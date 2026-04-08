@@ -1,0 +1,29 @@
+{
+    "appid": 2695490,
+    "name": "Age of Water",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 13:13:35",
+    "change_number": 30110076,
+    "depot": {
+        "2695491": {
+            "manifests": {
+                "public": {
+                    "gid": "1073395167530031473",
+                    "size": "17935386657",
+                    "download": "15403765904"
+                }
+            },
+            "decryptionkey": "fb4635bc4301ae8756fe365886c6c09b599761bb5113365389e116aec878d2f2"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19242191",
+                "timeupdated": "1752754408"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
