@@ -1,0 +1,28 @@
+{
+    "appid": 1769100,
+    "name": "Cosmic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 19:30:12",
+    "change_number": 30156819,
+    "depot": {
+        "1769101": {
+            "manifests": {
+                "public": {
+                    "gid": "2437245566512331886",
+                    "size": "4939411780",
+                    "download": "1053124128"
+                }
+            },
+            "decryptionkey": "07c3c074f024e19355be017b09180963c177be1c7c94dfef286776386e44dae9"
+        },
+        "baselanguages": "english,spanish,schinese,russian,polish,turkish",
+        "branches": {
+            "public": {
+                "buildid": "19290536",
+                "timeupdated": "1753036209"
+            }
+        }
+    }
+}
