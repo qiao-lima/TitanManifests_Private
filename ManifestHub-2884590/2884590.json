@@ -1,0 +1,27 @@
+{
+    "appid": 2884590,
+    "name": "狩魔战潮",
+    "type": "Game",
+    "schinese_name": "狩魔战潮",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 01:11:46",
+    "change_number": 29999541,
+    "depot": {
+        "2884591": {
+            "manifests": {
+                "public": {
+                    "gid": "6494872347991149325",
+                    "size": "649234054",
+                    "download": "498744608"
+                }
+            },
+            "decryptionkey": "351dc77fd4cd53731fce8ac2986da24911ec9e3b945e63c2ee9f53437e0d3ea7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19169133",
+                "timeupdated": "1752115287"
+            }
+        }
+    }
+}
