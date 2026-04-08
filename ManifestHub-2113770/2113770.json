@@ -1,0 +1,31 @@
+{
+    "appid": 2113770,
+    "name": "In Woods",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 18:01:40",
+    "change_number": 30094083,
+    "depot": {
+        "2113771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6094552055447231852",
+                    "size": "1555420168",
+                    "download": "353012032"
+                }
+            },
+            "decryptionkey": "c721c72df588535be17618b5a496e1d8609d7399affc72736fc96f74c79372c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19248118",
+                "timeupdated": "1752685294"
+            }
+        }
+    }
+}
