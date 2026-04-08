@@ -1,0 +1,32 @@
+{
+    "appid": "537860",
+    "type": "Game",
+    "name": "Ballistic Protection",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23392662",
+    "update_time": "2024-08-14 19:15:54",
+    "depot": {
+        "baselanguages": "english,russian",
+        "537861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6180826142796398319",
+                    "size": "279192926",
+                    "download": "86635312"
+                }
+            },
+            "decryptionkey": "fa00261b0c1e82c84a93dac9715b9f0a791ea76b1c6e8a2981fef53dc6f26abe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1394796",
+                "timeupdated": "1476619853"
+            }
+        }
+    },
+    "access_token": 270499999944796100
+}
