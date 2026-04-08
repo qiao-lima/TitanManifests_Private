@@ -1,0 +1,27 @@
+{
+    "appid": 1506430,
+    "name": "Asteroids Belt: Try to Survive!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 01:10:37",
+    "change_number": 29914651,
+    "depot": {
+        "1506431": {
+            "manifests": {
+                "public": {
+                    "gid": "7687685049931874528",
+                    "size": "58045856",
+                    "download": "18030976"
+                }
+            },
+            "decryptionkey": "1b4ad49c0b4076fb3050b9c6c0e77b5c9955b9ff3573757012d1f5b91cb20f7c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6028602",
+                "timeupdated": "1609435837"
+            }
+        }
+    }
+}
