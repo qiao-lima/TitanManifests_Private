@@ -1,0 +1,29 @@
+{
+    "appid": 2770160,
+    "name": "Maxwell's puzzling demon",
+    "type": "Game",
+    "schinese_name": "麦克斯韦解谜妖",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 17:35:56",
+    "change_number": 30135593,
+    "depot": {
+        "2770161": {
+            "manifests": {
+                "public": {
+                    "gid": "8070590525010218468",
+                    "size": "68202038",
+                    "download": "53607552"
+                }
+            },
+            "decryptionkey": "a74f06ad8d58c1135b0444e51098bfebcaa6bccd1366ba37a43704505b169138"
+        },
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19191801",
+                "timeupdated": "1752242646"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
