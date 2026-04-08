@@ -1,0 +1,42 @@
+{
+    "appid": 3332940,
+    "name": "Small Spaces Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 04:14:14",
+    "change_number": 29304911,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3332941": {
+            "manifests": {
+                "public": {
+                    "gid": "3707751262402721525",
+                    "size": "4594203914",
+                    "download": "4391245952"
+                }
+            },
+            "decryptionkey": "9cec85afbdaa38ee37ba753d9bf88aea37349e551f7982f30c85bea40ffc6fb0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18686145",
+                "timeupdated": "1748700117"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
