@@ -1,0 +1,28 @@
+{
+    "appid": 1912101,
+    "name": "Touken Ranbu Warriors - Uchiban Outfit \"Shokudaikiri Mitsutada\"",
+    "type": "DLC",
+    "schinese_name": "刀剑乱舞无双 - 内勤风服装“烛台切光忠”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:15:52",
+    "change_number": 26201212,
+    "depot": {
+        "1912101": {
+            "dlcappid": "1912101",
+            "manifests": {
+                "public": {
+                    "gid": "2043142981692136797",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "79c779ff3d674eed9bffcebd09dcc9aad8f8a21111e58d14886c7ff31db21def"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8421393",
+                "timeupdated": "1648022944"
+            }
+        }
+    }
+}
