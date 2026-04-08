@@ -1,0 +1,57 @@
+{
+    "appid": 2781750,
+    "name": "Sisters",
+    "type": "Game",
+    "schinese_name": "Sisters~夏日的最后一天~",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 00:18:33",
+    "change_number": 30099475,
+    "depot": {
+        "2781751": {
+            "manifests": {
+                "public": {
+                    "gid": "8653894523569917650",
+                    "size": "9957605972",
+                    "download": "9263519056"
+                }
+            },
+            "decryptionkey": "5c3d679819846ede99cfe58b13c73d35ddee27bded8f5203b49fa3688b0f95f3"
+        },
+        "2781752": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4261110671329192701",
+                    "size": "9945947478",
+                    "download": "9247193360"
+                }
+            },
+            "decryptionkey": "696eef6dd11faa85a97fc12a44f3c36a6f8563d86371b34caa4dc59c7bdc9ccc"
+        },
+        "2781753": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2810111333247171266",
+                    "size": "9947349200",
+                    "download": "9248793856"
+                }
+            },
+            "decryptionkey": "47e21e2adea99605b73608cae350be7f3d47a85b618ba00f4df9fc2138ce3745"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "16898375",
+                "timeupdated": "1749203791"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
