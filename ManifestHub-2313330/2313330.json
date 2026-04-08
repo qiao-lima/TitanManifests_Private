@@ -1,0 +1,67 @@
+{
+    "appid": 2313330,
+    "name": "TerraTech Worlds",
+    "type": "Game",
+    "schinese_name": "泰拉科技世界",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 18:16:58",
+    "change_number": 30136302,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2313331": {
+            "manifests": {
+                "public": {
+                    "gid": "630973501302453562",
+                    "size": "9010939112",
+                    "download": "2814529632"
+                },
+                "ttw_unstable": {
+                    "gid": "630973501302453562",
+                    "size": "9010939112",
+                    "download": "2814529632"
+                },
+                "legacy_0.5_build": {
+                    "gid": "29336971284646861",
+                    "size": "10134019365",
+                    "download": "2864736384"
+                }
+            },
+            "decryptionkey": "8ee1a4fafbd70d88f090b0ea5334848b76fc0833f64012b442b92183465bddc1"
+        },
+        "2851250": {
+            "dlcappid": "2851250"
+        },
+        "workshopdepot": "2313330",
+        "branches": {
+            "public": {
+                "buildid": "19107353",
+                "timeupdated": "1751630274"
+            },
+            "ttw_unstable": {
+                "buildid": "19107353",
+                "description": "Work-in-progress version",
+                "timeupdated": "1751630219"
+            },
+            "legacy_0.5_build": {
+                "buildid": "15162671",
+                "description": "Legacy 0.5 build",
+                "timeupdated": "1734534477"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d8d02fdbe062671b0aa65e24831b89d2baae8f3adf7d8a18742c55543bf009ce"
+    }
+}
