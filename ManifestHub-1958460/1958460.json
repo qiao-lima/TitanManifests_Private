@@ -1,0 +1,59 @@
+{
+    "appid": 1958460,
+    "name": "New Yankee: Battle for the Bride",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 20:40:34",
+    "change_number": 29955946,
+    "depot": {
+        "baselanguages": "english,german,russian",
+        "1958461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5851145081217078522",
+                    "size": "427905600",
+                    "download": "347418656"
+                }
+            },
+            "decryptionkey": "35eea8114dfbc39feafcedd6db9207eb332aaaaca15fe946e11ba10b3db2c084"
+        },
+        "1958462": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "735067747769748818",
+                    "size": "427843668",
+                    "download": "347354688"
+                }
+            },
+            "decryptionkey": "79a1c0ec5a56341f91f29b7ec866640921e5e5698798a912e65a82d7c93466a2"
+        },
+        "1958463": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5095439465142214678",
+                    "size": "444319778",
+                    "download": "360938480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8705704",
+                "timeupdated": "1652116475"
+            }
+        }
+    }
+}
