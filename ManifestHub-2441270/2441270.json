@@ -1,0 +1,58 @@
+{
+    "appid": 2441270,
+    "name": "Kill The Crows",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 17:15:27",
+    "change_number": 29790860,
+    "depot": {
+        "2441271": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "452873441451268004",
+                    "size": "461493535",
+                    "download": "121428528"
+                }
+            },
+            "decryptionkey": "30030b0018f2e8952c734aed1819cd43acffb26c0b4eb27c344d6fdfa16686ae"
+        },
+        "2441272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1054077302762685269",
+                    "size": "482794583",
+                    "download": "127287872"
+                }
+            },
+            "decryptionkey": "69027dcd90b2c714656caaf1d7949843699bcc2f714b2c337eb22ab38c8955c8"
+        },
+        "2441273": {
+            "config": {
+                "oslist": "windows,linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5308404821451649803",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ccbc0241ee281920c731c2a0d92adedd34ec6ff7ce0cbaaf9688de9e1135061f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16441009",
+                "timeupdated": "1731914845"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
