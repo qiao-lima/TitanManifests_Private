@@ -1,0 +1,28 @@
+{
+    "appid": "449280",
+    "type": "Game",
+    "name": "DinoOps",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25413292",
+    "update_time": "2024-09-27 05:02:36",
+    "depot": {
+        "449281": {
+            "manifests": {
+                "public": {
+                    "gid": "8844048783637387918",
+                    "size": "111113237",
+                    "download": "40602336"
+                }
+            },
+            "decryptionkey": "aecd6e768a9db6753f3bf6bce19055931e2cd7306c6014bb2e4f7d035272438d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1375392",
+                "timeupdated": "1475677258"
+            }
+        }
+    },
+    "access_token": 9585940463975311276
+}
