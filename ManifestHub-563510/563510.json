@@ -1,0 +1,44 @@
+{
+    "appid": "563510",
+    "type": "Game",
+    "name": "Russian Underground: VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-28 11:58:48",
+    "depot": {
+        "563511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8750691454216841377",
+                    "size": "347141751",
+                    "download": "112894448"
+                }
+            },
+            "decryptionkey": "b4cf3e21c70ce01e6c69decf20fdf1c1f44025ebcf9703125e07084385952c2f"
+        },
+        "563512": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5359342952532623150",
+                    "size": "347128084",
+                    "download": "112890336"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1498330",
+                "timeupdated": "1480925621"
+            }
+        }
+    },
+    "access_token": 16762598132352281327
+}
