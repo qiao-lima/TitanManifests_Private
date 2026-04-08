@@ -1,0 +1,28 @@
+{
+    "appid": 978070,
+    "name": "爱上火车-Pure Station- 原声音乐集",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 15:55:29",
+    "change_number": 29824800,
+    "depot": {
+        "978070": {
+            "manifests": {
+                "public": {
+                    "gid": "1266408572409228484",
+                    "size": "1307636894",
+                    "download": "1317721680"
+                }
+            },
+            "dlcappid": "978070",
+            "decryptionkey": "eeaf229a30f3683fdbae2d3fc5489cdea41d3a2e875d8367a4184c2692a78d89"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3434222",
+                "timeupdated": "1546149601"
+            }
+        }
+    }
+}
