@@ -1,0 +1,45 @@
+{
+    "appid": 2249160,
+    "name": "September 7th",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 18:12:23",
+    "change_number": 30029296,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2249161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1410512040974209805",
+                    "size": "9720936145",
+                    "download": "9444744176"
+                }
+            },
+            "decryptionkey": "754f9d1a682aa3fc3eda41dbd0c33a1bb60238755ffec33260ef8970e690e42e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19035876",
+                "timeupdated": "1751100583"
+            }
+        }
+    }
+}
