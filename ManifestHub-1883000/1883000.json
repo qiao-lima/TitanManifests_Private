@@ -1,0 +1,28 @@
+{
+    "appid": 1883000,
+    "name": "HEART of CROWN Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 09:34:12",
+    "change_number": 29659546,
+    "depot": {
+        "1883001": {
+            "manifests": {
+                "public": {
+                    "gid": "146907936919486802",
+                    "size": "1427733078",
+                    "download": "390260896"
+                }
+            },
+            "decryptionkey": "1c3d505d969c8e4cf548c03125a41f1b86027ebd612ef1314d6661084eb37e65"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18932559",
+                "timeupdated": "1750383247"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
