@@ -1,0 +1,62 @@
+{
+    "appid": 711980,
+    "name": "Starship EVO",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 08:37:31",
+    "change_number": 30084209,
+    "depot": {
+        "711981": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3230044301619444793",
+                    "size": "1411148303",
+                    "download": "422910032"
+                },
+                "legacy_neovox": {
+                    "gid": "1886383844593258079",
+                    "size": "863166339",
+                    "download": "294104032"
+                },
+                "experimental": {
+                    "gid": "3230044301619444793",
+                    "size": "1411148303",
+                    "download": "422910032"
+                },
+                "factions": {
+                    "gid": "245218177408054689",
+                    "size": "1438007778",
+                    "download": "421398880"
+                }
+            },
+            "decryptionkey": "7ec0a6f521b3284e171f338e02dee5ce3da8d1c4db13fe4b00e381ff90deb9ba"
+        },
+        "workshopdepot": "711980",
+        "branches": {
+            "public": {
+                "buildid": "19241180",
+                "timeupdated": "1752651413"
+            },
+            "legacy_neovox": {
+                "buildid": "6479509",
+                "description": "Before Neovox update",
+                "timeupdated": "1622443515"
+            },
+            "experimental": {
+                "buildid": "19241180",
+                "timeupdated": "1752651447"
+            },
+            "factions": {
+                "buildid": "18804881",
+                "description": "faction preview",
+                "timeupdated": "1749538726"
+            }
+        },
+        "workshopdepotdecryptionkey": "335a0fbe24f40d085b0804b7f411bce55b350e8b1b328c5a2300f9b13ff07868"
+    }
+}
