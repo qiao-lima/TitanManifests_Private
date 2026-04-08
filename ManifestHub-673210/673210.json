@@ -1,0 +1,46 @@
+{
+    "appid": 673210,
+    "name": "Frontier Pilot Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:54:08",
+    "change_number": 29769476,
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "673210",
+        "673211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2965833036196285297",
+                    "size": "3652853230",
+                    "download": "2382019408"
+                }
+            },
+            "decryptionkey": "4209b5a22dd5f343b779a00aa63a2ccb94cff1e264a2152a1679448fe211d06c"
+        },
+        "673212": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3954584844348464525",
+                    "size": "4461471803",
+                    "download": "2914030608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17880939",
+                "timeupdated": "1743517383"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
