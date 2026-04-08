@@ -1,0 +1,41 @@
+{
+    "appid": 2378840,
+    "name": "HAELE 3D - Feet Poses Lite - Drawing References",
+    "type": "Application",
+    "schinese_name": "HAELE 3D - 足部姿势 Lite - 绘画参考",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 14:27:26",
+    "change_number": 29918664,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2378841": {
+            "manifests": {
+                "public": {
+                    "gid": "6439400340864673207",
+                    "size": "1915672211",
+                    "download": "1693741712"
+                }
+            },
+            "decryptionkey": "f676d6b54134f89ea06a7e18010faec74aed9e17236ae3b645993680be48ddfd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18570720",
+                "timeupdated": "1747939632"
+            }
+        }
+    }
+}
