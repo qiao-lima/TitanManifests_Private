@@ -1,0 +1,27 @@
+{
+    "appid": 1796270,
+    "name": "Circus Pocus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 15:01:18",
+    "change_number": 29969625,
+    "depot": {
+        "1796271": {
+            "manifests": {
+                "public": {
+                    "gid": "860227474149761741",
+                    "size": "82325481",
+                    "download": "59280192"
+                }
+            },
+            "decryptionkey": "1615266377d557349dba127c4d79c81728860f4b1ae738155f22937d0c572d2c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9688778",
+                "timeupdated": "1665394067"
+            }
+        }
+    }
+}
