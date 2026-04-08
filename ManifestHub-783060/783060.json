@@ -1,0 +1,42 @@
+{
+    "appid": 783060,
+    "name": "AIDEN",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 11:14:49",
+    "change_number": 29800936,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "783061": {
+            "manifests": {
+                "public": {
+                    "gid": "5644756792204866190",
+                    "size": "625386089",
+                    "download": "471994416"
+                }
+            },
+            "decryptionkey": "4fcf920ebb4f336c10d93d06e84d6ba309ba9f7afe055edd5e16153070791d19"
+        },
+        "baselanguages": "english,turkish",
+        "branches": {
+            "public": {
+                "buildid": "2516174",
+                "timeupdated": "1518347649"
+            }
+        }
+    }
+}
