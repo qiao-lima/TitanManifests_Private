@@ -1,0 +1,30 @@
+{
+    "appid": 1732840,
+    "name": "Destruction Dummies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 00:12:12",
+    "change_number": 29905543,
+    "depot": {
+        "1732841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7205658031015829070",
+                    "size": "1458568847",
+                    "download": "463107328"
+                }
+            },
+            "decryptionkey": "cde4cefa4cd65f30bda72a4bf2e450e12de3c3a879f0bcf95d145d39fc320108"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13029288",
+                "timeupdated": "1703246094"
+            }
+        }
+    }
+}
