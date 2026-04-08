@@ -1,0 +1,78 @@
+{
+    "appid": 1407180,
+    "name": "Lawgivers II",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:16:22",
+    "change_number": 30210310,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1407182": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2664167365003895964",
+                    "size": "468163795",
+                    "download": "124251056"
+                },
+                "0.13": {
+                    "gid": "3779622657214540496",
+                    "size": "486960122",
+                    "download": "126618512"
+                }
+            },
+            "decryptionkey": "37d832db8bea2b43cfaea7753226ee774e87420661eec39535b2c19b125b0db6"
+        },
+        "1407183": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8633272027055972189",
+                    "size": "435977153",
+                    "download": "123410304"
+                },
+                "0.13": {
+                    "gid": "1189205953731589918",
+                    "size": "456002956",
+                    "download": "131565280"
+                }
+            }
+        },
+        "1407184": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1069425620851713562",
+                    "size": "463177886",
+                    "download": "117092560"
+                },
+                "0.13": {
+                    "gid": "4258194779513613272",
+                    "size": "483065203",
+                    "download": "125128688"
+                }
+            }
+        },
+        "workshopdepot": "1407180",
+        "branches": {
+            "public": {
+                "buildid": "19327405",
+                "timeupdated": "1753265987"
+            },
+            "0.13": {
+                "buildid": "18909645",
+                "description": "0.13",
+                "timeupdated": "1750237834"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "613bbd9a3c8d8f17987c100fe43f4f40b82b181cdb21f6f0adc5dcfd32ca7630"
+    }
+}
