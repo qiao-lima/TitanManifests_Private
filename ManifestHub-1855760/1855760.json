@@ -1,0 +1,32 @@
+{
+    "appid": 1855760,
+    "name": "Mon-Musu Quest",
+    "type": "Game",
+    "schinese_name": "勇者大战魔物娘",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 19:01:17",
+    "change_number": 29539135,
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "1",
+        "1855761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3108814026188151228",
+                    "size": "355515894",
+                    "download": "280068416"
+                }
+            },
+            "decryptionkey": "2a86c62fdc1c6d33b424437b3c083f101c4503b37f7b7cd6bd7bb381826153ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7913960",
+                "timeupdated": "1673386007"
+            }
+        }
+    }
+}
