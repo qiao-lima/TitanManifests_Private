@@ -1,0 +1,62 @@
+{
+    "appid": 844870,
+    "name": "KurtzPel",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 23:26:40",
+    "change_number": 30215759,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "",
+        "844871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5572944959749611369",
+                    "size": "28828538662",
+                    "download": "11726459408"
+                }
+            },
+            "decryptionkey": "eb8ad17673a927da57a2982ebc8737cad0569a22446c56ba81365000da68ff9e"
+        },
+        "1004220": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "1004220"
+        },
+        "1061700": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "1061700"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19322625",
+                "timeupdated": "1753247166"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
