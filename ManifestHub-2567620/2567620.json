@@ -1,0 +1,31 @@
+{
+    "appid": 2567620,
+    "name": "Electronics Puzzle Lab",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 23:23:17",
+    "change_number": 29302474,
+    "depot": {
+        "2567621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5572670563254321052",
+                    "size": "1508004724",
+                    "download": "281622752"
+                }
+            },
+            "decryptionkey": "df4dc8818b06f7b3802020a9c845234d97391ccdf389f2598b3d76668d5d267b"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "15267633",
+                "timeupdated": "1722885743"
+            }
+        }
+    }
+}
