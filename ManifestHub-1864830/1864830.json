@@ -1,0 +1,40 @@
+{
+    "appid": 1864830,
+    "name": "Emblem of Valor",
+    "type": "Game",
+    "schinese_name": "英勇纹章",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:07:55",
+    "change_number": 29611402,
+    "depot": {
+        "1864831": {
+            "manifests": {
+                "public": {
+                    "gid": "7305740037049471335",
+                    "size": "2305704547",
+                    "download": "1416232032"
+                },
+                "test": {
+                    "gid": "814338726694710930",
+                    "size": "2305301565",
+                    "download": "1415844208"
+                }
+            },
+            "decryptionkey": "8dc4b5a4232bb39b83db77957a0bcb35d759fdb99329dd32ca65848864cf6c5f"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "workshopdepot": "1864830",
+        "branches": {
+            "public": {
+                "buildid": "18892812",
+                "timeupdated": "1750140283"
+            },
+            "test": {
+                "buildid": "18714046",
+                "description": "test",
+                "timeupdated": "1748936453"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
