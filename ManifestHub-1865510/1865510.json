@@ -1,0 +1,46 @@
+{
+    "appid": 1865510,
+    "name": "Notebook Entries Vol. 1",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 19:26:31",
+    "change_number": 29339650,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1865511": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8873573724417218006",
+                    "size": "5332622522",
+                    "download": "5166543296"
+                }
+            },
+            "decryptionkey": "b7dda4c7a89dddd38ae517087cea860c5dd91fb81c1c3e4475aa194dc8a85063"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11318720",
+                "timeupdated": "1685038586"
+            }
+        }
+    }
+}
