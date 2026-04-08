@@ -1,0 +1,44 @@
+{
+    "appid": 2068550,
+    "name": "Modern Air Combat: Beyond Visual Range",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-21 19:23:14",
+    "change_number": 29095523,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2068551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1272908731735025759",
+                    "size": "1850675395",
+                    "download": "1748760816"
+                }
+            },
+            "decryptionkey": "e57f325bc5eaf619d290d250cfa6003e67bb8a2a1d387f91461b5a948f135fa3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12475343",
+                "timeupdated": "1697657102"
+            }
+        }
+    }
+}
