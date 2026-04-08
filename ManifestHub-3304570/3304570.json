@@ -1,0 +1,27 @@
+{
+    "appid": 3304570,
+    "name": "Schoolteacher Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 21:38:13",
+    "change_number": 30138963,
+    "depot": {
+        "3304571": {
+            "manifests": {
+                "public": {
+                    "gid": "1195151405803992390",
+                    "size": "3864653149",
+                    "download": "1586881904"
+                }
+            },
+            "decryptionkey": "4ae2daa176ea5c6c43156e46791044a9a9f92771bf07ed1590d37360becb8257"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18597108",
+                "timeupdated": "1748121419"
+            }
+        }
+    }
+}
