@@ -1,0 +1,145 @@
+{
+    "appid": 338300,
+    "name": "Chicken Little Ace in Action",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 07:14:28",
+    "change_number": 29799376,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,czech",
+        "338301": {
+            "manifests": {
+                "public": {
+                    "gid": "4337420604517795941",
+                    "size": "1431270624",
+                    "download": "618945632"
+                }
+            },
+            "decryptionkey": "08a5f175fa666a601fc5f9aa518c0937cfc52a88a65700db41ad4e3dffb94bbf"
+        },
+        "338302": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3435898546577250039",
+                    "size": "1110306887",
+                    "download": "1080229920"
+                }
+            },
+            "decryptionkey": "8aa73c621727618eb2176065315c9f76a1a0ded0e378bee28aeec16731a63614"
+        },
+        "338303": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1053597697340851854",
+                    "size": "1085861779",
+                    "download": "1055459664"
+                }
+            },
+            "decryptionkey": "a8f9b45269c63cfac5619d0282cd4710369efc61ecf4d22dc7a1f1fa59ba8baa"
+        },
+        "338304": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "653823273429785511",
+                    "size": "1089044406",
+                    "download": "1058784224"
+                }
+            },
+            "decryptionkey": "054a343fad1cf65784db37ca4e057e2633a0fb8bef8f59fd0b4d9947b851a67c"
+        },
+        "338305": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3088615477717430722",
+                    "size": "1090387506",
+                    "download": "1060168224"
+                }
+            },
+            "decryptionkey": "bb8e6d38176967ea75dfb19fa4db5dea442002616f578e6f96f32dae5419deaa"
+        },
+        "338306": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1006742212373689788",
+                    "size": "1092876272",
+                    "download": "1062684848"
+                }
+            },
+            "decryptionkey": "ab1b09646bf72293971ff624a699ae37bc7f0f9a114baba31913a0ef4b5bae1b"
+        },
+        "338307": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3534658409926301353",
+                    "size": "1128126311",
+                    "download": "1095923744"
+                }
+            },
+            "decryptionkey": "afb408a17fab2eedc89720b641decfbd738030e79645d74326716119fb08e942"
+        },
+        "338308": {
+            "config": {
+                "language": "czech",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "334140149286247724",
+                    "size": "1123849983",
+                    "download": "1091546736"
+                }
+            },
+            "decryptionkey": "046ddcc2ccfba53e85ed0b916a05c439afc69512c5e9de09f2d0b54c3c8ae966"
+        },
+        "338309": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3150757362526129883",
+                    "size": "1091256072",
+                    "download": "1058245904"
+                }
+            },
+            "decryptionkey": "fc4d48733bc6cdd7b84ff3f4240f06a533cf2fb4fc653c58e56735773e1ca5e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "524020"
+            }
+        }
+    }
+}
