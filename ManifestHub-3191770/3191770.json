@@ -1,0 +1,28 @@
+{
+    "appid": 3191770,
+    "name": "Slitherise",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 04:54:44",
+    "change_number": 29779193,
+    "depot": {
+        "3191771": {
+            "manifests": {
+                "public": {
+                    "gid": "8389027795647508280",
+                    "size": "929488231",
+                    "download": "313947568"
+                }
+            },
+            "decryptionkey": "23877733f7f89a99364f204898303f23e822bd3ef9131ca217c1c4ea07de00ad"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18283292",
+                "timeupdated": "1745946317"
+            }
+        }
+    }
+}
