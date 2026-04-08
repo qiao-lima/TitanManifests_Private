@@ -1,0 +1,32 @@
+{
+    "appid": 467010,
+    "name": "Fall of Civilization",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:11:56",
+    "change_number": 30056460,
+    "depot": {
+        "467011": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4494274046287295781",
+                    "size": "4056820970",
+                    "download": "1768321072"
+                }
+            },
+            "decryptionkey": "fe15018e7c64bed3282fb4254ae65a58b12716cea264b14c64924e541a600971"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6818737",
+                "timeupdated": "1622912159"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
