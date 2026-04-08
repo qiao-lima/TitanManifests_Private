@@ -1,0 +1,60 @@
+{
+    "appid": 2489560,
+    "name": "Elewar: Fused Survivors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 17:52:12",
+    "change_number": 30170798,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,russian",
+        "3202600": {
+            "dlcappid": "3202600",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7089368405089493095",
+                    "size": "63891648",
+                    "download": "57408480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2489561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "546602503835456100",
+                    "size": "250569368",
+                    "download": "181482512"
+                }
+            },
+            "decryptionkey": "de0a9e6486622e8f0684e6edf7d721206e9f13e0279341ebbdfc5a421077213f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18720566",
+                "timeupdated": "1748969770"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
