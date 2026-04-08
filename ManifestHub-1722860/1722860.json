@@ -1,0 +1,46 @@
+{
+    "appid": 1722860,
+    "name": "Munchkin Digital",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:57:23",
+    "change_number": 30216729,
+    "depot": {
+        "1722861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7248324218512127507",
+                    "size": "461744711",
+                    "download": "121443600"
+                }
+            },
+            "decryptionkey": "764f0b59ddcdcc6aced2c289b2c6e09ac70ed43d573e3a98dd1e25358f50f0e2"
+        },
+        "1722862": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2833298801842581366",
+                    "size": "630288044",
+                    "download": "134692192"
+                }
+            },
+            "decryptionkey": "1a50ca6b3c123b3ae762ae5aa596a230b6e9642b78aba258b479123b7ca58c5c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18755641",
+                "timeupdated": "1749488706"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
