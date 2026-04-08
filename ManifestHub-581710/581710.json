@@ -1,0 +1,68 @@
+{
+    "appid": "581710",
+    "type": "Game",
+    "name": "Stickmageddon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:20:39",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "581711": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4593046181653138302",
+                    "size": "169192730",
+                    "download": "122294640"
+                }
+            },
+            "decryptionkey": "f8e4453470302cb20603befa0ae3297c6827063d26290cdd5be3b2b16af38169"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1831735",
+                "timeupdated": "1495142877"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 3472258976020260666
+}
