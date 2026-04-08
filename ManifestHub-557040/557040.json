@@ -1,0 +1,120 @@
+{
+    "appid": 557040,
+    "name": "99Vidas",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 13:22:19",
+    "change_number": 29442697,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "557041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1343164847443344923",
+                    "size": "416259092",
+                    "download": "304310080"
+                }
+            },
+            "decryptionkey": "f49e43f94812e1cdf9d107a60e620d7a4c47302bf66683e7fd67cf27ff572525"
+        },
+        "557042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8999706376795825434",
+                    "size": "433135616",
+                    "download": "310703680"
+                }
+            },
+            "decryptionkey": "46c88e773bc54ddeaf269e6c1dcef6f9f1cc5680c3923242eb7e11d9182df151"
+        },
+        "557043": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2862379401990922775",
+                    "size": "470578051",
+                    "download": "325405200"
+                }
+            },
+            "decryptionkey": "b51a8554d8a4ed4b221715ec969692d801c767e77e273f120f3fed831b37b79b"
+        },
+        "557044": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8857915520606887940",
+                    "size": "422108731",
+                    "download": "306211792"
+                }
+            },
+            "decryptionkey": "ec9f08b1282ede1c90f33c76cc6d4f963044eab155246000d562be39674e57d6"
+        },
+        "574020": {
+            "manifests": {
+                "public": {
+                    "gid": "6391825468683218579",
+                    "size": "135984713",
+                    "download": "135993728"
+                }
+            },
+            "dlcappid": "574020",
+            "decryptionkey": "e2767c1e2d47970910bfac4793d214a61c1a1efdd0dca6d36623c3e5bf5b0930"
+        },
+        "557045": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            }
+        },
+        "557046": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "557047": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "557048": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "7102140",
+                "timeupdated": "1627495311"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
