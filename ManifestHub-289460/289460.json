@@ -1,0 +1,68 @@
+{
+    "appid": 289460,
+    "name": "RC Cars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 11:15:39",
+    "change_number": 30086757,
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "289461": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8772159777755795468",
+                    "size": "850378200",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1cc4bae0900669645310c2d1f1b9dc609b9571bfe22ab58ccf843b95dbc03565"
+        },
+        "289462": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "788894589156620671",
+                    "size": "157255481",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1532bd904fe2664383876a482fe5e9c4f5ce3b409ec18b2b83679d048456e815"
+        },
+        "289463": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8747451636597400951",
+                    "size": "7369974",
+                    "download": "2096304"
+                }
+            },
+            "decryptionkey": "768da481f8efe5019e728746c2dd06c16b2d807be7f8b20cc5321005029aaf71"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7755351",
+                "timeupdated": "1637845136"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
