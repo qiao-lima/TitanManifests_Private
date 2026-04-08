@@ -1,0 +1,45 @@
+{
+    "appid": 2469200,
+    "name": "Fera: The Sundered Tribes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 01:17:49",
+    "change_number": 30100301,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2469201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2292597808744021009",
+                    "size": "6758185961",
+                    "download": "6014450752"
+                }
+            },
+            "decryptionkey": "0ada1a9770079555c3f9ad8a2cd2508dac8502289b51f41d4ce4a3b05ff05c93"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18446971",
+                "timeupdated": "1747150380"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
