@@ -1,0 +1,30 @@
+{
+    "appid": "354850",
+    "type": "Game",
+    "name": "Why So Evil 2: Dystopia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 18:53:37",
+    "depot": {
+        "354851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "663671803402108529",
+                    "size": "253796939",
+                    "download": "102872560"
+                }
+            },
+            "decryptionkey": "7be8ad76c44ee57987e69d1eba5b4b1271c20e6d233f3dab3aede20a053fc99d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "675624"
+            }
+        }
+    },
+    "access_token": 16706514128591865773
+}
