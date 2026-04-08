@@ -1,0 +1,47 @@
+{
+    "appid": 3061900,
+    "name": "Revenge of the Boxer: Moscow Criminality",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 21:11:58",
+    "change_number": 29921313,
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "3061901": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5007666137458153145",
+                    "size": "241591049",
+                    "download": "90478272"
+                }
+            },
+            "decryptionkey": "2338de4ed6027980e862a4e69012a7ef24ac85d13b3bd6aa3c527079a85f3de3"
+        },
+        "3061902": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6096985914328261966",
+                    "size": "241577714",
+                    "download": "90375120"
+                }
+            },
+            "decryptionkey": "e67dbc1e30a4a3da23a02564946b11f728525643cec385e04e6eb09d6f41eeb1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15883226",
+                "timeupdated": "1727749153"
+            }
+        }
+    }
+}
