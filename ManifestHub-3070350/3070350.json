@@ -1,0 +1,27 @@
+{
+    "appid": 3070350,
+    "name": "Danger and Deadlier",
+    "type": "Game",
+    "schinese_name": "越来越危险：逃离暗影",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 15:11:38",
+    "change_number": 29480582,
+    "depot": {
+        "3070351": {
+            "manifests": {
+                "public": {
+                    "gid": "2411372262465945159",
+                    "size": "4464431678",
+                    "download": "1875777200"
+                }
+            },
+            "decryptionkey": "703fbe0f862a646e80759b7e12fe5133eb097b69dc0cb703a1ef7d4a30d9cd51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18806190",
+                "timeupdated": "1749539493"
+            }
+        }
+    }
+}
