@@ -1,0 +1,27 @@
+{
+    "appid": 2772420,
+    "name": "A Futanari SPAT in my MOUTH!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 03:31:18",
+    "change_number": 30022726,
+    "depot": {
+        "2772421": {
+            "manifests": {
+                "public": {
+                    "gid": "7369610420356999372",
+                    "size": "162944159",
+                    "download": "65866768"
+                }
+            },
+            "decryptionkey": "feeee3f4d4e7383b7b3e73cae3d64cf5199942e995152fc270d457e86d436aa3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13796220",
+                "timeupdated": "1710929174"
+            }
+        }
+    }
+}
