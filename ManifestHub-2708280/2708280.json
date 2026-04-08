@@ -1,0 +1,41 @@
+{
+    "appid": 2708280,
+    "name": "ESCAPE FROM BOYKISSER",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 17:46:38",
+    "change_number": 30156020,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2708281": {
+            "manifests": {
+                "public": {
+                    "gid": "8413934279213936165",
+                    "size": "1660356510",
+                    "download": "1497718256"
+                }
+            },
+            "decryptionkey": "a9d2ff9cb02a90e64fda772adb7810588d98c52ed0f5d473495b4c97d13be57a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19292127",
+                "timeupdated": "1753029994"
+            }
+        }
+    }
+}
