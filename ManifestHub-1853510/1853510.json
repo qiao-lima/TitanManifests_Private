@@ -1,0 +1,46 @@
+{
+    "appid": 1853510,
+    "name": "ROBOCRACY",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 00:01:30",
+    "change_number": 29977340,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1853511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4667991016978733857",
+                    "size": "1534547542",
+                    "download": "1310607344"
+                }
+            },
+            "decryptionkey": "3a42265381c7d8e9bb83a7e5ab49835a43ccc727910faa31a6cb1b9e8fc77421"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16680093",
+                "timeupdated": "1733755049"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
