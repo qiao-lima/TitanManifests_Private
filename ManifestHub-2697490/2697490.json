@@ -1,0 +1,54 @@
+{
+    "appid": 2697490,
+    "name": "欺神弄鬼",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:41:12",
+    "change_number": 30217263,
+    "depot": {
+        "baselanguages": "schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2697491": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4497868843383295706",
+                    "size": "3082181420",
+                    "download": "2575030080"
+                }
+            },
+            "decryptionkey": "4597f45d9ef1e69cfed27b87576d5f3b2b962dfeb9ee469aa7a28738d7069cfb"
+        },
+        "2697492": {
+            "config": {
+                "language": "schinese",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5516583016949436470",
+                    "size": "3054372640",
+                    "download": "2573503312"
+                }
+            },
+            "decryptionkey": "d55b322d81492867c57230e2563f7f2289935625c339196559782a227da25962"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18807384",
+                "timeupdated": "1749546408"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
