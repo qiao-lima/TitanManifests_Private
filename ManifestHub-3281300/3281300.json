@@ -1,0 +1,31 @@
+{
+    "appid": 3281300,
+    "name": "DUNGEON RAZE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 09:32:53",
+    "change_number": 29296042,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "3281301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4330930591619813401",
+                    "size": "139106592",
+                    "download": "129721840"
+                }
+            },
+            "decryptionkey": "d547f63d43db6049c62db057e621be11aaf1a81b662aea9773f878ce278ea7d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18682160",
+                "timeupdated": "1748655169"
+            }
+        }
+    }
+}
