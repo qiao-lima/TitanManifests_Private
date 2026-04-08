@@ -1,0 +1,78 @@
+{
+    "appid": 774541,
+    "name": "Species: Artificial Life, Real Evolution",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 17:04:55",
+    "change_number": 29803303,
+    "depot": {
+        "774542": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6416131032672787409",
+                    "size": "1634110666",
+                    "download": "369615104"
+                },
+                "experimental": {
+                    "gid": "6416131032672787409",
+                    "size": "1634110666",
+                    "download": "369615104"
+                }
+            },
+            "decryptionkey": "503f8fea47bd724c7450f9b4afb8e52c060a7cbfcffc7c776887258f71502999"
+        },
+        "774543": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6196007513828421655",
+                    "size": "1655468244",
+                    "download": "370359120"
+                },
+                "experimental": {
+                    "gid": "6196007513828421655",
+                    "size": "1655468244",
+                    "download": "370359120"
+                }
+            },
+            "decryptionkey": "918169d8bd0e7f2317b573bfe3920d1ac379d111dc5778b891638604159c8e21"
+        },
+        "774544": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3155435534899050795",
+                    "size": "2169288366",
+                    "download": "370215728"
+                },
+                "experimental": {
+                    "gid": "3155435534899050795",
+                    "size": "2169288366",
+                    "download": "370215728"
+                }
+            },
+            "decryptionkey": "2c7379a1aebe781d7ef960a2a5f8574c8c383d63212e8f8087a29134a9c6014d"
+        },
+        "workshopdepot": "774541",
+        "branches": {
+            "public": {
+                "buildid": "11276207",
+                "timeupdated": "1684543761"
+            },
+            "experimental": {
+                "buildid": "11276207",
+                "description": "Unstable Experimental Builds",
+                "timeupdated": "1684543745"
+            }
+        },
+        "workshopdepotdecryptionkey": "68acd0afa90609113ab86b7fb646cb61ffbc1a36dec4e57a817370b858a49207"
+    }
+}
