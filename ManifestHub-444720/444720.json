@@ -1,0 +1,43 @@
+{
+    "appid": 444720,
+    "name": "Inexistence",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 18:14:07",
+    "change_number": 29811714,
+    "depot": {
+        "baselanguages": "english,french",
+        "444721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1320676684487954830",
+                    "size": "76426672",
+                    "download": "63381936"
+                }
+            },
+            "decryptionkey": "09d5e1e52aeaa7507efc071830c422b979fd7767f53589c2858a1623deacbf91"
+        },
+        "463600": {
+            "dlcappid": "463600",
+            "manifests": {
+                "public": {
+                    "gid": "80658560403829738",
+                    "size": "1240631",
+                    "download": "937328"
+                }
+            },
+            "decryptionkey": "be1af9cdd4bf87a648f713b4e54f22f7f43c5be088843d2df5cabe92fdf034ef"
+        },
+        "444722": {},
+        "branches": {
+            "public": {
+                "buildid": "1533428",
+                "timeupdated": "1482319743"
+            }
+        }
+    }
+}
