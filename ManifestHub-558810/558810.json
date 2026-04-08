@@ -1,0 +1,52 @@
+{
+    "appid": "558810",
+    "type": "Game",
+    "name": "Doomed Kingdoms",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27150769",
+    "update_time": "2025-01-24 22:27:36",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "558811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3085323168994784428",
+                    "size": "1766729983",
+                    "download": "618624336"
+                }
+            },
+            "decryptionkey": "cbdb06e296a6a366bcdf8187d458039015aeb2d5bea7c491c79dbb0d36ad8aa8"
+        },
+        "558812": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1513088",
+                "timeupdated": "1481541843"
+            }
+        }
+    },
+    "access_token": 4792156477039713697
+}
