@@ -1,0 +1,168 @@
+{
+    "appid": 301980,
+    "name": "Disney Pirates of the Caribbean: At Worlds End",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 22:10:54",
+    "change_number": 29913617,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,portuguese,polish,dutch,czech,brazilian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "301981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1034549264126461003",
+                    "size": "800953366",
+                    "download": "830323376333"
+                }
+            },
+            "decryptionkey": "863c4b65c338841c9c20fd38184ac3100e3459ecf8dbafe5eafc41dfbb9a42f0"
+        },
+        "301982": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6871056841478868683",
+                    "size": "245272283",
+                    "download": "387552872367"
+                }
+            },
+            "decryptionkey": "475f3647eb71fba3cc72efb5378e6dc1f03c106d1b248fbb1e9fe97dda3e4415"
+        },
+        "301983": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1264395064213180973",
+                    "size": "227954898",
+                    "download": "353545880434"
+                }
+            },
+            "decryptionkey": "166ddfdac974d6fdb961e47171bae2ec0c932bdfdd0c9c132a7986d3637c369d"
+        },
+        "301984": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1509591500937110360",
+                    "size": "230848597",
+                    "download": "67032283514"
+                }
+            },
+            "decryptionkey": "c65e9d10374bfd7132e1ec4a442b60ad3414857cad49b7adb40981768eba19dc"
+        },
+        "301985": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4004611587577952465",
+                    "size": "630973354",
+                    "download": "413366526255"
+                }
+            },
+            "decryptionkey": "eeefd85062904e928526dda6f6a26bae578317ec91785088900241b8b9a3413f"
+        },
+        "301986": {
+            "config": {
+                "language": "portuguese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5327778064804283157",
+                    "size": "630973354",
+                    "download": "1170539385769"
+                }
+            },
+            "decryptionkey": "f44b6766f0acb194255bb8af98ac444e5598125a2dabef69dbc71dc57eac3072"
+        },
+        "301987": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4763434333616185882",
+                    "size": "231181699",
+                    "download": "17264972105"
+                }
+            },
+            "decryptionkey": "e2fd7fba0e22c2cf6d23d10e46d48a3eb4d7741daddc62b99215d5ee2634b7fd"
+        },
+        "301988": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5098451328706339931",
+                    "size": "242695500",
+                    "download": "371996226114"
+                }
+            },
+            "decryptionkey": "e1635ba544a4730496df49a544788409c7850a1c1434cfc9e623e73beafe49d1"
+        },
+        "301989": {
+            "config": {
+                "language": "dutch"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "201958413563437097",
+                    "size": "249632574",
+                    "download": "66350399038"
+                }
+            },
+            "decryptionkey": "e439b69780ce5387f0b4c5a9e11b82b76d9714766af1962f5376d0199895f7ea"
+        },
+        "330330": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1745928869749012372",
+                    "size": "630973465",
+                    "download": "424627440"
+                }
+            },
+            "decryptionkey": "caaf35325907ae46316d1b6b1653deda417e4cf1e56ddf0ff9a1d85ff760a39f"
+        },
+        "330331": {
+            "config": {
+                "language": "czech"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3973037940043075203",
+                    "size": "630977279",
+                    "download": "424628944"
+                }
+            },
+            "decryptionkey": "8e92187b73e4cefcff4925e232666b7ee2635b9c4c23a2e765b61b9ac50c40af"
+        },
+        "branches": {
+            "public": {
+                "buildid": "421299"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
