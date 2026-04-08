@@ -1,0 +1,34 @@
+{
+    "appid": 628140,
+    "name": "NOBUNAGA'S AMBITION: Tenkasousei with Power Up Kit",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 18:23:48",
+    "change_number": 29257409,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "628141": {
+            "manifests": {
+                "public": {
+                    "gid": "6058273930614473722",
+                    "size": "1492216485",
+                    "download": "740332704"
+                }
+            },
+            "decryptionkey": "db7b2db2a65d2ba82ad9e66301bc5375eb926cb37f79b438b747c5ce644f5499"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2431466",
+                "timeupdated": "1515733642"
+            }
+        }
+    }
+}
