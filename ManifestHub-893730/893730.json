@@ -1,0 +1,55 @@
+{
+    "appid": 893730,
+    "name": "Viki Spotter: Camping",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 08:44:14",
+    "change_number": 29497018,
+    "depot": {
+        "893731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3291895978359053285",
+                    "size": "379327128",
+                    "download": "31998624"
+                }
+            },
+            "decryptionkey": "d4a8e3a699c9137f1f4d0d0255960ff8f53f5fcc2dd6aa05b5ef4e8c5418ffa9"
+        },
+        "893732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6188527984146332425",
+                    "size": "394414654",
+                    "download": "35982208"
+                }
+            }
+        },
+        "893733": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3161387499298773803",
+                    "size": "429856284",
+                    "download": "48201968"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2929954",
+                "timeupdated": "1531131804"
+            }
+        }
+    },
+    "access_token": 15544405901983869704
+}
