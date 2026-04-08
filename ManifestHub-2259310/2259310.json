@@ -1,0 +1,38 @@
+{
+    "appid": 2259310,
+    "name": "ORDER 13",
+    "type": "Game",
+    "schinese_name": "猫好货坏",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 15:31:42",
+    "change_number": 30036223,
+    "depot": {
+        "2259312": {
+            "manifests": {
+                "public": {
+                    "gid": "2461884509514499761",
+                    "size": "4804203906",
+                    "download": "1796494928"
+                },
+                "public_test": {
+                    "gid": "5534273988884814289",
+                    "size": "4782981131",
+                    "download": "1789295120"
+                }
+            },
+            "decryptionkey": "a3f0d162fd3d9861b0aaf0fac52beb7598655e86a6a919f048767d3d6832ab5d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18810164",
+                "timeupdated": "1749569958"
+            },
+            "public_test": {
+                "buildid": "18240058",
+                "description": "Test branch for the public",
+                "timeupdated": "1745594048"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
