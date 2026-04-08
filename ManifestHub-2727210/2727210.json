@@ -1,0 +1,59 @@
+{
+    "appid": 2727210,
+    "name": "Deathless. Tales of Old Rus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 12:39:54",
+    "change_number": 30185051,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2727219": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1392993441684307517",
+                    "size": "2090689781",
+                    "download": "1547081760"
+                },
+                "public_beta": {
+                    "gid": "8018558034661753721",
+                    "size": "2090689797",
+                    "download": "1547079392"
+                }
+            },
+            "decryptionkey": "fdc685bfd5a49337839862f15748e566817c9b9995e117164e0851187772cc8f"
+        },
+        "3014920": {
+            "dlcappid": "3014920",
+            "manifests": {
+                "public": {
+                    "gid": "4206507036472976753",
+                    "size": "580732305",
+                    "download": "503495264"
+                },
+                "public_beta": {
+                    "gid": "4206507036472976753",
+                    "size": "580732305",
+                    "download": "503495264"
+                }
+            },
+            "decryptionkey": "7c6444e88c51990ea912114308a17ada953a6380ccf76e5fb9c9f7833ec6ba4c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19095783",
+                "timeupdated": "1751556322"
+            },
+            "public_beta": {
+                "buildid": "19176668",
+                "description": "Branch for public tests",
+                "timeupdated": "1752156109"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
