@@ -1,0 +1,32 @@
+{
+    "appid": 2745560,
+    "name": "Neon Fantasy: Rodents",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 20:55:57",
+    "change_number": 29690648,
+    "depot": {
+        "2745561": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2067365940651056932",
+                    "size": "519104809",
+                    "download": "510632976"
+                }
+            },
+            "decryptionkey": "8176c81b07199edeee0442f7aba09cbeba0c3d0f3957a0fa2d48308fcc8669d3"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "13489658",
+                "timeupdated": "1708251200"
+            }
+        }
+    }
+}
