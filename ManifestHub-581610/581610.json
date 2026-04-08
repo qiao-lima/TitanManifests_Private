@@ -1,0 +1,31 @@
+{
+    "appid": "581610",
+    "type": "Game",
+    "name": "Only One Hope",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24846842",
+    "update_time": "2024-08-19 20:14:04",
+    "depot": {
+        "581611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6370816190139012852",
+                    "size": "100645052",
+                    "download": "100360464"
+                }
+            },
+            "decryptionkey": "9bf21923e3b10773a1150ffa89f21668c16fdd414990e125c52bb956a6ca8d22"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1798646",
+                "timeupdated": "1493865881"
+            }
+        }
+    },
+    "access_token": 16054476945432664426
+}
