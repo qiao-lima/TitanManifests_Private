@@ -1,0 +1,37 @@
+{
+    "appid": 3119780,
+    "name": "Drive Thru Miami",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 22:42:23",
+    "change_number": 30174978,
+    "depot": {
+        "3119781": {
+            "manifests": {
+                "public": {
+                    "gid": "2892970267470523281",
+                    "size": "2920412152",
+                    "download": "933398512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3119782": {
+            "manifests": {
+                "public": {
+                    "gid": "5577070300194754780",
+                    "size": "2941862911",
+                    "download": "894700656"
+                }
+            },
+            "decryptionkey": "4a55a01501901dea7ca5a60ddbdce672733238b6b838f6bae252ccda69436572"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19283456",
+                "timeupdated": "1752903100"
+            }
+        }
+    }
+}
