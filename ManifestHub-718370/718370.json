@@ -1,0 +1,27 @@
+{
+    "appid": 718370,
+    "name": "LSD",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-26 08:17:26",
+    "change_number": 29182288,
+    "depot": {
+        "718371": {
+            "manifests": {
+                "public": {
+                    "gid": "7964649685373220824",
+                    "size": "81572156",
+                    "download": "26034944"
+                }
+            },
+            "decryptionkey": "fb4048732e3fea9bb486d492fd2a8e4578ee250b15ee780b9986ce90cef187f1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2259618",
+                "timeupdated": "1509915061"
+            }
+        }
+    }
+}
