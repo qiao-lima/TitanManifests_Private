@@ -1,0 +1,62 @@
+{
+    "appid": 3204120,
+    "name": "Maestro's Cold War 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 14:37:32",
+    "change_number": 30111711,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "3204121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4587045236836876435",
+                    "size": "1445732040",
+                    "download": "1114786496"
+                }
+            },
+            "decryptionkey": "8e5979fb805b0194cd6f902c893ae3ca24d9cc297407aa0d57b26e7f6fe04f62"
+        },
+        "3204122": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2752031199678867290",
+                    "size": "1519161192",
+                    "download": "1233569392"
+                }
+            }
+        },
+        "3204123": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3364253124618535953",
+                    "size": "1429125760",
+                    "download": "1105702464"
+                }
+            }
+        },
+        "workshopdepot": "3204120",
+        "branches": {
+            "public": {
+                "buildid": "19220052",
+                "timeupdated": "1752517996"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
