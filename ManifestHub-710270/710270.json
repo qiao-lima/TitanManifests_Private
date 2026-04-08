@@ -1,0 +1,32 @@
+{
+    "appid": "710270",
+    "type": "Game",
+    "name": "Goro",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22835038",
+    "update_time": "2024-08-28 12:00:27",
+    "depot": {
+        "baselanguages": "english",
+        "710271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1642307201608008041",
+                    "size": "119558571",
+                    "download": "45149760"
+                }
+            },
+            "decryptionkey": "c32c2583261c779a7c858f5f982e71afe806ea8b8d14352504488522df04f122"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2181883",
+                "timeupdated": "1507486141"
+            }
+        }
+    },
+    "access_token": 5081257164528688133
+}
