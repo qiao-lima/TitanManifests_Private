@@ -1,0 +1,27 @@
+{
+    "appid": 1504840,
+    "name": "Surprising My Neighbors 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 19:29:49",
+    "change_number": 30095584,
+    "depot": {
+        "1504841": {
+            "manifests": {
+                "public": {
+                    "gid": "4122968172260093795",
+                    "size": "160233453",
+                    "download": "59201360"
+                }
+            },
+            "decryptionkey": "0aba628506ca3e6b84ae069d8d15ed26dc2ac10bca8b5409158b70b286221f79"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10663545",
+                "timeupdated": "1677663874"
+            }
+        }
+    }
+}
