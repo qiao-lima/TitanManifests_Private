@@ -1,0 +1,32 @@
+{
+    "appid": "467460",
+    "type": "Game",
+    "name": "ZombieRush",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26025735",
+    "update_time": "2024-11-03 19:09:57",
+    "depot": {
+        "467461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8086073291310013567",
+                    "size": "312203627",
+                    "download": "29200048"
+                }
+            },
+            "decryptionkey": "6deb980f4deed925833602b0cc8fbdf105551de5afa71e470d797787f06caa28"
+        },
+        "baselanguages": "english,french,russian",
+        "branches": {
+            "public": {
+                "buildid": "1121183",
+                "timeupdated": "1462974312"
+            }
+        }
+    },
+    "access_token": 8702739454240015312
+}
