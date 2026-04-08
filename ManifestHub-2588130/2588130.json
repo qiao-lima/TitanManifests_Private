@@ -1,0 +1,28 @@
+{
+    "appid": "2588130",
+    "type": "Game",
+    "name": "Woodland Isle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23667813",
+    "update_time": "2024-08-14 21:13:32",
+    "depot": {
+        "2588131": {
+            "manifests": {
+                "public": {
+                    "gid": "6941416792953058912",
+                    "size": "1895594066",
+                    "download": "816971088"
+                }
+            },
+            "decryptionkey": "7f38fa5b5aa064e26aaaf921f36047660b22eed81e0cbb0409b36fa991da0d5e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12096388",
+                "timeupdated": "1693671853"
+            }
+        }
+    },
+    "access_token": 12159027348224282276
+}
