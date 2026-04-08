@@ -1,0 +1,30 @@
+{
+    "appid": 1246990,
+    "name": "We Were Here Together Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:30:23",
+    "change_number": 27924129,
+    "depot": {
+        "1246991": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1253052769359100237",
+                    "size": "142828800",
+                    "download": "136652848"
+                }
+            },
+            "decryptionkey": "b85860854efd7606fbb57ebd56319a879667a65dcd61e94dbbbe656994abcb02"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4941742",
+                "timeupdated": "1587753464"
+            }
+        }
+    }
+}
