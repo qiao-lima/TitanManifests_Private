@@ -1,0 +1,27 @@
+{
+    "appid": 2742150,
+    "name": "MUZY",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-25 22:13:23",
+    "change_number": 29749982,
+    "depot": {
+        "2742151": {
+            "manifests": {
+                "public": {
+                    "gid": "834179738578217072",
+                    "size": "5736601775",
+                    "download": "1801452272"
+                }
+            },
+            "decryptionkey": "8f47f1f59975ce9aa78c839a85df3b7a6a144dbaa2a45f6cdb7a28c7e1a156f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13559024",
+                "timeupdated": "1708890719"
+            }
+        }
+    }
+}
