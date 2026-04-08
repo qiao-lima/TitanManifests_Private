@@ -1,0 +1,30 @@
+{
+    "appid": 1515260,
+    "name": "Circle Empires Tactics",
+    "type": "Game",
+    "schinese_name": "环形帝国：战术",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 10:25:27",
+    "change_number": 29540642,
+    "depot": {
+        "1515261": {
+            "manifests": {
+                "public": {
+                    "gid": "3053228143261557767",
+                    "size": "739646679",
+                    "download": "134174048"
+                }
+            },
+            "decryptionkey": "5d260ec320fdfcf98763f9c347fd0976b37a2288a29eb7740c38051218e21817"
+        },
+        "workshopdepot": "1515260",
+        "branches": {
+            "public": {
+                "buildid": "12590364",
+                "timeupdated": "1698829014"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
