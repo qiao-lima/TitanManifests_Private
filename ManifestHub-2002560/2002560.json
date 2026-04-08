@@ -1,0 +1,42 @@
+{
+    "appid": 2002560,
+    "name": "Tales From Hoia Baciu Forest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-07 04:11:55",
+    "change_number": 29924057,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2002561": {
+            "manifests": {
+                "public": {
+                    "gid": "4320155174984650901",
+                    "size": "7093276865",
+                    "download": "6742050784"
+                }
+            },
+            "decryptionkey": "5429de6f4a5c20f3affe178a77bcb093ff80a63c52e61f310d5f6749487b6cd4"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18632808",
+                "timeupdated": "1748386199"
+            }
+        }
+    }
+}
