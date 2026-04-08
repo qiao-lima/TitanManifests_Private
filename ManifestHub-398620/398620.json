@@ -1,0 +1,85 @@
+{
+    "appid": 398620,
+    "name": "Living Legends: The Frozen Fear Collection",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:54:09",
+    "change_number": 29769476,
+    "depot": {
+        "398621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "782263058885782154",
+                    "size": "1449523792",
+                    "download": "1388327184"
+                }
+            },
+            "decryptionkey": "5641bb063cd824691f8d3b8ee401756a53cc8f69d78257cc2511035dc13d9708"
+        },
+        "398622": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4139853453549799095",
+                    "size": "1467540386",
+                    "download": "1393799552"
+                }
+            },
+            "decryptionkey": "6df96922e0eb28c98d2cc304de7523aa2df9abd98c8c2b924c1744a9e76f6f3e"
+        },
+        "398623": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4884190471210803641",
+                    "size": "1457555363",
+                    "download": "1392134256"
+                }
+            },
+            "decryptionkey": "324bf05caf56bd3d96c56a098efd7a5c2c16ad6d8429925bae244d55ecd91dc7"
+        },
+        "398624": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6021220351615320241",
+                    "size": "1492851151",
+                    "download": "1407654192"
+                }
+            },
+            "decryptionkey": "85d5b0adbecefb44854e59fefd890b8b54888c2e7fe029f6b7e1d96f757d9ae1"
+        },
+        "398625": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3768279592971538459",
+                    "size": "1453981760",
+                    "download": "1387235680"
+                }
+            },
+            "decryptionkey": "76fddcb899988d1400449c8228d97d09921f8ed54ccd8ceb9666c96061ff6f77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "755752"
+            }
+        }
+    }
+}
