@@ -1,0 +1,55 @@
+{
+    "appid": 420440,
+    "name": "Atlantic Fleet",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 17:39:27",
+    "change_number": 29953341,
+    "depot": {
+        "420441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4624596513248547238",
+                    "size": "400085811",
+                    "download": "135495232"
+                },
+                "beta": {
+                    "gid": "4624596513248547238",
+                    "size": "400085811",
+                    "download": "135495232"
+                }
+            },
+            "decryptionkey": "881e2e25382688f6042b7ef1429137ff0263e7bb7d8120e0be6928e88090b94e"
+        },
+        "420442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7806163879714121849",
+                    "size": "399488657",
+                    "download": "137675216"
+                },
+                "beta": {
+                    "gid": "7806163879714121849",
+                    "size": "399488657",
+                    "download": "137675216"
+                }
+            },
+            "decryptionkey": "f51013d532ba006852223440ad8968c08dadb4dd59079e0552188c2841a845da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1021616"
+            },
+            "beta": {
+                "buildid": "1021616"
+            }
+        }
+    }
+}
