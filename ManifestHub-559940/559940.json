@@ -1,0 +1,31 @@
+{
+    "appid": "559940",
+    "type": "Game",
+    "name": "Sleengster 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:18:05",
+    "depot": {
+        "559941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1604059563389715822",
+                    "size": "572230188",
+                    "download": "63241280"
+                }
+            },
+            "decryptionkey": "18ecc63daa5e0fbdf0b4920e557d72ad89707a6bca11c90af73efae73b134e6d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1837429",
+                "timeupdated": "1495445593"
+            }
+        }
+    },
+    "access_token": 17062101532465117875
+}
