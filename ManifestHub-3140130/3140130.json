@@ -1,0 +1,32 @@
+{
+    "appid": 3140130,
+    "name": "みんなで空気読み。4",
+    "type": "Game",
+    "schinese_name": "大家一起观颜察色。4",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 08:50:11",
+    "change_number": 29944601,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "3140131": {
+            "manifests": {
+                "public": {
+                    "gid": "1771158260600297582",
+                    "size": "355731030",
+                    "download": "205569296"
+                }
+            },
+            "decryptionkey": "af8c7798674efd80a5461c67945451687013be8310daa3b0e9d1fceb0b960d1d"
+        },
+        "3141760": {
+            "dlcappid": "3141760"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18233097",
+                "timeupdated": "1747965165"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
