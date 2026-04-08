@@ -1,0 +1,60 @@
+{
+    "appid": 2840210,
+    "name": "Bureau of Contacts",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 11:04:57",
+    "change_number": 29895319,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2840211": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3197824715057829224",
+                    "size": "17850952612",
+                    "download": "9982244832"
+                }
+            },
+            "decryptionkey": "9ae67112621aae9c775cc652ad9a6942a1d3e0119f665a420a14aea90f60fbb4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19106037",
+                "timeupdated": "1751623490"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
