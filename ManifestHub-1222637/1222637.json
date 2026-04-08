@@ -1,0 +1,85 @@
+{
+    "appid": 1222637,
+    "name": "RetroArch - TIC-80",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:12:54",
+    "change_number": 29983833,
+    "depot": {
+        "1222637": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "1222637"
+            },
+            "dlcappid": "1222637",
+            "manifests": {
+                "public": {
+                    "gid": "3771809425701254504",
+                    "size": "2122892",
+                    "download": "722608"
+                },
+                "nightly": {
+                    "gid": "6294900305711969634",
+                    "size": "2122892",
+                    "download": "789504"
+                }
+            },
+            "decryptionkey": "9a333e3ce3699d84836a90c121a9a1eaeefd3df8324401a4ea2cb70277164a89"
+        },
+        "1790120": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1222637"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6457450229166081305",
+                    "size": "2228432",
+                    "download": "716368"
+                },
+                "nightly": {
+                    "gid": "6457450229166081305",
+                    "size": "2228432",
+                    "download": "716368"
+                }
+            },
+            "dlcappid": "1222637",
+            "decryptionkey": "5fa7c116f502b9c7f8501c178482e40c88e673e76b1f58dd44d04a418870127f"
+        },
+        "1790121": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1222637"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3096000204261401577",
+                    "size": "4239328",
+                    "download": "1292960"
+                },
+                "nightly": {
+                    "gid": "3096000204261401577",
+                    "size": "4239328",
+                    "download": "1292960"
+                }
+            },
+            "dlcappid": "1222637",
+            "decryptionkey": "cd69474ca67ca7ce36c962dbe4d4a3e3f142468cf3776faa2be47088cd8a77a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265259",
+                "timeupdated": "1745845107"
+            },
+            "nightly": {
+                "buildid": "19172201",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752135170"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
