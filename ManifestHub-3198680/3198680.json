@@ -1,0 +1,30 @@
+{
+    "appid": 3198680,
+    "name": "Puttler",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 00:44:32",
+    "change_number": 29958805,
+    "depot": {
+        "3198681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6533401254257495127",
+                    "size": "1185313494",
+                    "download": "81173520"
+                }
+            },
+            "decryptionkey": "6af6d224feb8cafd89eaf6c92fa28b5ce47561db59b1d8308893d792d31d4d21"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19046242",
+                "timeupdated": "1751252679"
+            }
+        }
+    }
+}
