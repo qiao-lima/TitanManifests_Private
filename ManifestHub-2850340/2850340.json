@@ -1,0 +1,28 @@
+{
+    "appid": 2850340,
+    "name": "TheLostVillage - 扩展包",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 09:57:04",
+    "change_number": 29659804,
+    "depot": {
+        "2850340": {
+            "manifests": {
+                "public": {
+                    "gid": "6314012803235278101",
+                    "size": "144042735",
+                    "download": "63357504"
+                }
+            },
+            "dlcappid": "2850340",
+            "decryptionkey": "423f4ec9aa4edff9616f9a065bf6d4a7b3a50e7a5989eca2eba1fe2e8c232af2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17061783",
+                "timeupdated": "1737360222"
+            }
+        }
+    }
+}
