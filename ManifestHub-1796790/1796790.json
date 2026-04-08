@@ -1,0 +1,46 @@
+{
+    "appid": 1796790,
+    "name": "Chef RPG",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 08:08:15",
+    "change_number": 30201061,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1796792": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1369926956338545693",
+                    "size": "4737855661",
+                    "download": "310636864"
+                }
+            },
+            "decryptionkey": "0b0dba64aab4ff027e61e09957f6e9dba4ea9bc96857960210bcec88932b2f43"
+        },
+        "1796793": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2516531621135259566",
+                    "size": "4740097925",
+                    "download": "310981952"
+                }
+            },
+            "decryptionkey": "fcf628f7613f3cceda7b6b27311bbbd15869f67443d18dccb2815b14c2ccb902"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18888019",
+                "timeupdated": "1750107581"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
