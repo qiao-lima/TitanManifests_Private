@@ -1,0 +1,55 @@
+{
+    "appid": 3522230,
+    "name": "Death Stream",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:49:19",
+    "change_number": 29426796,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,schinese,russian,thai,japanese,polish,swedish,czech,turkish,brazilian,latam",
+        "3522231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1403907439410671190",
+                    "size": "2339151965",
+                    "download": "967320800"
+                }
+            },
+            "decryptionkey": "51b49635da4b8cd343c456531e1738a01eedae39fe4f664c0952d0204fc70283"
+        },
+        "3522232": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4795012292743061925",
+                    "size": "2349111264",
+                    "download": "970525184"
+                }
+            }
+        },
+        "3522233": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4033759428861165993",
+                    "size": "2437825090",
+                    "download": "1020250768"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18771557",
+                "timeupdated": "1749241832"
+            }
+        }
+    }
+}
