@@ -1,0 +1,41 @@
+{
+    "appid": 2684370,
+    "name": "Dinosaur World",
+    "type": "Game",
+    "schinese_name": "恐龙世界",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:11:29",
+    "change_number": 30212357,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2684371": {
+            "manifests": {
+                "public": {
+                    "gid": "7363585391249495327",
+                    "size": "8284008239",
+                    "download": "8193135216"
+                }
+            },
+            "decryptionkey": "1d51135b1ec009d1df95ef89b2834484566f41f36cde0679a1ce602a635d9fd6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19228881",
+                "timeupdated": "1752577953"
+            }
+        }
+    }
+}
