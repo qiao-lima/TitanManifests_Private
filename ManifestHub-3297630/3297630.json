@@ -1,0 +1,31 @@
+{
+    "appid": 3297630,
+    "name": "Finnish Cottage 8",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:57:48",
+    "change_number": 29565981,
+    "depot": {
+        "3297631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5618450832420699385",
+                    "size": "1695749484",
+                    "download": "605419424"
+                }
+            },
+            "decryptionkey": "69f295c140b9d2d3557abc852cd21fc1635d8ea1c1cb47af8995dbc9bf5a460a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18110229",
+                "timeupdated": "1744724033"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
