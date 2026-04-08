@@ -1,0 +1,44 @@
+{
+    "appid": 3642110,
+    "name": "少女武士-葵纹(JK-Girl-Samurai)",
+    "type": "Game",
+    "schinese_name": "少女武士-葵纹",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 08:52:53",
+    "change_number": 30162617,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
+        "3642111": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7209873062080624174",
+                    "size": "235399392",
+                    "download": "104532928"
+                }
+            }
+        },
+        "3642112": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3383080192254408916",
+                    "size": "135355604",
+                    "download": "76552640"
+                }
+            },
+            "decryptionkey": "664468061b178da97e9e46183dfaf43537bf2730f00302838ed74015fc1a2b62"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19155330",
+                "timeupdated": "1752035504"
+            }
+        }
+    }
+}
