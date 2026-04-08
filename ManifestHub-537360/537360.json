@@ -1,0 +1,65 @@
+{
+    "appid": "537360",
+    "type": "Game",
+    "name": "JumpBall",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27150769",
+    "update_time": "2025-01-24 22:27:35",
+    "depot": {
+        "537361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7642666509263254920",
+                    "size": "115148847",
+                    "download": "39617680"
+                }
+            },
+            "decryptionkey": "657bf4bf696d7a199fc4042a4f3151af46cd74969d2af264f32845232d4632cd"
+        },
+        "537362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5156214760205419177",
+                    "size": "177222399",
+                    "download": "50882032"
+                }
+            },
+            "decryptionkey": "779b2b402ecdbf5fe5de4aa8d17b7f53c8cd8ba2eeb2da1e67280c0444716555"
+        },
+        "537363": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2072234603586700576",
+                    "size": "147416655",
+                    "download": "41385984"
+                }
+            },
+            "decryptionkey": "038331ad33f7b0b30bde05904f1c2621848c9ccee28da6b5ea1476daf22c33b9"
+        },
+        "584820": {
+            "dlcappid": "584820",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "1373449",
+                "timeupdated": "1475598716"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 11585080968431187568
+}
