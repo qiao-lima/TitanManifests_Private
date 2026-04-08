@@ -1,0 +1,32 @@
+{
+    "appid": 431320,
+    "name": "Recourse Demo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 11:14:37",
+    "change_number": 29800934,
+    "depot": {
+        "431321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "803249498812523090",
+                    "size": "415474515",
+                    "download": "355439792"
+                }
+            },
+            "decryptionkey": "ee61a97b3cfac209daf767c227f70a1882977302e218aa68e5b26c1164ba7395"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3645644",
+                "timeupdated": "1553944240"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
