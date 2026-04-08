@@ -1,0 +1,27 @@
+{
+    "appid": 1181130,
+    "name": "Play with NEKO",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 16:11:10",
+    "change_number": 30014263,
+    "depot": {
+        "1181131": {
+            "manifests": {
+                "public": {
+                    "gid": "3390130797072864640",
+                    "size": "217901989",
+                    "download": "57462288"
+                }
+            },
+            "decryptionkey": "edb4409ae5796455aca0af584134fd45658b10ed088265b4699760777be28664"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4396762",
+                "timeupdated": "1573918253"
+            }
+        }
+    }
+}
