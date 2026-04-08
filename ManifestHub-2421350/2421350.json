@@ -1,0 +1,28 @@
+{
+    "appid": 2421350,
+    "name": "雙修武林",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 12:34:37",
+    "change_number": 29569933,
+    "depot": {
+        "baselanguages": "schinese",
+        "2421351": {
+            "manifests": {
+                "public": {
+                    "gid": "3614200663570137949",
+                    "size": "2133160102",
+                    "download": "807998160"
+                }
+            },
+            "decryptionkey": "172f94c002d3bb3a0e43f677287a18520f7c2543c8af3934ba5dce1eb2b303fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16758492",
+                "timeupdated": "1734354804"
+            }
+        }
+    }
+}
