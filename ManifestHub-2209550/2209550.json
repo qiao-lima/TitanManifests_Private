@@ -1,0 +1,27 @@
+{
+    "appid": 2209550,
+    "name": "Disfigure: Prologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 21:04:02",
+    "change_number": 29372089,
+    "depot": {
+        "2209551": {
+            "manifests": {
+                "public": {
+                    "gid": "3171385272542575449",
+                    "size": "679773536",
+                    "download": "343487840"
+                }
+            },
+            "decryptionkey": "a0b0d785dfc869da273c6b4a402609da1d3aaf1f2f7c6a85624a7f166a1771d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10939848",
+                "timeupdated": "1680720248"
+            }
+        }
+    }
+}
