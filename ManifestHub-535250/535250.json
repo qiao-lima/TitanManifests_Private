@@ -1,0 +1,32 @@
+{
+    "appid": "535250",
+    "type": "Game",
+    "name": "Space Journey",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:15:37",
+    "depot": {
+        "baselanguages": "english",
+        "535251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5415834382036945771",
+                    "size": "1078848195",
+                    "download": "444524928"
+                }
+            },
+            "decryptionkey": "4a63455bc3f1e2dd117efd34c656d93f658a6309df6a73d3fa9452c0c65d8792"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1996154",
+                "timeupdated": "1501292944"
+            }
+        }
+    },
+    "access_token": 4089082399570689836
+}
