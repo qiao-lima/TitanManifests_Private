@@ -1,0 +1,28 @@
+{
+    "appid": 1626550,
+    "name": "Components for Clip maker",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 10:31:52",
+    "change_number": 26201212,
+    "depot": {
+        "1626551": {
+            "manifests": {
+                "public": {
+                    "gid": "8442307274343592184",
+                    "size": "37784837531",
+                    "download": "10960083088"
+                }
+            },
+            "dlcappid": "1626550",
+            "decryptionkey": "d8a9b0169c03bebaecc4255d580352dd1fa3966d93ee9a87fd4154d7eb4f695e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10156290",
+                "timeupdated": "1671126627"
+            }
+        }
+    }
+}
