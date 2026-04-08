@@ -1,0 +1,42 @@
+{
+    "appid": 2347380,
+    "name": "Witch's Garden",
+    "type": "Game",
+    "schinese_name": "魔女的花园",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 17:52:25",
+    "change_number": 30147998,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2347381": {
+            "manifests": {
+                "public": {
+                    "gid": "1947465382273691140",
+                    "size": "6675420712",
+                    "download": "6351254384"
+                }
+            },
+            "decryptionkey": "0ace6a68df6b2d06443c2c430e08ab6079f1b48d774df71490341d67cf368ce5"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "11199190",
+                "timeupdated": "1683726374"
+            }
+        }
+    }
+}
