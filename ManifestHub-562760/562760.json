@@ -1,0 +1,28 @@
+{
+    "appid": "562760",
+    "type": "Game",
+    "name": "KORABLIK",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:18:15",
+    "depot": {
+        "562761": {
+            "manifests": {
+                "public": {
+                    "gid": "8568633007024904366",
+                    "size": "52158336",
+                    "download": "22287600"
+                }
+            },
+            "decryptionkey": "30c2532cbcde81f39dd14806ddf8261526a326e550331a66861ac01b021e0a0e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1626192",
+                "timeupdated": "1486924212"
+            }
+        }
+    },
+    "access_token": 12934996918407310651
+}
