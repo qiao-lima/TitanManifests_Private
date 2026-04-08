@@ -1,0 +1,49 @@
+{
+    "appid": 1960480,
+    "name": "AutoForge",
+    "type": "Game",
+    "schinese_name": "自动工厂 AutoForge",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 17:33:29",
+    "change_number": 30147848,
+    "depot": {
+        "1960481": {
+            "manifests": {
+                "public": {
+                    "gid": "1349313022729161117",
+                    "size": "412924132",
+                    "download": "212665760"
+                },
+                "0.3.0": {
+                    "gid": "361491215023054684",
+                    "size": "139536977",
+                    "download": "97196560"
+                },
+                "experimental": {
+                    "gid": "717682326188070809",
+                    "size": "412934707",
+                    "download": "212707936"
+                }
+            },
+            "decryptionkey": "fba4022ec4ba2b9af78632e666ae63546a77ae68cfb193867f5f354cedb33814"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "19254439",
+                "timeupdated": "1752723870"
+            },
+            "0.3.0": {
+                "buildid": "15546765",
+                "description": "Strange Encounters Update",
+                "timeupdated": "1728841944"
+            },
+            "experimental": {
+                "buildid": "19286406",
+                "description": "Frontline build (no promises everything work!)",
+                "timeupdated": "1752942804"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
