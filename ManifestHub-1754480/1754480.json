@@ -1,0 +1,64 @@
+{
+    "appid": 1754480,
+    "name": "Everlife",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 00:36:28",
+    "change_number": 30216549,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "1923100": {
+            "dlcappid": "1923100",
+            "config": {
+                "osarch": "64",
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5080727702551870242",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1754481": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3709982904347719620",
+                    "size": "1483873350",
+                    "download": "308991952"
+                }
+            },
+            "decryptionkey": "9e9d9b7febc24419262db5781236de720bc587b6ed00f42591eaecda33814a88"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19336216",
+                "timeupdated": "1753313783"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
