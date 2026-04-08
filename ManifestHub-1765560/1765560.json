@@ -1,0 +1,78 @@
+{
+    "appid": 1765560,
+    "name": "Pill Baby",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:37:39",
+    "change_number": 29531163,
+    "depot": {
+        "baselanguages": "english,turkish",
+        "1765561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4286104270800632674",
+                    "size": "2079927180",
+                    "download": "445517152"
+                },
+                "beta": {
+                    "gid": "4286104270800632674",
+                    "size": "2079927180",
+                    "download": "445517152"
+                }
+            },
+            "decryptionkey": "2f9b8884b6c68bb07e00cc674d6a2d620fc196147f9eb4dcc3e9c48f3e52463b"
+        },
+        "1765562": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5875070102658478461",
+                    "size": "1447179576",
+                    "download": "402260336"
+                },
+                "beta": {
+                    "gid": "5875070102658478461",
+                    "size": "1447179576",
+                    "download": "402260336"
+                }
+            },
+            "decryptionkey": "dc346c941f98ea0659a29ac08b0b36bd1fd2ce873fbd3f275315c880ff3d1958"
+        },
+        "1765563": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4475316776471441652",
+                    "size": "2153921786",
+                    "download": "490480880"
+                },
+                "beta": {
+                    "gid": "4475316776471441652",
+                    "size": "2153921786",
+                    "download": "490480880"
+                }
+            },
+            "decryptionkey": "afb75da6307f5636c3bb5b6434f3d54f7a09a0dcb07eaac438c795b152a4fa96"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9342120",
+                "timeupdated": "1660848886"
+            },
+            "beta": {
+                "buildid": "9342120",
+                "description": "beta",
+                "timeupdated": "1660848254"
+            }
+        }
+    }
+}
