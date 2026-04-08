@@ -1,0 +1,54 @@
+{
+    "appid": 2370990,
+    "name": "Merk Mayhem",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 14:14:16",
+    "change_number": 29742250,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2370991": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "947984288747489097",
+                    "size": "9294653000",
+                    "download": "8722885952"
+                }
+            },
+            "decryptionkey": "ee369aff8ab33fb7160283db1059abb8c2223f41907e73c5cf80c2b901aac382"
+        },
+        "2370992": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            }
+        },
+        "2370993": {},
+        "branches": {
+            "public": {
+                "buildid": "18744077",
+                "timeupdated": "1749508689"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
