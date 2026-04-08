@@ -1,0 +1,57 @@
+{
+    "appid": 497080,
+    "name": "Construct: Escape the System",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 16:55:46",
+    "change_number": 29825830,
+    "depot": {
+        "497081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1055915732953612935",
+                    "size": "818605506",
+                    "download": "302355920"
+                }
+            },
+            "decryptionkey": "f508464195757507a3e369b8558d8467b682d5ae8cd45a6eff22e6c598c65af3"
+        },
+        "497082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6901356876366006576",
+                    "size": "831965619",
+                    "download": "305804576"
+                }
+            },
+            "decryptionkey": "41d2b7a4d8c64a88069ddaf844f33dd66b6a9366f830719fc04b4f5fe1e4f749"
+        },
+        "497083": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "195978543472515172",
+                    "size": "828949076",
+                    "download": "304516672"
+                }
+            },
+            "decryptionkey": "9129a8c0328e6b7a7aaf13eca4b40081ec8d735564c233e24d0f4e5be0ccfa26"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1716037",
+                "timeupdated": "1490559818"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
