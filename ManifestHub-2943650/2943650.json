@@ -1,0 +1,66 @@
+{
+    "appid": 2943650,
+    "name": "FragPunk",
+    "type": "Game",
+    "schinese_name": "界外狂潮",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 08:10:36",
+    "change_number": 30201080,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2943651": {
+            "manifests": {
+                "public": {
+                    "gid": "5550086510702790126",
+                    "size": "53295979618",
+                    "download": "49488152608"
+                }
+            },
+            "decryptionkey": "e0df17b5ec01dc3ab91eaa828f723850723390079c285e6855f68cdd7d6aa7b6"
+        },
+        "2943652": {
+            "manifests": {
+                "public": {
+                    "gid": "3486358638020021907",
+                    "size": "53295979618",
+                    "download": "49483579408"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "19300257",
+                "timeupdated": "1753104186"
+            }
+        }
+    }
+}
