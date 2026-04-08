@@ -1,0 +1,33 @@
+{
+    "appid": 1804140,
+    "name": "戦場のフーガ 学園コスチュームパック",
+    "type": "DLC",
+    "schinese_name": "战场的赋格曲 学院装束 服装包",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 08:07:30",
+    "change_number": 26845279,
+    "depot": {
+        "1804141": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "746500469787766781",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1804140",
+            "decryptionkey": "297d8da63c51fccefc3a5ec5bafd2b7da4f71ab43e99df86ab75d6c895415f80"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7839624",
+                "timeupdated": "1638857570"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
