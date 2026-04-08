@@ -1,0 +1,37 @@
+{
+    "appid": 2794060,
+    "name": "赵云传：新版赵云传-怀旧版 DLC",
+    "type": "DLC",
+    "schinese_name": "赵云传：新版赵云传-怀旧版 DLC",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 17:40:40",
+    "change_number": 29175368,
+    "depot": {
+        "2794060": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "2794060"
+        },
+        "2794061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7649684677768045914",
+                    "size": "131513840",
+                    "download": "53716736"
+                }
+            },
+            "dlcappid": "2794060",
+            "decryptionkey": "2e8452edda424ada51bc2c3dc9b2d70dc293fc34a480147585524d11a5163a5d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18600000",
+                "timeupdated": "1748166030"
+            }
+        }
+    }
+}
