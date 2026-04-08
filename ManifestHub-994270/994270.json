@@ -1,0 +1,27 @@
+{
+    "appid": 994270,
+    "name": "Where Birds 鸟儿在哪里",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 23:53:34",
+    "change_number": 29868785,
+    "depot": {
+        "994271": {
+            "manifests": {
+                "public": {
+                    "gid": "1552078035472757217",
+                    "size": "86709149",
+                    "download": "25891040"
+                }
+            },
+            "decryptionkey": "41abdd2971d54e6b0cff94f47836c7f7023c3673355980ea3f8e78754491219a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15224685",
+                "timeupdated": "1722505055"
+            }
+        }
+    }
+}
