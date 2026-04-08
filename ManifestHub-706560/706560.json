@@ -1,0 +1,79 @@
+{
+    "appid": 706560,
+    "name": "Jimmy and the Pulsating Mass",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:07:38",
+    "change_number": 29448133,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "706561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1290890155894791646",
+                    "size": "272030511",
+                    "download": "224918064"
+                },
+                "mkxp": {
+                    "gid": "2664094799720825571",
+                    "size": "280485672",
+                    "download": "224916112"
+                }
+            },
+            "decryptionkey": "caf3b2ae70548e0f86eed2fdbbc30e969db0c62b963ec751f6f4976c4a144137"
+        },
+        "912270": {
+            "dlcappid": "912270",
+            "manifests": {
+                "public": {
+                    "gid": "2002060099866407490",
+                    "size": "153643015",
+                    "download": "152128224"
+                },
+                "mkxp": {
+                    "gid": "6294966424766897574",
+                    "size": "153643015",
+                    "download": "152128224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "706562": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3729368345479627316",
+                    "size": "380731872",
+                    "download": "232075792"
+                },
+                "mkxp": {
+                    "gid": "3381033976953061654",
+                    "size": "362105916",
+                    "download": "249810608"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7638318",
+                "timeupdated": "1635792228"
+            },
+            "mkxp": {
+                "buildid": "7644488",
+                "timeupdated": "1635872594"
+            }
+        }
+    }
+}
