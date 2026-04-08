@@ -1,0 +1,28 @@
+{
+    "appid": 3621410,
+    "name": "The Expedition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 04:41:30",
+    "change_number": 29557434,
+    "depot": {
+        "3621411": {
+            "manifests": {
+                "public": {
+                    "gid": "7525484951178214077",
+                    "size": "1389255628",
+                    "download": "324789296"
+                }
+            },
+            "decryptionkey": "794cfd03d96d6e1e1746e4c54c6981d64656af0ef93659eac2fced74295ad4a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18781331",
+                "timeupdated": "1749344344"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
