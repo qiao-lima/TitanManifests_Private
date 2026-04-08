@@ -1,0 +1,29 @@
+{
+    "appid": 842680,
+    "name": "CPUCores :: ClearMem Lite",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 11:00:34",
+    "change_number": 28990540,
+    "depot": {
+        "842680": {
+            "manifests": {
+                "public": {
+                    "gid": "8270840731317322767",
+                    "size": "4381720",
+                    "download": "4017120"
+                }
+            },
+            "dlcappid": "842680",
+            "decryptionkey": "2d8007d70801073d8c5222c47a85bb5cc1d51f4f3d6b60b863c50a069d233b28"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14463703",
+                "timeupdated": "1716439157"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
