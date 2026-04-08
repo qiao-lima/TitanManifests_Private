@@ -1,0 +1,29 @@
+{
+    "appid": 1780820,
+    "name": "Chill Corner - Piano & Guitar (Music Album)",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:26:41",
+    "change_number": 29721264,
+    "depot": {
+        "1780820": {
+            "manifests": {
+                "public": {
+                    "gid": "3638882965024329556",
+                    "size": "1133964091",
+                    "download": "778457424"
+                }
+            },
+            "dlcappid": "1780820",
+            "decryptionkey": "8f8dea9504bd65be128a00ec17e21231eb0c1a4c7db6575aacbf5d812ae01e1b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18979255",
+                "timeupdated": "1750762569"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
