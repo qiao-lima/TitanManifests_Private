@@ -1,0 +1,40 @@
+{
+    "appid": 2004640,
+    "name": "Svarog's Dream",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 00:18:51",
+    "change_number": 29914397,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2004641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1643355010550713152",
+                    "size": "11459192296",
+                    "download": "7534037152"
+                }
+            },
+            "decryptionkey": "0cbfa48fad8c957ca5430a95eced5102d9f5d397bffc7a6f1a59657b440c3c42"
+        },
+        "2982030": {
+            "dlcappid": "2982030",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19114913",
+                "timeupdated": "1751757526"
+            }
+        }
+    }
+}
