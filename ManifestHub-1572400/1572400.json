@@ -1,0 +1,73 @@
+{
+    "appid": "1572400",
+    "type": "Game",
+    "name": "Elemental Angel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 05:18:14",
+    "depot": {
+        "1572401": {
+            "manifests": {
+                "public": {
+                    "gid": "8924158027109899133",
+                    "size": "458017040",
+                    "download": "149007488"
+                }
+            },
+            "decryptionkey": "b94f1653f0dbd1b7feb50a2ab55d712e8790eb91f0019aa2d934cd5c6ebc0197"
+        },
+        "1572430": {
+            "dlcappid": "1572430",
+            "manifests": {
+                "public": {
+                    "gid": "7353749093628435789",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1572432": {
+            "dlcappid": "1572432",
+            "manifests": {
+                "public": {
+                    "gid": "2148877139211315047",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1572431": {
+            "dlcappid": "1572431",
+            "manifests": {
+                "public": {
+                    "gid": "8003310652160032160",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1572433": {
+            "dlcappid": "1572433",
+            "manifests": {
+                "public": {
+                    "gid": "9079563809447602598",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "6380572",
+                "timeupdated": "1615772623"
+            }
+        }
+    },
+    "access_token": 8046379792417609076
+}
