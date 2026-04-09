@@ -1,0 +1,76 @@
+{
+    "appid": 1147940,
+    "name": "3dSen",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 18:51:44",
+    "change_number": 30074165,
+    "depot": {
+        "1147941": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6665627951139750970",
+                    "size": "204664343",
+                    "download": "61389344"
+                },
+                "beta": {
+                    "gid": "6958635254084364472",
+                    "size": "204664343",
+                    "download": "61881968"
+                }
+            },
+            "decryptionkey": "06185e0ae3401095595cc30328a48f265d3c3400cd6bc253224b777ebdea7c12"
+        },
+        "1147942": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7382551065605439346",
+                    "size": "213745060",
+                    "download": "64071600"
+                },
+                "beta": {
+                    "gid": "7520428288965372755",
+                    "size": "213744436",
+                    "download": "64738112"
+                }
+            }
+        },
+        "1147943": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "667907846620391473",
+                    "size": "207232931",
+                    "download": "58628992"
+                },
+                "beta": {
+                    "gid": "2985133806193306508",
+                    "size": "207100859",
+                    "download": "59112032"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18839263",
+                "timeupdated": "1750327572"
+            },
+            "beta": {
+                "buildid": "18959426",
+                "timeupdated": "1750644520"
+            }
+        }
+    }
+}
