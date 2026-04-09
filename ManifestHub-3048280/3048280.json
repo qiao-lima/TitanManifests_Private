@@ -1,0 +1,43 @@
+{
+    "appid": 3048280,
+    "name": "Realistic Ragdoll Sandbox",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 04:33:48",
+    "change_number": 29915544,
+    "depot": {
+        "3048281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2716993784300560474",
+                    "size": "5840856016",
+                    "download": "1535632848"
+                },
+                "crashtest": {
+                    "gid": "2674108021589349110",
+                    "size": "5827726672",
+                    "download": "1521860112"
+                }
+            },
+            "decryptionkey": "4c6dfc73dd4bc4e4bea567490a70390e025d43a85b8b98c910ae5e2e3b8ca060"
+        },
+        "workshopdepot": "3048280",
+        "branches": {
+            "public": {
+                "buildid": "19120955",
+                "timeupdated": "1751772824"
+            },
+            "crashtest": {
+                "buildid": "19056876",
+                "description": "CrashTest",
+                "timeupdated": "1751322028"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d6d36b284b70808d6038ce29f723ed1e4b1af61a8c1a292f9543d4e43e1c8b3c"
+    }
+}
