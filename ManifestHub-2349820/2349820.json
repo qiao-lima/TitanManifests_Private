@@ -1,0 +1,29 @@
+{
+    "appid": 2349820,
+    "name": "Hero's Land",
+    "type": "Game",
+    "schinese_name": "英勇之地",
+    "isfreeapp": 1,
+    "update_time": "2025-07-18 00:24:22",
+    "change_number": 30120780,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "2349821": {
+            "manifests": {
+                "public": {
+                    "gid": "1742604240114579060",
+                    "size": "9341899175",
+                    "download": "5165918992"
+                }
+            },
+            "decryptionkey": "9744cf91e311141d253c46ca7a89a75fa6ba2d86f5d29ff3b5a4141413a62f81"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19260621",
+                "timeupdated": "1752794659"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
