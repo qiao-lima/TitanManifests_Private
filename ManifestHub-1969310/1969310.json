@@ -1,0 +1,31 @@
+{
+    "appid": 1969310,
+    "name": "Demeo Battles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 08:49:58",
+    "change_number": 29757873,
+    "depot": {
+        "1969311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4144102889534033310",
+                    "size": "4976676032",
+                    "download": "4539637248"
+                }
+            },
+            "decryptionkey": "8d63241056e626a16cd1655bec19a2cc617ec067fef464da4954a5920e94fe00"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18980651",
+                "timeupdated": "1750924193"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
