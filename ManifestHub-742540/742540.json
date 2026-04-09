@@ -1,0 +1,58 @@
+{
+    "appid": 742540,
+    "name": "Keep Rollin!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 23:31:17",
+    "change_number": 30194730,
+    "depot": {
+        "742541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4199190288900011299",
+                    "size": "40880021",
+                    "download": "12025584"
+                }
+            },
+            "decryptionkey": "5a3113b18dc5250d8aa8064a3cbda5a9fba8380c543cad6a9d01f84785cf65ef"
+        },
+        "742542": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3931228214628154967",
+                    "size": "90669055",
+                    "download": "25899248"
+                }
+            },
+            "decryptionkey": "e13182a362f47d5770c9df2dfa7f140d1cc1046443417905084c637f9567b126"
+        },
+        "742543": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1470594250118350470",
+                    "size": "91813369",
+                    "download": "27440448"
+                }
+            },
+            "decryptionkey": "9459bc3708a171cb9c912e348e62b1964ec88f7f46b69f0e1498bb88c64ff267"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese,turkish,brazilian,greek",
+        "branches": {
+            "public": {
+                "buildid": "2303733",
+                "timeupdated": "1511268235"
+            }
+        }
+    },
+    "access_token": 11459073554909314612
+}
