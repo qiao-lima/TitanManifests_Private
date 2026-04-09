@@ -1,0 +1,28 @@
+{
+    "appid": 2739420,
+    "name": "书恋与君：美少女教我追系花",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 12:37:08",
+    "change_number": 30109416,
+    "depot": {
+        "2739421": {
+            "manifests": {
+                "public": {
+                    "gid": "1147345449234142598",
+                    "size": "3996312044",
+                    "download": "3925282784"
+                }
+            },
+            "decryptionkey": "134be2055433f7a9cccd45137b7c0973ba8dfdec971269fed447301b308109c4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19224727",
+                "timeupdated": "1752553775"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
