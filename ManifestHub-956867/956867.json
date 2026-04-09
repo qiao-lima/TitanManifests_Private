@@ -1,0 +1,31 @@
+{
+    "appid": 956867,
+    "name": "Ding Feng - Officer Ticket / 丁奉使用券",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:23",
+    "change_number": 26201212,
+    "depot": {
+        "956867": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7965465925049864720",
+                    "size": "4",
+                    "download": "48"
+                }
+            },
+            "dlcappid": "956867",
+            "decryptionkey": "edb70a1e6d47a238cf1773d8d102fd11f2bf9539789619061472bd71bd0edf51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3216531",
+                "timeupdated": "1539677640"
+            }
+        }
+    }
+}
