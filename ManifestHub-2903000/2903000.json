@@ -1,0 +1,28 @@
+{
+    "appid": 2903000,
+    "name": "RPG Maker MZ - KR The Motherlode Cave and Mine Tileset",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:50:48",
+    "change_number": 26201212,
+    "depot": {
+        "2903000": {
+            "manifests": {
+                "public": {
+                    "gid": "1175313249576282124",
+                    "size": "5092817",
+                    "download": "5047440"
+                }
+            },
+            "dlcappid": "2903000",
+            "decryptionkey": "bee2af5df5f735334e7778dad62727cca79a90610182299860a53ad1a2344c37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14141145",
+                "timeupdated": "1713847153"
+            }
+        }
+    }
+}
