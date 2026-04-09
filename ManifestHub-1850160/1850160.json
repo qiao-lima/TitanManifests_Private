@@ -1,0 +1,74 @@
+{
+    "appid": 1850160,
+    "name": "Poly Bridge 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 10:55:17",
+    "change_number": 29857943,
+    "depot": {
+        "workshopdepot": "1850160",
+        "1850161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "380548517856533848",
+                    "size": "1038399475",
+                    "download": "597351840"
+                }
+            },
+            "decryptionkey": "f14a199914983b46136c120280723eb68f50d6c5469ca10f7b0dee6685a0da4a"
+        },
+        "1850162": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1697171793545420688",
+                    "size": "719231385",
+                    "download": "584056848"
+                }
+            },
+            "decryptionkey": "b2a9b3ddf9d15ab4e95a9a75ade810663329a66e9102fd0ff0555bb51d939029"
+        },
+        "1850163": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5766651544734647859",
+                    "size": "1051724204",
+                    "download": "600942848"
+                }
+            },
+            "decryptionkey": "ec5d14eee4e26845fe971a0f575561829b316485bbfee07234e6b79456131534"
+        },
+        "1850164": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6658712252224014347",
+                    "size": "1206109045",
+                    "download": "626105104"
+                }
+            },
+            "decryptionkey": "4df14bab9c49b0f491d1df8155ad4ef79e03119e83f9de42857272be9fb91d57"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18787899",
+                "timeupdated": "1749424556"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "60d9b9b2b4153da7a2a021e2c48157f64286c98c13c8be08bb945664dc04d918"
+    }
+}
