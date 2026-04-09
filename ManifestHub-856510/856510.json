@@ -1,0 +1,31 @@
+{
+    "appid": "856510",
+    "type": "Game",
+    "name": "Click.O.Fast",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18821630",
+    "update_time": "2024-08-14 19:54:48",
+    "depot": {
+        "856511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7843117241015283739",
+                    "size": "125253552",
+                    "download": "48591968"
+                }
+            },
+            "decryptionkey": "7e45e1fc05cb11356acb68744e147f7b5d85900dd1d8df8fba0f6543a869162c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2760029",
+                "timeupdated": "1525898939"
+            }
+        }
+    },
+    "access_token": 17480409090349370649
+}
