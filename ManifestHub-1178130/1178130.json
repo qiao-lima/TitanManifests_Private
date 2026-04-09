@@ -1,0 +1,33 @@
+{
+    "appid": 1178130,
+    "name": "少女的求生之路",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 18:14:18",
+    "change_number": 29175571,
+    "depot": {
+        "1178131": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2471427780019573951",
+                    "size": "642267169",
+                    "download": "494248720"
+                }
+            },
+            "decryptionkey": "b72bdd87d99c3674bda30ff0be99a04cfc270f1d19f17690a8972152deb893b3"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "10043854",
+                "timeupdated": "1669775686"
+            }
+        }
+    }
+}
