@@ -1,0 +1,42 @@
+{
+    "appid": 970510,
+    "name": "蓝宝石般的被害妄想少女",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 17:42:30",
+    "change_number": 30190385,
+    "depot": {
+        "970511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2462138207686573710",
+                    "size": "384431512",
+                    "download": "130659376"
+                }
+            },
+            "decryptionkey": "c438bc8e08599b2d9b79556f692ab0790ed37e932e4efed138f8d1c86728f203"
+        },
+        "970512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6914667079132782286",
+                    "size": "264167607",
+                    "download": "134688288"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6279792",
+                "timeupdated": "1614064374"
+            }
+        }
+    }
+}
