@@ -1,0 +1,28 @@
+{
+    "appid": "2225980",
+    "type": "Game",
+    "name": "Special training camp",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-28 12:10:05",
+    "depot": {
+        "2225981": {
+            "manifests": {
+                "public": {
+                    "gid": "6270738233399549857",
+                    "size": "10573352",
+                    "download": "9437616"
+                }
+            },
+            "decryptionkey": "4a25370eec7852dce8b9499e39555ce282612c1010d9eb7ea42f92f9faaf9787"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9974096",
+                "timeupdated": "1668847073"
+            }
+        }
+    },
+    "access_token": 16312228385048908267
+}
