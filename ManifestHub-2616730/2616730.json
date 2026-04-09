@@ -1,0 +1,52 @@
+{
+    "appid": 2616730,
+    "name": "goblinAmerica Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 06:24:11",
+    "change_number": 29451447,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2616731": {
+            "manifests": {
+                "public": {
+                    "gid": "5587106374888750532",
+                    "size": "3593964594",
+                    "download": "3363216400"
+                },
+                "testing": {
+                    "gid": "5587106374888750532",
+                    "size": "3593964594",
+                    "download": "3363216400"
+                }
+            },
+            "decryptionkey": "838123dcfb52c052be3d16d3ecfe486f76e7fc8e43cee7f5d1c0c48e0aed8b2f"
+        },
+        "2616732": {},
+        "branches": {
+            "public": {
+                "buildid": "17743242",
+                "timeupdated": "1742136398"
+            },
+            "testing": {
+                "buildid": "17743242",
+                "description": "Testing branch.",
+                "timeupdated": "1742136247"
+            }
+        }
+    }
+}
