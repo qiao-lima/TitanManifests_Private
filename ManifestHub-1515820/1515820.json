@@ -1,0 +1,57 @@
+{
+    "appid": 1515820,
+    "name": "Guns of Succubus",
+    "type": "Game",
+    "schinese_name": "梦魔之枪",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 03:07:43",
+    "change_number": 30101575,
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "1515821": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8308814080083997398",
+                    "size": "337257695",
+                    "download": "225053360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1515822": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "13731287781045264",
+                    "size": "338317680",
+                    "download": "226568176"
+                }
+            },
+            "decryptionkey": "ef89a791e95926163ef11031015d959faabd73aa5ccb1ed3c7e8d9feb192e52c"
+        },
+        "1515823": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1750309370718537706",
+                    "size": "315769924",
+                    "download": "210385280"
+                }
+            },
+            "decryptionkey": "a1537d2d08bba0fb999da158435ce59342e4dd200769b8dbb91cdd6b34c9d103"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6304149",
+                "timeupdated": "1614418551"
+            }
+        }
+    }
+}
