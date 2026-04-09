@@ -1,0 +1,59 @@
+{
+    "appid": 881190,
+    "name": "Robbotto",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 21:42:11",
+    "change_number": 30056174,
+    "depot": {
+        "881193": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "451260761641925382",
+                    "size": "33120040",
+                    "download": "23768736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "905250": {
+            "dlcappid": "905250",
+            "manifests": {
+                "public": {
+                    "gid": "7258950568878012895",
+                    "size": "56432643",
+                    "download": "40317984"
+                }
+            },
+            "decryptionkey": "c25c953be55eac837d76a6ce52d952de4c6fecd45ab1518ef8c7a571ef3de5ff"
+        },
+        "881192": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2218432397926791494",
+                    "size": "306996474",
+                    "download": "118440848"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19205517",
+                "timeupdated": "1752386423"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
