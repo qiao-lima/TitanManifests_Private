@@ -1,0 +1,29 @@
+{
+    "appid": 3002510,
+    "name": "REPOSE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 18:32:51",
+    "change_number": 30073781,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3002511": {
+            "manifests": {
+                "public": {
+                    "gid": "8400785276783115580",
+                    "size": "105956169",
+                    "download": "90043696"
+                }
+            },
+            "decryptionkey": "58263441144fd57d7d87f84b259a70b7d285e21cab17264be1121a26d9961166"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19165428",
+                "timeupdated": "1752103879"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
