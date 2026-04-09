@@ -1,0 +1,49 @@
+{
+    "appid": 2475660,
+    "name": "Cozy Keep Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:56:57",
+    "change_number": 29682328,
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2475661": {
+            "manifests": {
+                "public": {
+                    "gid": "4987558170335442285",
+                    "size": "2761683275",
+                    "download": "2556317024"
+                }
+            },
+            "decryptionkey": "824d34a31ccf83d65c7ecba337b0741bec4d41d4c0db9442edfb8d5de438ac3e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18949800",
+                "timeupdated": "1750509925"
+            }
+        }
+    }
+}
