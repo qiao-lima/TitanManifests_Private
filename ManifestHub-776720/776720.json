@@ -1,0 +1,84 @@
+{
+    "appid": 776720,
+    "name": "Dungeon Gambit Boy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 19:51:43",
+    "change_number": 30148832,
+    "depot": {
+        "baselanguages": "english,spanish",
+        "hasdepotsindlc": "1",
+        "776721": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4300034512618413324",
+                    "size": "177515782",
+                    "download": "80915840"
+                }
+            },
+            "decryptionkey": "1bfda09ae8ac938285cf9f4a2c61045f0087fe506c7545c0177d2d17857cf17e"
+        },
+        "776722": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6512821511980843856",
+                    "size": "203207913",
+                    "download": "81510176"
+                }
+            },
+            "decryptionkey": "8cda8d373e1d35d89feed44fb561ddfa13fadbd61fd2aaa1f502d4fcc31537b6"
+        },
+        "776723": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "283983163235975760",
+                    "size": "226205895",
+                    "download": "86816240"
+                }
+            },
+            "decryptionkey": "b1817bc73d57d7fbb10f2986d4b18430dac55c2943204c304af98c01f333989d"
+        },
+        "776724": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5417170862937941125",
+                    "size": "159082238",
+                    "download": "79155248"
+                }
+            },
+            "decryptionkey": "5585cdf851eac74feaf02790a43ab479fb534cb60f51f51ed0899933d77f86ee"
+        },
+        "814720": {
+            "dlcappid": "814720",
+            "manifests": {
+                "public": {
+                    "gid": "4980796920049881163",
+                    "size": "25276086",
+                    "download": "24457664"
+                }
+            },
+            "decryptionkey": "14827188c794cbb779e05728dddf64692f110cb326eddb9c2a1f1c6bc00a1d3c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2679411",
+                "timeupdated": "1523471720"
+            }
+        }
+    }
+}
