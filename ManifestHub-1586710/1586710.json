@@ -1,0 +1,27 @@
+{
+    "appid": 1586710,
+    "name": "Cafe Maid - Hentai Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 19:15:14",
+    "change_number": 29564579,
+    "depot": {
+        "1586711": {
+            "manifests": {
+                "public": {
+                    "gid": "8125893973237632870",
+                    "size": "1269150816",
+                    "download": "289017792"
+                }
+            },
+            "decryptionkey": "93406ab674f96958167baea5b0807fd423030e320a691ef5dc13ed15db87ac33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17883323",
+                "timeupdated": "1743082489"
+            }
+        }
+    }
+}
