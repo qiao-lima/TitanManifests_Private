@@ -1,0 +1,27 @@
+{
+    "appid": 1476230,
+    "name": "Elmarion: the Lost Temple",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 03:14:35",
+    "change_number": 29797751,
+    "depot": {
+        "1476231": {
+            "manifests": {
+                "public": {
+                    "gid": "1376951238152180192",
+                    "size": "3652637117",
+                    "download": "1297613840"
+                }
+            },
+            "decryptionkey": "ebbead00bdef72c94b870eddc1c4bc1a5587be2f2a932a136410fd8780174c39"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15887692",
+                "timeupdated": "1727781208"
+            }
+        }
+    }
+}
