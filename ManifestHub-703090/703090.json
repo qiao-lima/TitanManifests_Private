@@ -1,0 +1,42 @@
+{
+    "appid": 703090,
+    "name": "冒险之路(Adventure Road)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 13:15:04",
+    "change_number": 29786430,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "703091": {
+            "manifests": {
+                "public": {
+                    "gid": "6646603438339237609",
+                    "size": "181689499",
+                    "download": "157570768"
+                }
+            },
+            "decryptionkey": "a62cc44031c6ee12e15c4d67ee48a49d796ec56039854e25e8a4a70c8de1a263"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2071779",
+                "timeupdated": "1503882988"
+            }
+        }
+    }
+}
