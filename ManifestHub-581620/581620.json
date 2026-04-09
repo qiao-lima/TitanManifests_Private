@@ -1,0 +1,35 @@
+{
+    "appid": "581620",
+    "type": "Game",
+    "name": "Bold New World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 19:20:30",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "581621": {
+            "manifests": {
+                "public": {
+                    "gid": "1081944221568158394",
+                    "size": "371248313",
+                    "download": "163443024"
+                }
+            },
+            "decryptionkey": "11e0a38eef81ab42030364ce0eb70d10b9117ca12b66642de3de7cfcf2bbc48e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1569196",
+                "timeupdated": "1484395225"
+            }
+        }
+    },
+    "access_token": 11731577127155321002
+}
