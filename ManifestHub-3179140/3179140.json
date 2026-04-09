@@ -1,0 +1,44 @@
+{
+    "appid": 3179140,
+    "name": "HR Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 08:40:15",
+    "change_number": 30181364,
+    "depot": {
+        "baselanguages": "english,indonesian",
+        "3179141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1260386826080250357",
+                    "size": "2448141675",
+                    "download": "376510848"
+                }
+            },
+            "decryptionkey": "339c1bf9c91692d7738fa88e5756ca66dc42a5d5ddb3fa9f8d0b951c0d663a42"
+        },
+        "3179142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7714240719217267930",
+                    "size": "2474761109",
+                    "download": "363938416"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18823274",
+                "timeupdated": "1750848233"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
