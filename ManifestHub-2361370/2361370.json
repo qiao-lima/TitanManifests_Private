@@ -1,0 +1,31 @@
+{
+    "appid": 2361370,
+    "name": "Sandbox:God Simulator",
+    "type": "Game",
+    "schinese_name": "沙盒:上帝模拟器",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 19:52:46",
+    "change_number": 29607198,
+    "depot": {
+        "baselanguages": "schinese",
+        "2361371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5919277500429062298",
+                    "size": "324805134",
+                    "download": "101931984"
+                }
+            },
+            "decryptionkey": "3f70cde6a15b5a6c85735f91527f80e2f7ec50f1b701ea9426299cd68b1079a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18896757",
+                "timeupdated": "1750161160"
+            }
+        }
+    }
+}
