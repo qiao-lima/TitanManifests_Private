@@ -1,0 +1,41 @@
+{
+    "appid": 2773890,
+    "name": "Gravity Dash",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-08 20:40:53",
+    "change_number": 29955953,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2773891": {
+            "manifests": {
+                "public": {
+                    "gid": "8298399338786788449",
+                    "size": "508480839",
+                    "download": "348615824"
+                }
+            },
+            "decryptionkey": "9637b644ff129422cd99a92cea8d7f63047d5bcc5b6b806019bc4273594b7654"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18004648",
+                "timeupdated": "1743979564"
+            }
+        }
+    }
+}
