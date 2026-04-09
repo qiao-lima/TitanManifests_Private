@@ -1,0 +1,42 @@
+{
+    "appid": 2859390,
+    "name": "Drive Beyond Horizons Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 19:26:51",
+    "change_number": 29954957,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2859391": {
+            "manifests": {
+                "public": {
+                    "gid": "5217372917809355627",
+                    "size": "5164791312",
+                    "download": "4836339664"
+                }
+            },
+            "decryptionkey": "f1a0239daf48c3b38078c92d85db817f0aa01bcce368a39f7e44d2b0e7cb23de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18283359",
+                "timeupdated": "1745946050"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
