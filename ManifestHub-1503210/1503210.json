@@ -1,0 +1,28 @@
+{
+    "appid": "1503210",
+    "type": "Game",
+    "name": "Jedi siege",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 21:31:32",
+    "depot": {
+        "1503211": {
+            "manifests": {
+                "public": {
+                    "gid": "3938551661229668941",
+                    "size": "737550702",
+                    "download": "246623392"
+                }
+            },
+            "decryptionkey": "01aab5c6dbd03f0482dbd3fae7f2af1c32c06a1632461a7ae36f7950b779dfcd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5975135",
+                "timeupdated": "1608116577"
+            }
+        }
+    },
+    "access_token": 5094065844217637824
+}
