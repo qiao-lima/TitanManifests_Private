@@ -1,0 +1,29 @@
+{
+    "appid": "994890",
+    "type": "Game",
+    "name": "Metro Simulator",
+    "schinese_name": "地铁模拟器",
+    "isfreeapp": "0",
+    "change_number": "28981994",
+    "update_time": "2025-05-14 22:50:55",
+    "depot": {
+        "994891": {
+            "manifests": {
+                "public": {
+                    "gid": "3448608173601056676",
+                    "size": "7288644077",
+                    "download": "1664230000"
+                }
+            },
+            "decryptionkey": "1eae813fce1fa8fde4840d8e8ddba76a65f3c8fd14450aeffee5d63d8fff6f29"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8686372",
+                "timeupdated": "1651780366"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 2839525399956300505
+}
