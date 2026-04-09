@@ -1,0 +1,28 @@
+{
+    "appid": 2196640,
+    "name": "Engine Evolution 2023",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-14 20:21:06",
+    "change_number": 30055095,
+    "depot": {
+        "2196641": {
+            "manifests": {
+                "public": {
+                    "gid": "2095125257113186024",
+                    "size": "2404866168",
+                    "download": "1117871136"
+                }
+            },
+            "decryptionkey": "a64a205697c06f933de1cf5e70be685c87caf19c41315aac1f15e45ea29df8a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17873092",
+                "timeupdated": "1743023179"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
