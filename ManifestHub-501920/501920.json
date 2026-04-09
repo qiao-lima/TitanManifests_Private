@@ -1,0 +1,46 @@
+{
+    "appid": "501920",
+    "type": "Game",
+    "name": "Totem",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27208148",
+    "update_time": "2025-01-29 05:32:51",
+    "depot": {
+        "501921": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "450986811042043627",
+                    "size": "89937132",
+                    "download": "37277648"
+                }
+            },
+            "decryptionkey": "45e9969edc75dcd33e563ca368f57f4e1561c74281246d062a39a6cd3ef764c9"
+        },
+        "501922": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6449469558868702831",
+                    "size": "75875990",
+                    "download": "33233616"
+                }
+            },
+            "decryptionkey": "27d7ec076ab4ac784a3bb7524faae51299af5000735873d8afc0d0bc59bc29b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1570463",
+                "timeupdated": "1484508118"
+            }
+        }
+    },
+    "access_token": 16859440738324502780
+}
