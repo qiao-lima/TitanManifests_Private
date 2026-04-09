@@ -1,0 +1,28 @@
+{
+    "appid": 12170,
+    "name": "Grand Theft Auto",
+    "type": "Game",
+    "schinese_name": "侠盗猎车手",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 11:14:10",
+    "change_number": 29620919,
+    "depot": {
+        "12171": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1922267301219583269",
+                    "size": "383379090",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f523eb0130744b205f404b47152caab582fa25f578d81e201e2d98b271d23f66"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "252037"
+            }
+        }
+    }
+}
