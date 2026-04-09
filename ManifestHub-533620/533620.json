@@ -1,0 +1,28 @@
+{
+    "appid": "533620",
+    "type": "Game",
+    "name": "STARUSHKO LUB",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 19:15:18",
+    "depot": {
+        "533621": {
+            "manifests": {
+                "public": {
+                    "gid": "3328045247421434293",
+                    "size": "65862642",
+                    "download": "65346672"
+                }
+            },
+            "decryptionkey": "d96d3c2f44e100d5b5bbe86b57299161ba90e96f11064e55410b3f6deb9db4b8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1412041",
+                "timeupdated": "1477373798"
+            }
+        }
+    },
+    "access_token": 7480273608504317811
+}
