@@ -1,0 +1,41 @@
+{
+    "appid": 2320620,
+    "name": "The Guard",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 08:38:19",
+    "change_number": 30126646,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2320621": {
+            "manifests": {
+                "public": {
+                    "gid": "8810332711936415552",
+                    "size": "5052827413",
+                    "download": "1988036592"
+                }
+            },
+            "decryptionkey": "78154f4491b862a2f7181bf4f0efc242dad537308dbee2acb5a1d78ef86a58f7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10975231",
+                "timeupdated": "1681206362"
+            }
+        }
+    }
+}
