@@ -1,0 +1,59 @@
+{
+    "appid": 392080,
+    "name": "Wayward Terran Frontier: Zero Falls",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 05:51:02",
+    "change_number": 30160898,
+    "depot": {
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "392081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6261654740073730675",
+                    "size": "1870209808",
+                    "download": "535307264"
+                },
+                "secretmp": {
+                    "gid": "68967820064871646",
+                    "size": "1897346197",
+                    "download": "537551840"
+                },
+                "unstable": {
+                    "gid": "68967820064871646",
+                    "size": "1897346197",
+                    "download": "537551840"
+                }
+            },
+            "decryptionkey": "4a74d56912dd9fe591d0094518e60e586707d58f8aa6977bd718d265563c3939"
+        },
+        "workshopdepot": "392080",
+        "branches": {
+            "public": {
+                "buildid": "15478173",
+                "timeupdated": "1724459808"
+            },
+            "secretmp": {
+                "buildid": "19168707",
+                "description": "Multiplayer test",
+                "timeupdated": "1752112000"
+            },
+            "unstable": {
+                "buildid": "19168707",
+                "description": "unstable alpha branch",
+                "timeupdated": "1752111952"
+            }
+        },
+        "workshopdepotdecryptionkey": "346178b6018f96b6f482526c91ff311e302615f8c77506cea4006f3d19331e29"
+    }
+}
