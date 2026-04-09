@@ -1,0 +1,52 @@
+{
+    "appid": 2348730,
+    "name": "Hauntsville",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 19:11:56",
+    "change_number": 30074537,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2348732": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6053386649544135185",
+                    "size": "9099963963",
+                    "download": "8415424960"
+                }
+            },
+            "decryptionkey": "1db34303394ca3a9c48e61c3cf6eb8d9a64a4b95765c951f7a7ec1561977f6e3"
+        },
+        "2348731": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18963243",
+                "timeupdated": "1750956047"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
