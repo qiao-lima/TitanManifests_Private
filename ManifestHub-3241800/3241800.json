@@ -1,0 +1,42 @@
+{
+    "appid": 3241800,
+    "name": "Hordes of Hunger Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:18:37",
+    "change_number": 29629496,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3241801": {
+            "manifests": {
+                "public": {
+                    "gid": "1412518170393596781",
+                    "size": "5602189389",
+                    "download": "4930668112"
+                }
+            },
+            "decryptionkey": "f67f16d23f6c92722bab2d57ba42b5d503f83219daeecc7d682e834d03196847"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18580057",
+                "timeupdated": "1748431703"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
