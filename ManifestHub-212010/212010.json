@@ -1,0 +1,28 @@
+{
+    "appid": 212010,
+    "name": "Galaxy on Fire 2™ Full HD",
+    "type": "Game",
+    "schinese_name": "浴火银河2 全高清版",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 22:34:03",
+    "change_number": 30077513,
+    "depot": {
+        "212011": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2920460141515753464",
+                    "size": "1726490068",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "dd3488556b41c0ad54abb267eba9145ec5f93d5f199b561716c73865716b111a"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "12123"
+            }
+        }
+    }
+}
