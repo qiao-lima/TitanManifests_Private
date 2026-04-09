@@ -1,0 +1,29 @@
+{
+    "appid": 2055500,
+    "name": "Repetendium",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 21:53:11",
+    "change_number": 29550820,
+    "depot": {
+        "2055501": {
+            "manifests": {
+                "public": {
+                    "gid": "4826206329610317809",
+                    "size": "258083805",
+                    "download": "171650688"
+                }
+            },
+            "decryptionkey": "4096df1de145ad379a91c2a5f525747c3f99f4224796bc8d2d9a57fbea767dd2"
+        },
+        "workshopdepot": "2055500",
+        "branches": {
+            "public": {
+                "buildid": "18856983",
+                "timeupdated": "1749822781"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
