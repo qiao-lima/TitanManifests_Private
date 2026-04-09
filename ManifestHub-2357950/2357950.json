@@ -1,0 +1,29 @@
+{
+    "appid": 2357950,
+    "name": "Q2 HUMANITY",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 02:00:22",
+    "change_number": 30022080,
+    "depot": {
+        "2357951": {
+            "manifests": {
+                "public": {
+                    "gid": "8424063774115373991",
+                    "size": "820152131",
+                    "download": "431424112"
+                }
+            },
+            "decryptionkey": "b21fb59ff5169506f2771ddf697eba0e81c51727fc5c09ca9f9c23e258d25fc8"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18921049",
+                "timeupdated": "1752058292"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
