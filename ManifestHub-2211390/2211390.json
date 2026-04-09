@@ -1,0 +1,42 @@
+{
+    "appid": 2211390,
+    "name": "Time Survivors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:14:16",
+    "change_number": 30056499,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2211391": {
+            "manifests": {
+                "public": {
+                    "gid": "4388191903364373840",
+                    "size": "699013849",
+                    "download": "556953280"
+                }
+            },
+            "decryptionkey": "534648749f9fc0b9cab2bd2589d21f50e686281409de9d22a587254fc60db0de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13596525",
+                "timeupdated": "1709300309"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
