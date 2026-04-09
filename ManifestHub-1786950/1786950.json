@@ -1,0 +1,59 @@
+{
+    "appid": 1786950,
+    "name": "Treason",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 23:33:37",
+    "change_number": 30195003,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1786951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8134827810829819714",
+                    "size": "4542070977",
+                    "download": "2374027328"
+                }
+            },
+            "decryptionkey": "e9907e380e9ccfb4110a4d845137081b8780b7ac398193536fb0db0a8c962cd5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18903926",
+                "timeupdated": "1750198295"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
