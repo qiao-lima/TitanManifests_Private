@@ -1,0 +1,67 @@
+{
+    "appid": 1745170,
+    "name": "Primitier",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 08:15:57",
+    "change_number": 29807997,
+    "depot": {
+        "1745171": {
+            "manifests": {
+                "public": {
+                    "gid": "4288741659379077394",
+                    "size": "238775977",
+                    "download": "126139328"
+                },
+                "v1.11.0": {
+                    "gid": "7578827092144373612",
+                    "size": "223891642",
+                    "download": "121844080"
+                },
+                "v1.8.0": {
+                    "gid": "7504875825796450041",
+                    "size": "246224383",
+                    "download": "130192256"
+                },
+                "v1.6.1": {
+                    "gid": "7172616563175436015",
+                    "size": "207735762",
+                    "download": "108149504"
+                },
+                "beta": {
+                    "gid": "4288741659379077394",
+                    "size": "238775977",
+                    "download": "126139328"
+                }
+            },
+            "decryptionkey": "59731fa1fdd5282e2dd0cde37e234e85860bdb6821c29df14338a6dcb190a40c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18661711",
+                "timeupdated": "1748612601"
+            },
+            "v1.11.0": {
+                "buildid": "16390655",
+                "description": "old",
+                "timeupdated": "1745069702"
+            },
+            "v1.8.0": {
+                "buildid": "12738739",
+                "description": "old",
+                "timeupdated": "1714374826"
+            },
+            "v1.6.1": {
+                "buildid": "11360702",
+                "description": "old",
+                "timeupdated": "1698558643"
+            },
+            "beta": {
+                "buildid": "18661711",
+                "description": "test version (saving data is not recommended)",
+                "timeupdated": "1748537616"
+            }
+        }
+    }
+}
