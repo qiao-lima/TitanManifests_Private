@@ -1,0 +1,28 @@
+{
+    "appid": "2213420",
+    "type": "Game",
+    "name": "Recoil VS The World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25617962",
+    "update_time": "2024-10-11 15:50:25",
+    "depot": {
+        "2213421": {
+            "manifests": {
+                "public": {
+                    "gid": "4066993386762762992",
+                    "size": "81159826",
+                    "download": "23519216"
+                }
+            },
+            "decryptionkey": "a7c0b231ebee596b5d243bb04f0e8bdc647e31ed623cd81a62cd2a8d8937105d"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "10225576",
+                "timeupdated": "1672257951"
+            }
+        }
+    }
+}
