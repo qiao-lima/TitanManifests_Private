@@ -1,0 +1,51 @@
+{
+    "appid": 2060240,
+    "name": "Quriocity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 14:19:10",
+    "change_number": 29411488,
+    "depot": {
+        "2060241": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5605095261224090069",
+                    "size": "3259688548",
+                    "download": "2263003296"
+                }
+            },
+            "decryptionkey": "6225668ba7538cb3bcddeaaddcd65be5ae2dfd1aea28b4af83ea59ce042d2caf"
+        },
+        "2060242": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "2060243": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4203346963168980910",
+                    "size": "3526969999",
+                    "download": "2420774384"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18761756",
+                "timeupdated": "1749190746"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
