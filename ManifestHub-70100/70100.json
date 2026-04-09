@@ -1,0 +1,91 @@
+{
+    "appid": 70100,
+    "name": "Hacker Evolution",
+    "type": "Game",
+    "schinese_name": "黑客进化",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:11:06",
+    "change_number": 29185350,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "70101": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7275112196583536469",
+                    "size": "107545454",
+                    "download": "886724953863"
+                }
+            },
+            "decryptionkey": "06b05e068f33e06773343c90c6948e7ae9f32aff611280c0523cb9d479980d5f"
+        },
+        "70102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4362086146941072636",
+                    "size": "105051792",
+                    "download": "221485910817"
+                }
+            },
+            "decryptionkey": "b6aeb906d95f362b5b09e1a032f5e400a3665bbab8b7bc9346d05c6ecd2e4f33"
+        },
+        "70103": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1850960117212996213",
+                    "size": "101873210",
+                    "download": "188317502291"
+                }
+            },
+            "decryptionkey": "53215d776c9a31d6d84baf7e1efeb811d96ace33b8f2cf1886fc5abb45d63446"
+        },
+        "250220": {
+            "manifests": {
+                "public": {
+                    "gid": "7191796326700050288",
+                    "size": "23243853",
+                    "download": "10721790625"
+                }
+            },
+            "dlcappid": "250220",
+            "decryptionkey": "26c2c6b21a0d0eee84e659982be1060b4fefb437ae70b9c74715c41aca514b95"
+        },
+        "259230": {
+            "manifests": {
+                "public": {
+                    "gid": "6761747404327839674",
+                    "size": "1725198",
+                    "download": "16146938621"
+                }
+            },
+            "dlcappid": "259230",
+            "decryptionkey": "a0607e185a1ff7e00bf34588c8830b593004dfb1cb3e7d33cded071858817920"
+        },
+        "279820": {
+            "manifests": {
+                "public": {
+                    "gid": "3505194005256628946",
+                    "size": "1729406",
+                    "download": "7208030336"
+                }
+            },
+            "dlcappid": "279820",
+            "decryptionkey": "53700b01dfd902caef7194f8ed6ba7f1f9160bb789936f7f374f9bd1e843c9bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "357351"
+            }
+        }
+    }
+}
