@@ -1,0 +1,27 @@
+{
+    "appid": 3653910,
+    "name": "The Old Woman | 無言老婆",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 04:52:39",
+    "change_number": 30142926,
+    "depot": {
+        "3653911": {
+            "manifests": {
+                "public": {
+                    "gid": "7330550051993515958",
+                    "size": "1810638612",
+                    "download": "533823744"
+                }
+            },
+            "decryptionkey": "98e8bd33910992f60abadf4af8054136615bb7aaacc3de8abeb51a3e0d95e2cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18354419",
+                "timeupdated": "1746503152"
+            }
+        }
+    }
+}
