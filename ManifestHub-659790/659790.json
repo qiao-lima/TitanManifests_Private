@@ -1,0 +1,30 @@
+{
+    "appid": 659790,
+    "name": "Hero of the Galactic Core",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 05:23:22",
+    "change_number": 30082089,
+    "depot": {
+        "659791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3847129351438232015",
+                    "size": "96381861",
+                    "download": "74156224"
+                }
+            },
+            "decryptionkey": "1f9dee050ce7ebd5e32d9eb9af854f3b86cc82817941151e8915c46f0e3a06e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19239546",
+                "timeupdated": "1752639796"
+            }
+        }
+    }
+}
