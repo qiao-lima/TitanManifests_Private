@@ -1,0 +1,27 @@
+{
+    "appid": "1648770",
+    "type": "Music",
+    "name": "Paradise Lost Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28628867",
+    "update_time": "2025-04-24 03:06:20",
+    "depot": {
+        "1648771": {
+            "manifests": {
+                "public": {
+                    "gid": "989057310332534337",
+                    "size": "52195160",
+                    "download": "51595696"
+                }
+            },
+            "decryptionkey": "1fbbcbb6f971c9ee39c20d67df69e404ba2dfac9e46d4db013c71298dda47385"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6760826",
+                "timeupdated": "1622026702"
+            }
+        }
+    }
+}
