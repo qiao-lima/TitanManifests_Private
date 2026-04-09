@@ -1,0 +1,71 @@
+{
+    "appid": 488310,
+    "name": "Eleven Table Tennis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 17:59:06",
+    "change_number": 30072951,
+    "depot": {
+        "488311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5127102588698978734",
+                    "size": "3771829915",
+                    "download": "817845632"
+                },
+                "beta": {
+                    "gid": "9146825273900778841",
+                    "size": "1525586181",
+                    "download": "749715296"
+                },
+                "legacy": {
+                    "gid": "1077533767642714479",
+                    "size": "4264034919",
+                    "download": "1642126736"
+                },
+                "preview": {
+                    "gid": "8291503729041581908",
+                    "size": "3771832024",
+                    "download": "817775472"
+                },
+                "previousversion": {
+                    "gid": "6193030391119222747",
+                    "size": "3741231299",
+                    "download": "803794672"
+                }
+            },
+            "decryptionkey": "6a8f5a73fe66474a12587100029fef4b0c2a1344323ae6d0167708fefb00b7b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19216942",
+                "timeupdated": "1752502114"
+            },
+            "beta": {
+                "buildid": "7975346",
+                "description": "this is a public beta. I will be testing things here before pushing them to the preview and live branches",
+                "timeupdated": "1641402399"
+            },
+            "legacy": {
+                "buildid": "4493557",
+                "description": "the last pre-revamp version",
+                "timeupdated": "1590155985"
+            },
+            "preview": {
+                "buildid": "19232983",
+                "description": "this is what is about to be pushed.",
+                "timeupdated": "1752598742"
+            },
+            "previousversion": {
+                "buildid": "18481363",
+                "description": "this is a channel holding the previous stable version. This may not be compatible with the multiplayer system.",
+                "timeupdated": "1752502070"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
