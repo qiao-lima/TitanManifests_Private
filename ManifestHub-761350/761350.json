@@ -1,0 +1,46 @@
+{
+    "appid": 761350,
+    "name": "Booth: A Dystopian Adventure",
+    "type": "Game",
+    "schinese_name": "空箱",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:48:12",
+    "change_number": 29177182,
+    "depot": {
+        "baselanguages": "",
+        "761351": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3825214163952175035",
+                    "size": "429559441",
+                    "download": "325805248"
+                }
+            },
+            "decryptionkey": "6e411f2e8c761bc526f4a71452834778a68df565cdac944cf484de20c5e8a975"
+        },
+        "761352": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6722846910719676383",
+                    "size": "439961857",
+                    "download": "327777936"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13123184",
+                "timeupdated": "1704773193"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
