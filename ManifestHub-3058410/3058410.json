@@ -1,0 +1,40 @@
+{
+    "appid": 3058410,
+    "name": "Альтушка для скуфа: Ещё, ещё!",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 07:02:00",
+    "change_number": 30200279,
+    "depot": {
+        "3058410": {
+            "dlcappid": "3058410",
+            "manifests": {
+                "public": {
+                    "gid": "5356024748972316051",
+                    "size": "1166909062",
+                    "download": "991204544"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3058411": {
+            "manifests": {
+                "public": {
+                    "gid": "5006175590485938309",
+                    "size": "1166909062",
+                    "download": "991455552"
+                }
+            },
+            "dlcappid": "3058410",
+            "decryptionkey": "ef73e60b02704954409f5cf035298ecbe25d819a104630c1054a015221f98109"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19324679",
+                "timeupdated": "1753250514"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
