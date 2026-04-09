@@ -1,0 +1,57 @@
+{
+    "appid": "1257810",
+    "type": "Game",
+    "name": "I'm on Observation Duty 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28610883",
+    "update_time": "2025-04-23 07:13:21",
+    "depot": {
+        "1257811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3803337261581421332",
+                    "size": "1030774452",
+                    "download": "369281360"
+                }
+            },
+            "decryptionkey": "ca283519b62168c290e90922f82c8b70f8380777562c183b87c191d39a97440c"
+        },
+        "1257812": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1656785001840277025",
+                    "size": "1097714380",
+                    "download": "383342624"
+                }
+            },
+            "decryptionkey": "c03f6eb51c153928d5f3aaa3d122d8e41e42c932c257b74c66654bc3c60f9013"
+        },
+        "1257813": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "50330623995641620",
+                    "size": "1055962853",
+                    "download": "377125328"
+                }
+            },
+            "decryptionkey": "fbe9cb86088e9a4a3dff2aa4dd48dd4351a4fb173f1562cd97d3c6ac89b4f3d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9728272",
+                "timeupdated": "1665839141"
+            }
+        }
+    }
+}
