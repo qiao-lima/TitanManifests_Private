@@ -1,0 +1,54 @@
+{
+    "appid": 2481670,
+    "name": "Dino Path Trail",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 18:05:32",
+    "change_number": 29993250,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2481671": {
+            "manifests": {
+                "public": {
+                    "gid": "5763273001283277228",
+                    "size": "4617089590",
+                    "download": "687397152"
+                }
+            },
+            "decryptionkey": "2b9abb97c4d699ea90a6bbce12125533155940f97c0ba1dc3c65526cd4c44760"
+        },
+        "3717410": {
+            "dlcappid": "3717410",
+            "manifests": {
+                "public": {
+                    "gid": "1884911335547207936",
+                    "size": "37582551",
+                    "download": "37127600"
+                }
+            },
+            "config": {
+                "optionaldlc": "3717410"
+            },
+            "decryptionkey": "a77679983de4ccdb9cd345fc9944899e9f3367787ba3f5a1c96b8ccecb283305"
+        },
+        "3717480": {
+            "manifests": {
+                "public": {
+                    "gid": "7501541930006323477",
+                    "size": "114397232",
+                    "download": "110707344"
+                }
+            },
+            "decryptionkey": "e437367b9af9ca77ee759f2baa06e636e6fff1640112d24b77fd62990a416037"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18994700",
+                "timeupdated": "1750853438"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
