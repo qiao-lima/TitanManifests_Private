@@ -1,0 +1,60 @@
+{
+    "appid": 2775160,
+    "name": "Noah's Dilemma",
+    "type": "Game",
+    "schinese_name": "诺亚的困境",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 05:29:42",
+    "change_number": 30179349,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2775161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4417117084222382099",
+                    "size": "1023623832",
+                    "download": "279971184"
+                },
+                "beta": {
+                    "gid": "4417117084222382099",
+                    "size": "1023623832",
+                    "download": "279971184"
+                }
+            },
+            "decryptionkey": "af85e329f1ddc0af6d743166c3276ace0d4cbc20bfe83415e6d097984de6247c"
+        },
+        "2775162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2407802524382922282",
+                    "size": "903165653",
+                    "download": "276254752"
+                },
+                "beta": {
+                    "gid": "2407802524382922282",
+                    "size": "903165653",
+                    "download": "276254752"
+                }
+            }
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "19309902",
+                "timeupdated": "1753158558"
+            },
+            "beta": {
+                "buildid": "19309902",
+                "description": "For testing possibly unstable new version.",
+                "timeupdated": "1753158517"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
