@@ -1,0 +1,52 @@
+{
+    "appid": 2216970,
+    "name": "Hand Simulator: Aliens",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 15:40:24",
+    "change_number": 29951293,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2216971": {
+            "manifests": {
+                "public": {
+                    "gid": "4718568456469074131",
+                    "size": "5633834951",
+                    "download": "5130399536"
+                },
+                "development": {
+                    "gid": "6429693415729668122",
+                    "size": "5144207464",
+                    "download": "4944081712"
+                }
+            },
+            "decryptionkey": "001cc9a0a06b29db7549092d91d41b5a037ef5c5164c66bfb8c31041383d0975"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12776367",
+                "timeupdated": "1700699237"
+            },
+            "development": {
+                "buildid": "19055981",
+                "description": "dev",
+                "timeupdated": "1751315276"
+            }
+        }
+    }
+}
