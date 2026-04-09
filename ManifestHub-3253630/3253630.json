@@ -1,0 +1,44 @@
+{
+    "appid": 3253630,
+    "name": "Gal Guardians: Servants of the Dark",
+    "type": "Game",
+    "schinese_name": "少女魔役",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 04:20:45",
+    "change_number": 30219086,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3253631": {
+            "manifests": {
+                "public": {
+                    "gid": "7509276548910689218",
+                    "size": "4634072356",
+                    "download": "2325747536"
+                }
+            },
+            "decryptionkey": "35b657ff529e35bc5bc2480eda73c452361b0e5875c1a66000bd08f5da5789a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18920325",
+                "timeupdated": "1751209019"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
