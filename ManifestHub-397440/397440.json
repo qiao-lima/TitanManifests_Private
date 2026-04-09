@@ -1,0 +1,100 @@
+{
+    "appid": 397440,
+    "name": "Lost Legends: The Weeping Woman Collector's Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 23:13:16",
+    "change_number": 29775296,
+    "depot": {
+        "397441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "573784508378466653",
+                    "size": "752279250",
+                    "download": "588193712"
+                }
+            },
+            "decryptionkey": "a79a3ecf52ceb4085842716134275728829dd0de562a2210724438280a06c819"
+        },
+        "397442": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2609044993578901178",
+                    "size": "777830988",
+                    "download": "626017152"
+                }
+            },
+            "decryptionkey": "5a3765122d777d19585ff57b38e6f17ac20eb174b31ee80fd84e0e3e015e0b65"
+        },
+        "397443": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7289369982284223929",
+                    "size": "778054258",
+                    "download": "623922368"
+                }
+            },
+            "decryptionkey": "0d5a8fe7331e4c4ecb10e5518bb5759dd29e45e8f72fce26a02891053e0bd9eb"
+        },
+        "397444": {
+            "config": {
+                "language": "dutch",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2347746109217889558",
+                    "size": "779862437",
+                    "download": "618108304"
+                }
+            },
+            "decryptionkey": "02101494eb46ea33be9ccc251e3dcf5e31d49187a545fadac77c43c7ed419011"
+        },
+        "397445": {
+            "config": {
+                "language": "czech",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1550226861583428823",
+                    "size": "786985817",
+                    "download": "627750336"
+                }
+            },
+            "decryptionkey": "98ed99f5486e08d2829cc8d4c2e65d1d8003ca5976704a22f5b838cd9530585e"
+        },
+        "397446": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8404044412911133288",
+                    "size": "787409781",
+                    "download": "628167920"
+                }
+            },
+            "decryptionkey": "e6da1f6b25f1c1bdd73ba6a7f2bff905663c6e44e4cdcf52a05ee8fc53c9b81f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6521359",
+                "timeupdated": "1618093731"
+            }
+        }
+    }
+}
