@@ -1,0 +1,57 @@
+{
+    "appid": 1350250,
+    "name": "Queen's Brothel",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 03:18:00",
+    "change_number": 29333186,
+    "depot": {
+        "1350251": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6156876487710854332",
+                    "size": "263014014",
+                    "download": "199730128"
+                }
+            },
+            "decryptionkey": "49eeb392f2d8dd225d52aeede1f55445a3d345556f1fa5c615d9b12bb2c62797"
+        },
+        "1350252": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1837977439402981546",
+                    "size": "300311536",
+                    "download": "210937024"
+                }
+            }
+        },
+        "1350253": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "68646832913619346",
+                    "size": "264400672",
+                    "download": "201034256"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18605769",
+                "timeupdated": "1748233365"
+            }
+        }
+    }
+}
