@@ -1,0 +1,32 @@
+{
+    "appid": 1715030,
+    "name": "Godstone",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 16:01:54",
+    "change_number": 29990769,
+    "depot": {
+        "baselanguages": "english",
+        "1715031": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8620441444855228055",
+                    "size": "748382035",
+                    "download": "547875344"
+                }
+            },
+            "decryptionkey": "d56b94fdf0aee88da1c34da598e96c56dc6c68144014fd78bc8af85b082a2bd2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18852409",
+                "timeupdated": "1749801508"
+            }
+        }
+    }
+}
