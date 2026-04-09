@@ -1,0 +1,37 @@
+{
+    "appid": 400040,
+    "name": "ShareX",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-08 00:58:47",
+    "change_number": 29437560,
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "400041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5703729309839812907",
+                    "size": "186096747",
+                    "download": "58284560"
+                }
+            },
+            "decryptionkey": "c11cc8fc37ef0584f8e81955b8d6b5dd1f9ed6f8519cc44b5eedc435da815653"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18696468",
+                "timeupdated": "1748829697"
+            }
+        }
+    }
+}
