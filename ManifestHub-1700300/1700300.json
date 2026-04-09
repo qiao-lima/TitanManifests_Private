@@ -1,0 +1,82 @@
+{
+    "appid": 1700300,
+    "name": "World Warfare & Economics",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 14:58:55",
+    "change_number": 30154861,
+    "depot": {
+        "baselanguages": "english,german,french,russian",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1700301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "351841067737299265",
+                    "size": "7783437436",
+                    "download": "2530267088"
+                },
+                "public-beta": {
+                    "gid": "351841067737299265",
+                    "size": "7783437436",
+                    "download": "2530267088"
+                }
+            },
+            "decryptionkey": "9e302ff310351f40c8227c049200a023fa2b77f4a176710df7fe8293fa3857a3"
+        },
+        "1700302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3686657074104425849",
+                    "size": "7924365466",
+                    "download": "2359843104"
+                },
+                "public-beta": {
+                    "gid": "3686657074104425849",
+                    "size": "7924365466",
+                    "download": "2359843104"
+                }
+            },
+            "decryptionkey": "06f71b02f1f37f36dd084f67026abf8a2d02daae1c26d40df2247b68f1e31a79"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19291413",
+                "timeupdated": "1753019903"
+            },
+            "public-beta": {
+                "buildid": "19291413",
+                "description": "Public Beta",
+                "timeupdated": "1753019921"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
