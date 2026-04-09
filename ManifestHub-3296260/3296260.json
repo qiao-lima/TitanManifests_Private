@@ -1,0 +1,45 @@
+{
+    "appid": 3296260,
+    "name": "Cafe DReAMLAND",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 01:18:07",
+    "change_number": 30141302,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "3296261": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8579076066699165168",
+                    "size": "450939806",
+                    "download": "222726240"
+                }
+            },
+            "decryptionkey": "8215c059edf838cd50aaf2942c0307b92c521b70d8acbfcc2df9e0754cf2c874"
+        },
+        "3296263": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3095728994100453575",
+                    "size": "453503510",
+                    "download": "223130224"
+                }
+            },
+            "decryptionkey": "958541e33d3c7ddcf4f1c144af55908c7d01ed146c246d12605461adc9cfd95a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18878721",
+                "timeupdated": "1750055067"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
