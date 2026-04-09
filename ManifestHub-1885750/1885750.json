@@ -1,0 +1,118 @@
+{
+    "appid": 1885750,
+    "name": "Betrayal At Club Low",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 05:11:06",
+    "change_number": 29915689,
+    "depot": {
+        "1885751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6727245746526074428",
+                    "size": "2470619095",
+                    "download": "1037351872"
+                },
+                "mac-developer-mode": {
+                    "gid": "2516090867455506059",
+                    "size": "2470695547",
+                    "download": "1037395936"
+                },
+                "previous": {
+                    "gid": "2516090867455506059",
+                    "size": "2470695547",
+                    "download": "1037395936"
+                },
+                "test": {
+                    "gid": "6727245746526074428",
+                    "size": "2470619095",
+                    "download": "1037351872"
+                }
+            },
+            "decryptionkey": "0ea2e12757f59cf35002fee9b852c95e55bb1bd51993fd1e60aa6d878ffd667b"
+        },
+        "1885752": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8517749503720354106",
+                    "size": "2499773147",
+                    "download": "1044847520"
+                },
+                "mac-developer-mode": {
+                    "gid": "7246767098775851964",
+                    "size": "2610609386",
+                    "download": "1059569824"
+                },
+                "previous": {
+                    "gid": "8321313300217538767",
+                    "size": "2493552091",
+                    "download": "1044335808"
+                },
+                "test": {
+                    "gid": "8517749503720354106",
+                    "size": "2499773147",
+                    "download": "1044847520"
+                }
+            },
+            "decryptionkey": "6ed52c4a29c1293bc7955d04f8ccf55adebcf7e32caa56650edc6621a9c2222b"
+        },
+        "1885753": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1494130171407505883",
+                    "size": "2577682960",
+                    "download": "1103733088"
+                },
+                "mac-developer-mode": {
+                    "gid": "4467262827324815187",
+                    "size": "2577759548",
+                    "download": "1103777840"
+                },
+                "previous": {
+                    "gid": "4467262827324815187",
+                    "size": "2577759548",
+                    "download": "1103777840"
+                },
+                "test": {
+                    "gid": "1494130171407505883",
+                    "size": "2577682960",
+                    "download": "1103733088"
+                }
+            },
+            "decryptionkey": "059a0e56bddb0c9362e846e636b2390479686f5c08edc16c6c488a7ad6367289"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10850944",
+                "timeupdated": "1679686887"
+            },
+            "mac-developer-mode": {
+                "buildid": "10850395",
+                "description": "Workaround mode for Macs which graphics card issues.",
+                "timeupdated": "1679680551"
+            },
+            "previous": {
+                "buildid": "10501624",
+                "description": "previous build",
+                "timeupdated": "1681404205"
+            },
+            "test": {
+                "buildid": "10850944",
+                "description": "next build!",
+                "timeupdated": "1679683512"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
