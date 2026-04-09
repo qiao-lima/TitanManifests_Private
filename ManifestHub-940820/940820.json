@@ -1,0 +1,28 @@
+{
+    "appid": 940820,
+    "name": "Ultimate Fishing® Simulator - Aquarium DLC",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 12:14:05",
+    "change_number": 29679068,
+    "depot": {
+        "940820": {
+            "manifests": {
+                "public": {
+                    "gid": "2829027916904085296",
+                    "size": "8",
+                    "download": "64"
+                }
+            },
+            "dlcappid": "940820",
+            "decryptionkey": "f739f69b55d5d01569f2e43fbef282fa40b9d18c125741ad54263123d15c2610"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3224938",
+                "timeupdated": "1539865717"
+            }
+        }
+    }
+}
