@@ -1,0 +1,32 @@
+{
+    "appid": 2477270,
+    "name": "Lust's Cupid",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:10:33",
+    "change_number": 30213180,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian,latam",
+        "2477271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1418832092790912035",
+                    "size": "2544920683",
+                    "download": "918505120"
+                }
+            },
+            "decryptionkey": "1d68c2af57678e17e48935daee51d4fa41f10d47b531e6129d1d890d0436f2a5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19217819",
+                "timeupdated": "1752506776"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
