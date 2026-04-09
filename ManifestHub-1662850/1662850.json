@@ -1,0 +1,27 @@
+{
+    "appid": 1662850,
+    "name": "Koikari",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 18:25:14",
+    "change_number": 29309928,
+    "depot": {
+        "1662851": {
+            "manifests": {
+                "public": {
+                    "gid": "3127682747139351183",
+                    "size": "2857989496",
+                    "download": "2882298192"
+                }
+            },
+            "decryptionkey": "2a5ff486794d8d9833e8d82cccf24d84e36b77486204f24162aef47c6b63bd70"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7589694",
+                "timeupdated": "1635079290"
+            }
+        }
+    }
+}
