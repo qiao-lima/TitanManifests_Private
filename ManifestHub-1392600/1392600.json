@@ -1,0 +1,27 @@
+{
+    "appid": 1392600,
+    "name": "Kazakh Drive",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 18:32:53",
+    "change_number": 30053528,
+    "depot": {
+        "1392601": {
+            "manifests": {
+                "public": {
+                    "gid": "723772346050953633",
+                    "size": "183120840",
+                    "download": "67833856"
+                }
+            },
+            "decryptionkey": "be1bc62ed384af5d2ad1aa2996149a82dcfd569dfefaf22591d74081ec5129f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6023464",
+                "timeupdated": "1609278930"
+            }
+        }
+    }
+}
