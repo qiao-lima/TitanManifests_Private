@@ -1,0 +1,27 @@
+{
+    "appid": 1925230,
+    "name": "Sex Adventures - Mile High Club",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 03:59:47",
+    "change_number": 29591555,
+    "depot": {
+        "1925231": {
+            "manifests": {
+                "public": {
+                    "gid": "5689430845967567223",
+                    "size": "488897681",
+                    "download": "207592288"
+                }
+            },
+            "decryptionkey": "7cbe6c2ff75799e634165ff2786ec65949fc42a4ab433c207b30ed3f742d3b65"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8303831",
+                "timeupdated": "1646261770"
+            }
+        }
+    }
+}
