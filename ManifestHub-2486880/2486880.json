@@ -1,0 +1,27 @@
+{
+    "appid": 2486880,
+    "name": "Sex in the Sky",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 01:10:25",
+    "change_number": 30040139,
+    "depot": {
+        "2486881": {
+            "manifests": {
+                "public": {
+                    "gid": "5595859054314369368",
+                    "size": "220465835",
+                    "download": "134546800"
+                }
+            },
+            "decryptionkey": "3f0eb01a67ba3e3d348290d5a7b868b8597bcd308b660bacdd1cf8d1074008d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11736170",
+                "timeupdated": "1689759731"
+            }
+        }
+    }
+}
