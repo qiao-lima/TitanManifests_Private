@@ -1,0 +1,41 @@
+{
+    "appid": 1771600,
+    "name": "Fantasy Jigsaw Puzzle 5",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:17:23",
+    "change_number": 29162678,
+    "depot": {
+        "1771601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5091004809030820948",
+                    "size": "98767818",
+                    "download": "33757744"
+                }
+            },
+            "decryptionkey": "bfa88f519ed845d6625d1a2b4e71d391149966b3a073c052668e4074f0440684"
+        },
+        "1771680": {
+            "dlcappid": "1771680",
+            "manifests": {
+                "public": {
+                    "gid": "421995532128027825",
+                    "size": "2661455",
+                    "download": "2650640"
+                }
+            },
+            "decryptionkey": "68a1ac73cab567efdfc1e9e2f7f6dc752c8243cf286520e5234fabf775c541ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7420982",
+                "timeupdated": "1632515403"
+            }
+        }
+    }
+}
