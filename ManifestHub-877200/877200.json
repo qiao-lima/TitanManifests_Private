@@ -1,0 +1,56 @@
+{
+    "appid": 877200,
+    "name": "Zero Caliber VR",
+    "type": "Game",
+    "schinese_name": "零口径VR",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 14:09:29",
+    "change_number": 30089806,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "877201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8001691413658001485",
+                    "size": "30266052670",
+                    "download": "28957733280"
+                },
+                "experimental-public": {
+                    "gid": "6863857180025614431",
+                    "size": "30264047252",
+                    "download": "28957408432"
+                }
+            },
+            "decryptionkey": "e3af59530243fadb7275d47eb8ed18e8462d03c3da80e1ceca4967c26539b107"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12472224",
+                "timeupdated": "1697733529"
+            },
+            "experimental-public": {
+                "buildid": "19099751",
+                "description": "VD and compatibility fixes",
+                "timeupdated": "1752671362"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
