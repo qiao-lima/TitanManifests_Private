@@ -1,0 +1,43 @@
+{
+    "appid": 2871760,
+    "name": "Wage Slave TD: Prologue",
+    "type": "Game",
+    "schinese_name": "社畜塔防：序章",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 08:20:26",
+    "change_number": 29138953,
+    "depot": {
+        "2871761": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8894085829451870055",
+                    "size": "1780493420",
+                    "download": "692692176"
+                }
+            },
+            "decryptionkey": "3304f967022dedf1a991c25ebb6e0c919be8935b942c9dedfd4fea69fe167b08"
+        },
+        "2871762": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6376627940607455004",
+                    "size": "1755838720",
+                    "download": "685736832"
+                }
+            },
+            "decryptionkey": "550e896673f8acc7823aed0a3f7debe7ee22a93e5070e38d4503ced08d452d37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13919972",
+                "timeupdated": "1712042636"
+            }
+        }
+    }
+}
