@@ -1,0 +1,42 @@
+{
+    "appid": 870530,
+    "name": "Warhammer 40,000: Gladius - Relics of War - Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:56:06",
+    "change_number": 29683736,
+    "depot": {
+        "870531": {
+            "manifests": {
+                "public": {
+                    "gid": "1839422684041535841",
+                    "size": "197985652",
+                    "download": "197329568"
+                }
+            },
+            "decryptionkey": "f358542979aaf78c4721e47b4cf1e8198a2289479ffe58c62cd9d204c2a70060"
+        },
+        "870532": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7368595458278703916",
+                    "size": "1080400444",
+                    "download": "1092752320"
+                }
+            },
+            "decryptionkey": "091b5a25e04830cbdd3cd5a0530ed516b119459b30d23b20754d579385122643"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12818275",
+                "timeupdated": "1701361203"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 5016130886635041473
+}
