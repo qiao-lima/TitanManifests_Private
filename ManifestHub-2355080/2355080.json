@@ -1,0 +1,27 @@
+{
+    "appid": 2355080,
+    "name": "Hentai Melody",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 19:58:25",
+    "change_number": 29995441,
+    "depot": {
+        "2355081": {
+            "manifests": {
+                "public": {
+                    "gid": "8861777373142862222",
+                    "size": "109142725",
+                    "download": "48789280"
+                }
+            },
+            "decryptionkey": "e3e6e1fde91cc1e890b6873911a38d5840f62293ef9005391efae5f8e8080a85"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10747638",
+                "timeupdated": "1678561055"
+            }
+        }
+    }
+}
