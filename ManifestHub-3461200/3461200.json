@@ -1,0 +1,27 @@
+{
+    "appid": 3461200,
+    "name": "MatchmaniaDonate",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 09:11:57",
+    "change_number": 29893547,
+    "depot": {
+        "3461201": {
+            "manifests": {
+                "public": {
+                    "gid": "2030216111065706502",
+                    "size": "55003888",
+                    "download": "37671264"
+                }
+            },
+            "decryptionkey": "1cc22e0133299903aca7467bb552a3734031b9c08e33b6481fc22a072e9f676f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19099422",
+                "timeupdated": "1751616711"
+            }
+        }
+    }
+}
