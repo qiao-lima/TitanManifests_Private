@@ -1,0 +1,49 @@
+{
+    "appid": 657200,
+    "name": "Hand Simulator",
+    "type": "Game",
+    "schinese_name": "手掌模拟器",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 13:33:36",
+    "change_number": 29662057,
+    "depot": {
+        "657201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6959317926932523330",
+                    "size": "11752432127",
+                    "download": "4233403616"
+                },
+                "legacy": {
+                    "gid": "1434383524892741640",
+                    "size": "662185198",
+                    "download": "267749840"
+                },
+                "development": {
+                    "gid": "6959317926932523330",
+                    "size": "11752432127",
+                    "download": "4233403616"
+                }
+            },
+            "decryptionkey": "98696297d19b950f17a54b6507fafdea956f0034d8ba3ab01810a1e7b707aa82"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18935795",
+                "timeupdated": "1750397611"
+            },
+            "legacy": {
+                "buildid": "2020688",
+                "timeupdated": "1559054114"
+            },
+            "development": {
+                "buildid": "18935795",
+                "timeupdated": "1750397592"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
