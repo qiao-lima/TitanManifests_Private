@@ -1,0 +1,28 @@
+{
+    "appid": "225760",
+    "type": "Game",
+    "name": "Nexuiz STUPID Mode",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-05-25 18:49:30",
+    "depot": {
+        "225761": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3029163758435811140",
+                    "size": "7875860140",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3a5dcc35994f3fa818442fb2b3bf0e2daac5ee85200bcadd9df95b5753080140"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "27423"
+            }
+        }
+    }
+}
