@@ -1,0 +1,48 @@
+{
+    "appid": "2959950",
+    "type": "Demo",
+    "name": "Necrophosis Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28736706",
+    "update_time": "2025-04-30 06:20:33",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2959951": {
+            "manifests": {
+                "public": {
+                    "gid": "1714103868904459493",
+                    "size": "11778495408",
+                    "download": "11209439424"
+                }
+            },
+            "decryptionkey": "cdbb7c0c3b9b73d43de624361688a6749398706c8654ea0bbcc5f583540726c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18213769",
+                "timeupdated": "1745442356"
+            }
+        }
+    }
+}
