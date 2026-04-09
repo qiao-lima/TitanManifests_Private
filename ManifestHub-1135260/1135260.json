@@ -1,0 +1,49 @@
+{
+    "appid": 1135260,
+    "name": "The Falconeer",
+    "type": "Game",
+    "schinese_name": "空战猎鹰",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 07:59:33",
+    "change_number": 30200933,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1135261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3030166026175634014",
+                    "size": "2428977960",
+                    "download": "879624976"
+                }
+            },
+            "decryptionkey": "c19bb6d1c7ec099597fcc92bc6d90c41f61d7130b01b7ca4593d149e00369da2"
+        },
+        "1434030": {
+            "dlcappid": "1434030"
+        },
+        "1135262": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8300676901122812975",
+                    "size": "1232379017",
+                    "download": "849506752"
+                }
+            },
+            "decryptionkey": "aa288806c4c65645412b3631bf00753f0c414195d8a606d1f00f166a4f704774"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10487195",
+                "timeupdated": "1675681593"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
