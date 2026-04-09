@@ -1,0 +1,41 @@
+{
+    "appid": 440340,
+    "name": "Banzai Escape",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 23:13:45",
+    "change_number": 29813741,
+    "depot": {
+        "440341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8844749056586961212",
+                    "size": "1860076503",
+                    "download": "364518736"
+                }
+            },
+            "decryptionkey": "4254e74e20a385daacbfbeee6dfc530fee98265aaf9fdfe38ca2224a0f2ee65d"
+        },
+        "488530": {
+            "manifests": {
+                "public": {
+                    "gid": "274045718650836633",
+                    "size": "77821062",
+                    "download": "59324032"
+                }
+            },
+            "dlcappid": "488530",
+            "decryptionkey": "cb8632d9b92c4d73d337e581fe5701798ce9989274cbd9ac24aebc3a3b8ebe2c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4755529",
+                "timeupdated": "1583676909"
+            }
+        }
+    }
+}
