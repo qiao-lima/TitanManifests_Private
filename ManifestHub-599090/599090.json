@@ -1,0 +1,35 @@
+{
+    "appid": "599090",
+    "type": "Game",
+    "name": "15 defense",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23329802",
+    "update_time": "2024-08-14 19:23:06",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "599091": {
+            "manifests": {
+                "public": {
+                    "gid": "6255803084951311543",
+                    "size": "80848618",
+                    "download": "71237344"
+                }
+            },
+            "decryptionkey": "5b7e37ef03c8a8cb01fccbc3df7714cd6dbef049b0d07cb7c3903c3de4ff78fa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3196718",
+                "timeupdated": "1539106275"
+            }
+        }
+    },
+    "access_token": 6270571127886791907
+}
