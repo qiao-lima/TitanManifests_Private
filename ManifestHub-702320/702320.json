@@ -1,0 +1,42 @@
+{
+    "appid": 702320,
+    "name": "March of Empires",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 14:44:23",
+    "change_number": 30187109,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "702321": {
+            "manifests": {
+                "public": {
+                    "gid": "6439173208934243144",
+                    "size": "1084021566",
+                    "download": "841095088"
+                }
+            },
+            "decryptionkey": "39bb9e80daa8e2e44630d2623627b9c46e3b854ef6e5893423ecd5c5ce64300b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19028413",
+                "timeupdated": "1751279397"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
