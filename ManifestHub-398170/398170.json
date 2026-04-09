@@ -1,0 +1,32 @@
+{
+    "appid": 398170,
+    "name": "Evochron Legacy SE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 22:14:28",
+    "change_number": 30158003,
+    "depot": {
+        "baselanguages": "english",
+        "398171": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5986265115772638507",
+                    "size": "751225611",
+                    "download": "676444144"
+                }
+            },
+            "decryptionkey": "a7049f0c044d46c74c90c119a5cae418cb0f0c76a3fdccbc4e0066158f41d7b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19147924",
+                "timeupdated": "1752266416"
+            }
+        }
+    }
+}
