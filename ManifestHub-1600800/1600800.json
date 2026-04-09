@@ -1,0 +1,29 @@
+{
+    "appid": 1600800,
+    "name": "Graviteam Tactics: Typhoon Rising",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:51:26",
+    "change_number": 26845279,
+    "depot": {
+        "1600800": {
+            "dlcappid": "1600800",
+            "manifests": {
+                "public": {
+                    "gid": "7030057174265145703",
+                    "size": "782877526",
+                    "download": "387360320"
+                }
+            },
+            "decryptionkey": "5869e7885aad4fb3342b4bee2056c86aa82a2e29959f74072dc4bca9b3372b1d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12382579",
+                "timeupdated": "1696684657"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
