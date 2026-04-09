@@ -1,0 +1,28 @@
+{
+    "appid": 2505790,
+    "name": "倚天屠龙记",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 17:16:01",
+    "change_number": 29583868,
+    "depot": {
+        "2505791": {
+            "manifests": {
+                "public": {
+                    "gid": "1521576620776010191",
+                    "size": "174491694",
+                    "download": "63895248"
+                }
+            },
+            "decryptionkey": "34577a6ff0d0bd21ca6e22c81801f3ac67addc4febca7685f588bc8f80f9b8b7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11663332",
+                "timeupdated": "1688973257"
+            }
+        }
+    },
+    "access_token": 11954714371834374081
+}
