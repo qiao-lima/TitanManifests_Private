@@ -1,0 +1,30 @@
+{
+    "appid": 1328810,
+    "name": "Shoot. Push. Repeat.",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 14:57:01",
+    "change_number": 29571927,
+    "depot": {
+        "1328811": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6821838189524023744",
+                    "size": "26203915",
+                    "download": "20966368"
+                }
+            },
+            "decryptionkey": "c4696f90b84a502b8ceb5913d59435f272c23e5da6851d0ccd1a6117330f9b05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5135412",
+                "timeupdated": "1591622846"
+            }
+        }
+    }
+}
