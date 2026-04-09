@@ -1,0 +1,51 @@
+{
+    "appid": 2639810,
+    "name": "Rumble Club",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 02:18:03",
+    "change_number": 29534442,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2639811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6355139930640752818",
+                    "size": "434529360",
+                    "download": "236704272"
+                }
+            },
+            "decryptionkey": "b237cb5325ee3becd1a967ad1f0aff1ec20876a5269be45d2c4ecf067eb3cfde"
+        },
+        "2639812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7310555682412080874",
+                    "size": "904497774",
+                    "download": "307295232"
+                }
+            },
+            "decryptionkey": "c32e288c1f23ebe7c9b9558f3e3bad9c534dab518005b7607afe1b1f438a096f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18828749",
+                "timeupdated": "1749752262"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
