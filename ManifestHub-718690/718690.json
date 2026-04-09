@@ -1,0 +1,28 @@
+{
+    "appid": 718690,
+    "name": "SteamWorld Dig 2 - Soundtrack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 22:11:48",
+    "change_number": 29886341,
+    "depot": {
+        "718690": {
+            "manifests": {
+                "public": {
+                    "gid": "6013138084172167121",
+                    "size": "506957871",
+                    "download": "465724656"
+                }
+            },
+            "dlcappid": "718690",
+            "decryptionkey": "ef9669daa2e84c6149f47ab4bf518cbbd51a08c9efe8157bba8f756bde669117"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2136091",
+                "timeupdated": "1505992547"
+            }
+        }
+    }
+}
