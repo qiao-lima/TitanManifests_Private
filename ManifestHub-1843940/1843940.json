@@ -1,0 +1,28 @@
+{
+    "appid": 1843940,
+    "name": "Brigandine The Legend of Runersia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 05:18:18",
+    "change_number": 30160725,
+    "depot": {
+        "1843941": {
+            "manifests": {
+                "public": {
+                    "gid": "3966142635650648477",
+                    "size": "22579613066",
+                    "download": "14938401920"
+                }
+            },
+            "decryptionkey": "81263a8e970eb65704838f4ab3a37a4bd64796f185e5efeebdc968c9774402dc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8931425",
+                "timeupdated": "1655200100"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
