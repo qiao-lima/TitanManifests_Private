@@ -1,0 +1,31 @@
+{
+    "appid": 1163870,
+    "name": "Mecha Knights: Nightmare",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:26:35",
+    "change_number": 30210478,
+    "depot": {
+        "1163872": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8194677653137261491",
+                    "size": "28762003296",
+                    "download": "7308964240"
+                }
+            },
+            "decryptionkey": "7359302c516854ebf5e76fb9fcfa5abae1195cbe92a7111243958f4f88ce5727"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15099202",
+                "timeupdated": "1721484563"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
