@@ -1,0 +1,31 @@
+{
+    "appid": 1918250,
+    "name": "Iku Iku Succubus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-22 03:10:48",
+    "change_number": 29111457,
+    "depot": {
+        "1918251": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2518897955379681984",
+                    "size": "315280678",
+                    "download": "305829680"
+                }
+            },
+            "decryptionkey": "50a7f37062c7452dbf242efc1baea14e3350a69c86e5184756a3f548ae1b837e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9133229",
+                "timeupdated": "1657956658"
+            }
+        }
+    }
+}
