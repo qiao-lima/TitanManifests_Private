@@ -1,0 +1,45 @@
+{
+    "appid": 2075720,
+    "name": "9 Days",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 08:45:17",
+    "change_number": 30152782,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2075721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5025870344228726533",
+                    "size": "21072760569",
+                    "download": "20636462160"
+                }
+            },
+            "decryptionkey": "6075ff50d6af9b4e3ee0b83bfaa817c49e920604c04e60014156c95331112e8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19289949",
+                "timeupdated": "1752997514"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
