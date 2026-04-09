@@ -1,0 +1,30 @@
+{
+    "appid": 2996000,
+    "name": "Faun Town",
+    "type": "Game",
+    "schinese_name": "牧神镇物语",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 17:11:41",
+    "change_number": 29901115,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese",
+        "2996001": {
+            "manifests": {
+                "public": {
+                    "gid": "673029503555282722",
+                    "size": "1382324357",
+                    "download": "135959664"
+                }
+            },
+            "decryptionkey": "d7e3eac93b6415fc81b711105d4b221a3306aea306d44c8b6e0a5b4835480307"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18622180",
+                "timeupdated": "1748499630"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
