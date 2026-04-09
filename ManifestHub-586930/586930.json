@@ -1,0 +1,30 @@
+{
+    "appid": 586930,
+    "name": "Taken Souls: Blood Ritual Collector's Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 07:35:44",
+    "change_number": 29597631,
+    "depot": {
+        "586931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1042588187911710685",
+                    "size": "1696970928",
+                    "download": "1498177120"
+                }
+            },
+            "decryptionkey": "7085bddb0c2bcc5065a604636a944aea07448fe608c59cbf67a3a53ba7196250"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1608318",
+                "timeupdated": "1486129318"
+            }
+        }
+    }
+}
