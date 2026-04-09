@@ -1,0 +1,29 @@
+{
+    "appid": "1297770",
+    "type": "Game",
+    "name": "教世界写中国字",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18736181",
+    "update_time": "2024-08-14 20:30:32",
+    "depot": {
+        "1297771": {
+            "manifests": {
+                "public": {
+                    "gid": "6064283785884448811",
+                    "size": "92479122",
+                    "download": "33485952"
+                }
+            },
+            "decryptionkey": "0a332a9001eac4b556561a1d68b2f41123be665845a7aa687f9dd3deab58c801"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "5032537",
+                "timeupdated": "1589970809"
+            }
+        }
+    },
+    "access_token": 983646732195866641
+}
