@@ -1,0 +1,28 @@
+{
+    "appid": 1816664,
+    "name": "X-Plane 11 - Add-on: Verticalsim - KPVD - T. F. Green Airport XP",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:21:12",
+    "change_number": 26201212,
+    "depot": {
+        "1816664": {
+            "manifests": {
+                "public": {
+                    "gid": "1328433539288705514",
+                    "size": "2663509276",
+                    "download": "857380320"
+                }
+            },
+            "dlcappid": "1816664",
+            "decryptionkey": "c288159f0e199b353ddead5f3606c92dd0c847fc6002e8502da5fb1b948354ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7702159",
+                "timeupdated": "1636716472"
+            }
+        }
+    }
+}
