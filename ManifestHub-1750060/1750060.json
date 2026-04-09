@@ -1,0 +1,27 @@
+{
+    "appid": 1750060,
+    "name": "PUSSY 4",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 23:51:41",
+    "change_number": 30150286,
+    "depot": {
+        "1750061": {
+            "manifests": {
+                "public": {
+                    "gid": "2069560031740499308",
+                    "size": "123312042",
+                    "download": "43758240"
+                }
+            },
+            "decryptionkey": "f966d2813b03498cf5383f0cef1f7a1497dd025e5ad2fa241edab5ca23df80f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7447238",
+                "timeupdated": "1632935270"
+            }
+        }
+    }
+}
