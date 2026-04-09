@@ -1,0 +1,32 @@
+{
+    "appid": 2360620,
+    "name": "The Queendom of Lithzena",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 13:33:30",
+    "change_number": 30089140,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2360621": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3783687028949060546",
+                    "size": "3511062316",
+                    "download": "3153038544"
+                }
+            },
+            "decryptionkey": "0a864edfa61a27bbd0c7abccc3d6c2e3d6dbbddc9973adcc0f52af78b8e767be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19121612",
+                "timeupdated": "1751785888"
+            }
+        }
+    }
+}
