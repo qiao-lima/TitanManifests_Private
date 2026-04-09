@@ -1,0 +1,69 @@
+{
+    "appid": 612520,
+    "name": "Sudden Strike 2 Gold",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 14:14:42",
+    "change_number": 30089894,
+    "depot": {
+        "workshopdepot": "612520",
+        "612521": {
+            "manifests": {
+                "public": {
+                    "gid": "4480766109825493019",
+                    "size": "481625019",
+                    "download": "452719168"
+                }
+            },
+            "decryptionkey": "a959fadd02d9e61e2bacaf19c6bbe11ff0b9d20cb46b1960db14b2d1ee287f38"
+        },
+        "612522": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "495306911601318118",
+                    "size": "465049764",
+                    "download": "436674496"
+                }
+            },
+            "decryptionkey": "4a84486433e8b53c062a9b0e658fad49a7c3675f5e5a95e7586c690ddb3c7e4e"
+        },
+        "612523": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2854816574862832947",
+                    "size": "383422261",
+                    "download": "360002304"
+                }
+            },
+            "decryptionkey": "187467908bd137364b2c3901e861021e033fcb70e133f4b10d44d491e4a6d5ce"
+        },
+        "612524": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3949399223114049922",
+                    "size": "475432123",
+                    "download": "430789344"
+                }
+            },
+            "decryptionkey": "6811dd32fbd2628d3f854fd612d7ede8a6fc7b46c0d1ba43e1a0a52e5a16817e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1847249",
+                "timeupdated": "1495783807"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
