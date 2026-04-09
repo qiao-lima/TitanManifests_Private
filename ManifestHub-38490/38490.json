@@ -1,0 +1,55 @@
+{
+    "appid": 38490,
+    "name": "Earthworm Jim 2",
+    "type": "Game",
+    "schinese_name": "蚯蚓战士2",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 02:17:03",
+    "change_number": 29978856,
+    "depot": {
+        "overridescddb": "1",
+        "38481": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2318932251165585160",
+                    "size": "1528113379",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6778a7f58d926166ed32d1f84241ff1b10a0b7145ca2ca0077ad0f7c70801607"
+        },
+        "38491": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1393566360696166430",
+                    "size": "746628025",
+                    "download": "366190416"
+                }
+            },
+            "decryptionkey": "ef8c84ed80d956139398fa9062f6a8acad24751401bf448881611924b3374dad"
+        },
+        "38492": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3464254172455730721",
+                    "size": "742766307",
+                    "download": "362518976"
+                }
+            },
+            "decryptionkey": "449aa57f77d8cfec9165ebcb1294a4ba164d9baccaaff6b705e0f1940129379c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19168450",
+                "timeupdated": "1752110219"
+            }
+        }
+    }
+}
