@@ -1,0 +1,55 @@
+{
+    "appid": 1987480,
+    "name": "勇者与亡灵之都",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 09:21:27",
+    "change_number": 30202167,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1987481": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6569434264320736243",
+                    "size": "2364138923",
+                    "download": "2069066928"
+                }
+            },
+            "decryptionkey": "dc0befd55709cf6bd2d6a04a83903131b389a68389566cb3d3faf0c3e08198eb"
+        },
+        "3260271": {
+            "dlcappid": "3260270",
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19326004",
+                "timeupdated": "1753258883"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
