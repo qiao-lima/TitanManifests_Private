@@ -1,0 +1,47 @@
+{
+    "appid": 2115590,
+    "name": "Svarog's Dream Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 00:18:51",
+    "change_number": 29914397,
+    "depot": {
+        "2004641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1643355010550713152",
+                    "size": "11459192296",
+                    "download": "7534037152"
+                }
+            },
+            "depotfromapp": "2004640",
+            "decryptionkey": "0cbfa48fad8c957ca5430a95eced5102d9f5d397bffc7a6f1a59657b440c3c42"
+        },
+        "2115591": {
+            "manifests": {
+                "public": {
+                    "gid": "6196131378060539828",
+                    "size": "11464986127",
+                    "download": "7543900992"
+                }
+            }
+        },
+        "2982031": {
+            "dlcappid": "2982030",
+            "config": {
+                "language": "english"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16924049",
+                "timeupdated": "1736223079"
+            }
+        }
+    }
+}
