@@ -1,0 +1,43 @@
+{
+    "appid": 3280860,
+    "name": "Duel to The Holes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 13:33:49",
+    "change_number": 30089147,
+    "depot": {
+        "3280861": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6361884672763841761",
+                    "size": "1556339955",
+                    "download": "1472553856"
+                }
+            },
+            "decryptionkey": "a453e5baac92c11f4871e51fa0071b1317ecb2274a31e0b1cdcdbf965cbd5fbc"
+        },
+        "3280862": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7728907649074653392",
+                    "size": "1543943602",
+                    "download": "1471461552"
+                }
+            },
+            "decryptionkey": "c4047c4f357e192d441d5eaec324a8c8bb9f0e052034b20ae87c0cf160fe249b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16745933",
+                "timeupdated": "1734185190"
+            }
+        }
+    }
+}
