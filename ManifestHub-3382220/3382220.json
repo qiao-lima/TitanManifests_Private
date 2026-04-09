@@ -1,0 +1,27 @@
+{
+    "appid": 3382220,
+    "name": "OVERDOSE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 12:12:41",
+    "change_number": 30047309,
+    "depot": {
+        "3382221": {
+            "manifests": {
+                "public": {
+                    "gid": "6677215995612597003",
+                    "size": "1112143728",
+                    "download": "442356768"
+                }
+            },
+            "decryptionkey": "60ea7d00dbfb59b6307e021799d637007b59c1bf36a58af463de7be5ec20c23a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18014479",
+                "timeupdated": "1744046681"
+            }
+        }
+    }
+}
