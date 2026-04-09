@@ -1,0 +1,117 @@
+{
+    "appid": 2101130,
+    "name": "From Madness with Love",
+    "type": "Game",
+    "schinese_name": "若不疯魔何言爱过",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 21:44:36",
+    "change_number": 29997178,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "hasdepotsindlc": "0",
+        "2101131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4856316632136890352",
+                    "size": "2746113727",
+                    "download": "2505378096"
+                }
+            },
+            "decryptionkey": "4193b4f89374021d95bd9e28827616aeeda9d90ac1d731777bd1a14c364456a9"
+        },
+        "2101132": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2521416546077515325",
+                    "size": "2763919609",
+                    "download": "2510670352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2101133": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6752792472847902086",
+                    "size": "2763919609",
+                    "download": "2510670368"
+                }
+            },
+            "decryptionkey": "f0ed82cab5992869e5f4a4629612f02f88bf24b9075817506644bfe4ccc94bf9"
+        },
+        "2101134": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6905624574911973176",
+                    "size": "2763919609",
+                    "download": "2510670368"
+                }
+            },
+            "decryptionkey": "bfe54b35d9b8dffc750a37a4e4635398e33be74f3f8efaeaa69f3682815e2b67"
+        },
+        "2101135": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "2101136": {
+            "config": {
+                "language": "japanese",
+                "oslist": "macos"
+            }
+        },
+        "2101137": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "macos"
+            }
+        },
+        "2101138": {
+            "config": {
+                "language": "schinese",
+                "oslist": "macos"
+            }
+        },
+        "3678560": {
+            "dlcappid": "3678560",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8549057760695204187",
+                    "size": "1334805757",
+                    "download": "1184534864"
+                }
+            },
+            "decryptionkey": "772ddab748fe663a334c73ce04eac9f159e3b0d3a0dea45bbc2f652226fcae34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19139449",
+                "timeupdated": "1752045292"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
