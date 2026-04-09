@@ -1,0 +1,46 @@
+{
+    "appid": 1537080,
+    "name": "Return",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 17:01:34",
+    "change_number": 29991894,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,turkish,brazilian",
+        "1537081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1458452811563912630",
+                    "size": "1838006072",
+                    "download": "1344055008"
+                }
+            },
+            "decryptionkey": "2430b4be130b84919b92f21c3508dc81ff41ca0a0e81b619e29d1f66b14cb4bc"
+        },
+        "2437820": {
+            "dlcappid": "2437820",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3621267641524297152",
+                    "size": "17413864",
+                    "download": "15534160"
+                }
+            },
+            "decryptionkey": "e97ab1d846072be5be9293296340a47ff0c117aa1b8b846d95b7722f0143dcd8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12775182",
+                "timeupdated": "1700685694"
+            }
+        }
+    }
+}
