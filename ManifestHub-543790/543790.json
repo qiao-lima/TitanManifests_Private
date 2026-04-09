@@ -1,0 +1,35 @@
+{
+    "appid": "543790",
+    "type": "Game",
+    "name": "Mars Industries",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24657949",
+    "update_time": "2024-08-14 19:16:28",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "543791": {
+            "manifests": {
+                "public": {
+                    "gid": "3013215994696610192",
+                    "size": "195951362",
+                    "download": "109650480"
+                }
+            },
+            "decryptionkey": "32689adbae81e177d3fb2a4b3b237a5a728884ab851377f91c8ae8b382a8d0a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1409686",
+                "timeupdated": "1477299785"
+            }
+        }
+    },
+    "access_token": 15438150451246398684
+}
