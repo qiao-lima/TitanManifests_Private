@@ -1,0 +1,38 @@
+{
+    "appid": 2010240,
+    "name": "FOG",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 08:36:38",
+    "change_number": 29639609,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "2010241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3331181678618395734",
+                    "size": "2688728782",
+                    "download": "868282480"
+                }
+            },
+            "decryptionkey": "4cede5aed6337d3efb05cdb2bc41287fc9b78a442b3999645f4ea74af232377f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18919841",
+                "timeupdated": "1750293394"
+            }
+        }
+    }
+}
