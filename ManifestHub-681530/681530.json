@@ -1,0 +1,44 @@
+{
+    "appid": 681530,
+    "name": "NOISZ",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 19:36:10",
+    "change_number": 30172336,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "681531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5904457589813095116",
+                    "size": "907485698",
+                    "download": "692421760"
+                }
+            },
+            "decryptionkey": "e9e661f8522aee67c87602296b5c98c94117f84781303679dda0d265f1ded279"
+        },
+        "681532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7131086456696580295",
+                    "size": "836725960",
+                    "download": "701836672"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19088597",
+                "timeupdated": "1751599794"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
