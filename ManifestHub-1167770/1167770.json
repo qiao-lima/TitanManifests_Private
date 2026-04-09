@@ -1,0 +1,30 @@
+{
+    "appid": 1167770,
+    "name": "More dark",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 04:10:16",
+    "change_number": 29915422,
+    "depot": {
+        "1167771": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9141074707595912355",
+                    "size": "94873285",
+                    "download": "96011904"
+                }
+            },
+            "decryptionkey": "012d434aabf05e15a3d81bd6db1ab53f9f66536d8762e46fe77a2274b6589e9a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4384175",
+                "timeupdated": "1573645598"
+            }
+        }
+    }
+}
