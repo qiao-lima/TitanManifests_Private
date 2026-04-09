@@ -1,0 +1,136 @@
+{
+    "appid": 1803550,
+    "name": "MegaFactory Titan",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 00:34:30",
+    "change_number": 30140968,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,czech,brazilian,ukrainian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1803551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "173632415065048550",
+                    "size": "600866241",
+                    "download": "365178336"
+                },
+                "legacy-0.6.0.6": {
+                    "gid": "118211838431058179",
+                    "size": "536986446",
+                    "download": "366634416"
+                },
+                "legacy-0.9.3.8": {
+                    "gid": "5750936616618503235",
+                    "size": "589258896",
+                    "download": "370688336"
+                },
+                "test": {
+                    "gid": "173632415065048550",
+                    "size": "600866241",
+                    "download": "365178336"
+                }
+            },
+            "decryptionkey": "38c6ceefea1d6ebdb69e27c29b2e0f7399b4aa22919e878c398cd4bb12c96fa0"
+        },
+        "1803552": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4636277628262023350",
+                    "size": "471849426",
+                    "download": "342191664"
+                },
+                "legacy-0.6.0.6": {
+                    "gid": "6332691399900398064",
+                    "size": "453977805",
+                    "download": "356112608"
+                },
+                "legacy-0.9.3.8": {
+                    "gid": "4819380018049152751",
+                    "size": "472410984",
+                    "download": "356477200"
+                },
+                "test": {
+                    "gid": "4636277628262023350",
+                    "size": "471849426",
+                    "download": "342191664"
+                }
+            },
+            "decryptionkey": "fcd44ccb1b455e06dd15dc2f310238672b329147d8646fb4dbe793685123109e"
+        },
+        "1803553": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5616939161557737280",
+                    "size": "603817753",
+                    "download": "382154384"
+                },
+                "legacy-0.6.0.6": {
+                    "gid": "5427428102800696010",
+                    "size": "759306548",
+                    "download": "409465584"
+                },
+                "legacy-0.9.3.8": {
+                    "gid": "4830113330382997840",
+                    "size": "590503136",
+                    "download": "380963120"
+                },
+                "test": {
+                    "gid": "5616939161557737280",
+                    "size": "603817753",
+                    "download": "382154384"
+                }
+            },
+            "decryptionkey": "6e552a20c0ff53349ac8083eaa963b3b27f22091ca1c66680f674c65664ff531"
+        },
+        "workshopdepot": "1803550",
+        "branches": {
+            "public": {
+                "buildid": "19281543",
+                "timeupdated": "1752881668"
+            },
+            "legacy-0.6.0.6": {
+                "buildid": "12312508",
+                "description": "Older version (0.6.0.6) of the game (September 2023).",
+                "timeupdated": "1703110010"
+            },
+            "legacy-0.9.3.8": {
+                "buildid": "17756301",
+                "description": "Older version (0.9.3.8) of the game (March 2025).",
+                "timeupdated": "1742251251"
+            },
+            "test": {
+                "buildid": "19281543",
+                "description": "test",
+                "timeupdated": "1752881627"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
