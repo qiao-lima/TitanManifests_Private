@@ -1,0 +1,55 @@
+{
+    "appid": 2314160,
+    "name": "Tactical Assault VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:05:27",
+    "change_number": 30213101,
+    "depot": {
+        "2314161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3713748385200522910",
+                    "size": "12387101916",
+                    "download": "5467944400"
+                },
+                "oculusxr_vdxr_launcher": {
+                    "gid": "8474399634252691744",
+                    "size": "12394361863",
+                    "download": "5470675456"
+                },
+                "tavr_upgraded_steamvr_build": {
+                    "gid": "7005282083445245429",
+                    "size": "3707950351",
+                    "download": "1347007488"
+                }
+            },
+            "decryptionkey": "5be7927a7b9161b7c4faa65d50810e4337a6ec964921f4cc0d37d8003e72bed0"
+        },
+        "3855050": {
+            "dlcappid": "3855050",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18779504",
+                "timeupdated": "1749321360"
+            },
+            "oculusxr_vdxr_launcher": {
+                "buildid": "18779546",
+                "description": "For use with OculusXR and Virtual Desktop XR Launcher",
+                "timeupdated": "1749321339"
+            },
+            "tavr_upgraded_steamvr_build": {
+                "buildid": "11363638",
+                "description": "Tactical Assault VR Upgraded Graphics Demo 0.6.6",
+                "timeupdated": "1738341460"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
