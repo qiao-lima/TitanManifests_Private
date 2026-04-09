@@ -1,0 +1,46 @@
+{
+    "appid": "360850",
+    "type": "Game",
+    "name": "Electric Circuit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "19981292",
+    "update_time": "2024-08-14 18:54:32",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "360851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4580215301865318661",
+                    "size": "6427403",
+                    "download": "5371952"
+                }
+            },
+            "decryptionkey": "93b8f7f5dd1ddc1e2cf8ab3b3e96268bfd716435931e6c47b74d72f65ebb36da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1538739",
+                "timeupdated": "1482505818"
+            }
+        }
+    },
+    "access_token": 5318841514628257325
+}
