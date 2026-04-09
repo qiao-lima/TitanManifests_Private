@@ -1,0 +1,32 @@
+{
+    "appid": 2603440,
+    "name": "Cute Puzzle - V-Girl Neighbor Chloe",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 17:11:46",
+    "change_number": 29433533,
+    "depot": {
+        "baselanguages": "english",
+        "2603441": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6016895452627968247",
+                    "size": "292894751",
+                    "download": "110073040"
+                }
+            },
+            "decryptionkey": "bf8628f46ec16d51f600399fa38540de4001fc32dfec27d2caa5e5f285608391"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18698241",
+                "timeupdated": "1748851964"
+            }
+        }
+    }
+}
