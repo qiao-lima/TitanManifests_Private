@@ -1,0 +1,34 @@
+{
+    "appid": "582280",
+    "type": "Game",
+    "name": "PIGMENTUM",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27317486",
+    "update_time": "2025-02-05 09:15:06",
+    "depot": {
+        "baselanguages": "english",
+        "582281": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "617621392725257766",
+                    "size": "142213920",
+                    "download": "48091840"
+                }
+            },
+            "decryptionkey": "42520921b50295736e6b394a1db3b2b5f8b4c00c538cb6b85dede8755ed2e1dd"
+        },
+        "582282": {},
+        "branches": {
+            "public": {
+                "buildid": "3435288",
+                "timeupdated": "1546232708"
+            }
+        }
+    },
+    "access_token": 2389620198190547689
+}
