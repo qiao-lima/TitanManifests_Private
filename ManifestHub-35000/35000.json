@@ -1,0 +1,28 @@
+{
+    "appid": 35000,
+    "name": "Mini Ninjas",
+    "type": "Game",
+    "schinese_name": "迷你忍者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 11:43:41",
+    "change_number": 30066449,
+    "depot": {
+        "35001": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6094203683228908618",
+                    "size": "6229905310",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3e2759b83b703618be71cc1538fd020da79932b92071efa555ede93e26097024"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "11384"
+            }
+        }
+    }
+}
