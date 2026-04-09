@@ -1,0 +1,41 @@
+{
+    "appid": 1141580,
+    "name": "Taiji",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 19:56:53",
+    "change_number": 30018258,
+    "depot": {
+        "1141581": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2108892213848917708",
+                    "size": "341445774",
+                    "download": "282200704"
+                },
+                "mono-moddable": {
+                    "gid": "8433606749250720202",
+                    "size": "332518935",
+                    "download": "284617408"
+                }
+            },
+            "decryptionkey": "7fc312e566fb2642b3c65e9c6fef9b339763dc11adc81664630917f9babe73f7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18665091",
+                "timeupdated": "1748554970"
+            },
+            "mono-moddable": {
+                "buildid": "18952511",
+                "description": "Uses the Mono backend, which has reduced performance but is more easily moddable",
+                "timeupdated": "1750544247"
+            }
+        }
+    }
+}
