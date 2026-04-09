@@ -1,0 +1,27 @@
+{
+    "appid": 809340,
+    "name": "Exteme School Driving Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 06:14:47",
+    "change_number": 29569567,
+    "depot": {
+        "809341": {
+            "manifests": {
+                "public": {
+                    "gid": "8538368875212760889",
+                    "size": "207692510",
+                    "download": "53607232"
+                }
+            },
+            "decryptionkey": "a89b9e148839b1e571551bd16ed7f24bd94e6cbb3d7ef0b1e76eac82f4ce111e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3522452",
+                "timeupdated": "1549013186"
+            }
+        }
+    }
+}
