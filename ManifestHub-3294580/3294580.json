@@ -1,0 +1,35 @@
+{
+    "appid": "3294580",
+    "type": "Game",
+    "name": "506战纪",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28881019",
+    "update_time": "2025-05-08 19:49:28",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3294581": {
+            "manifests": {
+                "public": {
+                    "gid": "7941333290698885986",
+                    "size": "686407304",
+                    "download": "557225696"
+                }
+            },
+            "decryptionkey": "1a107bd9ff0a5b244358b8e40564846862f58c36a25122a66d0d9d425c063dea"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "18388218",
+                "timeupdated": "1746704961"
+            }
+        }
+    }
+}
