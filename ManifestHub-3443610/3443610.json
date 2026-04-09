@@ -1,0 +1,27 @@
+{
+    "appid": 3443610,
+    "name": "ZombieCards",
+    "type": "Game",
+    "schinese_name": "丧尸卡牌",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 08:22:19",
+    "change_number": 29452541,
+    "depot": {
+        "3443611": {
+            "manifests": {
+                "public": {
+                    "gid": "4560577787225209883",
+                    "size": "454992623",
+                    "download": "261968432"
+                }
+            },
+            "decryptionkey": "ecdd1086f173caecac7eb9f1298c44c1e56031881be090190852ac324a2b5f17"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17817351",
+                "timeupdated": "1742611781"
+            }
+        }
+    }
+}
