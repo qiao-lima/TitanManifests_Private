@@ -1,0 +1,28 @@
+{
+    "appid": "1495450",
+    "type": "Game",
+    "name": "Interstellar annihilation project",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 20:38:50",
+    "depot": {
+        "1495451": {
+            "manifests": {
+                "public": {
+                    "gid": "5104355310677814960",
+                    "size": "1041784732",
+                    "download": "399564880"
+                }
+            },
+            "decryptionkey": "27f7a1d0d831f51c19b6c52771f4446b3638432daee05d3e1defee57c00a9c7e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5928416",
+                "timeupdated": "1607228093"
+            }
+        }
+    },
+    "access_token": 781661679749076521
+}
