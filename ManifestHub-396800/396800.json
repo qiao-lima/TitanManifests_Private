@@ -1,0 +1,57 @@
+{
+    "appid": 396800,
+    "name": "12 Labours of Hercules IV: Mother Nature",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 22:16:06",
+    "change_number": 29177346,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,portuguese,dutch,czech",
+        "396801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5685751890301980286",
+                    "size": "316157667",
+                    "download": "315387968"
+                }
+            },
+            "decryptionkey": "1d945bd20fc6b1937a080d8d1000332d6970c3db2c65d00a2973979240b0cb13"
+        },
+        "396802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6715639276538124601",
+                    "size": "317948848",
+                    "download": "316951472"
+                }
+            },
+            "decryptionkey": "8335c1b6c577809baff4d7f9b15727a106e2880a0166492ef377e1d11a36b452"
+        },
+        "396803": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7398934843857868418",
+                    "size": "315972471",
+                    "download": "315137248"
+                }
+            },
+            "decryptionkey": "a124a07190c9d2e1e87ba385fb42f848153960ab72eecc2f761ede18a85e4d25"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7260329",
+                "timeupdated": "1631692078"
+            }
+        }
+    }
+}
