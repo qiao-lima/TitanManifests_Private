@@ -1,0 +1,38 @@
+{
+    "appid": 2084300,
+    "name": "Schism",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 19:24:34",
+    "change_number": 29234489,
+    "depot": {
+        "2084301": {
+            "manifests": {
+                "public": {
+                    "gid": "2679667083835089780",
+                    "size": "338974616",
+                    "download": "263254800"
+                },
+                "test_branch": {
+                    "gid": "3245364815349918299",
+                    "size": "326719416",
+                    "download": "253277600"
+                }
+            },
+            "decryptionkey": "b4ba35d3a9cd18c6d426a592f909ab0587c4f2cd7f8e4617b1c2e5d7ad1f3435"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18615108",
+                "timeupdated": "1748286763"
+            },
+            "test_branch": {
+                "buildid": "17311892",
+                "description": "Test updates before going to main",
+                "timeupdated": "1741041812"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
