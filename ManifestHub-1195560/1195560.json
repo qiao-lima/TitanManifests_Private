@@ -1,0 +1,48 @@
+{
+    "appid": 1195560,
+    "name": "Alek - The Lost Kingdom",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 01:11:39",
+    "change_number": 30058448,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1195561": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3401010444271186668",
+                    "size": "4824693950",
+                    "download": "4495931712"
+                }
+            },
+            "decryptionkey": "568121e318794056b2f3d6e5dbb0eaca592c9837ddd1392c93d86db87babf6ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18966498",
+                "timeupdated": "1750692340"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
