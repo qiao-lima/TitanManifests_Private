@@ -1,0 +1,27 @@
+{
+    "appid": 2311090,
+    "name": "Hentai Pussy 6",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 02:13:58",
+    "change_number": 30197129,
+    "depot": {
+        "2311091": {
+            "manifests": {
+                "public": {
+                    "gid": "1750807024139957258",
+                    "size": "272800802",
+                    "download": "50869504"
+                }
+            },
+            "decryptionkey": "54b61c1b7694f94bdf6e07e859a1ba8cb68a21ed7d126d6e3cd2f09eeec1aeca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10483838",
+                "timeupdated": "1675634772"
+            }
+        }
+    }
+}
