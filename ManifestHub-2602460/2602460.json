@@ -1,0 +1,40 @@
+{
+    "appid": 2602460,
+    "name": "JR EAST Train Simulator: Shin-etsu Line (Naoetsu to Niigata) E129 series",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:22:59",
+    "change_number": 29719527,
+    "depot": {
+        "2602461": {
+            "manifests": {
+                "public": {
+                    "gid": "6525489316683161776",
+                    "size": "174902240",
+                    "download": "177253152"
+                }
+            },
+            "dlcappid": "2602460",
+            "decryptionkey": "969646605b8a49d9777eded8a12b31d593172cb1a7285b1c4a14d41c4f817356"
+        },
+        "2602462": {
+            "manifests": {
+                "public": {
+                    "gid": "8209716350645396715",
+                    "size": "33266844912",
+                    "download": "33721778048"
+                }
+            },
+            "dlcappid": "2602460",
+            "decryptionkey": "a13cc901cd3d7792c3ec7ec3b5699b5b24fc50e21f09a136a7974cbc1c89e686"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18894251",
+                "timeupdated": "1750755976"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
