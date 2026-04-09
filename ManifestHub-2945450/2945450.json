@@ -1,0 +1,28 @@
+{
+    "appid": 2945450,
+    "name": "RPG Maker MZ - SERIALGAMES Living Good City Tileset - Shrine and Temples SET",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:50:50",
+    "change_number": 26201212,
+    "depot": {
+        "2945450": {
+            "manifests": {
+                "public": {
+                    "gid": "780774130907771285",
+                    "size": "44036477",
+                    "download": "14982640"
+                }
+            },
+            "dlcappid": "2945450",
+            "decryptionkey": "427d5046a010b0fb14ed3e9bea87d93824510d5ca781aa8292424250cde714ae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14154023",
+                "timeupdated": "1713926823"
+            }
+        }
+    }
+}
