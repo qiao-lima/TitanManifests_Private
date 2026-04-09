@@ -1,0 +1,28 @@
+{
+    "appid": 3062870,
+    "name": "RPG Maker MZ - KR Desert Kingdom Tileset",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:51:00",
+    "change_number": 26201212,
+    "depot": {
+        "3062870": {
+            "manifests": {
+                "public": {
+                    "gid": "2273955391565085068",
+                    "size": "4551455",
+                    "download": "4523072"
+                }
+            },
+            "dlcappid": "3062870",
+            "decryptionkey": "eacd47a16a8625efe0f4802d233d109088c2315180b93c1064692e9993310e37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15077934",
+                "timeupdated": "1721317950"
+            }
+        }
+    }
+}
