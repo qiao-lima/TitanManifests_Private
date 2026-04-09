@@ -1,0 +1,27 @@
+{
+    "appid": 493320,
+    "name": "Killing Time",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 22:40:57",
+    "change_number": 29507280,
+    "depot": {
+        "493321": {
+            "manifests": {
+                "public": {
+                    "gid": "755777923510548348",
+                    "size": "556346576",
+                    "download": "340274784"
+                }
+            },
+            "decryptionkey": "660985f9e1666c98648b5f1da18eb7f40ff1085d63472e7dc05de7eda1f1be6c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1514084",
+                "timeupdated": "1481570569"
+            }
+        }
+    }
+}
