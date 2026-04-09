@@ -1,0 +1,53 @@
+{
+    "appid": "601340",
+    "type": "Game",
+    "name": "Project of the Developer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28495807",
+    "update_time": "2025-04-16 05:28:35",
+    "depot": {
+        "baselanguages": "english,russian",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "601341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5572939100925519963",
+                    "size": "649187109",
+                    "download": "304095328"
+                }
+            },
+            "decryptionkey": "e4bddd22c4acb5b0a0db2484ee6c56969cf1a16c410b19a9d3452d2fe80a28c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1773934",
+                "timeupdated": "1492819092"
+            }
+        }
+    },
+    "access_token": 13934976515000652315
+}
