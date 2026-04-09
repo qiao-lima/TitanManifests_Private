@@ -1,0 +1,31 @@
+{
+    "appid": "533150",
+    "type": "Game",
+    "name": "Super LOH",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28302273",
+    "update_time": "2025-04-04 13:15:47",
+    "depot": {
+        "533151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8357527086321494615",
+                    "size": "7360517",
+                    "download": "7375568"
+                }
+            },
+            "decryptionkey": "253e25d2c7a548a3a552c17ae3c82b3c4e3d0b1da7c2bc70d16d07cfc96182f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1507262",
+                "timeupdated": "1481233316"
+            }
+        }
+    },
+    "access_token": 9904103431540619178
+}
