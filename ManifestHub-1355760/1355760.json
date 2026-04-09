@@ -1,0 +1,50 @@
+{
+    "appid": "1355760",
+    "type": "Game",
+    "name": "投资模拟器：打工篇",
+    "schinese_name": "投资模拟器：打工人",
+    "isfreeapp": "0",
+    "change_number": "28986440",
+    "update_time": "2025-05-15 01:33:13",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1355761": {
+            "manifests": {
+                "public": {
+                    "gid": "8208103550136782622",
+                    "size": "1338531616",
+                    "download": "183859312"
+                },
+                "companytest": {
+                    "gid": "7436421331009530249",
+                    "size": "1224221982",
+                    "download": "171985552"
+                }
+            },
+            "decryptionkey": "f11bb7370de946420f06a9f2099c80ee900a43475999058937a8c89172adee30"
+        },
+        "1355762": {
+            "manifests": {
+                "companytest": {
+                    "gid": "8135008987560528008",
+                    "size": "1252492618",
+                    "download": "188932112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "13493689",
+                "timeupdated": "1708314516"
+            },
+            "companytest": {
+                "buildid": "7957287",
+                "description": "companytest",
+                "timeupdated": "1640942353"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 5785823781937863139
+}
