@@ -1,0 +1,58 @@
+{
+    "appid": 618630,
+    "name": "Astral Traveler",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 16:01:00",
+    "change_number": 29990749,
+    "depot": {
+        "618631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4992057044169342275",
+                    "size": "2056954355",
+                    "download": "738559984"
+                }
+            },
+            "decryptionkey": "6ed0f6052d4db7daab5015586eaf151633caf2e1a1aea83312531965e131b0e9"
+        },
+        "618632": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7743759107346594755",
+                    "size": "2085106598",
+                    "download": "747999936"
+                }
+            },
+            "decryptionkey": "8a10b79acc8260eb21519e0c63bf751042bb77a2f9a694c162c2d6165ef2619b"
+        },
+        "618633": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1586164686801375553",
+                    "size": "2070040586",
+                    "download": "744831712"
+                }
+            },
+            "decryptionkey": "3d6bc0dd4b53800a22acbd9f8b3427f84b3a904fb4da42a860c1fc103d81f162"
+        },
+        "baselanguages": "english,french,turkish",
+        "branches": {
+            "public": {
+                "buildid": "2404982",
+                "timeupdated": "1514677053"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
