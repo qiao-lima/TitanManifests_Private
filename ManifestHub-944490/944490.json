@@ -1,0 +1,136 @@
+{
+    "appid": 944490,
+    "name": "Vox Machinae Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:35:31",
+    "change_number": 30212673,
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "944491": {
+            "manifests": {
+                "public": {
+                    "gid": "8161842659279405083",
+                    "size": "51865123",
+                    "download": "23171232"
+                },
+                "stable": {
+                    "gid": "3309836361661249831",
+                    "size": "44871002",
+                    "download": "20152144"
+                },
+                "beta": {
+                    "gid": "8161842659279405083",
+                    "size": "51865123",
+                    "download": "23171232"
+                }
+            },
+            "decryptionkey": "c604882d06c3038cca287d481ca500d0684b41db42db9d1ddfbbc6182f5d7f3c"
+        },
+        "944492": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3583625578540650268",
+                    "size": "196851205",
+                    "download": "49865632"
+                },
+                "stable": {
+                    "gid": "495428223912398638",
+                    "size": "71081835",
+                    "download": "18247856"
+                },
+                "beta": {
+                    "gid": "3583625578540650268",
+                    "size": "196851205",
+                    "download": "49865632"
+                }
+            },
+            "decryptionkey": "ee31fee428794a8abc9fb3324ec3d9f7b41ab7cf82357966997308521783b31e"
+        },
+        "944494": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3732520844873104516",
+                    "size": "105287356",
+                    "download": "27603264"
+                },
+                "stable": {
+                    "gid": "8101331890116151240",
+                    "size": "63488561",
+                    "download": "17014096"
+                },
+                "beta": {
+                    "gid": "3732520844873104516",
+                    "size": "105287356",
+                    "download": "27603264"
+                }
+            },
+            "decryptionkey": "fb0e123a6eefd158c05c4230ce1733704af8c8cbd1c8223f79b26b8ccd0b8881"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15933152",
+                "timeupdated": "1728063908"
+            },
+            "stable": {
+                "buildid": "6368284",
+                "description": "stable branch for commercial users",
+                "timeupdated": "1646418142"
+            },
+            "beta": {
+                "buildid": "15933152",
+                "description": "pre-release testing",
+                "timeupdated": "1728063846"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
