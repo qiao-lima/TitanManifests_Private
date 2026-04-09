@@ -1,0 +1,56 @@
+{
+    "appid": 366270,
+    "name": "SHOCK TROOPERS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 09:22:24",
+    "change_number": 29476482,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "366271": {
+            "manifests": {
+                "public": {
+                    "gid": "8396779372790698137",
+                    "size": "89919974",
+                    "download": "39041984"
+                }
+            },
+            "decryptionkey": "e382c4b05df86bd36efdb646ba061f6a8467102dc186374bd513f642b0a89d89"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1135634",
+                "timeupdated": "1464177838"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
