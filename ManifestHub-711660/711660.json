@@ -1,0 +1,44 @@
+{
+    "appid": 711660,
+    "name": "CHUCHEL",
+    "type": "Game",
+    "schinese_name": "毛线先生 (CHUCHEL)",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 19:11:42",
+    "change_number": 30037768,
+    "depot": {
+        "711661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "784060502933905713",
+                    "size": "743744609",
+                    "download": "690807616"
+                }
+            },
+            "decryptionkey": "f145d70830b86e665e99db50e6d14c892b301885b2920cd4c5dec1436595bd45"
+        },
+        "711662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8833265391866665129",
+                    "size": "754896246",
+                    "download": "692030544"
+                }
+            },
+            "decryptionkey": "01ab8f7000da853a92679eb55afd7950d2d70d2f076122361b4dbc60d33196d8"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "3512579",
+                "timeupdated": "1548864222"
+            }
+        }
+    }
+}
