@@ -1,0 +1,71 @@
+{
+    "appid": 1470670,
+    "name": "Squirrelmageddon!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 01:39:16",
+    "change_number": 29914786,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1470673": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5323117591809155932",
+                    "size": "32999989753",
+                    "download": "32358896736"
+                },
+                "beta": {
+                    "gid": "5323117591809155932",
+                    "size": "32999989753",
+                    "download": "32358896736"
+                },
+                "betamaps": {
+                    "gid": "1212616776754252041",
+                    "size": "32041696218",
+                    "download": "31248822016"
+                }
+            },
+            "decryptionkey": "d1c60e0aa577c680e738bae948fb1412459cbf46fddf1b84e34c5358b38355a1"
+        },
+        "1470675": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19116163",
+                "timeupdated": "1751762351"
+            },
+            "beta": {
+                "buildid": "19116163",
+                "description": "Testing Branch",
+                "timeupdated": "1751712363"
+            },
+            "betamaps": {
+                "buildid": "14655383",
+                "description": "For map testing builds",
+                "timeupdated": "1717930841"
+            }
+        }
+    }
+}
