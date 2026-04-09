@@ -1,0 +1,57 @@
+{
+    "appid": 818570,
+    "name": "Zombie Desperation",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 00:14:29",
+    "change_number": 29731733,
+    "depot": {
+        "818571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5881991663614110862",
+                    "size": "158083404",
+                    "download": "42409648"
+                }
+            },
+            "decryptionkey": "77aea76316a3480a185b45d8796ccee5af9464c85923dbcee6d2226adfc1c09d"
+        },
+        "818572": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4476846192867316037",
+                    "size": "208069862",
+                    "download": "57410384"
+                }
+            },
+            "decryptionkey": "3d6b74708e75323167aa2ba9d105267df4da99a4f1b45c0d57414814bb9f09ed"
+        },
+        "818573": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6161233350791863849",
+                    "size": "208717795",
+                    "download": "56098800"
+                }
+            },
+            "decryptionkey": "958f2526f0877b127cc95b2f04b67397d1699f22a47d753874f433e41132eb2d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3669244",
+                "timeupdated": "1553228137"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
