@@ -1,0 +1,111 @@
+{
+    "appid": 3493610,
+    "name": "THREAT -SCREAM AND ESCAPE-",
+    "type": "Game",
+    "schinese_name": "威嚇：尖叫逃亡",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 09:52:56",
+    "change_number": 30153115,
+    "depot": {
+        "baselanguages": "english,tchinese,japanese",
+        "3493613": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7692084757530844474",
+                    "size": "1575472031",
+                    "download": "780779120"
+                },
+                "beta_02": {
+                    "gid": "7692084757530844474",
+                    "size": "1575472031",
+                    "download": "780779120"
+                }
+            }
+        },
+        "3493614": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3927671109301117901",
+                    "size": "1547049808",
+                    "download": "778282256"
+                },
+                "beta_02": {
+                    "gid": "3927671109301117901",
+                    "size": "1547049808",
+                    "download": "778282256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3493611": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2968092562769938816",
+                    "size": "1575472031",
+                    "download": "780764720"
+                },
+                "beta_02": {
+                    "gid": "2968092562769938816",
+                    "size": "1575472031",
+                    "download": "780764720"
+                }
+            }
+        },
+        "3493612": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "65022792786153442",
+                    "size": "1547049808",
+                    "download": "778270560"
+                },
+                "beta_02": {
+                    "gid": "65022792786153442",
+                    "size": "1547049808",
+                    "download": "778270560"
+                }
+            },
+            "decryptionkey": "ffcdc7843d7e0c7ddd79832692f711bf05050b1beb7088437d6d535c90dbbb1a"
+        },
+        "3493615": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5131940226275144691",
+                    "size": "1543618319",
+                    "download": "833099952"
+                },
+                "beta_02": {
+                    "gid": "5131940226275144691",
+                    "size": "1543618319",
+                    "download": "833099952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19286190",
+                "timeupdated": "1752939781"
+            },
+            "beta_02": {
+                "buildid": "19286190",
+                "description": "cβt2用のブランチです。",
+                "timeupdated": "1752939712"
+            }
+        }
+    }
+}
