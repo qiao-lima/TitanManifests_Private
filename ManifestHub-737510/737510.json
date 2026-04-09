@@ -1,0 +1,53 @@
+{
+    "appid": 737510,
+    "name": "Dead Forest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 00:12:16",
+    "change_number": 30031529,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "737511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8525137232042690163",
+                    "size": "2525824412",
+                    "download": "791058448"
+                }
+            },
+            "decryptionkey": "68e4a8f694e042454d89adb60cfe0dc243c83d5e7d42c33b2dd305c6a442acf0"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "2646862",
+                "timeupdated": "1522376202"
+            }
+        }
+    }
+}
