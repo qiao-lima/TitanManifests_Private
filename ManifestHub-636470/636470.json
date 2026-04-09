@@ -1,0 +1,35 @@
+{
+    "appid": "636470",
+    "type": "Game",
+    "name": "Tungulus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23993675",
+    "update_time": "2024-08-14 19:28:32",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "636471": {
+            "manifests": {
+                "public": {
+                    "gid": "1004718978911240379",
+                    "size": "873055087",
+                    "download": "382037088"
+                }
+            },
+            "decryptionkey": "6bac78d157ddee2ef81c24221046c240ef33026d815ec9d6890d7c01795e65fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1960101",
+                "timeupdated": "1500012023"
+            }
+        }
+    },
+    "access_token": 1029492123752197055
+}
