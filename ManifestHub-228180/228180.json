@@ -1,0 +1,32 @@
+{
+    "appid": "228180",
+    "type": "Application",
+    "name": "Action! - Gameplay Recording and Streaming",
+    "schinese_name": "游戏录制和流媒体",
+    "isfreeapp": "0",
+    "change_number": "28970500",
+    "update_time": "2025-05-14 08:07:52",
+    "depot": {
+        "overridescddb": "1",
+        "228181": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1822237461482072711",
+                    "size": "461594539",
+                    "download": "121068528"
+                }
+            },
+            "decryptionkey": "34d0cf2ac7dbaa47a18969854e92a3a45edf17271cd04b70a31af5854b5aeaf2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18346998",
+                "timeupdated": "1746453888"
+            }
+        }
+    }
+}
