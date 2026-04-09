@@ -1,0 +1,99 @@
+{
+    "appid": 1280,
+    "name": "Darkest Hour: Europe '44-'45",
+    "type": "Game",
+    "schinese_name": "红色管弦乐队：至暗之时",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 10:47:52",
+    "change_number": 30164250,
+    "depot": {
+        "1202": {
+            "systemdefined": "1",
+            "depotfromapp": "1200",
+            "sharedinstall": "2"
+        },
+        "1201": {
+            "systemdefined": "1",
+            "depotfromapp": "1200",
+            "sharedinstall": "2"
+        },
+        "1282": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2523735100168155434",
+                    "size": "2626686453",
+                    "download": "1128647504"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "6043955557276725025",
+                    "size": "839188951",
+                    "download": "379969744"
+                },
+                "previous": {
+                    "gid": "5986524486820877251",
+                    "size": "2070867843",
+                    "download": "909294080"
+                },
+                "public-playtest": {
+                    "gid": "7145477015282017025",
+                    "size": "2567518451",
+                    "download": "1109560272"
+                }
+            },
+            "decryptionkey": "c26c669966a2d54b5e1715bd14faa2de0607fe762dc07aeebc31a98172cf4710"
+        },
+        "1281": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5775344916275395542",
+                    "size": "10852570755",
+                    "download": "3106487584"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "4376981082077672751",
+                    "size": "2130157052",
+                    "download": "627444112"
+                },
+                "previous": {
+                    "gid": "5786003204048175177",
+                    "size": "10353224478",
+                    "download": "2842788496"
+                },
+                "public-playtest": {
+                    "gid": "3054325805750765783",
+                    "size": "10991411891",
+                    "download": "3136375408"
+                }
+            },
+            "decryptionkey": "138734b199283e7885c9608a0e3084ee8dfd76197283503c8d34fe3be62b77f4"
+        },
+        "overridescddb": "1",
+        "workshopdepot": "0",
+        "baselanguages": "english,german,french,italian",
+        "branches": {
+            "public": {
+                "buildid": "19298034",
+                "timeupdated": "1753091267"
+            },
+            "legacy-v6.0.0": {
+                "buildid": "1026292",
+                "description": "v6.0.0",
+                "timeupdated": "1677240308"
+            },
+            "previous": {
+                "buildid": "16273988",
+                "description": "Rollback to previous version",
+                "timeupdated": "1752217922"
+            },
+            "public-playtest": {
+                "buildid": "17653922",
+                "description": "Public playtesting branch",
+                "timeupdated": "1741543795"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
