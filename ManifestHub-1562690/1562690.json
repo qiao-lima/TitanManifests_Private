@@ -1,0 +1,75 @@
+{
+    "appid": 1562690,
+    "name": "つぐのひ -彁名縛りの部屋-",
+    "type": "Game",
+    "schinese_name": "翌日 -鬼字之屋-",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 13:36:52",
+    "change_number": 30110507,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "1562691": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8443986201124424167",
+                    "size": "541498760",
+                    "download": "418495392"
+                }
+            },
+            "decryptionkey": "1752d1993f3de371df36865cf79aaec7f95906a46bd1f8d3e7947784f17ec5eb"
+        },
+        "1562692": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8110737503687911927",
+                    "size": "544994073",
+                    "download": "421372304"
+                }
+            },
+            "decryptionkey": "c4041d43abfa3c1c6c155abbb417d48b7feb938a551f7341f95a60f5092a4ad4"
+        },
+        "1562693": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1861100814617231650",
+                    "size": "541349169",
+                    "download": "418001296"
+                }
+            },
+            "decryptionkey": "50e13595bb74521c87b78497a5bebf56d1c592eed9b91990a1ecfdcc55073e46"
+        },
+        "1562694": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2848405175599541115",
+                    "size": "543383588",
+                    "download": "419334032"
+                }
+            },
+            "decryptionkey": "774b9f0e812ad9fcab59123eaab2da8ecb366c9b2cdd4ccabe4f0d0d1f438840"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18804984",
+                "timeupdated": "1749533420"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
