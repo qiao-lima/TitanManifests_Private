@@ -1,0 +1,81 @@
+{
+    "appid": 734880,
+    "name": "A Hat in Time - Modding Tools",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:56:37",
+    "change_number": 29771450,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "734881": {
+            "manifests": {
+                "public": {
+                    "gid": "466106850505658797",
+                    "size": "175400167",
+                    "download": "43902608"
+                },
+                "experimental": {
+                    "gid": "466106850505658797",
+                    "size": "175400167",
+                    "download": "43902608"
+                }
+            },
+            "decryptionkey": "37ef90088ef35afd9cd3f03a47192b6dd8cd9e75817ef770ae6265305dd30ec6"
+        },
+        "734882": {
+            "manifests": {
+                "public": {
+                    "gid": "1818814737854397975",
+                    "size": "6408060737",
+                    "download": "4344314192"
+                },
+                "experimental": {
+                    "gid": "1818814737854397975",
+                    "size": "6408060737",
+                    "download": "4344314192"
+                }
+            },
+            "decryptionkey": "26caef43e1437a1d33dff2a910bb47abc99eb7d624dc065e97c10b42db59922f"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19015731",
+                "timeupdated": "1750962997"
+            },
+            "experimental": {
+                "buildid": "19015731",
+                "timeupdated": "1750962968"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
