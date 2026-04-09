@@ -1,0 +1,54 @@
+{
+    "appid": 3393250,
+    "name": "Careening Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 20:21:45",
+    "change_number": 29371352,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3393251": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4188277002688711224",
+                    "size": "1089062484",
+                    "download": "959575360"
+                },
+                "testingbranch": {
+                    "gid": "4188277002688711224",
+                    "size": "1089062484",
+                    "download": "959575360"
+                }
+            },
+            "decryptionkey": "2c3198112e8fce61253d1dc33e0ac4f7fd4dcb3ceb0d7ac3f382d294ed9f8dd5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18732127",
+                "timeupdated": "1749039695"
+            },
+            "testingbranch": {
+                "buildid": "18732127",
+                "description": "A Test Branch",
+                "timeupdated": "1749031362"
+            }
+        }
+    }
+}
