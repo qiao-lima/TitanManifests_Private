@@ -1,0 +1,60 @@
+{
+    "appid": 1206230,
+    "name": "Sokpop S04: Kart kids",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 02:52:27",
+    "change_number": 30142061,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1206231": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2623245802775965517",
+                    "size": "130747738",
+                    "download": "37831680"
+                }
+            },
+            "decryptionkey": "2067c97ba13f70c4da6a6dd44657df207e60f34122540138aefc966b840477cc"
+        },
+        "1206232": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3055110114805124321",
+                    "size": "141461330",
+                    "download": "41482032"
+                }
+            },
+            "decryptionkey": "37cb9da40d95399484bbeb30a00ec97afeb99df96b3838ab8a758f69f36cdbde"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "4569332",
+                "timeupdated": "1579013473"
+            }
+        }
+    }
+}
