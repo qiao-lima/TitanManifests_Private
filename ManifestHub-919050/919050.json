@@ -1,0 +1,30 @@
+{
+    "appid": 919050,
+    "name": "Graveyard Keeper OST",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 01:10:15",
+    "change_number": 29905922,
+    "depot": {
+        "919052": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3096866764171687934",
+                    "size": "225787131",
+                    "download": "220577232"
+                }
+            },
+            "decryptionkey": "7e7e6c419ae023cf6616a608f94bf66f55c1c1378c8b366f5ccf57ff045a329c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7582265",
+                "timeupdated": "1635353785"
+            }
+        }
+    }
+}
