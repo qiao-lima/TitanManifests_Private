@@ -1,0 +1,30 @@
+{
+    "appid": 1599250,
+    "name": "BORIS RUSSIAN BEAR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 01:15:30",
+    "change_number": 29554409,
+    "depot": {
+        "1599251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7778978495866156751",
+                    "size": "1102501676",
+                    "download": "325114464"
+                }
+            },
+            "decryptionkey": "bd98fc9ebcb7b9d6a075540cd7731fb179af448e87280b7eafc7c8d7a74cedbf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6504959",
+                "timeupdated": "1617831736"
+            }
+        }
+    }
+}
