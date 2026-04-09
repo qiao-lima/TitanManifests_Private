@@ -1,0 +1,28 @@
+{
+    "appid": 2130650,
+    "name": "城市工人模拟器",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 05:22:07",
+    "change_number": 29569217,
+    "depot": {
+        "2130651": {
+            "manifests": {
+                "public": {
+                    "gid": "4866303755538665438",
+                    "size": "79135303",
+                    "download": "32723584"
+                }
+            },
+            "decryptionkey": "bdc896fb68376a767dfed5ec1de617eeca4cb6863c02c32c836ad8fc1f91093b"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18869900",
+                "timeupdated": "1749936122"
+            }
+        }
+    }
+}
