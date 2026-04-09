@@ -1,0 +1,27 @@
+{
+    "appid": 1244210,
+    "name": "Fragile Box",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:17:56",
+    "change_number": 29629484,
+    "depot": {
+        "1244211": {
+            "manifests": {
+                "public": {
+                    "gid": "6510983922972520426",
+                    "size": "71441124",
+                    "download": "18917168"
+                }
+            },
+            "decryptionkey": "b4f885f6f0f8e3b7e4d52ff59148f5ac4fa2c59b97c9d25cf4c8e7da42f909a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4703308",
+                "timeupdated": "1582315598"
+            }
+        }
+    }
+}
