@@ -1,0 +1,26 @@
+{
+    "appid": 319180,
+    "name": "Platypus II",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 13:11:19",
+    "change_number": 30035276,
+    "depot": {
+        "319181": {
+            "manifests": {
+                "public": {
+                    "gid": "1602467058799160559",
+                    "size": "97182523",
+                    "download": "26231648"
+                }
+            },
+            "decryptionkey": "f6a8104acd52ac4282eaf19af4556c8e6e05e2e450896216f9b24c6ae0f1ed3f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "356985"
+            }
+        }
+    }
+}
