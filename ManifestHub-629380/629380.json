@@ -1,0 +1,27 @@
+{
+    "appid": 629380,
+    "name": "Cosmic Pioneer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:03",
+    "change_number": 30056460,
+    "depot": {
+        "629381": {
+            "manifests": {
+                "public": {
+                    "gid": "2389488246815387056",
+                    "size": "8904704",
+                    "download": "8953040"
+                }
+            },
+            "decryptionkey": "8c430736c117fc4134c0c249c519e1f12a3b929f6d93ac3ce0be6338e2176679"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1877504",
+                "timeupdated": "1496939084"
+            }
+        }
+    }
+}
