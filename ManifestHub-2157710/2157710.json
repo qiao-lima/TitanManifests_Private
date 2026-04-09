@@ -1,0 +1,42 @@
+{
+    "appid": 2157710,
+    "name": "Hordes of Hunger",
+    "type": "Game",
+    "schinese_name": "饥兽之战",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 08:40:36",
+    "change_number": 30201539,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2157711": {
+            "manifests": {
+                "public": {
+                    "gid": "5331853158829638209",
+                    "size": "5607064009",
+                    "download": "4923274368"
+                }
+            },
+            "decryptionkey": "aae1b54d52d987432e2554037a1c3b2176de82193e23ac6613b422c4bbc15775"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19077253",
+                "timeupdated": "1751987508"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
