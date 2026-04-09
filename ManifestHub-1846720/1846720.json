@@ -1,0 +1,42 @@
+{
+    "appid": 1846720,
+    "name": "Pixelshire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 16:11:26",
+    "change_number": 30014272,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1846721": {
+            "manifests": {
+                "public": {
+                    "gid": "35587978330188541",
+                    "size": "757185161",
+                    "download": "209984368"
+                }
+            },
+            "decryptionkey": "0fa8a7d5fd3f702285647d12af11c7d8889ff5098f2524df9f7948402be863b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19069953",
+                "timeupdated": "1751414425"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
