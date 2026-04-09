@@ -1,0 +1,67 @@
+{
+    "appid": "1175460",
+    "type": "Game",
+    "name": "Revita",
+    "schinese_name": "轮回塔 (Revita)",
+    "isfreeapp": "0",
+    "change_number": "28984818",
+    "update_time": "2025-05-15 00:07:54",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1175461": {
+            "manifests": {
+                "public": {
+                    "gid": "4793105010240808698",
+                    "size": "518567438",
+                    "download": "372504240"
+                },
+                "community_public": {
+                    "gid": "7813431195050090102",
+                    "size": "521036854",
+                    "download": "372331888"
+                }
+            },
+            "decryptionkey": "beeb75bf5749e5423989f4504f08271be91d765c00174f18d464d058363b6b14"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11017028",
+                "timeupdated": "1682114232"
+            },
+            "community_public": {
+                "buildid": "11017033",
+                "description": "Public Beta Branch",
+                "timeupdated": "1682114245"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 17846453691280899061
+}
