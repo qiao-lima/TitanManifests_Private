@@ -1,0 +1,29 @@
+{
+    "appid": 1507580,
+    "name": "Enigma of Fear",
+    "type": "Game",
+    "schinese_name": "恐惧之谜",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 20:58:17",
+    "change_number": 29629105,
+    "depot": {
+        "1507581": {
+            "manifests": {
+                "public": {
+                    "gid": "4020181566701120005",
+                    "size": "7889094823",
+                    "download": "4913788544"
+                }
+            },
+            "decryptionkey": "02e59ed98b50bb3d26c8b5b17256f6c452dafba9a36e7500911c1f2a2cb1a745"
+        },
+        "baselanguages": "english,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "16919276",
+                "timeupdated": "1736804342"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
