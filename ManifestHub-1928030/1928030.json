@@ -1,0 +1,44 @@
+{
+    "appid": 1928030,
+    "name": "Rightfully, Beary Arms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 21:30:46",
+    "change_number": 30214268,
+    "depot": {
+        "1928031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8281113525882446250",
+                    "size": "268212677",
+                    "download": "201820416"
+                }
+            },
+            "decryptionkey": "4038f9a249fd16adbac214a013a469492018d8af5b404d434796f5df5b5819e8"
+        },
+        "1928032": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2176354682560739208",
+                    "size": "312568451",
+                    "download": "204228656"
+                }
+            },
+            "decryptionkey": "101ee70f600bc660aac618f8e94a75b72073d0974ce84c9b1c7a9eef6c978bb5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19033180",
+                "timeupdated": "1751549241"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
