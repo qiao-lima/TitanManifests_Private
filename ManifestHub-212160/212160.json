@@ -1,0 +1,39 @@
+{
+    "appid": 212160,
+    "name": "Vindictus",
+    "type": "Game",
+    "schinese_name": "洛奇英雄传",
+    "isfreeapp": 1,
+    "update_time": "2025-07-15 08:09:32",
+    "change_number": 30062975,
+    "depot": {
+        "overridescddb": "1",
+        "212161": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6321877861337860024",
+                    "size": "37612927914",
+                    "download": "35612808480"
+                }
+            },
+            "decryptionkey": "fd89531b4a3d135c2d2841963aa6a3b9fd54f90fe6f67788e862d92e0ae2df22"
+        },
+        "212162": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19224687",
+                "timeupdated": "1752563367"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
