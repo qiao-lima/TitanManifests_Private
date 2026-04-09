@@ -1,0 +1,52 @@
+{
+    "appid": 289420,
+    "name": "Planet Alcatraz",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 01:18:05",
+    "change_number": 30141302,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "289421": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8006811887630911375",
+                    "size": "4727232245",
+                    "download": "3394382624"
+                }
+            },
+            "decryptionkey": "96c2086330ed1abd6113f3e003c6151d437f74b046d46a30a789865a5e0d9c05"
+        },
+        "289422": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7728565036658871259",
+                    "size": "3020629717",
+                    "download": "2363226320"
+                }
+            },
+            "decryptionkey": "2cc184db111cb611de9d9007dbe7172df9da2c3d3938a0806887c7e3a2c00014"
+        },
+        "branches": {
+            "public": {
+                "buildid": "483787"
+            }
+        }
+    }
+}
