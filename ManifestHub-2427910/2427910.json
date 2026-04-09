@@ -1,0 +1,45 @@
+{
+    "appid": 2427910,
+    "name": "Neonscape",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 02:52:29",
+    "change_number": 30159748,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2427911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "601558353128984939",
+                    "size": "1790305160",
+                    "download": "529911152"
+                }
+            },
+            "decryptionkey": "4cb8d5cada76edbddf5b0e636e92fc8770433460d1149ee51143c8156e19d111"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11627401",
+                "timeupdated": "1688529252"
+            }
+        }
+    }
+}
