@@ -1,0 +1,44 @@
+{
+    "appid": 1708770,
+    "name": "30 Birds",
+    "type": "Game",
+    "schinese_name": "鸟语三十 30 Birds",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 20:56:23",
+    "change_number": 29885387,
+    "depot": {
+        "1708771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6445639006182063464",
+                    "size": "1835169030",
+                    "download": "1410951200"
+                }
+            },
+            "decryptionkey": "ccdf1242392d0abcf1e77c13700ef7600efe27c49f97796d2761d88cdc123b3a"
+        },
+        "1708772": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6085978351917480254",
+                    "size": "1860578201",
+                    "download": "1428340384"
+                }
+            },
+            "decryptionkey": "728b2c1b863b743b2d6db930ae9a0fd94e19ed5230e498481a6711c070d661a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19078016",
+                "timeupdated": "1751452751"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
