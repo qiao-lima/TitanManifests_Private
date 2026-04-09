@@ -1,0 +1,41 @@
+{
+    "appid": 2838630,
+    "name": "Sea of Thieves: Athena's Fortune Audiobook",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 23:28:34",
+    "change_number": 30194730,
+    "depot": {
+        "2838631": {
+            "manifests": {
+                "public": {
+                    "gid": "739321582875573975",
+                    "size": "1216051200",
+                    "download": "1068621200"
+                }
+            },
+            "decryptionkey": "398266b3450812ecd97e3f428e6546c939c5ebda28899a391cafa3ff2311f2cf"
+        },
+        "2838632": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8106968498466588924",
+                    "size": "7353945696",
+                    "download": "5130352352"
+                }
+            },
+            "decryptionkey": "bf2d7c38224c5b155dce8a0857ecc24110e9afe71c7f4205e51330b8f99373a5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13732090",
+                "timeupdated": "1710367986"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
