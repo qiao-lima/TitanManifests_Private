@@ -1,0 +1,53 @@
+{
+    "appid": 1877650,
+    "name": "Zero Orders Tactics",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 00:10:30",
+    "change_number": 30031519,
+    "depot": {
+        "1877651": {
+            "manifests": {
+                "public": {
+                    "gid": "7318202724162251189",
+                    "size": "85315817",
+                    "download": "50519088"
+                },
+                "beta": {
+                    "gid": "4970262154819293407",
+                    "size": "84516117",
+                    "download": "49393584"
+                }
+            },
+            "decryptionkey": "ded1721502f07a23fd66c270180e5864b403cfcca0ba195dd0544b70f5be8018"
+        },
+        "1877652": {
+            "manifests": {
+                "public": {
+                    "gid": "1330215686950610074",
+                    "size": "85315817",
+                    "download": "50517040"
+                },
+                "beta": {
+                    "gid": "1692521119348645663",
+                    "size": "84516117",
+                    "download": "49388208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "19204117",
+                "timeupdated": "1752361826"
+            },
+            "beta": {
+                "buildid": "18331204",
+                "description": "Beta",
+                "timeupdated": "1746266473"
+            }
+        }
+    }
+}
