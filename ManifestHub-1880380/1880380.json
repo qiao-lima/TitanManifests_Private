@@ -1,0 +1,46 @@
+{
+    "appid": 1880380,
+    "name": "Total War: WARHAMMER III - Assembly Kit BETA",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:06:04",
+    "change_number": 30217565,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1880381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9097656593000267343",
+                    "size": "4029649262",
+                    "download": "460816320"
+                }
+            },
+            "decryptionkey": "ed4bdc67cec16960a6658c1f6f82bbdf18b109c3b3fa8afb0930078c74a4a037"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19101608",
+                "timeupdated": "1751968410"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
