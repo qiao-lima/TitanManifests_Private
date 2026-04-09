@@ -1,0 +1,28 @@
+{
+    "appid": 1796580,
+    "name": "Sorry We're Closed",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 11:20:18",
+    "change_number": 29858335,
+    "depot": {
+        "1796581": {
+            "manifests": {
+                "public": {
+                    "gid": "6541337458222201219",
+                    "size": "2697183765",
+                    "download": "2035421568"
+                }
+            },
+            "decryptionkey": "45fad82572fb613085919dbc9a542d60221d038570a535a0ba087dea89e98c40"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18708227",
+                "timeupdated": "1750348829"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
