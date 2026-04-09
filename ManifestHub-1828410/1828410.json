@@ -1,0 +1,48 @@
+{
+    "appid": 1828410,
+    "name": "survive the island",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-18 16:36:15",
+    "change_number": 30134640,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1828411": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1501326452834678158",
+                    "size": "719062295",
+                    "download": "571427600"
+                }
+            },
+            "decryptionkey": "20433d4c0f3bb5f2f7fe892fdfb5e98f09c489032dc5cd8ef5cd8d8f7de050c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17609860",
+                "timeupdated": "1741208194"
+            }
+        }
+    }
+}
