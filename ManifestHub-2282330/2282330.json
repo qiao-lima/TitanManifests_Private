@@ -1,0 +1,43 @@
+{
+    "appid": 2282330,
+    "name": "Crime Passional",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 20:15:56",
+    "change_number": 29709922,
+    "depot": {
+        "2282331": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5184617754981025051",
+                    "size": "554785470",
+                    "download": "183787760"
+                }
+            },
+            "decryptionkey": "7b7cb62b0c46e4d075d6a7c8f63c01fb7e093ddfd40e578ca390617d50df3fb4"
+        },
+        "2282332": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6965438414356096130",
+                    "size": "574264196",
+                    "download": "185413088"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18969246",
+                "timeupdated": "1750704740"
+            }
+        }
+    }
+}
