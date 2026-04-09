@@ -1,0 +1,54 @@
+{
+    "appid": 2396630,
+    "name": "Unsupervised",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 08:12:41",
+    "change_number": 30033653,
+    "depot": {
+        "2396631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1606441541725764826",
+                    "size": "244128057",
+                    "download": "79903152"
+                }
+            },
+            "decryptionkey": "ff3b8472dc57a80ba5ba96595402ec970475436cc3b2f353263626c123692f88"
+        },
+        "2396632": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "420572904391246023",
+                    "size": "16401148",
+                    "download": "5077264"
+                }
+            }
+        },
+        "2396633": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2055679023783568119",
+                    "size": "246734402",
+                    "download": "74575520"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18738949",
+                "timeupdated": "1749062193"
+            }
+        }
+    }
+}
