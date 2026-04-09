@@ -1,0 +1,51 @@
+{
+    "appid": 2352790,
+    "name": "Goblin Lord wants me to become a Virgin Wizard by Managing The Brothel!?",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:29:32",
+    "change_number": 29722959,
+    "depot": {
+        "2352791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3321682212059154705",
+                    "size": "1594090292",
+                    "download": "548297024"
+                },
+                "previousversion": {
+                    "gid": "8476868262393673394",
+                    "size": "1593377547",
+                    "download": "547862320"
+                },
+                "public_beta": {
+                    "gid": "6774615898441920373",
+                    "size": "1593041516",
+                    "download": "548294784"
+                }
+            },
+            "decryptionkey": "c595d21810f6e0670e83a7b8411c4df90a312e4ed3694bc1d0dd17c72dcf0d1f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18902724",
+                "timeupdated": "1750191908"
+            },
+            "previousversion": {
+                "buildid": "17916145",
+                "description": "previous version of the game",
+                "timeupdated": "1750192018"
+            },
+            "public_beta": {
+                "buildid": "18897211",
+                "description": "Beta build",
+                "timeupdated": "1750191494"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
