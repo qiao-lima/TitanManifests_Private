@@ -1,0 +1,28 @@
+{
+    "appid": 1517970,
+    "name": "Aeterna Noctis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:29:30",
+    "change_number": 29655017,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1517971": {
+            "manifests": {
+                "public": {
+                    "gid": "8784385710073806089",
+                    "size": "6452052963",
+                    "download": "4977995680"
+                }
+            },
+            "decryptionkey": "218b81743a1a245ae88694e01fefe4d2c67815a96cec4b37a6589937b267926a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16235814",
+                "timeupdated": "1730288081"
+            }
+        }
+    }
+}
