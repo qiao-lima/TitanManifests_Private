@@ -1,0 +1,31 @@
+{
+    "appid": "615000",
+    "type": "Game",
+    "name": "Totally Accurate Battle Zombielator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-08-14 19:25:41",
+    "depot": {
+        "615001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4091767241189483942",
+                    "size": "482211894",
+                    "download": "130680016"
+                }
+            },
+            "decryptionkey": "75b66dbb7de2530980ec57067dc7a1cead00607c1352209934be7f7e1fb64dc8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1732898",
+                "timeupdated": "1491328728"
+            }
+        }
+    },
+    "access_token": 10185113881492034306
+}
