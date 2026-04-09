@@ -1,0 +1,29 @@
+{
+    "appid": 628570,
+    "name": "Trivia Night",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 15:51:50",
+    "change_number": 30147171,
+    "depot": {
+        "baselanguages": "english",
+        "628571": {
+            "manifests": {
+                "public": {
+                    "gid": "7916822657981877844",
+                    "size": "288470388",
+                    "download": "30665952"
+                }
+            },
+            "decryptionkey": "2a3c4d14ea9b60ae5e57e00ae913561a3acf68e06b4ddf8b6305dc892e4459bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2221539",
+                "timeupdated": "1508752872"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
