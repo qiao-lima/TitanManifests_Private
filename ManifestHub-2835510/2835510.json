@@ -1,0 +1,118 @@
+{
+    "appid": 2835510,
+    "name": "SysAdmin Odyssey. Back to the office Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 23:33:01",
+    "change_number": 30120080,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2835513": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2836037348807434391",
+                    "size": "3153852850",
+                    "download": "690227232"
+                },
+                "0.15": {
+                    "gid": "6444163300597142500",
+                    "size": "3045102880",
+                    "download": "609416896"
+                },
+                "0.16": {
+                    "gid": "2836037348807434391",
+                    "size": "3153852850",
+                    "download": "690227232"
+                }
+            },
+            "decryptionkey": "7e57387aed03ff44945d75ef33d3c6e272fdbe0976d7d317ffd23fe5cab47389"
+        },
+        "2835512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6550452645153769350",
+                    "size": "3089264450",
+                    "download": "638476304"
+                },
+                "0.15": {
+                    "gid": "5056219452621201534",
+                    "size": "3021419761",
+                    "download": "586488784"
+                },
+                "0.16": {
+                    "gid": "6550452645153769350",
+                    "size": "3089264450",
+                    "download": "638476304"
+                }
+            }
+        },
+        "2835511": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2804500054443890033",
+                    "size": "3171138046",
+                    "download": "680279536"
+                },
+                "0.15": {
+                    "gid": "5370760582071373378",
+                    "size": "3029760382",
+                    "download": "597502400"
+                },
+                "0.16": {
+                    "gid": "2804500054443890033",
+                    "size": "3171138046",
+                    "download": "680279536"
+                }
+            }
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "19266638",
+                "timeupdated": "1752791578"
+            },
+            "0.15": {
+                "buildid": "19030452",
+                "description": "build 0.15",
+                "timeupdated": "1751050397"
+            },
+            "0.16": {
+                "buildid": "19266638",
+                "description": "build 0.16",
+                "timeupdated": "1752791553"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
