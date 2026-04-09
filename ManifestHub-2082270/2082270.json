@@ -1,0 +1,37 @@
+{
+    "appid": 2082270,
+    "name": "Artifact",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 04:33:46",
+    "change_number": 30123836,
+    "depot": {
+        "2082271": {
+            "manifests": {
+                "public": {
+                    "gid": "5196500550481939154",
+                    "size": "692894758",
+                    "download": "339700896"
+                },
+                "test": {
+                    "gid": "2834477799574137068",
+                    "size": "327159606",
+                    "download": "233892896"
+                }
+            },
+            "decryptionkey": "bd6cf37cad5ec2f580323ed01bc2e352f1670445ed1d8d2c12d145fc94735f3d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18244924",
+                "timeupdated": "1745620462"
+            },
+            "test": {
+                "buildid": "19263738",
+                "description": "Artifact Test Branch",
+                "timeupdated": "1752773897"
+            }
+        }
+    }
+}
