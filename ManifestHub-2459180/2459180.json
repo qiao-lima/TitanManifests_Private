@@ -1,0 +1,41 @@
+{
+    "appid": 2459180,
+    "name": "Praise Dead",
+    "type": "Game",
+    "schinese_name": "赞美死者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 15:32:51",
+    "change_number": 30027945,
+    "depot": {
+        "2459181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3653028280454724697",
+                    "size": "205806087",
+                    "download": "50965248"
+                },
+                "beta": {
+                    "gid": "6974685334543425322",
+                    "size": "204422314",
+                    "download": "50008192"
+                }
+            },
+            "decryptionkey": "bb47005981c4680b9cf68fff32827f3a5ae129b283a8d78b686f2754b3d14b5d"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19201812",
+                "timeupdated": "1752330763"
+            },
+            "beta": {
+                "buildid": "19112925",
+                "description": "beta testing",
+                "timeupdated": "1751661965"
+            }
+        }
+    }
+}
