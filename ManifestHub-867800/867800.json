@@ -1,0 +1,38 @@
+{
+    "appid": 867800,
+    "name": "Gravity Jump",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:58:25",
+    "change_number": 29196236,
+    "depot": {
+        "867801": {
+            "manifests": {
+                "public": {
+                    "gid": "967580417601770840",
+                    "size": "48939717",
+                    "download": "13440256"
+                }
+            },
+            "decryptionkey": "ea8f0506afb8fbdd3d155e7caa802d85cfe68fcd49de676dc5cff18f45062696"
+        },
+        "869430": {
+            "manifests": {
+                "public": {
+                    "gid": "1623219004292550604",
+                    "size": "57123554",
+                    "download": "48853728"
+                }
+            },
+            "dlcappid": "869430",
+            "decryptionkey": "d2f0d446abcd4930977edfcafb0d7c7ffa17388cd2119a3dd94715e0f54bc70e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3673701",
+                "timeupdated": "1553338714"
+            }
+        }
+    }
+}
