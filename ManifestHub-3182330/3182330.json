@@ -1,0 +1,59 @@
+{
+    "appid": 3182330,
+    "name": "Catboy Aim Trainer",
+    "type": "Game",
+    "schinese_name": "猫男孩瞄准训练师 Catboy",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 02:18:09",
+    "change_number": 30001181,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3182331": {
+            "manifests": {
+                "public": {
+                    "gid": "499647997709485803",
+                    "size": "533590513",
+                    "download": "409563072"
+                },
+                "censoredstreamermode": {
+                    "gid": "7862452132839733126",
+                    "size": "525497925",
+                    "download": "404237936"
+                }
+            },
+            "decryptionkey": "9ab21fe350d2aed683963d68108e4217d1d2f960d502a9667e83c9391827b215"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19089083",
+                "timeupdated": "1751521868"
+            },
+            "censoredstreamermode": {
+                "buildid": "16347270",
+                "description": "Censored Mode for Streamers",
+                "timeupdated": "1740033926"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
