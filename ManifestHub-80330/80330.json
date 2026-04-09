@@ -1,0 +1,73 @@
+{
+    "appid": 80330,
+    "name": "The Blackwell Legacy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 21:29:12",
+    "change_number": 29693146,
+    "depot": {
+        "overridescddb": "1",
+        "80331": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7287666123364328189",
+                    "size": "254472106",
+                    "download": "210376544"
+                }
+            },
+            "decryptionkey": "4d82aad9752fad23ee91d06374c23e26f12cd1c46c0a3cc5276b6660e315ac48"
+        },
+        "80332": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8301319955482033306",
+                    "size": "325750746",
+                    "download": "228328704"
+                }
+            },
+            "decryptionkey": "f2f2b9b300a6f986b5d6c82a26ca35a1b78ee3cb4e137d39d7b4b1ba58720ea9"
+        },
+        "80333": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1975881019329525047",
+                    "size": "269582481",
+                    "download": "215165120"
+                }
+            },
+            "decryptionkey": "9bd1891cc8ccca9815e3501268204ffaa76ad9897ae13790f25f90a501331b78"
+        },
+        "2023580": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8621013279042505112",
+                    "size": "326702719",
+                    "download": "226058352"
+                }
+            },
+            "decryptionkey": "36c537ea1ad36f55968d8cec07325ca42e37bd68af0558c76f34eb592f1940bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18957706",
+                "timeupdated": "1750624147"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
