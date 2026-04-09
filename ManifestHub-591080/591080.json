@@ -1,0 +1,74 @@
+{
+    "appid": "591080",
+    "type": "Game",
+    "name": "Undead Hunter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:22:07",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "591081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6451400864482952081",
+                    "size": "35642835",
+                    "download": "20750000"
+                }
+            },
+            "decryptionkey": "daabb41764a6151ba48094a72d7d29a3c4b19a14c13056092f91b65d218d6ef3"
+        },
+        "591082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9160230653844347122",
+                    "size": "30727984",
+                    "download": "19959728"
+                }
+            },
+            "decryptionkey": "b0a76cf27d4025516742a54eaeb7cc9b9d9fc49c411fb528b3d94e345161de06"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1845382",
+                "timeupdated": "1495720735"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 10845704042668368114
+}
