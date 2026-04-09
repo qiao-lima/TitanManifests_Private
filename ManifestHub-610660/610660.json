@@ -1,0 +1,27 @@
+{
+    "appid": 610660,
+    "name": "Russian Roads",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 23:19:16",
+    "change_number": 30098741,
+    "depot": {
+        "610661": {
+            "manifests": {
+                "public": {
+                    "gid": "6114494601835943142",
+                    "size": "854158075",
+                    "download": "135509328"
+                }
+            },
+            "decryptionkey": "27bb842b8eae7fd6a17bbf49be4f2264cc4dfe7b313f3e0736244ae490b467df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9230728",
+                "timeupdated": "1659369619"
+            }
+        }
+    }
+}
