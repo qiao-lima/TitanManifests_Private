@@ -1,0 +1,63 @@
+{
+    "appid": 2370570,
+    "name": "Standable: Full Body Estimation",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 01:03:19",
+    "change_number": 30100030,
+    "depot": {
+        "baselanguages": "",
+        "2370571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6649424101846737502",
+                    "size": "34162448",
+                    "download": "31146368"
+                },
+                "legacy": {
+                    "gid": "3537082816802213706",
+                    "size": "9495075",
+                    "download": "8485824"
+                },
+                "rollback": {
+                    "gid": "2607576688229201678",
+                    "size": "34433205",
+                    "download": "31270944"
+                },
+                "open-beta": {
+                    "gid": "6649424101846737502",
+                    "size": "34162448",
+                    "download": "31146368"
+                }
+            },
+            "decryptionkey": "dc5e3cf0c26fde1cad4dae1dededee6f611ccffe9d48ee5d29df447eb6b9ac60"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18697265",
+                "timeupdated": "1749011680"
+            },
+            "legacy": {
+                "buildid": "14460584",
+                "description": "Original v1.1 build",
+                "timeupdated": "1716414122"
+            },
+            "rollback": {
+                "buildid": "14488324",
+                "description": "Previous build (v2.0.1)",
+                "timeupdated": "1735246378"
+            },
+            "open-beta": {
+                "buildid": "18697265",
+                "description": "for early testing",
+                "timeupdated": "1748838824"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
