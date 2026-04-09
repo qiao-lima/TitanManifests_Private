@@ -1,0 +1,69 @@
+{
+    "appid": 3028310,
+    "name": "Nordhold",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 01:55:38",
+    "change_number": 30141619,
+    "depot": {
+        "baselanguages": "english",
+        "3028311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4323272803282679937",
+                    "size": "2601713297",
+                    "download": "466855552"
+                }
+            },
+            "decryptionkey": "553fc1b6d6075185f02a8eba5821d274d56536e35f297a4733b779552e9b07e7"
+        },
+        "3028312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "701782387759273350",
+                    "size": "2746257407",
+                    "download": "495626880"
+                }
+            },
+            "decryptionkey": "2407db94a13666878dc806ac384b2af3741cce1a7499122097f3b1cd57b670e2"
+        },
+        "3028313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6808453861172484710",
+                    "size": "2632469928",
+                    "download": "489485040"
+                }
+            },
+            "decryptionkey": "e86a6f9d2c72b0fb239862435f6b8c4c431acc28a8734d846ed3032fc6b5f4fe"
+        },
+        "3453990": {
+            "dlcappid": "3453990",
+            "manifests": {
+                "public": {
+                    "gid": "3517757317403910077",
+                    "size": "90451558",
+                    "download": "84648048"
+                }
+            },
+            "decryptionkey": "6b5ee20b58e6268ecbdc302b151f75c70818bac9adeac5b600680781c73afed6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19266473",
+                "timeupdated": "1752886076"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
