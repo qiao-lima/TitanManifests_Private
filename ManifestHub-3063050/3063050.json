@@ -1,0 +1,27 @@
+{
+    "appid": 3063050,
+    "name": "あうんちゃんのお困りですよね!?霊夢さん!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:58:48",
+    "change_number": 29429576,
+    "depot": {
+        "3063051": {
+            "manifests": {
+                "public": {
+                    "gid": "2423548112978462019",
+                    "size": "147920899",
+                    "download": "80261856"
+                }
+            },
+            "decryptionkey": "cd8fb7a17f9136ea607d4b0d59bbade9997509f217351980a394495844485ffc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15355053",
+                "timeupdated": "1723552841"
+            }
+        }
+    }
+}
