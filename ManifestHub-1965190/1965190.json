@@ -1,0 +1,35 @@
+{
+    "appid": 1965190,
+    "name": "Dragon Spirits 2",
+    "type": "Game",
+    "schinese_name": "龙魂：魔都异闻",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 03:52:19",
+    "change_number": 30160152,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1965191": {
+            "manifests": {
+                "public": {
+                    "gid": "2683644433757649636",
+                    "size": "2892229346",
+                    "download": "2130523920"
+                }
+            },
+            "decryptionkey": "e9917973ee16bd554326405fe08047b770009ad769ab881c8a458baff91c41a5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16026715",
+                "timeupdated": "1728882027"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
