@@ -1,0 +1,37 @@
+{
+    "appid": 1391530,
+    "name": "Mud and Blood",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 04:01:16",
+    "change_number": 29871333,
+    "depot": {
+        "baselanguages": "english",
+        "1391531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8619151727390575047",
+                    "size": "1870773886",
+                    "download": "1876587328"
+                }
+            },
+            "decryptionkey": "8ec8805c0e8598e536c76d8366797b988c8c6057635d9ac6883d7711628e43c5"
+        },
+        "1391532": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19087716",
+                "timeupdated": "1751511647"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
