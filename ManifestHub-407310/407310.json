@@ -1,0 +1,51 @@
+{
+    "appid": 407310,
+    "name": "NEKO-NIN exHeart",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 07:44:36",
+    "change_number": 29496314,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "407311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8919276514474818202",
+                    "size": "1394118619",
+                    "download": "1044459344"
+                }
+            },
+            "decryptionkey": "512f595c114e99f18864b73769b9d6bcbf6a5e0eeed07aff8b9569c411213c38"
+        },
+        "943690": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3588041981479506631",
+                    "size": "613034911",
+                    "download": "261570800"
+                }
+            },
+            "dlcappid": "943690",
+            "decryptionkey": "2ef2f675a091ef12802a78b0499f0271f7106d22e9f0f88352727a3de806e15f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3112688",
+                "timeupdated": "1536699645"
+            }
+        }
+    }
+}
