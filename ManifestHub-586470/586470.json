@@ -1,0 +1,42 @@
+{
+    "appid": 586470,
+    "name": "Casino Noir",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 22:51:30",
+    "change_number": 30149907,
+    "depot": {
+        "baselanguages": "english,russian",
+        "586471": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3797215535851732551",
+                    "size": "66140860",
+                    "download": "25943360"
+                }
+            },
+            "decryptionkey": "b4f9a467d8934dd292518822da865a4c98c1d8854152d919d8df852ceecb5888"
+        },
+        "586472": {
+            "manifests": {
+                "public": {
+                    "gid": "8043929538376749837",
+                    "size": "66140644",
+                    "download": "25943216"
+                }
+            },
+            "decryptionkey": "3853ffb5b63c939bd717cc7dd6618a7bc865fd66e797df9e2c4f58a79c0a9d67"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1717685",
+                "timeupdated": "1490631701"
+            }
+        }
+    },
+    "access_token": 16397287698116180498
+}
