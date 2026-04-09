@@ -1,0 +1,43 @@
+{
+    "appid": 2403290,
+    "name": "Boyhood's End",
+    "type": "Game",
+    "schinese_name": "少年的终结",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 12:57:30",
+    "change_number": 30130809,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,japanese",
+        "hasdepotsindlc": "1",
+        "2403291": {
+            "manifests": {
+                "public": {
+                    "gid": "3037524496832082337",
+                    "size": "1273539394",
+                    "download": "904822496"
+                },
+                "public-beta": {
+                    "gid": "2678489538773284688",
+                    "size": "1331500962",
+                    "download": "946484528"
+                }
+            },
+            "decryptionkey": "feaae982c0d913479fa740be39d5956d7e1efe8cb99b3a8e0b906382f7d40918"
+        },
+        "3204701": {
+            "dlcappid": "3204700"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18152737",
+                "timeupdated": "1744977658"
+            },
+            "public-beta": {
+                "buildid": "19269656",
+                "description": "public beta branch",
+                "timeupdated": "1752839821"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
