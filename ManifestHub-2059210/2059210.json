@@ -1,0 +1,32 @@
+{
+    "appid": 2059210,
+    "name": "衔尾：龙之铃",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 09:42:47",
+    "change_number": 30182272,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2059211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4784318217820355820",
+                    "size": "5785244578",
+                    "download": "907218064"
+                }
+            },
+            "decryptionkey": "18e8a52ae739db338ab4d00204372e403a7965a7e1122e5e7a1b247b023807ed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19296586",
+                "timeupdated": "1753082329"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
