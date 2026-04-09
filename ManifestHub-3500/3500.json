@@ -1,0 +1,28 @@
+{
+    "appid": 3500,
+    "name": "Mystery P.I.: The Lottery Ticket",
+    "type": "Game",
+    "schinese_name": "神秘侦探：彩票迷踪",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:10:03",
+    "change_number": 29729426,
+    "depot": {
+        "3501": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3879744768482090813",
+                    "size": "43849372",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "92e1f7ab7599c77842e2d7a87211386f1425251f24693e1648af4b615ef2b9de"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "10699"
+            }
+        }
+    }
+}
