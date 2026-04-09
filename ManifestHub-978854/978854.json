@@ -1,0 +1,28 @@
+{
+    "appid": 978854,
+    "name": "DYNASTY WARRIORS 9: Wang Yuanji (Nurse Costume) / 王元姫 「ナース風コスチューム」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:47",
+    "change_number": 26201212,
+    "depot": {
+        "978854": {
+            "dlcappid": "978854",
+            "manifests": {
+                "public": {
+                    "gid": "8104978912386624555",
+                    "size": "42577716",
+                    "download": "42395696"
+                }
+            },
+            "decryptionkey": "80d2b72918a28373cda3f794480193981b3b39d7d6cbb2a23e28412522c7f6a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3388610",
+                "timeupdated": "1544581176"
+            }
+        }
+    }
+}
