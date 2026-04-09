@@ -1,0 +1,30 @@
+{
+    "appid": 849100,
+    "name": "Alaskan Road Truckers",
+    "type": "Game",
+    "schinese_name": "阿拉斯加卡车司机",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 10:42:17",
+    "change_number": 30164172,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "849101": {
+            "manifests": {
+                "public": {
+                    "gid": "4855749489202633318",
+                    "size": "16279650133",
+                    "download": "16130386768"
+                }
+            },
+            "decryptionkey": "18d06e538da60410ecea175ee8198f8239f0de8d7fa253863ce308029d9135ae"
+        },
+        "849102": {},
+        "branches": {
+            "public": {
+                "buildid": "18792778",
+                "timeupdated": "1750164750"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
