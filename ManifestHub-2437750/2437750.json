@@ -1,0 +1,97 @@
+{
+    "appid": 2437750,
+    "name": "Paradise Lust 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:16:50",
+    "change_number": 30210319,
+    "depot": {
+        "2437751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "69378565638769356",
+                    "size": "3808266026",
+                    "download": "2479077664"
+                },
+                "beta": {
+                    "gid": "69378565638769356",
+                    "size": "3808266026",
+                    "download": "2479077664"
+                }
+            },
+            "decryptionkey": "fbfeaffc471988000b182f3f11fb3018a63b5f28d740781e360cb287c60bd84a"
+        },
+        "2437752": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5833746873883163204",
+                    "size": "3799731510",
+                    "download": "2473594080"
+                },
+                "beta": {
+                    "gid": "5833746873883163204",
+                    "size": "3799731510",
+                    "download": "2473594080"
+                }
+            },
+            "decryptionkey": "226225f2ea2b7bd6393e6e907de1e34a40c5d83c817b289be8941491f65b5457"
+        },
+        "2437753": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2369918533489748343",
+                    "size": "3830153127",
+                    "download": "2482142176"
+                },
+                "beta": {
+                    "gid": "2369918533489748343",
+                    "size": "3830153127",
+                    "download": "2482142176"
+                }
+            }
+        },
+        "2437754": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "945865343939052746",
+                    "size": "3809064806",
+                    "download": "2477386416"
+                },
+                "beta": {
+                    "gid": "945865343939052746",
+                    "size": "3809064806",
+                    "download": "2477386416"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18938152",
+                "timeupdated": "1750951438"
+            },
+            "beta": {
+                "buildid": "18938152",
+                "description": "For beta testing",
+                "timeupdated": "1750412083"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
