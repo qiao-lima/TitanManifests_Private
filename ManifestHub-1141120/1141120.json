@@ -1,0 +1,75 @@
+{
+    "appid": 1141120,
+    "name": "Scarlet Hood and the Wicked Wood",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 20:44:10",
+    "change_number": 29955989,
+    "depot": {
+        "baselanguages": "english,koreana",
+        "hasdepotsindlc": "1",
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1141121": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3225045021767896377",
+                    "size": "3285173270",
+                    "download": "1540120512"
+                }
+            },
+            "decryptionkey": "ec5a7b4ea9a45a7747997a32c8470a6fc1dc5797550777f84889547109ee7b89"
+        },
+        "1141122": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1763730033788803145",
+                    "size": "3266019605",
+                    "download": "1537294576"
+                }
+            },
+            "decryptionkey": "6403f4bccd615b628a25a15a30e20f4b484a1d483b48ab3d6d2005ba5b73487b"
+        },
+        "1141123": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6173894757121023520",
+                    "size": "3250743829",
+                    "download": "1532996688"
+                }
+            },
+            "decryptionkey": "84f9031b56ea40409bc4224945b4a9411dbb62d084c0e222ff2dec8792699948"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6644051",
+                "timeupdated": "1620118679"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
