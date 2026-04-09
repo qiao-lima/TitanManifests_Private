@@ -1,0 +1,43 @@
+{
+    "appid": 3484680,
+    "name": "LES MILLS BODYCOMBAT",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 16:37:05",
+    "change_number": 30113971,
+    "depot": {
+        "3484681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1074956158981699227",
+                    "size": "12524361683",
+                    "download": "4325896464"
+                }
+            },
+            "decryptionkey": "f876e66a7ccce5c6d4d0b2c7c14a098e80469c462db79317d766bac33240fd8b"
+        },
+        "3535930": {
+            "dlcappid": "3535930"
+        },
+        "3535950": {
+            "dlcappid": "3535950"
+        },
+        "3535940": {
+            "dlcappid": "3535940"
+        },
+        "3535960": {
+            "dlcappid": "3535960"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18980486",
+                "timeupdated": "1750922774"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
