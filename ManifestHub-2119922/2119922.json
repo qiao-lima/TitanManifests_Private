@@ -1,0 +1,32 @@
+{
+    "appid": 2119922,
+    "name": "Succubus - Red Goddess",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 20:40:55",
+    "change_number": 29554414,
+    "depot": {
+        "2119922": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8479478883923473837",
+                    "size": "15097451224",
+                    "download": "6359896016"
+                }
+            },
+            "dlcappid": "2119922",
+            "decryptionkey": "e71030dd071ad4e8f274d1437e58c436fbbb5e0197d2eada57eefab6987bfcc6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15132271",
+                "timeupdated": "1721829001"
+            }
+        }
+    }
+}
