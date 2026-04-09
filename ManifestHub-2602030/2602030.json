@@ -1,0 +1,42 @@
+{
+    "appid": 2602030,
+    "name": "Entropy Survivors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 01:53:16",
+    "change_number": 30159371,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2602031": {
+            "manifests": {
+                "public": {
+                    "gid": "4411290385426343107",
+                    "size": "4399228088",
+                    "download": "3869884048"
+                }
+            },
+            "decryptionkey": "04c21a6801b86c72abdb8b5b9f276cbddee6ecc7e900f98e55b2d1bdd1fc6b2c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18997690",
+                "timeupdated": "1750867280"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
