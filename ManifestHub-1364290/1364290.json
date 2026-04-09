@@ -1,0 +1,212 @@
+{
+    "appid": 1364290,
+    "name": "Animalia Survival",
+    "type": "Game",
+    "schinese_name": "动物生存",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 22:19:04",
+    "change_number": 30174692,
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229032": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1364291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1851466530266002952",
+                    "size": "7233409335",
+                    "download": "6292843504"
+                },
+                "crossplay": {
+                    "gid": "1465087753985787159",
+                    "size": "3464737876",
+                    "download": "3030713472"
+                },
+                "oldversion": {
+                    "gid": "1851466530266002952",
+                    "size": "7233409335",
+                    "download": "6292843504"
+                },
+                "testpublic": {
+                    "gid": "1039886634772455858",
+                    "size": "5488079536",
+                    "download": "5012711408"
+                }
+            },
+            "decryptionkey": "8b4b39182603bff5a321a38e2932993b82401b9a9e7fc0b15d795bef3c55d224"
+        },
+        "1364292": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16992489",
+                "timeupdated": "1753041164"
+            },
+            "crossplay": {
+                "buildid": "18765834",
+                "description": "crossplay",
+                "timeupdated": "1750043415"
+            },
+            "oldversion": {
+                "buildid": "16992489",
+                "description": "Version Old 126.4",
+                "timeupdated": "1748369218"
+            },
+            "testpublic": {
+                "buildid": "19236970",
+                "description": "testpublic",
+                "timeupdated": "1752622686"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
