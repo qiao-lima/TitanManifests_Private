@@ -1,0 +1,42 @@
+{
+    "appid": 3178840,
+    "name": "Astrumis - Survive Together Friend's Pass",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 22:58:45",
+    "change_number": 29726140,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3178841": {
+            "manifests": {
+                "public": {
+                    "gid": "2541418205606883338",
+                    "size": "3567401070",
+                    "download": "3293388944"
+                }
+            },
+            "decryptionkey": "2fe42266dc5954a1d7787141d2df64cf042ba9421d943c56062852518a528cee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18982954",
+                "timeupdated": "1750780476"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
