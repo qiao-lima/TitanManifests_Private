@@ -1,0 +1,30 @@
+{
+    "appid": 2933180,
+    "name": "女神保卫战",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 08:08:55",
+    "change_number": 29517950,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2933181": {
+            "manifests": {
+                "public": {
+                    "gid": "7783328736109851286",
+                    "size": "38212698158",
+                    "download": "38484734032"
+                }
+            },
+            "decryptionkey": "dc5ab04ed02af7bab45310b1019844ee301b4e116413798d4d82822f873490f4"
+        },
+        "2933182": {},
+        "branches": {
+            "public": {
+                "buildid": "14471888",
+                "timeupdated": "1718288718"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
