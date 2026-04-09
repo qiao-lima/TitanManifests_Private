@@ -1,0 +1,35 @@
+{
+    "appid": "227050",
+    "type": "Tool",
+    "name": "Left 4 Dead 2 Beta - Linux Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-07-16 02:43:47",
+    "depot": {
+        "overridescddb": "1",
+        "227051": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2945993724633753355",
+                    "size": "174550391",
+                    "download": "51254128"
+                }
+            },
+            "decryptionkey": "239cc9377d6648d22460f36168eae8cd87842a88277b1fc2a8cd09ac4f92dc5b"
+        },
+        "223531": {
+            "systemdefined": "1",
+            "depotfromapp": "223530",
+            "sharedinstall": "2"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "1559641",
+                "timeupdated": "1484072407"
+            }
+        }
+    }
+}
