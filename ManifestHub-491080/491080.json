@@ -1,0 +1,78 @@
+{
+    "appid": "491080",
+    "type": "Game",
+    "name": "BoneBone: Rise of the Deathlord",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:11:56",
+    "depot": {
+        "baselanguages": "english,russian",
+        "491081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3819275167367236576",
+                    "size": "777129139",
+                    "download": "57989744"
+                },
+                "beta": {
+                    "gid": "3819275167367236576",
+                    "size": "777129139",
+                    "download": "57989744"
+                }
+            },
+            "decryptionkey": "89cb62361f4a3ce887a07e15026c8c8beb7c682c42f4f4caeea90a736f7892a8"
+        },
+        "491082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7230438181374596056",
+                    "size": "824830333",
+                    "download": "70159920"
+                },
+                "beta": {
+                    "gid": "7230438181374596056",
+                    "size": "824830333",
+                    "download": "70159920"
+                }
+            },
+            "decryptionkey": "604be6c0bf5ec3ec66da2fe51e26a2e88cd6e0281fe95a0e4e0fe071e2dea15b"
+        },
+        "491083": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4082327610163514780",
+                    "size": "821258876",
+                    "download": "71420016"
+                },
+                "beta": {
+                    "gid": "4082327610163514780",
+                    "size": "821258876",
+                    "download": "71420016"
+                }
+            },
+            "decryptionkey": "dbf10287a6e31c0445755e37f1e145dd878472e851fc29e4693a46bb003cb4bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1882157",
+                "timeupdated": "1497120500"
+            },
+            "beta": {
+                "buildid": "1882157",
+                "timeupdated": "1497120490"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 13072964340223265036
+}
