@@ -1,0 +1,59 @@
+{
+    "appid": 1679210,
+    "name": "The Spirit and the Mouse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 20:08:04",
+    "change_number": 30030099,
+    "depot": {
+        "1679211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4817718388491788796",
+                    "size": "925990569",
+                    "download": "246190960"
+                },
+                "ultrawide": {
+                    "gid": "5329693904012247600",
+                    "size": "925966920",
+                    "download": "246178000"
+                }
+            },
+            "decryptionkey": "2dd830e6c1b2e9267e86eccd1af31de31c4bc92c2b0a6e5c3535354221168775"
+        },
+        "1679212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3774584866325267211",
+                    "size": "954849102",
+                    "download": "293759296"
+                },
+                "ultrawide": {
+                    "gid": "11027039509553668",
+                    "size": "941444711",
+                    "download": "251420720"
+                }
+            },
+            "decryptionkey": "c49444781bd74ad7f1f28a1b918702bb68ae6ec002a06f65e9e4f3cf986e683c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19203166",
+                "timeupdated": "1752347278"
+            },
+            "ultrawide": {
+                "buildid": "12567254",
+                "description": "Experimental Ultrawide Version",
+                "timeupdated": "1698621203"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
