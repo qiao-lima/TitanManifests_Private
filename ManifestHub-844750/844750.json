@@ -1,0 +1,27 @@
+{
+    "appid": 844750,
+    "name": "Go-Kart Racing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 19:10:02",
+    "change_number": 29912444,
+    "depot": {
+        "844751": {
+            "manifests": {
+                "public": {
+                    "gid": "1418961739679911305",
+                    "size": "1813706347",
+                    "download": "695698288"
+                }
+            },
+            "decryptionkey": "6da9edaede4b6bbaf9c786305d84c734a1f815ac44c91e77be4ef49b179f7159"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17021276",
+                "timeupdated": "1736998306"
+            }
+        }
+    }
+}
