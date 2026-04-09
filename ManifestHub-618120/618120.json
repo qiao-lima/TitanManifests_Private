@@ -1,0 +1,29 @@
+{
+    "appid": "618120",
+    "type": "Game",
+    "name": "HellGunner",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:26:06",
+    "depot": {
+        "baselanguages": "english,russian",
+        "618121": {
+            "manifests": {
+                "public": {
+                    "gid": "5566021705499907369",
+                    "size": "453633295",
+                    "download": "135253296"
+                }
+            },
+            "decryptionkey": "a4d22bfbfb3b046d1c0bb2f528c39d4e67746d543235b9fab07cb3a03be67d28"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1820676",
+                "timeupdated": "1494738201"
+            }
+        }
+    },
+    "access_token": 1840916009118213743
+}
