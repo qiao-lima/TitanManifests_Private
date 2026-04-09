@@ -1,0 +1,28 @@
+{
+    "appid": 3123290,
+    "name": "SAVE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:54:21",
+    "change_number": 29769504,
+    "depot": {
+        "3123291": {
+            "manifests": {
+                "public": {
+                    "gid": "6841851771062292956",
+                    "size": "9065496716",
+                    "download": "4105142256"
+                }
+            },
+            "decryptionkey": "8b9407097f449af2699306a838f2412ba2c897736787a641f8a5f8cd44cbe00d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18911928",
+                "timeupdated": "1750314802"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
