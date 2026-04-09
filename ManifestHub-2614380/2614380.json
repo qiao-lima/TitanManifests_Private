@@ -1,0 +1,27 @@
+{
+    "appid": 2614380,
+    "name": "Martha's Dolls",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 23:24:08",
+    "change_number": 30039491,
+    "depot": {
+        "2614381": {
+            "manifests": {
+                "public": {
+                    "gid": "1401734170325924323",
+                    "size": "11158715133",
+                    "download": "4776277456"
+                }
+            },
+            "decryptionkey": "0a0affa364cd72bdb4f34f73ae4c24128fdeb17c6580015e50cb75b3eee83cdb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13183219",
+                "timeupdated": "1705397003"
+            }
+        }
+    }
+}
