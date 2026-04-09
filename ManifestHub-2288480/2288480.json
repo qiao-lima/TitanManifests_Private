@@ -1,0 +1,28 @@
+{
+    "appid": 2288480,
+    "name": "Kiss Effect",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 03:40:51",
+    "change_number": 30123222,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2288481": {
+            "manifests": {
+                "public": {
+                    "gid": "1000782103769754400",
+                    "size": "407055712",
+                    "download": "304555776"
+                }
+            },
+            "decryptionkey": "7dc6ce02ace230185492be138e8c98d53446f2f9bfb781c5737bdfc89ee7925c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10428730",
+                "timeupdated": "1675001103"
+            }
+        }
+    }
+}
