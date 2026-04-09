@@ -1,0 +1,46 @@
+{
+    "appid": 394160,
+    "name": "ARCADE GAME SERIES: PAC-MAN",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 11:31:13",
+    "change_number": 30087155,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "394161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6375939139930245352",
+                    "size": "819876058",
+                    "download": "34641296"
+                }
+            },
+            "decryptionkey": "ea0003096fe445305ea99b789d968df2fe1bdb1702443ed7e0fd58cfb525f948"
+        },
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "branches": {
+            "public": {
+                "buildid": "1195038",
+                "timeupdated": "1469028427"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
