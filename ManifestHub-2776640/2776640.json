@@ -1,0 +1,27 @@
+{
+    "appid": 2776640,
+    "name": "Three Kingdoms and Martial Arts and Jianghu",
+    "type": "Game",
+    "schinese_name": "三国与武侠与江湖",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 09:24:52",
+    "change_number": 29249730,
+    "depot": {
+        "2776641": {
+            "manifests": {
+                "public": {
+                    "gid": "4817052986831770769",
+                    "size": "518163972",
+                    "download": "143580912"
+                }
+            },
+            "decryptionkey": "88a11bdd7aa568f72d1a0571229f88d770db9dd8ce435c0d78e4b27662d4e567"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14078168",
+                "timeupdated": "1713327329"
+            }
+        }
+    }
+}
