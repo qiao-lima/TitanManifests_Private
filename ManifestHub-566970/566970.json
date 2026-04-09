@@ -1,0 +1,29 @@
+{
+    "appid": 566970,
+    "name": "EscapeVR: Trapped Above the Clouds",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 06:01:06",
+    "change_number": 29962051,
+    "depot": {
+        "566971": {
+            "manifests": {
+                "public": {
+                    "gid": "2201590441413883341",
+                    "size": "4465466818",
+                    "download": "702437136"
+                }
+            },
+            "decryptionkey": "0341872f4cbcea97cf65cb716dcd32002ddfc8be893ebd1a461290b49c970e84"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,thai",
+        "branches": {
+            "public": {
+                "buildid": "2666117",
+                "timeupdated": "1523020616"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
