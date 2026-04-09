@@ -1,0 +1,27 @@
+{
+    "appid": 2471600,
+    "name": "Impossible Stunts",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 20:12:31",
+    "change_number": 30030140,
+    "depot": {
+        "2471601": {
+            "manifests": {
+                "public": {
+                    "gid": "5932989709852916793",
+                    "size": "217486623",
+                    "download": "57144896"
+                }
+            },
+            "decryptionkey": "973fd2fe0df6ee031ef9087222510b44134d683c88f8aad3a0e01121432a4091"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11466732",
+                "timeupdated": "1686738599"
+            }
+        }
+    }
+}
