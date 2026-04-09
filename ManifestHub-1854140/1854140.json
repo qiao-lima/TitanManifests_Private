@@ -1,0 +1,30 @@
+{
+    "appid": 1854140,
+    "name": "My Doctor is a Futanari",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 14:37:00",
+    "change_number": 30111698,
+    "depot": {
+        "1854141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8701205473406152893",
+                    "size": "160037484",
+                    "download": "62272752"
+                }
+            },
+            "decryptionkey": "fb629c1ef9b44331aff87daae5dbb0e20a599b39f0f765ec9197d134fcd509b4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17006776",
+                "timeupdated": "1736902023"
+            }
+        }
+    }
+}
