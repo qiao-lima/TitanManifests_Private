@@ -1,0 +1,27 @@
+{
+    "appid": 2203590,
+    "name": "Tune in to the show",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 01:24:27",
+    "change_number": 29377206,
+    "depot": {
+        "2203591": {
+            "manifests": {
+                "public": {
+                    "gid": "8685062189897133443",
+                    "size": "3875663140",
+                    "download": "3741673280"
+                }
+            },
+            "decryptionkey": "9d2d1c92519bdb9d343fa842f0fbfb033dc04ccfab3921cd6afc07a8cf536d8f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18738032",
+                "timeupdated": "1749057856"
+            }
+        }
+    }
+}
