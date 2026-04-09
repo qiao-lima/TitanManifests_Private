@@ -1,0 +1,45 @@
+{
+    "appid": 1970450,
+    "name": "沙漠花开 Desert Blossom",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 15:04:19",
+    "change_number": 29743107,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1970451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7941261025429176516",
+                    "size": "816791059",
+                    "download": "595178912"
+                }
+            },
+            "decryptionkey": "0d6e46caf81d6d332a6fd015bad3f4f86a3113f28d783b141f7b100746c5234e"
+        },
+        "1970452": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4434357311117924754",
+                    "size": "832399834",
+                    "download": "596385232"
+                }
+            },
+            "decryptionkey": "dc4f7687649f10572b3ff2050109678377f3260638919155ce2abf586c178d3e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18996352",
+                "timeupdated": "1750860251"
+            }
+        }
+    }
+}
