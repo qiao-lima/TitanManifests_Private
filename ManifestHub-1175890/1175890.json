@@ -1,0 +1,42 @@
+{
+    "appid": 1175890,
+    "name": "P.A.I.N.T.",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 04:56:13",
+    "change_number": 29835261,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1175891": {
+            "manifests": {
+                "public": {
+                    "gid": "5023178084733051501",
+                    "size": "3482168564",
+                    "download": "1049551744"
+                }
+            },
+            "decryptionkey": "b5a5a27bb769b549c00fec8005d82273eba7e86536da0f0024d0107f8ae2e3e8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5239933",
+                "timeupdated": "1593688183"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
