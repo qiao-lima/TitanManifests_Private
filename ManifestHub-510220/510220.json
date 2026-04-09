@@ -1,0 +1,31 @@
+{
+    "appid": "510220",
+    "type": "Game",
+    "name": "Forgotten Heroes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23236536",
+    "update_time": "2024-08-28 11:58:18",
+    "depot": {
+        "510221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6667828215616219222",
+                    "size": "120109537",
+                    "download": "50886032"
+                }
+            },
+            "decryptionkey": "ec0bc8833cc3e9b1b5665c8115f2a880f468058e938fb9ea8848b92bcdca59cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1474286",
+                "timeupdated": "1479832159"
+            }
+        }
+    },
+    "access_token": 15082047202719157966
+}
