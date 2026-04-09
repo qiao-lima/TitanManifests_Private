@@ -1,0 +1,28 @@
+{
+    "appid": "216370",
+    "type": "Game",
+    "name": "Nexuiz Beta",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-05-25 18:22:33",
+    "depot": {
+        "216371": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4822099756918769003",
+                    "size": "2081993009",
+                    "download": "1843473248"
+                }
+            },
+            "decryptionkey": "166eb7646bff14e876c4e85be66d2729a0654d4f24dd90b91a3aec09be58531a"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "1012823"
+            }
+        }
+    }
+}
