@@ -1,0 +1,76 @@
+{
+    "appid": 1768780,
+    "name": "Of Blades & Tails",
+    "type": "Game",
+    "schinese_name": "剑与狐尾 (Of Blades & Tails)",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 16:18:08",
+    "change_number": 29369896,
+    "depot": {
+        "1768781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6742878735609027880",
+                    "size": "246906368",
+                    "download": "144303280"
+                },
+                "beta": {
+                    "gid": "3538400588907165271",
+                    "size": "220277584",
+                    "download": "137235904"
+                }
+            },
+            "decryptionkey": "758fa92fb93144ae7d6a9fec2854640b0b61b54587f51e3ba603fea5c2057252"
+        },
+        "1768782": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8713479945997483820",
+                    "size": "259115029",
+                    "download": "148189072"
+                },
+                "beta": {
+                    "gid": "7775260021673845060",
+                    "size": "232476709",
+                    "download": "141093616"
+                }
+            }
+        },
+        "1768783": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9189367213572685952",
+                    "size": "294725665",
+                    "download": "157327424"
+                },
+                "beta": {
+                    "gid": "3681793952288858246",
+                    "size": "268073636",
+                    "download": "150233232"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18732988",
+                "timeupdated": "1749035070"
+            },
+            "beta": {
+                "buildid": "13884599",
+                "description": "Public beta builds",
+                "timeupdated": "1711644329"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
