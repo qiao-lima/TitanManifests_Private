@@ -1,0 +1,28 @@
+{
+    "appid": 2336570,
+    "name": "《废土快递》死者国度扩展包",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 18:40:25",
+    "change_number": 29954292,
+    "depot": {
+        "2336570": {
+            "manifests": {
+                "public": {
+                    "gid": "4913219296594431379",
+                    "size": "1952409647",
+                    "download": "204816784"
+                }
+            },
+            "dlcappid": "2336570",
+            "decryptionkey": "531355f6c470949938aeab2e80e226749a25ed0d7d98d71156b2ebaf4032246a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11900704",
+                "timeupdated": "1691573663"
+            }
+        }
+    }
+}
