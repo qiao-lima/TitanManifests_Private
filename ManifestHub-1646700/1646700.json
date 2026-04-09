@@ -1,0 +1,28 @@
+{
+    "appid": 1646700,
+    "name": "ARK: Genesis Part 1 Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 15:50:31",
+    "change_number": 30168845,
+    "depot": {
+        "1646701": {
+            "manifests": {
+                "public": {
+                    "gid": "3616643651715308427",
+                    "size": "127674823",
+                    "download": "116060208"
+                }
+            },
+            "decryptionkey": "22e9c7b1d91d3a5ea45ec2205ea43e468471992d19e32cc33bc09a684cda032a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6766368",
+                "timeupdated": "1622098280"
+            }
+        }
+    },
+    "access_token": 17188204630189073134
+}
