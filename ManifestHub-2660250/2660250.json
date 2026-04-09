@@ -1,0 +1,28 @@
+{
+    "appid": 2660250,
+    "name": "49 Keys",
+    "type": "Game",
+    "schinese_name": "四十九把钥匙",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 22:12:10",
+    "change_number": 29913632,
+    "depot": {
+        "2660251": {
+            "manifests": {
+                "public": {
+                    "gid": "1134259384585818431",
+                    "size": "371183253",
+                    "download": "144342144"
+                }
+            },
+            "decryptionkey": "a4944ed12c611d0d48e575c1920d250e645fdb6df55be4e853c61daedaf27323"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18961968",
+                "timeupdated": "1750989662"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
