@@ -1,0 +1,41 @@
+{
+    "appid": 2222360,
+    "name": "Ship of Fools Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 05:11:29",
+    "change_number": 29907434,
+    "depot": {
+        "2222362": {
+            "manifests": {
+                "public": {
+                    "gid": "3144391750574662431",
+                    "size": "382300140",
+                    "download": "364138288"
+                }
+            },
+            "decryptionkey": "ff9543e8fbc8b87eff373a529b7879477b8f179431255f9731473d1ae0c9d3e0"
+        },
+        "2222363": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3137835324792700155",
+                    "size": "2660444292",
+                    "download": "2525435232"
+                }
+            },
+            "decryptionkey": "a5a6a5d239b5cf35913b82de539f1c3da98ff9e35d1fa2051ce8d1d82a5a778e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18226600",
+                "timeupdated": "1745512438"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
