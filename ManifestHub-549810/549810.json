@@ -1,0 +1,77 @@
+{
+    "appid": "549810",
+    "type": "Game",
+    "name": "Bunny & Piggy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25911346",
+    "update_time": "2024-10-26 23:12:04",
+    "depot": {
+        "baselanguages": "",
+        "549811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4565715742509352981",
+                    "size": "120302728",
+                    "download": "50916288"
+                }
+            },
+            "decryptionkey": "6824ce770b5a9b331a4ff0e6bd4a2c2115080d5923429309e9540d65a442ae93"
+        },
+        "549812": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8487383247440439934",
+                    "size": "147710552",
+                    "download": "57242208"
+                }
+            },
+            "decryptionkey": "43543f4b60b45c029e1204ca78f7edfb41a13d26de20d971ce9794ad3da3bd88"
+        },
+        "576350": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "dlcappid": "576350",
+            "manifests": {
+                "public": {
+                    "gid": "876297727849129331",
+                    "size": "120304438",
+                    "download": "50917152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "576351": {
+            "dlcappid": "576350",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8185526075979532647",
+                    "size": "147712262",
+                    "download": "57244624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1566058",
+                "timeupdated": "1484257849"
+            }
+        }
+    },
+    "access_token": 12434802298647877050
+}
