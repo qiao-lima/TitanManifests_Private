@@ -1,0 +1,47 @@
+{
+    "appid": 1165140,
+    "name": "Picross Love",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 03:10:59",
+    "change_number": 30040978,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1165141": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2962800699510242167",
+                    "size": "132425795",
+                    "download": "102919904"
+                }
+            },
+            "decryptionkey": "7aeb71a55866cbfa4a57b31f71122ff5516b62ce6693897bba52cd3024914fe3"
+        },
+        "1193410": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2857711505643569050",
+                    "size": "241646787",
+                    "download": "204095776"
+                }
+            },
+            "dlcappid": "1193410",
+            "decryptionkey": "14528b052fdb0bac7c4c17312ff73aed886c11824f161e4166a5d56dd637deb4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4801195",
+                "timeupdated": "1584716245"
+            }
+        }
+    }
+}
