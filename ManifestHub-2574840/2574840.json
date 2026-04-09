@@ -1,0 +1,116 @@
+{
+    "appid": 2574840,
+    "name": "Go For A Punch! Saki Sanobashi",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 14:37:23",
+    "change_number": 30132531,
+    "depot": {
+        "baselanguages": "english,spanish,schinese,japanese,turkish,latam",
+        "2574843": {
+            "config": {
+                "language": "english",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8364419603842279926",
+                    "size": "630466625",
+                    "download": "419825136"
+                }
+            },
+            "decryptionkey": "4405c3ea1ee49605310d77fad526e4077de85c4457ee5abf94585b662a527307"
+        },
+        "2574842": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3517172951217716851",
+                    "size": "630454146",
+                    "download": "419812688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2574844": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3711430932882348712",
+                    "size": "630466099",
+                    "download": "419704640"
+                }
+            },
+            "decryptionkey": "49eabf6beff033ec3dd62685e241e6a99d44ebd8fc00dc0bd792dbdd126ee1ab"
+        },
+        "2574845": {
+            "config": {
+                "language": "latam",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3273773695843320337",
+                    "size": "630454146",
+                    "download": "419812688"
+                }
+            },
+            "decryptionkey": "48ca6206022e9c3af9bee3797a2f780922ffec39a7821476e421ac38c7be2b94"
+        },
+        "2574847": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8105441800591938210",
+                    "size": "630452057",
+                    "download": "425558576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2574841": {
+            "config": {
+                "language": "turkish",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7141106181979429718",
+                    "size": "630454621",
+                    "download": "425634048"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2574846": {
+            "config": {
+                "language": "ukrainian",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7244039977782149525",
+                    "size": "1197254304",
+                    "download": "844894992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19068365",
+                "timeupdated": "1751389563"
+            }
+        }
+    }
+}
