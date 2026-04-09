@@ -1,0 +1,27 @@
+{
+    "appid": 2579430,
+    "name": "Ego's Spark",
+    "type": "Game",
+    "schinese_name": "从Kiss开始的自我主义～EGOISM～",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 08:16:41",
+    "change_number": 29312483,
+    "depot": {
+        "2579431": {
+            "manifests": {
+                "public": {
+                    "gid": "5976060616378871336",
+                    "size": "2531637731",
+                    "download": "2361597152"
+                }
+            },
+            "decryptionkey": "fc02cd196afc6dcab3fa4ba6b1fb019e175bbc1dfc8d4495af9e4c628ce38e62"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14067187",
+                "timeupdated": "1713331517"
+            }
+        }
+    }
+}
