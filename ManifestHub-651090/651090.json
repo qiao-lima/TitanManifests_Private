@@ -1,0 +1,38 @@
+{
+    "appid": 651090,
+    "name": "Aces High III",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-13 23:31:40",
+    "change_number": 30039525,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "651091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6765648778509404373",
+                    "size": "2469149695",
+                    "download": "2313010432"
+                }
+            },
+            "decryptionkey": "bbc9b7b154a42a1fd4ca84466dcd2fd351b24e8ec70e39be5a696fa9427a2eb3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6577056",
+                "timeupdated": "1619012263"
+            }
+        }
+    }
+}
