@@ -1,0 +1,31 @@
+{
+    "appid": 684720,
+    "name": "Battlegun",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 11:20:49",
+    "change_number": 29454234,
+    "depot": {
+        "baselanguages": "english",
+        "684721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6181671073987063977",
+                    "size": "336975903",
+                    "download": "97577344"
+                }
+            },
+            "decryptionkey": "547a80da3a76df0734502b67f8d957c0e8c99695fac18a6900b1646dbc247bc3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2028279",
+                "timeupdated": "1502376849"
+            }
+        }
+    }
+}
