@@ -1,0 +1,55 @@
+{
+    "appid": 3498390,
+    "name": "Astroloot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 12:54:48",
+    "change_number": 30154119,
+    "depot": {
+        "3498391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4598666565661324451",
+                    "size": "234895893",
+                    "download": "168384848"
+                }
+            },
+            "decryptionkey": "2d60bf1cd65f860165590f233447aa54e1bb63ccb89b664ece9afb87bf4ba5b4"
+        },
+        "3498392": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8903872098169840657",
+                    "size": "249905202",
+                    "download": "171575408"
+                }
+            }
+        },
+        "3498393": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3778760700973685087",
+                    "size": "241924893",
+                    "download": "170136832"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19290932",
+                "timeupdated": "1753012483"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
