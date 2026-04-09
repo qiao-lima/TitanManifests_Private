@@ -1,0 +1,50 @@
+{
+    "appid": "1558320",
+    "type": "Game",
+    "name": "Sky Goddess",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 03:43:20",
+    "depot": {
+        "1558321": {
+            "manifests": {
+                "public": {
+                    "gid": "8690151136762255145",
+                    "size": "435033530",
+                    "download": "129263104"
+                }
+            },
+            "decryptionkey": "a4f399c229490b40c3f1ea62e773e0848223b4c29907f0f6f4c3ee5df303a061"
+        },
+        "1558340": {
+            "dlcappid": "1558340",
+            "manifests": {
+                "public": {
+                    "gid": "9129607588346563572",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1558341": {
+            "dlcappid": "1558341",
+            "manifests": {
+                "public": {
+                    "gid": "490135441582452238",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6512562",
+                "timeupdated": "1617933955"
+            }
+        }
+    },
+    "access_token": 14528121239256259168
+}
