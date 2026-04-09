@@ -1,0 +1,43 @@
+{
+    "appid": 3001560,
+    "name": "Japan Trip",
+    "type": "Game",
+    "schinese_name": "日本之旅",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 07:35:49",
+    "change_number": 30104424,
+    "depot": {
+        "3001561": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4176513167263582242",
+                    "size": "392614733",
+                    "download": "307546576"
+                }
+            },
+            "decryptionkey": "c9d8ebc9f17694690d406e2cba154ef6cfef0913258c98ca7214568bf3db0796"
+        },
+        "3001562": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4198410831172593124",
+                    "size": "380114033",
+                    "download": "304295184"
+                }
+            },
+            "decryptionkey": "b069130f1d9de53d708ccfd2780a23ddb6135e4397cfc4e02698c4b59ae79df0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18007088",
+                "timeupdated": "1744003653"
+            }
+        }
+    }
+}
