@@ -1,0 +1,103 @@
+{
+    "appid": 1401140,
+    "name": "Hex of Steel - DEMO",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 21:11:08",
+    "change_number": 29829495,
+    "depot": {
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1401141": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2226448358587375798",
+                    "size": "791760959",
+                    "download": "417244144"
+                },
+                "7.7.36": {
+                    "gid": "2226448358587375798",
+                    "size": "791760959",
+                    "download": "417244144"
+                },
+                "7.7.33": {
+                    "gid": "7876075345533439892",
+                    "size": "789547095",
+                    "download": "415848656"
+                }
+            }
+        },
+        "1401142": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1959363302267020580",
+                    "size": "764938598",
+                    "download": "409379360"
+                },
+                "7.7.36": {
+                    "gid": "1959363302267020580",
+                    "size": "764938598",
+                    "download": "409379360"
+                },
+                "7.7.33": {
+                    "gid": "111791530800042512",
+                    "size": "771117470",
+                    "download": "408030784"
+                }
+            },
+            "decryptionkey": "dd70de4afd2e7a3d705edd1f3a23676ea4188c587f7f7ed4ec1af613351aba1c"
+        },
+        "1401143": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7506684108754762705",
+                    "size": "767884612",
+                    "download": "408083200"
+                },
+                "7.7.36": {
+                    "gid": "7506684108754762705",
+                    "size": "767884612",
+                    "download": "408083200"
+                },
+                "7.7.33": {
+                    "gid": "8029323408652949572",
+                    "size": "767768940",
+                    "download": "406897808"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19055793",
+                "timeupdated": "1751314216"
+            },
+            "7.7.36": {
+                "buildid": "19055793",
+                "timeupdated": "1751314195"
+            },
+            "7.7.33": {
+                "buildid": "18749766",
+                "timeupdated": "1749124085"
+            }
+        }
+    }
+}
