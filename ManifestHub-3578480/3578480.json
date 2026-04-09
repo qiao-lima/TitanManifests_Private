@@ -1,0 +1,27 @@
+{
+    "appid": 3578480,
+    "name": "攻上凌霄宝殿",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 06:10:53",
+    "change_number": 29735252,
+    "depot": {
+        "3578481": {
+            "manifests": {
+                "public": {
+                    "gid": "193582648789097480",
+                    "size": "869265256",
+                    "download": "669267280"
+                }
+            },
+            "decryptionkey": "f369d46a405f1b95b5d474299461bd62798779f65db744eaed9d89dd2a23e3b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18924191",
+                "timeupdated": "1750323753"
+            }
+        }
+    }
+}
