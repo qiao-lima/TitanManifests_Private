@@ -1,0 +1,28 @@
+{
+    "appid": 804900,
+    "name": "Cat's Bar",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 08:21:16",
+    "change_number": 29475697,
+    "depot": {
+        "804901": {
+            "manifests": {
+                "public": {
+                    "gid": "3480144368078466850",
+                    "size": "311775844",
+                    "download": "52851920"
+                }
+            },
+            "decryptionkey": "f73dda34292a9dc5a5354235d571884fd825a51020512bd8882dd721c7284119"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "2601744",
+                "timeupdated": "1520993716"
+            }
+        }
+    }
+}
