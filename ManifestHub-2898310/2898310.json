@@ -1,0 +1,31 @@
+{
+    "appid": 2898310,
+    "name": "EXOcars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 06:12:12",
+    "change_number": 29925023,
+    "depot": {
+        "2898311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8142040619215413160",
+                    "size": "26169129069",
+                    "download": "21014173168"
+                }
+            },
+            "decryptionkey": "4d3891154382bce636b01bd29ca65a283489671abf209ffcb94f891f25c9d281"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18387466",
+                "timeupdated": "1746715089"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
