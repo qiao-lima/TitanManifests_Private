@@ -1,0 +1,28 @@
+{
+    "appid": 1544360,
+    "name": "LEGO® Builder's Journey",
+    "type": "Game",
+    "schinese_name": "LEGO建造者之旅",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 16:24:01",
+    "change_number": 29603749,
+    "depot": {
+        "1544361": {
+            "manifests": {
+                "public": {
+                    "gid": "3139937564432606589",
+                    "size": "4334288978",
+                    "download": "995629616"
+                }
+            },
+            "decryptionkey": "f68c8ea838a50a342ba77fc9816a952a46f6a54a86d821c3adb661e4b9455868"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18826468",
+                "timeupdated": "1749724034"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
