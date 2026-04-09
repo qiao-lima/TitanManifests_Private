@@ -1,0 +1,30 @@
+{
+    "appid": 2331060,
+    "name": "Gambit Shifter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:25:17",
+    "change_number": 29652086,
+    "depot": {
+        "2331061": {
+            "manifests": {
+                "public": {
+                    "gid": "1267657051113619834",
+                    "size": "224774172",
+                    "download": "134459776"
+                }
+            },
+            "decryptionkey": "a3eefe4e42f6d3dcf52afaf45c6470dcd2dd2dcab45056c4956f893efad2f5b5"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,brazilian",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18813108",
+                "timeupdated": "1749629047"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
