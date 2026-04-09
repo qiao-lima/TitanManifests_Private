@@ -1,0 +1,43 @@
+{
+    "appid": 1272080,
+    "name": "PAYDAY 3",
+    "type": "Game",
+    "schinese_name": "PAYDAY3 (收获日3)  ",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:55:00",
+    "change_number": 30217411,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1272081": {
+            "manifests": {
+                "public": {
+                    "gid": "7798324936838526990",
+                    "size": "77430299262",
+                    "download": "39645835904"
+                }
+            },
+            "decryptionkey": "3e032aede34266458c52fd8d6bd33c4505bc1742e2cdbba706fe9746a83059fa"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "19108322",
+                "timeupdated": "1752480388"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
