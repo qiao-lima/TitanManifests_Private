@@ -1,0 +1,55 @@
+{
+    "appid": 468310,
+    "name": "She Wants Me Dead",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 20:00:33",
+    "change_number": 29974357,
+    "depot": {
+        "468311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6417916214736658",
+                    "size": "160323288",
+                    "download": "38256512"
+                }
+            },
+            "decryptionkey": "68c9de3613d93c440a87e631846861c60c348e560cefa1c2a0d05d2c36933243"
+        },
+        "468312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2143457235276479133",
+                    "size": "182446817",
+                    "download": "44949728"
+                }
+            },
+            "decryptionkey": "c51b7f69a0fcc209b9d2b13fb344370f18d125546999403bea10b899f8f54705"
+        },
+        "473420": {
+            "manifests": {
+                "public": {
+                    "gid": "9028748569114481616",
+                    "size": "4513614",
+                    "download": "4428512"
+                }
+            },
+            "dlcappid": "473420",
+            "decryptionkey": "31516c61eaa7bc75d800639e1ef7815b1cc3f21872508ab5d031f79a41b84697"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10114525",
+                "timeupdated": "1670598096"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
