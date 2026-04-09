@@ -1,0 +1,45 @@
+{
+    "appid": 386160,
+    "name": "Vampire of the Sands",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 19:48:40",
+    "change_number": 29709575,
+    "depot": {
+        "386161": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "153390694608140190",
+                    "size": "222117488",
+                    "download": "101674096"
+                }
+            },
+            "decryptionkey": "89387595652c8116dbee9f935190c71df558a04ffbe3e5b9a9fbe463e9eddd80"
+        },
+        "386162": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5311329794167552524",
+                    "size": "253111699",
+                    "download": "112846144"
+                }
+            },
+            "decryptionkey": "ecf3228eb7e35be291e0ada5ab928eb6e4a77c7dbd760a343861d5ece37cddd3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1318461",
+                "timeupdated": "1473083664"
+            }
+        }
+    }
+}
