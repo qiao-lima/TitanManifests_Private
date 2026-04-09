@@ -1,0 +1,27 @@
+{
+    "appid": 2834220,
+    "name": "Femdom Game World: Stepsister",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 13:12:47",
+    "change_number": 30048191,
+    "depot": {
+        "2834221": {
+            "manifests": {
+                "public": {
+                    "gid": "600084343570639272",
+                    "size": "321094633",
+                    "download": "236093856"
+                }
+            },
+            "decryptionkey": "a35a887789cb906a8a6e8ea9437a2ffc459ce7613c20a4d83818ecc8b3015eeb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13869713",
+                "timeupdated": "1711541990"
+            }
+        }
+    }
+}
