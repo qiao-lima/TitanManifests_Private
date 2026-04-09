@@ -1,0 +1,42 @@
+{
+    "appid": 3202020,
+    "name": "The Riftbreaker: Multiplayer Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 02:12:44",
+    "change_number": 30040550,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3202021": {
+            "manifests": {
+                "public": {
+                    "gid": "1125082216219708645",
+                    "size": "10216278946",
+                    "download": "9697646384"
+                }
+            },
+            "decryptionkey": "84e57b2ce86e5a998aeb674f8dcd9f4a4756737a42e499b3e26bbf654edcf484"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19163040",
+                "timeupdated": "1752077966"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
