@@ -1,0 +1,28 @@
+{
+    "appid": 2389830,
+    "name": "閃攻機人アスラ - ASURA THE STRIKER -",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 16:57:03",
+    "change_number": 30071855,
+    "depot": {
+        "2389831": {
+            "manifests": {
+                "public": {
+                    "gid": "2007349314809040097",
+                    "size": "1805199159",
+                    "download": "554805920"
+                }
+            },
+            "decryptionkey": "87d35476e1ed17a5daca4f08275c3201f5899a67f078687df4939c4179238acd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18448192",
+                "timeupdated": "1747157819"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
