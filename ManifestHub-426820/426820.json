@@ -1,0 +1,27 @@
+{
+    "appid": 426820,
+    "name": "Wolfenstein: The New Order - Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 13:23:21",
+    "change_number": 29275192,
+    "depot": {
+        "426820": {
+            "manifests": {
+                "public": {
+                    "gid": "4796314983888020979",
+                    "size": "124478784",
+                    "download": "93507120"
+                }
+            },
+            "decryptionkey": "b84790788f504d95fae914aff7d0ff39ac4e2ec66bb92f31f8f11675599a2c47"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4649941",
+                "timeupdated": "1581026409"
+            }
+        }
+    }
+}
