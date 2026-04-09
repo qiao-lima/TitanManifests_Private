@@ -1,0 +1,28 @@
+{
+    "appid": "349181",
+    "type": "Music",
+    "name": "Pillars of Eternity - Original Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-08-14 18:51:38",
+    "depot": {
+        "291661": {
+            "manifests": {
+                "public": {
+                    "gid": "4998200800717626141",
+                    "size": "981321270",
+                    "download": "961885888"
+                }
+            },
+            "decryptionkey": "335d253b68f0dbf0dcd0641b1a351ff0597ad24baddabf51dda7e7c31d58262a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12160841",
+                "timeupdated": "1694448453"
+            }
+        }
+    },
+    "access_token": 10635756701369841052
+}
