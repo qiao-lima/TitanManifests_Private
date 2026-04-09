@@ -1,0 +1,44 @@
+{
+    "appid": 385900,
+    "name": "Arevan",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:12:59",
+    "change_number": 30214865,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "385901": {
+            "manifests": {
+                "public": {
+                    "gid": "1250650179084335390",
+                    "size": "133250254",
+                    "download": "124822000"
+                }
+            },
+            "decryptionkey": "36304d6a0cda89de8e851a90f62796ce2a483034bd8aaaf3b1891d5e556373a1"
+        },
+        "386130": {
+            "manifests": {
+                "public": {
+                    "gid": "6929324267578806375",
+                    "size": "7547850",
+                    "download": "5814896"
+                }
+            },
+            "dlcappid": "386130",
+            "decryptionkey": "e688d6c875ddc6071754b6d42affaa4162b69ce141e6e224827556a2b976663c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "835382"
+            }
+        }
+    }
+}
