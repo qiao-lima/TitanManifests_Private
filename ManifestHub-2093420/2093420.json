@@ -1,0 +1,27 @@
+{
+    "appid": 2093420,
+    "name": "Making Lovers After Stories",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 11:09:25",
+    "change_number": 29895410,
+    "depot": {
+        "2093421": {
+            "manifests": {
+                "public": {
+                    "gid": "8314281168262873212",
+                    "size": "2534475610",
+                    "download": "2307096944"
+                }
+            },
+            "decryptionkey": "733c9479da82a0f47358b1e56f7f01460bebb48509cbf15dc4c3686856969441"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9398119",
+                "timeupdated": "1661557264"
+            }
+        }
+    }
+}
