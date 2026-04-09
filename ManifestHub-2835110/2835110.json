@@ -1,0 +1,32 @@
+{
+    "appid": 2835110,
+    "name": "Sea Fantasy",
+    "type": "Game",
+    "schinese_name": "海洋幻想 / Sea Fantasy",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 16:42:57",
+    "change_number": 30155646,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "2835111": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1840406203848523472",
+                    "size": "613947750",
+                    "download": "441907248"
+                }
+            },
+            "decryptionkey": "70ea9659a5036233e7b75a4083c0763068021bf6f54bda809e64ca206c40b98b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19200094",
+                "timeupdated": "1752348819"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
