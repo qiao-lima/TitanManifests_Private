@@ -1,0 +1,32 @@
+{
+    "appid": 2500570,
+    "name": "Little Droid",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 04:35:00",
+    "change_number": 30002667,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,russian",
+        "2500571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6573829067618397080",
+                    "size": "134516965",
+                    "download": "80029712"
+                }
+            },
+            "decryptionkey": "67e194ec93d367fd593a021cbb6bd93c069592d147c0ca407779cd28fa6be603"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18378418",
+                "timeupdated": "1746643140"
+            }
+        }
+    }
+}
