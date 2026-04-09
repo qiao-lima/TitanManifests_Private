@@ -1,0 +1,66 @@
+{
+    "appid": 326410,
+    "name": "Windward",
+    "type": "Game",
+    "schinese_name": "迎风起航",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 13:14:38",
+    "change_number": 29786424,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "326411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5910737621358100731",
+                    "size": "134486735",
+                    "download": "61801024"
+                }
+            },
+            "decryptionkey": "e574308d6ff1d90a5adf0eaf57f11ea53411b2d1a1e9275b337045e5e7ce53ae"
+        },
+        "326412": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4237036598655762112",
+                    "size": "127096911",
+                    "download": "62196240"
+                }
+            },
+            "decryptionkey": "c2801ba071f327aa42e8fe030f839f51a536b53bdaeae6763b32b3c79d58f0e5"
+        },
+        "326413": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "53433779086186028",
+                    "size": "128864944",
+                    "download": "62500432"
+                }
+            },
+            "decryptionkey": "44e126b9a3e9ce339654a618aa066852012886059e099439f70ed3c951e92a0b"
+        },
+        "workshopdepot": "326410",
+        "branches": {
+            "public": {
+                "buildid": "1897873",
+                "timeupdated": "1497750290"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "66c4373d3f126d7d0ceb234f9569411b569679f4475e0c1e09935e48e85054c0"
+    }
+}
