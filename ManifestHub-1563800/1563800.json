@@ -1,0 +1,29 @@
+{
+    "appid": 1563800,
+    "name": "Traffic City",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 23:15:33",
+    "change_number": 29575044,
+    "depot": {
+        "1563801": {
+            "manifests": {
+                "public": {
+                    "gid": "3918092919011891773",
+                    "size": "944437939",
+                    "download": "344466336"
+                }
+            },
+            "decryptionkey": "b9c63dca439ab1315ff36e2846b6ecd3cbe3981dccedc6a65721b428b585bb64"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "branches": {
+            "public": {
+                "buildid": "6505893",
+                "timeupdated": "1617845033"
+            }
+        }
+    },
+    "access_token": 13099445392865092250
+}
