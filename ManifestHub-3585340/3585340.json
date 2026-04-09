@@ -1,0 +1,27 @@
+{
+    "appid": 3585340,
+    "name": "Flail Your Arm, Hit the Ball: Return of KUSOGAKI",
+    "type": "Game",
+    "schinese_name": "挥动手臂, 击打棒球: Return of KUSOGAKI",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 13:13:50",
+    "change_number": 30048221,
+    "depot": {
+        "3585341": {
+            "manifests": {
+                "public": {
+                    "gid": "2462320567299424324",
+                    "size": "2464981668",
+                    "download": "1010249472"
+                }
+            },
+            "decryptionkey": "a23fc43aba2d1ec67c0243db532345afe5ab6c973f26b406af7fb11f0e5613d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18786745",
+                "timeupdated": "1749413928"
+            }
+        }
+    }
+}
