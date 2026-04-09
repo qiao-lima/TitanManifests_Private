@@ -1,0 +1,27 @@
+{
+    "appid": 2830670,
+    "name": "Save Giant Girl from monsters 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-21 11:16:17",
+    "change_number": 29094887,
+    "depot": {
+        "2830671": {
+            "manifests": {
+                "public": {
+                    "gid": "3091210642385198786",
+                    "size": "1081930179",
+                    "download": "135911968"
+                }
+            },
+            "decryptionkey": "a4eabdfc142caa988c3491692bf17d614b33e112788ef24cf7f941bed08e23dc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13448519",
+                "timeupdated": "1707866702"
+            }
+        }
+    }
+}
