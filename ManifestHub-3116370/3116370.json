@@ -1,0 +1,28 @@
+{
+    "appid": 3116370,
+    "name": "破碎棱镜 Broken Prism",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 14:52:27",
+    "change_number": 30154821,
+    "depot": {
+        "3116371": {
+            "manifests": {
+                "public": {
+                    "gid": "3982747657150740878",
+                    "size": "2683961794",
+                    "download": "1751527152"
+                }
+            },
+            "decryptionkey": "9bd5d22e356c57e859e6eed2c0e05e32de42703c23756d7a90cf0a7f221ffc82"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "19074972",
+                "timeupdated": "1751436628"
+            }
+        }
+    }
+}
