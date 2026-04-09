@@ -1,0 +1,37 @@
+{
+    "appid": 3161270,
+    "name": "Tlatoani: Aztec Cities",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 13:52:39",
+    "change_number": 30166911,
+    "depot": {
+        "3161271": {
+            "manifests": {
+                "public": {
+                    "gid": "9153449525783399354",
+                    "size": "506698643",
+                    "download": "363220384"
+                },
+                "public_testing_branch": {
+                    "gid": "9153449525783399354",
+                    "size": "506698643",
+                    "download": "363220384"
+                }
+            },
+            "decryptionkey": "99113437a694b959b1cd3c6664992d2bf4b3adf01d6c43962757a00ba09e3ab6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19251261",
+                "timeupdated": "1752702679"
+            },
+            "public_testing_branch": {
+                "buildid": "19251261",
+                "description": "Branch for public playtesting",
+                "timeupdated": "1752702649"
+            }
+        }
+    }
+}
