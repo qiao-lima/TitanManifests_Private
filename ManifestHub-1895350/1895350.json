@@ -1,0 +1,49 @@
+{
+    "appid": 1895350,
+    "name": "I Wani Hug that Gator!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 00:10:04",
+    "change_number": 30195638,
+    "depot": {
+        "1895352": {
+            "manifests": {
+                "public": {
+                    "gid": "7424609851107984011",
+                    "size": "1001128391",
+                    "download": "818849776"
+                },
+                "android": {
+                    "gid": "2010526866693531163",
+                    "size": "806531964",
+                    "download": "795357904"
+                },
+                "testing": {
+                    "gid": "8587256586196419072",
+                    "size": "1001123969",
+                    "download": "818600704"
+                }
+            },
+            "decryptionkey": "6d7480b99a01adb8dda52877c1e1e6cdeb02298f7e0c57cfc892bfe8944f71c9"
+        },
+        "workshopdepot": "1895350",
+        "branches": {
+            "public": {
+                "buildid": "19116313",
+                "timeupdated": "1751706011"
+            },
+            "android": {
+                "buildid": "19116282",
+                "description": "APK Version of the game",
+                "timeupdated": "1751706049"
+            },
+            "testing": {
+                "buildid": "18795988",
+                "description": "Public testing branch; expect broken stuff",
+                "timeupdated": "1749479276"
+            }
+        },
+        "workshopdepotdecryptionkey": "fc3253da2bde9725f9d648e8600c78ae9d80433c0c8f986dbc048a9e278769ce"
+    }
+}
