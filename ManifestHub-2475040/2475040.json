@@ -1,0 +1,28 @@
+{
+    "appid": 2475040,
+    "name": "Purelove Monologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 07:42:53",
+    "change_number": 29892318,
+    "depot": {
+        "2475041": {
+            "manifests": {
+                "public": {
+                    "gid": "7478632744013279793",
+                    "size": "1995287121",
+                    "download": "1643465296"
+                }
+            },
+            "decryptionkey": "7c995ab124aade52717a87ffc7682731449c5546d4922ebcba6232b6d0d92a99"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14701890",
+                "timeupdated": "1718284072"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
