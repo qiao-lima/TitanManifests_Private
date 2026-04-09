@@ -1,0 +1,28 @@
+{
+    "appid": 3545650,
+    "name": "Cabernet - Art Book",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 14:35:33",
+    "change_number": 28370163,
+    "depot": {
+        "3545650": {
+            "manifests": {
+                "public": {
+                    "gid": "573257669521914152",
+                    "size": "5820894",
+                    "download": "5224608"
+                }
+            },
+            "dlcappid": "3545650",
+            "decryptionkey": "1a887c81c2964d53677b8df12131c52197b7275f957eb9a557d6be4ccecd354d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17425398",
+                "timeupdated": "1740241054"
+            }
+        }
+    }
+}
