@@ -1,0 +1,59 @@
+{
+    "appid": 840580,
+    "name": "Virtual Foosball",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 01:09:49",
+    "change_number": 30196415,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "840581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "992006163640423204",
+                    "size": "297148160",
+                    "download": "108259136"
+                }
+            },
+            "decryptionkey": "d91aadc4597483e6a7a6afde9041e9dd3eec90b0db1f125c3923e097b8186438"
+        },
+        "840582": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8003144622418633442",
+                    "size": "267101428",
+                    "download": "88367680"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3241312",
+                "timeupdated": "1540348974"
+            }
+        }
+    }
+}
