@@ -1,0 +1,31 @@
+{
+    "appid": "460660",
+    "type": "Game",
+    "name": "GooCubelets: OCD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25957082",
+    "update_time": "2024-10-30 02:57:21",
+    "depot": {
+        "460661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7700020929627032739",
+                    "size": "504824028",
+                    "download": "84987696"
+                }
+            },
+            "decryptionkey": "afec94bf22ab012df8697d608fcff9d09cb573d890a72c3ded11cfbb2f0d24c6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1858127",
+                "timeupdated": "1496258027"
+            }
+        }
+    },
+    "access_token": 8309147299780692382
+}
