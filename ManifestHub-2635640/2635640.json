@@ -1,0 +1,38 @@
+{
+    "appid": 2635640,
+    "name": "Infestation: Origins",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 01:35:56",
+    "change_number": 29978406,
+    "depot": {
+        "2635641": {
+            "manifests": {
+                "public": {
+                    "gid": "6590403765175132161",
+                    "size": "8280457949",
+                    "download": "3523447776"
+                },
+                "beta": {
+                    "gid": "6590403765175132161",
+                    "size": "8280457949",
+                    "download": "3523447776"
+                }
+            },
+            "decryptionkey": "983410bbdbcf9ad4bfe8ffcf8f24cbceb53f9fbc51a5081cee6d44d6ed83cb2e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16763066",
+                "timeupdated": "1734379058"
+            },
+            "beta": {
+                "buildid": "16763066",
+                "description": "beta",
+                "timeupdated": "1734379035"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
