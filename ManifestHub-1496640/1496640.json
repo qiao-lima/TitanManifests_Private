@@ -1,0 +1,28 @@
+{
+    "appid": 1496640,
+    "name": "Scrapping Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 23:55:45",
+    "change_number": 29436938,
+    "depot": {
+        "1496641": {
+            "manifests": {
+                "public": {
+                    "gid": "6955027999562360901",
+                    "size": "1376744431",
+                    "download": "448952848"
+                }
+            },
+            "decryptionkey": "fd70df7440f2d8449df486b1648c5f7becf3bbadc5de426cfdfbd2ba6296a852"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18778661",
+                "timeupdated": "1749311740"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
