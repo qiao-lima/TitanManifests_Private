@@ -1,0 +1,109 @@
+{
+    "appid": 3130,
+    "name": "Men of War: Red Tide",
+    "type": "Game",
+    "schinese_name": "战争之人：红潮",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 12:19:12",
+    "change_number": 30067127,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "3131": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3996021394392852319",
+                    "size": "2106060985",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "27c605eebe45864a7f583e899652dfdd29bdc33b3a0517575163900f83f89e5f"
+        },
+        "3132": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3639904454219963233",
+                    "size": "842612028",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ea3370a4cb715f29fd7eedeee273f0b378d1c42d6fe42fb0151948237441cb8f"
+        },
+        "3133": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2962567634539383573",
+                    "size": "1678530",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8b61ed604bcb649d668e7feb16c95d068ea559fd4313d9bb087f50417e1b2c01"
+        },
+        "3134": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1663023958690734145",
+                    "size": "1543250",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "98cf603a3339ba27e0a41bab75c170a24999b9e4a55fb3ca59bf59729b158f86"
+        },
+        "3135": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5262731080953469178",
+                    "size": "649872698",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9ec7971ad125eabfda6d6109fa241621bcb62d338e8598edde16cfb5115a391b"
+        },
+        "3136": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3917851899006033823",
+                    "size": "665790106",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "94727b245281b2b45acf2b5483ab4c628ea2976b5ef69d9282da874586a8e356"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "160140"
+            }
+        }
+    }
+}
