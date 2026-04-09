@@ -1,0 +1,27 @@
+{
+    "appid": 818790,
+    "name": "Stunt Hill",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 08:27:31",
+    "change_number": 29315346,
+    "depot": {
+        "818791": {
+            "manifests": {
+                "public": {
+                    "gid": "7651511576299432491",
+                    "size": "61605556",
+                    "download": "15684672"
+                }
+            },
+            "decryptionkey": "fefd3a0250b6db123c8979559bd6e1379568ee59a3207d75261239374421303c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2579791",
+                "timeupdated": "1520336314"
+            }
+        }
+    }
+}
