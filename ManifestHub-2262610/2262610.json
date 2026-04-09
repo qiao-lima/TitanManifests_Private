@@ -1,0 +1,79 @@
+{
+    "appid": 2262610,
+    "name": "Endless Monday: Dreams and Deadlines",
+    "type": "Game",
+    "schinese_name": "永不结束的星期一：梦想与死线 Endless Monday: Dreams and Deadlines",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 23:47:08",
+    "change_number": 30099139,
+    "depot": {
+        "2262611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3632296133833966115",
+                    "size": "236150233",
+                    "download": "146113872"
+                },
+                "publicbeta": {
+                    "gid": "3632296133833966115",
+                    "size": "236150233",
+                    "download": "146113872"
+                }
+            },
+            "decryptionkey": "6dcaffbc78aa5951f599de7972be0348674e2da77ea436e94ba4ca74d492f363"
+        },
+        "2262612": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4544965625085108275",
+                    "size": "269927363",
+                    "download": "153362512"
+                },
+                "publicbeta": {
+                    "gid": "4544965625085108275",
+                    "size": "269927363",
+                    "download": "153362512"
+                }
+            }
+        },
+        "2262613": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5713187740757037672",
+                    "size": "241991307",
+                    "download": "146614304"
+                },
+                "publicbeta": {
+                    "gid": "5713187740757037672",
+                    "size": "241991307",
+                    "download": "146614304"
+                }
+            }
+        },
+        "baselanguages": "english,koreana,schinese,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19198973",
+                "timeupdated": "1752299716"
+            },
+            "publicbeta": {
+                "buildid": "19198973",
+                "description": "public beta",
+                "timeupdated": "1752291683"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
