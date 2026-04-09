@@ -1,0 +1,39 @@
+{
+    "appid": "220620",
+    "type": "Tool",
+    "name": "Football Manager 2013 Resource Archiver",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-05-25 18:33:37",
+    "depot": {
+        "220621": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2458024302946487569",
+                    "size": "173921354",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "3754274427849199812",
+                    "size": "173921354",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cb533bb90636408e305bf3cb2504a12f82a5a334ad2f6d59be2ea9650cca4ace"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "22824"
+            },
+            "local": {
+                "buildid": "22823",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    }
+}
