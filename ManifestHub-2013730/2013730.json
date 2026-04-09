@@ -1,0 +1,57 @@
+{
+    "appid": 2013730,
+    "name": "Gourdlets",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 17:51:58",
+    "change_number": 30156061,
+    "depot": {
+        "2013732": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1337982764490682892",
+                    "size": "237479368",
+                    "download": "170810080"
+                }
+            },
+            "decryptionkey": "2c478f660defa801ad0c9d613c1db68abdf7e35b83bbc34e3a0fd7e02cbe4e65"
+        },
+        "2013733": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "835529284428696887",
+                    "size": "311160361",
+                    "download": "186068464"
+                }
+            },
+            "decryptionkey": "4c00e2510d0628116c1e1febff45e65245c374d1271a6024b71944bd2f565593"
+        },
+        "2013734": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2006611591977508756",
+                    "size": "231686752",
+                    "download": "168618208"
+                }
+            },
+            "decryptionkey": "51b218bafef074810883eeeab55738d326d72fa185734640d5e5fcb977d8b790"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18888137",
+                "timeupdated": "1750106022"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
