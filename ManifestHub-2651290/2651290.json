@@ -1,0 +1,44 @@
+{
+    "appid": 2651290,
+    "name": "Urban Legend Hunters 2: Double",
+    "type": "Game",
+    "schinese_name": "都市传说冒险团2 ：分身",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 09:52:00",
+    "change_number": 29839002,
+    "depot": {
+        "2651291": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9182524796579402117",
+                    "size": "2712044046",
+                    "download": "1148089968"
+                }
+            }
+        },
+        "2651292": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2393496181461999492",
+                    "size": "2725713644",
+                    "download": "1141557696"
+                }
+            },
+            "decryptionkey": "695bc3fdfafcddb5bd381f74f0f5df25e7834bf690e4d325face89a635a706d5"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18622701",
+                "timeupdated": "1748349437"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
