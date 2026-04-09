@@ -1,0 +1,62 @@
+{
+    "appid": 1963370,
+    "name": "No One Survived",
+    "type": "Game",
+    "schinese_name": "无人生还",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 03:11:13",
+    "change_number": 30040979,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1963371": {
+            "manifests": {
+                "public": {
+                    "gid": "7180952667471468494",
+                    "size": "49878006438",
+                    "download": "48310770864"
+                },
+                "0.0.8.6": {
+                    "gid": "1126622026682016028",
+                    "size": "39894101369",
+                    "download": "38402076528"
+                },
+                "beta": {
+                    "gid": "7180952667471468494",
+                    "size": "49878006438",
+                    "download": "48310770864"
+                }
+            },
+            "decryptionkey": "3074ce009a3d9fbc8a0cd5d12b08145f1e07640ef7cde557cbe043bc06d1e45f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19091813",
+                "timeupdated": "1752110807"
+            },
+            "0.0.8.6": {
+                "buildid": "16832757",
+                "description": "0.0.8.6",
+                "timeupdated": "1743477577"
+            },
+            "beta": {
+                "buildid": "19091813",
+                "description": "测试分支",
+                "timeupdated": "1751537701"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
