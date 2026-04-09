@@ -1,0 +1,78 @@
+{
+    "appid": 488960,
+    "name": "Star Vikings Forever",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 06:18:14",
+    "change_number": 29836019,
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "488961": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4110655507972321420",
+                    "size": "254004602",
+                    "download": "74128480"
+                }
+            },
+            "decryptionkey": "fe982824d2e1e0d008e5c1c32305b591bec66e894e9e03a114e47622aeb691e2"
+        },
+        "488962": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5020876971442269973",
+                    "size": "270333350",
+                    "download": "78223984"
+                }
+            },
+            "decryptionkey": "23f99fc359a99362ac829b33975bb76d50e9ea08237d63243b2b2711af5ea6b2"
+        },
+        "488963": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4403408365076999359",
+                    "size": "305108433",
+                    "download": "89401488"
+                }
+            },
+            "decryptionkey": "039b6e184fa70fd4e75886c7ccb69beae76016bb24ef05097142e7f96708df3e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3568262",
+                "timeupdated": "1550687130"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
