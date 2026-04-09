@@ -1,0 +1,29 @@
+{
+    "appid": 3358510,
+    "name": "再刷一把2：金色传说",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 12:52:10",
+    "change_number": 30166021,
+    "depot": {
+        "3358511": {
+            "manifests": {
+                "public": {
+                    "gid": "5535548020716634911",
+                    "size": "699089930",
+                    "download": "479977376"
+                }
+            },
+            "decryptionkey": "5fdfeef6973a4e678cbdecbf4e0e1fd9f41e2fc6b37c7926bd7b61b3df165e27"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "18353925",
+                "timeupdated": "1746505819"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
