@@ -1,0 +1,81 @@
+{
+    "appid": 1154840,
+    "name": "Shadow Empire",
+    "type": "Game",
+    "schinese_name": "暗影帝国",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 15:26:05",
+    "change_number": 30208204,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1154841": {
+            "manifests": {
+                "public": {
+                    "gid": "657099532240888275",
+                    "size": "633933414",
+                    "download": "534110384"
+                },
+                "openbeta": {
+                    "gid": "3089599708232170888",
+                    "size": "640116775",
+                    "download": "540007248"
+                }
+            },
+            "decryptionkey": "b03bab1926c955366c8cacf5364823b16b260df72526484b2b9ae2925e83d7e8"
+        },
+        "1154842": {
+            "manifests": {
+                "public": {
+                    "gid": "6587529983658134480",
+                    "size": "111765433",
+                    "download": "87871664"
+                },
+                "openbeta": {
+                    "gid": "3389409728738239933",
+                    "size": "90326524",
+                    "download": "66930112"
+                }
+            },
+            "decryptionkey": "f0602119edb1dd5ce9126d4319d32fa52daaae4363fdca533cc9f315f8d706b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16537802",
+                "timeupdated": "1733931266"
+            },
+            "openbeta": {
+                "buildid": "18925198",
+                "description": "Open Beta",
+                "timeupdated": "1750328301"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
