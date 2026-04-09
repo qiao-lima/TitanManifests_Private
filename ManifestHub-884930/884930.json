@@ -1,0 +1,28 @@
+{
+    "appid": "884930",
+    "type": "Game",
+    "name": "PixZomb",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18821630",
+    "update_time": "2024-08-14 19:59:04",
+    "depot": {
+        "884931": {
+            "manifests": {
+                "public": {
+                    "gid": "8215362645480460341",
+                    "size": "47666428",
+                    "download": "10002096"
+                }
+            },
+            "decryptionkey": "2c21283b21043d21d5134c92993d5b7dcaff37a16182d6b3eb22bb0391513a83"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2951808",
+                "timeupdated": "1531817741"
+            }
+        }
+    },
+    "access_token": 13581668263429788862
+}
