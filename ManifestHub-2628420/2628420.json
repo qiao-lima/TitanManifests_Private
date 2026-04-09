@@ -1,0 +1,40 @@
+{
+    "appid": 2628420,
+    "name": "Croakoloco",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 00:59:44",
+    "change_number": 29958975,
+    "depot": {
+        "2628421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4213738643150296685",
+                    "size": "227889641",
+                    "download": "110341824"
+                },
+                "beta": {
+                    "gid": "4213738643150296685",
+                    "size": "227889641",
+                    "download": "110341824"
+                }
+            },
+            "decryptionkey": "ad64b7093f376760287474559db2347f089ab5c23f0407aef16d7d744e96b6f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19153150",
+                "timeupdated": "1752018937"
+            },
+            "beta": {
+                "buildid": "19153150",
+                "description": "a beta branch for testing whats to come",
+                "timeupdated": "1752018361"
+            }
+        }
+    }
+}
