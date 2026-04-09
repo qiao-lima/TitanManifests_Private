@@ -1,0 +1,43 @@
+{
+    "appid": 3008040,
+    "name": "Into The Darkness VR Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 18:28:41",
+    "change_number": 29293462,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3008041": {
+            "manifests": {
+                "public": {
+                    "gid": "1685454401015259034",
+                    "size": "10375294700",
+                    "download": "10162672880"
+                }
+            },
+            "decryptionkey": "803c8993e2d854fa641ca7b6010ff80e43fb6fe91299fecfdef09b50f22901de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18140810",
+                "timeupdated": "1744892441"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 14903146270930957431
+}
