@@ -1,0 +1,32 @@
+{
+    "appid": 2781250,
+    "name": "Lyndaria: Lust Adventure",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:13:44",
+    "change_number": 30214879,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2781251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8157741916337677880",
+                    "size": "5395344850",
+                    "download": "2423536032"
+                }
+            },
+            "decryptionkey": "0464b6e2894be1a77f7e56e17eab98f4511d80a4dd5070bda1b4a0bebc83beb8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19330682",
+                "timeupdated": "1753282239"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
