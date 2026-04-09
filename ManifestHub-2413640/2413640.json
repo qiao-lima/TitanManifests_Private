@@ -1,0 +1,56 @@
+{
+    "appid": 2413640,
+    "name": "Countless Army",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 10:46:32",
+    "change_number": 30145033,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,polish,brazilian",
+        "2413641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6972403612797484962",
+                    "size": "235616655",
+                    "download": "153528064"
+                }
+            },
+            "decryptionkey": "13272ef1eea4acee00e712f6d1bb363766785f7ccf47b1aac67d0cc4e414a656"
+        },
+        "2413642": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6291550115308119208",
+                    "size": "248085430",
+                    "download": "167758400"
+                }
+            }
+        },
+        "2413643": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8613359578256910264",
+                    "size": "273942380",
+                    "download": "165535152"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19259128",
+                "timeupdated": "1752847037"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
