@@ -1,0 +1,29 @@
+{
+    "appid": 787390,
+    "name": "Mini Knight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:13:30",
+    "change_number": 30056477,
+    "depot": {
+        "787391": {
+            "manifests": {
+                "public": {
+                    "gid": "8713421347285163630",
+                    "size": "134430627",
+                    "download": "60216384"
+                }
+            },
+            "decryptionkey": "f3c64bd1d46433efb5ec20957f47d10843fea9e4922faf7bfaa800e7975e9023"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "2450489",
+                "timeupdated": "1516336932"
+            }
+        }
+    },
+    "access_token": 9157761730300911571
+}
