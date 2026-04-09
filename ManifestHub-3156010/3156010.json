@@ -1,0 +1,43 @@
+{
+    "appid": 3156010,
+    "name": "Minesweeper & Dungeon RPG: Adventure",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 23:20:58",
+    "change_number": 29447186,
+    "depot": {
+        "3156011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1914050900105155438",
+                    "size": "177308257",
+                    "download": "63080672"
+                }
+            },
+            "decryptionkey": "b7ff720de094aaddeb92cc79f94ec4311e7a20b86b9e25d5993ddf001b7b77e5"
+        },
+        "3156012": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "843595083630194849",
+                    "size": "286330730",
+                    "download": "84065392"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17135804",
+                "timeupdated": "1737886688"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
