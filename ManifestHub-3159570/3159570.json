@@ -1,0 +1,42 @@
+{
+    "appid": 3159570,
+    "name": "Lynked: Banner of the Spark",
+    "type": "Game",
+    "schinese_name": "《联结：星火之盟》",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 09:39:41",
+    "change_number": 30202462,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3159571": {
+            "manifests": {
+                "public": {
+                    "gid": "1085169731222759957",
+                    "size": "11467708177",
+                    "download": "10663590240"
+                }
+            },
+            "decryptionkey": "8b67b11313f1da51f2ba40bab7831b79558154057a6270e935dfed05d85b9fef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18991302",
+                "timeupdated": "1750957216"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
