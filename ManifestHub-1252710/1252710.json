@@ -1,0 +1,28 @@
+{
+    "appid": 1252710,
+    "name": "Cardaclysm",
+    "type": "Game",
+    "schinese_name": "卡牌浩劫",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 10:17:13",
+    "change_number": 29640606,
+    "depot": {
+        "1252711": {
+            "manifests": {
+                "public": {
+                    "gid": "1457072017811876494",
+                    "size": "3161504920",
+                    "download": "1069875024"
+                }
+            },
+            "decryptionkey": "1f0531fa3d12dd610a715e166c10796538d5ff2440a5605ef019fa20ea829263"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9822105",
+                "timeupdated": "1666965550"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
