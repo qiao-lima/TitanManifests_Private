@@ -1,0 +1,27 @@
+{
+    "appid": 2257290,
+    "name": "Just Futanari",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 12:22:45",
+    "change_number": 29967157,
+    "depot": {
+        "2257291": {
+            "manifests": {
+                "public": {
+                    "gid": "3260847137572032868",
+                    "size": "1140831360",
+                    "download": "306824752"
+                }
+            },
+            "decryptionkey": "9acff22187ca7e56e65ba03b374f864e7662d49d737228c2f3df9627c5324e0e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11700761",
+                "timeupdated": "1689316140"
+            }
+        }
+    }
+}
