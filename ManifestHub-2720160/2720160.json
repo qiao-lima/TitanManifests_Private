@@ -1,0 +1,65 @@
+{
+    "appid": 2720160,
+    "name": "Skate Rift Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 12:57:37",
+    "change_number": 30067675,
+    "depot": {
+        "2103941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3561197888420407051",
+                    "size": "12675623",
+                    "download": "3648720"
+                }
+            },
+            "depotfromapp": "2103940",
+            "decryptionkey": "9e0afbb3e0a02a0c77440c374b6bfaa78edce2890eae7f161a2bbd7c4a25225d"
+        },
+        "2103942": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1105280477885137881",
+                    "size": "7534377",
+                    "download": "2292576"
+                }
+            },
+            "depotfromapp": "2103940"
+        },
+        "2103943": {
+            "manifests": {
+                "public": {
+                    "gid": "8581223058730517995",
+                    "size": "140651467",
+                    "download": "65181472"
+                }
+            },
+            "depotfromapp": "2103940",
+            "decryptionkey": "979ba31ef7199022b44d45d17cb9596a473504e497734b38364ea5e39a6bb759"
+        },
+        "2720161": {
+            "manifests": {
+                "public": {
+                    "gid": "3480418578162540946",
+                    "size": "93",
+                    "download": "144"
+                }
+            },
+            "decryptionkey": "e876fdbf9c8395c228e2b2c1374e6e0aca5ca7ef5b48fe118643fed9f5c7d182"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19228950",
+                "timeupdated": "1752580652"
+            }
+        }
+    }
+}
