@@ -1,0 +1,28 @@
+{
+    "appid": 3096400,
+    "name": "Beauty Riddle",
+    "type": "Game",
+    "schinese_name": "美眉猜谜",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 15:17:40",
+    "change_number": 29229937,
+    "depot": {
+        "3096401": {
+            "manifests": {
+                "public": {
+                    "gid": "5172095788824227758",
+                    "size": "387697964",
+                    "download": "281437856"
+                }
+            },
+            "decryptionkey": "42203e54c44cd3117550809e04f6b531b56a09283bd556c67b1d03687d20886e"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "15337439",
+                "timeupdated": "1723432603"
+            }
+        }
+    }
+}
