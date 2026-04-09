@@ -1,0 +1,42 @@
+{
+    "appid": 3165720,
+    "name": "Fellowship Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 19:05:11",
+    "change_number": 30017425,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3165721": {
+            "manifests": {
+                "public": {
+                    "gid": "1387542200970942463",
+                    "size": "13334036475",
+                    "download": "12956223584"
+                }
+            },
+            "decryptionkey": "55538fe917d9c48eef4968835c260e359554768fb2254bda024faed896939dbb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19179234",
+                "timeupdated": "1752168705"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
