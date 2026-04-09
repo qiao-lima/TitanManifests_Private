@@ -1,0 +1,63 @@
+{
+    "appid": 971160,
+    "name": "Möbius Front '83",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 05:12:19",
+    "change_number": 30199144,
+    "depot": {
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "971161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7310614926299681957",
+                    "size": "1574373824",
+                    "download": "855833232"
+                }
+            },
+            "decryptionkey": "76a063ba21a233fb75071ff4da4a20246d0af028c27baad94d0d13cc6b1041c8"
+        },
+        "971162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3369417934902432194",
+                    "size": "1601277632",
+                    "download": "862722816"
+                }
+            },
+            "decryptionkey": "d5ed2f95e3bb0f6acc0563f47481694973911e433d840f321a77e07f34626782"
+        },
+        "971163": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6917213980895474768",
+                    "size": "1629113765",
+                    "download": "871073632"
+                }
+            },
+            "decryptionkey": "30525138974368c109040f5a5edfb7c71691c9fd12da3d0b6d1ea0769d27b575"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14268025",
+                "timeupdated": "1714868628"
+            }
+        }
+    }
+}
