@@ -1,0 +1,216 @@
+{
+    "appid": "381120",
+    "type": "Game",
+    "name": "Shoppe Keep",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28972643",
+    "update_time": "2025-05-14 11:27:50",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "381121": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6058473441485441409",
+                    "size": "1802916999",
+                    "download": "420660800"
+                },
+                "patch_test": {
+                    "gid": "6058473441485441409",
+                    "size": "1802916999",
+                    "download": "420660800"
+                },
+                "rollback": {
+                    "gid": "2935913018811015847",
+                    "size": "1796124751",
+                    "download": "419203344"
+                }
+            },
+            "decryptionkey": "4b28ea7077b0cc1528a81e9141dc678b345fb1b27571f4b4c3534322324f842f"
+        },
+        "381123": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6017046480936356001",
+                    "size": "1807167575",
+                    "download": "421892416"
+                },
+                "patch_test": {
+                    "gid": "6017046480936356001",
+                    "size": "1807167575",
+                    "download": "421892416"
+                },
+                "rollback": {
+                    "gid": "548193434755535813",
+                    "size": "1800375327",
+                    "download": "420444336"
+                }
+            },
+            "decryptionkey": "4f5f7eb32f43a3fc6167c508bc6e3a75ae13de6bdc260587a305e994b47f218d"
+        },
+        "381122": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1213487129128195603",
+                    "size": "1883780198",
+                    "download": "468695520"
+                },
+                "patch_test": {
+                    "gid": "1213487129128195603",
+                    "size": "1883780198",
+                    "download": "468695520"
+                },
+                "rollback": {
+                    "gid": "5166917213072308976",
+                    "size": "3757814443",
+                    "download": "472996608"
+                }
+            },
+            "decryptionkey": "b2c5ff7cb9cb40a10e8e9a89adcbd5f4466c26268c6095f869b0ad739b9ce675"
+        },
+        "381124": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7695804298428967696",
+                    "size": "1885997658",
+                    "download": "468964144"
+                },
+                "patch_test": {
+                    "gid": "7695804298428967696",
+                    "size": "1885997658",
+                    "download": "468964144"
+                },
+                "rollback": {
+                    "gid": "8945513285118013328",
+                    "size": "3762249362",
+                    "download": "472447136"
+                }
+            },
+            "decryptionkey": "6de3cc7c2c1379ae71a9af7ea8c523c657804e8e95742344f8aa0fcbde89f461"
+        },
+        "381125": {
+            "dlcappid": "381680"
+        },
+        "381126": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2093711693112093921",
+                    "size": "1815533365",
+                    "download": "425715552"
+                },
+                "patch_test": {
+                    "gid": "2093711693112093921",
+                    "size": "1815533365",
+                    "download": "425715552"
+                },
+                "rollback": {
+                    "gid": "1289762394552390413",
+                    "size": "1808741117",
+                    "download": "424249360"
+                }
+            },
+            "decryptionkey": "6a2066362f4aea6f75893519f37414d4a69abdbc280c2c6f2c17fa02686a5835"
+        },
+        "381127": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8583980058521313877",
+                    "size": "1815479223",
+                    "download": "425884256"
+                },
+                "patch_test": {
+                    "gid": "8583980058521313877",
+                    "size": "1815479223",
+                    "download": "425884256"
+                },
+                "rollback": {
+                    "gid": "6449664492943861748",
+                    "size": "1808686975",
+                    "download": "424414560"
+                }
+            },
+            "decryptionkey": "5db93f67ab10070213b8881f66efd90077819ef9817073ccb9a7fa648f7a06d7"
+        },
+        "473090": {
+            "manifests": {
+                "public": {
+                    "gid": "7920676423213747622",
+                    "size": "237288437",
+                    "download": "198036128"
+                },
+                "patch_test": {
+                    "gid": "7920676423213747622",
+                    "size": "237288437",
+                    "download": "198036128"
+                },
+                "rollback": {
+                    "gid": "7920676423213747622",
+                    "size": "237288437",
+                    "download": "198036128"
+                }
+            },
+            "decryptionkey": "9185c5fda740eed3f394efe92a83a4a47d26d32fdf8b114d641cc2ffb2276afe"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "1891521",
+                "timeupdated": "1497504889"
+            },
+            "patch_test": {
+                "buildid": "1891521",
+                "description": "Patch testing",
+                "timeupdated": "1497504770"
+            },
+            "rollback": {
+                "buildid": "1603519",
+                "timeupdated": "1497354560"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
