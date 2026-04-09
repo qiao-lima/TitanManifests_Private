@@ -1,0 +1,28 @@
+{
+    "appid": 2814110,
+    "name": "MILF's Plaza - Digital Artbook",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 09:30:11",
+    "change_number": 26201212,
+    "depot": {
+        "2814110": {
+            "manifests": {
+                "public": {
+                    "gid": "8794330003497708556",
+                    "size": "636350716",
+                    "download": "528708640"
+                }
+            },
+            "dlcappid": "2814110",
+            "decryptionkey": "1023441950b95d0576b096514e05ff00fbd3ffcd3ba3efa121fb67a253b3166c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14107088",
+                "timeupdated": "1713516423"
+            }
+        }
+    }
+}
