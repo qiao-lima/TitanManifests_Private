@@ -1,0 +1,38 @@
+{
+    "appid": "595340",
+    "type": "Game",
+    "name": "Turn Around",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:22:28",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "595341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7743556484971423891",
+                    "size": "174017476",
+                    "download": "38840160"
+                }
+            },
+            "decryptionkey": "5e81b83763785aed9b0e0199e271081eb5e200cedac130fe580b3f84c7b3a5ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2215268",
+                "timeupdated": "1508490970"
+            }
+        }
+    },
+    "access_token": 5490807342299407492
+}
