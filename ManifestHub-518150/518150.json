@@ -1,0 +1,54 @@
+{
+    "appid": 518150,
+    "name": "Intruder",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 17:58:50",
+    "change_number": 30094015,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "518150",
+        "518151": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "310990541069212472",
+                    "size": "6598248349",
+                    "download": "1503714448"
+                }
+            }
+        },
+        "518153": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2926958946269243115",
+                    "size": "6934514142",
+                    "download": "1644892016"
+                }
+            },
+            "decryptionkey": "2ed850e7cc8b07415d7a61ec0298fbe0b5efaf01883c715b0097edfe16d860e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19140473",
+                "timeupdated": "1751946508"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "2666e1f32f2c7134f0138391ea478ac59de4c6eae1af469482b6112737764bd5"
+    }
+}
