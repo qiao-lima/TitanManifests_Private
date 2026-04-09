@@ -1,0 +1,28 @@
+{
+    "appid": 1634697,
+    "name": "SAMURAI WARRIORS 5 - Additional Horse \"Ghost\"",
+    "type": "DLC",
+    "schinese_name": "战国无双５ - 追加军马“白骸”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:15:33",
+    "change_number": 26201212,
+    "depot": {
+        "1634697": {
+            "manifests": {
+                "public": {
+                    "gid": "533820823707109402",
+                    "size": "524",
+                    "download": "352"
+                }
+            },
+            "dlcappid": "1634697",
+            "decryptionkey": "507dc55f1ea1bf948e0535d25409479484adabb7e523b577b4b13bf48b786289"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6933371",
+                "timeupdated": "1624626767"
+            }
+        }
+    }
+}
