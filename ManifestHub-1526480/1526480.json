@@ -1,0 +1,28 @@
+{
+    "appid": 1526480,
+    "name": "battle Tank",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:17:51",
+    "change_number": 29717362,
+    "depot": {
+        "1526481": {
+            "manifests": {
+                "public": {
+                    "gid": "4119450699963812675",
+                    "size": "97277425",
+                    "download": "30143536"
+                }
+            },
+            "decryptionkey": "8e736d566f8d1e1e59dfa5e2b8c418edc4aff61495234a570806a6f83adb4380"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6091001",
+                "timeupdated": "1610765828"
+            }
+        }
+    },
+    "access_token": 14240445235916430115
+}
