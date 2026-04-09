@@ -1,0 +1,49 @@
+{
+    "appid": 555570,
+    "name": "Infestation: The New Z",
+    "type": "Game",
+    "schinese_name": "僵尸战争",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 10:29:19",
+    "change_number": 30007633,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,dutch,turkish",
+        "555571": {
+            "manifests": {
+                "public": {
+                    "gid": "1109249911055172837",
+                    "size": "19295308130",
+                    "download": "15961583296"
+                }
+            },
+            "decryptionkey": "cf80eccdf3b528109382ec9cebbfb9405c7307577280aad71a97c3caaf40778c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19177811",
+                "timeupdated": "1752226153"
+            }
+        }
+    }
+}
