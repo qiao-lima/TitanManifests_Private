@@ -1,0 +1,31 @@
+{
+    "appid": 2943640,
+    "name": "Симулятор ПВЗ",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 14:12:09",
+    "change_number": 30068953,
+    "depot": {
+        "2943641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8358015560430014820",
+                    "size": "1914675449",
+                    "download": "485716064"
+                }
+            },
+            "decryptionkey": "9b8d5126acb81d61dee1798cf8da52d121453e7cec560d3b12087a55dd68b7e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18403819",
+                "timeupdated": "1748085909"
+            }
+        }
+    }
+}
