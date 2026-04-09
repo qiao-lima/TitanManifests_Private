@@ -1,0 +1,28 @@
+{
+    "appid": "540310",
+    "type": "Game",
+    "name": "GrottyScape",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24646381",
+    "update_time": "2024-08-14 19:16:09",
+    "depot": {
+        "540311": {
+            "manifests": {
+                "public": {
+                    "gid": "3257007440890865744",
+                    "size": "109090125",
+                    "download": "38553344"
+                }
+            },
+            "decryptionkey": "903afbb5e36af41119d8ad4265264244e78b4f5b7f44be285a4e23fa7a20b61d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1375563",
+                "timeupdated": "1475683204"
+            }
+        }
+    },
+    "access_token": 17072194024692486826
+}
