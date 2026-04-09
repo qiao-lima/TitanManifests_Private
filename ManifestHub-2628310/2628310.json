@@ -1,0 +1,42 @@
+{
+    "appid": 2628310,
+    "name": "Adrenaline Rampage Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 04:31:07",
+    "change_number": 29515320,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2628311": {
+            "manifests": {
+                "public": {
+                    "gid": "434563627603292056",
+                    "size": "1429113666",
+                    "download": "1047082288"
+                }
+            },
+            "decryptionkey": "c8baf43542d0dc2c7532aaabbfdf7ebdee5a2d013073024b0c675ef25de35401"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18614600",
+                "timeupdated": "1748283784"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
