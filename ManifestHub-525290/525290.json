@@ -1,0 +1,28 @@
+{
+    "appid": 525290,
+    "name": "Kings under the hill",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:11:57",
+    "change_number": 30056460,
+    "depot": {
+        "525291": {
+            "manifests": {
+                "public": {
+                    "gid": "5941427673142908531",
+                    "size": "29011332",
+                    "download": "16338608"
+                }
+            },
+            "decryptionkey": "853fd14f4d499761553e8587d80c65f97cac269e3e598135b0b59f2bd689a9b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1602917",
+                "timeupdated": "1485941202"
+            }
+        }
+    },
+    "access_token": 10547540420842454358
+}
