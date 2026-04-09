@@ -1,0 +1,29 @@
+{
+    "appid": 1435010,
+    "name": "Succubus Connect",
+    "type": "Game",
+    "schinese_name": "魅魔★钟爱!",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 16:18:44",
+    "change_number": 30113610,
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "1",
+        "1435011": {
+            "manifests": {
+                "public": {
+                    "gid": "6225316024953956972",
+                    "size": "1147537920",
+                    "download": "944534896"
+                }
+            },
+            "decryptionkey": "72bb0ce2976e4822ef63bd8e32c0d26d78a94dc53048fb1e9741799ac2a40de7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5601395",
+                "timeupdated": "1673631729"
+            }
+        }
+    }
+}
