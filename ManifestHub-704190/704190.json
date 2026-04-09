@@ -1,0 +1,28 @@
+{
+    "appid": 704190,
+    "name": "Bitcoin Collector",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 13:51:41",
+    "change_number": 30146282,
+    "depot": {
+        "704191": {
+            "manifests": {
+                "public": {
+                    "gid": "6497923879737367234",
+                    "size": "27373638",
+                    "download": "25033424"
+                }
+            },
+            "decryptionkey": "2211f7f5c4a377888caff8c756fc38b9f6035fce397ff6a8d01c1f2bcfd5b5bb"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "13528596",
+                "timeupdated": "1708589238"
+            }
+        }
+    }
+}
