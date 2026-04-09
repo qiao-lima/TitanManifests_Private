@@ -1,0 +1,41 @@
+{
+    "appid": 3265630,
+    "name": "Holy Shoot Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 00:36:49",
+    "change_number": 30140978,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3265631": {
+            "manifests": {
+                "public": {
+                    "gid": "1561551063515411184",
+                    "size": "3362794470",
+                    "download": "3121163376"
+                }
+            },
+            "decryptionkey": "cffa84731e76846dd059966d64cd5810558efe0636d518b526163a444b33ef94"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19281553",
+                "timeupdated": "1752881803"
+            }
+        }
+    }
+}
