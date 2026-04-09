@@ -1,0 +1,28 @@
+{
+    "appid": 294730,
+    "name": "Marine Park Empire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-20 04:37:12",
+    "change_number": 29068353,
+    "depot": {
+        "overridescddb": "1",
+        "294731": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8087006857160750388",
+                    "size": "1161551972",
+                    "download": "429843824"
+                }
+            },
+            "decryptionkey": "5e20240894c2f0c1bba6d7069b008f90805db1d376066f86ca0f405bf5df7a29"
+        },
+        "branches": {
+            "public": {
+                "buildid": "734447"
+            }
+        }
+    }
+}
