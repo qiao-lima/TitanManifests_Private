@@ -1,0 +1,32 @@
+{
+    "appid": "414070",
+    "type": "Game",
+    "name": "Shut Up And Dig",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26870329",
+    "update_time": "2025-01-06 05:12:25",
+    "depot": {
+        "baselanguages": "english",
+        "414071": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "194018855225426770",
+                    "size": "75672070",
+                    "download": "76592128"
+                }
+            },
+            "decryptionkey": "52d126dcc19456a25c774b1380918042b84eb623e9d931dded4653c841ef125d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "963073"
+            }
+        }
+    },
+    "access_token": 9524532271308923634
+}
