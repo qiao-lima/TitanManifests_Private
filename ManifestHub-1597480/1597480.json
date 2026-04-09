@@ -1,0 +1,36 @@
+{
+    "appid": 1597480,
+    "name": "Zombie Gunship Survival",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 10:05:24",
+    "change_number": 30182664,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1597481": {
+            "manifests": {
+                "public": {
+                    "gid": "1276119798426917055",
+                    "size": "3413404098",
+                    "download": "3350911824"
+                }
+            },
+            "decryptionkey": "59d11043aaf9e823cd5bd2796a3c1f4470b304f20a720d1c64709587fbaf6451"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19261847",
+                "timeupdated": "1753175121"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
