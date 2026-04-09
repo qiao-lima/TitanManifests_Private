@@ -1,0 +1,93 @@
+{
+    "appid": 15270,
+    "name": "Cold Fear",
+    "type": "Game",
+    "schinese_name": "极度深寒",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 08:16:40",
+    "change_number": 29224417,
+    "depot": {
+        "15271": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3957322413762064532",
+                    "size": "1696988527",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fe2ac6fc56eaa6dbd648a9be95376e9b0348c65c560aa432c038841c09fef1a5"
+        },
+        "15272": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8984452771241714836",
+                    "size": "836969",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "115e37b53a2746da4e7634122b3613db8dc11f166c04aad68bf6ff8700cba52a"
+        },
+        "15273": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1780176224695512763",
+                    "size": "837599",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "95876dd6af109586112da305827cd2eb89302b39f3df3d5de49f68e67f7f0fee"
+        },
+        "15274": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5363306241723854024",
+                    "size": "1027963",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5a988d3e0e5e5e3082dc1f94257f90ea8251279c6d78d50284167f43fa5d8f28"
+        },
+        "15275": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7541778450864299866",
+                    "size": "805334",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d145692bab9e74a75338f59196640ded4c6b8d93319c6dff2615d74b0395df02"
+        },
+        "15276": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6417510630926473430",
+                    "size": "839582",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7f02645ce2971c0a4eb2b3a098251b80fc28caf37f644131cd05753fa67b7c16"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "2775"
+            }
+        }
+    }
+}
