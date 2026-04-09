@@ -1,0 +1,32 @@
+{
+    "appid": "587590",
+    "type": "Game",
+    "name": "Unexpected Day",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27476943",
+    "update_time": "2025-02-14 18:15:15",
+    "depot": {
+        "baselanguages": "english,russian",
+        "587591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3687003502551533344",
+                    "size": "56701891",
+                    "download": "20874128"
+                }
+            },
+            "decryptionkey": "10107281de188477a108be7cf47c85c81a20640d739fa901a88189b8f8f0c0e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1596708",
+                "timeupdated": "1485623104"
+            }
+        }
+    },
+    "access_token": 1755668846247073664
+}
