@@ -1,0 +1,29 @@
+{
+    "appid": 977140,
+    "name": "剪刀石头布",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 16:14:39",
+    "change_number": 26375805,
+    "depot": {
+        "977141": {
+            "manifests": {
+                "public": {
+                    "gid": "866271132942686665",
+                    "size": "1811391635",
+                    "download": "327168864"
+                }
+            },
+            "decryptionkey": "e2ea82971b37f5e5111792da3327391d48e431e34ceb43334abc5136d375f5d2"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "3543028",
+                "timeupdated": "1549612335"
+            }
+        }
+    },
+    "access_token": 5913482018050543810
+}
