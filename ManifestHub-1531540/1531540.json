@@ -1,0 +1,134 @@
+{
+    "appid": 1531540,
+    "name": "Distant Worlds 2",
+    "type": "Game",
+    "schinese_name": "遥远的世界2",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:02:56",
+    "change_number": 30206770,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "workshopdepot": "1531540",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1531541": {
+            "manifests": {
+                "public": {
+                    "gid": "2085427606893578764",
+                    "size": "16519568369",
+                    "download": "5541243568"
+                },
+                "beta": {
+                    "gid": "8851821020913328454",
+                    "size": "18188347014",
+                    "download": "5821985648"
+                }
+            },
+            "decryptionkey": "9b9fa09921729c938191534f1f6e81de525e236fc054ac17d94d244e17325066"
+        },
+        "1531542": {
+            "manifests": {
+                "public": {
+                    "gid": "1434596366861147812",
+                    "size": "173057589",
+                    "download": "161701584"
+                },
+                "beta": {
+                    "gid": "8137635415677390542",
+                    "size": "173195206",
+                    "download": "161841952"
+                }
+            },
+            "decryptionkey": "d3ad118ab7b59fa205beffca68585bc8c56dc8067fe634d8fffa302ac704fc2b"
+        },
+        "2140010": {
+            "dlcappid": "2140010",
+            "manifests": {
+                "public": {
+                    "gid": "4882813539776254274",
+                    "size": "1519810785",
+                    "download": "638656912"
+                },
+                "beta": {
+                    "gid": "1051654712794244288",
+                    "size": "1519814003",
+                    "download": "638658672"
+                }
+            },
+            "decryptionkey": "9816b2e90deea55cab853826a6be8d3cdbe88dbc77fc7fd4a36b0eec139a8407"
+        },
+        "2409480": {
+            "dlcappid": "2409480",
+            "manifests": {
+                "public": {
+                    "gid": "7340136369534942697",
+                    "size": "3722830517",
+                    "download": "1062323456"
+                },
+                "beta": {
+                    "gid": "6694792829894095904",
+                    "size": "3722834020",
+                    "download": "1062324048"
+                }
+            },
+            "decryptionkey": "6ad516f28fe48285424f2de097c3132bb5b8610db316d7ff542aebbe200c9b6c"
+        },
+        "2926560": {
+            "dlcappid": "2926560",
+            "manifests": {
+                "public": {
+                    "gid": "3399234514731466019",
+                    "size": "5077653180",
+                    "download": "1932949712"
+                },
+                "beta": {
+                    "gid": "4003136236475098027",
+                    "size": "5077653208",
+                    "download": "1932949712"
+                }
+            },
+            "decryptionkey": "feb295904155c907424456a59ee15bedd5586368f9067c88ab1fa8ea45fc3415"
+        },
+        "3350550": {
+            "dlcappid": "3350550",
+            "manifests": {
+                "public": {
+                    "gid": "2588012933649850670",
+                    "size": "1686361417",
+                    "download": "653644320"
+                },
+                "beta": {
+                    "gid": "1460638622983973301",
+                    "size": "1798217596",
+                    "download": "654411360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18114195",
+                "timeupdated": "1744898435"
+            },
+            "beta": {
+                "buildid": "19327992",
+                "description": "v1.3.1.1.1",
+                "timeupdated": "1753275770"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4272e2bd6fe60eb571b0ab109fd10ed85d99e69761b0fdc465270dbb04859c94"
+    }
+}
