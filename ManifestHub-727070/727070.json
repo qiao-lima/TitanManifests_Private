@@ -1,0 +1,42 @@
+{
+    "appid": 727070,
+    "name": "Hex",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 15:56:25",
+    "change_number": 29862532,
+    "depot": {
+        "727071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6739777484852704024",
+                    "size": "99014352",
+                    "download": "26597328"
+                }
+            },
+            "decryptionkey": "06e192b0257a48300821a257eddacf05b75a52d1d5432842d7d9b7bd8c865f97"
+        },
+        "727072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2314145615717657455",
+                    "size": "112696233",
+                    "download": "29491472"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2233715",
+                "timeupdated": "1509052361"
+            }
+        }
+    }
+}
