@@ -1,0 +1,28 @@
+{
+    "appid": 1690190,
+    "name": "Portal Walk",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 16:17:11",
+    "change_number": 29645376,
+    "depot": {
+        "1690191": {
+            "manifests": {
+                "public": {
+                    "gid": "3783785379335023992",
+                    "size": "196088126",
+                    "download": "122771200"
+                }
+            },
+            "decryptionkey": "2fa62f07e6821e70652363a03a7ca882345e63c55604f409e049a40d9fbafc35"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17752292",
+                "timeupdated": "1742219550"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
