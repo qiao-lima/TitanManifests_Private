@@ -1,0 +1,27 @@
+{
+    "appid": 3103380,
+    "name": "WEBCAM LOVE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 11:52:57",
+    "change_number": 30153779,
+    "depot": {
+        "3103381": {
+            "manifests": {
+                "public": {
+                    "gid": "8961204345084081977",
+                    "size": "313608342",
+                    "download": "155670016"
+                }
+            },
+            "decryptionkey": "74f10af28671b9013ebddf6b7644e7489d3761da5ac623eb6a1ff881b01ac0de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15195672",
+                "timeupdated": "1722406643"
+            }
+        }
+    }
+}
