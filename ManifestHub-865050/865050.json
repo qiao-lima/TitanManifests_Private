@@ -1,0 +1,31 @@
+{
+    "appid": "865050",
+    "type": "Game",
+    "name": "World of Tea",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25057972",
+    "update_time": "2024-09-03 21:39:51",
+    "depot": {
+        "865051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2520192695719623980",
+                    "size": "110195915",
+                    "download": "38728928"
+                }
+            },
+            "decryptionkey": "19399769c7dbfaa5eeac4f116ced99a788200c04a05ab9060a0487e6170d1895"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2842603",
+                "timeupdated": "1528383718"
+            }
+        }
+    },
+    "access_token": 9004751343734444859
+}
