@@ -1,0 +1,43 @@
+{
+    "appid": "325090",
+    "type": "Game",
+    "name": "Deep Dungeons of Doom",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971903",
+    "update_time": "2025-05-14 10:17:53",
+    "depot": {
+        "325091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7100554830308131474",
+                    "size": "75478813",
+                    "download": "50381808"
+                }
+            },
+            "decryptionkey": "cfb49574a9498f2059e222ee00701a6b1855c0886bbf201be05260158c43c1c7"
+        },
+        "325092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1853335812968545873",
+                    "size": "100765834",
+                    "download": "57088032"
+                }
+            },
+            "decryptionkey": "c07b2b14d4f9c76f5572e593f15aca0e8af8e2bd78d91d8252cb4f8f27b46b9b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "416689"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
