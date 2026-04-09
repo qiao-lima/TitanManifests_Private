@@ -1,0 +1,46 @@
+{
+    "appid": 1555910,
+    "name": "Wet Nightmares",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 00:35:01",
+    "change_number": 29999009,
+    "depot": {
+        "1555911": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1470436305563641414",
+                    "size": "514606545",
+                    "download": "341981696"
+                }
+            },
+            "decryptionkey": "26e2d6e60f0696ee3ed5819e31961d5c6a1a1f64afe33af1cd6a7b9d6815de33"
+        },
+        "1555912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3767597413678329779",
+                    "size": "537059783",
+                    "download": "350044720"
+                }
+            }
+        },
+        "1555914": {
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "19144847",
+                "timeupdated": "1751972573"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
