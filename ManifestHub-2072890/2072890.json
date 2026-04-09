@@ -1,0 +1,27 @@
+{
+    "appid": 2072890,
+    "name": "Foster: Child Ghost | 养小鬼",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 16:06:58",
+    "change_number": 29366446,
+    "depot": {
+        "2072891": {
+            "manifests": {
+                "public": {
+                    "gid": "6866249058300032058",
+                    "size": "13171283079",
+                    "download": "5644191184"
+                }
+            },
+            "decryptionkey": "96f9dfc236e855f658ec1e171d53e6df11b24fbfde99db16dfe1877fb11351e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9253613",
+                "timeupdated": "1659626281"
+            }
+        }
+    }
+}
