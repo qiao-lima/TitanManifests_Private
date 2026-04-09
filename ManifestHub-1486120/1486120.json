@@ -1,0 +1,41 @@
+{
+    "appid": 1486120,
+    "name": "2020: The Ride",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-28 11:15:20",
+    "change_number": 29800940,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1486121": {
+            "manifests": {
+                "public": {
+                    "gid": "1658211911368572919",
+                    "size": "2440243461",
+                    "download": "436824272"
+                }
+            },
+            "decryptionkey": "c4614fe0bb956df807417a63378f13fb4566bb1d44fbc15df5300f49d7461f46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6314517",
+                "timeupdated": "1614651490"
+            }
+        }
+    }
+}
