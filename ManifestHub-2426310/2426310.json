@@ -1,0 +1,31 @@
+{
+    "appid": 2426310,
+    "name": "Arcana: Heat and Cold. Stories",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 11:45:25",
+    "change_number": 29966625,
+    "depot": {
+        "baselanguages": "english,russian",
+        "2426311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5434112050429696185",
+                    "size": "546932613",
+                    "download": "476571584"
+                }
+            },
+            "decryptionkey": "515a420da560be0a60e02e22f7b464a506e692ba5f68d8b8af1206e8fdaf7e61"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19016842",
+                "timeupdated": "1750969499"
+            }
+        }
+    }
+}
