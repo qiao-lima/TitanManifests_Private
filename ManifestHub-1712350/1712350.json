@@ -1,0 +1,74 @@
+{
+    "appid": 1712350,
+    "name": "Riven",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 01:55:28",
+    "change_number": 29959538,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1712351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4109834453403258463",
+                    "size": "25218165136",
+                    "download": "23635572416"
+                }
+            },
+            "decryptionkey": "0a9409019faf1d8890bd1c24f3c848bdcc9fdb2c09f391963b4dda9a9d3e4168"
+        },
+        "1712352": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4101398392173313405",
+                    "size": "36102248510",
+                    "download": "26394748640"
+                }
+            },
+            "decryptionkey": "92d88dd07fd53407c32cf59987cf9d51c367b48d5f51796b0006c19e1bf1261c"
+        },
+        "1712353": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18892493",
+                "timeupdated": "1750288198"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
