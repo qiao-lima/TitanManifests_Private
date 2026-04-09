@@ -1,0 +1,32 @@
+{
+    "appid": "2456610",
+    "type": "DLC",
+    "name": "Punch Club 2 - Cyberpets Power Pack DLC",
+    "schinese_name": "拳击俱乐部2 - 赛博宠物能量包",
+    "isfreeapp": "0",
+    "change_number": "19661327",
+    "update_time": "2024-08-14 21:11:16",
+    "depot": {
+        "2456610": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3883613971933355473",
+                    "size": "70",
+                    "download": "128"
+                }
+            },
+            "dlcappid": "2456610",
+            "decryptionkey": "ea7a1903ef082e2654d39d87384776997ff16ce4d0d1ed43030cf1a833fee129"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11403151",
+                "timeupdated": "1686044339"
+            }
+        }
+    },
+    "access_token": 17792956582198371615
+}
