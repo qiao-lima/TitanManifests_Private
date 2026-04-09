@@ -1,0 +1,28 @@
+{
+    "appid": 2413190,
+    "name": "Emergency Cleanup Co.",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:46:14",
+    "change_number": 30193850,
+    "depot": {
+        "2413191": {
+            "manifests": {
+                "public": {
+                    "gid": "496258997022949210",
+                    "size": "27624770731",
+                    "download": "6337582544"
+                }
+            },
+            "decryptionkey": "b58db783b26a131b405d6a0d36afda7a3034bf238e66dd27ecf0f38e8775c5f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18587232",
+                "timeupdated": "1748033401"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
