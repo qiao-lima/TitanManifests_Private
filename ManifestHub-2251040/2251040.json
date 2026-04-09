@@ -1,0 +1,42 @@
+{
+    "appid": 2251040,
+    "name": "Puppetmaster - Pose Viewer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 14:20:05",
+    "change_number": 29968957,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2251041": {
+            "manifests": {
+                "public": {
+                    "gid": "1896950096240107553",
+                    "size": "4488631221",
+                    "download": "3663171696"
+                }
+            },
+            "decryptionkey": "c5817872d573d11bf85a7b995a43a77035519c5d20303a843880b2d9f71ebe77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19161049",
+                "timeupdated": "1752067198"
+            }
+        }
+    }
+}
