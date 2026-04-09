@@ -1,0 +1,32 @@
+{
+    "appid": 1465550,
+    "name": "One Lonely Outpost",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-19 18:14:05",
+    "change_number": 29059507,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1465551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "644563044793003412",
+                    "size": "4365195759",
+                    "download": "1322383904"
+                }
+            },
+            "decryptionkey": "d1fbf1bf0079cb20a0887561780ae1c476d124b71e6f8658dbbdab8de7f325c6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17038146",
+                "timeupdated": "1741282196"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
