@@ -1,0 +1,47 @@
+{
+    "appid": 1166740,
+    "name": "Centralia: Homecoming",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 07:10:09",
+    "change_number": 29891950,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1166741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5218808035949739384",
+                    "size": "11394786385",
+                    "download": "5275377872"
+                }
+            },
+            "decryptionkey": "49e855d837ed72233d9a82756f905e47a6acfd08874a09e5f2511a46bc13c050"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "4329787",
+                "timeupdated": "1572215910"
+            }
+        }
+    }
+}
