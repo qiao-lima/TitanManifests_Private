@@ -1,0 +1,27 @@
+{
+    "appid": 3180510,
+    "name": "Social Clicker : Persona",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 19:12:14",
+    "change_number": 30074547,
+    "depot": {
+        "3180511": {
+            "manifests": {
+                "public": {
+                    "gid": "1186239264943313211",
+                    "size": "1534155097",
+                    "download": "942775264"
+                }
+            },
+            "decryptionkey": "1c4106a4b588ad71a7af7206ce632621ff9d0234c9b6f0ed19fecd84bdb60285"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18316269",
+                "timeupdated": "1746152302"
+            }
+        }
+    }
+}
