@@ -1,0 +1,27 @@
+{
+    "appid": 1591290,
+    "name": "Tree Simulator 2022",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 01:47:19",
+    "change_number": 29888688,
+    "depot": {
+        "1591291": {
+            "manifests": {
+                "public": {
+                    "gid": "4539486174216795438",
+                    "size": "1011276782",
+                    "download": "522058160"
+                }
+            },
+            "decryptionkey": "d95d78afe39334be73fcb9bdd5ed214b92c18131d7457c6aa88ddb94d2512aa0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19101188",
+                "timeupdated": "1751590034"
+            }
+        }
+    }
+}
