@@ -1,0 +1,93 @@
+{
+    "appid": 444930,
+    "name": "Zaccaria Pinball",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-15 19:10:44",
+    "change_number": 30074515,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "444931": {
+            "manifests": {
+                "public": {
+                    "gid": "6333184440159194390",
+                    "size": "2234047091",
+                    "download": "2264637328"
+                }
+            },
+            "decryptionkey": "3c46a096b997b4a7c13807916cd8d36f62169842ee74652dac56ab843c40820c"
+        },
+        "444932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2976153878959872208",
+                    "size": "15215426",
+                    "download": "5465360"
+                }
+            },
+            "decryptionkey": "838af055f091f798ff467a3d8d00369d8d47f63f782193ec1a7613d4a55430fc"
+        },
+        "444933": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2881801934813232569",
+                    "size": "18292248",
+                    "download": "13228560"
+                }
+            },
+            "decryptionkey": "9ccd1b0ebd17527c332d604d1a2f15bdb15b6eb6f1781160b2cba29ec3ed980d"
+        },
+        "444934": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1528953268394871438",
+                    "size": "12796784",
+                    "download": "10784720"
+                }
+            },
+            "decryptionkey": "2f2a623da46357ba9d8bfbd27a8fba40b24ec8fe92b41982370da5d717e7cf2a"
+        },
+        "999070": {
+            "manifests": {
+                "public": {
+                    "gid": "3387251595835590272",
+                    "size": "1644876617",
+                    "download": "1581049552"
+                }
+            },
+            "dlcappid": "999070",
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19174281",
+                "timeupdated": "1752150872"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
