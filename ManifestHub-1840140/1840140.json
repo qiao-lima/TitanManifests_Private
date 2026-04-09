@@ -1,0 +1,29 @@
+{
+    "appid": 1840140,
+    "name": "Venture's Gauntlet VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-22 06:18:04",
+    "change_number": 29114189,
+    "depot": {
+        "1840141": {
+            "manifests": {
+                "public": {
+                    "gid": "1960462624871434656",
+                    "size": "5707993464",
+                    "download": "5394469120"
+                }
+            },
+            "decryptionkey": "b49fb4eea1187dfdf3fe69ffcc9f4a097dacc9fc062c10a7ec84786624ef64c7"
+        },
+        "1840142": {},
+        "branches": {
+            "public": {
+                "buildid": "14571944",
+                "timeupdated": "1717257158"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
