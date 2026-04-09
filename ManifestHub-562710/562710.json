@@ -1,0 +1,28 @@
+{
+    "appid": "562710",
+    "type": "Game",
+    "name": "Western Adventure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-28 11:58:44",
+    "depot": {
+        "562711": {
+            "manifests": {
+                "public": {
+                    "gid": "4363695047276973664",
+                    "size": "47100956",
+                    "download": "39710816"
+                }
+            },
+            "decryptionkey": "901041ae54705fda30ab01a48d3295e7350f41ec301906e1b8199f5ff67384eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1561187",
+                "timeupdated": "1484072429"
+            }
+        }
+    },
+    "access_token": 12754170133507709850
+}
