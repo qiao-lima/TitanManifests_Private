@@ -1,0 +1,28 @@
+{
+    "appid": 1142830,
+    "name": "9-nine-:Episode 3",
+    "type": "Game",
+    "schinese_name": "9-nine-春色春恋春熙风",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 08:13:31",
+    "change_number": 29161130,
+    "depot": {
+        "1142831": {
+            "manifests": {
+                "public": {
+                    "gid": "2084217490212869070",
+                    "size": "2904214963",
+                    "download": "2310789536"
+                }
+            },
+            "decryptionkey": "f4207f6223025286865cfecb3efe78b9c024ced2336ece4e92193b75112e617c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5514870",
+                "timeupdated": "1599550033"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
