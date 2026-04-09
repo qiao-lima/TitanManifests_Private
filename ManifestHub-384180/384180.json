@@ -1,0 +1,82 @@
+{
+    "appid": 384180,
+    "name": "Prominence Poker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-19 09:15:04",
+    "change_number": 30144411,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish",
+        "384181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1603969801486320597",
+                    "size": "15870470861",
+                    "download": "5739086032"
+                }
+            },
+            "decryptionkey": "de98b127ccb99c6a13287c8411df28274cce5f4e187ec160d2295457d7de675a"
+        },
+        "384182": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6050010789421836748",
+                    "size": "15963341782",
+                    "download": "5760855232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18916074",
+                "timeupdated": "1751923707"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
