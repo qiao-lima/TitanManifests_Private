@@ -1,0 +1,41 @@
+{
+    "appid": 2217840,
+    "name": "In The Backrooms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 01:01:03",
+    "change_number": 30121200,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2217841": {
+            "manifests": {
+                "public": {
+                    "gid": "5326771204586418569",
+                    "size": "6690024193",
+                    "download": "2604579744"
+                }
+            },
+            "decryptionkey": "b8cc469acbacdd282a4868c876027707a9849fbb401be7f437a4e9ae377686c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9917642",
+                "timeupdated": "1668170182"
+            }
+        }
+    }
+}
