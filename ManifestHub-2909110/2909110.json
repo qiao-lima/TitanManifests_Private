@@ -1,0 +1,42 @@
+{
+    "appid": 2909110,
+    "name": "Nuclear Nightmare",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 02:53:38",
+    "change_number": 30197549,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2909111": {
+            "manifests": {
+                "public": {
+                    "gid": "7800869268380114378",
+                    "size": "10319760576",
+                    "download": "9330402080"
+                }
+            },
+            "decryptionkey": "d360a5f33e1e8286cb3d5db8ab33eac6204ad6bdc6c71e5411c6c951197ba09e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19010199",
+                "timeupdated": "1750942619"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
