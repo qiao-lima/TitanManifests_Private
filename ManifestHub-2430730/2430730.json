@@ -1,0 +1,33 @@
+{
+    "appid": 2430730,
+    "name": "My Child Lebensborn Remastered",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 06:18:07",
+    "change_number": 30179792,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2430731": {
+            "manifests": {
+                "public": {
+                    "gid": "5897857601747670880",
+                    "size": "1302600568",
+                    "download": "157939072"
+                }
+            },
+            "decryptionkey": "4969e963c3707eba163322c61c63d6075a19046ab01837de13d242e61bbf895e"
+        },
+        "3053840": {
+            "dlcappid": "3053840",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "11774699",
+                "timeupdated": "1690213496"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
