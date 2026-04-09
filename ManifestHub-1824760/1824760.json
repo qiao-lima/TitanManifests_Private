@@ -1,0 +1,41 @@
+{
+    "appid": 1824760,
+    "name": "Hentai Memory - Sexy Couples",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:00:22",
+    "change_number": 29324963,
+    "depot": {
+        "1824761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1731565488026770178",
+                    "size": "125372830",
+                    "download": "33981520"
+                }
+            },
+            "decryptionkey": "2b5471d47a28f95dad4b051f2f9df0e8d91a474288271f5dc7b09a664875e716"
+        },
+        "1831600": {
+            "dlcappid": "1831600",
+            "manifests": {
+                "public": {
+                    "gid": "1569420933137689553",
+                    "size": "627443",
+                    "download": "523984"
+                }
+            },
+            "decryptionkey": "e53681d75016bdd6ca4481178dbfe3be76e0ea167c8fb1fc3072923e618f2fd4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7796002",
+                "timeupdated": "1638208017"
+            }
+        }
+    }
+}
