@@ -1,0 +1,29 @@
+{
+    "appid": "454150",
+    "type": "Game",
+    "name": "Voxel Warfare Online",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:07:39",
+    "depot": {
+        "baselanguages": "english,schinese,russian,turkish",
+        "454155": {
+            "manifests": {
+                "public": {
+                    "gid": "1864041628129898983",
+                    "size": "255412052",
+                    "download": "43807376"
+                }
+            },
+            "decryptionkey": "cc53f2dac6c6d4f5f8407c81642f6b08947a8f435a8496c62a47354500603233"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2081290",
+                "timeupdated": "1504159221"
+            }
+        }
+    },
+    "access_token": 16469728316205589705
+}
