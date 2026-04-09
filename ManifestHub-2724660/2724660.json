@@ -1,0 +1,45 @@
+{
+    "appid": 2724660,
+    "name": "终境传说",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 16:47:52",
+    "change_number": 29952552,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "2724661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8742379253153255060",
+                    "size": "2234714007",
+                    "download": "2044599008"
+                }
+            },
+            "decryptionkey": "ae4d04fa13b48163311373a5b08580d51ed00725e56974e34b36f086ca252efb"
+        },
+        "2724662": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6870282325430686926",
+                    "size": "2232701815",
+                    "download": "2056534624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19136753",
+                "timeupdated": "1751919730"
+            }
+        }
+    }
+}
