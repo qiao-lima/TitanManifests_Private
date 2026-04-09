@@ -1,0 +1,30 @@
+{
+    "appid": 2999160,
+    "name": "SONIC X SHADOW GENERATIONS: Art Book with Mini Soundtrack",
+    "type": "DLC",
+    "schinese_name": "索尼克×夏特 世代重启：艺术集&原声集",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 01:11:56",
+    "change_number": 29999552,
+    "depot": {
+        "2999160": {
+            "manifests": {
+                "public": {
+                    "gid": "2720286388307715047",
+                    "size": "959635796",
+                    "download": "593551088"
+                }
+            },
+            "dlcappid": "2999160",
+            "decryptionkey": "5333f0019f11df5032e635e73031fddfb9d2b9a631779e9d4cf309b15397cf7a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15210514",
+                "timeupdated": "1728527288"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 7926112299363815962
+}
