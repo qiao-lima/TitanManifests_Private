@@ -1,0 +1,32 @@
+{
+    "appid": 1591450,
+    "name": "Aka",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 08:16:30",
+    "change_number": 29312477,
+    "depot": {
+        "1591451": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "993202089971996492",
+                    "size": "2347975575",
+                    "download": "1003426128"
+                }
+            },
+            "decryptionkey": "2d16de30e0dea4008e59aabac4b3cff65bae888c1489c4b281778c365d1105c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13839528",
+                "timeupdated": "1734672079"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
