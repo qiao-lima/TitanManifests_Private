@@ -1,0 +1,267 @@
+{
+    "appid": 245430,
+    "name": "Wizardry 7: Crusaders of the Dark Savant",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 21:13:48",
+    "change_number": 29773251,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german",
+        "245431": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6403942610233934645",
+                    "size": "90786335",
+                    "download": "82815424"
+                },
+                "beta": {
+                    "gid": "481569619547107275",
+                    "size": "102989526",
+                    "download": "93689680"
+                }
+            },
+            "decryptionkey": "6241b556e0633854d0e394910d994aae74a814fdf58a529b1fbf471b73ec153f"
+        },
+        "245432": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5591812826053522395",
+                    "size": "553733916",
+                    "download": "269205408"
+                },
+                "beta": {
+                    "gid": "3965740082110455762",
+                    "size": "552383494",
+                    "download": "267884032"
+                }
+            },
+            "decryptionkey": "60725cb0e6580cd543893c8e3e5272edbc766e704c960b7c82c95173cd5b474f"
+        },
+        "245433": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1107796654535356488",
+                    "size": "121",
+                    "download": "384"
+                },
+                "beta": {
+                    "gid": "1107796654535356488",
+                    "size": "121",
+                    "download": "384"
+                }
+            },
+            "decryptionkey": "540b005863707e7c99d0d33ebfa8512ca7a97457fadd57767b6c47ef90d5834d"
+        },
+        "245434": {
+            "config": {
+                "oslist": "windows",
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3140523273910861512",
+                    "size": "188",
+                    "download": "416"
+                },
+                "beta": {
+                    "gid": "3140523273910861512",
+                    "size": "188",
+                    "download": "416"
+                }
+            },
+            "decryptionkey": "781ae61aee6cf11034bb612a92fd3c5eb91415d84851b2d71307fc1a28c031a2"
+        },
+        "245435": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "741835975061354627",
+                    "size": "31711106",
+                    "download": "12267840"
+                },
+                "beta": {
+                    "gid": "2708255766362163318",
+                    "size": "50660084",
+                    "download": "15776544"
+                }
+            },
+            "decryptionkey": "224a214a2cab7c8d5b86994713b65e80736a7f2bb1b83ea8e10348b1345c7a86"
+        },
+        "245436": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7430461454825708932",
+                    "size": "109",
+                    "download": "368"
+                },
+                "beta": {
+                    "gid": "7430461454825708932",
+                    "size": "109",
+                    "download": "368"
+                }
+            },
+            "decryptionkey": "b4d7c8d3020cc228e1d810f836584c04b66112012ca9bbe2739f6ff56baa09a1"
+        },
+        "245437": {
+            "config": {
+                "oslist": "linux",
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3733445370436634655",
+                    "size": "188",
+                    "download": "416"
+                },
+                "beta": {
+                    "gid": "3733445370436634655",
+                    "size": "188",
+                    "download": "416"
+                }
+            },
+            "decryptionkey": "3573e9eac4d55193b709e6fef5373dba1437fc7aa9d4911120b7effbae6f841f"
+        },
+        "245438": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4731205365354677619",
+                    "size": "39526043",
+                    "download": "27137536"
+                },
+                "beta": {
+                    "gid": "4731205365354677619",
+                    "size": "39526043",
+                    "download": "27137536"
+                }
+            },
+            "decryptionkey": "1ae14a5d6f278de2298af306b33714e367e128486cc97c25036f7c3cdefa3df6"
+        },
+        "245439": {
+            "config": {
+                "language": "german",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5871067044409550797",
+                    "size": "39483494",
+                    "download": "27110832"
+                },
+                "beta": {
+                    "gid": "5871067044409550797",
+                    "size": "39483494",
+                    "download": "27110832"
+                }
+            },
+            "decryptionkey": "184b85b1b9342896b1daf7cd4a9a6f1f144a7036a4114c5f8bf286d9bf92c38b"
+        },
+        "245440": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2184274560347297526",
+                    "size": "5396431",
+                    "download": "2453408"
+                },
+                "beta": {
+                    "gid": "2184274560347297526",
+                    "size": "5396431",
+                    "download": "2453408"
+                }
+            },
+            "decryptionkey": "4fce30df9f679be359a7c2664e3c7d41eee32aae65723ae53f350fc08e3692bc"
+        },
+        "245441": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1729431314648208608",
+                    "size": "5353891",
+                    "download": "2426720"
+                },
+                "beta": {
+                    "gid": "1729431314648208608",
+                    "size": "5353891",
+                    "download": "2426720"
+                }
+            },
+            "decryptionkey": "66d576786b87d1c785ecff0c5a4c4a7e2527de7bbd60514d021eb22f4c6a64bd"
+        },
+        "245442": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "404792748091040320",
+                    "size": "5396431",
+                    "download": "2453408"
+                },
+                "beta": {
+                    "gid": "404792748091040320",
+                    "size": "5396431",
+                    "download": "2453408"
+                }
+            },
+            "decryptionkey": "675c6eaea7c382ac21f8a840255d2b7536631b1b5f5815c56c4d2945212f4791"
+        },
+        "245443": {
+            "config": {
+                "language": "german",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6619051837741955856",
+                    "size": "5353891",
+                    "download": "2426720"
+                },
+                "beta": {
+                    "gid": "6619051837741955856",
+                    "size": "5353891",
+                    "download": "2426720"
+                }
+            },
+            "decryptionkey": "5fc7a682a25b04f1380ded4e60873893bf0d97316d9d9dc08d0e3bcc7848b58a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3325576",
+                "timeupdated": "1542764208"
+            },
+            "beta": {
+                "buildid": "4546400",
+                "description": "Wiz 7 Beta",
+                "timeupdated": "1578361782"
+            }
+        }
+    }
+}
