@@ -1,0 +1,28 @@
+{
+    "appid": 3199390,
+    "name": "Inayah - Life after Gods",
+    "type": "Game",
+    "schinese_name": "伊娜雅：断世之光",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 21:38:13",
+    "change_number": 30138963,
+    "depot": {
+        "3199391": {
+            "manifests": {
+                "public": {
+                    "gid": "4990418200959127231",
+                    "size": "5424817970",
+                    "download": "4679368384"
+                }
+            },
+            "decryptionkey": "3f8104d107806104482f61b2bb9a3fb224403810614b110776b8c926d43218dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19241573",
+                "timeupdated": "1752659819"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
