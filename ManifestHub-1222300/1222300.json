@@ -1,0 +1,59 @@
+{
+    "appid": 1222300,
+    "name": "Into The Flames",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 18:43:38",
+    "change_number": 29973240,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1222301": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8607429865785876219",
+                    "size": "5838242565",
+                    "download": "5613659728"
+                },
+                "testing": {
+                    "gid": "3127105876208488200",
+                    "size": "5842744018",
+                    "download": "5618057120"
+                }
+            },
+            "decryptionkey": "21dd651ba7ff6d43543c53112d5dfe96d4e425d31065d714776233eb737aa3b6"
+        },
+        "workshopdepot": "1222300",
+        "branches": {
+            "public": {
+                "buildid": "19164282",
+                "timeupdated": "1752083012"
+            },
+            "testing": {
+                "buildid": "19033735",
+                "description": "Update 2077 Early play testing",
+                "timeupdated": "1751074133"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
