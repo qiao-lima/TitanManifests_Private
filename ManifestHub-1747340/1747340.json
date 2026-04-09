@@ -1,0 +1,65 @@
+{
+    "appid": 1747340,
+    "name": "Hentai Girls Sliding Puzzle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:00:22",
+    "change_number": 29324963,
+    "depot": {
+        "1747341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4553014310956167197",
+                    "size": "95725798",
+                    "download": "30082752"
+                }
+            },
+            "decryptionkey": "01e91796caaa26e74e667e453ec6c53bd42645f85130cdf7e6988e37714a1fea"
+        },
+        "1747780": {
+            "dlcappid": "1747780",
+            "manifests": {
+                "public": {
+                    "gid": "1869014765572518290",
+                    "size": "746304",
+                    "download": "500608"
+                }
+            },
+            "decryptionkey": "ce418c19046a93c83cd4d0e8c6df6666961b77ce5b9e7b1a5e15629513804f2f"
+        },
+        "1747342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8230678881160080444",
+                    "size": "96375793",
+                    "download": "30555312"
+                }
+            }
+        },
+        "1747343": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "790404803515637014",
+                    "size": "105682222",
+                    "download": "31278368"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7369027",
+                "timeupdated": "1631782435"
+            }
+        }
+    }
+}
