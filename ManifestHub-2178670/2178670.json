@@ -1,0 +1,54 @@
+{
+    "appid": 2178670,
+    "name": "Disminal",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 01:14:16",
+    "change_number": 29914670,
+    "depot": {
+        "2178672": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7002451798251233128",
+                    "size": "4096164028",
+                    "download": "1694738720"
+                }
+            }
+        },
+        "2178673": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6469468008496847652",
+                    "size": "4091974280",
+                    "download": "1692333632"
+                }
+            },
+            "decryptionkey": "eb49255c60607a3215a82c0eccefa065a10585b81007c48a22f23a1292bbff5d"
+        },
+        "2178674": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "621045020651432254",
+                    "size": "4108615278",
+                    "download": "1699222992"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18613580",
+                "timeupdated": "1748277682"
+            }
+        }
+    }
+}
