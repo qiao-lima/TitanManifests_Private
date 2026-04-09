@@ -1,0 +1,98 @@
+{
+    "appid": 761100,
+    "name": "Jump! Jump! Jump!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 17:51:12",
+    "change_number": 30156047,
+    "depot": {
+        "761101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8039802470539217624",
+                    "size": "42992170",
+                    "download": "11346000"
+                }
+            },
+            "decryptionkey": "5f74d9dc37a1d94decfc8486e16afa0b7cc482c121942d1d8dbe45cb30aece24"
+        },
+        "761102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1055644208406370875",
+                    "size": "90474540",
+                    "download": "25031984"
+                }
+            },
+            "decryptionkey": "cd67fe978c5f01e86c16acc57ef60f9050a5be55fd46699878a8a32fbe7f4860"
+        },
+        "761103": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7791709963190133480",
+                    "size": "91254811",
+                    "download": "26616656"
+                }
+            },
+            "decryptionkey": "53b83e9bdfa51a10f599286d299c60c383a219055a54a8eb1a2ca4d354dcf289"
+        },
+        "793330": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6244806944242794621",
+                    "size": "44164194",
+                    "download": "13547824"
+                }
+            },
+            "dlcappid": "793330",
+            "decryptionkey": "ecc7265d67384e70b20307141682fc0fec1e01559310c9848baa50fc93411086"
+        },
+        "761104": {
+            "dlcappid": "793330",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5022939690876324323",
+                    "size": "59135748",
+                    "download": "17638416"
+                }
+            },
+            "decryptionkey": "b8ecc80c108f7cc5f2b847ae395fddc63633c80febf5f553d80cfcc97cf48a11"
+        },
+        "761105": {
+            "dlcappid": "793330",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7717141615755218410",
+                    "size": "94051171",
+                    "download": "29753584"
+                }
+            },
+            "decryptionkey": "a0efea480816d1a2f89fa7e700c7e2d9cd16cf7f87138fff5296e19a33a01c18"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2492067",
+                "timeupdated": "1517575803"
+            }
+        }
+    }
+}
