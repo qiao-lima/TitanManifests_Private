@@ -1,0 +1,47 @@
+{
+    "appid": 2731350,
+    "name": "Rune Gate: Retribution",
+    "type": "Game",
+    "schinese_name": "符文之门: 天罚",
+    "isfreeapp": 0,
+    "update_time": "2025-05-20 08:21:55",
+    "change_number": 29071885,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2731351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3907351225959438219",
+                    "size": "704821330",
+                    "download": "138354048"
+                }
+            },
+            "decryptionkey": "3e78d65cdc56439763fb2f80d7856d6f0af5360fa8e4e50ef88d09223015e5b9"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "14506267",
+                "timeupdated": "1717670677"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
