@@ -1,0 +1,65 @@
+{
+    "appid": "443680",
+    "type": "Game",
+    "name": "Revenge of Roger Rouge",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24379532",
+    "update_time": "2024-08-14 19:05:48",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "443681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6985131538340298089",
+                    "size": "275223955",
+                    "download": "8816720976"
+                }
+            },
+            "decryptionkey": "9031a5857f2b76836e1c028b5fb76ebb1f29bcccab872d113c406cd9b6c57542"
+        },
+        "443682": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8900657939748805885",
+                    "size": "91132979",
+                    "download": "4382674800"
+                }
+            },
+            "decryptionkey": "b6e15515fab22f1b8c215be495f927f95a2eeb9339d9242da938ea2951ad9a22"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1089321",
+                "timeupdated": "1461338121"
+            }
+        }
+    },
+    "access_token": 12840525995538386558
+}
