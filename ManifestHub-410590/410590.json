@@ -1,0 +1,31 @@
+{
+    "appid": "410590",
+    "type": "Game",
+    "name": "Fiends of Imprisonment",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27901767",
+    "update_time": "2025-03-12 09:10:13",
+    "depot": {
+        "410591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1132733258572200931",
+                    "size": "435653114",
+                    "download": "81979680"
+                }
+            },
+            "decryptionkey": "a03f5de927547d4af8d04fc4c14f1115a88378d5b26d8b3185c165632eeeb50d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1536300",
+                "timeupdated": "1482413711"
+            }
+        }
+    },
+    "access_token": 4364003333385515502
+}
