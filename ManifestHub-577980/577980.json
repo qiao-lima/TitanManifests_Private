@@ -1,0 +1,27 @@
+{
+    "appid": 577980,
+    "name": "Messiah",
+    "type": "Game",
+    "schinese_name": "弥赛亚",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 09:28:21",
+    "change_number": 30084937,
+    "depot": {
+        "577981": {
+            "manifests": {
+                "public": {
+                    "gid": "6686399650966258395",
+                    "size": "717264916",
+                    "download": "409882944"
+                }
+            },
+            "decryptionkey": "85f2fc1c39aa2148bb604016f7ee6c26f9e302f55dbeeec0cf394c5c22080402"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1561645",
+                "timeupdated": "1484091682"
+            }
+        }
+    }
+}
