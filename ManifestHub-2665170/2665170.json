@@ -1,0 +1,27 @@
+{
+    "appid": 2665170,
+    "name": "ANONYMOUS HUNTING SIMULATOR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 08:12:30",
+    "change_number": 29944089,
+    "depot": {
+        "2665171": {
+            "manifests": {
+                "public": {
+                    "gid": "1384425673732609143",
+                    "size": "4284786324",
+                    "download": "1450196352"
+                }
+            },
+            "decryptionkey": "65ede48ee08c66839792fa93146022d5061bc75317de833dd5ff9852b83d6422"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12509506",
+                "timeupdated": "1698055050"
+            }
+        }
+    }
+}
