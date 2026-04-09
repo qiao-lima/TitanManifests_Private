@@ -1,0 +1,73 @@
+{
+    "appid": 1861700,
+    "name": "Drop one NPC to another",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 06:07:30",
+    "change_number": 30003713,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1861701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8610398647073527963",
+                    "size": "1278556948",
+                    "download": "378507472"
+                }
+            },
+            "decryptionkey": "00daad9060e7dd7120ae74694cf122f1e595954a80970a37f41e454fbbd6a764"
+        },
+        "1861702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7640279234197973609",
+                    "size": "1426804393",
+                    "download": "287140080"
+                }
+            }
+        },
+        "1861703": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5093116707036603850",
+                    "size": "1297375154",
+                    "download": "277530576"
+                }
+            }
+        },
+        "1886981": {
+            "dlcappid": "1886980",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "1886982": {
+            "dlcappid": "1886980",
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "1886983": {
+            "dlcappid": "1886980",
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19117242",
+                "timeupdated": "1751719671"
+            }
+        }
+    }
+}
