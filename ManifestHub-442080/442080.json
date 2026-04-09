@@ -1,0 +1,28 @@
+{
+    "appid": 442080,
+    "name": "Riders of Icarus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 21:10:01",
+    "change_number": 29937105,
+    "depot": {
+        "442081": {
+            "manifests": {
+                "public": {
+                    "gid": "7982274217428122136",
+                    "size": "20905732512",
+                    "download": "19827602992"
+                }
+            },
+            "decryptionkey": "8d0be803a903fb4bba25fed43e30e589b618a3bc7f8a1239bedac75f2ba72bb9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18205309",
+                "timeupdated": "1745463722"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
