@@ -1,0 +1,53 @@
+{
+    "appid": 1627570,
+    "name": "The Plucky Squire",
+    "type": "Game",
+    "schinese_name": "勇敢小骑士",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 09:47:01",
+    "change_number": 30202597,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1627571": {
+            "manifests": {
+                "public": {
+                    "gid": "277101315078069651",
+                    "size": "26943634245",
+                    "download": "24588021856"
+                }
+            },
+            "decryptionkey": "e661c1eead55950383e838a426867be04461ef2a6dadca9d639d453962de333b"
+        },
+        "3225560": {
+            "dlcappid": "3225560",
+            "manifests": {
+                "public": {
+                    "gid": "726101934811605512",
+                    "size": "233954102",
+                    "download": "208392368"
+                }
+            },
+            "decryptionkey": "aea8f638eaba1daafacfefd01049131cd28175920515c6de2acda968040ef673"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19155912",
+                "timeupdated": "1752039559"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
