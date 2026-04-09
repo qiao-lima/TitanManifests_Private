@@ -1,0 +1,55 @@
+{
+    "appid": 2374320,
+    "name": "Heroes Of  Loot: Gauntlet Of Power",
+    "type": "Game",
+    "schinese_name": "寻宝英雄：力量手套 Heroes Of Loot: Gauntlet Of Power",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 17:12:29",
+    "change_number": 30036848,
+    "depot": {
+        "2374321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7850223974821179573",
+                    "size": "105751651",
+                    "download": "68530208"
+                }
+            },
+            "decryptionkey": "a098ac88d513bd5d63c36ea8262326b981c687dd6549aa0cd4e021e9f9ea7ac0"
+        },
+        "2374322": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7067882680879055440",
+                    "size": "117472434",
+                    "download": "71019936"
+                }
+            }
+        },
+        "2374323": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7868569576625120736",
+                    "size": "111184443",
+                    "download": "69361088"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18672761",
+                "timeupdated": "1748602678"
+            }
+        }
+    }
+}
