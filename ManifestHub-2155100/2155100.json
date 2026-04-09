@@ -1,0 +1,48 @@
+{
+    "appid": 2155100,
+    "name": "Hazard Horizon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-08 03:10:21",
+    "change_number": 29941099,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2155101": {
+            "manifests": {
+                "public": {
+                    "gid": "3530544382731861220",
+                    "size": "3399697573",
+                    "download": "723678016"
+                }
+            },
+            "decryptionkey": "afef43af5a2eb9943865be25883f3c56071357e548a1065051a3da13556ba4ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10574870",
+                "timeupdated": "1676629459"
+            }
+        }
+    }
+}
