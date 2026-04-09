@@ -1,0 +1,40 @@
+{
+    "appid": 992700,
+    "name": "Lighter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 10:11:01",
+    "change_number": 30045465,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "992701": {
+            "manifests": {
+                "public": {
+                    "gid": "5089065981057937023",
+                    "size": "1334060443",
+                    "download": "955314848"
+                }
+            },
+            "decryptionkey": "acf9bb3503ed570dd7fee43c026552fa3bf50a9ef3bf1a3d28dffba411fb08c9"
+        },
+        "1026640": {
+            "dlcappid": "1026640",
+            "manifests": {
+                "public": {
+                    "gid": "2000720178285242724",
+                    "size": "770070",
+                    "download": "230576"
+                }
+            },
+            "decryptionkey": "ce921ee164788f0039b2e9c0071685b7d80d91f5ef5a54029333341ac468125f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4104760",
+                "timeupdated": "1565790408"
+            }
+        }
+    }
+}
