@@ -1,0 +1,45 @@
+{
+    "appid": 2887000,
+    "name": "Letter Lancers Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 17:03:03",
+    "change_number": 29911616,
+    "depot": {
+        "baselanguages": "english,italian,koreana,schinese,russian,brazilian,latam,indonesian",
+        "2887001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9155699770996608151",
+                    "size": "594827196",
+                    "download": "123846896"
+                }
+            }
+        },
+        "2522161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2974120788691667217",
+                    "size": "594827196",
+                    "download": "123811024"
+                }
+            },
+            "depotfromapp": "2522160",
+            "decryptionkey": "86c6f18e2326032d254e0847ed344e49d280c0e1e813411317c393c6ce2f1e36"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19118247",
+                "timeupdated": "1751731376"
+            }
+        }
+    }
+}
