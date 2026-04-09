@@ -1,0 +1,74 @@
+{
+    "appid": 2799920,
+    "name": "Talented Exorcist won't submit to Tentacle Demon",
+    "type": "Game",
+    "schinese_name": "天才退魔师才不会屈服于触手妖魔",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 06:31:57",
+    "change_number": 30103705,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "2799921": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1842752640423091578",
+                    "size": "1676583848",
+                    "download": "1425732624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2799922": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8144235729072963204",
+                    "size": "1664952227",
+                    "download": "1411273488"
+                }
+            },
+            "decryptionkey": "6183fe3ba46d90609961b5c2e7c0021d3a60c7bd515323ba2d468d457871bb00"
+        },
+        "2799923": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5579915930189674870",
+                    "size": "1645382818",
+                    "download": "1396135952"
+                }
+            },
+            "decryptionkey": "3c9dddf7e9a7ef7745dbc52209e3ca6925d7e0b701bcdf70bc45fc7bc42bc54c"
+        },
+        "2799924": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "431268464206598473",
+                    "size": "1666723222",
+                    "download": "1413929328"
+                }
+            },
+            "decryptionkey": "1d2fc0a49f4c6ab43dc687a4e341f59ed12b271589a7ec5c3982e16bbb7f5c77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18110500",
+                "timeupdated": "1744706177"
+            }
+        }
+    }
+}
