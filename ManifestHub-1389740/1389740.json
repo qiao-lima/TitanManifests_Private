@@ -1,0 +1,32 @@
+{
+    "appid": 1389740,
+    "name": "Accel Magician Mimi",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 02:53:50",
+    "change_number": 29889413,
+    "depot": {
+        "baselanguages": "english",
+        "1389741": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2992483210403702035",
+                    "size": "103525303",
+                    "download": "49117344"
+                }
+            },
+            "decryptionkey": "39d6d161ebbe1279647b35c2eb3fa626148d7543d367cbe5eb300253c7663291"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6707003",
+                "timeupdated": "1621152821"
+            }
+        }
+    }
+}
