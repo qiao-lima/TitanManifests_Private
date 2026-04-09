@@ -1,0 +1,45 @@
+{
+    "appid": 486990,
+    "name": "Jump Stars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 16:35:29",
+    "change_number": 30134623,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "486991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7853955205295544732",
+                    "size": "1225254756",
+                    "download": "503841920"
+                }
+            },
+            "decryptionkey": "ab17f8f3bbd5f04e41c794983599b7802dfe78c66ad590828c5306e619b29ec5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1870362",
+                "timeupdated": "1496766281"
+            }
+        }
+    }
+}
