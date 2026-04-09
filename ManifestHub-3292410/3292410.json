@@ -1,0 +1,28 @@
+{
+    "appid": 3292410,
+    "name": "转生魔塔",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 08:11:55",
+    "change_number": 29892651,
+    "depot": {
+        "3292411": {
+            "manifests": {
+                "public": {
+                    "gid": "8206121669862466372",
+                    "size": "277165938",
+                    "download": "115804976"
+                }
+            },
+            "decryptionkey": "16d7ececf2db5ba5a981ed018dbc31e6def80aa76eb66c810161e377fa53e010"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18899930",
+                "timeupdated": "1750176275"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
