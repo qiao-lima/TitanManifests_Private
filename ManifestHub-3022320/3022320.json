@@ -1,0 +1,56 @@
+{
+    "appid": 3022320,
+    "name": "Mobiles Tycoon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 12:57:18",
+    "change_number": 29821870,
+    "depot": {
+        "3022321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4896479282595547979",
+                    "size": "653699792",
+                    "download": "261108544"
+                }
+            },
+            "decryptionkey": "a0c4642f2ac51f2e335af9928fd29f699ca394ba232c152789c57161707bb11d"
+        },
+        "3022322": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9090389786812685755",
+                    "size": "742153997",
+                    "download": "268354336"
+                }
+            },
+            "decryptionkey": "9506b3cf7b9cb3e1491b2c1d63998e354081600cb4ef46535f137e96d6c3a726"
+        },
+        "3022323": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6602506544853987831",
+                    "size": "834980701",
+                    "download": "279701664"
+                }
+            },
+            "decryptionkey": "900507e341e1437fd3dd9de8ed3dd39086fb702ff52b7821894c0306c92e2c39"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15471060",
+                "timeupdated": "1724409813"
+            }
+        }
+    }
+}
