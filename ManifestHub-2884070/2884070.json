@@ -1,0 +1,28 @@
+{
+    "appid": 2884070,
+    "name": "Elleria",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 19:11:52",
+    "change_number": 30017508,
+    "depot": {
+        "baselanguages": "english",
+        "2884071": {
+            "manifests": {
+                "public": {
+                    "gid": "74082515432289865",
+                    "size": "14542924871",
+                    "download": "14424881200"
+                }
+            },
+            "decryptionkey": "9b9205fd9150b7870a22cdb5b5a64399158f49e445683a845acd3b1034b2d8fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18828608",
+                "timeupdated": "1749661579"
+            }
+        }
+    }
+}
