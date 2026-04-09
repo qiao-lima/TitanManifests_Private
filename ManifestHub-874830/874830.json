@@ -1,0 +1,57 @@
+{
+    "appid": 874830,
+    "name": "School of Horror",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:39:02",
+    "change_number": 29702449,
+    "depot": {
+        "874831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5815163316344575733",
+                    "size": "1417466065",
+                    "download": "566478208"
+                }
+            },
+            "decryptionkey": "940406fedcc2cf375061866b0c18465667e35e0075705d1e0a1fc4b087453611"
+        },
+        "874832": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4030449894541067272",
+                    "size": "1476514613",
+                    "download": "597253968"
+                }
+            },
+            "decryptionkey": "6fd82ddb17d1bff08e7390df541f242e2f5d812495b16ba0d4e8c2389f511465"
+        },
+        "874833": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8845078018140255617",
+                    "size": "1438473145",
+                    "download": "576939792"
+                }
+            },
+            "decryptionkey": "48add38b1b761c4b8ebbce728ca21878f0c385ce3f6d41abf5704b7b04104d4c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3757735",
+                "timeupdated": "1555927700"
+            }
+        }
+    },
+    "access_token": 5854283023799637252
+}
