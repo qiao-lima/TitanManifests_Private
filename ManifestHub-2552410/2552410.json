@@ -1,0 +1,32 @@
+{
+    "appid": 2552410,
+    "name": "Liminal Border Part I",
+    "type": "Game",
+    "schinese_name": "Liminal Border Part I",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 23:11:29",
+    "change_number": 29887016,
+    "depot": {
+        "baselanguages": "",
+        "2552411": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1199151929877541933",
+                    "size": "2560934028",
+                    "download": "2345274128"
+                }
+            },
+            "decryptionkey": "d7fe9fc8ec05dadefe16c35cbccb2e21b3cdb4797a86a9410f7b898777aec557"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13060754",
+                "timeupdated": "1703829521"
+            }
+        }
+    }
+}
