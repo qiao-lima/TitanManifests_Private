@@ -1,0 +1,32 @@
+{
+    "appid": 2396910,
+    "name": "吞食天地2：誕生",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 04:12:55",
+    "change_number": 30198511,
+    "depot": {
+        "baselanguages": "schinese,tchinese",
+        "2396911": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8046198542450122762",
+                    "size": "2311780684",
+                    "download": "1744541264"
+                }
+            },
+            "decryptionkey": "7e5367783cda8232327ba6448bafc4480bb83971eadbdf88ef38afdd76e4d0ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19277094",
+                "timeupdated": "1753237889"
+            }
+        }
+    }
+}
