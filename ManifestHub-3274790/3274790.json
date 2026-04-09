@@ -1,0 +1,27 @@
+{
+    "appid": 3274790,
+    "name": "Ultra Cop",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 15:10:04",
+    "change_number": 30069998,
+    "depot": {
+        "3274791": {
+            "manifests": {
+                "public": {
+                    "gid": "7715566206066021604",
+                    "size": "806592273",
+                    "download": "399724960"
+                }
+            },
+            "decryptionkey": "829eac4a4583d8a7dc35830eb86498550cb13f09b6f5ad732339701984598b86"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18794336",
+                "timeupdated": "1749471647"
+            }
+        }
+    }
+}
