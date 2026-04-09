@@ -1,0 +1,27 @@
+{
+    "appid": 1715530,
+    "name": "Medieval Wars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 07:54:29",
+    "change_number": 29496429,
+    "depot": {
+        "1715531": {
+            "manifests": {
+                "public": {
+                    "gid": "8685180240068198742",
+                    "size": "25818459",
+                    "download": "17794768"
+                }
+            },
+            "decryptionkey": "090ac0933aa52866dfcfbcc47c0b0ed6d70a055db97825f8a96c47df21f23ae5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7132546",
+                "timeupdated": "1628018226"
+            }
+        }
+    }
+}
