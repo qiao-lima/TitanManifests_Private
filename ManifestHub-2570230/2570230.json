@@ -1,0 +1,51 @@
+{
+    "appid": 2570230,
+    "name": "HAELE 3D - Hand Poses Lite - Drawing References",
+    "type": "Application",
+    "schinese_name": "HAELE 3D - 手部动作 Lite - 绘画参考",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:46:47",
+    "change_number": 29764792,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2570231": {
+            "manifests": {
+                "public": {
+                    "gid": "3238750137071873629",
+                    "size": "1952817838",
+                    "download": "1741949200"
+                },
+                "build_v75": {
+                    "gid": "6024154076408179841",
+                    "size": "488163511",
+                    "download": "356485088"
+                }
+            },
+            "decryptionkey": "d784d4f87477a90d8372b64117628f159d7eca7eabf37123788f278e08ac19be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18571023",
+                "timeupdated": "1747941212"
+            },
+            "build_v75": {
+                "buildid": "13936510",
+                "description": "Build_v75",
+                "timeupdated": "1724450158"
+            }
+        }
+    }
+}
