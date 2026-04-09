@@ -1,0 +1,56 @@
+{
+    "appid": 2925510,
+    "name": "Voyager-19",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 15:12:28",
+    "change_number": 30050143,
+    "depot": {
+        "2925511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "368901549677632332",
+                    "size": "143545760",
+                    "download": "65114288"
+                }
+            },
+            "decryptionkey": "04f4d3ebf5ddc86bf252a083702538d19fb2c235eb0f97fd28ab7b566ce95f76"
+        },
+        "2925512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5907050255115234908",
+                    "size": "215547500",
+                    "download": "80712208"
+                }
+            },
+            "decryptionkey": "d9d0954bce91a5fa9f03cda8d62257e74a4cd9ac01febf233417feb5fb704ca0"
+        },
+        "2925513": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "567091673479773343",
+                    "size": "136092312",
+                    "download": "62593792"
+                }
+            },
+            "decryptionkey": "72f3418b297bf2f6d2b1cc1dccbddcf07207f127044c231a96ee333b159623b5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14457186",
+                "timeupdated": "1716392433"
+            }
+        }
+    }
+}
