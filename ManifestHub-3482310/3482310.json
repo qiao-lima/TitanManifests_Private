@@ -1,0 +1,31 @@
+{
+    "appid": 3482310,
+    "name": "Revenge of the Savage Planet - Artbook and Soundtrack In-Game",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 19:26:14",
+    "change_number": 29091501,
+    "depot": {
+        "3482311": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7611365059317075932",
+                    "size": "74809596",
+                    "download": "68667408"
+                }
+            },
+            "dlcappid": "3482310",
+            "decryptionkey": "ecf76b3f40656549d3b5e12e0ab1d6b9cfb6aabeb3836faf663b7d0008efaddb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18104237",
+                "timeupdated": "1744660687"
+            }
+        }
+    }
+}
