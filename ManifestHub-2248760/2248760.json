@@ -1,0 +1,31 @@
+{
+    "appid": 2248760,
+    "name": "Car For Sale Simulator 2023",
+    "type": "Game",
+    "schinese_name": "汽车销售模拟器 2023",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:25:13",
+    "change_number": 30207120,
+    "depot": {
+        "2248761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7687195176144175270",
+                    "size": "5374695641",
+                    "download": "2143552048"
+                }
+            },
+            "decryptionkey": "7e322b4c38775f33754204b8cb08844982412cd9d4b140906cfff0047a9b2843"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19312467",
+                "timeupdated": "1753200135"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
