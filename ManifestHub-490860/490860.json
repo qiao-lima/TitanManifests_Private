@@ -1,0 +1,37 @@
+{
+    "appid": 490860,
+    "name": "DashBored",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 07:11:50",
+    "change_number": 29908051,
+    "depot": {
+        "baselanguages": "",
+        "490861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8755960105908101487",
+                    "size": "586100231",
+                    "download": "541334816"
+                }
+            },
+            "decryptionkey": "0e52ef4487de4fec7699c6c1cd670393d39da89f10ac7e9f96c6d65bc803cb5d"
+        },
+        "495870": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "495870"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19115701",
+                "timeupdated": "1751695901"
+            }
+        }
+    }
+}
