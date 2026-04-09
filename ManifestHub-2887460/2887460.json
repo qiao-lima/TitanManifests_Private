@@ -1,0 +1,29 @@
+{
+    "appid": 2887460,
+    "name": "diorama",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 11:46:46",
+    "change_number": 29917709,
+    "depot": {
+        "2887461": {
+            "manifests": {
+                "public": {
+                    "gid": "5678281641729112992",
+                    "size": "163188968",
+                    "download": "102763984"
+                }
+            },
+            "decryptionkey": "e7863edafadc599269ec41947d8cd680d98bb986bd402249383ba5ffc80e708b"
+        },
+        "workshopdepot": "2887460",
+        "branches": {
+            "public": {
+                "buildid": "15507999",
+                "timeupdated": "1724776704"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
