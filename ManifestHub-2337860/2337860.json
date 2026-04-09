@@ -1,0 +1,38 @@
+{
+    "appid": 2337860,
+    "name": "Nubs!",
+    "type": "Game",
+    "schinese_name": "呆呆大乱斗",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 21:11:01",
+    "change_number": 30076366,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2337861": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4233393511756624960",
+                    "size": "1707491068",
+                    "download": "301997376"
+                }
+            },
+            "decryptionkey": "103bf2e090d599ec9d72d09a1e5573ba7ec826200f52ea778e0e639af16982e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18840027",
+                "timeupdated": "1749735111"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
