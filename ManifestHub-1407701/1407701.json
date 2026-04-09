@@ -1,0 +1,31 @@
+{
+    "appid": 1407701,
+    "name": "Rock of Ages III: Make & Break Soundtrack (High Quality)",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-16 16:53:13",
+    "change_number": 30092781,
+    "depot": {
+        "1407701": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5331782167579520256",
+                    "size": "767162161",
+                    "download": "775587888"
+                }
+            },
+            "dlcappid": "1407701",
+            "decryptionkey": "dc3c5f50fe7d1ef15d176f94c240a0a6b9927dc5dd10871e33aeda7490bb5181"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5457450",
+                "timeupdated": "1598550090"
+            }
+        }
+    }
+}
