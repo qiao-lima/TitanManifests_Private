@@ -1,0 +1,27 @@
+{
+    "appid": 3311570,
+    "name": "Frontline: Assault Corps WW2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 16:50:44",
+    "change_number": 29825740,
+    "depot": {
+        "3311571": {
+            "manifests": {
+                "public": {
+                    "gid": "8940764218827776791",
+                    "size": "1386136068",
+                    "download": "746290240"
+                }
+            },
+            "decryptionkey": "7c27c950fc9e739f43e85bf5ff98719e003428aa6b18929fdc1ce3e22a02a986"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19053133",
+                "timeupdated": "1751298639"
+            }
+        }
+    }
+}
