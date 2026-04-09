@@ -1,0 +1,39 @@
+{
+    "appid": 1503400,
+    "name": "Temporal Purge: Z",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 01:58:27",
+    "change_number": 29833367,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1503401": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7325876734292841041",
+                    "size": "5560329433",
+                    "download": "1631448896"
+                }
+            },
+            "decryptionkey": "ace38255bdf2c6f3c56934d241259b23a8b354bb86cf22446b89c92d2db0f2f0"
+        },
+        "baselanguages": "english,french,spanish,schinese,russian,japanese,polish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18731669",
+                "timeupdated": "1749030573"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
