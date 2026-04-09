@@ -1,0 +1,65 @@
+{
+    "appid": 374030,
+    "name": "Virginia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 20:15:45",
+    "change_number": 28972554,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,danish,norwegian,swedish,brazilian",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "374031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3836331826165630249",
+                    "size": "4335320757",
+                    "download": "1454284256"
+                }
+            },
+            "decryptionkey": "06287920b6bc8a022ab72c2858e187e6b44e963049b7d7e48f00ccdbd384ec3c"
+        },
+        "374032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2344506572853004577",
+                    "size": "4351870933",
+                    "download": "1456877328"
+                }
+            },
+            "decryptionkey": "ddc01644393bf8d39ecc52324db31f170660515357b7a507abd0fdfd15015c7a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1389043",
+                "timeupdated": "1478190168"
+            }
+        }
+    }
+}
