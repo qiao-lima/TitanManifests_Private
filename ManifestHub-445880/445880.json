@@ -1,0 +1,28 @@
+{
+    "appid": "445880",
+    "type": "Game",
+    "name": "CosmoLands | Space-Adventure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:06:04",
+    "depot": {
+        "445881": {
+            "manifests": {
+                "public": {
+                    "gid": "3687015212502114022",
+                    "size": "132649203",
+                    "download": "52618192"
+                }
+            },
+            "decryptionkey": "29c9b6f586c006efd3c8dea85bf2f22c0ef194e35e6797bd6c813705a153c63d"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "983466"
+            }
+        }
+    },
+    "access_token": 1165745474261398082
+}
