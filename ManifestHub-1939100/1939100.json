@@ -1,0 +1,28 @@
+{
+    "appid": 1939100,
+    "name": "Go Home Annie",
+    "type": "Game",
+    "schinese_name": "《回家，安妮》(Go Home Annie)",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 07:29:46",
+    "change_number": 30083339,
+    "depot": {
+        "1939101": {
+            "manifests": {
+                "public": {
+                    "gid": "8734185092999752545",
+                    "size": "23373795580",
+                    "download": "9470997040"
+                }
+            },
+            "decryptionkey": "c01ecdeeb5905836fd332ec325fd4068016b5fb685d1d9f96f385aa7b7f1504d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18570526",
+                "timeupdated": "1748347079"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
