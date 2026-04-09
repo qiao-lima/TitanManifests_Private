@@ -1,0 +1,61 @@
+{
+    "appid": 844630,
+    "name": "Squad 44 - Public Testing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 21:36:49",
+    "change_number": 30214355,
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "844631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6522371703239373492",
+                    "size": "97387504601",
+                    "download": "37954960752"
+                }
+            },
+            "decryptionkey": "2356f0dd77d91f31ae9f10fd54a57778235e1d6a00d80352d78f3a509272839b"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18826949",
+                "timeupdated": "1749838823"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 17808284355574762299
+}
