@@ -1,0 +1,28 @@
+{
+    "appid": 3182870,
+    "name": "Slugterra All-Stars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 05:01:28",
+    "change_number": 29980690,
+    "depot": {
+        "3182871": {
+            "manifests": {
+                "public": {
+                    "gid": "2510710946840706766",
+                    "size": "751140930",
+                    "download": "509171232"
+                }
+            },
+            "decryptionkey": "0F653991C934C2D028C80168A6A94AAB1452C0F92476125C033E81AACD0A92CD"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "15476888",
+                "timeupdated": "1724448176"
+            }
+        }
+    }
+}
