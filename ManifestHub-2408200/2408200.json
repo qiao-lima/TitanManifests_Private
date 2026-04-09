@@ -1,0 +1,28 @@
+{
+    "appid": "2408200",
+    "type": "Game",
+    "name": "Zenful Journey",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011645",
+    "update_time": "2025-05-16 05:13:06",
+    "depot": {
+        "2408201": {
+            "manifests": {
+                "public": {
+                    "gid": "3914049598227118207",
+                    "size": "217698979",
+                    "download": "60364896"
+                }
+            },
+            "decryptionkey": "896011c669a74d312d9b93fdc13b50a5d82bb1167f5f7f5461688f2358d31f19"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11129988",
+                "timeupdated": "1682944141"
+            }
+        }
+    },
+    "access_token": 4542678010186546435
+}
