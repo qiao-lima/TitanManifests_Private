@@ -1,0 +1,147 @@
+{
+    "appid": 9850,
+    "name": "Codename: Panzers - Cold War",
+    "type": "Game",
+    "schinese_name": "代号：装甲之冷战",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 05:10:43",
+    "change_number": 29907426,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "9851": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1484027145888492790",
+                    "size": "4302273262",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "78a20670dc4d01ca081da7872728e62deb4ff23d4da708bf0888cdc917fa3508"
+        },
+        "9852": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5867524265686061363",
+                    "size": "12846280",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "15a858886f4f93429a5128028ac9802ed2dab930b7252eb847a1e320d69c1fe9"
+        },
+        "9853": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7519653012275013517",
+                    "size": "601380843",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5bb588a56a335427dca246b8d2177ad7843dc75f2b29a76468ea29c8b6892154"
+        },
+        "9854": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3226548217218881558",
+                    "size": "622173623",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b44d0b8a3a18865ca5f5edea9e1ffee06bac5afa08da53f1d516bd2c46763251"
+        },
+        "9855": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3444225941226920070",
+                    "size": "12790059",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f1359b2fdbb65d58241bd609fe7e17963dafe06c3b3ca154fb1c201bf80f290b"
+        },
+        "9856": {
+            "config": {
+                "language": "hungarian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6893326331747946883",
+                    "size": "624137959",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "497dc73af77bddd5713e1eea4bdaf3a916bd98dbfc5daaee8481cbb6014036d6"
+        },
+        "9857": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "9858": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "9859": {
+            "config": {
+                "language": "czech",
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "443670": {
+            "manifests": {
+                "public": {
+                    "gid": "4533547654019278739",
+                    "size": "364660468",
+                    "download": "307354640"
+                }
+            },
+            "decryptionkey": "d1ad823eaa0e0a107ccce62a458531ae5e0c5f9aeb7d61a59955b827c7b9d064"
+        },
+        "branches": {
+            "public": {
+                "buildid": "989218"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
