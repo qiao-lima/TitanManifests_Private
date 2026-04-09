@@ -1,0 +1,33 @@
+{
+    "appid": "508670",
+    "type": "Game",
+    "name": "Aircraft War X",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:13:26",
+    "depot": {
+        "508671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6355593244343135979",
+                    "size": "146983823",
+                    "download": "54212640"
+                }
+            },
+            "decryptionkey": "9d93a8bdb400aebba3634b2cd57fe34a87f3a736c713ea6dd57416df0eb9ef93"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "1262427",
+                "timeupdated": "1470312794"
+            }
+        }
+    },
+    "access_token": 6618145994215214445
+}
