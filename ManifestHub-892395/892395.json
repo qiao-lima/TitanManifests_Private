@@ -1,0 +1,28 @@
+{
+    "appid": 892395,
+    "name": "Guan Yinping (Dudou Costume)/関銀屏「肚兜風コスチューム」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:07",
+    "change_number": 25065303,
+    "depot": {
+        "892395": {
+            "manifests": {
+                "public": {
+                    "gid": "905562769987288738",
+                    "size": "43738804",
+                    "download": "43722272"
+                }
+            },
+            "dlcappid": "892395",
+            "decryptionkey": "94212f4d82e1fd418fc5d300898edf2bfb92ed3da9325cb7673da0a4968c354d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2904262",
+                "timeupdated": "1530235884"
+            }
+        }
+    }
+}
