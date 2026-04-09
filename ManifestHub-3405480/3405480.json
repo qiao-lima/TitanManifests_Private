@@ -1,0 +1,41 @@
+{
+    "appid": 3405480,
+    "name": "Clair Obscur: Expedition 33 – Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "光与影：33号远征队 - 原声音乐",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:47:17",
+    "change_number": 30203582,
+    "depot": {
+        "3405510": {
+            "manifests": {
+                "public": {
+                    "gid": "6886116125216359724",
+                    "size": "1197507155",
+                    "download": "1190294816"
+                }
+            },
+            "decryptionkey": "d05c5a4e1666b64375d849a60b8f3694548fd5f756513928e1458c033101b848"
+        },
+        "3405511": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6241476744323481469",
+                    "size": "10119609592",
+                    "download": "7933719168"
+                }
+            },
+            "decryptionkey": "8cb3c5d263faf7383c63bcb27fb60e3f0a4de6b3a8c8f1fac33c9d12f41848ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19314497",
+                "timeupdated": "1753264031"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
