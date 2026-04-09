@@ -1,0 +1,27 @@
+{
+    "appid": 2420880,
+    "name": "WitchHand",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 08:58:40",
+    "change_number": 29518623,
+    "depot": {
+        "2420881": {
+            "manifests": {
+                "public": {
+                    "gid": "2276835004339470548",
+                    "size": "430992830",
+                    "download": "313307712"
+                }
+            },
+            "decryptionkey": "3b660069e03fcff6e9ab7a299c86f5b5f8841ec332c0c9cc6eb6d323fec69078"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18833399",
+                "timeupdated": "1749689916"
+            }
+        }
+    }
+}
