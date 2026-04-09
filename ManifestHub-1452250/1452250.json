@@ -1,0 +1,78 @@
+{
+    "appid": 1452250,
+    "name": "Underground Garage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 21:21:17",
+    "change_number": 30214149,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "1452251": {
+            "manifests": {
+                "public": {
+                    "gid": "4540717707266536339",
+                    "size": "11513017979",
+                    "download": "10015071248"
+                }
+            },
+            "decryptionkey": "ce6083023fe1c79bd239730313703f8074978705a075f13dd6234c45b8d79156"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19277473",
+                "timeupdated": "1753089525"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
