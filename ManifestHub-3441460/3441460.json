@@ -1,0 +1,28 @@
+{
+    "appid": 3441460,
+    "name": "Fuel Harvest Together",
+    "type": "Game",
+    "schinese_name": "挖油吧！爸爸",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 12:21:48",
+    "change_number": 30184793,
+    "depot": {
+        "3441461": {
+            "manifests": {
+                "public": {
+                    "gid": "2771159664331462566",
+                    "size": "3439917851",
+                    "download": "1697237152"
+                }
+            },
+            "decryptionkey": "6558fb7f6bd07dea3d09f157e42c67ed1d11b6b21db3ec9e8ef4e9bcc6961ed4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18909200",
+                "timeupdated": "1750236673"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
