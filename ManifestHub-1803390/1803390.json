@@ -1,0 +1,42 @@
+{
+    "appid": 1803390,
+    "name": "Bounty: Drag Racing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 03:00:42",
+    "change_number": 30101482,
+    "depot": {
+        "1803391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8287546402449304518",
+                    "size": "13643094483",
+                    "download": "3751768128"
+                },
+                "test_branch": {
+                    "gid": "5379857925512989478",
+                    "size": "13643064123",
+                    "download": "3751841712"
+                }
+            },
+            "decryptionkey": "fffdefd891499699c5fdc41f582b08103072a59c681c871ed592e88d8849791c"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19053270",
+                "timeupdated": "1751299486"
+            },
+            "test_branch": {
+                "buildid": "19052019",
+                "description": "Feature Testing Branch",
+                "timeupdated": "1751292812"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
