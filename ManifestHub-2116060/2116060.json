@@ -1,0 +1,37 @@
+{
+    "appid": 2116060,
+    "name": "Epic Auto Towers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 02:47:05",
+    "change_number": 30080273,
+    "depot": {
+        "2116061": {
+            "manifests": {
+                "public": {
+                    "gid": "7676600989618174123",
+                    "size": "392570546",
+                    "download": "320818272"
+                },
+                "beta": {
+                    "gid": "7676600989618174123",
+                    "size": "392570546",
+                    "download": "320818272"
+                }
+            },
+            "decryptionkey": "0995db5b2ceaa327d82c17e85fcb5e8bf580ad66dc0cfe8de39e0ac225bc97fa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19238107",
+                "timeupdated": "1752630391"
+            },
+            "beta": {
+                "buildid": "19238107",
+                "description": "Beta Branch",
+                "timeupdated": "1752630403"
+            }
+        }
+    }
+}
