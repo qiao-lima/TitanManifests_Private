@@ -1,0 +1,27 @@
+{
+    "appid": 3518110,
+    "name": "Exit The Abyss",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 13:53:28",
+    "change_number": 30154463,
+    "depot": {
+        "3518111": {
+            "manifests": {
+                "public": {
+                    "gid": "98714731439426095",
+                    "size": "1191660915",
+                    "download": "542046496"
+                }
+            },
+            "decryptionkey": "158e16f41d8e718922eff576e3d84214cf5d688e7fc47cab9c31e2f1625d5f91"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18351937",
+                "timeupdated": "1746483529"
+            }
+        }
+    }
+}
