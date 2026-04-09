@@ -1,0 +1,28 @@
+{
+    "appid": 3443870,
+    "name": "BUTTON PRISON",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 20:52:34",
+    "change_number": 30157358,
+    "depot": {
+        "3443871": {
+            "manifests": {
+                "public": {
+                    "gid": "3624082330731225833",
+                    "size": "2005588852",
+                    "download": "773051248"
+                }
+            },
+            "decryptionkey": "b0052197632a8e150cf1efc445588eb2f3e11637f721e9ca108af269857658d3"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18730886",
+                "timeupdated": "1749025551"
+            }
+        }
+    }
+}
