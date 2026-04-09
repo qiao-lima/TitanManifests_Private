@@ -1,0 +1,53 @@
+{
+    "appid": 1494960,
+    "name": "NationWar:Annals",
+    "type": "Game",
+    "schinese_name": "国战:春秋 | 上古版",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 11:16:05",
+    "change_number": 29641312,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1494961": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3539831047444571485",
+                    "size": "753538095",
+                    "download": "273539040"
+                }
+            },
+            "decryptionkey": "053386afff854cee10bf08d8072b8272318f9b1397be0ad6ef967fd91d38c833"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "17563776",
+                "timeupdated": "1740901283"
+            }
+        }
+    }
+}
