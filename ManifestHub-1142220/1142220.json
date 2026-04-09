@@ -1,0 +1,77 @@
+{
+    "appid": 1142220,
+    "name": "Beat Aim",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:26:29",
+    "change_number": 29288457,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1142221": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5920325161324952946",
+                    "size": "525031297",
+                    "download": "140001664"
+                },
+                "development": {
+                    "gid": "5254201382781067187",
+                    "size": "525374837",
+                    "download": "140049776"
+                },
+                "devnewest": {
+                    "gid": "5254201382781067187",
+                    "size": "525374837",
+                    "download": "140049776"
+                },
+                "stable": {
+                    "gid": "5920325161324952946",
+                    "size": "525031297",
+                    "download": "140001664"
+                }
+            },
+            "decryptionkey": "23a1202b5a6f3e071cd2037db76ed80dc890cb59370c0456581737a7b3f93ee9"
+        },
+        "workshopdepot": "1142220",
+        "baselanguages": "english,koreana,schinese,japanese,polish",
+        "branches": {
+            "public": {
+                "buildid": "18597049",
+                "timeupdated": "1748622151"
+            },
+            "development": {
+                "buildid": "18601134",
+                "description": "Public test version with newest features",
+                "timeupdated": "1748181984"
+            },
+            "devnewest": {
+                "buildid": "18601134",
+                "description": "The newest version, possibly with no leaderboards",
+                "timeupdated": "1748181994"
+            },
+            "stable": {
+                "buildid": "18597049",
+                "timeupdated": "1748173142"
+            }
+        },
+        "workshopdepotdecryptionkey": "dc556872795b3453d5812b980236a4ac8c09a216333fce9d85de7df5c0478b65"
+    }
+}
