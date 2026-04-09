@@ -1,0 +1,41 @@
+{
+    "appid": 3463550,
+    "name": "IMMORTAL: Gates of Pyre Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:49:34",
+    "change_number": 29708609,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3463551": {
+            "manifests": {
+                "public": {
+                    "gid": "4929545221080176767",
+                    "size": "15842534826",
+                    "download": "6706307168"
+                }
+            },
+            "decryptionkey": "d30152ce48a8e9e56518c7f67651d6c03da99cee9568b59141b650bed7e7d349"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18780901",
+                "timeupdated": "1749337760"
+            }
+        }
+    }
+}
