@@ -1,0 +1,86 @@
+{
+    "appid": 984560,
+    "name": "HEARTBEAT",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:42:31",
+    "change_number": 30193782,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "984561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7964627249258758643",
+                    "size": "743781881",
+                    "download": "538513840"
+                }
+            },
+            "decryptionkey": "ce8f0e51e95273bba00585c5c914ece8a74500f6fbda69093fe1d7557e60004a"
+        },
+        "984562": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6596246508078197205",
+                    "size": "725315173",
+                    "download": "536702576"
+                }
+            },
+            "decryptionkey": "f16335c7fa63ddbe62b829194bd0c7d28e6e92e4b458fc36d053387624ea703d"
+        },
+        "984563": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2254786419167844688",
+                    "size": "1070569271",
+                    "download": "543324576"
+                }
+            }
+        },
+        "984564": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4717872850160845569",
+                    "size": "767231004",
+                    "download": "538805456"
+                }
+            }
+        },
+        "984565": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5075954366725040925",
+                    "size": "772409164",
+                    "download": "540732560"
+                }
+            }
+        },
+        "workshopdepot": "984560",
+        "branches": {
+            "public": {
+                "buildid": "3953671",
+                "timeupdated": "1561484179"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
