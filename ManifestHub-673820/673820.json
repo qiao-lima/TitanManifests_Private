@@ -1,0 +1,27 @@
+{
+    "appid": 673820,
+    "name": "Master of ABC",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 14:55:24",
+    "change_number": 29861575,
+    "depot": {
+        "673821": {
+            "manifests": {
+                "public": {
+                    "gid": "1483495141298019920",
+                    "size": "183303403",
+                    "download": "28358608"
+                }
+            },
+            "decryptionkey": "b4768837bcc900940a13c694f06b8177970ea9b847766ed02dcb0fd4916e12af"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11880423",
+                "timeupdated": "1691374575"
+            }
+        }
+    }
+}
