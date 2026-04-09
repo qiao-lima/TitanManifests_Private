@@ -1,0 +1,32 @@
+{
+    "appid": "1373300",
+    "type": "Game",
+    "name": "别动这个方块",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 06:55:08",
+    "depot": {
+        "baselanguages": "schinese",
+        "1373301": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1024540385497697977",
+                    "size": "7406704",
+                    "download": "3096784"
+                }
+            },
+            "decryptionkey": "52671b9aa571075d1f34574a7148ac0b84f1407e63afa9a1fc9c2e1302b34f39"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5426730",
+                "timeupdated": "1597752092"
+            }
+        }
+    },
+    "access_token": 8523706099399809940
+}
