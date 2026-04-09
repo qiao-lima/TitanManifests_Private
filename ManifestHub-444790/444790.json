@@ -1,0 +1,28 @@
+{
+    "appid": "444790",
+    "type": "Game",
+    "name": "Abandoned Knight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:05:58",
+    "depot": {
+        "444791": {
+            "manifests": {
+                "public": {
+                    "gid": "5355418169450534105",
+                    "size": "32518144",
+                    "download": "23001760"
+                }
+            },
+            "decryptionkey": "b232a2e1b8f96fe9eaf74f654874dbf2a4199273fc2469bdc6f5dcf5abfe6246"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1297926",
+                "timeupdated": "1472072377"
+            }
+        }
+    },
+    "access_token": 1128679732464336014
+}
