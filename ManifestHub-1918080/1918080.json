@@ -1,0 +1,64 @@
+{
+    "appid": 1918080,
+    "name": "Path Of Destruction",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-10 09:47:20",
+    "change_number": 29476760,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,brazilian",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1918081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7292069807531925366",
+                    "size": "326838248",
+                    "download": "99095424"
+                }
+            },
+            "decryptionkey": "5d9cadb6e3017f115cb9b935f9e194f1e931ccc987a2f57d9ef8111fe10234ac"
+        },
+        "1918082": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "1918083": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4798171640076313031",
+                    "size": "350481540",
+                    "download": "105882688"
+                }
+            },
+            "decryptionkey": "7f669e62ea200bc721f4a6657fc4e88c8fee0d248492771e1371f0c087d624b2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12865766",
+                "timeupdated": "1701663636"
+            }
+        }
+    }
+}
