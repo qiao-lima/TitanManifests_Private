@@ -1,0 +1,81 @@
+{
+    "appid": 2503740,
+    "name": "Storm Striker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-09 07:05:56",
+    "change_number": 29962729,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2503741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7469749416433770263",
+                    "size": "3027593849",
+                    "download": "2724887536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2503744": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4617647577476424445",
+                    "size": "3027593849",
+                    "download": "2723818576"
+                }
+            },
+            "decryptionkey": "d38e2c7ad44465fa4a2731b2e29abb622931323af9f26e2a1597038db3de0ec6"
+        },
+        "2503742": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5138808533517633871",
+                    "size": "3027593849",
+                    "download": "2724882864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19153289",
+                "timeupdated": "1752041151"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
