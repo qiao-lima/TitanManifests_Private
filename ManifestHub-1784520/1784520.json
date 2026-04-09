@@ -1,0 +1,28 @@
+{
+    "appid": 1784520,
+    "name": "RPG Maker MZ - Magic Shop Animated Interior Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:49:06",
+    "change_number": 26201212,
+    "depot": {
+        "1784520": {
+            "manifests": {
+                "public": {
+                    "gid": "6546202484785699907",
+                    "size": "12409554",
+                    "download": "3146784"
+                }
+            },
+            "dlcappid": "1784520",
+            "decryptionkey": "4b462ed61a0ac042b843b148736a058c5007d246b9743f013bc9ab6d28898c6e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7492595",
+                "timeupdated": "1633587086"
+            }
+        }
+    }
+}
