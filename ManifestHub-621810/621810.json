@@ -1,0 +1,30 @@
+{
+    "appid": 621810,
+    "name": "Strain Tactics",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 18:15:03",
+    "change_number": 29803774,
+    "depot": {
+        "621811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7215691084698218960",
+                    "size": "286376899",
+                    "download": "77549056"
+                }
+            },
+            "decryptionkey": "e83b4872e07a4b30f084575c3258b362909465a11e456c22caa4453d582eecfe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3419868",
+                "timeupdated": "1545389027"
+            }
+        }
+    }
+}
