@@ -1,0 +1,31 @@
+{
+    "appid": "587050",
+    "type": "Game",
+    "name": "Mouse in Lab",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "21143643",
+    "update_time": "2024-08-14 19:21:37",
+    "depot": {
+        "587051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2813332728366923504",
+                    "size": "251434744",
+                    "download": "78330688"
+                }
+            },
+            "decryptionkey": "fd55c7b9114c4f48c1ba6d6ab51df590fd38938131e1617aa0ae55ec25aec3b5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1603896",
+                "timeupdated": "1485969901"
+            }
+        }
+    },
+    "access_token": 7620021191906225196
+}
