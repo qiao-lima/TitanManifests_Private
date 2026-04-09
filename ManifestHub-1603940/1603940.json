@@ -1,0 +1,60 @@
+{
+    "appid": 1603940,
+    "name": "Nuclear War Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 11:15:22",
+    "change_number": 29800940,
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1603941": {
+            "manifests": {
+                "public": {
+                    "gid": "7506253810457770663",
+                    "size": "5825124196",
+                    "download": "2293325184"
+                },
+                "openbeta": {
+                    "gid": "5387137195823985217",
+                    "size": "5811867867",
+                    "download": "2292797936"
+                }
+            },
+            "decryptionkey": "64c073c27eea47f103ae527e10f318d1d6bc153aaf31c0f32ceb8ef52a2221f3"
+        },
+        "1603942": {
+            "manifests": {
+                "public": {
+                    "gid": "1799422935887438188",
+                    "size": "4030655",
+                    "download": "1456880"
+                },
+                "openbeta": {
+                    "gid": "787720480274020290",
+                    "size": "3286198",
+                    "download": "1212192"
+                }
+            },
+            "decryptionkey": "80a3a5da9d5d4ed4521304c8e0abf205d4f978f699f7507aaaf0dce3681f3a4c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18822919",
+                "timeupdated": "1750955819"
+            },
+            "openbeta": {
+                "buildid": "18396171",
+                "description": "Open Beta",
+                "timeupdated": "1746749816"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
