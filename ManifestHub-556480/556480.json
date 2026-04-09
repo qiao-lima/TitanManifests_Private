@@ -1,0 +1,45 @@
+{
+    "appid": 556480,
+    "name": "Rugby League Live 4",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 01:59:30",
+    "change_number": 30079709,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "556481": {
+            "manifests": {
+                "public": {
+                    "gid": "7381594560944436028",
+                    "size": "16069419136",
+                    "download": "14639256848"
+                }
+            },
+            "decryptionkey": "391f058efbf6f3cd6e9a3bb4e0f076fe0d0ff52a11ef8d289f423c64259378ca"
+        },
+        "775280": {
+            "dlcappid": "775280"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2626929",
+                "timeupdated": "1522278002"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
