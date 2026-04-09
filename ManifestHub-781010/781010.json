@@ -1,0 +1,28 @@
+{
+    "appid": 781010,
+    "name": "The Disappearing of Gensokyo: Kogasa, Iku Character Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 23:51:56",
+    "change_number": 29831356,
+    "depot": {
+        "781010": {
+            "manifests": {
+                "public": {
+                    "gid": "796490824995845097",
+                    "size": "3548924",
+                    "download": "3590416"
+                }
+            },
+            "dlcappid": "781010",
+            "decryptionkey": "4af47316fe3dce775c81b953dbf43c37cd6724d5cf946fa5817df0c7134bcbc5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2414316",
+                "timeupdated": "1515128499"
+            }
+        }
+    }
+}
