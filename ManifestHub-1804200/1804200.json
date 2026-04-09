@@ -1,0 +1,28 @@
+{
+    "appid": "1804200",
+    "type": "Game",
+    "name": "屠龙之旅",
+    "schinese_name": "屠龙之旅",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-17 15:10:36",
+    "depot": {
+        "1804201": {
+            "manifests": {
+                "public": {
+                    "gid": "3878285915007298790",
+                    "size": "95007267",
+                    "download": "56948144"
+                }
+            },
+            "decryptionkey": "2131c2f67cf0a19ada6141a2b2ca5513f00d51c695fedbf1c592f36834ad6c13"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7660966",
+                "timeupdated": "1636080030"
+            }
+        }
+    },
+    "access_token": 13687105288581008384
+}
