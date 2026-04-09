@@ -1,0 +1,45 @@
+{
+    "appid": 2740080,
+    "name": "Strategic Command WWII: War in the Pacific",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 01:00:17",
+    "change_number": 30058325,
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2740081": {
+            "manifests": {
+                "public": {
+                    "gid": "6172902334721127054",
+                    "size": "4058954660",
+                    "download": "1181500400"
+                }
+            },
+            "decryptionkey": "2800de2bd9ef3e4aabe7c261d2e0f3a20fc0dc781b5cb5a5cbe4d0a461e88427"
+        },
+        "2740082": {
+            "manifests": {
+                "public": {
+                    "gid": "6371401145960794776",
+                    "size": "10259647",
+                    "download": "6228688"
+                }
+            },
+            "decryptionkey": "5f36c4cf63844cca6d0d9233043b3c9791520e1fc884c7068fb7fced9bf4074c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19081993",
+                "timeupdated": "1752241881"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
