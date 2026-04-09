@@ -1,0 +1,28 @@
+{
+    "appid": 532730,
+    "name": "Ace of Seafood - Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:24:00",
+    "change_number": 26201212,
+    "depot": {
+        "532730": {
+            "manifests": {
+                "public": {
+                    "gid": "4198852592306951504",
+                    "size": "125180669",
+                    "download": "119375952"
+                }
+            },
+            "decryptionkey": "0daec95f073e125baec0ef69c08877c1d30705cc422d6d7a565e43a5a29b7601"
+        },
+        "450502": {},
+        "branches": {
+            "public": {
+                "buildid": "4646804",
+                "timeupdated": "1580964681"
+            }
+        }
+    }
+}
