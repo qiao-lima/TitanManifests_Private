@@ -1,0 +1,76 @@
+{
+    "appid": 2736860,
+    "name": "The Bibites: Digital Life",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:14:57",
+    "change_number": 30213258,
+    "depot": {
+        "workshopdepot": "2736860",
+        "2736861": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6900607208834764529",
+                    "size": "159423313",
+                    "download": "56149824"
+                }
+            },
+            "decryptionkey": "2a5a24ed86a137618ed367ebba921977d20fabe27cc9dccfceb309a7b8646304"
+        },
+        "2736862": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4887479648426405254",
+                    "size": "147247049",
+                    "download": "51151056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2736863": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2296790239908461271",
+                    "size": "167727618",
+                    "download": "61969920"
+                }
+            }
+        },
+        "2736864": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5501857783842790345",
+                    "size": "193069177",
+                    "download": "52970160"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18995772",
+                "timeupdated": "1750877036"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
