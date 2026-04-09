@@ -1,0 +1,27 @@
+{
+    "appid": 2466880,
+    "name": "3D PUZZLE - Farming",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 21:52:19",
+    "change_number": 30149563,
+    "depot": {
+        "2466881": {
+            "manifests": {
+                "public": {
+                    "gid": "2883149491573952038",
+                    "size": "1653445764",
+                    "download": "113483584"
+                }
+            },
+            "decryptionkey": "8e9529457bae8cbe5df4fdf637e3b10bd447cfbf97188b5155498676876b7901"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11510154",
+                "timeupdated": "1687216134"
+            }
+        }
+    }
+}
