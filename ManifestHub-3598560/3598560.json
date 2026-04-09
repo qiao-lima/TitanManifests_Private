@@ -1,0 +1,27 @@
+{
+    "appid": 3598560,
+    "name": "Hentai Lucia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 05:29:48",
+    "change_number": 30082172,
+    "depot": {
+        "3598561": {
+            "manifests": {
+                "public": {
+                    "gid": "5393838721024655807",
+                    "size": "127940840",
+                    "download": "54740976"
+                }
+            },
+            "decryptionkey": "b2f52e3031677243024bc6d7ba0f7966d4767f663b9a4542a42f10b07fa9396f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18647709",
+                "timeupdated": "1748461638"
+            }
+        }
+    }
+}
