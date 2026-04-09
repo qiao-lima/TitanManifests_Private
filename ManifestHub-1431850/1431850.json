@@ -1,0 +1,28 @@
+{
+    "appid": 1431850,
+    "name": "The Tartarus Key",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 20:11:41",
+    "change_number": 30054972,
+    "depot": {
+        "1431851": {
+            "manifests": {
+                "public": {
+                    "gid": "7293857202629535118",
+                    "size": "634606379",
+                    "download": "282506752"
+                }
+            },
+            "decryptionkey": "9eb6a7a425663aafdefcf2806e261b9584ac01349ee5e2f245fa41012695cb06"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11558939",
+                "timeupdated": "1687877355"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
