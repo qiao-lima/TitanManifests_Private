@@ -1,0 +1,59 @@
+{
+    "appid": 3144110,
+    "name": "Journey Up",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 16:23:30",
+    "change_number": 29900465,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3144111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3405904365344282809",
+                    "size": "884081890",
+                    "download": "312287232"
+                }
+            },
+            "decryptionkey": "334d0629087bc27c71ec099548ad8d97a191600e2022a319e8cbcaacc5c75818"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19110050",
+                "timeupdated": "1751642305"
+            }
+        }
+    }
+}
