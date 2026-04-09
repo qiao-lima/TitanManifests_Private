@@ -1,0 +1,27 @@
+{
+    "appid": 3069810,
+    "name": "Rocket Rats",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 13:12:37",
+    "change_number": 30035288,
+    "depot": {
+        "3069811": {
+            "manifests": {
+                "public": {
+                    "gid": "6762082032783131282",
+                    "size": "172536841",
+                    "download": "128131456"
+                }
+            },
+            "decryptionkey": "5d18432dd898d169016599b76cea321680cbafbbfcba19269e304b566ccdd754"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17891692",
+                "timeupdated": "1743127483"
+            }
+        }
+    }
+}
