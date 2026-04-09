@@ -1,0 +1,30 @@
+{
+    "appid": 405180,
+    "name": "123 Slaughter Me Street",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 10:11:54",
+    "change_number": 30034247,
+    "depot": {
+        "405181": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "34478080878441992",
+                    "size": "520791052",
+                    "download": "195829808"
+                }
+            },
+            "decryptionkey": "f48138e7f0b864510c3511066f792b99570b7c7b38353775d6dc2a2c95a1e9c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "834512"
+            }
+        }
+    }
+}
