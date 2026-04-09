@@ -1,0 +1,32 @@
+{
+    "appid": 2089600,
+    "name": "Urban Myth Dissolution Center",
+    "type": "Game",
+    "schinese_name": "都市传说解体中心",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 13:44:07",
+    "change_number": 29988148,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "2089601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7229090404645482036",
+                    "size": "2249016327",
+                    "download": "314428912"
+                }
+            },
+            "decryptionkey": "54b3d5d488cbc9bad1702a168dff9c8474bff9a9b8007db6c27b35ece57be062"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18852362",
+                "timeupdated": "1750300594"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
