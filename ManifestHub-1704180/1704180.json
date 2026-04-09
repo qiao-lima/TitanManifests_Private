@@ -1,0 +1,57 @@
+{
+    "appid": 1704180,
+    "name": "Broken Alliance",
+    "type": "Game",
+    "schinese_name": "破碎联盟",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 08:11:09",
+    "change_number": 29908376,
+    "depot": {
+        "1704181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4410796167085443553",
+                    "size": "582806333",
+                    "download": "330857168"
+                }
+            },
+            "decryptionkey": "decb6c84ac40eb8b495d27d48bb6aa2da1f3a3db657c91ee4291a0329984b543"
+        },
+        "1704182": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1893060299623706849",
+                    "size": "610615067",
+                    "download": "339259056"
+                }
+            },
+            "decryptionkey": "6a7c4e937f79f46d622783be1d9b70b81c98751dbeea1d72a2c03533883ff9c1"
+        },
+        "1704183": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4493481550447953615",
+                    "size": "584659042",
+                    "download": "331448992"
+                }
+            },
+            "decryptionkey": "8947baefe31cae45a05e01f3fa6edd8f2141b099799577665624db6f6f7ed8bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18719793",
+                "timeupdated": "1748967433"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
