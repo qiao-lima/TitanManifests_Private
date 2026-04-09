@@ -1,0 +1,28 @@
+{
+    "appid": 2511340,
+    "name": "Storybook of Tactics",
+    "type": "Game",
+    "schinese_name": "战术的故事书",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 01:56:05",
+    "change_number": 29869974,
+    "depot": {
+        "2511341": {
+            "manifests": {
+                "public": {
+                    "gid": "7928376877009138735",
+                    "size": "1393619867",
+                    "download": "173847584"
+                }
+            },
+            "decryptionkey": "4f0c6ca64a9b98067a47e22b00e951d8122f2ec9582687caa542cd828dbd3dc5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17626449",
+                "timeupdated": "1742580340"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
