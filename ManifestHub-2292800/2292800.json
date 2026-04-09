@@ -1,0 +1,58 @@
+{
+    "appid": 2292800,
+    "name": "Blacksmith Master",
+    "type": "Game",
+    "schinese_name": "铁匠大师 Blacksmith Master",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 09:32:33",
+    "change_number": 30106162,
+    "depot": {
+        "baselanguages": "english",
+        "2292801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4328738244469071757",
+                    "size": "2102793901",
+                    "download": "818582768"
+                }
+            },
+            "decryptionkey": "eabaeaf0e86b550dc3dfb73dbfc87bf0ef141f3279e04f2e41ed631dc95c8f08"
+        },
+        "2292802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5881965689653718729",
+                    "size": "2141614968",
+                    "download": "828767376"
+                }
+            },
+            "decryptionkey": "7a289474a74fc72804ca64ca9f591d55f818de4a9735a0d632cc35d703d75ed7"
+        },
+        "2292803": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6839294000487001199",
+                    "size": "2184256461",
+                    "download": "834225744"
+                }
+            },
+            "decryptionkey": "a87e91706df691b1d3a12b0b4d30d275ce14e2cbe02eb5d8af7ad8789552776c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19144680",
+                "timeupdated": "1751972688"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
