@@ -1,0 +1,32 @@
+{
+    "appid": "605520",
+    "type": "Game",
+    "name": "Running Sausage",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27390562",
+    "update_time": "2025-02-10 04:25:34",
+    "depot": {
+        "baselanguages": "english,russian",
+        "605521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8574688165569698561",
+                    "size": "254225546",
+                    "download": "79750032"
+                }
+            },
+            "decryptionkey": "3dfced92bb83a523711ae879c2af7c4da274c8daed9d37b4855c767409e1f31a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1700859",
+                "timeupdated": "1489902754"
+            }
+        }
+    },
+    "access_token": 886327926438430566
+}
