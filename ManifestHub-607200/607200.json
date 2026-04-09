@@ -1,0 +1,83 @@
+{
+    "appid": 607200,
+    "name": "Tanki X",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:06:40",
+    "change_number": 29313460,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "607201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5306790489450592925",
+                    "size": "967327243",
+                    "download": "838359088"
+                }
+            },
+            "decryptionkey": "911a05a2ee9128f1b238f88590dd81dbb50848dd5341ba4a4dd91e3c9855455d"
+        },
+        "607202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5639038789701350076",
+                    "size": "1004813749",
+                    "download": "857840976"
+                }
+            },
+            "decryptionkey": "78b99c6bbaecbf6f067ff7a63e102a30d5e5e9d3c84e02f30786dc94db1007ca"
+        },
+        "639530": {
+            "manifests": {
+                "public": {
+                    "gid": "5619898288513633563",
+                    "size": "1",
+                    "download": "48"
+                }
+            },
+            "dlcappid": "639530",
+            "decryptionkey": ""
+        },
+        "639531": {
+            "manifests": {
+                "public": {
+                    "gid": "8624085501301724409",
+                    "size": "1",
+                    "download": "48"
+                }
+            },
+            "dlcappid": "639531",
+            "config": {
+                "optionaldlc": "639531"
+            },
+            "decryptionkey": ""
+        },
+        "639532": {
+            "manifests": {
+                "public": {
+                    "gid": "6610726941063496204",
+                    "size": "1",
+                    "download": "48"
+                }
+            },
+            "dlcappid": "639532",
+            "decryptionkey": "b62508b43465185c378d8675305383f32bf3d7968af196b7a24149bc9b945b95"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3039147",
+                "timeupdated": "1534452912"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
