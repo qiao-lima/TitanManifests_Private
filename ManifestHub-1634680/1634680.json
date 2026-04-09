@@ -1,0 +1,135 @@
+{
+    "appid": 1634680,
+    "name": "Ficket",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 09:59:54",
+    "change_number": 29857096,
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "1634681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6731704806206884434",
+                    "size": "781369412",
+                    "download": "232506048"
+                },
+                "10.7": {
+                    "gid": "5983590189243163797",
+                    "size": "591509733",
+                    "download": "101769840"
+                },
+                "2.20.3": {
+                    "gid": "4204189011978622627",
+                    "size": "785004076",
+                    "download": "228252880"
+                },
+                "2.21.0": {
+                    "gid": "8897226515462024947",
+                    "size": "752668947",
+                    "download": "221767216"
+                },
+                "2.21.1": {
+                    "gid": "408602719577730589",
+                    "size": "761278397",
+                    "download": "223724192"
+                },
+                "6.22222": {
+                    "gid": "408602719577730589",
+                    "size": "761278397",
+                    "download": "223724192"
+                },
+                "test": {
+                    "gid": "6731704806206884434",
+                    "size": "781369412",
+                    "download": "232506048"
+                }
+            },
+            "decryptionkey": "28c2d6ab2577fc32273cf08dbf89f2804c40e98e7aed1e07cda7d652aca3b083"
+        },
+        "workshopdepot": "1634680",
+        "branches": {
+            "public": {
+                "buildid": "19076641",
+                "timeupdated": "1751446785"
+            },
+            "10.7": {
+                "buildid": "15963147",
+                "description": "107",
+                "timeupdated": "1730189872"
+            },
+            "2.20.3": {
+                "buildid": "18384325",
+                "description": "a",
+                "timeupdated": "1746851430"
+            },
+            "2.21.0": {
+                "buildid": "18655878",
+                "description": "1",
+                "timeupdated": "1749215829"
+            },
+            "2.21.1": {
+                "buildid": "18700469",
+                "description": "1",
+                "timeupdated": "1749215855"
+            },
+            "6.22222": {
+                "buildid": "18700469",
+                "description": "111",
+                "timeupdated": "1749095268"
+            },
+            "test": {
+                "buildid": "19076641",
+                "description": "test",
+                "timeupdated": "1751446426"
+            }
+        },
+        "workshopdepotdecryptionkey": "09a1a4431c876878148af1586a20801ada03150bdcc3de8aa72309b24f8d9eda"
+    }
+}
