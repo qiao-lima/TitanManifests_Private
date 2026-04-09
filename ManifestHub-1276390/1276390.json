@@ -1,0 +1,55 @@
+{
+    "appid": 1276390,
+    "name": "Bloons TD Battles 2",
+    "type": "Game",
+    "schinese_name": "气球塔防对战2",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 09:34:38",
+    "change_number": 30202395,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1276391": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2609816816225357426",
+                    "size": "884978892",
+                    "download": "837979040"
+                }
+            },
+            "decryptionkey": "3906c873bfc5a0974c59a35dd0a92eb215158ebd43fe686cc7253ff7037e6dde"
+        },
+        "1276392": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1381142471399717615",
+                    "size": "854145055",
+                    "download": "800054048"
+                }
+            },
+            "decryptionkey": "3f29749f5600a4d14e4005553ee833ebc94be009b2e10a4884044c570ff9d117"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19134541",
+                "timeupdated": "1751985042"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
