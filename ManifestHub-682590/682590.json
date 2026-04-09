@@ -1,0 +1,45 @@
+{
+    "appid": 682590,
+    "name": "Dungeon Marathon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 18:39:30",
+    "change_number": 29954281,
+    "depot": {
+        "baselanguages": "",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "682591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8780488235272351094",
+                    "size": "111401650",
+                    "download": "55607408"
+                }
+            },
+            "decryptionkey": "9b363456ca8091058f30fad08648eae0eda60f98cd9899d532517572dbaa1f34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2167544",
+                "timeupdated": "1507019483"
+            }
+        }
+    }
+}
