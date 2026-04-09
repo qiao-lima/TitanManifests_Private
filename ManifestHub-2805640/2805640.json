@@ -1,0 +1,27 @@
+{
+    "appid": 2805640,
+    "name": "Desert Special Forces",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 22:12:11",
+    "change_number": 30019925,
+    "depot": {
+        "2805641": {
+            "manifests": {
+                "public": {
+                    "gid": "2830271999087889656",
+                    "size": "155433246",
+                    "download": "51020272"
+                }
+            },
+            "decryptionkey": "c8ce46319e2c5d59a594d218b927a1382e1465384b530600e35546a372732b1c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13423583",
+                "timeupdated": "1707586413"
+            }
+        }
+    }
+}
