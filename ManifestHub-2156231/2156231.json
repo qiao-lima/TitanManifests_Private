@@ -1,0 +1,28 @@
+{
+    "appid": 2156231,
+    "name": "Atelier Ryza 3 - \"Back to Summer\" Costume Set",
+    "type": "DLC",
+    "schinese_name": "莱莎的炼金工房３ - 服装组合“回归夏日”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:28:43",
+    "change_number": 25065303,
+    "depot": {
+        "2156231": {
+            "manifests": {
+                "public": {
+                    "gid": "7398555290101258124",
+                    "size": "49396281",
+                    "download": "17002640"
+                }
+            },
+            "dlcappid": "2156231",
+            "decryptionkey": "dae7259e161b7d1e0bfa3edadc759033b07e4b59c552c7b8564ea293da3d51fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9989438",
+                "timeupdated": "1669102568"
+            }
+        }
+    }
+}
