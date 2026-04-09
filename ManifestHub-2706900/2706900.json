@@ -1,0 +1,27 @@
+{
+    "appid": 2706900,
+    "name": "花母",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 18:56:24",
+    "change_number": 29883824,
+    "depot": {
+        "2706901": {
+            "manifests": {
+                "public": {
+                    "gid": "317807217422898170",
+                    "size": "501179815",
+                    "download": "249174800"
+                }
+            },
+            "decryptionkey": "3879dc49f95bb56ec14849c090fa9c1b8fbdedc696def3f122127fcad061c7a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13484218",
+                "timeupdated": "1708159451"
+            }
+        }
+    }
+}
