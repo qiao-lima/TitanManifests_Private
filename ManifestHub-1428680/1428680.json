@@ -1,0 +1,32 @@
+{
+    "appid": 1428680,
+    "name": "Abiko The Miko 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 02:53:13",
+    "change_number": 29889409,
+    "depot": {
+        "baselanguages": "english",
+        "1428681": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7794633896695343093",
+                    "size": "118639616",
+                    "download": "64510496"
+                }
+            },
+            "decryptionkey": "5fedea41372e2840e1ac80ed2bcc6a4e71a5366760d8c89fbc01cde0b32e9e54"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6658753",
+                "timeupdated": "1620312466"
+            }
+        }
+    }
+}
