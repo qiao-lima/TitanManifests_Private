@@ -1,0 +1,55 @@
+{
+    "appid": 3401490,
+    "name": "Replicube",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 04:39:19",
+    "change_number": 30142831,
+    "depot": {
+        "3401491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3021402804847721787",
+                    "size": "129459248",
+                    "download": "81695136"
+                }
+            },
+            "decryptionkey": "b3318ae1c3e047f333c2fec2cfd1a7a185ffeb91baddf51527a2e025c0a1a744"
+        },
+        "3401492": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7361945454216737467",
+                    "size": "147418944",
+                    "download": "87213280"
+                }
+            }
+        },
+        "3401493": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3768153130466935131",
+                    "size": "218069952",
+                    "download": "103439680"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19283003",
+                "timeupdated": "1752896356"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
