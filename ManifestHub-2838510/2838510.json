@@ -1,0 +1,41 @@
+{
+    "appid": 2838510,
+    "name": "Egg RTX",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-04 06:10:37",
+    "change_number": 29891364,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2838511": {
+            "manifests": {
+                "public": {
+                    "gid": "3455267449098316891",
+                    "size": "689411623",
+                    "download": "382593152"
+                }
+            },
+            "decryptionkey": "838fc8f370a1027a0bd2a1e6928908e3486ba421d443de981d45b18dfb49f337"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13462252",
+                "timeupdated": "1707983562"
+            }
+        }
+    }
+}
