@@ -1,0 +1,76 @@
+{
+    "appid": 407420,
+    "name": "Gabe Newell Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 08:39:27",
+    "change_number": 30181350,
+    "depot": {
+        "407422": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1818840056770342448",
+                    "size": "4066185656",
+                    "download": "917525856"
+                }
+            },
+            "decryptionkey": "c1c7999a4254db67130a451d782eee509adfd72f199168e36d0dff6435aec0a8"
+        },
+        "407423": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4880579829211369385",
+                    "size": "4121853400",
+                    "download": "921424896"
+                }
+            },
+            "decryptionkey": "ee9aa98b6961e5f05dceea3de564e88000d841227bdac0b27767ae22d162e55a"
+        },
+        "407424": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8687246361978857341",
+                    "size": "4087643991",
+                    "download": "920346592"
+                }
+            },
+            "decryptionkey": "642ebd1cac55c887f946bdcd977eccb13d01d95cd05aa8850859e957ddb5d0a1"
+        },
+        "480580": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5074790124228209979",
+                    "size": "222398074",
+                    "download": "76479712"
+                }
+            },
+            "dlcappid": "480580",
+            "decryptionkey": "09ea9c82375f639032757be87fafa698f8f48a24eb5df5e60ac108566ac353e0"
+        },
+        "480581": {
+            "dlcappid": "480580",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1186357",
+                "timeupdated": "1466189109"
+            }
+        }
+    }
+}
