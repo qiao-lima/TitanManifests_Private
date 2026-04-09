@@ -1,0 +1,27 @@
+{
+    "appid": 2545560,
+    "name": "Frontline: World At War",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 17:35:13",
+    "change_number": 29389743,
+    "depot": {
+        "2545561": {
+            "manifests": {
+                "public": {
+                    "gid": "5544094433434525184",
+                    "size": "1140569730",
+                    "download": "920932368"
+                }
+            },
+            "decryptionkey": "9262d784dcd1ee3524265f45216457df9cbef27494c3c146693c4f7fbe54de09"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17186522",
+                "timeupdated": "1738251635"
+            }
+        }
+    }
+}
