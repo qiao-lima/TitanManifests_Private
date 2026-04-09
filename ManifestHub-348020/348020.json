@@ -1,0 +1,173 @@
+{
+    "appid": 348020,
+    "name": "Bloodbath Kavkaz",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:53:20",
+    "change_number": 29208501,
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "354260": {
+            "dlcappid": "354260",
+            "manifests": {
+                "public": {
+                    "gid": "3312960971639668900",
+                    "size": "465190671",
+                    "download": "442346208"
+                }
+            },
+            "decryptionkey": "0de03de9024ad24e3e86f4ef394745fdada4541ffdfcdfb89c3d4b98bc120315"
+        },
+        "394730": {
+            "dlcappid": "394730",
+            "manifests": {
+                "public": {
+                    "gid": "676573675000037291",
+                    "size": "4454219",
+                    "download": "4506048"
+                }
+            },
+            "decryptionkey": "4328f527a0440aa973b607318d1d5c14b848ab63c2a88650b000e44a7212d84c"
+        },
+        "348021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1833075710324285725",
+                    "size": "674134527",
+                    "download": "553847712"
+                }
+            },
+            "decryptionkey": "f0ce831173f7450482623b6460f806961c2a44619cb0ac23c66b11cf96740f9b"
+        },
+        "348022": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2082811689950551470",
+                    "size": "647924547",
+                    "download": "546508768"
+                }
+            },
+            "decryptionkey": "5665936f244aff97cea13cc69665b95e97bcb5f1916ca18a15594fcf7eb89fdf"
+        },
+        "348023": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1557282433368727707",
+                    "size": "674991410",
+                    "download": "549123152"
+                }
+            },
+            "decryptionkey": "802890c6f2fdc9be9a258e138889bd420c3435a1f599933ba31f6547e0abc1c2"
+        },
+        "348024": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4260230491202919816",
+                    "size": "683912519",
+                    "download": "550996688"
+                }
+            },
+            "decryptionkey": "65cf160dd023425300d30a0d6bdda8ce6ad1f6272bb5ad324baa9844c15607c9"
+        },
+        "348025": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8967288087952396534",
+                    "size": "665703166",
+                    "download": "516436608"
+                }
+            },
+            "decryptionkey": "87b0aceb45bd4ddc6e1db4f61fd57b4bbfacac1c9c36325af7f0cf0d8d53c150"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1289279",
+                "timeupdated": "1471624938"
+            }
+        }
+    },
+    "access_token": 5499352089246511702
+}
