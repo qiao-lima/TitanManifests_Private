@@ -1,0 +1,33 @@
+{
+    "appid": "2767520",
+    "type": "Game",
+    "name": "LurkBait Twitch Fishing",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28819524",
+    "update_time": "2025-05-05 17:23:53",
+    "depot": {
+        "2767521": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5912050403382924369",
+                    "size": "315629969",
+                    "download": "171443104"
+                }
+            },
+            "decryptionkey": "25b89f570154680e82f3497125d1a02335b21e604601c505f0c20b86ce7af980"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18344304",
+                "timeupdated": "1746437028"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
