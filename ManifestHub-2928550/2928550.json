@@ -1,0 +1,38 @@
+{
+    "appid": 2928550,
+    "name": "RPG Developer Bakin Layout Data Classy",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 08:51:46",
+    "change_number": 30084417,
+    "depot": {
+        "2928550": {
+            "manifests": {
+                "public": {
+                    "gid": "3327119345995650966",
+                    "size": "15912859",
+                    "download": "4348896"
+                },
+                "test": {
+                    "gid": "3327119345995650966",
+                    "size": "15912859",
+                    "download": "4348896"
+                }
+            },
+            "dlcappid": "2928550",
+            "decryptionkey": "56ba3609a2447308ca20623f4eb5f304cd427b310d004a0ecc507501fd1ffdad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19227610",
+                "timeupdated": "1752652298"
+            },
+            "test": {
+                "buildid": "19227610",
+                "description": "test用",
+                "timeupdated": "1752571004"
+            }
+        }
+    }
+}
