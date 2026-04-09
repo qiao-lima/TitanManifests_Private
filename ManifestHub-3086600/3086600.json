@@ -1,0 +1,54 @@
+{
+    "appid": 3086600,
+    "name": "Sex Clinic 18+",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 23:11:57",
+    "change_number": 30020577,
+    "depot": {
+        "3086601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3796763227003301246",
+                    "size": "3005648304",
+                    "download": "2654900640"
+                }
+            },
+            "decryptionkey": "fa072ba5da4de8aa6c3d00221ae30af052f8f82ca7f39e31add49d9a086520e7"
+        },
+        "3086602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5273705309205007567",
+                    "size": "3030297381",
+                    "download": "2662558144"
+                }
+            }
+        },
+        "3086603": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2839645808400723519",
+                    "size": "3007207813",
+                    "download": "2653880416"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16191640",
+                "timeupdated": "1729950757"
+            }
+        }
+    }
+}
