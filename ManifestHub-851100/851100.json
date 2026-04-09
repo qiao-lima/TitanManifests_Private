@@ -1,0 +1,39 @@
+{
+    "appid": "851100",
+    "type": "Game",
+    "name": "Touhou Luna Nights",
+    "schinese_name": "东方月神夜",
+    "isfreeapp": "0",
+    "change_number": "28979525",
+    "update_time": "2025-05-14 22:47:05",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,japanese",
+        "851102": {
+            "manifests": {
+                "public": {
+                    "gid": "4935512977055941535",
+                    "size": "312592609",
+                    "download": "285764144"
+                },
+                "test": {
+                    "gid": "7678082788899757526",
+                    "size": "139076226",
+                    "download": "122134080"
+                }
+            },
+            "decryptionkey": "f135911c676abf3d681ef747c752c9e04cac69572ab804e8a13d7845b65d960a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6049421",
+                "timeupdated": "1610992902"
+            },
+            "test": {
+                "buildid": "3174958",
+                "timeupdated": "1538719381"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 14548859012882712769
+}
