@@ -1,0 +1,30 @@
+{
+    "appid": 2132560,
+    "name": "On Your Tail",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 21:11:09",
+    "change_number": 29937123,
+    "depot": {
+        "2132561": {
+            "manifests": {
+                "public": {
+                    "gid": "8718439711728236916",
+                    "size": "24067208190",
+                    "download": "6494781280"
+                }
+            },
+            "decryptionkey": "f64906a2242a7bb6295820f99607472150630b50b51272171e29228365db4e5b"
+        },
+        "baselanguages": "english,german,french,italian,koreana,schinese,japanese,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18792544",
+                "timeupdated": "1749463456"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
