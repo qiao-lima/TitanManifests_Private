@@ -1,0 +1,52 @@
+{
+    "appid": 3132500,
+    "name": "Bythzkel-Sombréa - Astec-Experimental ",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 06:53:41",
+    "change_number": 30024010,
+    "depot": {
+        "3132500": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "3132500"
+            },
+            "dlcappid": "3132500",
+            "manifests": {
+                "public": {
+                    "gid": "919354034198150895",
+                    "size": "6395945486",
+                    "download": "2656626768"
+                }
+            },
+            "decryptionkey": "6cd4e7939eba04f999b6f5c2f1ceee4af2b854bbc1d1d4ccbcd2f2ce8ec84c3f"
+        },
+        "3132501": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "3132500"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7039827830998753965",
+                    "size": "5961446457",
+                    "download": "3016837904"
+                }
+            },
+            "dlcappid": "3132500",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19199567",
+                "timeupdated": "1752299581"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
