@@ -1,0 +1,28 @@
+{
+    "appid": 631830,
+    "name": "Sarcophag",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 16:56:04",
+    "change_number": 29825837,
+    "depot": {
+        "631831": {
+            "manifests": {
+                "public": {
+                    "gid": "2342144234675566305",
+                    "size": "5670556",
+                    "download": "5210288"
+                }
+            },
+            "decryptionkey": "c61d1db22069843cbc0a010a0bc180a932a6e4d8d73615b25e4bb5d82b7cbdb8"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "4094229",
+                "timeupdated": "1565474639"
+            }
+        }
+    }
+}
