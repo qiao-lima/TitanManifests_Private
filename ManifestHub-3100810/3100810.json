@@ -1,0 +1,42 @@
+{
+    "appid": 3100810,
+    "name": "虚幻大圣",
+    "type": "Game",
+    "schinese_name": "虚幻大圣之悟空腾挪",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 01:34:50",
+    "change_number": 30100511,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3100811": {
+            "manifests": {
+                "public": {
+                    "gid": "1978925715385633180",
+                    "size": "18973341263",
+                    "download": "18638739488"
+                }
+            },
+            "decryptionkey": "9e941cebe27bd2b42e06cdef7f3e1bcfb94e237ac8101f95027578962edf6928"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "19199617",
+                "timeupdated": "1752300312"
+            }
+        }
+    }
+}
