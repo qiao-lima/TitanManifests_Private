@@ -1,0 +1,28 @@
+{
+    "appid": 1634699,
+    "name": "SAMURAI WARRIORS 5 - Additional Horse \"Black Shadow\"",
+    "type": "DLC",
+    "schinese_name": "战国无双５ - 追加军马“黑骸”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:15:34",
+    "change_number": 26201212,
+    "depot": {
+        "1634699": {
+            "manifests": {
+                "public": {
+                    "gid": "2397972926382974937",
+                    "size": "524",
+                    "download": "352"
+                }
+            },
+            "dlcappid": "1634699",
+            "decryptionkey": "b227b4c217c66bdf8791ea32aca6d8caea6e88dfd92f58f15db157960cc74bdc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6933376",
+                "timeupdated": "1624626971"
+            }
+        }
+    }
+}
