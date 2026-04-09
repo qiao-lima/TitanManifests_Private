@@ -1,0 +1,44 @@
+{
+    "appid": 1330000,
+    "name": "Stolen Realm",
+    "type": "Game",
+    "schinese_name": "失落王国",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 17:44:25",
+    "change_number": 29992748,
+    "depot": {
+        "1330001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4178132229178528542",
+                    "size": "5252538043",
+                    "download": "1011766592"
+                }
+            },
+            "decryptionkey": "2f6104a763da7d625fe6284c3b52beca5787775c77574a842799f5be1fd5e43f"
+        },
+        "1330002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8003817570583172740",
+                    "size": "5281296006",
+                    "download": "1011548528"
+                }
+            },
+            "decryptionkey": "ce6ee02092ba2ffcb8d5da8b9a5a3b1a32791ec290787b6986bd3f08f42193c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18931821",
+                "timeupdated": "1750367493"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
