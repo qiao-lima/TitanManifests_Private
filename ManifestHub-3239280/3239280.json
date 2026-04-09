@@ -1,0 +1,42 @@
+{
+    "appid": 3239280,
+    "name": "Laundry Store Simulator Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 04:10:58",
+    "change_number": 29915430,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3239281": {
+            "manifests": {
+                "public": {
+                    "gid": "5407960277874449965",
+                    "size": "2168052395",
+                    "download": "618271872"
+                }
+            },
+            "decryptionkey": "b404539705f93e69524f48efa81358b62032147d34bd602f4ff5dff8643fdfba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17235234",
+                "timeupdated": "1738915274"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
