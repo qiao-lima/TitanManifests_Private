@@ -1,0 +1,71 @@
+{
+    "appid": 1956800,
+    "name": "Thriving City: Song",
+    "type": "Game",
+    "schinese_name": "满庭芳：宋上繁华",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:37:57",
+    "change_number": 30203426,
+    "depot": {
+        "workshopdepot": "1956800",
+        "1956801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5366807752793648568",
+                    "size": "1103310631",
+                    "download": "878561760"
+                },
+                "version-1.2.1r": {
+                    "gid": "8781977068996705687",
+                    "size": "1207801166",
+                    "download": "959999872"
+                },
+                "version-0.5.3": {
+                    "gid": "2764188030832692437",
+                    "size": "917822725",
+                    "download": "750284064"
+                }
+            },
+            "decryptionkey": "f254dc89cb04fbc2228cbf01e4d818f698f4d45ebfa5761feb4d1c0b59ad6618"
+        },
+        "1956802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "209622789252326230",
+                    "size": "1204621901",
+                    "download": "953770176"
+                },
+                "version-1.2.1r": {
+                    "gid": "209622789252326230",
+                    "size": "1204621901",
+                    "download": "953770176"
+                }
+            },
+            "decryptionkey": "d40c20925ad438fcb5041add7fa831e21103a1224637d2861a5c2721dff014fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19326939",
+                "timeupdated": "1753263472"
+            },
+            "version-1.2.1r": {
+                "buildid": "19313682",
+                "description": "Old version",
+                "timeupdated": "1753182308"
+            },
+            "version-0.5.3": {
+                "buildid": "12252991",
+                "description": "Old version",
+                "timeupdated": "1706686495"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "b728fc255af56f7b20d8728ccad7eda2bc3b094b8401093bd91d57ebad2ad28d"
+    }
+}
