@@ -1,0 +1,49 @@
+{
+    "appid": 1161460,
+    "name": "Pagui soundtrack album vol.2 -Sam-seng-hiàn-gē/Lilium",
+    "type": "Music",
+    "schinese_name": "打鬼原声带vol.2 百合花&三牲献艺",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 09:12:03",
+    "change_number": 29782390,
+    "depot": {
+        "1161462": {
+            "config": {
+                "highqualityaudio": "1",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1908034400612017533",
+                    "size": "517005364",
+                    "download": "462680448"
+                }
+            },
+            "decryptionkey": "40c42cbafe606f34b017c05d90838fa0dadc99a5efc4ba405ee6962f1561a987"
+        },
+        "1161461": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9027169440591805434",
+                    "size": "103888757",
+                    "download": "88662864"
+                }
+            },
+            "decryptionkey": "714e36ee849bc54db5cc3f15043316f398d767b2229256494c8702a2de40b363"
+        },
+        "1161460": {
+            "config": {
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19023064",
+                "timeupdated": "1751011917"
+            }
+        }
+    }
+}
