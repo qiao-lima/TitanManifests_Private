@@ -1,0 +1,174 @@
+{
+    "appid": 15170,
+    "name": "Heroes of Might & Magic V",
+    "type": "Game",
+    "schinese_name": "魔法门之英雄无敌5",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 22:41:02",
+    "change_number": 30174957,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "15171": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1406899445470675337",
+                    "size": "1383072804",
+                    "download": "1331122736"
+                }
+            },
+            "decryptionkey": "1a9f1e32152cbd8fe3bba033ea4e23961e5f7ad731190ffcaf82e2668912e33e"
+        },
+        "15172": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6288587218785364253",
+                    "size": "263565498",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "135a76c31c623bc24c25760d11804b9522f28958c658386697c9c438451bf8ba"
+        },
+        "15173": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7025150446258018305",
+                    "size": "261339758",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f720d8720508cb14a143ede290a56fae46a3354c4e7effbfa589ad8c395dfa05"
+        },
+        "15174": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2562405572132769009",
+                    "size": "280377904",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e4f33dc01a8f40d48324fe2c99b9eaaf27fc8842dff2c0cf11eb16acf7117f78"
+        },
+        "15175": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8284671689864705204",
+                    "size": "266083197",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c6f52964fcc5edfbe4db4e68097a6877ea345e6411a630215ccdf378244b39b1"
+        },
+        "15176": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "304552291825962778",
+                    "size": "267822735",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b39745c6a8b690a4adb4f003e46812c20a3c0f8784fce49a59e5bf188306719b"
+        },
+        "15177": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "491398472189955630",
+                    "size": "1385576906",
+                    "download": "1354330160"
+                }
+            },
+            "decryptionkey": "98eacaf9b366aa5b41fcdb44e96bba8ea6c1caf208101846e16017c67efba83b"
+        },
+        "15178": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4531355185182807014",
+                    "size": "2151246301",
+                    "download": "1910476464"
+                }
+            },
+            "decryptionkey": "c9d435ea5915c4b208db6caa2ff95011895f89e2d214dd2da0e8e1a942ac56cc"
+        },
+        "15179": {
+            "config": {
+                "language": "czech"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5188306694342781203",
+                    "size": "1370709829",
+                    "download": "1339424336"
+                }
+            },
+            "decryptionkey": "64006af48595f7fb6f56a28d81e4c46dd9893ff3528dc433f996efda1005eb30"
+        },
+        "3833480": {
+            "config": {
+                "language": "hungarian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1213853079542390330",
+                    "size": "1456875579",
+                    "download": "1410373568"
+                }
+            },
+            "decryptionkey": "402380215030ff521a52301efbac797c4389ca269ee74873ed1232a118bdf551"
+        },
+        "3833481": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1365191707479780834",
+                    "size": "470621159",
+                    "download": "454324400"
+                }
+            },
+            "decryptionkey": "72edcdd8ee3897d3ca7913f85703c0de37baa2a38cf13df8826129f0946aa008"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19081271",
+                "timeupdated": "1751641073"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
