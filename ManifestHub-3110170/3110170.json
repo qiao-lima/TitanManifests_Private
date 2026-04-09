@@ -1,0 +1,47 @@
+{
+    "appid": 3110170,
+    "name": "Going Dark Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:53:15",
+    "change_number": 29684329,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3110171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4581232338338460298",
+                    "size": "525756276",
+                    "download": "314475152"
+                }
+            },
+            "decryptionkey": "762b3af286a57686caf51277f68b7efdf3338297beb8da43c62744320ca84cd4"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18951335",
+                "timeupdated": "1750527958"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
