@@ -1,0 +1,56 @@
+{
+    "appid": 628490,
+    "name": "Zen vs Zombie",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 11:09:14",
+    "change_number": 30065858,
+    "depot": {
+        "baselanguages": "english",
+        "628491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1713574632064055543",
+                    "size": "193121655",
+                    "download": "36345536"
+                }
+            },
+            "decryptionkey": "4f9eb576fd7dc0bc810be58342453c09a20e660300086242708dde81a66b818c"
+        },
+        "628492": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7924659034178626430",
+                    "size": "230612859",
+                    "download": "47595680"
+                }
+            }
+        },
+        "628493": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2880273127622800352",
+                    "size": "233481726",
+                    "download": "51226688"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1902792",
+                "timeupdated": "1497966372"
+            }
+        }
+    },
+    "access_token": 13331078648435215582
+}
