@@ -1,0 +1,39 @@
+{
+    "appid": "462030",
+    "type": "Game",
+    "name": "BitRay",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:09:33",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "462031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6901867618826121484",
+                    "size": "42161720",
+                    "download": "13096496"
+                }
+            },
+            "decryptionkey": "5e48320ae53af76cc69f2da0151f5a3a7bed66676c259127bc4a8c7161889fee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1074761",
+                "timeupdated": "1460659156"
+            }
+        }
+    },
+    "access_token": 5184777850315112564
+}
