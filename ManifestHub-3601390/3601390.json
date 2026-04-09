@@ -1,0 +1,28 @@
+{
+    "appid": 3601390,
+    "name": "RailGods of Hysterra - Supporter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 15:59:31",
+    "change_number": 29366283,
+    "depot": {
+        "3601390": {
+            "manifests": {
+                "public": {
+                    "gid": "5779026321098797952",
+                    "size": "210971061",
+                    "download": "200158784"
+                }
+            },
+            "dlcappid": "3601390",
+            "decryptionkey": "64ba32802db186b2061a124acd28e1c105394eaee551f5249aa0bdba82704e39"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18298336",
+                "timeupdated": "1746028249"
+            }
+        }
+    }
+}
