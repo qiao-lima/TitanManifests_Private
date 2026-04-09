@@ -1,0 +1,28 @@
+{
+    "appid": 1858650,
+    "name": "In Sink",
+    "type": "Game",
+    "schinese_name": "合力逃脱",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 00:26:49",
+    "change_number": 30078751,
+    "depot": {
+        "1858652": {
+            "manifests": {
+                "public": {
+                    "gid": "4361739545455009008",
+                    "size": "3621839717",
+                    "download": "476968496"
+                }
+            },
+            "decryptionkey": "7559977939e30619429f880437084991c4f807e755c509ca88987b500426198d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19068875",
+                "timeupdated": "1751618413"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
