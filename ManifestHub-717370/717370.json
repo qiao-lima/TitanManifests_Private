@@ -1,0 +1,28 @@
+{
+    "appid": 717370,
+    "name": "8bit Invasion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:48",
+    "change_number": 30056467,
+    "depot": {
+        "717371": {
+            "manifests": {
+                "public": {
+                    "gid": "2798754376683076054",
+                    "size": "42506640",
+                    "download": "13221168"
+                }
+            },
+            "decryptionkey": "0d4d3c34db8260fae37d479a9f5180b92c97d3bee0cce84918a0f155f94ccf63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2121390",
+                "timeupdated": "1505567008"
+            }
+        }
+    },
+    "access_token": 2745327650328262357
+}
