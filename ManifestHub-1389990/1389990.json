@@ -1,0 +1,44 @@
+{
+    "appid": 1389990,
+    "name": "Oblivity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 05:14:30",
+    "change_number": 29246178,
+    "depot": {
+        "baselanguages": "english,german,french,spanish",
+        "1389991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "845575962259944705",
+                    "size": "1254076968",
+                    "download": "221194304"
+                },
+                "beta": {
+                    "gid": "845575962259944705",
+                    "size": "1254076968",
+                    "download": "221194304"
+                }
+            },
+            "decryptionkey": "749e442c5d97a877110de0e7f78bff99891b1b90c8a3270c7544ab040165df8d"
+        },
+        "workshopdepot": "1389990",
+        "branches": {
+            "public": {
+                "buildid": "18647792",
+                "timeupdated": "1748462691"
+            },
+            "beta": {
+                "buildid": "18647792",
+                "description": "Get the newest Oblivity updates before they are officially released. Versions on this branch most likely contain a lot of bugs.",
+                "timeupdated": "1748462154"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4d909669f97b8f0862fe6700edd0acf2c22074be7552661169c6f0b50dcd06d3"
+    }
+}
