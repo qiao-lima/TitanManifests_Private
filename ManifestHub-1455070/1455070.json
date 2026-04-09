@@ -1,0 +1,57 @@
+{
+    "appid": 1455070,
+    "name": "Countess in Crimson",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 17:05:52",
+    "change_number": 30036799,
+    "depot": {
+        "1455071": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8257001615895286613",
+                    "size": "9353466569",
+                    "download": "9192425680"
+                },
+                "legacy": {
+                    "gid": "6655155846658761763",
+                    "size": "8998189951",
+                    "download": "8821460496"
+                }
+            },
+            "decryptionkey": "859051ddbff2bdd55f81b830d8a1a8e5c689f8bae2a0ec1d121e2aa1a2759a18"
+        },
+        "2718880": {
+            "dlcappid": "2718880",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3505198082335018232",
+                    "size": "5276957655",
+                    "download": "5126727072"
+                }
+            },
+            "decryptionkey": "445b6759599ab33ea309b566582932fd0dc2d59f88bbc5f657a89277163de3fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19207934",
+                "timeupdated": "1752422745"
+            },
+            "legacy": {
+                "buildid": "13130847",
+                "description": "Previous stable version",
+                "timeupdated": "1729813328"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
