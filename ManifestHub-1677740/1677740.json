@@ -1,0 +1,47 @@
+{
+    "appid": 1677740,
+    "name": "Stumble Guys",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 13:45:24",
+    "change_number": 30206488,
+    "depot": {
+        "1677741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2792118673793337860",
+                    "size": "1908898958",
+                    "download": "1387142864"
+                },
+                "beta": {
+                    "gid": "6230721262270733362",
+                    "size": "1916449666",
+                    "download": "1394739968"
+                }
+            },
+            "decryptionkey": "3152088e05159ee3cea8d9df19cc0916ddbcbf1d572bfce0cf5936c658bbc2e2"
+        },
+        "1677742": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "19276123",
+                "timeupdated": "1753092027"
+            },
+            "beta": {
+                "buildid": "19303155",
+                "description": "open beta",
+                "timeupdated": "1753189827"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
