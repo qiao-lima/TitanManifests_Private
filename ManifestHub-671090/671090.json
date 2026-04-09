@@ -1,0 +1,27 @@
+{
+    "appid": 671090,
+    "name": "Oik Memory",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 17:17:40",
+    "change_number": 30114805,
+    "depot": {
+        "671091": {
+            "manifests": {
+                "public": {
+                    "gid": "4769229382632080391",
+                    "size": "12115492",
+                    "download": "9198128"
+                }
+            },
+            "decryptionkey": "9447a0e30225f423a464834c8b709cc0fdd0e5c1252d1db3a7657fa219829b18"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2403481",
+                "timeupdated": "1590968524"
+            }
+        }
+    }
+}
