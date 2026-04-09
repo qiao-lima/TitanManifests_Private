@@ -1,0 +1,44 @@
+{
+    "appid": 1673600,
+    "name": "Game For Anna",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-31 07:27:23",
+    "change_number": 29289668,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1673601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8069053424610965263",
+                    "size": "276524469",
+                    "download": "203248864"
+                }
+            },
+            "decryptionkey": "6531b40c5c4c3b8e2fb157e414b1a2a2f22c3aedfc3277db7c6e1ec73da04eb1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7124278",
+                "timeupdated": "1627903469"
+            }
+        }
+    }
+}
