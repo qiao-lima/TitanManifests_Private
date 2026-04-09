@@ -1,0 +1,27 @@
+{
+    "appid": 1686440,
+    "name": "Yoshimitsu Hatsumi",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 06:16:11",
+    "change_number": 29137248,
+    "depot": {
+        "1686441": {
+            "manifests": {
+                "public": {
+                    "gid": "675909108893654282",
+                    "size": "148346618",
+                    "download": "31810528"
+                }
+            },
+            "decryptionkey": "9269f597b89fb8cfc0feb914d9161bc11517514f91451cb6d3b83b225b41635d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6997773",
+                "timeupdated": "1625732542"
+            }
+        }
+    }
+}
