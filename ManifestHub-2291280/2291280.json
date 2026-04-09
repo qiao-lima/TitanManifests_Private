@@ -1,0 +1,28 @@
+{
+    "appid": "2291280",
+    "type": "Game",
+    "name": "Jet Fire",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "20646674",
+    "update_time": "2024-08-14 21:07:57",
+    "depot": {
+        "2291281": {
+            "manifests": {
+                "public": {
+                    "gid": "5857082503710041527",
+                    "size": "209887289",
+                    "download": "24281216"
+                }
+            },
+            "decryptionkey": "03e3cdace5cf17fea9f6b8c11516c6cec9d52933c8fccd2fc45eba83dcfaf596"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10365178",
+                "timeupdated": "1674205488"
+            }
+        }
+    },
+    "access_token": 7238930757775902440
+}
