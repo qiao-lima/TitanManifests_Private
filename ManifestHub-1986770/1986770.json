@@ -1,0 +1,41 @@
+{
+    "appid": 1986770,
+    "name": "Jacktus Green: The fluffy, the spiky and the spicy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-11 22:43:23",
+    "change_number": 29508455,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1986771": {
+            "manifests": {
+                "public": {
+                    "gid": "3980503292771215933",
+                    "size": "897669284",
+                    "download": "788132544"
+                }
+            },
+            "decryptionkey": "d0516931d93ee5f2f3bf3185f533659545159ddaa8fb838be17385657c07007d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9208346",
+                "timeupdated": "1659015738"
+            }
+        }
+    }
+}
