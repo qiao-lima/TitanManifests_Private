@@ -1,0 +1,28 @@
+{
+    "appid": 2751120,
+    "name": "Dive The Depths",
+    "type": "Game",
+    "schinese_name": "潜入深渊",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 14:41:29",
+    "change_number": 29950170,
+    "depot": {
+        "2751121": {
+            "manifests": {
+                "public": {
+                    "gid": "7247132879386987273",
+                    "size": "4465797210",
+                    "download": "2808110192"
+                }
+            },
+            "decryptionkey": "bafc96481750cd869a372984adf2fb42c5efab8ba21b3e5b677068f2e270712b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18853879",
+                "timeupdated": "1749812185"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
