@@ -1,0 +1,46 @@
+{
+    "appid": 1682050,
+    "name": "PropHunter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 15:36:36",
+    "change_number": 29789046,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1682051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "384333295928826833",
+                    "size": "6842385485",
+                    "download": "6733111056"
+                }
+            },
+            "decryptionkey": "58e23c0641dada74bb23840e67d970301e6c45a424bdc32f3fe75aa29883d752"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19026378",
+                "timeupdated": "1751034990"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
