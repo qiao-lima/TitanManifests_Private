@@ -1,0 +1,27 @@
+{
+    "appid": 568290,
+    "name": "Detention - Original Soundtracks",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 22:07:32",
+    "change_number": 26201212,
+    "depot": {
+        "568299": {
+            "manifests": {
+                "public": {
+                    "gid": "3361549633717032364",
+                    "size": "196788415",
+                    "download": "191608576"
+                }
+            },
+            "decryptionkey": "772147e2006570941c8192f7ca63ebf84e8e0bf0199b2cd9d595036c9a3eaaa6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10315352",
+                "timeupdated": "1673611346"
+            }
+        }
+    }
+}
