@@ -1,0 +1,46 @@
+{
+    "appid": 670160,
+    "name": "D'LIRIUM",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 18:52:30",
+    "change_number": 30191575,
+    "depot": {
+        "baselanguages": "english,german,french,schinese,tchinese,russian,polish,hungarian,czech,ukrainian",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "670160",
+        "670161": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "530682578051225829",
+                    "size": "538541391",
+                    "download": "239420192"
+                },
+                "vm_stable": {
+                    "gid": "3425557357677806651",
+                    "size": "515157723",
+                    "download": "235753776"
+                }
+            },
+            "decryptionkey": "2772a1ea6667775a9bcbdfb20c5c8a6eea1aa04aeb3b4e8056e8b574515fa0d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19125483",
+                "timeupdated": "1751839691"
+            },
+            "vm_stable": {
+                "buildid": "19125453",
+                "description": "More demanding on hardware, but verbose error output.",
+                "timeupdated": "1751839285"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "9831eb16e16ae9d24fa70566adc11e1f61b532e1706540a26d21442a992a282c"
+    }
+}
