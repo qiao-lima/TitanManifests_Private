@@ -1,0 +1,28 @@
+{
+    "appid": 551930,
+    "name": "Skater 2D",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 00:09:36",
+    "change_number": 29939183,
+    "depot": {
+        "baselanguages": "english",
+        "551931": {
+            "manifests": {
+                "public": {
+                    "gid": "52041052992325348",
+                    "size": "82635541",
+                    "download": "26910976"
+                }
+            },
+            "decryptionkey": "55cac9cc9950e2b1356fbbbf05938343d34fcb47d881261b9f49fc3f5d5ffe20"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1429414",
+                "timeupdated": "1477926869"
+            }
+        }
+    }
+}
