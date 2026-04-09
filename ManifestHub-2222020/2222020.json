@@ -1,0 +1,47 @@
+{
+    "appid": 2222020,
+    "name": "Dungeon Renovation Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:11:12",
+    "change_number": 30212352,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "2222021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6627749170201302808",
+                    "size": "3094521390",
+                    "download": "2764257056"
+                }
+            },
+            "decryptionkey": "588ee7aa488e1e51c14b98a53afb3d36a29ac49bbe22725272693ad6c6166d6f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14110614",
+                "timeupdated": "1713536050"
+            }
+        }
+    }
+}
