@@ -1,0 +1,96 @@
+{
+    "appid": "356420",
+    "type": "Game",
+    "name": "Interloper",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "22534048",
+    "update_time": "2024-05-24 10:28:24",
+    "depot": {
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "356421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7726841099995136684",
+                    "size": "287924516",
+                    "download": "277851152"
+                },
+                "windowsfna": {
+                    "gid": "8521217624425135158",
+                    "size": "281350133",
+                    "download": "271244848"
+                }
+            },
+            "decryptionkey": "0ae05cfcdcda25f3eefd4903e429e11930d651c16faa6b6022d41d11d1d62dcd"
+        },
+        "356422": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2960998528694935284",
+                    "size": "333995053",
+                    "download": "288299504"
+                },
+                "windowsfna": {
+                    "gid": "8224576932991219141",
+                    "size": "327748977",
+                    "download": "281262432"
+                }
+            },
+            "decryptionkey": "2976d5c95a1b576127f721cf7c9781952b11d5a8048715fb504c25a6b2a679ed"
+        },
+        "356423": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7425526924343033969",
+                    "size": "460761359",
+                    "download": "292973168"
+                },
+                "windowsfna": {
+                    "gid": "7874763751637228080",
+                    "size": "456803261",
+                    "download": "286721808"
+                }
+            },
+            "decryptionkey": "7399e2a4d8798886bcdf26095d0c1af0a364ca265caf87634c51eb3e9e6187f0"
+        },
+        "356424": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "windowsfna": {
+                    "gid": "4085820917539137670",
+                    "size": "287072782",
+                    "download": "276634944"
+                }
+            },
+            "decryptionkey": "c6c9fe4fa25428d99f4fccadc030435d30b6605803dfba720c5f718015016956"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1851187",
+                "timeupdated": "1496008973"
+            },
+            "windowsfna": {
+                "buildid": "1157789",
+                "description": "FNA version of Windows build",
+                "timeupdated": "1464774404"
+            }
+        }
+    }
+}
