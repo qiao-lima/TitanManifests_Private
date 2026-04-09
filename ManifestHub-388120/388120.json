@@ -1,0 +1,44 @@
+{
+    "appid": 388120,
+    "name": "Spakoyno: Back To USSR 2.0",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 09:51:43",
+    "change_number": 30153102,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "388121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4380254551270660182",
+                    "size": "770970690",
+                    "download": "682433056"
+                }
+            },
+            "decryptionkey": "b1bf2550341ee0cb5337808212379f8403bbeb70c7c906e854a17ec775092e7e"
+        },
+        "459660": {
+            "dlcappid": "459660",
+            "manifests": {
+                "public": {
+                    "gid": "6304261155397205740",
+                    "size": "95971590",
+                    "download": "95645680"
+                }
+            },
+            "decryptionkey": "9e14aa886e5a45269bb25d4967c886aad4979550ef4d784ac5688682c3e90295"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1066366",
+                "timeupdated": "1460489548"
+            }
+        }
+    },
+    "access_token": 15173085651792752235
+}
