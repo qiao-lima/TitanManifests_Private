@@ -1,0 +1,28 @@
+{
+    "appid": 2676180,
+    "name": "Fog of War",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 17:52:38",
+    "change_number": 30148001,
+    "depot": {
+        "2676181": {
+            "manifests": {
+                "public": {
+                    "gid": "3454530067333031692",
+                    "size": "9968115392",
+                    "download": "8729895968"
+                }
+            },
+            "decryptionkey": "fb6093251a4aff67b07eb26ce565a8bf20f3a6adfb55105a0646be9fe2d871fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14889698",
+                "timeupdated": "1720668590"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
