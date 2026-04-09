@@ -1,0 +1,52 @@
+{
+    "appid": 2735220,
+    "name": "PolyZ",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:10:11",
+    "change_number": 30217609,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2735221": {
+            "manifests": {
+                "public": {
+                    "gid": "4891223409836252120",
+                    "size": "6665687637",
+                    "download": "2948825408"
+                },
+                "experimental": {
+                    "gid": "4891223409836252120",
+                    "size": "6665687637",
+                    "download": "2948825408"
+                }
+            },
+            "decryptionkey": "c755c493b5ad54eabb764997ae78422300d7b9208709f8028211de7b73392078"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19332784",
+                "timeupdated": "1753300475"
+            },
+            "experimental": {
+                "buildid": "19332784",
+                "description": "Play the patch before its public but expect bugs",
+                "timeupdated": "1753292984"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
