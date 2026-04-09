@@ -1,0 +1,30 @@
+{
+    "appid": 1530890,
+    "name": "Car Constructor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 05:27:40",
+    "change_number": 29129773,
+    "depot": {
+        "1530891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6839964626820917282",
+                    "size": "921662830",
+                    "download": "476724928"
+                }
+            },
+            "decryptionkey": "d49d2df0e68f633f22ca55d5dde26703d0145d908c2f4a921216e7eb0daebbcf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6115937",
+                "timeupdated": "1611220247"
+            }
+        }
+    }
+}
