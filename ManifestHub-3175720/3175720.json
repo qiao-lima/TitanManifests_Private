@@ -1,0 +1,39 @@
+{
+    "appid": 3175720,
+    "name": "BM Love Cafe",
+    "type": "Game",
+    "schinese_name": "黑山恋爱咖啡厅",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 09:35:33",
+    "change_number": 30106207,
+    "depot": {
+        "3175721": {
+            "manifests": {
+                "public": {
+                    "gid": "6244053837456599700",
+                    "size": "1742306869",
+                    "download": "312642592"
+                },
+                "allcg": {
+                    "gid": "842332308377011086",
+                    "size": "1695676482",
+                    "download": "301578256"
+                }
+            },
+            "decryptionkey": "71573c1731fb949527f6c97d8059f7fc0b56ca2cceec834c0e2e5b04160fc093"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18773133",
+                "timeupdated": "1749252115"
+            },
+            "allcg": {
+                "buildid": "18702487",
+                "description": "allcg",
+                "timeupdated": "1748870702"
+            }
+        }
+    }
+}
