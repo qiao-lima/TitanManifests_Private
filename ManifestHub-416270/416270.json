@@ -1,0 +1,31 @@
+{
+    "appid": "416270",
+    "type": "Game",
+    "name": "GooCubelets 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:00:53",
+    "depot": {
+        "416271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9050527984254717236",
+                    "size": "130900220",
+                    "download": "37777584"
+                }
+            },
+            "decryptionkey": "c400659836e2dbfc21e1620867358ef14cb9cd80276ec54b19eccf9f2d7a5750"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1854464",
+                "timeupdated": "1496148304"
+            }
+        }
+    },
+    "access_token": 13174514459211845094
+}
