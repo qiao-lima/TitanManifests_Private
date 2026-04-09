@@ -1,0 +1,42 @@
+{
+    "appid": 1872550,
+    "name": "Destroy All Humans! – Clone Carnage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-28 12:24:01",
+    "change_number": 29227891,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1872551": {
+            "manifests": {
+                "public": {
+                    "gid": "7733696414705679610",
+                    "size": "14831514555",
+                    "download": "14309985216"
+                }
+            },
+            "decryptionkey": "0984235439ceb6e8f1e7df949733c598d79f5ed830d6d260365547d233f78401"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8968753",
+                "timeupdated": "1655909383"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
