@@ -1,0 +1,32 @@
+{
+    "appid": "593290",
+    "type": "Game",
+    "name": "Moccasin",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:22:22",
+    "depot": {
+        "593291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6597691395533975405",
+                    "size": "261760444",
+                    "download": "83557344"
+                }
+            },
+            "decryptionkey": "439f7e09434fd00edbd06e35c2c0e0d7583328f8e506485f6278eb3c51a7d128"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1640610",
+                "timeupdated": "1487423775"
+            }
+        }
+    },
+    "access_token": 705677229447942914
+}
