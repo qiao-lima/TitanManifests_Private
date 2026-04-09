@@ -1,0 +1,41 @@
+{
+    "appid": 2804680,
+    "name": "Only Way is Down",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 18:52:30",
+    "change_number": 30156567,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2804681": {
+            "manifests": {
+                "public": {
+                    "gid": "1212489252793828057",
+                    "size": "6052364191",
+                    "download": "5676738880"
+                }
+            },
+            "decryptionkey": "7b698f6d57277b3ead21e6caa0ccf9a58062cdf8ee2d9de08bd185a2da32474c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19123705",
+                "timeupdated": "1751816637"
+            }
+        }
+    }
+}
