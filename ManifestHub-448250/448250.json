@@ -1,0 +1,49 @@
+{
+    "appid": "448250",
+    "type": "Game",
+    "name": "Nuked Knight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "21701161",
+    "update_time": "2024-08-14 19:06:31",
+    "depot": {
+        "baselanguages": "english,russian",
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "448251": {
+            "manifests": {
+                "public": {
+                    "gid": "662128827368127431",
+                    "size": "220312333",
+                    "download": "70752944"
+                }
+            },
+            "decryptionkey": "00f36684acda0ef0fa43a28e7d0c7f060a980461365b82d6653377c5f300e6c9"
+        },
+        "448252": {
+            "dlcappid": "454310",
+            "manifests": {
+                "public": {
+                    "gid": "4337199365316428031",
+                    "size": "225157773",
+                    "download": "75855216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "448250",
+        "branches": {
+            "public": {
+                "buildid": "1034323",
+                "timeupdated": "1458590972"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    },
+    "access_token": 14702658628891655441
+}
