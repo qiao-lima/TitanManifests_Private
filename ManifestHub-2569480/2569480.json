@@ -1,0 +1,27 @@
+{
+    "appid": 2569480,
+    "name": "Monster Crawl: Warrior",
+    "type": "Game",
+    "schinese_name": "怪奇地牢探险 勇士",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 18:16:33",
+    "change_number": 29584896,
+    "depot": {
+        "2569481": {
+            "manifests": {
+                "public": {
+                    "gid": "2103646130042696157",
+                    "size": "541563674",
+                    "download": "182618896"
+                }
+            },
+            "decryptionkey": "b4555e4d8160f4120241d396c2fe1f3a278f6e939aa2976d26728821fc01be18"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14530442",
+                "timeupdated": "1716972510"
+            }
+        }
+    }
+}
