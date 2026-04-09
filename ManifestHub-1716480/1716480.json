@@ -1,0 +1,44 @@
+{
+    "appid": 1716480,
+    "name": "Tied by your Red",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 01:10:38",
+    "change_number": 29914651,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "1716481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9199641192304368675",
+                    "size": "649764772",
+                    "download": "153057072"
+                }
+            },
+            "decryptionkey": "9eebbbc4bd3ed60fe303ec8128d09ccf55cb68dbc51cb35b58206109a9e5d1d8"
+        },
+        "1716482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "441215470925809056",
+                    "size": "631707379",
+                    "download": "145601616"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19013874",
+                "timeupdated": "1750953997"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
