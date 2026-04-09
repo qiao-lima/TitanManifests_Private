@@ -1,0 +1,42 @@
+{
+    "appid": "556120",
+    "type": "Game",
+    "name": "Reptilians Must Die!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22401457",
+    "update_time": "2024-08-14 19:17:40",
+    "depot": {
+        "baselanguages": "english,russian",
+        "556121": {
+            "manifests": {
+                "public": {
+                    "gid": "3046660592313297681",
+                    "size": "110533130",
+                    "download": "63773200"
+                }
+            },
+            "decryptionkey": "9884839d7f1d1ea5825806a97a951d4d32f4f31707b38a570402292c81b49cde"
+        },
+        "556122": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6373559033356950615",
+                    "size": "110820943",
+                    "download": "64068192"
+                }
+            },
+            "decryptionkey": "dc5090e33078bd76ecd2de8fd4d534008b52b126289f1d35298e71f43fcafa53"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1587155",
+                "timeupdated": "1485244149"
+            }
+        }
+    },
+    "access_token": 12373770610995766878
+}
