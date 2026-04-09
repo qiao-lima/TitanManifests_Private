@@ -1,0 +1,29 @@
+{
+    "appid": "2321930",
+    "type": "DLC",
+    "name": "Terra Nil Digital Artbook",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 21:08:32",
+    "depot": {
+        "2321930": {
+            "manifests": {
+                "public": {
+                    "gid": "4914755245632957518",
+                    "size": "14912676",
+                    "download": "13396192"
+                }
+            },
+            "dlcappid": "2321930",
+            "decryptionkey": "02757f56a474735a503289ae2b52ffb6aeda1c41eb2eec9b5e04bd596eca88d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10813024",
+                "timeupdated": "1679333882"
+            }
+        }
+    },
+    "access_token": 11175953412085981858
+}
