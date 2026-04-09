@@ -1,0 +1,27 @@
+{
+    "appid": 2610200,
+    "name": "Hidden City Top-Down 3D",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-26 16:17:36",
+    "change_number": 29187037,
+    "depot": {
+        "2610201": {
+            "manifests": {
+                "public": {
+                    "gid": "7802025591825207148",
+                    "size": "530296725",
+                    "download": "83910512"
+                }
+            },
+            "decryptionkey": "3ee24a5c208ba603c35d496449adc789630a16e8bf843da430a9836feae684cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12330404",
+                "timeupdated": "1696316922"
+            }
+        }
+    }
+}
