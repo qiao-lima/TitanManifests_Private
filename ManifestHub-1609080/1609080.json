@@ -1,0 +1,45 @@
+{
+    "appid": 1609080,
+    "name": "Summer of '58",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 10:44:12",
+    "change_number": 29808801,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1609081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1056020153277943653",
+                    "size": "7597264116",
+                    "download": "7433893408"
+                }
+            },
+            "decryptionkey": "39dd98df1ed684811bc0483ce6a7b480650d5a95c554c2a3dda45d96440667e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19041642",
+                "timeupdated": "1751190246"
+            }
+        }
+    }
+}
