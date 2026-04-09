@@ -1,0 +1,49 @@
+{
+    "appid": "1436120",
+    "type": "Tool",
+    "name": "Football Manager 2021 Editor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26928210",
+    "update_time": "2025-01-10 02:02:26",
+    "depot": {
+        "1436121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3686650675021228239",
+                    "size": "57238656",
+                    "download": "18539776"
+                }
+            },
+            "decryptionkey": "9e683e7c614aede49c33ec583004dc7f0c580b2890ab26fa8820b99b7b337f8b"
+        },
+        "1436122": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8420580506138437312",
+                    "size": "64158441",
+                    "download": "17256592"
+                }
+            },
+            "decryptionkey": "60cb7ca21e88f4a5623e6934c771f25158734fbdc0af50ec6c58bddf89993a4d"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,portuguese,polish,danish,dutch,norwegian,swedish,turkish,greek",
+        "branches": {
+            "public": {
+                "buildid": "6318461",
+                "timeupdated": "1615844669"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 12339253350457964774
+}
