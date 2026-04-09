@@ -1,0 +1,57 @@
+{
+    "appid": 721390,
+    "name": "Pipe Push Paradise",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 23:23:21",
+    "change_number": 29436651,
+    "depot": {
+        "721391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3488602013427543431",
+                    "size": "174804838",
+                    "download": "64689952"
+                }
+            },
+            "decryptionkey": "491181c969878acfc618349ca073048c9be7ce75ec47b9a88a58dc72c66cdc07"
+        },
+        "721392": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "109548036464344072",
+                    "size": "172346641",
+                    "download": "64682544"
+                }
+            },
+            "decryptionkey": "23604d0123dc550c84149a9c487db82864d241b9cc518fec67095144b0a14936"
+        },
+        "721393": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7617244024020800321",
+                    "size": "175406912",
+                    "download": "66813376"
+                }
+            },
+            "decryptionkey": "02f74ad68ff196cd303e7f9bbf08629a1cb22c4d1853388cbf99f25d8dc736b9"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "4481387",
+                "timeupdated": "1576065584"
+            }
+        }
+    }
+}
