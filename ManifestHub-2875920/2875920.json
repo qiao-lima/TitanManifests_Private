@@ -1,0 +1,28 @@
+{
+    "appid": "2875920",
+    "type": "Game",
+    "name": "Twizzle Puzzle: Monkeys",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28634406",
+    "update_time": "2025-04-24 09:46:14",
+    "depot": {
+        "2875921": {
+            "manifests": {
+                "public": {
+                    "gid": "6152528063275170501",
+                    "size": "764738080",
+                    "download": "764385584"
+                }
+            },
+            "decryptionkey": "416b7f213a1748a6803a07ad46aebed30c047ba0e5cefa910385d29253af4a24"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "13784944",
+                "timeupdated": "1710848038"
+            }
+        }
+    }
+}
