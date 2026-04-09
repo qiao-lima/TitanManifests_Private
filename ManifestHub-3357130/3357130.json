@@ -1,0 +1,29 @@
+{
+    "appid": 3357130,
+    "name": "Figure Skating Legends",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 16:09:03",
+    "change_number": 29844882,
+    "depot": {
+        "3357131": {
+            "manifests": {
+                "public": {
+                    "gid": "5660692555996906651",
+                    "size": "427597821",
+                    "download": "235635232"
+                }
+            },
+            "decryptionkey": "d71e71173fe98c896b91995c6d8965d9b6370f71471bd9af83f404aabe2123e6"
+        },
+        "workshopdepot": "3357130",
+        "branches": {
+            "public": {
+                "buildid": "19066928",
+                "timeupdated": "1751382538"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
