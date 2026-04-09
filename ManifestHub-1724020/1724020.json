@@ -1,0 +1,28 @@
+{
+    "appid": 1724020,
+    "name": "Space Tower Defense",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 13:11:13",
+    "change_number": 29910086,
+    "depot": {
+        "1724021": {
+            "manifests": {
+                "public": {
+                    "gid": "2922251809700886789",
+                    "size": "111094290",
+                    "download": "27139424"
+                }
+            },
+            "decryptionkey": "90ac1826bc71c2faffc7b02dfec77363e21e88346118c2b766998a49b952908b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7173416",
+                "timeupdated": "1628692072"
+            }
+        }
+    },
+    "access_token": 8124003306043485989
+}
