@@ -1,0 +1,27 @@
+{
+    "appid": 3500800,
+    "name": "DreadOut: Remastered Collection",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 09:16:46",
+    "change_number": 29874897,
+    "depot": {
+        "3500801": {
+            "manifests": {
+                "public": {
+                    "gid": "6248581734196827904",
+                    "size": "4670719102",
+                    "download": "3915992064"
+                }
+            },
+            "decryptionkey": "84427016d595a3eaccd571395eac13b30c8cd78357c39d27e3f8937df9756e1b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17674328",
+                "timeupdated": "1741700553"
+            }
+        }
+    }
+}
