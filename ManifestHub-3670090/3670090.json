@@ -1,0 +1,27 @@
+{
+    "appid": 3670090,
+    "name": "BOKURA: planet Original Soundtrack",
+    "type": "Music",
+    "schinese_name": "不同的星球 Original Soundtrack",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 06:30:34",
+    "change_number": 29222913,
+    "depot": {
+        "3670092": {
+            "manifests": {
+                "public": {
+                    "gid": "5075104157912107755",
+                    "size": "170494796",
+                    "download": "155853552"
+                }
+            },
+            "decryptionkey": "b6f2a3af30655cada76cf1ef59356b8b0afb365fa08b464e75f2536652c09598"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18568625",
+                "timeupdated": "1747966675"
+            }
+        }
+    }
+}
