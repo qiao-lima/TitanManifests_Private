@@ -1,0 +1,40 @@
+{
+    "appid": 2438990,
+    "name": "Ark Nova",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 11:08:02",
+    "change_number": 30203914,
+    "depot": {
+        "2438991": {
+            "manifests": {
+                "public": {
+                    "gid": "53878042931618682",
+                    "size": "807085897",
+                    "download": "356884624"
+                }
+            },
+            "decryptionkey": "0121c6ac9603a1d3570b8736085b758e5c13b06aca26ce3a35148fd47e75a4fa"
+        },
+        "2438992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5479671621338008120",
+                    "size": "808456639",
+                    "download": "354762720"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19166888",
+                "timeupdated": "1752162472"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
