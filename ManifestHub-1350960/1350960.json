@@ -1,0 +1,32 @@
+{
+    "appid": 1350960,
+    "name": "RPG Maker MZ - DS Resource Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:47:53",
+    "change_number": 26201212,
+    "depot": {
+        "1350960": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1010215578845998169",
+                    "size": "1643046794",
+                    "download": "1448490608"
+                }
+            },
+            "dlcappid": "1350960",
+            "decryptionkey": "145dccfe60738fa308707f827e19c7b37cf1fc34197894f61180a1e5fd88ada0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11194144",
+                "timeupdated": "1683681423"
+            }
+        }
+    },
+    "access_token": 9803353038589610708
+}
