@@ -1,0 +1,42 @@
+{
+    "appid": 3518780,
+    "name": "(The Lingering) Last Customer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 10:12:00",
+    "change_number": 29909106,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3518781": {
+            "manifests": {
+                "public": {
+                    "gid": "1951240709825502958",
+                    "size": "869547619",
+                    "download": "555723664"
+                }
+            },
+            "decryptionkey": "32b0e209849bdbc4408db0eb14c10267aab7f501f321c4f43d8ad4de089a111a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17835103",
+                "timeupdated": "1742816913"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
