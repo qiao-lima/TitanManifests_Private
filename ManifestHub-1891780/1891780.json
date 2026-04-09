@@ -1,0 +1,79 @@
+{
+    "appid": 1891780,
+    "name": "Liftoff - DJI FPV",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-25 22:43:01",
+    "change_number": 29750410,
+    "depot": {
+        "1891781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "211671795047252898",
+                    "size": "114465698",
+                    "download": "100938688"
+                },
+                "liftoff_1.4.10": {
+                    "gid": "8840609003171061949",
+                    "size": "114290064",
+                    "download": "100842736"
+                }
+            },
+            "dlcappid": "1891780",
+            "decryptionkey": "5cc09b86101e35be38bf44688d9f8177b46c4e6442cabf108b0d90c8d91af08e"
+        },
+        "1891782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5273240023918401633",
+                    "size": "114465362",
+                    "download": "100938832"
+                },
+                "liftoff_1.4.10": {
+                    "gid": "7520223570773470912",
+                    "size": "114289941",
+                    "download": "100842176"
+                }
+            },
+            "dlcappid": "1891780"
+        },
+        "1891783": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1101363943980475756",
+                    "size": "114465537",
+                    "download": "100938672"
+                },
+                "liftoff_1.4.10": {
+                    "gid": "5732234319965294734",
+                    "size": "114290006",
+                    "download": "100842144"
+                }
+            },
+            "dlcappid": "1891780"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19001612",
+                "timeupdated": "1750887775"
+            },
+            "liftoff_1.4.10": {
+                "buildid": "9940167",
+                "description": "Liftoff Legacy v1.4",
+                "timeupdated": "1674033855"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
