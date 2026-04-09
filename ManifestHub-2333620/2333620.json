@@ -1,0 +1,28 @@
+{
+    "appid": 2333620,
+    "name": "RPG Maker MZ - Fantasy Character Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:50:04",
+    "change_number": 26201212,
+    "depot": {
+        "2333620": {
+            "manifests": {
+                "public": {
+                    "gid": "7745556826433744759",
+                    "size": "260642283",
+                    "download": "260841824"
+                }
+            },
+            "dlcappid": "2333620",
+            "decryptionkey": "96f76cef76d32c7fb83d1ed67beafd6c6bae4c47a0cc2001794c99c4b4d4ef4f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10779138",
+                "timeupdated": "1678915833"
+            }
+        }
+    }
+}
