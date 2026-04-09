@@ -1,0 +1,45 @@
+{
+    "appid": 3007250,
+    "name": "Stonemachia Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 15:50:00",
+    "change_number": 30168834,
+    "depot": {
+        "baselanguages": "english,italian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3007251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8572674147333515909",
+                    "size": "7631998899",
+                    "download": "7440812736"
+                }
+            },
+            "decryptionkey": "b48e3fcc549af3b3bfe96331f64ee617660e5f76ae92d8784eb0e8ce5fdc8e81"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19293616",
+                "timeupdated": "1753047740"
+            }
+        }
+    }
+}
