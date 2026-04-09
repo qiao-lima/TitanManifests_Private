@@ -1,0 +1,27 @@
+{
+    "appid": 3199160,
+    "name": "Ale & Tale Tavern Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 07:20:07",
+    "change_number": 29617529,
+    "depot": {
+        "3199161": {
+            "manifests": {
+                "public": {
+                    "gid": "3845559973368082688",
+                    "size": "114991259",
+                    "download": "112841776"
+                }
+            },
+            "decryptionkey": "cb200c9ba4554aab90f1ff79ca6c09cb55671625aa4b8ec86ae39ebd5f73e11a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18844131",
+                "timeupdated": "1749748835"
+            }
+        }
+    }
+}
