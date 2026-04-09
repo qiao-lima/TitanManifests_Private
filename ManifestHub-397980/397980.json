@@ -1,0 +1,27 @@
+{
+    "appid": 397980,
+    "name": "Invasion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 22:51:30",
+    "change_number": 30149907,
+    "depot": {
+        "397981": {
+            "manifests": {
+                "public": {
+                    "gid": "6131442625173713980",
+                    "size": "156863238",
+                    "download": "139077152"
+                }
+            },
+            "decryptionkey": "de55260647e8d77482f57e02c1452730af5b052b4765d3194f90992255d7eef8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "775628"
+            }
+        }
+    },
+    "access_token": 755309832438497020
+}
