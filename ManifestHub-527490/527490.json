@@ -1,0 +1,28 @@
+{
+    "appid": "527490",
+    "type": "Game",
+    "name": "EM: Shader Attack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22791005",
+    "update_time": "2024-08-14 19:14:48",
+    "depot": {
+        "527491": {
+            "manifests": {
+                "public": {
+                    "gid": "7848903716194509027",
+                    "size": "31134749",
+                    "download": "22421216"
+                }
+            },
+            "decryptionkey": "02184fbd7e451ba6964c7eed37ae8a484a7970bf792a64e7ae834923eac63675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1353558",
+                "timeupdated": "1474644072"
+            }
+        }
+    },
+    "access_token": 6909719634160229898
+}
