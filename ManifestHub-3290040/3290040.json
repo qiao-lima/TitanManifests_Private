@@ -1,0 +1,33 @@
+{
+    "appid": 3290040,
+    "name": "魔剑镇魂曲 英雄之泪",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:14:47",
+    "change_number": 30203036,
+    "depot": {
+        "baselanguages": "english",
+        "3290041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4909519476083224991",
+                    "size": "415565988",
+                    "download": "281565456"
+                }
+            },
+            "decryptionkey": "8b2e34a9eb9a538c920d12e08f58f370a647b3a18e74c189de077f72de3ab4da"
+        },
+        "workshopdepot": "3290040",
+        "branches": {
+            "public": {
+                "buildid": "19204945",
+                "timeupdated": "1752376255"
+            }
+        },
+        "workshopdepotdecryptionkey": "006955a954e5dd2066a1459bd00bee9e212837a4ace7cb1702e3aa540c19eecc"
+    }
+}
