@@ -1,0 +1,28 @@
+{
+    "appid": 3172770,
+    "name": "Terrorbytes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 19:12:21",
+    "change_number": 29920530,
+    "depot": {
+        "3172771": {
+            "manifests": {
+                "public": {
+                    "gid": "931137598728926443",
+                    "size": "3156015723",
+                    "download": "1149718304"
+                }
+            },
+            "decryptionkey": "f9d73ff2a218f27f1b6316d4de06be8d4ab5354d77e8026b5f05b350a0d25c5f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17554691",
+                "timeupdated": "1740790748"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
