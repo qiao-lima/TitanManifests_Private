@@ -1,0 +1,219 @@
+{
+    "appid": 307900,
+    "name": "Wildlife Park 2 - Marine World",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 21:51:18",
+    "change_number": 30157822,
+    "depot": {
+        "baselanguages": "english,german",
+        "307901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8352836309749847639",
+                    "size": "230093612",
+                    "download": "87158560"
+                },
+                "beta": {
+                    "gid": "5096809493720752463",
+                    "size": "223926908",
+                    "download": "86920384"
+                }
+            },
+            "decryptionkey": "48dd5056e98679c1e4a09ad688b608290d9c62f95e27e8f57e4a8a553a2aea00"
+        },
+        "307902": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1613321078026432363",
+                    "size": "29515087",
+                    "download": "25453984"
+                },
+                "beta": {
+                    "gid": "1613321078026432363",
+                    "size": "29515087",
+                    "download": "25453984"
+                }
+            },
+            "decryptionkey": "d4f6867e27154c59df5ffc4655fc9e176cc0bfeceafd840d5b09454a0545fceb"
+        },
+        "307903": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8919360712813294521",
+                    "size": "34365350",
+                    "download": "30481904"
+                },
+                "beta": {
+                    "gid": "8919360712813294521",
+                    "size": "34365350",
+                    "download": "30481904"
+                }
+            },
+            "decryptionkey": "ad5bb68c9d51107fabef1285c7a2a8cdf9f6844d44e9b9a54ab94df252245769"
+        },
+        "307904": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6905000395313906787",
+                    "size": "29907078",
+                    "download": "25365456"
+                },
+                "beta": {
+                    "gid": "6905000395313906787",
+                    "size": "29907078",
+                    "download": "25365456"
+                }
+            },
+            "decryptionkey": "b39d5a69be6956594d0d8bde935098ac1a4b46da648b791f98b41d6a68f6fa1f"
+        },
+        "307905": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3773720933850640034",
+                    "size": "68591340",
+                    "download": "54058400"
+                },
+                "beta": {
+                    "gid": "3773720933850640034",
+                    "size": "68591340",
+                    "download": "54058400"
+                }
+            },
+            "decryptionkey": "1ea463af6f2686d9e44ae686971bcbea7fb18d5df8375b871930bec6890ddc4e"
+        },
+        "307906": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8394568693021684078",
+                    "size": "24375645",
+                    "download": "21367456"
+                },
+                "beta": {
+                    "gid": "8394568693021684078",
+                    "size": "24375645",
+                    "download": "21367456"
+                }
+            },
+            "decryptionkey": "ae4ed95da333895da68438cc43c0b1ed80a59d337c04612c1539f801e989cd85"
+        },
+        "307907": {
+            "config": {
+                "language": "dutch",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2545858674058823118",
+                    "size": "31353326",
+                    "download": "26241216"
+                },
+                "beta": {
+                    "gid": "2545858674058823118",
+                    "size": "31353326",
+                    "download": "26241216"
+                }
+            },
+            "decryptionkey": "335f18bd6dabbf290d87b9483afea35adb08ada40f37036dd3debcf2a7269929"
+        },
+        "307908": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1986800420486802089",
+                    "size": "31862288",
+                    "download": "28434096"
+                },
+                "beta": {
+                    "gid": "1986800420486802089",
+                    "size": "31862288",
+                    "download": "28434096"
+                }
+            },
+            "decryptionkey": "57dc7a0a4d3f04e2b453bf322746c225ef0056f11ba25208843251d60fe275f6"
+        },
+        "307909": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4511685504998740349",
+                    "size": "724",
+                    "download": "784"
+                },
+                "beta": {
+                    "gid": "4511685504998740349",
+                    "size": "724",
+                    "download": "784"
+                }
+            },
+            "decryptionkey": "1258926ec0f528b414dbda2ec0137db1f1e634f022f099e106cf0ed433602186"
+        },
+        "336960": {
+            "config": {
+                "language": "czech"
+            }
+        },
+        "336961": {
+            "config": {
+                "language": "tchinese"
+            }
+        },
+        "336962": {
+            "config": {
+                "language": "japanese"
+            }
+        },
+        "336963": {
+            "config": {
+                "language": "brazilian"
+            }
+        },
+        "304351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "304350",
+            "sharedinstall": "2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2195871",
+                "timeupdated": "1507893336"
+            },
+            "beta": {
+                "buildid": "1949475",
+                "timeupdated": "1499692914"
+            }
+        }
+    }
+}
