@@ -1,0 +1,42 @@
+{
+    "appid": 1320550,
+    "name": "The Call of Karen",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-18 21:18:06",
+    "change_number": 30138694,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1320551": {
+            "manifests": {
+                "public": {
+                    "gid": "2166880950027214528",
+                    "size": "3490543890",
+                    "download": "957703888"
+                }
+            },
+            "decryptionkey": "3839a3c206763d1c43c9d8c8d56e0501334fbdd6023ff233b139a2f1476c4009"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11670501",
+                "timeupdated": "1689559236"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
