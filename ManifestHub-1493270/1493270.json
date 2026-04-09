@@ -1,0 +1,28 @@
+{
+    "appid": "1493270",
+    "type": "Tool",
+    "name": "Pirates outlaws - modding kit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-09-02 20:24:08",
+    "depot": {
+        "1493271": {
+            "manifests": {
+                "public": {
+                    "gid": "4758097795686343467",
+                    "size": "51774699",
+                    "download": "16063616"
+                }
+            },
+            "decryptionkey": "55d71acdfa995ec7abea04bfa8822cfebf3375aa3f53af3adf66b4a2f5036b14"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6000355",
+                "timeupdated": "1608606084"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
