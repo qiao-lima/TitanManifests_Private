@@ -1,0 +1,43 @@
+{
+    "appid": 3313930,
+    "name": "Galactic Simulator",
+    "type": "Game",
+    "schinese_name": "银河模拟器",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 06:04:03",
+    "change_number": 29962096,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "3313931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6962282110990834877",
+                    "size": "8920511963",
+                    "download": "4376397312"
+                }
+            },
+            "decryptionkey": "077a42431cae38d8a3183231cc33b6a95e9705edaae950d11928baabb6beb0cd"
+        },
+        "3313932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3243587615973092497",
+                    "size": "9071855208",
+                    "download": "4402539936"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19155603",
+                "timeupdated": "1752037439"
+            }
+        }
+    }
+}
