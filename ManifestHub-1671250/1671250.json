@@ -1,0 +1,28 @@
+{
+    "appid": 1671250,
+    "name": "Hentai Girls - Anime Puzzle 18+",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 15:08:54",
+    "change_number": 29788536,
+    "depot": {
+        "1671251": {
+            "manifests": {
+                "public": {
+                    "gid": "5920292058175804942",
+                    "size": "129727051",
+                    "download": "40542704"
+                }
+            },
+            "decryptionkey": "cb526ebcb348b71a353f0f4a824a0ed6ef297e660e62da2d6ca0d94e0b3710be"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "branches": {
+            "public": {
+                "buildid": "19027426",
+                "timeupdated": "1751033327"
+            }
+        }
+    }
+}
