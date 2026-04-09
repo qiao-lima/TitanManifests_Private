@@ -1,0 +1,29 @@
+{
+    "appid": 2308000,
+    "name": "Centipede Gun",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 06:10:36",
+    "change_number": 29891364,
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "2308001": {
+            "manifests": {
+                "public": {
+                    "gid": "804245108298449236",
+                    "size": "60232115",
+                    "download": "43125504"
+                }
+            },
+            "decryptionkey": "2f85d5c398fc02bec7a680ccdd540221cb8c0ef0111359641e9fc8c1d1c20ce2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18065241",
+                "timeupdated": "1744337711"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
