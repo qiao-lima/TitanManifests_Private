@@ -1,0 +1,64 @@
+{
+    "appid": 1157700,
+    "name": "Pro Wrestling Sim",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 21:15:40",
+    "change_number": 30096991,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "1157700",
+        "1157702": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8585908147237302241",
+                    "size": "589080638",
+                    "download": "320432960"
+                }
+            },
+            "decryptionkey": "bfff8bd2105e9dd7d3368885e07e0c04e7f54e524811e9c2f9cee3b67c96804f"
+        },
+        "1157703": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1111422724535557180",
+                    "size": "744186110",
+                    "download": "368371472"
+                }
+            }
+        },
+        "1157704": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4296001120879363824",
+                    "size": "589488547",
+                    "download": "316302640"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19029004",
+                "timeupdated": "1751042422"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d0dd13fdd7fe4100172e41df8df3adb5cbaf6f8524059749c98ff069f9dac54b"
+    }
+}
