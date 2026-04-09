@@ -1,0 +1,28 @@
+{
+    "appid": 1754688,
+    "name": "Atelier Sophie 2 - Plachta's Costume \"Haute Couture\"",
+    "type": "DLC",
+    "schinese_name": "苏菲的炼金工房２ - 普拉芙妲专用服装“一流订制服”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:31:19",
+    "change_number": 26201212,
+    "depot": {
+        "1754688": {
+            "manifests": {
+                "public": {
+                    "gid": "5712629861566771067",
+                    "size": "16662369",
+                    "download": "5108400"
+                }
+            },
+            "dlcappid": "1754688",
+            "decryptionkey": "3e88a9d47ab78f7bcdbeccd14956e5d593fa48195b16cfeff5ab3dbfe31531a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8072100",
+                "timeupdated": "1642991164"
+            }
+        }
+    }
+}
