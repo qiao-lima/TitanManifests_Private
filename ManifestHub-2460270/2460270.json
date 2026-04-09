@@ -1,0 +1,28 @@
+{
+    "appid": 2460270,
+    "name": "戲假成真",
+    "type": "Game",
+    "schinese_name": "戏假成真",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 18:13:58",
+    "change_number": 29920175,
+    "depot": {
+        "2460271": {
+            "manifests": {
+                "public": {
+                    "gid": "4920560050343733593",
+                    "size": "572698296",
+                    "download": "406170304"
+                }
+            },
+            "decryptionkey": "8ca7734f8263bc017538cc2462011026a02e37c4eefdded213834f0efd035528"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "19124136",
+                "timeupdated": "1751822033"
+            }
+        }
+    }
+}
