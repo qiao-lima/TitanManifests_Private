@@ -1,0 +1,42 @@
+{
+    "appid": 2295920,
+    "name": "Ship Graveyard Simulator 2: Prologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-14 22:32:34",
+    "change_number": 30056757,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2295921": {
+            "manifests": {
+                "public": {
+                    "gid": "3743312579825488513",
+                    "size": "8534657347",
+                    "download": "8341340400"
+                }
+            },
+            "decryptionkey": "f3f7cfc31f45fad416301b11a3eb84cf994c718ef861b99cd61a6bc8e09bba46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11845648",
+                "timeupdated": "1690973504"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
