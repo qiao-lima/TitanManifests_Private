@@ -1,0 +1,28 @@
+{
+    "appid": "586400",
+    "type": "Game",
+    "name": "MontaSayer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23123088",
+    "update_time": "2024-08-14 19:21:24",
+    "depot": {
+        "586401": {
+            "manifests": {
+                "public": {
+                    "gid": "4706998381113743137",
+                    "size": "110344547",
+                    "download": "39400336"
+                }
+            },
+            "decryptionkey": "ccf17e59ded4b956ab96a86996de6ec6a445a17658d4a158ae94af585911668e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1601300",
+                "timeupdated": "1485878294"
+            }
+        }
+    },
+    "access_token": 9547938026091874208
+}
