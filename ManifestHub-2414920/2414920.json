@@ -1,0 +1,27 @@
+{
+    "appid": 2414920,
+    "name": "No zombie land: Lucy",
+    "type": "Game",
+    "schinese_name": "僵尸禁地:露西",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 14:35:43",
+    "change_number": 29989110,
+    "depot": {
+        "2414921": {
+            "manifests": {
+                "public": {
+                    "gid": "5332594122804028274",
+                    "size": "1251886641",
+                    "download": "466094656"
+                }
+            },
+            "decryptionkey": "d262f02550f804326a4c8019bf322eed081482b5c1157fe7df86911bf789a389"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11262191",
+                "timeupdated": "1684408135"
+            }
+        }
+    }
+}
