@@ -1,0 +1,28 @@
+{
+    "appid": 2811360,
+    "name": "Hack.ing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:57:18",
+    "change_number": 29684150,
+    "depot": {
+        "baselanguages": "english,koreana",
+        "2811361": {
+            "manifests": {
+                "public": {
+                    "gid": "5441171380202364641",
+                    "size": "79684658",
+                    "download": "25609472"
+                }
+            },
+            "decryptionkey": "a6429aadf66d6302bdfb27729e34893aea697957e0c51864d2ed2b600c404db8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14413032",
+                "timeupdated": "1716029159"
+            }
+        }
+    }
+}
