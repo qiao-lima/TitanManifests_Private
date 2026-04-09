@@ -1,0 +1,27 @@
+{
+    "appid": 2078010,
+    "name": "Legends of Immortality",
+    "type": "Game",
+    "schinese_name": "云梦奇谭",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 12:01:46",
+    "change_number": 29986506,
+    "depot": {
+        "2078011": {
+            "manifests": {
+                "public": {
+                    "gid": "3091207366505067554",
+                    "size": "5242767802",
+                    "download": "764660304"
+                }
+            },
+            "decryptionkey": "c44034b75d0239e305b6ddb8bf80ddd4cf25adb6df44333088a6a559c40b68a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17994875",
+                "timeupdated": "1743845166"
+            }
+        }
+    }
+}
