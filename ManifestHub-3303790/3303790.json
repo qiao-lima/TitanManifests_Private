@@ -1,0 +1,27 @@
+{
+    "appid": 3303790,
+    "name": "Death Delivery",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 14:53:26",
+    "change_number": 29443265,
+    "depot": {
+        "3303791": {
+            "manifests": {
+                "public": {
+                    "gid": "2518504425353183368",
+                    "size": "1163441437",
+                    "download": "399240384"
+                }
+            },
+            "decryptionkey": "0bb27ccec2a4c69e09bb9475996623e17ee0910d20a44802bcb63df8785d2ff4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18614698",
+                "timeupdated": "1748288738"
+            }
+        }
+    }
+}
