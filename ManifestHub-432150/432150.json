@@ -1,0 +1,31 @@
+{
+    "appid": "432150",
+    "type": "Game",
+    "name": "They Came From The Moon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:04:35",
+    "depot": {
+        "432151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "990956633369452204",
+                    "size": "79439928",
+                    "download": "26318608"
+                }
+            },
+            "decryptionkey": "975dae250b901b3c41bf73fd0e6fcfc68dccab93e90f2907094551cd041971aa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1536506",
+                "timeupdated": "1482419334"
+            }
+        }
+    },
+    "access_token": 11273626069248444901
+}
