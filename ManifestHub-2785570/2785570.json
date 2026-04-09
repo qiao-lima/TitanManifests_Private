@@ -1,0 +1,27 @@
+{
+    "appid": 2785570,
+    "name": "Arrogue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 19:13:19",
+    "change_number": 29902628,
+    "depot": {
+        "2785571": {
+            "manifests": {
+                "public": {
+                    "gid": "2430702828287018849",
+                    "size": "228837595",
+                    "download": "49863712"
+                }
+            },
+            "decryptionkey": "b40734ca90a8f782a6a5e2cc532af3740f6e2880f4b31612599b63c00c61d447"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18715252",
+                "timeupdated": "1748950299"
+            }
+        }
+    }
+}
