@@ -1,0 +1,75 @@
+{
+    "appid": 2154720,
+    "name": "nofio wireless adapter for Valve Index",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 21:12:38",
+    "change_number": 30214042,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2154721": {
+            "manifests": {
+                "public": {
+                    "gid": "3530708483703933453",
+                    "size": "54589650",
+                    "download": "14855040"
+                },
+                "nofio-beta-release": {
+                    "gid": "3530708483703933453",
+                    "size": "54589650",
+                    "download": "14855040"
+                }
+            },
+            "decryptionkey": "68e55c1e985612de9cb3a1771ab8ff8b7fdf2ca8d100dc8ef87c812480f7200b"
+        },
+        "2154722": {
+            "manifests": {
+                "public": {
+                    "gid": "5423767754768643872",
+                    "size": "100506233",
+                    "download": "101861136"
+                },
+                "nofio-beta-release": {
+                    "gid": "5423767754768643872",
+                    "size": "100506233",
+                    "download": "101861136"
+                }
+            },
+            "decryptionkey": "c11268c374953bbc4ebd10af8d58eb8a0310ca46a479d02bbfa4be7a4f4a9383"
+        },
+        "2154723": {
+            "manifests": {
+                "public": {
+                    "gid": "118901382405676328",
+                    "size": "271452814",
+                    "download": "234566512"
+                },
+                "nofio-beta-release": {
+                    "gid": "118901382405676328",
+                    "size": "271452814",
+                    "download": "234566512"
+                }
+            },
+            "decryptionkey": "b709f60c7b772bdbada2ffb4d8593d048576c2031fcd04895a9c65431cb5c504"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18543427",
+                "timeupdated": "1747801872"
+            },
+            "nofio-beta-release": {
+                "buildid": "18543427",
+                "description": "v2.5.0-beta",
+                "timeupdated": "1747801793"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
