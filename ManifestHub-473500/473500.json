@@ -1,0 +1,29 @@
+{
+    "appid": "473500",
+    "type": "Game",
+    "name": "Vianiato PopOut",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:10:24",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "473501": {
+            "manifests": {
+                "public": {
+                    "gid": "4723528158070312496",
+                    "size": "87424627",
+                    "download": "72151200"
+                }
+            },
+            "decryptionkey": "fbacf425d2a26ec49cf6ec9ae61b9ace8c58df79a440594bf7428f3f9dec7537"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2140522",
+                "timeupdated": "1506100838"
+            }
+        }
+    },
+    "access_token": 11529363693518011745
+}
