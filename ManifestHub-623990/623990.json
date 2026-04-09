@@ -1,0 +1,81 @@
+{
+    "appid": 623990,
+    "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:21:18",
+    "change_number": 29718826,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "623991": {
+            "manifests": {
+                "public": {
+                    "gid": "5235883268902565724",
+                    "size": "59602787879",
+                    "download": "57585349488"
+                }
+            },
+            "decryptionkey": "c9290ef0e824c6840c23c93f292ae77dff8ddb55d768609a9a5bddb38f99ab22"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18642156",
+                "timeupdated": "1748453621"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
