@@ -1,0 +1,39 @@
+{
+    "appid": "770440",
+    "type": "Game",
+    "name": "Hangover",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24546530",
+    "update_time": "2024-08-28 12:01:11",
+    "depot": {
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "770441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8748701237701515496",
+                    "size": "10046290",
+                    "download": "9010288"
+                }
+            },
+            "decryptionkey": "b4f314a0f6a0c1593b0842b85c141b34fed2da959b5e3a676ed2329a8de04f2f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2423692",
+                "timeupdated": "1515516789"
+            }
+        }
+    },
+    "access_token": 15466768839502939251
+}
