@@ -1,0 +1,43 @@
+{
+    "appid": 3155230,
+    "name": "Card-en-Ciel Demo",
+    "type": "Demo",
+    "schinese_name": "Card-en-Ciel 天穹卡牌录 体验版",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 15:58:56",
+    "change_number": 29481341,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3155231": {
+            "manifests": {
+                "public": {
+                    "gid": "6877573807078184062",
+                    "size": "3567615666",
+                    "download": "3535333888"
+                }
+            },
+            "decryptionkey": "a8ac8098439d2212097ddd682c7f52b045d378389956d92d75238adc8c2ab482"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18728384",
+                "timeupdated": "1749542329"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
