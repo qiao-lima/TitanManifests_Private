@@ -1,0 +1,32 @@
+{
+    "appid": 3486240,
+    "name": "最后的修仙者",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 08:33:48",
+    "change_number": 29407524,
+    "depot": {
+        "baselanguages": "schinese",
+        "3486241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "513114566098039338",
+                    "size": "602854808",
+                    "download": "540957696"
+                }
+            },
+            "decryptionkey": "a164389c120eaec1ad988654e1865803b19b5e9c7b746a3abe9b4cedf6bbb143"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18758907",
+                "timeupdated": "1749170022"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
