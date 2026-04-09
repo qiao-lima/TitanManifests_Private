@@ -1,0 +1,27 @@
+{
+    "appid": 2404000,
+    "name": "Benefitship",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 18:58:53",
+    "change_number": 29827722,
+    "depot": {
+        "2404001": {
+            "manifests": {
+                "public": {
+                    "gid": "6201674789656802086",
+                    "size": "418128915",
+                    "download": "280883024"
+                }
+            },
+            "decryptionkey": "c00beb08ff963a7779f6950c15aa83cac4cd7c0899c6f1e07c8d98126d0ccb96"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19054477",
+                "timeupdated": "1751306327"
+            }
+        }
+    }
+}
