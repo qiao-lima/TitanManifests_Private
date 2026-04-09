@@ -1,0 +1,28 @@
+{
+    "appid": 3122100,
+    "name": "The Ritual",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 06:56:39",
+    "change_number": 29597155,
+    "depot": {
+        "3122101": {
+            "manifests": {
+                "public": {
+                    "gid": "3277109749048108563",
+                    "size": "517086509",
+                    "download": "397589360"
+                }
+            },
+            "decryptionkey": "48aa0b3cbc4fa513afb87bd9e9fe51f2e4208ebffe17826e659510d3c86a5586"
+        },
+        "baselanguages": "english,german,french,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "15283973",
+                "timeupdated": "1722993188"
+            }
+        }
+    }
+}
