@@ -1,0 +1,28 @@
+{
+    "appid": 2379810,
+    "name": "Bazaar Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 23:25:53",
+    "change_number": 30119994,
+    "depot": {
+        "2379811": {
+            "manifests": {
+                "public": {
+                    "gid": "5778668388753530053",
+                    "size": "2933157723",
+                    "download": "2531717456"
+                }
+            },
+            "decryptionkey": "8b3829069e1a0335e4a92aa833941379bc14c51dc6c3973542abfc6e502f20f5"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19264553",
+                "timeupdated": "1752791146"
+            }
+        }
+    }
+}
