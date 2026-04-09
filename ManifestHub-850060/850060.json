@@ -1,0 +1,41 @@
+{
+    "appid": 850060,
+    "name": "Anima Gate of Memories: The Nameless Chronicles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:49:13",
+    "change_number": 29352736,
+    "depot": {
+        "850061": {
+            "manifests": {
+                "public": {
+                    "gid": "9125494049515210333",
+                    "size": "7418474852",
+                    "download": "3809654976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "850062": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "943570345215765594",
+                    "size": "7423262564",
+                    "download": "3810199184"
+                }
+            },
+            "decryptionkey": "9e7bd81ee8c17085c2ccb5d38ee6ebe492545d64094fc9f8dcfc2bd9e4ef97f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18720865",
+                "timeupdated": "1748968210"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
