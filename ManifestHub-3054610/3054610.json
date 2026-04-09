@@ -1,0 +1,93 @@
+{
+    "appid": 3054610,
+    "name": "Artifact Seeker: Resurrection",
+    "type": "Game",
+    "schinese_name": "神器行者: 重生",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 14:12:49",
+    "change_number": 30035688,
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian,latam",
+        "3054611": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8322667517878575224",
+                    "size": "1402311298",
+                    "download": "1192321072"
+                }
+            },
+            "decryptionkey": "aa38570149979e30a8b798b4f967470137f962bb9a79df62d73faf1835612b36"
+        },
+        "3065220": {
+            "dlcappid": "3065220",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1285225276501497747",
+                    "size": "188",
+                    "download": "208"
+                }
+            },
+            "decryptionkey": "b731a39d7a24904946141ef151c14b75765b8103387e51a40c7dcacc03fe7084"
+        },
+        "3054612": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8352119151539530700",
+                    "size": "1122648955",
+                    "download": "918083520"
+                }
+            }
+        },
+        "3229410": {
+            "dlcappid": "3229410",
+            "manifests": {
+                "public": {
+                    "gid": "6515440893715105439",
+                    "size": "7",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "6842450c88f588ecb798de89480059331221e6de7f2c077050bff27fc332a562"
+        },
+        "3518900": {
+            "dlcappid": "3518900",
+            "manifests": {
+                "public": {
+                    "gid": "878717891148742685",
+                    "size": "23",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "e08c9bbc0e974916bb27cdf56513e2631392ac93bdd01dfa8e9a1816ddc1f5ca"
+        },
+        "3534930": {
+            "dlcappid": "3534930",
+            "manifests": {
+                "public": {
+                    "gid": "2797154343053210534",
+                    "size": "7",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "76f5ead12e67c137a717d59f3fa02d66cb8150b4d69eaa244fcf30526a0585bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18667840",
+                "timeupdated": "1748572990"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
