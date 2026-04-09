@@ -1,0 +1,37 @@
+{
+    "appid": 1771700,
+    "name": "Vaygren - Lustful Temptation",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 05:17:28",
+    "change_number": 29171317,
+    "depot": {
+        "1771701": {
+            "manifests": {
+                "public": {
+                    "gid": "2761786966431854929",
+                    "size": "968368587",
+                    "download": "751165568"
+                },
+                "beta": {
+                    "gid": "2761786966431854929",
+                    "size": "968368587",
+                    "download": "751165568"
+                }
+            },
+            "decryptionkey": "59a1fc62e34fe007d5c485f46989980cb731d3f87219d035efe5db869bff31bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18370234",
+                "timeupdated": "1747755711"
+            },
+            "beta": {
+                "buildid": "18370234",
+                "description": "Beta Testing",
+                "timeupdated": "1746602617"
+            }
+        }
+    }
+}
