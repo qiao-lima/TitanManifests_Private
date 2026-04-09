@@ -1,0 +1,28 @@
+{
+    "appid": 2171640,
+    "name": "Code Reactors",
+    "type": "Game",
+    "schinese_name": "Code Reactors: 符文谐鸣士",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 15:32:58",
+    "change_number": 30147058,
+    "depot": {
+        "2171641": {
+            "manifests": {
+                "public": {
+                    "gid": "1069861181025624600",
+                    "size": "1598136687",
+                    "download": "255697936"
+                }
+            },
+            "decryptionkey": "2c2be216977623b52a7175a2655e271bb41214ea52c50084132b506d22dd4830"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19036276",
+                "timeupdated": "1751106603"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
