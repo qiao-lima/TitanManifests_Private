@@ -1,0 +1,42 @@
+{
+    "appid": 2248950,
+    "name": "Trans-Siberian Railway Simulator: Prologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-03 20:56:38",
+    "change_number": 29885392,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2248951": {
+            "manifests": {
+                "public": {
+                    "gid": "3633582860299106575",
+                    "size": "14785765357",
+                    "download": "11864461632"
+                }
+            },
+            "decryptionkey": "c61e8fac795f5cb589da9ebd004f86efd410b2c7fda301ecfbe680ef85b383d0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18962959",
+                "timeupdated": "1750679190"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
