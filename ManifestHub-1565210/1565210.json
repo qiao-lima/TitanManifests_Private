@@ -1,0 +1,33 @@
+{
+    "appid": 1565210,
+    "name": "Buildest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 02:44:55",
+    "change_number": 29534825,
+    "depot": {
+        "1565211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7353218940885002233",
+                    "size": "1897645573",
+                    "download": "380785856"
+                }
+            },
+            "decryptionkey": "2c909c8784c4db987ca527fbdd57db8fc6734ed4fac597c44bdf711cd500a471"
+        },
+        "workshopdepot": "1565210",
+        "branches": {
+            "public": {
+                "buildid": "18844962",
+                "timeupdated": "1749753890"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
