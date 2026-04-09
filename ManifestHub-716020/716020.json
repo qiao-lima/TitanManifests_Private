@@ -1,0 +1,61 @@
+{
+    "appid": "716020",
+    "type": "Tool",
+    "name": "MudRunner - Editor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:38:19",
+    "depot": {
+        "workshopdepot": "716020",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "716021": {
+            "manifests": {
+                "public": {
+                    "gid": "863081069397177483",
+                    "size": "670106628",
+                    "download": "171281712"
+                },
+                "public_beta": {
+                    "gid": "863081069397177483",
+                    "size": "670106628",
+                    "download": "171281712"
+                }
+            },
+            "decryptionkey": "9d3482cb866706b6685e8ccff9b4219249c8e773048def30c71c15faf5984f6e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3700719",
+                "timeupdated": "1554188328"
+            },
+            "public_beta": {
+                "buildid": "3700719",
+                "timeupdated": "1554188320"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "bd432c142e739882e0ea076cd880b35d4c4e4f7989aab90a585b3e8bdeab7184"
+    },
+    "access_token": 1768207165101605383
+}
