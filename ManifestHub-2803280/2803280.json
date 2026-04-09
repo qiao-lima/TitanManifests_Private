@@ -1,0 +1,32 @@
+{
+    "appid": 2803280,
+    "name": "Dragon Is Dead",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 15:51:05",
+    "change_number": 30168851,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese",
+        "2803281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6302414307061024452",
+                    "size": "3111796952",
+                    "download": "406865056"
+                }
+            },
+            "decryptionkey": "12e00b5c6ee0aee39380a7bd4071b2fc5bba906496d7844e0f92918afe895e71"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19245406",
+                "timeupdated": "1752741416"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
