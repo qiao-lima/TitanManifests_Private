@@ -1,0 +1,30 @@
+{
+    "appid": 1517340,
+    "name": "From the darkness",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 17:44:54",
+    "change_number": 29992752,
+    "depot": {
+        "1517341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "892773423946579007",
+                    "size": "1394637095",
+                    "download": "644342528"
+                }
+            },
+            "decryptionkey": "04e006ecc8ca586b0168dff007ea2c719b8b2b4b8a8522640b9af43b2fdc77c4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6494108",
+                "timeupdated": "1617682146"
+            }
+        }
+    }
+}
