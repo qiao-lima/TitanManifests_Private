@@ -1,0 +1,45 @@
+{
+    "appid": 3159800,
+    "name": "DeviDevisurvivor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 09:13:01",
+    "change_number": 30044655,
+    "depot": {
+        "baselanguages": "japanese",
+        "3159801": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "827522870651743941",
+                    "size": "1695661951",
+                    "download": "486086304"
+                }
+            },
+            "decryptionkey": "4431a0a4b1da41035f777bed25b99f8ac7f0f26be25b0e78f4dc6c17991a900b"
+        },
+        "3159802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3959829428315770592",
+                    "size": "910515751",
+                    "download": "295953392"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18818350",
+                "timeupdated": "1749605961"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
