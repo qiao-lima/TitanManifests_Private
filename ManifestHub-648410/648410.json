@@ -1,0 +1,65 @@
+{
+    "appid": 648410,
+    "name": "Colony Ship: A Post-Earth Role Playing Game",
+    "type": "Game",
+    "schinese_name": "殖民船：后地球",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 19:44:51",
+    "change_number": 29865877,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "648411": {
+            "manifests": {
+                "public": {
+                    "gid": "2908717012318376616",
+                    "size": "18631206637",
+                    "download": "7466539456"
+                },
+                "loctest": {
+                    "gid": "306403868229176156",
+                    "size": "18640843609",
+                    "download": "7469473680"
+                },
+                "previous_version": {
+                    "gid": "6042291350697311329",
+                    "size": "18273474332",
+                    "download": "7303194928"
+                },
+                "public_test": {
+                    "gid": "2908717012318376616",
+                    "size": "18631206637",
+                    "download": "7466539456"
+                }
+            },
+            "decryptionkey": "a97d03641af448aa17fbe2613980631ed39b9eb74e746a8bfd164d5c13affbc7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18250912",
+                "timeupdated": "1745766017"
+            },
+            "loctest": {
+                "buildid": "18417631",
+                "description": "Branch containing recent translations for testing.",
+                "timeupdated": "1746929799"
+            },
+            "previous_version": {
+                "buildid": "14899189",
+                "description": "Contains a previous major version of the game you can rollback to, to finish your playthrough with unmodified balance or for other reasons.",
+                "timeupdated": "1731371491"
+            },
+            "public_test": {
+                "buildid": "18250912",
+                "description": "Public testing branch",
+                "timeupdated": "1745731087"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
