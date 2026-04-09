@@ -1,0 +1,27 @@
+{
+    "appid": 354350,
+    "name": "This War of Mine Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 22:29:25",
+    "change_number": 26201212,
+    "depot": {
+        "354350": {
+            "manifests": {
+                "public": {
+                    "gid": "8987303691722477873",
+                    "size": "787364846",
+                    "download": "495277936"
+                }
+            },
+            "decryptionkey": "f9a13515dd2a3f85d0b34e737cf79724289ce9dff89458c7d5456219314bea18"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8703472",
+                "timeupdated": "1652092387"
+            }
+        }
+    }
+}
