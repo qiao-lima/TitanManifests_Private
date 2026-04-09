@@ -1,0 +1,70 @@
+{
+    "appid": 33900,
+    "name": "Arma 2",
+    "type": "Game",
+    "schinese_name": "武装突袭2",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 20:11:48",
+    "change_number": 29235400,
+    "depot": {
+        "overridescddb": "1",
+        "33902": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5881538059138944576",
+                    "size": "11263112",
+                    "download": "0"
+                },
+                "legacy": {
+                    "gid": "5881538059138944576",
+                    "size": "11263112",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d38d4094b44356928935645d092118615ea6bdd2d833474c272cc64cd5a4853e"
+        },
+        "33904": {
+            "manifests": {
+                "public": {
+                    "gid": "9124136800091614874",
+                    "size": "195746622",
+                    "download": "151378352"
+                },
+                "legacy": {
+                    "gid": "9124136800091614874",
+                    "size": "195746622",
+                    "download": "151378352"
+                }
+            },
+            "decryptionkey": "ecdc75cdb4173caa93b8847601363c1ff3a2d65392118acce45aeafe4e45aa61"
+        },
+        "33901": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "357000457446013132",
+                    "size": "8939751577",
+                    "download": "7774199280"
+                },
+                "legacy": {
+                    "gid": "5913138444832713405",
+                    "size": "8939446721",
+                    "download": "7774461936"
+                }
+            },
+            "decryptionkey": "c07cec672c1aa48a1493532ec6a9e04a5f351ce1d1445f8eb98ba8c93ff5fa27"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10795132",
+                "timeupdated": "1679061158"
+            },
+            "legacy": {
+                "buildid": "3009712",
+                "timeupdated": "1573137138"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
