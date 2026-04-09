@@ -1,0 +1,42 @@
+{
+    "appid": 2464610,
+    "name": "Saloon Simulator Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 20:11:31",
+    "change_number": 29995638,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2464611": {
+            "manifests": {
+                "public": {
+                    "gid": "5548460717414871345",
+                    "size": "8193825448",
+                    "download": "7804969520"
+                }
+            },
+            "decryptionkey": "e15c579fedbf9728fbb1dbd437dc9e06f1cc41719dda7a6b4ab27cf95aaba783"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19129616",
+                "timeupdated": "1751881834"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
