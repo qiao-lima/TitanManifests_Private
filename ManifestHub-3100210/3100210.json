@@ -1,0 +1,32 @@
+{
+    "appid": 3100210,
+    "name": "My Sweet! Housemate",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 04:01:26",
+    "change_number": 29980018,
+    "depot": {
+        "baselanguages": "english",
+        "3100211": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4118832632029293667",
+                    "size": "536513058",
+                    "download": "368089344"
+                }
+            },
+            "decryptionkey": "003a89c396001a7a83f5879e0cdd7518cc0930fac17008d802b5a47df45f2a36"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19112475",
+                "timeupdated": "1751658659"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
