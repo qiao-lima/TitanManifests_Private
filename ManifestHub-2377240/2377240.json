@@ -1,0 +1,27 @@
+{
+    "appid": 2377240,
+    "name": "SEX Room 2 [18+]",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 14:52:10",
+    "change_number": 30154818,
+    "depot": {
+        "2377241": {
+            "manifests": {
+                "public": {
+                    "gid": "4265863493358881931",
+                    "size": "449784253",
+                    "download": "260500864"
+                }
+            },
+            "decryptionkey": "bc128c2a7f20a3a162e2c782269a34a6350edf2f71f72ad5a72c13b12ec9d169"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11066708",
+                "timeupdated": "1682163480"
+            }
+        }
+    }
+}
