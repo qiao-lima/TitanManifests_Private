@@ -1,0 +1,32 @@
+{
+    "appid": "578260",
+    "type": "Game",
+    "name": "Fluffy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24342995",
+    "update_time": "2024-08-14 19:20:07",
+    "depot": {
+        "baselanguages": "english",
+        "578261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5051546420529950096",
+                    "size": "302994270",
+                    "download": "80275232"
+                }
+            },
+            "decryptionkey": "1325d3f317f5c80025117b412c2ec226551c0e8282b8a635aaeda1d6c360e8b2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1622877",
+                "timeupdated": "1486736254"
+            }
+        }
+    },
+    "access_token": 16039510222131394900
+}
