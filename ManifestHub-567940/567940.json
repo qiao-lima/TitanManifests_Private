@@ -1,0 +1,28 @@
+{
+    "appid": "567940",
+    "type": "Game",
+    "name": "Piximalism",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-28 11:58:51",
+    "depot": {
+        "567941": {
+            "manifests": {
+                "public": {
+                    "gid": "6082956633619853522",
+                    "size": "6479892",
+                    "download": "2253120"
+                }
+            },
+            "decryptionkey": "110d40a378480461faca9083ee578a0a4a0d10309f239c53f8b3f18487c543ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1504551",
+                "timeupdated": "1481143146"
+            }
+        }
+    },
+    "access_token": 17818408285176552616
+}
