@@ -1,0 +1,50 @@
+{
+    "appid": 297330,
+    "name": "Arcadecraft",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 12:23:48",
+    "change_number": 29297339,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "297331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3142968275730633401",
+                    "size": "223861167",
+                    "download": "190566144"
+                }
+            },
+            "decryptionkey": "2c157c0c67cd3225658cb1f3a80855a219e9392f2364c5ec6246a05ce0cc1587"
+        },
+        "branches": {
+            "public": {
+                "buildid": "814270"
+            }
+        }
+    }
+}
