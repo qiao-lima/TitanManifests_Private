@@ -1,0 +1,28 @@
+{
+    "appid": 1986840,
+    "name": "POPGOES Arcade",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 16:40:14",
+    "change_number": 30189272,
+    "depot": {
+        "1986841": {
+            "manifests": {
+                "public": {
+                    "gid": "2332734507881321939",
+                    "size": "213409358",
+                    "download": "184209152"
+                }
+            },
+            "decryptionkey": "557f28af3c981358be0844c5fcd743a3dd0979871a79e65e8be1e63f9c6cc3c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19002030",
+                "timeupdated": "1750971505"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
