@@ -1,0 +1,45 @@
+{
+    "appid": 469980,
+    "name": "Legend of Miro",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:13:56",
+    "change_number": 30213236,
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "469981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5628852596589491211",
+                    "size": "93515124",
+                    "download": "84327648"
+                }
+            },
+            "decryptionkey": "ad23545c62d7f820f617d390d05699032e0421b454ffe7dd48c527515315d297"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1303722",
+                "timeupdated": "1472327085"
+            }
+        }
+    }
+}
