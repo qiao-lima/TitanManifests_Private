@@ -1,0 +1,50 @@
+{
+    "appid": 667070,
+    "name": "OHOTA KREPKOE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 09:14:02",
+    "change_number": 29818546,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,russian",
+        "667071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2142102120476345040",
+                    "size": "1311890973",
+                    "download": "500521248"
+                }
+            },
+            "decryptionkey": "56eab5a54872e392fe9b93ccd001f0f8a61ff8adfb3d2db38bd8aef8e81d8490"
+        },
+        "667072": {
+            "dlcappid": "676780"
+        },
+        "676780": {
+            "dlcappid": "676780",
+            "manifests": {
+                "public": {
+                    "gid": "4153393175680988909",
+                    "size": "130901013",
+                    "download": "123234784"
+                }
+            },
+            "decryptionkey": "05f2cf2ae5da22aef46c94f2a5fab5204ccedfc51142f4de0aa02814355969dd"
+        },
+        "707690": {
+            "dlcappid": "707690"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2030046",
+                "timeupdated": "1502420224"
+            }
+        }
+    },
+    "access_token": 3891318661918026864
+}
