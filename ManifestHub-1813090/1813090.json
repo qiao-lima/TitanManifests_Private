@@ -1,0 +1,31 @@
+{
+    "appid": 1813090,
+    "name": "The Lady Afterwards - Digital Edition",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:32:41",
+    "change_number": 29528772,
+    "depot": {
+        "1813090": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1819945509231686211",
+                    "size": "344117194",
+                    "download": "347958864"
+                }
+            },
+            "dlcappid": "1813090",
+            "decryptionkey": "a9dade4a9e37f590a87383ecc3eaa6243fe7cb52b974f632c864bdac497fba7d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7778179",
+                "timeupdated": "1637854938"
+            }
+        }
+    }
+}
