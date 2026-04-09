@@ -1,0 +1,45 @@
+{
+    "appid": 3301740,
+    "name": "TCG Master Trader",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-16 11:32:41",
+    "change_number": 30087190,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3301741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3289958100230915512",
+                    "size": "613044372",
+                    "download": "483563312"
+                }
+            },
+            "decryptionkey": "a4d4d0d3c4a84b69eb59a26136d2616d4ec82d4f383561056a8b46cf2030c143"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18899164",
+                "timeupdated": "1750172418"
+            }
+        }
+    }
+}
