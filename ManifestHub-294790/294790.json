@@ -1,0 +1,89 @@
+{
+    "appid": 294790,
+    "name": "Haegemonia: The Solon Heritage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 16:46:58",
+    "change_number": 29881856,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "294791": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "709739597698785594",
+                    "size": "938407444",
+                    "download": "478227472"
+                }
+            },
+            "decryptionkey": "ed566f128edc2348a5f6a1fe5076cd108db2c7d8686b58e213b6e7f8ee020c55"
+        },
+        "294793": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4465915430221816849",
+                    "size": "12640535",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "026054dc6fbbad911091aecf6bf940c8dfa3bdee736c4cb4607e3163b2d21866"
+        },
+        "294794": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4867342920216699602",
+                    "size": "12640589",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c542e51a871013b243345dc33500e4e8b90ba363ac43a2f816d913603165d9ff"
+        },
+        "294795": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5615118554667922480",
+                    "size": "12640706",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c349b4cec3c4874a15f90bdd18f58efb00df9c58ab1ae4779a6d619f37ff0fb7"
+        },
+        "294796": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3742300027615066271",
+                    "size": "12640484",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b9a3a20011a6c34043268f173a60b89578bb78b088c403af300ebe5a1c88bf65"
+        },
+        "branches": {
+            "public": {
+                "buildid": "914029"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
