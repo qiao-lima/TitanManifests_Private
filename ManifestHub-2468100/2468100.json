@@ -1,0 +1,51 @@
+{
+    "appid": 2468100,
+    "name": "Pyrene",
+    "type": "Game",
+    "schinese_name": "庇山奇谭",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:24:09",
+    "change_number": 30056649,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2468101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3881120912429047832",
+                    "size": "498871260",
+                    "download": "273519824"
+                }
+            },
+            "decryptionkey": "a21cf0e528c3491a8bd1137b7677c952289e6bae9151840615a2d53e4db3295b"
+        },
+        "2468102": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4663017904504710648",
+                    "size": "464393150",
+                    "download": "257213552"
+                }
+            },
+            "decryptionkey": "c9e6d120be1b5a60a440b58d7772a62b89fb0d41ba20cd0eb936e3f24ff03933"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18778676",
+                "timeupdated": "1749311515"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
