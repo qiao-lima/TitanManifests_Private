@@ -1,0 +1,30 @@
+{
+    "appid": 247120,
+    "name": "Portal 2 Sixense Perceptual Pack",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 17:37:12",
+    "change_number": 29604969,
+    "depot": {
+        "overridescddb": "1",
+        "247121": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8628962583900050196",
+                    "size": "8268923282",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3ea0f68d06061971fedc5dff0e1bfcaa228039f6263ee34f0181275e03c63042"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "213449"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
