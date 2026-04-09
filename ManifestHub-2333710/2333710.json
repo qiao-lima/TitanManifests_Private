@@ -1,0 +1,27 @@
+{
+    "appid": 2333710,
+    "name": "不屈者传说 No Give up",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 18:50:12",
+    "change_number": 30171726,
+    "depot": {
+        "2333711": {
+            "manifests": {
+                "public": {
+                    "gid": "6255224159147313130",
+                    "size": "278165219",
+                    "download": "89347984"
+                }
+            },
+            "decryptionkey": "9c6c6c21010906234e5336051010a697b969c356c4676b6fc2a6865f7039060a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19303235",
+                "timeupdated": "1753120208"
+            }
+        }
+    }
+}
