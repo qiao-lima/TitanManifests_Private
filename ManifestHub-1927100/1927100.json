@@ -1,0 +1,46 @@
+{
+    "appid": 1927100,
+    "name": "三国仁义传 the Romantic of Righteousness: SanGuo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 02:00:17",
+    "change_number": 30079729,
+    "depot": {
+        "baselanguages": "schinese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1927101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3239707438060162483",
+                    "size": "5134050183",
+                    "download": "4917724320"
+                }
+            },
+            "decryptionkey": "5f1b50a5ed79920bac34674621d1a36e66f39c8e5e7db1a825f4dfc4ea4e75d6"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19218185",
+                "timeupdated": "1752507282"
+            }
+        }
+    }
+}
