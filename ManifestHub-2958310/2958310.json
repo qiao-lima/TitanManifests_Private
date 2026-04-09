@@ -1,0 +1,44 @@
+{
+    "appid": 2958310,
+    "name": "Once Human Demo",
+    "type": "Demo",
+    "schinese_name": "七日世界Demo",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 09:18:00",
+    "change_number": 29893643,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2958311": {
+            "manifests": {
+                "public": {
+                    "gid": "375666767869342133",
+                    "size": "41318622651",
+                    "download": "40465271584"
+                }
+            },
+            "decryptionkey": "f3d8ad3f6b0446e992cf8b6fed4d28ebfeaa4bfc71f1bcc1ae0f0761d6f8f173"
+        },
+        "2958312": {
+            "manifests": {
+                "public": {
+                    "gid": "744109750384515286",
+                    "size": "41318622651",
+                    "download": "40464082576"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,koreana,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "14635997",
+                "timeupdated": "1717745877"
+            }
+        }
+    }
+}
