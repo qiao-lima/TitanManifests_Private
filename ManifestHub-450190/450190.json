@@ -1,0 +1,44 @@
+{
+    "appid": 450190,
+    "name": "Maze Lord",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 20:58:25",
+    "change_number": 29371978,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,dutch",
+        "450191": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7112401620996961682",
+                    "size": "154670145",
+                    "download": "42097584"
+                }
+            },
+            "decryptionkey": "0efe8856b648cbc5ff460933ab7a926e67a30e921f952f7116d721e02bf31797"
+        },
+        "450192": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7011393677082198857",
+                    "size": "163012968",
+                    "download": "44010224"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1591070",
+                "timeupdated": "1495737103"
+            }
+        }
+    }
+}
