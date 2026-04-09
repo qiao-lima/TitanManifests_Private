@@ -1,0 +1,32 @@
+{
+    "appid": 3085770,
+    "name": "Cat On My Desktop",
+    "type": "Game",
+    "schinese_name": "桌面猫猫",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:58:51",
+    "change_number": 29429564,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,latam",
+        "3085771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5471319083741894441",
+                    "size": "161302443",
+                    "download": "41838352"
+                }
+            },
+            "decryptionkey": "6278e42ea5727ecf4f4981a734c8a22d8258c6cadc469270b0ac3e8bcfe43526"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18610419",
+                "timeupdated": "1748314956"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
