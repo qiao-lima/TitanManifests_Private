@@ -1,0 +1,31 @@
+{
+    "appid": 2841510,
+    "name": "Hell Survivors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 15:36:39",
+    "change_number": 30112806,
+    "depot": {
+        "2841511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "839119844432356833",
+                    "size": "1524625059",
+                    "download": "509204720"
+                }
+            },
+            "decryptionkey": "1032287b6c2a300b2e1f60fb98fbaa7eafa7fe0807c0d2d5e6d67cf3dc675eb1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18950597",
+                "timeupdated": "1750518344"
+            }
+        }
+    }
+}
