@@ -1,0 +1,27 @@
+{
+    "appid": 1950440,
+    "name": "Mage and Monsters",
+    "type": "Game",
+    "schinese_name": "Mage and Monsters - 法师与魔物",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 16:10:34",
+    "change_number": 29544774,
+    "depot": {
+        "1950441": {
+            "manifests": {
+                "public": {
+                    "gid": "1756961120294183415",
+                    "size": "306054351",
+                    "download": "50819568"
+                }
+            },
+            "decryptionkey": "5982f67cf4b3aa50b3a175c6bc94649265fc947a585b40d4f8513058199fd6c9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18852631",
+                "timeupdated": "1749802228"
+            }
+        }
+    }
+}
