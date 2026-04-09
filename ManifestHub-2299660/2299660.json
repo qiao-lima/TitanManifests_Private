@@ -1,0 +1,42 @@
+{
+    "appid": 2299660,
+    "name": "Fossilfuel 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 19:43:34",
+    "change_number": 29902974,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2299661": {
+            "manifests": {
+                "public": {
+                    "gid": "4419176514753138714",
+                    "size": "12599213944",
+                    "download": "12387841136"
+                }
+            },
+            "decryptionkey": "2e23811dd0dc3cbfb8d1c8129ebf2a91a0f9ef90474b2b9f127cb841c99ecda7"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,latam",
+        "branches": {
+            "public": {
+                "buildid": "18786131",
+                "timeupdated": "1749407272"
+            }
+        }
+    }
+}
