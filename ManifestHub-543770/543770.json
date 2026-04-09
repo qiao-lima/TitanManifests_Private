@@ -1,0 +1,35 @@
+{
+    "appid": 543770,
+    "name": "Altar Guardian",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 08:52:09",
+    "change_number": 30152823,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "543771": {
+            "manifests": {
+                "public": {
+                    "gid": "5531640228658248938",
+                    "size": "87682185",
+                    "download": "64277808"
+                }
+            },
+            "decryptionkey": "2ffe742b32a183e5b183d8cbb0dc58c497a3bf9c7fd368b7cc810115ba9396b4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1398245",
+                "timeupdated": "1476786844"
+            }
+        }
+    },
+    "access_token": 17217336030691992295
+}
