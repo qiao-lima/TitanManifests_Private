@@ -1,0 +1,28 @@
+{
+    "appid": 2641950,
+    "name": "RPG Developer Bakin Bakin Terica Terrain Pack Vol.1",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:35:16",
+    "change_number": 26201212,
+    "depot": {
+        "2641950": {
+            "manifests": {
+                "public": {
+                    "gid": "2354327081854815749",
+                    "size": "12993811",
+                    "download": "4505408"
+                }
+            },
+            "dlcappid": "2641950",
+            "decryptionkey": "7dd8cfaa8fe8b94eb01d0167b5b9c8883a429f0d4bf05f1e98466772b630dd9c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12412527",
+                "timeupdated": "1697020465"
+            }
+        }
+    }
+}
