@@ -1,0 +1,48 @@
+{
+    "appid": 2757820,
+    "name": "Sensual Adventures - Treasure Island",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 04:11:20",
+    "change_number": 30218990,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2757821": {
+            "manifests": {
+                "public": {
+                    "gid": "4751738558301823502",
+                    "size": "6954200467",
+                    "download": "6328172048"
+                }
+            },
+            "decryptionkey": "21327821c613e14063d8ec3e05e2e3cdbedbdeb5e1050c9f57bda3d3848d91b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19278676",
+                "timeupdated": "1752862177"
+            }
+        }
+    }
+}
