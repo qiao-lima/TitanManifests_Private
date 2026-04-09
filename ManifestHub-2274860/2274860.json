@@ -1,0 +1,30 @@
+{
+    "appid": 2274860,
+    "name": "Bus Simulator: Car Driving",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 22:41:50",
+    "change_number": 30194509,
+    "depot": {
+        "2274861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4554793457109591988",
+                    "size": "429326604",
+                    "download": "313832448"
+                }
+            },
+            "decryptionkey": "53dbcf4ab895989a8fdf4f0086e6ccdbde434ae430fabc750a01336fe4b8f1c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18145454",
+                "timeupdated": "1744900888"
+            }
+        }
+    }
+}
