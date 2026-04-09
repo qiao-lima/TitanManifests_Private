@@ -1,0 +1,29 @@
+{
+    "appid": 775430,
+    "name": "Discovery Tour by Assassin’s Creed: Ancient Egypt",
+    "type": "Game",
+    "schinese_name": "《刺客信条》出品 - 发现之旅：古埃及",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 10:56:16",
+    "change_number": 29773723,
+    "depot": {
+        "775431": {
+            "manifests": {
+                "public": {
+                    "gid": "4557030578701363613",
+                    "size": "44982280573",
+                    "download": "38016913824"
+                }
+            },
+            "decryptionkey": "6b2badd0c90b2228c6615b5f7998cf9acfac86fac2c96dfbd8a08a828aa13e80"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2734779",
+                "timeupdated": "1526402645"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 663209022953232280
+}
