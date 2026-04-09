@@ -1,0 +1,28 @@
+{
+    "appid": "2386660",
+    "type": "Game",
+    "name": "Fruit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 21:10:09",
+    "depot": {
+        "2386661": {
+            "manifests": {
+                "public": {
+                    "gid": "1666783296326469687",
+                    "size": "57576759",
+                    "download": "16682400"
+                }
+            },
+            "decryptionkey": "482d6de1454a2e3602fc046e3c93795d62102ca7b9ab2e4559ffc109a1d16cd3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11405657",
+                "timeupdated": "1686064496"
+            }
+        }
+    },
+    "access_token": 17784750226443267112
+}
