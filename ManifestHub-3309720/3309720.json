@@ -1,0 +1,47 @@
+{
+    "appid": 3309720,
+    "name": "GameTechBench",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-04 12:30:42",
+    "change_number": 29896626,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3309721": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1054662708551982495",
+                    "size": "5762700460",
+                    "download": "5675498016"
+                }
+            },
+            "decryptionkey": "f3007d1aca15ea7eb1ca3e476590acb84e24f5edea85af8a2d3bc544d58e98f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18694214",
+                "timeupdated": "1748806651"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
