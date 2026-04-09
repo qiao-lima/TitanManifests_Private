@@ -1,0 +1,29 @@
+{
+    "appid": 2318630,
+    "name": "The Territory of Egg",
+    "type": "Game",
+    "schinese_name": "蛋丸之地",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 02:05:38",
+    "change_number": 30122007,
+    "depot": {
+        "2318631": {
+            "manifests": {
+                "public": {
+                    "gid": "6899494117990761598",
+                    "size": "323989906",
+                    "download": "69829776"
+                }
+            },
+            "decryptionkey": "ce3ff69d8816895874a43c13761c333d59455d99f814223535b3623745560f94"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "12979926",
+                "timeupdated": "1702730862"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
