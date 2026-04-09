@@ -1,0 +1,32 @@
+{
+    "appid": 3069470,
+    "name": "Dollar",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 16:55:56",
+    "change_number": 29845613,
+    "depot": {
+        "3069471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9203298504462358643",
+                    "size": "332410539",
+                    "download": "35674432"
+                }
+            },
+            "decryptionkey": "e23b873a4dbb3bd4618c5984f6f51ec2cdda00e10d60c8971ba0429a97527f16"
+        },
+        "workshopdepot": "3069470",
+        "branches": {
+            "public": {
+                "buildid": "19067537",
+                "timeupdated": "1751385314"
+            }
+        },
+        "workshopdepotdecryptionkey": "56631f14cf830403ff7eeccdcefb21d80a7aba29180f3fcc9ecc017e9bd5b2e2"
+    }
+}
