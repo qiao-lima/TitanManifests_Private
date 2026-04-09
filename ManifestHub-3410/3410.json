@@ -1,0 +1,28 @@
+{
+    "appid": 3410,
+    "name": "Heavy Weapon Deluxe",
+    "type": "Game",
+    "schinese_name": "重装武器",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 12:03:58",
+    "change_number": 29689419,
+    "depot": {
+        "3411": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5876960347239988539",
+                    "size": "11011593",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "43a26b22a7833d442394111ed874fbd808ef0889910975a20f0dd7515438bc74"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "10690"
+            }
+        }
+    }
+}
