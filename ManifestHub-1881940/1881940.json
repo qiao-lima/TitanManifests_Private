@@ -1,0 +1,31 @@
+{
+    "appid": 1881940,
+    "name": "Heard of the Story?",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:37:43",
+    "change_number": 29294642,
+    "depot": {
+        "1881941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8227955040648906905",
+                    "size": "2006538060",
+                    "download": "453680080"
+                }
+            },
+            "decryptionkey": "abc8ea52fe9c9d6d2db8ee7ef6f205427c4ccff0078e54fa39bb1ea0dda9eeec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18681203",
+                "timeupdated": "1748646991"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
