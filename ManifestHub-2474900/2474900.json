@@ -1,0 +1,46 @@
+{
+    "appid": 2474900,
+    "name": "Duskborn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 04:56:48",
+    "change_number": 29835268,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2474901": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7507620170389787545",
+                    "size": "1831941827",
+                    "download": "1661361376"
+                }
+            },
+            "decryptionkey": "e38f3d2ec659ce08b6b29c6aa65c37e56f681fd9c9ece8623d350d6a82b4cf45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16364854",
+                "timeupdated": "1731327073"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
