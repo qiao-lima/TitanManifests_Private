@@ -1,0 +1,48 @@
+{
+    "appid": 1588090,
+    "name": "Rally Mechanic Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 01:43:08",
+    "change_number": 30176949,
+    "depot": {
+        "1588091": {
+            "manifests": {
+                "public": {
+                    "gid": "6083873491575193942",
+                    "size": "9830999166",
+                    "download": "3277865568"
+                },
+                "experimental": {
+                    "gid": "4455190206579006089",
+                    "size": "9828260658",
+                    "download": "3274060640"
+                },
+                "previous_build": {
+                    "gid": "1803087738821485706",
+                    "size": "8196286375",
+                    "download": "2708071472"
+                }
+            },
+            "decryptionkey": "cecf7484103c8897fdd30c70eb51673a35c6f6fc44c5c174fdc6a0a69f1d0a78"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19108872",
+                "timeupdated": "1752165534"
+            },
+            "experimental": {
+                "buildid": "17809801",
+                "description": "public test branch",
+                "timeupdated": "1742566745"
+            },
+            "previous_build": {
+                "buildid": "15163834",
+                "description": "Branch with previous version",
+                "timeupdated": "1722245480"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
