@@ -1,0 +1,27 @@
+{
+    "appid": 544870,
+    "name": "Blood Ties",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 16:39:58",
+    "change_number": 29952416,
+    "depot": {
+        "544871": {
+            "manifests": {
+                "public": {
+                    "gid": "3552787830438220361",
+                    "size": "73419235",
+                    "download": "69822832"
+                }
+            },
+            "decryptionkey": "cd55f59ddf1cfc8800784099258b5a2c0e23b96bce7f38189e908c34b1c80794"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1701007",
+                "timeupdated": "1489918008"
+            }
+        }
+    }
+}
