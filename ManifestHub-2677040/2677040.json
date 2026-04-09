@@ -1,0 +1,72 @@
+{
+    "appid": 2677040,
+    "name": "真夜的居所 - Chanye's Home",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 04:18:13",
+    "change_number": 30081272,
+    "depot": {
+        "2677041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "396769462969066914",
+                    "size": "535438190",
+                    "download": "392818848"
+                }
+            },
+            "decryptionkey": "0a764d639a2cc63827d3e778928c0ebf6ebfb4280ac21e8ed27a4ab77b4758a2"
+        },
+        "2677042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8101768073519130011",
+                    "size": "900543634",
+                    "download": "414992000"
+                }
+            }
+        },
+        "2677043": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8660189866465234884",
+                    "size": "535006650",
+                    "download": "394257280"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2677044": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7447759207878377204",
+                    "size": "535740240",
+                    "download": "403429360"
+                }
+            },
+            "decryptionkey": "eb4a4f45344b6a87ae043928ee0a52fb49f01df2ebb8dc6ade9fa40baac2d988"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "19116690",
+                "timeupdated": "1751709344"
+            }
+        }
+    }
+}
