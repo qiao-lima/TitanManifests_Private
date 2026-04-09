@@ -1,0 +1,28 @@
+{
+    "appid": 2884780,
+    "name": "囚偶：重逢",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 19:45:48",
+    "change_number": 30137562,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2884781": {
+            "manifests": {
+                "public": {
+                    "gid": "4899220067841360281",
+                    "size": "1150361229",
+                    "download": "521007648"
+                }
+            },
+            "decryptionkey": "1c31f138dadafa12c1fe0f82a3dd87a3f257a50080e0e517dca4f0d095fd3587"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16084452",
+                "timeupdated": "1729184559"
+            }
+        }
+    }
+}
