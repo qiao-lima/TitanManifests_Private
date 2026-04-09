@@ -1,0 +1,60 @@
+{
+    "appid": 541100,
+    "name": "Krampus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 22:22:29",
+    "change_number": 29420055,
+    "depot": {
+        "baselanguages": "",
+        "541101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5576166299699823744",
+                    "size": "940317139",
+                    "download": "248960080"
+                }
+            },
+            "decryptionkey": "c48bebb98ea302d0f3b6d4a5898a3872b16fab2c096cd3e3ffeba9cc6ee9c452"
+        },
+        "541102": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2633973800783649436",
+                    "size": "947835386",
+                    "download": "250692032"
+                }
+            },
+            "decryptionkey": "f804e12b3e6c9d222bf50ddb48b20fa2be07d99a9077702dd03a79afe4ea2db0"
+        },
+        "541103": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8401211592124076413",
+                    "size": "887501491",
+                    "download": "244962128"
+                }
+            },
+            "decryptionkey": "0be21a5f3d83f5a14f9e76abb9f38711ec976d0a3aabfb4bc568d53e80f7c252"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1412958",
+                "timeupdated": "1477401082"
+            }
+        }
+    },
+    "access_token": 5454495177244697365
+}
