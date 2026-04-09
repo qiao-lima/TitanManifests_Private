@@ -1,0 +1,42 @@
+{
+    "appid": 1268750,
+    "name": "Starship Troopers: Extermination",
+    "type": "Game",
+    "schinese_name": "星河战队：灭绝",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:12:00",
+    "change_number": 30214858,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1268751": {
+            "manifests": {
+                "public": {
+                    "gid": "3620997405468249364",
+                    "size": "10292147383",
+                    "download": "9670392688"
+                }
+            },
+            "decryptionkey": "4c9adfd6fcc55cac391befdc3c63c0bd233339efd4b1d755bbf24f3170ed86e8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18844290",
+                "timeupdated": "1750697965"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
