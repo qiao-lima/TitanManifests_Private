@@ -1,0 +1,28 @@
+{
+    "appid": 2591410,
+    "name": "Moose Miners",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 11:05:02",
+    "change_number": 29909388,
+    "depot": {
+        "2591411": {
+            "manifests": {
+                "public": {
+                    "gid": "4008158094600296424",
+                    "size": "653145082",
+                    "download": "159441184"
+                }
+            },
+            "decryptionkey": "47624590f47b7cf2be79d4fce5552ee5dbe48897623a297f7e3b357c04069f24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18872963",
+                "timeupdated": "1749987899"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
