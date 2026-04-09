@@ -1,0 +1,46 @@
+{
+    "appid": 2674810,
+    "name": "Dragon's Dogma 2 Character Creator & Storage",
+    "type": "Game",
+    "schinese_name": "Dragon's Dogma 2 角色编辑＆保存",
+    "isfreeapp": 1,
+    "update_time": "2025-06-29 02:16:02",
+    "change_number": 29806391,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,arabic,brazilian,latam",
+        "2674811": {
+            "manifests": {
+                "public": {
+                    "gid": "4894794635087980199",
+                    "size": "5818626270",
+                    "download": "5125682048"
+                }
+            },
+            "decryptionkey": "e1717e0bfea5acb27240ccc45a2643ceaec2e5eeaaf96c903d601a8c46d09535"
+        },
+        "2674812": {
+            "manifests": {
+                "public": {
+                    "gid": "7221007461964585539",
+                    "size": "222775442",
+                    "download": "185671504"
+                }
+            },
+            "decryptionkey": "b24d2b2a6731ba5f2373cdb34715eea0409bbec7c9e8b26436b8675a9886e7bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18619788",
+                "timeupdated": "1749603621"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
