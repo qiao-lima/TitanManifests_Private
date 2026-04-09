@@ -1,0 +1,28 @@
+{
+    "appid": 2534370,
+    "name": "Yars Rising",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 20:36:34",
+    "change_number": 30117819,
+    "depot": {
+        "2534371": {
+            "manifests": {
+                "public": {
+                    "gid": "7226276057378443922",
+                    "size": "7231135763",
+                    "download": "5881958416"
+                }
+            },
+            "decryptionkey": "afe81b306f8b11d39a36bef2e54ffdca862afd8648b3adb02c60c4c1f661fc01"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15214964",
+                "timeupdated": "1722644171"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
