@@ -1,0 +1,105 @@
+{
+    "appid": "1457880",
+    "type": "Demo",
+    "name": "Genokids Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28513643",
+    "update_time": "2025-04-17 01:49:16",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,spanish",
+        "1457881": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1809484967183629853",
+                    "size": "446351211",
+                    "download": "136604832"
+                },
+                "before_next_fest": {
+                    "gid": "3945419080878873852",
+                    "size": "459894466",
+                    "download": "139933664"
+                }
+            },
+            "decryptionkey": "206d3f637181e11ae8a969176627f8c0ab3281ab776e250ebb28b9e040ae9b61"
+        },
+        "1457882": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8705510328262519995",
+                    "size": "556598668",
+                    "download": "209254992"
+                },
+                "before_next_fest": {
+                    "gid": "8336846623287734174",
+                    "size": "570144484",
+                    "download": "212583840"
+                }
+            },
+            "decryptionkey": "7166382ce4d15edbb79bcafcd102026a2f7bec1a8f14a1d30dcb4fe9499cb102"
+        },
+        "1457883": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8618475459173438961",
+                    "size": "445102816",
+                    "download": "134701936"
+                },
+                "before_next_fest": {
+                    "gid": "5178103114324275282",
+                    "size": "458798181",
+                    "download": "138061312"
+                }
+            },
+            "decryptionkey": "6cbfcd91f34c97bc66247d9a0727c08ddd0949f46f12d50ef045a41120778375"
+        },
+        "1457884": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3047424184496916762",
+                    "size": "471173234",
+                    "download": "144207360"
+                },
+                "before_next_fest": {
+                    "gid": "5272658565814811857",
+                    "size": "484641306",
+                    "download": "147480864"
+                }
+            },
+            "decryptionkey": "e0afa6117c22523c53f62fd26df89967696b10b06cc2986caee0b7445ea83442"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18132616",
+                "timeupdated": "1744825726"
+            },
+            "before_next_fest": {
+                "buildid": "14699864",
+                "description": "Version that holds the build of the demo that has been up for the most time, which was updated by next fest",
+                "timeupdated": "1740159305"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
