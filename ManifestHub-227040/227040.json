@@ -1,0 +1,35 @@
+{
+    "appid": "227040",
+    "type": "Tool",
+    "name": "Left 4 Dead 2 Beta - Win32 Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-07-16 02:43:47",
+    "depot": {
+        "overridescddb": "1",
+        "227041": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8378757849758416253",
+                    "size": "4090269",
+                    "download": "1587680"
+                }
+            },
+            "decryptionkey": "4f51a51bc7e5af40145bab932e03ea1077eea5c0e08d3a2d72f4dca74d124073"
+        },
+        "223531": {
+            "systemdefined": "1",
+            "depotfromapp": "223530",
+            "sharedinstall": "2"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "1559643",
+                "timeupdated": "1484072437"
+            }
+        }
+    }
+}
