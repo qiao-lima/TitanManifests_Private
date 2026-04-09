@@ -1,0 +1,48 @@
+{
+    "appid": 2865830,
+    "name": "Weed Harvest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 08:13:50",
+    "change_number": 29817768,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2865831": {
+            "manifests": {
+                "public": {
+                    "gid": "6832721809832037331",
+                    "size": "2058979607",
+                    "download": "1874343152"
+                }
+            },
+            "decryptionkey": "733d8d445bc76713ed724eed0ba96fcb493a21e10852389cdb9ef57d33edd3e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13679000",
+                "timeupdated": "1709888233"
+            }
+        }
+    }
+}
