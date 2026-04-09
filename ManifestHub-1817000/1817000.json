@@ -1,0 +1,46 @@
+{
+    "appid": 1817000,
+    "name": "Zodiacats",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 06:02:11",
+    "change_number": 29405523,
+    "depot": {
+        "baselanguages": "english,portuguese",
+        "hasdepotsindlc": "1",
+        "1817002": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5243498120166497063",
+                    "size": "270018352",
+                    "download": "229469632"
+                }
+            },
+            "decryptionkey": "e10f757857f764260497a58f06369969babac689c1928d2067d6f69b6642a208"
+        },
+        "1817001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8581083036449300277",
+                    "size": "260572426",
+                    "download": "227071600"
+                }
+            },
+            "decryptionkey": "5ce758f33041693ee7d4b1c1de2e77dd3076475a9a290f1053d999fb41072498"
+        },
+        "1817003": {},
+        "branches": {
+            "public": {
+                "buildid": "13368855",
+                "timeupdated": "1707135047"
+            }
+        }
+    }
+}
