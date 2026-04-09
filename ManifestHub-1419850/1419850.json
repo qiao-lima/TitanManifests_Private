@@ -1,0 +1,74 @@
+{
+    "appid": 1419850,
+    "name": "Saleblazers",
+    "type": "Game",
+    "schinese_name": "拓荒商客 (Saleblazers)",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:07:48",
+    "change_number": 30217587,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1419851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3558066319963368516",
+                    "size": "6069709502",
+                    "download": "2129413088"
+                },
+                "experimental": {
+                    "gid": "2239753602809619043",
+                    "size": "6189180956",
+                    "download": "2145938112"
+                }
+            },
+            "decryptionkey": "0a55957bc94d9449b32b00478cc33206b02bea57467d367badd10e05b4108a44"
+        },
+        "1419852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "952269991131979257",
+                    "size": "6242146668",
+                    "download": "2160579632"
+                },
+                "experimental": {
+                    "gid": "4829171173659175766",
+                    "size": "6361783926",
+                    "download": "2177523040"
+                }
+            },
+            "decryptionkey": "66ef23d25cff9bc223d0b614e9fad2a8dbe25786243a14f1e07fcb8b4861a4ef"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,finnish,norwegian,swedish,czech,turkish,brazilian,greek,vietnamese",
+        "branches": {
+            "public": {
+                "buildid": "19118108",
+                "timeupdated": "1751733903"
+            },
+            "experimental": {
+                "buildid": "19336130",
+                "description": "Access an experimental build for testing.",
+                "timeupdated": "1753319263"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
