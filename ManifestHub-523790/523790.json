@@ -1,0 +1,28 @@
+{
+    "appid": "523790",
+    "type": "Game",
+    "name": "Brave Dungeon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26417742",
+    "update_time": "2024-12-05 07:35:38",
+    "depot": {
+        "523791": {
+            "manifests": {
+                "public": {
+                    "gid": "4943444429213789177",
+                    "size": "26644244",
+                    "download": "22548016"
+                }
+            },
+            "decryptionkey": "c44a4fee837072c1118b08071bfad35e269a2065f5906a9b59f958a1ce11b339"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1304554",
+                "timeupdated": "1472408617"
+            }
+        }
+    },
+    "access_token": 4925175378942010046
+}
