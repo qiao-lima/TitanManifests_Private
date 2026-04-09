@@ -1,0 +1,28 @@
+{
+    "appid": 2611410,
+    "name": "Manifest Destiny",
+    "type": "Game",
+    "schinese_name": "昭昭天命",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 03:51:43",
+    "change_number": 30142449,
+    "depot": {
+        "2611411": {
+            "manifests": {
+                "public": {
+                    "gid": "6349650967456623337",
+                    "size": "1671297982",
+                    "download": "349766784"
+                }
+            },
+            "decryptionkey": "4800ce631e2ac62d1b40c657123263a512dd031e29c3fa5fa951ba5f14f06d43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18527133",
+                "timeupdated": "1747707190"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
