@@ -1,0 +1,29 @@
+{
+    "appid": "708300",
+    "type": "Game",
+    "name": "Fluffy Friends",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26810309",
+    "update_time": "2024-12-29 21:39:48",
+    "depot": {
+        "708301": {
+            "manifests": {
+                "public": {
+                    "gid": "5683002094745538001",
+                    "size": "965027544",
+                    "download": "69929856"
+                }
+            },
+            "decryptionkey": "f4efef64afc1d21d49d996a8567fd85620954442fdf055dda58d82f60162152e"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese,turkish,brazilian,greek",
+        "branches": {
+            "public": {
+                "buildid": "2329373",
+                "timeupdated": "1512057610"
+            }
+        }
+    },
+    "access_token": 484917641851386269
+}
