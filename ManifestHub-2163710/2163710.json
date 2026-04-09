@@ -1,0 +1,45 @@
+{
+    "appid": 2163710,
+    "name": "AevumCore",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-14 18:12:13",
+    "change_number": 30053085,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2163711": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3607488903355417901",
+                    "size": "10073416409",
+                    "download": "9903436112"
+                }
+            },
+            "decryptionkey": "fc732056737c03b8cc2f21640398778ea86304fead485e190a3213da1b678aa0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18726940",
+                "timeupdated": "1749001753"
+            }
+        }
+    }
+}
