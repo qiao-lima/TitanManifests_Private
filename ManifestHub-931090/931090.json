@@ -1,0 +1,39 @@
+{
+    "appid": 931090,
+    "name": "Slither Link",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 16:14:19",
+    "change_number": 30209131,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "931091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2507709571077107134",
+                    "size": "67885046",
+                    "download": "45212400"
+                }
+            },
+            "decryptionkey": "c2d5a531b5305bb897951e9de2bb9bc88a4fce70dace3cb4dc0d15b94e896fb0"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "18922054",
+                "timeupdated": "1750309262"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
