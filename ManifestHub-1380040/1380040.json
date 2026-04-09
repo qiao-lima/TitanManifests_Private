@@ -1,0 +1,31 @@
+{
+    "appid": 1380040,
+    "name": "Hellpoint Digital Artbook",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:37:37",
+    "change_number": 26201212,
+    "depot": {
+        "1380040": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6637787735160160072",
+                    "size": "24208676",
+                    "download": "23276176"
+                }
+            },
+            "dlcappid": "1380040",
+            "decryptionkey": "9ae1c8d6d4d8ecf5c84637f84f3f17d8dcc27b9fad706cc2574f3b93beb17f2a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5365459",
+                "timeupdated": "1596466612"
+            }
+        }
+    }
+}
