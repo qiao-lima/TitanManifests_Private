@@ -1,0 +1,28 @@
+{
+    "appid": 281350,
+    "name": "US and THEM",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:54:20",
+    "change_number": 30216692,
+    "depot": {
+        "281351": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1941720914328575078",
+                    "size": "672202819",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d19fc9f952e3279bf86e4b3132900223bf9077eedb213d13628574fd7283208e"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "300603"
+            }
+        }
+    }
+}
