@@ -1,0 +1,28 @@
+{
+    "appid": 490940,
+    "name": "Darconika: The Cube of Soul",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 22:51:30",
+    "change_number": 30149907,
+    "depot": {
+        "490941": {
+            "manifests": {
+                "public": {
+                    "gid": "495176947291093658",
+                    "size": "273782706",
+                    "download": "168934688"
+                }
+            },
+            "decryptionkey": "19f4c2a1ac3d67f831bf1df81975779c52fd8c409302aa2e6c67f7b5db2a6673"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1511704",
+                "timeupdated": "1481449758"
+            }
+        }
+    },
+    "access_token": 16913053913322211424
+}
