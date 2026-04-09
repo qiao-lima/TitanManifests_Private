@@ -1,0 +1,49 @@
+{
+    "appid": 3443600,
+    "name": "Niskala Sacred Knowledge of Leyak Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:55:36",
+    "change_number": 30213822,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3443601": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7507988937712459968",
+                    "size": "15384330810",
+                    "download": "13741525328"
+                }
+            },
+            "decryptionkey": "daa2becf561ff1c7d8e86e42058f106decedb18e23d8632590b50ac5efeba662"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "19298570",
+                "timeupdated": "1753112308"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
