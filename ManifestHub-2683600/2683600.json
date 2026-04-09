@@ -1,0 +1,46 @@
+{
+    "appid": 2683600,
+    "name": "Bodycam Real Shoot Demo",
+    "type": "Demo",
+    "schinese_name": "真实射击免费试玩demo",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 07:48:05",
+    "change_number": 29569790,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2683601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2783327876438957491",
+                    "size": "4488929582",
+                    "download": "4329283104"
+                }
+            },
+            "decryptionkey": "ba9ac209bdd70229ce8d867c63b062b1b0ddbbd80c58b6cf0ec71aef7872a5cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12861402",
+                "timeupdated": "1701582595"
+            }
+        }
+    }
+}
