@@ -1,0 +1,27 @@
+{
+    "appid": 2554890,
+    "name": "The Cosmic Wheel Sisterhood Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 11:12:15",
+    "change_number": 29909428,
+    "depot": {
+        "2554891": {
+            "manifests": {
+                "public": {
+                    "gid": "4913763193756324836",
+                    "size": "398071909",
+                    "download": "397938704"
+                }
+            },
+            "decryptionkey": "c2bdd8f580d45bf596f3d6125408ec9098384b9474a04624740b6d93d179ad8a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11953677",
+                "timeupdated": "1692179930"
+            }
+        }
+    }
+}
