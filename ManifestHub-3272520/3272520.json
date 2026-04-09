@@ -1,0 +1,41 @@
+{
+    "appid": 3272520,
+    "name": "BrokenLore: LOW Demo",
+    "type": "Demo",
+    "schinese_name": "破碎怪谈：雾雨村 试玩版",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 12:14:48",
+    "change_number": 29141898,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3272521": {
+            "manifests": {
+                "public": {
+                    "gid": "3995942559787358474",
+                    "size": "10697061135",
+                    "download": "10088544560"
+                }
+            },
+            "decryptionkey": "111537a10681861b245a21533c0968f91df9dfff7cf75a6f02fec924ffe3534b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17531242",
+                "timeupdated": "1740663700"
+            }
+        }
+    }
+}
