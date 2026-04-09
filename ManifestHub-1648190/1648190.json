@@ -1,0 +1,46 @@
+{
+    "appid": 1648190,
+    "name": "QANGA",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:20:51",
+    "change_number": 30216392,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1648191": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3709000731121559755",
+                    "size": "31914536620",
+                    "download": "30535806960"
+                }
+            },
+            "decryptionkey": "1677f7efc59df6ff08c335fc08fc015d725ede40b360c1c5770a122e5aafead4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19336086",
+                "timeupdated": "1753312845"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
