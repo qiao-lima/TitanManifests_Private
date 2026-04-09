@@ -1,0 +1,28 @@
+{
+    "appid": "586190",
+    "type": "Game",
+    "name": "Socxel | Pixel Soccer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28060386",
+    "update_time": "2025-03-21 07:00:11",
+    "depot": {
+        "586191": {
+            "manifests": {
+                "public": {
+                    "gid": "2494582306484086613",
+                    "size": "109127889",
+                    "download": "38468864"
+                }
+            },
+            "decryptionkey": "eb32166076f678337b4a333d8ff3c90eac1c9db0d69315585dad55465760e88b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1627935",
+                "timeupdated": "1487002861"
+            }
+        }
+    },
+    "access_token": 15561937550910501372
+}
