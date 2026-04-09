@@ -1,0 +1,45 @@
+{
+    "appid": 2293410,
+    "name": "Drift Experience Japan",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 00:49:42",
+    "change_number": 30158945,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2293411": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3114854445187558282",
+                    "size": "2212768912",
+                    "download": "1852630416"
+                }
+            },
+            "decryptionkey": "16f662dcbbb519d209ea9a0a9325bd4c85caa38d948b099f61d42676a2923ef1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10532967",
+                "timeupdated": "1676167395"
+            }
+        }
+    }
+}
