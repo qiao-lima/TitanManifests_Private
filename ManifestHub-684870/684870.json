@@ -1,0 +1,56 @@
+{
+    "appid": 684870,
+    "name": "Spiral Splatter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 17:11:04",
+    "change_number": 29933663,
+    "depot": {
+        "684871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "645000320984077519",
+                    "size": "107476528",
+                    "download": "25346896"
+                }
+            },
+            "decryptionkey": "ae15782812347d489a3538a684f91b45d0f731bf7c788752d1380062f2fc3e13"
+        },
+        "684872": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2953163302918809858",
+                    "size": "157839286",
+                    "download": "40363728"
+                }
+            },
+            "decryptionkey": "de9971736a0f9d513d28d40e3049b7f443cd2dfc0bb2380514b6e96e80f3a8d3"
+        },
+        "684873": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1458181424065599283",
+                    "size": "159128680",
+                    "download": "42089680"
+                }
+            },
+            "decryptionkey": "32a2379aa79d44513ba9e59bf9b006af1842d0b08b88b2baba20e60ca9dc3408"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2119099",
+                "timeupdated": "1505403549"
+            }
+        }
+    }
+}
