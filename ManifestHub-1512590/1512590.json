@@ -1,0 +1,27 @@
+{
+    "appid": 1512590,
+    "name": "Punch A Bunch",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 03:41:44",
+    "change_number": 30178247,
+    "depot": {
+        "1512591": {
+            "manifests": {
+                "public": {
+                    "gid": "7912141972952709029",
+                    "size": "1405567075",
+                    "download": "916810016"
+                }
+            },
+            "decryptionkey": "7a368a3cc1912e1e8b4a946fad878d0beac6801c6878242d926595d845148c64"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10678941",
+                "timeupdated": "1677800663"
+            }
+        }
+    }
+}
