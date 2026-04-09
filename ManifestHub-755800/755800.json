@@ -1,0 +1,66 @@
+{
+    "appid": 755800,
+    "name": "Hades' Star",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-17 03:58:41",
+    "change_number": 29590407,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "755801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2476023056825245770",
+                    "size": "494353557",
+                    "download": "131292688"
+                }
+            },
+            "decryptionkey": "55e6f6e188fd033ea0e95bbf4d8b87e978cab64dd28d4b7b06a0fef94db2c5f1"
+        },
+        "755802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6288384795068881287",
+                    "size": "701858944",
+                    "download": "161295600"
+                }
+            },
+            "decryptionkey": "14a431464811bb8851523e443479c54830f0f60a46fe81101eced8177a972e1c"
+        },
+        "755803": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2757951003204829822",
+                    "size": "637268498",
+                    "download": "148929984"
+                }
+            },
+            "decryptionkey": "a0e50473748d0bb52bdc2f8f4015e46e5737f6e2ec28024ef96ad3bfec5676e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18884938",
+                "timeupdated": "1750088149"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
