@@ -1,0 +1,28 @@
+{
+    "appid": 2981590,
+    "name": "Factory Outlet Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 22:19:04",
+    "change_number": 30174692,
+    "depot": {
+        "2981591": {
+            "manifests": {
+                "public": {
+                    "gid": "4073535206686935232",
+                    "size": "5336798919",
+                    "download": "1397654048"
+                }
+            },
+            "decryptionkey": "5a6db8bb15eeaa91122159bb74280599ad225e066e12d734fa66940fd6758905"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15835079",
+                "timeupdated": "1727363156"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
