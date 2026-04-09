@@ -1,0 +1,28 @@
+{
+    "appid": 2097740,
+    "name": "AKAIITO HD REMASTER",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 19:17:10",
+    "change_number": 29234350,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "2097741": {
+            "manifests": {
+                "public": {
+                    "gid": "4943366564529940663",
+                    "size": "1744846705",
+                    "download": "1432972912"
+                }
+            },
+            "decryptionkey": "9be108248e896511945464cf68dde2e7e1183201b6a4a2dc2e77306b533f9224"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14775580",
+                "timeupdated": "1718859590"
+            }
+        }
+    }
+}
