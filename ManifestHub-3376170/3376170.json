@@ -1,0 +1,27 @@
+{
+    "appid": 3376170,
+    "name": "KLETKA Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-08 04:38:22",
+    "change_number": 28754675,
+    "depot": {
+        "3376171": {
+            "manifests": {
+                "public": {
+                    "gid": "1850378261520941558",
+                    "size": "122614030",
+                    "download": "106288288"
+                }
+            },
+            "decryptionkey": "dfc3d945444d68cb1f4bca48d6b68dc7b814c0a6270d1105e51698db708c8d27"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17147286",
+                "timeupdated": "1737994985"
+            }
+        }
+    }
+}
