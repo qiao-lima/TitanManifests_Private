@@ -1,0 +1,27 @@
+{
+    "appid": 2738940,
+    "name": "Voids Vigil",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:50:08",
+    "change_number": 29427110,
+    "depot": {
+        "2738941": {
+            "manifests": {
+                "public": {
+                    "gid": "467946317223124734",
+                    "size": "116019695",
+                    "download": "105726336"
+                }
+            },
+            "decryptionkey": "3603dc361c00e237e30a3d9360b13727d8aba5d8957ba2918f5ecc79a2b233f7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18679400",
+                "timeupdated": "1748680211"
+            }
+        }
+    }
+}
