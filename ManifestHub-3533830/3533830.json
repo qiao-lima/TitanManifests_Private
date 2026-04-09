@@ -1,0 +1,48 @@
+{
+    "appid": 3533830,
+    "name": "Brány Skeldalu",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 05:18:06",
+    "change_number": 30160721,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3533831": {
+            "manifests": {
+                "public": {
+                    "gid": "2971105523901419057",
+                    "size": "292582964",
+                    "download": "203928384"
+                }
+            },
+            "decryptionkey": "e1399d6d2799d6704ee038415c9bce843919de9722644165aad2d9d88a9ecd21"
+        },
+        "3533832": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6444498236753574873",
+                    "size": "7109112",
+                    "download": "2125024"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18899193",
+                "timeupdated": "1750172516"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
