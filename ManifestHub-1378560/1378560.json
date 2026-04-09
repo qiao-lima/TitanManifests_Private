@@ -1,0 +1,31 @@
+{
+    "appid": 1378560,
+    "name": "X-Plane 11 - Add-on: Aerosoft - XPRealistic v2",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:21:02",
+    "change_number": 26701918,
+    "depot": {
+        "1378560": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1379761032632268820",
+                    "size": "718679000",
+                    "download": "508747712"
+                }
+            },
+            "dlcappid": "1378560",
+            "decryptionkey": "ea8af523b7625c87430b9bd746e4b6b616591a3309eaaffa76b151b0499630a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9883252",
+                "timeupdated": "1667812800"
+            }
+        }
+    }
+}
