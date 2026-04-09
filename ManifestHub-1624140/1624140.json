@@ -1,0 +1,29 @@
+{
+    "appid": 1624140,
+    "name": "Cladmen",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:01:16",
+    "change_number": 29685684,
+    "depot": {
+        "1624141": {
+            "manifests": {
+                "public": {
+                    "gid": "6162392676552877310",
+                    "size": "529387267",
+                    "download": "408163344"
+                }
+            },
+            "decryptionkey": "b4f47e7461e5db30db6dfac43e9dcb9c7800d0145b0d398704176b081d0c55c2"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "6720066",
+                "timeupdated": "1621366348"
+            }
+        }
+    },
+    "access_token": 8104549891645768444
+}
