@@ -1,0 +1,49 @@
+{
+    "appid": 2337630,
+    "name": "AFL 23",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 23:21:07",
+    "change_number": 29325637,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2337631": {
+            "manifests": {
+                "public": {
+                    "gid": "1256225073021988441",
+                    "size": "96747551500",
+                    "download": "92933031072"
+                }
+            },
+            "decryptionkey": "ce68691fe0e376dbe23ebd7e30816aae061d9063b3101a45c7654d4f877a7bc4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18695611",
+                "timeupdated": "1748868943"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
