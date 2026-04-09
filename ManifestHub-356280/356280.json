@@ -1,0 +1,79 @@
+{
+    "appid": 356280,
+    "name": "Desert Law",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 11:19:12",
+    "change_number": 30066057,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "356281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4544856194648253186",
+                    "size": "913061601",
+                    "download": "842322464"
+                }
+            },
+            "decryptionkey": "d1b0633dc1be7db09b7b7e6eba856648b8c4081c5d35ca7ce796fce70cfbd5ce"
+        },
+        "356282": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "718229466971650432",
+                    "size": "666147208",
+                    "download": "638478032"
+                }
+            },
+            "decryptionkey": "69c703e323ef0b8ac28e5a8b8655a6ae47b992353699be7b9a7ce4d43ab28f95"
+        },
+        "356283": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8944587407739322928",
+                    "size": "549627866",
+                    "download": "534965328"
+                }
+            },
+            "decryptionkey": "5535cd67d409c9a6ca4127c16b8c27f8b71cfeabc3921de8083c9debeb7672af"
+        },
+        "356284": {
+            "config": {
+                "language": "czech",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1743770049963807821",
+                    "size": "370843671",
+                    "download": "340185824"
+                }
+            },
+            "decryptionkey": "c55c447d53fc1181984dbc9db80ef4b1b0de18ce19adf34fa58703f6d82b41de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1579217",
+                "timeupdated": "1484845524"
+            }
+        }
+    }
+}
