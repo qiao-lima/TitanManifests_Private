@@ -1,0 +1,31 @@
+{
+    "appid": 3592240,
+    "name": "Card Streamer Simulator",
+    "type": "Game",
+    "schinese_name": "拆卡模拟器",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 11:37:09",
+    "change_number": 30108339,
+    "depot": {
+        "baselanguages": "english",
+        "3592241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2986319822000431694",
+                    "size": "1502211797",
+                    "download": "967890064"
+                }
+            },
+            "decryptionkey": "6ff5110d16d6ca6fe555fa75fc86ccf0ceb0a264f34f87585f9e225c69bf5bb5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18296485",
+                "timeupdated": "1746020100"
+            }
+        }
+    }
+}
