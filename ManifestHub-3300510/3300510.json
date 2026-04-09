@@ -1,0 +1,41 @@
+{
+    "appid": 3300510,
+    "name": "Bricks Over Blocks",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 00:15:59",
+    "change_number": 29921714,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3300511": {
+            "manifests": {
+                "public": {
+                    "gid": "3235602213648363106",
+                    "size": "824864185",
+                    "download": "501417168"
+                }
+            },
+            "decryptionkey": "b0e8e78d7388f99a979db9ea33cedd6e6edef348b2dc16c21094515609eea877"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18713101",
+                "timeupdated": "1748930883"
+            }
+        }
+    }
+}
