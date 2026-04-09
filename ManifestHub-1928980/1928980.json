@@ -1,0 +1,63 @@
+{
+    "appid": 1928980,
+    "name": "Nightingale",
+    "type": "Game",
+    "schinese_name": "夜莺传说",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 18:08:27",
+    "change_number": 30190816,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1928981": {
+            "manifests": {
+                "public": {
+                    "gid": "156423584473979883",
+                    "size": "58266873198",
+                    "download": "57296374208"
+                },
+                "nightingale-0.3.2": {
+                    "gid": "2657529975709839503",
+                    "size": "53789597174",
+                    "download": "52323012096"
+                },
+                "public-test-realm": {
+                    "gid": "4992732310077830389",
+                    "size": "58198693102",
+                    "download": "57226310208"
+                }
+            },
+            "decryptionkey": "9e9e27b584625ef587f734aed79c2eb91a692a977394c7b37b2198d5fb40122c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19221490",
+                "timeupdated": "1752683139"
+            },
+            "nightingale-0.3.2": {
+                "buildid": "14837574",
+                "description": "Use this branch to access the pre-0.5 (Realms Rebuilt) version of Nightingale including characters and estates exported via our website.",
+                "timeupdated": "1724963313"
+            },
+            "public-test-realm": {
+                "buildid": "19163453",
+                "description": "Test branch for upcoming releases",
+                "timeupdated": "1752078688"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
