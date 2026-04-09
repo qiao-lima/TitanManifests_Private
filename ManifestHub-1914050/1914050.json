@@ -1,0 +1,29 @@
+{
+    "appid": 1914050,
+    "name": "Assassin Girls",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 19:30:07",
+    "change_number": 30095589,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1914051": {
+            "manifests": {
+                "public": {
+                    "gid": "1843882912715711110",
+                    "size": "341526822",
+                    "download": "151922352"
+                }
+            },
+            "decryptionkey": "5e2f9a01070d7150b542aad29f613f54de069052beb47ba9108586b738933ee8"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9078501",
+                "timeupdated": "1657196679"
+            }
+        }
+    }
+}
