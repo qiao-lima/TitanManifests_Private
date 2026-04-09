@@ -1,0 +1,28 @@
+{
+    "appid": 3067950,
+    "name": "皇帝麻将",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 10:33:47",
+    "change_number": 30086057,
+    "depot": {
+        "3067951": {
+            "manifests": {
+                "public": {
+                    "gid": "1703583406043927844",
+                    "size": "377765910",
+                    "download": "164521056"
+                }
+            },
+            "decryptionkey": "a010f40fb7ca2da5dcd250b854776a9611de8cd499466ae772a13c748c23137b"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "19242462",
+                "timeupdated": "1752658423"
+            }
+        }
+    }
+}
