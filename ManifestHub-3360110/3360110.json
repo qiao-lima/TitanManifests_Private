@@ -1,0 +1,28 @@
+{
+    "appid": 3360110,
+    "name": "Dice Eater: A Supernatural Mystery Card Game",
+    "type": "Game",
+    "schinese_name": "噬骰制胜 - 超自然卡牌迷局",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 03:12:44",
+    "change_number": 30032353,
+    "depot": {
+        "3360111": {
+            "manifests": {
+                "public": {
+                    "gid": "7572684340337052278",
+                    "size": "521798513",
+                    "download": "140293824"
+                }
+            },
+            "decryptionkey": "4028556d6a721934b2daa74ab565a951602bd984e4b70cf7decf9f7b551d2f2e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19103471",
+                "timeupdated": "1751606908"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
