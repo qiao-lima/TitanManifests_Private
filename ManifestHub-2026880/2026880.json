@@ -1,0 +1,27 @@
+{
+    "appid": 2026880,
+    "name": "Deadly Night",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 18:11:49",
+    "change_number": 29901910,
+    "depot": {
+        "2026881": {
+            "manifests": {
+                "public": {
+                    "gid": "1020026007048493699",
+                    "size": "725692631",
+                    "download": "572184864"
+                }
+            },
+            "decryptionkey": "e9c48858e8c9f19392a7e1a92ea52d3c9258066b5350c65e1e48cbccc5342967"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9830982",
+                "timeupdated": "1667124253"
+            }
+        }
+    }
+}
