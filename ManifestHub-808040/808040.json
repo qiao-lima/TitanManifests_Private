@@ -1,0 +1,45 @@
+{
+    "appid": 808040,
+    "name": "Smalland: Survive the Wilds - Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 16:55:44",
+    "change_number": 30015118,
+    "depot": {
+        "baselanguages": "english",
+        "808042": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3890197734917792116",
+                    "size": "2297774881",
+                    "download": "1013472448"
+                }
+            },
+            "decryptionkey": "ee769d14c77151699ae7eef36072970adb15c000e452190e38378a907654a7e7"
+        },
+        "808044": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3633574438423435832",
+                    "size": "1766554620",
+                    "download": "497280672"
+                }
+            },
+            "decryptionkey": "c9efd6c2e6cc05068e20caace585daf5ed3fe0fbb47c9a691b749d815c50aa51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19160967",
+                "timeupdated": "1752249340"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
