@@ -1,0 +1,45 @@
+{
+    "appid": 754310,
+    "name": "Deadly Cryptids",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-20 20:51:30",
+    "change_number": 30157341,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "754311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2542066470708550842",
+                    "size": "3092554186",
+                    "download": "3030933408"
+                }
+            },
+            "decryptionkey": "1bd9ca8adfeddc072354cc172af4501f6275137d640a352bfe6779c753df2f63"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "6975287",
+                "timeupdated": "1625327578"
+            }
+        }
+    }
+}
