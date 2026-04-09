@@ -1,0 +1,39 @@
+{
+    "appid": 2850380,
+    "name": "Device Doctor Simulator 2024",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 23:20:36",
+    "change_number": 30098772,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2850381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3213690424067328987",
+                    "size": "7715990950",
+                    "download": "2611231680"
+                }
+            },
+            "decryptionkey": "91aae8a0fb823eae6a08f0a579e3e6f3c04bededbf8bcb4a257bf2ca37d146f8"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "19113156",
+                "timeupdated": "1751664203"
+            }
+        }
+    }
+}
