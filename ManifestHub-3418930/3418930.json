@@ -1,0 +1,28 @@
+{
+    "appid": 3418930,
+    "name": "吞食天地之乱舞三国",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:54:53",
+    "change_number": 29681922,
+    "depot": {
+        "3418931": {
+            "manifests": {
+                "public": {
+                    "gid": "8966326786015931028",
+                    "size": "3087610132",
+                    "download": "1761724640"
+                }
+            },
+            "decryptionkey": "bc8a965300fd25acf163522c1c16582bab9fa6f2fefc974f11e531c657bdb79c"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "18949226",
+                "timeupdated": "1750504435"
+            }
+        }
+    }
+}
