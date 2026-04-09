@@ -1,0 +1,50 @@
+{
+    "appid": 2837580,
+    "name": "Rally Arcade Classics",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 07:08:09",
+    "change_number": 29943380,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2837581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1182384754682255528",
+                    "size": "6708264413",
+                    "download": "1991912336"
+                }
+            },
+            "decryptionkey": "4f37dcd252adb9a3243c0605ec189c34b2988ea39176039d9eb76e8a9da4209c"
+        },
+        "2837582": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1423779479316378377",
+                    "size": "3607231514",
+                    "download": "1338579264"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18703409",
+                "timeupdated": "1748875429"
+            }
+        }
+    }
+}
