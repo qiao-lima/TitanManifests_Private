@@ -1,0 +1,32 @@
+{
+    "appid": "582430",
+    "type": "Game",
+    "name": "Jumping Tank",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:20:49",
+    "depot": {
+        "582431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "793198485470554443",
+                    "size": "56974182",
+                    "download": "18465824"
+                }
+            },
+            "decryptionkey": "738da34d9f7b8325643c6ccce5ec204c08c8fc953676f93638504bab8abf571d"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "1594059",
+                "timeupdated": "1485506379"
+            }
+        }
+    },
+    "access_token": 1798921871772178777
+}
