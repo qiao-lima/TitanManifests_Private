@@ -1,0 +1,42 @@
+{
+    "appid": 2328540,
+    "name": "Incantation",
+    "type": "Game",
+    "schinese_name": "咒",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 11:17:11",
+    "change_number": 29227129,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2328541": {
+            "manifests": {
+                "public": {
+                    "gid": "2880819464268331259",
+                    "size": "4971512362",
+                    "download": "4690542048"
+                }
+            },
+            "decryptionkey": "216dacebc1a24a9dd381cdaad48fbb703d27dd22bcdebaad9847b3e732884cfd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16798058",
+                "timeupdated": "1734667087"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
