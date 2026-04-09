@@ -1,0 +1,27 @@
+{
+    "appid": 1713350,
+    "name": "Project Castaway",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 15:42:24",
+    "change_number": 30188166,
+    "depot": {
+        "1713351": {
+            "manifests": {
+                "public": {
+                    "gid": "1617120261378880401",
+                    "size": "6337910293",
+                    "download": "2847075088"
+                }
+            },
+            "decryptionkey": "8f056aa2c3a1d13bfc6351baccb81a89837649ae52d64450bd1f452ba40cd61d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18871304",
+                "timeupdated": "1749957581"
+            }
+        }
+    }
+}
