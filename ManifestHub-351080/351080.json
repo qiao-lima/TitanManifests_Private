@@ -1,0 +1,27 @@
+{
+    "appid": 351080,
+    "name": "The Corporate Machine",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 23:10:56",
+    "change_number": 30057262,
+    "depot": {
+        "351081": {
+            "manifests": {
+                "public": {
+                    "gid": "3694670542089979294",
+                    "size": "77317993",
+                    "download": "56532560"
+                }
+            },
+            "decryptionkey": "466c7cf6e69410014f30952d7220930444d134679802302be27356fa20682c0c"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "528510"
+            }
+        }
+    }
+}
