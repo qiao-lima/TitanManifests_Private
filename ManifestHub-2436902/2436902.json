@@ -1,0 +1,28 @@
+{
+    "appid": 2436902,
+    "name": "X-Plane 12 Add-on: Aerosoft - Airport Madrid",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 02:38:26",
+    "change_number": 26201212,
+    "depot": {
+        "2436902": {
+            "manifests": {
+                "public": {
+                    "gid": "8092517157590789113",
+                    "size": "8303339784",
+                    "download": "3769119088"
+                }
+            },
+            "dlcappid": "2436902",
+            "decryptionkey": "3a31bdaeaf3255a5586311dbf1bf694ed2757f556192fdd33d697bafdf495411"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14209777",
+                "timeupdated": "1714400580"
+            }
+        }
+    }
+}
