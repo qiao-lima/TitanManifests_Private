@@ -1,0 +1,31 @@
+{
+    "appid": "582480",
+    "type": "Game",
+    "name": "Oldschool tennis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28829338",
+    "update_time": "2025-05-06 04:28:59",
+    "depot": {
+        "582481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7950401346238810334",
+                    "size": "122255358",
+                    "download": "50940560"
+                }
+            },
+            "decryptionkey": "caf28fefe705c3e2161030efceee7fe592fd8ced56e552328f39995a31349640"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1594540",
+                "timeupdated": "1485521951"
+            }
+        }
+    },
+    "access_token": 16605759189181159700
+}
