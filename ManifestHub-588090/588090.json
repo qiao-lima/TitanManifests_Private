@@ -1,0 +1,28 @@
+{
+    "appid": "588090",
+    "type": "Game",
+    "name": "Starving",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:21:43",
+    "depot": {
+        "588091": {
+            "manifests": {
+                "public": {
+                    "gid": "8174499780595084798",
+                    "size": "27909120",
+                    "download": "28203856"
+                }
+            },
+            "decryptionkey": "d13793d0883df28774840114727a1ca90704016d3e542dcc0b2f2b725b42955b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1805302",
+                "timeupdated": "1494145783"
+            }
+        }
+    },
+    "access_token": 10559384103220433883
+}
