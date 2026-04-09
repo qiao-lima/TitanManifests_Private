@@ -1,0 +1,63 @@
+{
+    "appid": 2570190,
+    "name": "PlayM2M Limited Access",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 06:00:23",
+    "change_number": 29816540,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2570191": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2735416300498442851",
+                    "size": "219814180",
+                    "download": "82098752"
+                }
+            },
+            "decryptionkey": "c4b9978891aba6bd9768523db089d285d4856e2dd3e8b68c732fe9a619f85980"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19033959",
+                "timeupdated": "1751076888"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 14905209859200877212
+}
