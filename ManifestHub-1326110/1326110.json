@@ -1,0 +1,30 @@
+{
+    "appid": 1326110,
+    "name": "Killer Ricky",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 17:56:02",
+    "change_number": 29826766,
+    "depot": {
+        "1326111": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6823390352471081198",
+                    "size": "1305068816",
+                    "download": "321604048"
+                }
+            },
+            "decryptionkey": "f072ac5639510def17bae668c0d1ec844e1fb7c70260e46ff3077d065be60c8f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6869078",
+                "timeupdated": "1623730838"
+            }
+        }
+    }
+}
