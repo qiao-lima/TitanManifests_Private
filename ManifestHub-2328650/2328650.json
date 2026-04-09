@@ -1,0 +1,40 @@
+{
+    "appid": 2328650,
+    "name": "Locomoto",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 03:49:05",
+    "change_number": 30178341,
+    "depot": {
+        "2328651": {
+            "manifests": {
+                "public": {
+                    "gid": "3225499998782740819",
+                    "size": "13308546760",
+                    "download": "1693221424"
+                }
+            },
+            "decryptionkey": "b9e753aca4fea95b65712e3789ec37b64c4d7fa62a3f8f026e342f8085b64e3d"
+        },
+        "2328652": {
+            "dlcappid": "2637090",
+            "manifests": {
+                "public": {
+                    "gid": "4748602198199101340",
+                    "size": "13296250664",
+                    "download": "1681365072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18627726",
+                "timeupdated": "1748439528"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
