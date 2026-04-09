@@ -1,0 +1,95 @@
+{
+    "appid": 2683150,
+    "name": "Ale & Tale Tavern",
+    "type": "Game",
+    "schinese_name": "传说酒馆",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 15:36:38",
+    "change_number": 30091403,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2683151": {
+            "manifests": {
+                "public": {
+                    "gid": "3876200948315537291",
+                    "size": "4526481828",
+                    "download": "1566013824"
+                },
+                "prv2": {
+                    "gid": "590502473402878070",
+                    "size": "3408871075",
+                    "download": "1158764736"
+                },
+                "prv3": {
+                    "gid": "7586214972356448278",
+                    "size": "3599442190",
+                    "download": "1222692800"
+                },
+                "test": {
+                    "gid": "8487433961303281492",
+                    "size": "4547602747",
+                    "download": "1570746256"
+                },
+                "v1.4.2": {
+                    "gid": "3874936663267624815",
+                    "size": "4058428166",
+                    "download": "1340714720"
+                },
+                "v1.4.7": {
+                    "gid": "5905438660204801724",
+                    "size": "4123761839",
+                    "download": "1365813568"
+                },
+                "v1.5.3": {
+                    "gid": "6792036699171920933",
+                    "size": "4416723203",
+                    "download": "1510921200"
+                }
+            },
+            "decryptionkey": "fb4abcba88c9d336863c767233f69ca8be744236c5b6ae985441b2796efc5464"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19130897",
+                "timeupdated": "1751889796"
+            },
+            "prv2": {
+                "buildid": "16656249",
+                "description": "v 1.2",
+                "timeupdated": "1735564643"
+            },
+            "prv3": {
+                "buildid": "17038318",
+                "description": "v 1.3",
+                "timeupdated": "1737704562"
+            },
+            "test": {
+                "buildid": "19130877",
+                "description": "Public",
+                "timeupdated": "1751886261"
+            },
+            "v1.4.2": {
+                "buildid": "17794957",
+                "description": "Version 1.4.2",
+                "timeupdated": "1744107840"
+            },
+            "v1.4.7": {
+                "buildid": "18208772",
+                "description": "Version 1.4.7",
+                "timeupdated": "1749634443"
+            },
+            "v1.5.3": {
+                "buildid": "18862968",
+                "description": "Version 1.5.3",
+                "timeupdated": "1751184668"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
