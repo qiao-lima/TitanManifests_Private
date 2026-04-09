@@ -1,0 +1,42 @@
+{
+    "appid": 2423300,
+    "name": "School Labyrinth",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 04:13:09",
+    "change_number": 30198515,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2423301": {
+            "manifests": {
+                "public": {
+                    "gid": "5988650063732865273",
+                    "size": "3266408711",
+                    "download": "3109232096"
+                }
+            },
+            "decryptionkey": "8f4d53fd82489e6df8c2a017d864bb9a57757dae716fb7eaecfa44ec00ab6075"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18656604",
+                "timeupdated": "1748515302"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
