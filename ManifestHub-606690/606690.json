@@ -1,0 +1,27 @@
+{
+    "appid": 606690,
+    "name": "Ecchi Sketch: Draw Cute Girls Every Day!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 23:22:29",
+    "change_number": 29466034,
+    "depot": {
+        "606691": {
+            "manifests": {
+                "public": {
+                    "gid": "1201422230747326495",
+                    "size": "338813481",
+                    "download": "233525904"
+                }
+            },
+            "decryptionkey": "5127ae50575e752f89b3989b0a96decbb04618090419c00411f8f68132826aff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2403928",
+                "timeupdated": "1514589758"
+            }
+        }
+    }
+}
