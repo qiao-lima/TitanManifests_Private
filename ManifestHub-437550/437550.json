@@ -1,0 +1,41 @@
+{
+    "appid": 437550,
+    "name": "Melon Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 18:31:23",
+    "change_number": 29827353,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "437551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8460029727006468764",
+                    "size": "269531541",
+                    "download": "90410832"
+                }
+            },
+            "decryptionkey": "98bd58accf1df112d54e34623b46c5a7db3eb3ed8e10e8a782c07e3bc20cd715"
+        },
+        "workshopdepot": "437550",
+        "branches": {
+            "public": {
+                "buildid": "19045882",
+                "timeupdated": "1751297046"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "96064a0c78f599f0cfe242b0c8190ab12c7a45e4cafd533ae91f6347f7b9bc2c"
+    }
+}
