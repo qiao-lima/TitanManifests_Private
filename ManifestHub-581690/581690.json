@@ -1,0 +1,31 @@
+{
+    "appid": "581690",
+    "type": "Game",
+    "name": "Cube Master: Light Adventure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:20:37",
+    "depot": {
+        "581691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1092166476707881210",
+                    "size": "112481237",
+                    "download": "41038528"
+                }
+            },
+            "decryptionkey": "c47e3718727d710932cc51a7082ef32b2930a5bf17f0b10ff7488efe9aa32289"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1595132",
+                "timeupdated": "1485538392"
+            }
+        }
+    },
+    "access_token": 1211039187329021086
+}
