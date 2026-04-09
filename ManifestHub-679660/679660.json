@@ -1,0 +1,48 @@
+{
+    "appid": 679660,
+    "name": "aMAZE ZER0",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:59:30",
+    "change_number": 29192247,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "679661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7979728659399999279",
+                    "size": "391585187",
+                    "download": "388712480"
+                }
+            },
+            "decryptionkey": "dd4082044af7715259ac82b0e5464a574b3e10c86ff0c1c828eaffe6aa21a012"
+        },
+        "852020": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "852020"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3504562812582268902",
+                    "size": "103071716",
+                    "download": "100475808"
+                }
+            },
+            "dlcappid": "852020",
+            "decryptionkey": "36f58fdc296d98dffce3d0fdb115df7723486320964574d1bde0c488acbff78e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18611336",
+                "timeupdated": "1748266406"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
