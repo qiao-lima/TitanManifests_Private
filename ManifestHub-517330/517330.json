@@ -1,0 +1,41 @@
+{
+    "appid": 517330,
+    "name": "Stellar Interface",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 15:34:50",
+    "change_number": 30091352,
+    "depot": {
+        "517331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1328545328706391090",
+                    "size": "345873388",
+                    "download": "157998544"
+                }
+            },
+            "decryptionkey": "2b5497176484a52f97c377e09236078fe470dfd9dae4051152e657abca0e2669"
+        },
+        "777450": {
+            "dlcappid": "777450",
+            "manifests": {
+                "public": {
+                    "gid": "9084869203872519543",
+                    "size": "5291098",
+                    "download": "3642144"
+                }
+            },
+            "decryptionkey": "d8b164c3ad2a404576db303995aef28cb31e25fcf10ed69c41d591fd66d2dd9a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13712586",
+                "timeupdated": "1710238551"
+            }
+        }
+    }
+}
