@@ -1,0 +1,31 @@
+{
+    "appid": 563550,
+    "name": "Nevrosa: Escape",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 19:21:17",
+    "change_number": 30116920,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "563551": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1108071670532679486",
+                    "size": "1549826143",
+                    "download": "679778304"
+                }
+            },
+            "decryptionkey": "fca6a7ba079a1d1527e03149642751632eaa6dc7b8c538a11038f9d61d7d0dd9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3285835",
+                "timeupdated": "1541623006"
+            }
+        }
+    }
+}
