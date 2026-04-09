@@ -1,0 +1,27 @@
+{
+    "appid": 3181290,
+    "name": "Hell Shooter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 22:01:56",
+    "change_number": 29975944,
+    "depot": {
+        "3181291": {
+            "manifests": {
+                "public": {
+                    "gid": "85678620143901307",
+                    "size": "1551859840",
+                    "download": "499296000"
+                }
+            },
+            "decryptionkey": "e1ecb3678bb20a72e8b8f32e64f1c03f7f7a5243cbee694f01428ba1985142c9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17024578",
+                "timeupdated": "1737032240"
+            }
+        }
+    }
+}
