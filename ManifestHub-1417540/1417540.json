@@ -1,0 +1,27 @@
+{
+    "appid": 1417540,
+    "name": "Gravity Block",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 23:55:20",
+    "change_number": 29850885,
+    "depot": {
+        "1417541": {
+            "manifests": {
+                "public": {
+                    "gid": "2317189962032568615",
+                    "size": "140366437",
+                    "download": "21394624"
+                }
+            },
+            "decryptionkey": "14e7880e26749586e9f47f11a13be1d326a1832ee7bd3ec0743ad15a85397fe4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6215406",
+                "timeupdated": "1612909823"
+            }
+        }
+    }
+}
