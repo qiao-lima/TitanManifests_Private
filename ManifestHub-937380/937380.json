@@ -1,0 +1,37 @@
+{
+    "appid": 937380,
+    "name": "Ashen Empires",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-20 04:30:40",
+    "change_number": 29065420,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "937381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4394221188373121769",
+                    "size": "888476230",
+                    "download": "333636304"
+                }
+            },
+            "decryptionkey": "a4b8c5c66811e6c4f59ee9b67b38e19fdf0980be30765f254e869b1a631c0509"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13780358",
+                "timeupdated": "1710814021"
+            }
+        }
+    }
+}
