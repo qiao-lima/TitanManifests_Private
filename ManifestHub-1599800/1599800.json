@@ -1,0 +1,28 @@
+{
+    "appid": 1599800,
+    "name": "RPG Maker MZ - RPG Character Pack2",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 19:59:41",
+    "change_number": 26201212,
+    "depot": {
+        "1599800": {
+            "manifests": {
+                "public": {
+                    "gid": "8802476225468063639",
+                    "size": "87131748",
+                    "download": "86357520"
+                }
+            },
+            "dlcappid": "1599800",
+            "decryptionkey": "1932a21c52a90ae80b9d1196b239c2f582b505546edc3b0847a069028b679237"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6618180",
+                "timeupdated": "1619664468"
+            }
+        }
+    }
+}
