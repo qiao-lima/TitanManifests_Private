@@ -1,0 +1,29 @@
+{
+    "appid": 3027260,
+    "name": "BEHEMOTH",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 19:14:19",
+    "change_number": 30074585,
+    "depot": {
+        "3027261": {
+            "manifests": {
+                "public": {
+                    "gid": "5226314810357385861",
+                    "size": "282546907",
+                    "download": "263112864"
+                }
+            },
+            "decryptionkey": "a7d69e809019979aaa0d8553c8a77f57435e7c515d606e299ff36e744a2337f8"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17150784",
+                "timeupdated": "1738026603"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
