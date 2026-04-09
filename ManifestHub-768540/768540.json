@@ -1,0 +1,33 @@
+{
+    "appid": 768540,
+    "name": "Dinosaurs Prehistoric Survivors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 22:11:20",
+    "change_number": 30030858,
+    "depot": {
+        "768541": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6034137197945903302",
+                    "size": "1352983147",
+                    "download": "1104512624"
+                }
+            },
+            "decryptionkey": "8dd5697c0cd86bba32ce9b03ccd7c62bdf65fffdd2a9e9df4f2d9f69781294f6"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "10171589",
+                "timeupdated": "1671356905"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
