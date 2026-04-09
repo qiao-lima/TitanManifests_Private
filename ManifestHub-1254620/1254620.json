@@ -1,0 +1,51 @@
+{
+    "appid": 1254620,
+    "name": "NAMCO MUSEUM ARCHIVES Vol 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 08:24:16",
+    "change_number": 30005431,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1254621": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2020160596289212148",
+                    "size": "46140588",
+                    "download": "40851856"
+                }
+            },
+            "decryptionkey": "4475e26ae8306d77e1bce768a0064421df2172f65fbbbffb995927c48678a89d"
+        },
+        "1254622": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8478243788451835924",
+                    "size": "12",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "5430606",
+                "timeupdated": "1598942694"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
