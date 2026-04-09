@@ -1,0 +1,53 @@
+{
+    "appid": 1203180,
+    "name": "Breakwaters",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 00:19:05",
+    "change_number": 30021197,
+    "depot": {
+        "1203181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7145891519001909545",
+                    "size": "4439030123",
+                    "download": "1865578208"
+                },
+                "alpha": {
+                    "gid": "7145891519001909545",
+                    "size": "4439030123",
+                    "download": "1865578208"
+                },
+                "onlinealpha": {
+                    "gid": "7145891519001909545",
+                    "size": "4439030123",
+                    "download": "1865578208"
+                }
+            },
+            "decryptionkey": "6ffb43431f0aec5a29ce2f7fdd4329543359bebbcc709820c713a4d4b028e0f3"
+        },
+        "1203183": {},
+        "branches": {
+            "public": {
+                "buildid": "19197466",
+                "timeupdated": "1752275941"
+            },
+            "alpha": {
+                "buildid": "19197466",
+                "description": "Early feature tests and bug fixes",
+                "timeupdated": "1752275909"
+            },
+            "onlinealpha": {
+                "buildid": "19197466",
+                "description": "Online Public Alpha",
+                "timeupdated": "1752275924"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
