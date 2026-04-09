@@ -1,0 +1,33 @@
+{
+    "appid": "568650",
+    "type": "Game",
+    "name": "Hello From Indiana",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27783856",
+    "update_time": "2025-03-05 07:51:36",
+    "depot": {
+        "568651": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3164926555220025715",
+                    "size": "37606049",
+                    "download": "28259920"
+                }
+            },
+            "decryptionkey": "1fe10ded0844b5e6c1460da5c5cc3909b8929e04d4cc697c1666e9fecf71f1b9"
+        },
+        "568652": {},
+        "branches": {
+            "public": {
+                "buildid": "1519219",
+                "timeupdated": "1481735420"
+            }
+        }
+    },
+    "access_token": 17461972512172245799
+}
