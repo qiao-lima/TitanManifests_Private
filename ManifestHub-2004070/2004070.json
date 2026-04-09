@@ -1,0 +1,81 @@
+{
+    "appid": 2004070,
+    "name": "RetroArch - Gambatte",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:07:12",
+    "change_number": 29983741,
+    "depot": {
+        "2004070": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "2004070",
+            "manifests": {
+                "public": {
+                    "gid": "8631940105740730543",
+                    "size": "3850668",
+                    "download": "294800"
+                },
+                "nightly": {
+                    "gid": "7780452726090346151",
+                    "size": "3934636",
+                    "download": "365488"
+                }
+            },
+            "decryptionkey": "9b9ce532b1395094d9b87163211bd956e3d85770dc5984b620ada791125f8892"
+        },
+        "2004071": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6212691792235133004",
+                    "size": "4494847",
+                    "download": "256432"
+                },
+                "nightly": {
+                    "gid": "5432360425490287692",
+                    "size": "4597151",
+                    "download": "332160"
+                }
+            },
+            "dlcappid": "2004070",
+            "decryptionkey": "3e501f96d646e5356a2b49f7913eca46cce1469657419391105f5a1b43c0c490"
+        },
+        "2004072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "802528611448650384",
+                    "size": "7371343",
+                    "download": "446128"
+                },
+                "nightly": {
+                    "gid": "4772164717833950197",
+                    "size": "7536095",
+                    "download": "558032"
+                }
+            },
+            "dlcappid": "2004070",
+            "decryptionkey": "7d431825fcf126a4f97b92910bfb1fabc37718fe7292201b57b21a391101e7d4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265185",
+                "timeupdated": "1745845168"
+            },
+            "nightly": {
+                "buildid": "19172136",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752134826"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
