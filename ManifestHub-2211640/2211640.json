@@ -1,0 +1,28 @@
+{
+    "appid": 2211640,
+    "name": "Who Knocks",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 05:01:28",
+    "change_number": 29961524,
+    "depot": {
+        "2211641": {
+            "manifests": {
+                "public": {
+                    "gid": "1807725723329266002",
+                    "size": "5504893716",
+                    "download": "2034729216"
+                }
+            },
+            "decryptionkey": "7df5b809e7a89033f550f3016c9cca0b74e9c7af3cf6078b379e9c322fd73ccb"
+        },
+        "baselanguages": "english,italian",
+        "branches": {
+            "public": {
+                "buildid": "10878147",
+                "timeupdated": "1680043610"
+            }
+        }
+    }
+}
