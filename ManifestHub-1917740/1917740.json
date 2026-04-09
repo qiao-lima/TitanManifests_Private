@@ -1,0 +1,27 @@
+{
+    "appid": 1917740,
+    "name": "The Ultimate Shot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 18:20:36",
+    "change_number": 29233348,
+    "depot": {
+        "1917741": {
+            "manifests": {
+                "public": {
+                    "gid": "313638157581270125",
+                    "size": "140377757",
+                    "download": "23593168"
+                }
+            },
+            "decryptionkey": "e9f80c23c34c90ab057992498bad171b62427bfa29d68dcba425f33525abf0b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8245190",
+                "timeupdated": "1645457527"
+            }
+        }
+    }
+}
