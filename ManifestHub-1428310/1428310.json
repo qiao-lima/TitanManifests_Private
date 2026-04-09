@@ -1,0 +1,34 @@
+{
+    "appid": 1428310,
+    "name": "The Test: Final Revelation",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 04:09:50",
+    "change_number": 29890188,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1428311": {
+            "manifests": {
+                "public": {
+                    "gid": "2297390975357690547",
+                    "size": "859916691",
+                    "download": "738245248"
+                }
+            },
+            "decryptionkey": "c51b643282ea21f4b792e0f4a6dc28610571e1f61ea599253943c4637a1fb427"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19038026",
+                "timeupdated": "1751130177"
+            }
+        }
+    }
+}
