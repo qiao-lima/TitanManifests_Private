@@ -1,0 +1,31 @@
+{
+    "appid": 1818840,
+    "name": "Maze Art: Yellow",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 11:26:48",
+    "change_number": 30087066,
+    "depot": {
+        "1818841": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8821191064362199003",
+                    "size": "273785685",
+                    "download": "274449696"
+                }
+            },
+            "decryptionkey": "61a7e6e14d392f83fb7b5819b9be55892f0564f4618069cf4c07ca05967394d2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7694912",
+                "timeupdated": "1636621761"
+            }
+        }
+    }
+}
