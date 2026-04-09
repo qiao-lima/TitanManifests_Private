@@ -1,0 +1,72 @@
+{
+    "appid": 2166540,
+    "name": "Candice DeBébé's Tantalising Tricks",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 04:32:19",
+    "change_number": 29380428,
+    "depot": {
+        "2166543": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6496984333214754013",
+                    "size": "1048001415",
+                    "download": "493438992"
+                }
+            },
+            "decryptionkey": "f1641cdf2d2dd3a52869887c36598de0752c330d87b2b11a4b3daf2fe7a3b749"
+        },
+        "2166541": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6026018794108138850",
+                    "size": "945095061",
+                    "download": "461841152"
+                }
+            },
+            "decryptionkey": "ab4c51dd84e01c0c884c3ee3f5ba2d87135cc514bf884d88768b00cc01cfac8b"
+        },
+        "2166542": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1815362915214489609",
+                    "size": "929583227",
+                    "download": "457045072"
+                }
+            },
+            "decryptionkey": "955b07615d809e538177d70904c1350a91b28c9d922ccd483c2360d5da4c9160"
+        },
+        "2166544": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6127954646866277022",
+                    "size": "971636173",
+                    "download": "468830576"
+                }
+            },
+            "decryptionkey": "d02ae75fb6cda02e3bcef4bb18073e66e8578752dd437a40e017ce147d7bd922"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18739149",
+                "timeupdated": "1749069133"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
