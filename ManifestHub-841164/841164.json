@@ -1,0 +1,28 @@
+{
+    "appid": 841164,
+    "name": "X-Plane 11 - Add-on: Aerosoft - Dortmund XP",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:20:49",
+    "change_number": 26201212,
+    "depot": {
+        "841164": {
+            "dlcappid": "841164",
+            "manifests": {
+                "public": {
+                    "gid": "2559903704935264124",
+                    "size": "7646877383",
+                    "download": "3387470928"
+                }
+            },
+            "decryptionkey": "901b093122eb73383f248c737515f7df10d016b011738d873b812a0c67268ff9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6036600",
+                "timeupdated": "1609768114"
+            }
+        }
+    }
+}
