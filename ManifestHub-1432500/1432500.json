@@ -1,0 +1,29 @@
+{
+    "appid": 1432500,
+    "name": "The Sekimeiya: Spun Glass",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 03:52:35",
+    "change_number": 29871222,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1432504": {
+            "manifests": {
+                "public": {
+                    "gid": "4247745547101769297",
+                    "size": "3587629918",
+                    "download": "3210535248"
+                }
+            },
+            "decryptionkey": "6c1d89de6f6a7d5c95cb53d3d6233b27b250ffd27010275f040eccbd8edea9a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18616147",
+                "timeupdated": "1748403872"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
