@@ -1,0 +1,47 @@
+{
+    "appid": 967250,
+    "name": "DOKA 2 KISHKI EDITION",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:23:51",
+    "change_number": 29415585,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "967251": {
+            "manifests": {
+                "public": {
+                    "gid": "3880728537095554073",
+                    "size": "414246584",
+                    "download": "212035328"
+                }
+            },
+            "decryptionkey": "6102b60b40f3935d5524b25df10e352999e5c8b00053af77bfedd22e98e0db00"
+        },
+        "979700": {
+            "dlcappid": "979700",
+            "manifests": {
+                "public": {
+                    "gid": "6613182009787282191",
+                    "size": "162866618",
+                    "download": "165088288"
+                }
+            },
+            "decryptionkey": "31e9cfb82269e7e6dd06a7af1b611c9fc624ca3ca7026e96d500f2cf51fd0dcb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12830207",
+                "timeupdated": "1701275737"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
