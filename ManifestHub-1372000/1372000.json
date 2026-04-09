@@ -1,0 +1,77 @@
+{
+    "appid": 1372000,
+    "name": "Flowstone Saga",
+    "type": "Game",
+    "schinese_name": "星石传说",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 04:35:54",
+    "change_number": 30123861,
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "1372002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7392880396178646402",
+                    "size": "3816168554",
+                    "download": "758305824"
+                },
+                "beta": {
+                    "gid": "2238775991435225760",
+                    "size": "3800157848",
+                    "download": "753317168"
+                }
+            },
+            "decryptionkey": "c7be78b78dfa7242847d7c060637b5053783aca7758f5612fd50d15abfacbbb4"
+        },
+        "1372003": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6507469543278513388",
+                    "size": "3865224530",
+                    "download": "771360672"
+                },
+                "beta": {
+                    "gid": "3010630312456962911",
+                    "size": "3825374195",
+                    "download": "762117808"
+                }
+            },
+            "decryptionkey": "be37777dc1a77415fe974df0c810fc8b7dd116a7ae9478b52764c02b0d2324f4"
+        },
+        "1372004": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "25248792224623214",
+                    "size": "3848256577",
+                    "download": "757062416"
+                },
+                "beta": {
+                    "gid": "7271160970406302306",
+                    "size": "3848256701",
+                    "download": "757012992"
+                }
+            },
+            "decryptionkey": "a50aeea29a6bcfbe692fcbe89e6c00560fcd2cc64f017ebe7154aee1935e7e78"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19269357",
+                "timeupdated": "1752809751"
+            },
+            "beta": {
+                "buildid": "19221283",
+                "description": "Beta version",
+                "timeupdated": "1752525804"
+            }
+        }
+    }
+}
