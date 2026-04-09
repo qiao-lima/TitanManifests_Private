@@ -1,0 +1,41 @@
+{
+    "appid": "542430",
+    "type": "Game",
+    "name": "Remaining in a dream",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:16:15",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "542431": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7769358887203959167",
+                    "size": "1039705341",
+                    "download": "259190576"
+                }
+            },
+            "decryptionkey": "5eff571e4bd35408015ebe7ce39b8ba8031eb6cf69f106892598a31a4ec8a87e"
+        },
+        "542432": {},
+        "branches": {
+            "public": {
+                "buildid": "1408146",
+                "timeupdated": "1477174986"
+            }
+        }
+    },
+    "access_token": 12605571345400427585
+}
