@@ -1,0 +1,29 @@
+{
+    "appid": 2698870,
+    "name": "Midnight Murder Club",
+    "type": "Game",
+    "schinese_name": "《Midnight Murder Club》",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:06:09",
+    "change_number": 30214775,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian,latam",
+        "2698871": {
+            "manifests": {
+                "public": {
+                    "gid": "1132061881123734728",
+                    "size": "3106632370",
+                    "download": "2566085120"
+                }
+            },
+            "decryptionkey": "5ed067ff00e5667aacc6433895354b211db916086867f391f086cac21935e3a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19029428",
+                "timeupdated": "1751464861"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
