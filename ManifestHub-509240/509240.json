@@ -1,0 +1,28 @@
+{
+    "appid": "509240",
+    "type": "Game",
+    "name": "Lethal Brutal Racing",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24734831",
+    "update_time": "2024-08-14 19:13:35",
+    "depot": {
+        "509241": {
+            "manifests": {
+                "public": {
+                    "gid": "4951177389879608544",
+                    "size": "255068439",
+                    "download": "66512880"
+                }
+            },
+            "decryptionkey": "2481e6b9559963801d454e7a943329dd8edf6b707ef16ae9159c95697d5aa7c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1262247",
+                "timeupdated": "1470307511"
+            }
+        }
+    },
+    "access_token": 5977706485902055189
+}
