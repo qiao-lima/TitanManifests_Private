@@ -1,0 +1,28 @@
+{
+    "appid": "688580",
+    "type": "Game",
+    "name": "Tanker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:34:30",
+    "depot": {
+        "688581": {
+            "manifests": {
+                "public": {
+                    "gid": "9046194336957348211",
+                    "size": "130937164",
+                    "download": "57934016"
+                }
+            },
+            "decryptionkey": "084f2ff83aedd4433e59989ac246e9d5eeb1fb33e627b56190296b92ad1515f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2336351",
+                "timeupdated": "1512312898"
+            }
+        }
+    },
+    "access_token": 5195213820843766379
+}
