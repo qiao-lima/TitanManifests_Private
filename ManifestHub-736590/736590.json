@@ -1,0 +1,67 @@
+{
+    "appid": 736590,
+    "name": "Operation: Harsh Doorstop",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-06 12:44:07",
+    "change_number": 29918054,
+    "depot": {
+        "workshopdepot": "736590",
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "736591": {
+            "manifests": {
+                "public": {
+                    "gid": "548710399682217845",
+                    "size": "61130969171",
+                    "download": "23019314960"
+                }
+            },
+            "decryptionkey": "d824bdacf3a6af9ddc2d2074f44ca51e60066c2f0586a1d054e3589d7996adb3"
+        },
+        "2605190": {
+            "dlcappid": "2605190",
+            "manifests": {
+                "public": {
+                    "gid": "5095042667116885310",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3213620": {
+            "dlcappid": "3213620",
+            "manifests": {
+                "public": {
+                    "gid": "7367391546883721729",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19107256",
+                "timeupdated": "1751667514"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d164c72ab5ce8a064166e5b09eadff32df96b2a0020fb9abd271e0cb6c1b5ff4"
+    }
+}
