@@ -1,0 +1,28 @@
+{
+    "appid": 3400,
+    "name": "Hammer Heads Deluxe",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 12:23:46",
+    "change_number": 29297339,
+    "depot": {
+        "3401": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6772832138158774005",
+                    "size": "14984200",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "bc3583258dbd99eebe51203d6811d40eaca5278fc15676df24e71a196c462e10"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "10689"
+            }
+        }
+    }
+}
