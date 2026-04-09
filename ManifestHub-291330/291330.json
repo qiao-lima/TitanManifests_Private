@@ -1,0 +1,32 @@
+{
+    "appid": 291330,
+    "name": "Final Slam 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 04:36:54",
+    "change_number": 29557144,
+    "depot": {
+        "overridescddb": "1",
+        "291331": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "952752498469973142",
+                    "size": "43435070",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c984bb59d804b5bdbad622fe2e5cf1f4e4ed4f7c919f3d1b5c98a7fb5e993aee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "288649"
+            }
+        }
+    }
+}
