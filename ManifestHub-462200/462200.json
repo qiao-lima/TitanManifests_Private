@@ -1,0 +1,50 @@
+{
+    "appid": 462200,
+    "name": "Dungetris",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 23:13:45",
+    "change_number": 29813741,
+    "depot": {
+        "baselanguages": "english,russian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "462201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8707066748693487250",
+                    "size": "104903924",
+                    "download": "87587392"
+                }
+            },
+            "decryptionkey": "7a58dd6bcedd478d9ffa0eec4a66429b545bf9ac44452e0f01d287f6575b5a0d"
+        },
+        "537250": {
+            "manifests": {
+                "public": {
+                    "gid": "212475647999890706",
+                    "size": "15557479",
+                    "download": "15055952"
+                }
+            },
+            "dlcappid": "537250",
+            "decryptionkey": "9ce58e8953752e4464669557ba20f2837f4b43c9cad309cab5ecf159fd1a47ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1589918",
+                "timeupdated": "1485345298"
+            }
+        }
+    },
+    "access_token": 16498708918073936759
+}
