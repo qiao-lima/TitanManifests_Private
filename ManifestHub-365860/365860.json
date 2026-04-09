@@ -1,0 +1,29 @@
+{
+    "appid": 365860,
+    "name": "Spaceman Sparkles 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 22:13:37",
+    "change_number": 29813329,
+    "depot": {
+        "365861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2052559281738598184",
+                    "size": "21701632",
+                    "download": "21727280"
+                }
+            },
+            "decryptionkey": "e0dcb252794b010ed33b92b77655259389d20068623bf71aa41e67e144ab4878"
+        },
+        "branches": {
+            "public": {
+                "buildid": "684241"
+            }
+        }
+    }
+}
