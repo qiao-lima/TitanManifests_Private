@@ -1,0 +1,47 @@
+{
+    "appid": 952200,
+    "name": "stikir",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 21:00:43",
+    "change_number": 30055637,
+    "depot": {
+        "952201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5792861197464691483",
+                    "size": "187372561",
+                    "download": "79686928"
+                }
+            },
+            "decryptionkey": "15b2440723c3a73f4b90ad2e7a570cf366435029d46cdc9ff89a73914a982c85"
+        },
+        "952202": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5210434517535319376",
+                    "size": "166228507",
+                    "download": "77469488"
+                }
+            },
+            "decryptionkey": "81b66b0c1dca2f25aa14dd81e73446c0b15f71555ba5e086ba966da35dd27822"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4324886",
+                "timeupdated": "1572019344"
+            }
+        }
+    }
+}
