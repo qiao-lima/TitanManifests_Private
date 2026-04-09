@@ -1,0 +1,42 @@
+{
+    "appid": 2713750,
+    "name": "Table Tennis Toon!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 23:11:35",
+    "change_number": 29938576,
+    "depot": {
+        "2713751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2880013250928141284",
+                    "size": "219110345",
+                    "download": "138664016"
+                }
+            },
+            "decryptionkey": "51ed968ead73a44207dcca5f090d21418ff4bc97c7628c91aae114e56d0794e2"
+        },
+        "2713752": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7289166210426096284",
+                    "size": "227434283",
+                    "download": "146748272"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18685066",
+                "timeupdated": "1748687061"
+            }
+        }
+    }
+}
