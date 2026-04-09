@@ -1,0 +1,27 @@
+{
+    "appid": 2235800,
+    "name": "Futapunk 2069",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:11:05",
+    "change_number": 30216275,
+    "depot": {
+        "2235801": {
+            "manifests": {
+                "public": {
+                    "gid": "1858591520537952781",
+                    "size": "214912647",
+                    "download": "117535408"
+                }
+            },
+            "decryptionkey": "bb9f3d03389c127c8199e5786fe2f2cfa005086cf21eee9dd09b15abf767fe2f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10142219",
+                "timeupdated": "1670982729"
+            }
+        }
+    }
+}
