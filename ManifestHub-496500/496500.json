@@ -1,0 +1,65 @@
+{
+    "appid": "496500",
+    "type": "Game",
+    "name": "Moon Colonization Project",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:12:25",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "496501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7207117558941041588",
+                    "size": "12266994",
+                    "download": "11079520"
+                }
+            },
+            "decryptionkey": "aabf906ef99b210e7821ac6ba39465b08091271cd0d2c49b57f71fee9c4682bc"
+        },
+        "501200": {
+            "dlcappid": "501200",
+            "manifests": {
+                "public": {
+                    "gid": "8819146739964219096",
+                    "size": "101390836",
+                    "download": "86997936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "576600": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4986652956839439127",
+                    "size": "36740294",
+                    "download": "35857648"
+                }
+            },
+            "dlcappid": "576600",
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "1550237",
+                "timeupdated": "1483508295"
+            }
+        }
+    },
+    "access_token": 1884593909679413600
+}
