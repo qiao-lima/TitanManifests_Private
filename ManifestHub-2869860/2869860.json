@@ -1,0 +1,55 @@
+{
+    "appid": 2869860,
+    "name": "Monster Prom 4: Monster Con",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 15:51:21",
+    "change_number": 29951523,
+    "depot": {
+        "2869862": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7591624218393266008",
+                    "size": "1270424803",
+                    "download": "863066416"
+                }
+            },
+            "decryptionkey": "f59cccd69ee74c5c3964979a6840408373293bccab555df8701bf008a0d258b4"
+        },
+        "2869863": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4707705988983004650",
+                    "size": "1323045008",
+                    "download": "875221344"
+                }
+            }
+        },
+        "2869864": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3792834249653412681",
+                    "size": "1299295518",
+                    "download": "860849840"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19142874",
+                "timeupdated": "1751986273"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
