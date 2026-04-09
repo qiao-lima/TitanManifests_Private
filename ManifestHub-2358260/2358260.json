@@ -1,0 +1,35 @@
+{
+    "appid": 2358260,
+    "name": "Cricket 24",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:14:43",
+    "change_number": 30213248,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2358261": {
+            "manifests": {
+                "public": {
+                    "gid": "7876761334128524102",
+                    "size": "97177851522",
+                    "download": "87361822096"
+                }
+            },
+            "decryptionkey": "d2480c418615ed3b9881736c176ae2e4d455b3394906ee7f34651ee1367897ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19074913",
+                "timeupdated": "1751505702"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
