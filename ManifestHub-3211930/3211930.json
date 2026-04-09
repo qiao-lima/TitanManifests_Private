@@ -1,0 +1,27 @@
+{
+    "appid": 3211930,
+    "name": "Waifu Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 23:14:47",
+    "change_number": 29795587,
+    "depot": {
+        "3211931": {
+            "manifests": {
+                "public": {
+                    "gid": "3527624409352819560",
+                    "size": "95166482",
+                    "download": "81191840"
+                }
+            },
+            "decryptionkey": "a77bec61044aee738b7b0dfe0cf19e5782e6b06ca206d1468df7d7f16b937321"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15587253",
+                "timeupdated": "1725436891"
+            }
+        }
+    }
+}
