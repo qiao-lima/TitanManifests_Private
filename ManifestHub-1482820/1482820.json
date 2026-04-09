@@ -1,0 +1,57 @@
+{
+    "appid": 1482820,
+    "name": "Void Marauders",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 05:10:01",
+    "change_number": 30179188,
+    "depot": {
+        "1482821": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2489176149338543342",
+                    "size": "12886395265",
+                    "download": "3897173024"
+                }
+            },
+            "decryptionkey": "08d1633591cbd61233ef2f8f48e1785e920b60fcd26fb3bedcc5d84bfe0c2255"
+        },
+        "1482822": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3948147117959267687",
+                    "size": "12982282959",
+                    "download": "3919634560"
+                }
+            }
+        },
+        "1482823": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5036524621940141905",
+                    "size": "13100856234",
+                    "download": "3982568976"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19309148",
+                "timeupdated": "1753157394"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
