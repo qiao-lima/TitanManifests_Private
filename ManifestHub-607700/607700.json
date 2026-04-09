@@ -1,0 +1,28 @@
+{
+    "appid": 607700,
+    "name": "Death is better than Hell",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 09:14:07",
+    "change_number": 29818546,
+    "depot": {
+        "607701": {
+            "manifests": {
+                "public": {
+                    "gid": "7820396139796436625",
+                    "size": "274794568",
+                    "download": "89557392"
+                }
+            },
+            "decryptionkey": "82164de80a62c17b6bea61c17c6409c56c74ff063f7a18b75f1fc21d5b6adb3a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1972355",
+                "timeupdated": "1500481270"
+            }
+        }
+    },
+    "access_token": 12188524995251180814
+}
