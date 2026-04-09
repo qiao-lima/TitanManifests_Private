@@ -1,0 +1,48 @@
+{
+    "appid": 3089130,
+    "name": "Retail Company Simulator",
+    "type": "Game",
+    "schinese_name": "时尚梦想家",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 12:52:44",
+    "change_number": 30154104,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3089131": {
+            "manifests": {
+                "public": {
+                    "gid": "2390938715212630576",
+                    "size": "3413905462",
+                    "download": "2364918352"
+                }
+            },
+            "decryptionkey": "5786ccb1d1879ab3e1ea79533b18f26a2738a511b8085872aef7a6a38e8a19bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18791819",
+                "timeupdated": "1749747384"
+            }
+        }
+    }
+}
