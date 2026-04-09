@@ -1,0 +1,64 @@
+{
+    "appid": 1938420,
+    "name": "Lies of P : Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 23:30:21",
+    "change_number": 30194730,
+    "depot": {
+        "1938421": {
+            "manifests": {
+                "public": {
+                    "gid": "3546175310487101172",
+                    "size": "356861970",
+                    "download": "352460464"
+                }
+            },
+            "decryptionkey": "3a598dabbe2783774bd506a68f7da2189eabe7234c03bdfce88cefed14bab3d8"
+        },
+        "1938422": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5377334227263562822",
+                    "size": "1712954658",
+                    "download": "1730874112"
+                }
+            },
+            "decryptionkey": "ababb5e54025724a4a56f8f0f08d33282cd3ef1296cb746627419bf317d9baa4"
+        },
+        "1938423": {
+            "manifests": {
+                "public": {
+                    "gid": "1904840400598274064",
+                    "size": "257082945",
+                    "download": "242003632"
+                }
+            },
+            "decryptionkey": "f1a270c1b76e7723c154a571d3d0e70521e697e67dd1e75fab4d6de0e1199a5d"
+        },
+        "1938424": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7265438420520470710",
+                    "size": "2052202431",
+                    "download": "2052030224"
+                }
+            },
+            "decryptionkey": "27a7a3f53278e69bd81334632b6db38ed9d5b16f4865d48e46bbe78e45543ee0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19078449",
+                "timeupdated": "1751463758"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
