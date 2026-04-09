@@ -1,0 +1,40 @@
+{
+    "appid": 2054690,
+    "name": "Captain Firehawk and the Laser Love Situation",
+    "type": "Game",
+    "schinese_name": "炎鹰队长之激光恋曲",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 00:12:15",
+    "change_number": 30039769,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2054691": {
+            "manifests": {
+                "public": {
+                    "gid": "4124056889590679238",
+                    "size": "3440954881",
+                    "download": "718022016"
+                }
+            },
+            "decryptionkey": "9eae1ff98817892668a0ecd1a577b0e87b68fa93e96d04fc385e48178227d4f0"
+        },
+        "3103880": {
+            "dlcappid": "3103880",
+            "manifests": {
+                "public": {
+                    "gid": "4067102929665052652",
+                    "size": "89765177",
+                    "download": "85969216"
+                }
+            },
+            "decryptionkey": "1c8d9bb507f945877934bbbc1313c8027cedf7e6f8ca0beecf00c0526aeaa277"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19084854",
+                "timeupdated": "1751491651"
+            }
+        }
+    }
+}
