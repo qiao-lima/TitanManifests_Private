@@ -1,0 +1,156 @@
+{
+    "appid": "220460",
+    "type": "Game",
+    "name": "Cargo Commander",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970368",
+    "update_time": "2025-05-14 07:57:51",
+    "depot": {
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "220461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3189998232449907546",
+                    "size": "157873495",
+                    "download": "0"
+                },
+                "local": {
+                    "gid": "150522632338498343",
+                    "size": "123810248",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f82abf766d119fd83f6f075c5b39ef5cb95d337b73e085d4e660294bb862ceb5"
+        },
+        "220462": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3368116020886017992",
+                    "size": "176618699",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "638290eff50fcac5b7494ca2565f823ffa0ba238e422efc390179f4a3aa0dc57"
+        },
+        "220469": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6612960941971011744",
+                    "size": "170496336",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d5700a3cdbef8b6f0b7deca66057ef5f1d1f8f18f19ec36d5ff9f39fed96d436"
+        },
+        "220463": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2960075285399400421",
+                    "size": "4",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "11e2b8d0117bf5857f104a08a9ae21d45dd594d43223aa6bd88379c63c928f1d"
+        },
+        "220464": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1633117858435130170",
+                    "size": "4",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6ed06502a73b1811c56fe1136d2538e44d533049c9d475c0f1105aa8641f1cfe"
+        },
+        "220465": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3538591933216031194",
+                    "size": "4",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6a60e3fff4a1671737bc9950f8803c9e7c98db5331d75d6b4dc2a28c0f2a6a88"
+        },
+        "220466": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8209785959145698097",
+                    "size": "4",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4471c727fcbf894f87cc548428519ea9890ab678a4643ea23201ef37c1979f32"
+        },
+        "220467": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8832652254617286063",
+                    "size": "4",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2a650db1ec26e048cfdfc151fcdd35413f3ff4a4cdf4ffeee9d67bc2a442b968"
+        },
+        "220468": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4974294385253293123",
+                    "size": "4",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "8085e193120dbb4e6cfe3b06495880a66aee1853890da06e4e291f83c979b586"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "159511"
+            },
+            "local": {
+                "buildid": "17020",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
