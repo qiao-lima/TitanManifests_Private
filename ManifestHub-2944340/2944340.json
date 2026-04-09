@@ -1,0 +1,55 @@
+{
+    "appid": 2944340,
+    "name": "Unless",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 02:56:24",
+    "change_number": 29534982,
+    "depot": {
+        "2944341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5110500541881237098",
+                    "size": "106752438",
+                    "download": "65787136"
+                }
+            },
+            "decryptionkey": "95517c6cff2f7e8dc552838d3d8c2762c8230dea88a121826ee9025531e6cbe4"
+        },
+        "2944342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "163514848338027209",
+                    "size": "139661261",
+                    "download": "75052752"
+                }
+            }
+        },
+        "2944343": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5353725852422761801",
+                    "size": "109912921",
+                    "download": "64609536"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18845010",
+                "timeupdated": "1749754580"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
