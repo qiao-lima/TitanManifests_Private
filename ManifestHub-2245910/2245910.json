@@ -1,0 +1,68 @@
+{
+    "appid": 2245910,
+    "name": "Jump King Worldsmith",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 23:13:24",
+    "change_number": 29322967,
+    "depot": {
+        "workshopdepot": "2245910",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2245911": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1819968499572005215",
+                    "size": "452278339",
+                    "download": "152562224"
+                },
+                "legacy": {
+                    "gid": "4821480451368499778",
+                    "size": "1079402",
+                    "download": "341264"
+                },
+                "beta": {
+                    "gid": "1819968499572005215",
+                    "size": "452278339",
+                    "download": "152562224"
+                }
+            },
+            "decryptionkey": "74053994460cfc73e0fe72a31678247422e06d91081eaf020c11feb01d41c2c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18700314",
+                "timeupdated": "1748859671"
+            },
+            "legacy": {
+                "buildid": "13529991",
+                "description": "Legacy 'Workshop Manager' branch",
+                "timeupdated": "1708598873"
+            },
+            "beta": {
+                "buildid": "18700314",
+                "description": "Worldsmith's beta branch (could be unstable!)",
+                "timeupdated": "1748859529"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
