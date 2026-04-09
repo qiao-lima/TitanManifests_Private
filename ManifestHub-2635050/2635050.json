@@ -1,0 +1,42 @@
+{
+    "appid": 2635050,
+    "name": "Sancticide",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:30:18",
+    "change_number": 30217157,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2635051": {
+            "manifests": {
+                "public": {
+                    "gid": "4277060839663491423",
+                    "size": "17239070301",
+                    "download": "16772225840"
+                }
+            },
+            "decryptionkey": "9d55bb1512a1aac31ebbecfc6c48b45e6e5f3f9a5436792544dd9ab17631cf68"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18758883",
+                "timeupdated": "1749225514"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
