@@ -1,0 +1,31 @@
+{
+    "appid": 1684080,
+    "name": "Toroom",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 08:12:27",
+    "change_number": 30033652,
+    "depot": {
+        "1684081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4220091527704327606",
+                    "size": "38667997",
+                    "download": "30329280"
+                }
+            },
+            "decryptionkey": "aacc1600d875d9833c24b2d972ab55ad3a9dc5c1daa06335782bcf4addce6066"
+        },
+        "baselanguages": "english,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "9656230",
+                "timeupdated": "1664946758"
+            }
+        }
+    }
+}
