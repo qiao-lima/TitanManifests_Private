@@ -1,0 +1,35 @@
+{
+    "appid": 1259180,
+    "name": "Ashina: The Red Witch: Prologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-02 23:24:41",
+    "change_number": 29327425,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1259181": {
+            "manifests": {
+                "public": {
+                    "gid": "6547956723367975863",
+                    "size": "284649620",
+                    "download": "177787408"
+                }
+            },
+            "decryptionkey": "c9c4b8d1a09aee89627e18b127c7f452fa7d5ae875fead71e5ae40fbfe849d9b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8872595",
+                "timeupdated": "1654360560"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
