@@ -1,0 +1,27 @@
+{
+    "appid": 984600,
+    "name": "Trinoline Genesis",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 15:10:53",
+    "change_number": 29931665,
+    "depot": {
+        "984601": {
+            "manifests": {
+                "public": {
+                    "gid": "6722776368830408660",
+                    "size": "3251768812",
+                    "download": "3283088544"
+                }
+            },
+            "decryptionkey": "8b55ecd882303f4535d0b5f7e376c42ceae515a3a874ca378854554b549baf45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7827022",
+                "timeupdated": "1638591945"
+            }
+        }
+    }
+}
