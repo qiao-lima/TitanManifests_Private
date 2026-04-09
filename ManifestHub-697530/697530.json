@@ -1,0 +1,36 @@
+{
+    "appid": 697530,
+    "name": "PARSE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:45",
+    "change_number": 30056467,
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "697531": {
+            "manifests": {
+                "public": {
+                    "gid": "5053060768573106697",
+                    "size": "99603747",
+                    "download": "21615616"
+                }
+            },
+            "decryptionkey": "bdd901783098b9a39186e54228ed88deee7d71638e25610881102ea842284564"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2282319",
+                "timeupdated": "1510650075"
+            }
+        }
+    }
+}
