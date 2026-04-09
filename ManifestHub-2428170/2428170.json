@@ -1,0 +1,33 @@
+{
+    "appid": 2428170,
+    "name": "BallBastic!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 11:22:00",
+    "change_number": 29520233,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2428171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6172312789232770099",
+                    "size": "442895813",
+                    "download": "135850960"
+                }
+            },
+            "decryptionkey": "b2a70bb48c551d4d5fe847583b8c5483d7d789595a607c691c5dd78569faa78e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18834229",
+                "timeupdated": "1749698514"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
