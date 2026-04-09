@@ -1,0 +1,30 @@
+{
+    "appid": 2146430,
+    "name": "Siegebreaker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 15:12:37",
+    "change_number": 30013073,
+    "depot": {
+        "2146431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8701815046464885920",
+                    "size": "1014776419",
+                    "download": "356334416"
+                }
+            },
+            "decryptionkey": "2e1c9545e54e613dabedc89f2e95f7ef0722b31c2d858c5909f0df5705e2e101"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18650580",
+                "timeupdated": "1748477075"
+            }
+        }
+    }
+}
