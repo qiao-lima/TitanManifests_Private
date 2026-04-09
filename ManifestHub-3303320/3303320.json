@@ -1,0 +1,31 @@
+{
+    "appid": 3303320,
+    "name": "Kraken City",
+    "type": "Game",
+    "schinese_name": "克拉肯城市",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 10:37:31",
+    "change_number": 30128529,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,turkish,brazilian,vietnamese",
+        "3303321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "388049779338627141",
+                    "size": "5070354360",
+                    "download": "2048749648"
+                }
+            },
+            "decryptionkey": "7fe88585c2b6178d6fa39c02a62d464bc3ea6e257eb1f105b5cb918aaaed066a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19043091",
+                "timeupdated": "1751212946"
+            }
+        }
+    }
+}
