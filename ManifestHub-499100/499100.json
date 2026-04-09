@@ -1,0 +1,27 @@
+{
+    "appid": 499100,
+    "name": "Dark Parables: The Exiled Prince Collector's Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 10:25:11",
+    "change_number": 29540639,
+    "depot": {
+        "499101": {
+            "manifests": {
+                "public": {
+                    "gid": "1045820130477726983",
+                    "size": "512611452",
+                    "download": "489696512"
+                }
+            },
+            "decryptionkey": "9a39f401ea29514a873a952a52551f0510e25f5beec1cac6b523449505ca89f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1676063",
+                "timeupdated": "1488912065"
+            }
+        }
+    }
+}
