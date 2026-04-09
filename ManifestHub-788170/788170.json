@@ -1,0 +1,36 @@
+{
+    "appid": "788170",
+    "type": "Tool",
+    "name": "Hand of Fate 2 SDK",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-07-16 02:44:35",
+    "depot": {
+        "788171": {
+            "manifests": {
+                "public": {
+                    "gid": "6722116929046528326",
+                    "size": "22292125",
+                    "download": "20829184"
+                },
+                "test": {
+                    "gid": "3963260186716343964",
+                    "size": "22265272",
+                    "download": "20802000"
+                }
+            },
+            "decryptionkey": "79069bc45ea0c56ecc3a68bcae3ca50234df68006389e0b5980c3193fa77377f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4181479",
+                "timeupdated": "1568100241"
+            },
+            "test": {
+                "buildid": "4085934",
+                "timeupdated": "1565262500"
+            }
+        }
+    }
+}
