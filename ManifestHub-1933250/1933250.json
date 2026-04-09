@@ -1,0 +1,28 @@
+{
+    "appid": 1933250,
+    "name": "No King No Kingdom - Ukraine support Shield of Great Protectors",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:09:41",
+    "change_number": 26662463,
+    "depot": {
+        "1933250": {
+            "manifests": {
+                "public": {
+                    "gid": "764851260534230814",
+                    "size": "103",
+                    "download": "144"
+                }
+            },
+            "dlcappid": "1933250",
+            "decryptionkey": "97aec42c2b6d247f3b21019528050e317fafa7df167465f61171500c95aff857"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8348407",
+                "timeupdated": "1646927742"
+            }
+        }
+    }
+}
