@@ -1,0 +1,41 @@
+{
+    "appid": 1701130,
+    "name": "GRAB",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 21:25:28",
+    "change_number": 30214202,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1701131": {
+            "manifests": {
+                "public": {
+                    "gid": "1709916442823748472",
+                    "size": "178148570",
+                    "download": "81826640"
+                }
+            },
+            "decryptionkey": "8b7d9638098e0a56ecbea9527ef58665465936134987bdef0b46f140d3fa77bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19334343",
+                "timeupdated": "1753302323"
+            }
+        }
+    }
+}
