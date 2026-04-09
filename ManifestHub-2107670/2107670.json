@@ -1,0 +1,46 @@
+{
+    "appid": 2107670,
+    "name": "Warhaven",
+    "type": "Game",
+    "schinese_name": "战争避难所",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 16:56:44",
+    "change_number": 29845639,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2107671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7895718495423194096",
+                    "size": "596144",
+                    "download": "195488"
+                }
+            },
+            "decryptionkey": "ff8753b5841d71183713c55f5b73151c70728a024780c8ef6602625a6d9774c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13958966",
+                "timeupdated": "1749432919"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
