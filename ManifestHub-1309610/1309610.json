@@ -1,0 +1,38 @@
+{
+    "appid": 1309610,
+    "name": "Line War",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 02:10:53",
+    "change_number": 29634761,
+    "depot": {
+        "1309611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7971397047889364847",
+                    "size": "1723669347",
+                    "download": "1405129248"
+                }
+            },
+            "decryptionkey": "3dfaf6fe9e949792916333af7a2fb75f03850e8c6b7d5eb63e2ec6e58171fb1d"
+        },
+        "1309612": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18915898",
+                "timeupdated": "1750270247"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
