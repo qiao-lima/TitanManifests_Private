@@ -1,0 +1,55 @@
+{
+    "appid": 966610,
+    "name": "FPS Monitor",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 20:38:46",
+    "change_number": 29710195,
+    "depot": {
+        "966611": {
+            "manifests": {
+                "public": {
+                    "gid": "7292529511441873916",
+                    "size": "20069316",
+                    "download": "14622544"
+                },
+                "build-5100": {
+                    "gid": "2484030987805326523",
+                    "size": "14377242",
+                    "download": "10615456"
+                },
+                "beta": {
+                    "gid": "7292529511441873916",
+                    "size": "20069316",
+                    "download": "14622544"
+                },
+                "oldsign": {
+                    "gid": "4763954203324136267",
+                    "size": "16066303",
+                    "download": "12065248"
+                }
+            },
+            "decryptionkey": "6e831f76f28e24710cc7727d44dcf814c54e3ecc7bf39030aa075c194c0eb204"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18965640",
+                "timeupdated": "1750707521"
+            },
+            "build-5100": {
+                "buildid": "4268251",
+                "timeupdated": "1579960140"
+            },
+            "beta": {
+                "buildid": "18965640",
+                "timeupdated": "1750685522"
+            },
+            "oldsign": {
+                "buildid": "12692372",
+                "description": "Old digital signature",
+                "timeupdated": "1719310680"
+            }
+        }
+    }
+}
