@@ -1,0 +1,58 @@
+{
+    "appid": 2585580,
+    "name": "Legacy of Sin: Ill-Boding",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 19:23:42",
+    "change_number": 29300512,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2585581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1330204624279014499",
+                    "size": "2957324112",
+                    "download": "1562220032"
+                }
+            },
+            "decryptionkey": "ebf0182bb881ffb042075d779cfffe6b41bf77d9f8a0d00df2dbbab57f8377b1"
+        },
+        "2585582": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3205501705024905257",
+                    "size": "2892446895",
+                    "download": "1578977504"
+                }
+            }
+        },
+        "2585583": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1009158024220040933",
+                    "size": "2849349833",
+                    "download": "1560131680"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "branches": {
+            "public": {
+                "buildid": "18630970",
+                "timeupdated": "1748377253"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
