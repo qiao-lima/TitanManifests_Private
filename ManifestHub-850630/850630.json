@@ -1,0 +1,40 @@
+{
+    "appid": 850630,
+    "name": "Starting the Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 14:24:15",
+    "change_number": 29277241,
+    "depot": {
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,czech",
+        "hasdepotsindlc": "1",
+        "850631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4579638357738269944",
+                    "size": "136771316",
+                    "download": "87332960"
+                }
+            },
+            "decryptionkey": "30ab83ef73bd7c8d58b269720b4ada560aec73ec00b826636958a44fb814e1bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4851333",
+                "timeupdated": "1585843956"
+            }
+        }
+    },
+    "access_token": 18242954053807699462
+}
