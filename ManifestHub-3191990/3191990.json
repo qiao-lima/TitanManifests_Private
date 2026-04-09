@@ -1,0 +1,44 @@
+{
+    "appid": 3191990,
+    "name": "Tiny House Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:57:20",
+    "change_number": 29684152,
+    "depot": {
+        "3191991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2923070952029156319",
+                    "size": "3378053734",
+                    "download": "1253027568"
+                }
+            },
+            "decryptionkey": "076200295f3d07625c86f08efb85eb774810fea7f38b09d735e157448aebe1a4"
+        },
+        "3191992": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1656604943606157982",
+                    "size": "3576450842",
+                    "download": "1296308896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17411693",
+                "timeupdated": "1739903985"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
