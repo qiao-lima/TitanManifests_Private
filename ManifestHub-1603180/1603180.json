@@ -1,0 +1,38 @@
+{
+    "appid": 1603180,
+    "name": "Mining Mechs",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 14:44:27",
+    "change_number": 29910658,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "1603181": {
+            "manifests": {
+                "public": {
+                    "gid": "4452307442991479291",
+                    "size": "116855719",
+                    "download": "109244992"
+                },
+                "beta": {
+                    "gid": "4452307442991479291",
+                    "size": "116855719",
+                    "download": "109244992"
+                }
+            },
+            "decryptionkey": "248a07b127815c2bfd1d9ebe079b9d2497536250d76b280a6b3bfa020d2c81e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19117574",
+                "timeupdated": "1751723061"
+            },
+            "beta": {
+                "buildid": "19117574",
+                "description": "beta",
+                "timeupdated": "1751722640"
+            }
+        }
+    }
+}
