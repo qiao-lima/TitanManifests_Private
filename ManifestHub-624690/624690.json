@@ -1,0 +1,56 @@
+{
+    "appid": 624690,
+    "name": "NEXT JUMP: Shmup Tactics",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 21:00:18",
+    "change_number": 29975204,
+    "depot": {
+        "624691": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7313278695705984145",
+                    "size": "164311491",
+                    "download": "137061184"
+                }
+            },
+            "decryptionkey": "790e7b509fdab682e4018e8bea8523f2c5e04caf8a55c0fd0a0e89f2a4fbac3e"
+        },
+        "624692": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7120162173693167019",
+                    "size": "157248086",
+                    "download": "135703440"
+                }
+            },
+            "decryptionkey": "d4e2db404cfcff2d06ee175246cfa2b81370a8137eeb0934fbcf6e0ebf253d0a"
+        },
+        "624693": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3815851730284757900",
+                    "size": "150598202",
+                    "download": "135119952"
+                }
+            },
+            "decryptionkey": "3b330aa946f3b7365566fa0bd86073700b54d4c6bf5f32dd520ea59446486330"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4149968",
+                "timeupdated": "1567095544"
+            }
+        }
+    }
+}
