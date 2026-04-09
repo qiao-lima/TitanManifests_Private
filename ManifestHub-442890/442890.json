@@ -1,0 +1,52 @@
+{
+    "appid": 442890,
+    "name": "Magic Potion Explorer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:45:29",
+    "change_number": 29235592,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "442891": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3469065391925808645",
+                    "size": "43860122",
+                    "download": "42770816"
+                }
+            },
+            "decryptionkey": "9122fe267cd963a4d09712244b38451a86c5592c1a2fd1714ab6b98c6388b5cb"
+        },
+        "442892": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "250614151931641156",
+                    "size": "43848236",
+                    "download": "42660000"
+                }
+            },
+            "decryptionkey": "0e62e5afd84c53a4355658b71d192312024be7a3c348cb5b36e06b879fc75348"
+        },
+        "branches": {
+            "public": {
+                "buildid": "987727"
+            }
+        }
+    }
+}
