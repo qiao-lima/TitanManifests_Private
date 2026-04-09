@@ -1,0 +1,41 @@
+{
+    "appid": 2389560,
+    "name": "9 lives to defend",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 22:19:24",
+    "change_number": 29997708,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2389561": {
+            "manifests": {
+                "public": {
+                    "gid": "3495980847434938665",
+                    "size": "419244056",
+                    "download": "307210240"
+                }
+            },
+            "decryptionkey": "d800ec63e385301694045e32bc65f4e13846de13410f464790d90421009e9701"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18633249",
+                "timeupdated": "1748393848"
+            }
+        }
+    }
+}
