@@ -1,0 +1,31 @@
+{
+    "appid": "860200",
+    "type": "Game",
+    "name": "Super B-Dino's adventures",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18821630",
+    "update_time": "2024-08-14 19:55:25",
+    "depot": {
+        "860201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8419346121080488992",
+                    "size": "121624836",
+                    "download": "44924320"
+                }
+            },
+            "decryptionkey": "12e12215b227ffb09a122ed743d6d3c2241139e7a640fd12b652a7205806263b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2760119",
+                "timeupdated": "1525901020"
+            }
+        }
+    },
+    "access_token": 1573423657624934003
+}
