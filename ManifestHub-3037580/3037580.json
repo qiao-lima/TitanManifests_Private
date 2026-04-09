@@ -1,0 +1,41 @@
+{
+    "appid": 3037580,
+    "name": "Outside the Blocks Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:26",
+    "change_number": 29655425,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3037581": {
+            "manifests": {
+                "public": {
+                    "gid": "6978138077823226922",
+                    "size": "3351498749",
+                    "download": "2935474320"
+                }
+            },
+            "decryptionkey": "6e34f28d479e7fba755ffc2f0f711eb06676ea6b8a6cb765a98b7c32c78f720e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17212638",
+                "timeupdated": "1738451188"
+            }
+        }
+    }
+}
