@@ -1,0 +1,49 @@
+{
+    "appid": 1816570,
+    "name": "江湖十一",
+    "type": "Game",
+    "schinese_name": "江湖十一",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 09:05:30",
+    "change_number": 30025063,
+    "depot": {
+        "1816571": {
+            "manifests": {
+                "public": {
+                    "gid": "2701661034226968587",
+                    "size": "23597378997",
+                    "download": "5714933712"
+                },
+                "demo1.0": {
+                    "gid": "3228968636701874139",
+                    "size": "9626364597",
+                    "download": "3371748624"
+                },
+                "jh11_remake": {
+                    "gid": "6689444823410582372",
+                    "size": "12456460809",
+                    "download": "8481344512"
+                }
+            },
+            "decryptionkey": "716a4188694fe49c4a275171e72381e4339eda28a87f93d229ff22673e96c1dd"
+        },
+        "1816572": {},
+        "branches": {
+            "public": {
+                "buildid": "10530592",
+                "timeupdated": "1676113219"
+            },
+            "demo1.0": {
+                "buildid": "13017036",
+                "description": "江湖十一重制版",
+                "timeupdated": "1703141365"
+            },
+            "jh11_remake": {
+                "buildid": "19193055",
+                "description": "天书梦华录-序章试玩",
+                "timeupdated": "1752251342"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
