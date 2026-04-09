@@ -1,0 +1,62 @@
+{
+    "appid": 274880,
+    "name": "Jet Car Stunts",
+    "type": "Game",
+    "schinese_name": "火箭飞车",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 05:16:56",
+    "change_number": 29637228,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "274881": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2412125213963366142",
+                    "size": "244516572",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1e7eec99797ff3f76e9acda0900fb750fd6cc71f6a30bcae5d27a00c56f4a71e"
+        },
+        "274882": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "274883": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "261556"
+            }
+        }
+    }
+}
