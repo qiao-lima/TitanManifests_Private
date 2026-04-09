@@ -1,0 +1,68 @@
+{
+    "appid": 578540,
+    "name": "Perfect Gold",
+    "type": "Game",
+    "schinese_name": "黄金百合 - 百合向视觉小说",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 00:04:10",
+    "change_number": 29575357,
+    "depot": {
+        "baselanguages": "english",
+        "578541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8204984323555474299",
+                    "size": "842454400",
+                    "download": "563768768"
+                }
+            },
+            "decryptionkey": "3ef4f4bb480eaf0ead5d04db0eabf71b92915aa65b5ebac4f012527fe1d88eed"
+        },
+        "578543": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9092925818419432558",
+                    "size": "844438400",
+                    "download": "564520816"
+                }
+            },
+            "decryptionkey": "bd393662c38127fd4ee3513d833e28cb52ba79eef3a596bb2a16d7606debf672"
+        },
+        "1554350": {
+            "dlcappid": "1554350",
+            "manifests": {
+                "public": {
+                    "gid": "3844915617574534345",
+                    "size": "113673626",
+                    "download": "113931312"
+                }
+            },
+            "decryptionkey": "33bfc12bf2738ac7c7fc6414745013635358c2660b5caec3efa69b30b75e4061"
+        },
+        "578542": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4489764859973459126",
+                    "size": "897357351",
+                    "download": "569143376"
+                }
+            },
+            "decryptionkey": "8d2938ab0c800f06e814a3479ff71332b87011a784fc8154d3498fb44a6db0db"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6689348",
+                "timeupdated": "1620834549"
+            }
+        }
+    }
+}
