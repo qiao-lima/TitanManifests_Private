@@ -1,0 +1,42 @@
+{
+    "appid": 2773840,
+    "name": "Sushi Ben Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 05:42:15",
+    "change_number": 29134406,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2773841": {
+            "manifests": {
+                "public": {
+                    "gid": "2211877572687124467",
+                    "size": "4020746897",
+                    "download": "2702065552"
+                }
+            },
+            "decryptionkey": "38e87b510f80eca48807d512c963de9bba38cec8d8d745312f629cc52063a5b2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18562354",
+                "timeupdated": "1747940373"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
