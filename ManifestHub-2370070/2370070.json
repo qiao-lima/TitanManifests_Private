@@ -1,0 +1,53 @@
+{
+    "appid": 2370070,
+    "name": "Nightmare: Worlds Collide",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-15 02:13:41",
+    "change_number": 30059076,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2370071": {
+            "manifests": {
+                "public": {
+                    "gid": "4916977522383645628",
+                    "size": "1790420806",
+                    "download": "1371882208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2370072": {
+            "manifests": {
+                "public": {
+                    "gid": "2502905334160169848",
+                    "size": "1945437773",
+                    "download": "1614994592"
+                }
+            },
+            "decryptionkey": "f5e1605b69b24a1fa9b134085b5b94a579f67724dbaac64c32dac44a39ae1aee"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "11160529",
+                "timeupdated": "1683254705"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
