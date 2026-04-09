@@ -1,0 +1,27 @@
+{
+    "appid": 1857660,
+    "name": "Exes Assault!!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 09:31:22",
+    "change_number": 29818775,
+    "depot": {
+        "1857661": {
+            "manifests": {
+                "public": {
+                    "gid": "3808994814955414633",
+                    "size": "1603832060",
+                    "download": "1500101488"
+                }
+            },
+            "decryptionkey": "e099429fbd34dfb7b300c930405264e508ee5a879574414e2446f5ac81a05a18"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17653994",
+                "timeupdated": "1741544665"
+            }
+        }
+    }
+}
