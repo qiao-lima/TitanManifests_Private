@@ -1,0 +1,91 @@
+{
+    "appid": 727570,
+    "name": "After the Collapse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 23:39:32",
+    "change_number": 29375272,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "727571": {
+            "manifests": {
+                "public": {
+                    "gid": "7921861007753397581",
+                    "size": "3281685637",
+                    "download": "552491808"
+                },
+                "nightly": {
+                    "gid": "7921861007753397581",
+                    "size": "3281685637",
+                    "download": "552491808"
+                },
+                "old-150": {
+                    "gid": "8639740437241301197",
+                    "size": "3325374275",
+                    "download": "604498192"
+                },
+                "old-125": {
+                    "gid": "1942767063572426657",
+                    "size": "1985980666",
+                    "download": "511431776"
+                },
+                "old-085": {
+                    "gid": "4494040213228132243",
+                    "size": "1533595285",
+                    "download": "492721216"
+                }
+            },
+            "decryptionkey": "d831e262dcb259d4676e5e7560364a2ec55d93b9545a7959fc71d24fe5e893da"
+        },
+        "hasdepotsindlc": "0",
+        "workshopdepot": "727570",
+        "branches": {
+            "public": {
+                "buildid": "18736677",
+                "timeupdated": "1749051567"
+            },
+            "nightly": {
+                "buildid": "18736677",
+                "description": "Experimental Branch",
+                "timeupdated": "1749051545"
+            },
+            "old-150": {
+                "buildid": "18612808",
+                "description": "Legacy version - 1.5.0",
+                "timeupdated": "1748361625"
+            },
+            "old-125": {
+                "buildid": "13925277",
+                "description": "Legacy version - 1.2.5",
+                "timeupdated": "1715758275"
+            },
+            "old-085": {
+                "buildid": "7394634",
+                "description": "Legacy version - 0.8.5",
+                "timeupdated": "1664310218"
+            }
+        },
+        "workshopdepotdecryptionkey": "32d97b910bb5e2a95d96c8ea3828bd749cefb71ab71e3de7111bc64f855277ca"
+    }
+}
