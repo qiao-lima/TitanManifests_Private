@@ -1,0 +1,54 @@
+{
+    "appid": 2600670,
+    "name": "Vanity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 14:34:10",
+    "change_number": 29989069,
+    "depot": {
+        "workshopdepot": "2600670",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2600671": {
+            "manifests": {
+                "public": {
+                    "gid": "915926244019518218",
+                    "size": "2965047908",
+                    "download": "2790547120"
+                },
+                "experimentalpublic": {
+                    "gid": "915926244019518218",
+                    "size": "2965047908",
+                    "download": "2790547120"
+                }
+            },
+            "decryptionkey": "30574fcac232fa312e1a55508a7a9f9d9628d8fadd37a077ca246cadd981a392"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19174423",
+                "timeupdated": "1752145337"
+            },
+            "experimentalpublic": {
+                "buildid": "19174423",
+                "description": "ExperimentalPublic",
+                "timeupdated": "1752145234"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4ade41a460b4ba92b90db27f858c377d486327174fddc55bf0117b1f620aecc1"
+    }
+}
