@@ -1,0 +1,45 @@
+{
+    "appid": "545280",
+    "type": "Game",
+    "name": "The face of hope: Underground",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "21739409",
+    "update_time": "2024-08-14 19:16:34",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "545281": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5098446455269512097",
+                    "size": "1126772171",
+                    "download": "378033152"
+                }
+            },
+            "decryptionkey": "6a4bbe1a665514e5e98da63b9f0d9ef2377833588291d85f12db701167a5fbf7"
+        },
+        "545282": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1930817",
+                "timeupdated": "1498946666"
+            }
+        }
+    },
+    "access_token": 10695109520686112052
+}
