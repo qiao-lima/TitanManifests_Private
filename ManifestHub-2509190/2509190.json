@@ -1,0 +1,28 @@
+{
+    "appid": 2509190,
+    "name": "A Night With Angel",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 03:35:28",
+    "change_number": 30101930,
+    "depot": {
+        "2509191": {
+            "manifests": {
+                "public": {
+                    "gid": "2167365886052553233",
+                    "size": "4655508892",
+                    "download": "792071792"
+                }
+            },
+            "decryptionkey": "a651c1703122b0266f437e2d6e878179ad82bfcdce1f42c599f08a196d050275"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19100453",
+                "timeupdated": "1751584947"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
