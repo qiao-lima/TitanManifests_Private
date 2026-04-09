@@ -1,0 +1,53 @@
+{
+    "appid": 1651870,
+    "name": "Nighthunt",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 12:57:08",
+    "change_number": 29987434,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1651871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6323295138810393819",
+                    "size": "29153489328",
+                    "download": "15144138496"
+                }
+            },
+            "decryptionkey": "00e70a1ee3077d99f16143bd3230d20e0ff5dd6884f91252a8ebfd96dd134a40"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9788191",
+                "timeupdated": "1666716702"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
