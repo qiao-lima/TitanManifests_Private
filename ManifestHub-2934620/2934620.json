@@ -1,0 +1,28 @@
+{
+    "appid": 2934620,
+    "name": "Dance Eden",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 17:15:21",
+    "change_number": 29803401,
+    "depot": {
+        "2934621": {
+            "manifests": {
+                "public": {
+                    "gid": "4611239526924574262",
+                    "size": "7917554241",
+                    "download": "3350708672"
+                }
+            },
+            "decryptionkey": "2ce7160930fd2a57c81eb1a61340e24ffd1da3b81cbe1c10ab4a4e21c58e03d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17802750",
+                "timeupdated": "1742524247"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
