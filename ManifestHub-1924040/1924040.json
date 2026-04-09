@@ -1,0 +1,31 @@
+{
+    "appid": 1924040,
+    "name": "Succubus - Ukraine Support",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 20:40:53",
+    "change_number": 27849741,
+    "depot": {
+        "1924040": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8175249717902689423",
+                    "size": "12602618",
+                    "download": "8024048"
+                }
+            },
+            "dlcappid": "1924040",
+            "decryptionkey": "6e526caaf0232eb8d659c5b75643da7703ea62743dbc46398e49de5abb55a111"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15132261",
+                "timeupdated": "1721829046"
+            }
+        }
+    }
+}
