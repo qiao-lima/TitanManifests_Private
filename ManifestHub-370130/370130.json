@@ -1,0 +1,98 @@
+{
+    "appid": 370130,
+    "name": "Lion Quest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 20:15:59",
+    "change_number": 29709925,
+    "depot": {
+        "baselanguages": "english",
+        "370131": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1918542545965030942",
+                    "size": "535468917",
+                    "download": "183144304"
+                },
+                "lion_quest_1.0": {
+                    "gid": "5260051484278330029",
+                    "size": "355906350",
+                    "download": "108365408"
+                }
+            },
+            "decryptionkey": "4918214be2b8fdc272c0257b6bfeee27c911dd16ed165cbc0e1be3ffd5b9c375"
+        },
+        "370133": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8237561028178834943",
+                    "size": "515539018",
+                    "download": "175837392"
+                },
+                "lion_quest_1.0": {
+                    "gid": "2823289864255657295",
+                    "size": "348443754",
+                    "download": "108004800"
+                }
+            },
+            "decryptionkey": "c6b2a16253fea26456583d3d66c9a71108c30034b97853f4b1c9d1377a222c5c"
+        },
+        "370134": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "454477040482265530",
+                    "size": "505676665",
+                    "download": "172827136"
+                },
+                "lion_quest_1.0": {
+                    "gid": "7315214418664837975",
+                    "size": "312002162",
+                    "download": "97448928"
+                }
+            },
+            "decryptionkey": "ec37c9e8c7f9ee8d8915796e9ca4d30f4ec5c8ebf15963a1e4855b18ddbeed49"
+        },
+        "370135": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3552608931595967715",
+                    "size": "518045456",
+                    "download": "176495760"
+                },
+                "lion_quest_1.0": {
+                    "gid": "1343060671352304259",
+                    "size": "316243258",
+                    "download": "98686432"
+                }
+            },
+            "decryptionkey": "26d23c3a738f99d149236a07f69d74205e345f96ddcc32df07dd8e23a2bc7a72"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18969194",
+                "timeupdated": "1750706153"
+            },
+            "lion_quest_1.0": {
+                "buildid": "1221940",
+                "timeupdated": "1488134309"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
