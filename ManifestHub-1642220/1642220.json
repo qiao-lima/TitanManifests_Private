@@ -1,0 +1,70 @@
+{
+    "appid": 1642220,
+    "name": "FIND ALL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:31:47",
+    "change_number": 29511069,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1642221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7824496422260299932",
+                    "size": "437497704",
+                    "download": "297994496"
+                }
+            },
+            "decryptionkey": "1c7b5f3060488564b6a652693322311baa5c2a9bc11b64ec5eab7fa06c0db5db"
+        },
+        "1642222": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6979807466373315350",
+                    "size": "439633135",
+                    "download": "297414160"
+                }
+            },
+            "decryptionkey": "78a16809719b31b6ebb0693197554b4e5ab5135b430e4070b75628d2a71bf81e"
+        },
+        "1642223": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5086571339843534109",
+                    "size": "461580171",
+                    "download": "305413552"
+                }
+            },
+            "decryptionkey": "f874f36bdaaa184695b9e44b49f5ff0bb6938ed7ab460621fbcc7223b71c9543"
+        },
+        "3772290": {
+            "dlcappid": "3772290",
+            "manifests": {
+                "public": {
+                    "gid": "2678158435460753641",
+                    "size": "291590442",
+                    "download": "256625360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18827856",
+                "timeupdated": "1749657999"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
