@@ -1,0 +1,67 @@
+{
+    "appid": 1661130,
+    "name": "Guardians: Royal Journey",
+    "type": "Game",
+    "schinese_name": "守护者：荣耀之旅",
+    "isfreeapp": 1,
+    "update_time": "2025-06-09 01:21:34",
+    "change_number": 29448369,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1661131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6186626857790751225",
+                    "size": "152570800",
+                    "download": "96121136"
+                }
+            },
+            "decryptionkey": "3fe48080430ce07bee987a217dd501144e8f02c82a8a82e5fbcf85e793f30de8"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "7183975",
+                "timeupdated": "1628841934"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
