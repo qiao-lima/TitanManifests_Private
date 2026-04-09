@@ -1,0 +1,42 @@
+{
+    "appid": 719640,
+    "name": "War Planet Online: Global Conquest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-26 19:48:15",
+    "change_number": 29765522,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "719641": {
+            "manifests": {
+                "public": {
+                    "gid": "808696121108202058",
+                    "size": "1764345900",
+                    "download": "1302128336"
+                }
+            },
+            "decryptionkey": "4a48e249b8aeaf0f9c698c0ef0e5d099d0270ba1086aff9f7662d2c5c75e1167"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18993603",
+                "timeupdated": "1750948022"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
