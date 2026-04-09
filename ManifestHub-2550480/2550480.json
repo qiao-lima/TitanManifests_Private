@@ -1,0 +1,43 @@
+{
+    "appid": 2550480,
+    "name": "Skibidi Toilets: Invasion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 17:42:29",
+    "change_number": 30135698,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2550481": {
+            "manifests": {
+                "public": {
+                    "gid": "5200787888956506347",
+                    "size": "6612209661",
+                    "download": "6384720496"
+                }
+            },
+            "decryptionkey": "b259b187ed65dd4872ec123fffa06f0e21749283f848cdeb8ec330c6456ecf7e"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "19277654",
+                "timeupdated": "1752856946"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
