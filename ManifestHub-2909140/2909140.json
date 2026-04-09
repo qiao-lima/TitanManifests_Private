@@ -1,0 +1,41 @@
+{
+    "appid": 2909140,
+    "name": "Unknown Rules",
+    "type": "Game",
+    "schinese_name": "未知守则",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 13:39:13",
+    "change_number": 30154381,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2909141": {
+            "manifests": {
+                "public": {
+                    "gid": "1809577606972388486",
+                    "size": "31360548043",
+                    "download": "13462861472"
+                }
+            },
+            "decryptionkey": "9a020b57261bfa6931f9c44953e257b83b76fc419f80dbe44233d6ecbfb50741"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19291121",
+                "timeupdated": "1753015149"
+            }
+        }
+    }
+}
