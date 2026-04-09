@@ -1,0 +1,98 @@
+{
+    "appid": 1584620,
+    "name": "仙劍奇俠傳三 原聲音樂精選集",
+    "type": "Music",
+    "schinese_name": "仙剑奇侠传三 原声音乐精选集",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 14:16:24",
+    "change_number": 29787547,
+    "depot": {
+        "1584621": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "331643471119785679",
+                    "size": "301501753",
+                    "download": "295981040"
+                }
+            },
+            "decryptionkey": "355620b0f6765ad5356b64d33a682e8ef73ecf9048eea61c86336a7f8c764b4e"
+        },
+        "1584622": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1793573365653264264",
+                    "size": "301501753",
+                    "download": "295981040"
+                }
+            },
+            "decryptionkey": "d40dc6c95dd9c65eaa5a8ed21ed1036cc498b25b6603c3ee4eb06f7b5764d7b7"
+        },
+        "1584623": {
+            "config": {
+                "highqualityaudio": "1",
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2582247075213121449",
+                    "size": "469357580",
+                    "download": "437032768"
+                }
+            },
+            "decryptionkey": "701e9e0b6e0d008431f9946b1e7fd6ce30b382a38b3d617ba16dc0fd71d1eb53"
+        },
+        "1584624": {
+            "config": {
+                "language": "tchinese",
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "897619219201329832",
+                    "size": "469357580",
+                    "download": "437032768"
+                }
+            },
+            "decryptionkey": "5490297f832083fa67be43e936b2456242bfa5f5fb13fa5e00ef22040f5e7bc8"
+        },
+        "1584625": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1836765224471407765",
+                    "size": "301501753",
+                    "download": "295981040"
+                }
+            },
+            "decryptionkey": "e40202235f4e41bac172325004b00c33602e9f83cb8b3242637f73102851085c"
+        },
+        "1584626": {
+            "config": {
+                "language": "english",
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1377894917456551577",
+                    "size": "469357580",
+                    "download": "437032768"
+                }
+            },
+            "decryptionkey": "db995e4afe9f23824cdb37f9af86121e9345ca7fc6b2fddfbe2270ad61f48c6b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6538161",
+                "timeupdated": "1618387964"
+            }
+        }
+    }
+}
