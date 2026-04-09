@@ -1,0 +1,52 @@
+{
+    "appid": 1345820,
+    "name": "Ragnarock",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 15:20:34",
+    "change_number": 30133379,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1345821": {
+            "manifests": {
+                "public": {
+                    "gid": "2540437963753411833",
+                    "size": "2417415067",
+                    "download": "2269223808"
+                },
+                "previous-release": {
+                    "gid": "4669272500815273486",
+                    "size": "2383072835",
+                    "download": "2229277296"
+                }
+            },
+            "decryptionkey": "237c808fac720391a4b5aaa3414f50b6f7331189972658c386ccbb969f231ef4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19275351",
+                "timeupdated": "1752848429"
+            },
+            "previous-release": {
+                "buildid": "18037126",
+                "description": "Previous stable version, to compare and keep playing if you experience any regressions. Please notify us on Discord. Might not be multiplayer-compatible with the current version.",
+                "timeupdated": "1752670310"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
