@@ -1,0 +1,28 @@
+{
+    "appid": 1209510,
+    "name": "Hand In Hand",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 08:10:27",
+    "change_number": 29295273,
+    "depot": {
+        "1209511": {
+            "manifests": {
+                "public": {
+                    "gid": "4471206979112247432",
+                    "size": "1514119547",
+                    "download": "376430448"
+                }
+            },
+            "decryptionkey": "782a3b6209e12ffb83da1b8fd9e5c8b6d10406491b374fb93c376cba006bd0aa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14331384",
+                "timeupdated": "1715374651"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
