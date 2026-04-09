@@ -1,0 +1,29 @@
+{
+    "appid": 433450,
+    "name": "INFERNO CLIMBER",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 02:12:54",
+    "change_number": 29555260,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "433451": {
+            "manifests": {
+                "public": {
+                    "gid": "4974954736445623127",
+                    "size": "1732058638",
+                    "download": "520513696"
+                }
+            },
+            "decryptionkey": "cb749d173efaa03d3582807e2f93d0c26ed5659bdae6d3cdd0d49caace11dbef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1421015",
+                "timeupdated": "1477644014"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
