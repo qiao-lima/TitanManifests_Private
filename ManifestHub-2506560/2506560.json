@@ -1,0 +1,28 @@
+{
+    "appid": 2506560,
+    "name": "Autumn Hike",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 01:22:18",
+    "change_number": 29331201,
+    "depot": {
+        "2506561": {
+            "manifests": {
+                "public": {
+                    "gid": "3353443710285318139",
+                    "size": "422035150",
+                    "download": "175713440"
+                }
+            },
+            "decryptionkey": "6b28689052c911e49b7f140e2f5c0534924aaea9bad8e40cf4d18ca554bc23af"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11655673",
+                "timeupdated": "1688810126"
+            }
+        }
+    },
+    "access_token": 3974166908564976507
+}
