@@ -1,0 +1,41 @@
+{
+    "appid": 1902850,
+    "name": "Dreams in the Witch House",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 20:44:08",
+    "change_number": 29936826,
+    "depot": {
+        "1902851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1002857530792582646",
+                    "size": "640373380",
+                    "download": "534659488"
+                },
+                "previous": {
+                    "gid": "4418901459036366479",
+                    "size": "633902546",
+                    "download": "530925200"
+                }
+            },
+            "decryptionkey": "37d28a0c949df7a3c8bc65f0c0f9062402cd761b503215317f7bdb3d0d8d5432"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13009195",
+                "timeupdated": "1750066048"
+            },
+            "previous": {
+                "buildid": "11314130",
+                "description": "Version 1.07",
+                "timeupdated": "1750066088"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
