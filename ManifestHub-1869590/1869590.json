@@ -1,0 +1,46 @@
+{
+    "appid": 1869590,
+    "name": "Omega Strikers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-07 22:58:10",
+    "change_number": 29938409,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1869591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3170463030816960620",
+                    "size": "5942025237",
+                    "download": "2352243120"
+                }
+            },
+            "decryptionkey": "945287daf599ce240416ba5b21d64c68ffeb0838dd581d705e3b93b8506d1785"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19083650",
+                "timeupdated": "1751486151"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
