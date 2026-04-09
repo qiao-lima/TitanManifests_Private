@@ -1,0 +1,28 @@
+{
+    "appid": 2015620,
+    "name": "Valkyrie of Phantasm",
+    "type": "Game",
+    "schinese_name": "幻想女武神",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 08:43:02",
+    "change_number": 30105363,
+    "depot": {
+        "2015621": {
+            "manifests": {
+                "public": {
+                    "gid": "2626129939898408444",
+                    "size": "4446786915",
+                    "download": "3805893408"
+                }
+            },
+            "decryptionkey": "363db614b65bb18d5e63b3fd853c1d2f7e139d4824d77ffd2142a57489e25781"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16822269",
+                "timeupdated": "1734929324"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
