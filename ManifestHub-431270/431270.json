@@ -1,0 +1,31 @@
+{
+    "appid": "431270",
+    "type": "Game",
+    "name": "GooCubelets: The Algoorithm",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26024411",
+    "update_time": "2024-11-03 13:08:27",
+    "depot": {
+        "431271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2810892947694206704",
+                    "size": "407144756",
+                    "download": "109760992"
+                }
+            },
+            "decryptionkey": "6da24500c69522e87b806e86db6369d098ae26e6311cc62f40ba0ea1bfc42ef2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1854498",
+                "timeupdated": "1496149115"
+            }
+        }
+    },
+    "access_token": 1696307954839443672
+}
