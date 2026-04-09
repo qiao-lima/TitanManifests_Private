@@ -1,0 +1,31 @@
+{
+    "appid": 978864,
+    "name": "DYNASTY WARRIORS 9: Guo Jia \"Additional Hypothetical Scenarios Set\" / 郭嘉「追加ＩＦシナリオセット」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:50",
+    "change_number": 26201212,
+    "depot": {
+        "978864": {
+            "dlcappid": "978864",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3668329079207061188",
+                    "size": "709956688",
+                    "download": "683965152"
+                }
+            },
+            "decryptionkey": "95f67c3c5fb24458b6f6c43a02e4eb390f52718e6a3a279fea6c1b331829116d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3472215",
+                "timeupdated": "1547601466"
+            }
+        }
+    }
+}
