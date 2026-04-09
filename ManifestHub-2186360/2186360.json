@@ -1,0 +1,77 @@
+{
+    "appid": 2186360,
+    "name": "IDUN - Frontline Survival",
+    "type": "Game",
+    "schinese_name": "IDUN - 阵线推进官",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 07:16:36",
+    "change_number": 29697921,
+    "depot": {
+        "baselanguages": "english,german,french,spanish",
+        "2186361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "92312980910691955",
+                    "size": "1213508748",
+                    "download": "618878544"
+                },
+                "beta": {
+                    "gid": "92312980910691955",
+                    "size": "1213508748",
+                    "download": "618878544"
+                }
+            },
+            "decryptionkey": "e5c469955c4eedc6f11a88a247842af0d74f884765f46916576028e59555c437"
+        },
+        "2186362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4953184975136382634",
+                    "size": "1243586477",
+                    "download": "628746480"
+                },
+                "beta": {
+                    "gid": "4953184975136382634",
+                    "size": "1243586477",
+                    "download": "628746480"
+                }
+            },
+            "decryptionkey": "4095cb2636afa750a9812cc767a1cee21fcd292715439fdb79ffa5fe1b2cb318"
+        },
+        "2186363": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9155048642202789097",
+                    "size": "1273787403",
+                    "download": "628250048"
+                },
+                "beta": {
+                    "gid": "9155048642202789097",
+                    "size": "1273787403",
+                    "download": "628250048"
+                }
+            },
+            "decryptionkey": "b872e407a994c839463fe2f4dfdd72d90d1757240baf7f8654464cd919438530"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18825262",
+                "timeupdated": "1749797070"
+            },
+            "beta": {
+                "buildid": "18825262",
+                "description": "Public beta branch",
+                "timeupdated": "1749646862"
+            }
+        }
+    }
+}
