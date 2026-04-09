@@ -1,0 +1,45 @@
+{
+    "appid": 3292260,
+    "name": "Amenti",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:37:50",
+    "change_number": 29701804,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3292261": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5583972698509180311",
+                    "size": "7354779592",
+                    "download": "7026705312"
+                }
+            },
+            "decryptionkey": "74eef4bc050faacbb032fd8e150628a23fc93aec229876a4f5e04427fb623b33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17306708",
+                "timeupdated": "1739191118"
+            }
+        }
+    }
+}
