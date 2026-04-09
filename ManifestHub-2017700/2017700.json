@@ -1,0 +1,43 @@
+{
+    "appid": 2017700,
+    "name": "Aristocunts II Re:ERECTION",
+    "type": "Game",
+    "schinese_name": "反派千金II",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 23:17:44",
+    "change_number": 29693857,
+    "depot": {
+        "2017701": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7930266652242395132",
+                    "size": "892010999",
+                    "download": "748027952"
+                }
+            },
+            "decryptionkey": "0977e26baa12d7de3c9bbe3f500f310a4b22dac153d97db3ab9e075a1135da30"
+        },
+        "2017702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3283306939094018791",
+                    "size": "796792670",
+                    "download": "720185680"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9216991",
+                "timeupdated": "1659125388"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
