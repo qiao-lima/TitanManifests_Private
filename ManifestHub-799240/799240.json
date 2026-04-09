@@ -1,0 +1,47 @@
+{
+    "appid": 799240,
+    "name": "My Free Farm 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-02 11:44:07",
+    "change_number": 29858715,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,polish,danish,dutch,swedish,hungarian,czech,romanian,turkish,bulgarian,greek",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "799241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3849996844650995754",
+                    "size": "901618178",
+                    "download": "274675584"
+                }
+            },
+            "decryptionkey": "260dd0d19979e16e03eb8de7eb68562a7b4fd0443d5a810320a0ae4269536b75"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18746994",
+                "timeupdated": "1749539449"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
