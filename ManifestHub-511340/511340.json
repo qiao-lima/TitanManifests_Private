@@ -1,0 +1,43 @@
+{
+    "appid": "511340",
+    "type": "Game",
+    "name": "Existentia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28302273",
+    "update_time": "2025-04-04 13:15:45",
+    "depot": {
+        "baselanguages": "english",
+        "511345": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "468603616166955798",
+                    "size": "4016181992",
+                    "download": "1022616144"
+                }
+            },
+            "decryptionkey": "c1f10f222c87011b395e0d19b961130baeadaaa1d633cc3902b71c71d5cdbbd9"
+        },
+        "537190": {
+            "manifests": {
+                "public": {
+                    "gid": "8912691418206424906",
+                    "size": "28445686",
+                    "download": "13232320"
+                }
+            },
+            "dlcappid": "537190",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1363230",
+                "timeupdated": "1475098928"
+            }
+        }
+    },
+    "access_token": 7430152587261191724
+}
