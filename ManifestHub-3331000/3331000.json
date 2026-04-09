@@ -1,0 +1,27 @@
+{
+    "appid": 3331000,
+    "name": "Retrowave 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 22:42:24",
+    "change_number": 30174978,
+    "depot": {
+        "3331001": {
+            "manifests": {
+                "public": {
+                    "gid": "2670660221068424069",
+                    "size": "4541402888",
+                    "download": "1818310432"
+                }
+            },
+            "decryptionkey": "a0428c138c350bf0bc84c8c8156bb309fac77ab030cdbadaf1416825c88b5477"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18781274",
+                "timeupdated": "1749342529"
+            }
+        }
+    }
+}
