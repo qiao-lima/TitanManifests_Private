@@ -1,0 +1,31 @@
+{
+    "appid": 1931600,
+    "name": "ネジ込みシミュレーターVol4",
+    "type": "Game",
+    "schinese_name": "螺丝式插入模拟器第4代",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 07:31:03",
+    "change_number": 30125679,
+    "depot": {
+        "1931601": {
+            "manifests": {
+                "public": {
+                    "gid": "8747293818036118417",
+                    "size": "209173739",
+                    "download": "143265248"
+                }
+            },
+            "decryptionkey": "dc427ffc7bb4d6efeb5f0a08857b657d1bad927e05bb2d743bb090816a07784a"
+        },
+        "1931620": {
+            "dlcappid": "1931620"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19270396",
+                "timeupdated": "1752818432"
+            }
+        }
+    }
+}
