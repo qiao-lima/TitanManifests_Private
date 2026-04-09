@@ -1,0 +1,30 @@
+{
+    "appid": 2051130,
+    "name": "Ghostland Yard",
+    "type": "Game",
+    "schinese_name": "幽灵追踪",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 04:41:12",
+    "change_number": 29221481,
+    "depot": {
+        "2051131": {
+            "manifests": {
+                "public": {
+                    "gid": "8031269642015346758",
+                    "size": "643944573",
+                    "download": "481044704"
+                }
+            },
+            "decryptionkey": "d26ab2ba3edceac44a8b15e55a10a144151e65f48029bb05b7d8c0c8da9813d3"
+        },
+        "workshopdepot": "2051130",
+        "branches": {
+            "public": {
+                "buildid": "18631466",
+                "timeupdated": "1748378467"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
