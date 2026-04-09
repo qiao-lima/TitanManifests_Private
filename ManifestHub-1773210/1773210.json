@@ -1,0 +1,43 @@
+{
+    "appid": 1773210,
+    "name": "HumanitZ Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 15:34:05",
+    "change_number": 29899578,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1773211": {
+            "manifests": {
+                "public": {
+                    "gid": "8104971522161859969",
+                    "size": "27512388009",
+                    "download": "26025685456"
+                }
+            },
+            "decryptionkey": "b136871f079c334c768288acfcd7cf03463fc39b4299e3400726675ad69bf1ce"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19109557",
+                "timeupdated": "1751639639"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
