@@ -1,0 +1,28 @@
+{
+    "appid": 2304490,
+    "name": "Project: Sword Art",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 07:30:00",
+    "change_number": 30083341,
+    "depot": {
+        "2304491": {
+            "manifests": {
+                "public": {
+                    "gid": "4453642169120944601",
+                    "size": "899044060",
+                    "download": "327732240"
+                }
+            },
+            "decryptionkey": "c0854b5db167fafc12c98f0ae9353fb7071ee46a984a6c6efe7bdb833e6972b0"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "12769629",
+                "timeupdated": "1700647696"
+            }
+        }
+    }
+}
