@@ -1,0 +1,41 @@
+{
+    "appid": 1731360,
+    "name": "中国战疫",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 00:49:29",
+    "change_number": 30158944,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1731361": {
+            "manifests": {
+                "public": {
+                    "gid": "8772776835997832930",
+                    "size": "582094495",
+                    "download": "335945616"
+                }
+            },
+            "decryptionkey": "8ac6f06e783f1f3b6d815e30cd72a7e4a4107e7d1bdcbdea56ab012f123f7c05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8564830",
+                "timeupdated": "1650037687"
+            }
+        }
+    }
+}
