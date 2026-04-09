@@ -1,0 +1,93 @@
+{
+    "appid": "486820",
+    "type": "Game",
+    "name": "Yellow: The Yellow Artifact",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:11:28",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "486821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2033578050301522956",
+                    "size": "125655552",
+                    "download": "64554720"
+                },
+                "linux": {
+                    "gid": "1662049404328061918",
+                    "size": "136190976",
+                    "download": "67122016"
+                },
+                "macos": {
+                    "gid": "1662049404328061918",
+                    "size": "136190976",
+                    "download": "67122016"
+                }
+            },
+            "decryptionkey": "f5dfd88a17941de0bfce8cce4ef91e192e3f22a6c31b6da972e5949eb917ec44"
+        },
+        "486822": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linux": {
+                    "gid": "8406438101800170372",
+                    "size": "180661827",
+                    "download": "71487136"
+                }
+            }
+        },
+        "486823": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8382701189196195427",
+                    "size": "178760883",
+                    "download": "71596256"
+                },
+                "linux": {
+                    "gid": "8382701189196195427",
+                    "size": "178760883",
+                    "download": "71596256"
+                },
+                "macos": {
+                    "gid": "751617288214581993",
+                    "size": "810124776",
+                    "download": "77594352"
+                }
+            },
+            "decryptionkey": "cbc39cf3dc7d46ad78152b382d31a0ac338da70ec8c405e084147797b97fca8a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1178267",
+                "timeupdated": "1465829197"
+            },
+            "linux": {
+                "buildid": "1178318",
+                "description": "Linux builds",
+                "timeupdated": "1465830636"
+            },
+            "macos": {
+                "buildid": "1178332",
+                "description": "MacOS build",
+                "timeupdated": "1465831081"
+            }
+        }
+    },
+    "access_token": 2546510014463970706
+}
