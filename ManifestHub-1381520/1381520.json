@@ -1,0 +1,40 @@
+{
+    "appid": 1381520,
+    "name": "Cricket: Jae's Really Peculiar Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 21:49:28",
+    "change_number": 30097451,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1381521": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2515067296086556272",
+                    "size": "4172583685",
+                    "download": "3610787904"
+                }
+            },
+            "decryptionkey": "b6f3379afc94e4d142123a0e25fd076dd675762ca0bd34299f96cf74204820b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19002121",
+                "timeupdated": "1750891352"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
