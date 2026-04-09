@@ -1,0 +1,31 @@
+{
+    "appid": 1200730,
+    "name": "Shady Lewd Kart",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 15:56:55",
+    "change_number": 30188475,
+    "depot": {
+        "1200731": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6340833504089261741",
+                    "size": "7951957226",
+                    "download": "1784606720"
+                }
+            },
+            "decryptionkey": "c6eeaf71460de6f32a5461c7a38c28f7b66b196c5801007ea62c8141378d4c41"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19316351",
+                "timeupdated": "1753196211"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
