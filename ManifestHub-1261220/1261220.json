@@ -1,0 +1,56 @@
+{
+    "appid": 1261220,
+    "name": "The Neverland of the Mountain and Sea",
+    "type": "Game",
+    "schinese_name": "山的桃源乡，海的乌托邦",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 14:07:47",
+    "change_number": 30146391,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "1261221": {
+            "manifests": {
+                "public": {
+                    "gid": "690185833959071088",
+                    "size": "3328407455",
+                    "download": "3265799712"
+                },
+                "v1.1": {
+                    "gid": "7997610583007595119",
+                    "size": "5559675351",
+                    "download": "5564317184"
+                }
+            },
+            "decryptionkey": "1f8fe8b95d94044f2786221da0cccf43154444ae695184ae85ce0b07b70ee1a1"
+        },
+        "1261222": {
+            "config": {
+                "oslist": "macos,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1781412871449428427",
+                    "size": "115068784",
+                    "download": "39601136"
+                },
+                "v1.1": {
+                    "gid": "2871823262409256212",
+                    "size": "50143537",
+                    "download": "14752448"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19285497",
+                "timeupdated": "1752930389"
+            },
+            "v1.1": {
+                "buildid": "19283913",
+                "description": "Based on RenPy 8.0.3",
+                "timeupdated": "1752909311"
+            }
+        }
+    }
+}
