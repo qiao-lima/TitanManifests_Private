@@ -1,0 +1,27 @@
+{
+    "appid": 1647310,
+    "name": "卫国战争",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 15:36:06",
+    "change_number": 30112793,
+    "depot": {
+        "1647311": {
+            "manifests": {
+                "public": {
+                    "gid": "8947259837779924335",
+                    "size": "6022553851",
+                    "download": "1765554928"
+                }
+            },
+            "decryptionkey": "0b60df88f0024a9f771c1029fb96eb9b4e4026466fce162f0eafab303dc9d323"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19024142",
+                "timeupdated": "1751017432"
+            }
+        }
+    }
+}
