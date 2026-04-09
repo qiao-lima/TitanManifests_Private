@@ -1,0 +1,40 @@
+{
+    "appid": 3041090,
+    "name": "彼方的她-Aliya 音画集",
+    "type": "Music",
+    "schinese_name": "彼方的她-Aliya 音画集",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 23:28:00",
+    "change_number": 30194730,
+    "depot": {
+        "3041091": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6579487794147912961",
+                    "size": "515275547",
+                    "download": "457260464"
+                }
+            },
+            "decryptionkey": "37bc468045c4960ea4fb5d62ca79ecc5b2d47d945fe60bc48f27121beb934078"
+        },
+        "3041092": {
+            "manifests": {
+                "public": {
+                    "gid": "5308105758025995115",
+                    "size": "247825035",
+                    "download": "247938656"
+                }
+            },
+            "decryptionkey": "a0bf08b76d6cf0c86ddc6aa2f7e24077e20e3c575c57f375b5b4ce9cec9ad98e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18974228",
+                "timeupdated": "1750731861"
+            }
+        }
+    }
+}
