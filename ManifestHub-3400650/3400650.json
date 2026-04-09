@@ -1,0 +1,28 @@
+{
+    "appid": 3400650,
+    "name": "Creepy Shift: House For Sale",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 12:12:41",
+    "change_number": 30047309,
+    "depot": {
+        "3400651": {
+            "manifests": {
+                "public": {
+                    "gid": "7879671901453081773",
+                    "size": "7345382290",
+                    "download": "3099994480"
+                }
+            },
+            "decryptionkey": "41d5afdb2760edcd2ed7f80f42b61c145fa9ce711b43f9fcd56ff9d63ab5587e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18621382",
+                "timeupdated": "1748353227"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
