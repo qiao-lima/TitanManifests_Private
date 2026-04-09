@@ -1,0 +1,28 @@
+{
+    "appid": 1995880,
+    "name": "Afterdream",
+    "type": "Game",
+    "schinese_name": "梦中影",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 16:11:59",
+    "change_number": 29900241,
+    "depot": {
+        "1995881": {
+            "manifests": {
+                "public": {
+                    "gid": "7712881677668374645",
+                    "size": "408035678",
+                    "download": "335973552"
+                }
+            },
+            "decryptionkey": "f75b6a72ee73e34e1b3ff15e72e81517785513162b3544c3f5261751550a1006"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12103898",
+                "timeupdated": "1693825718"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
