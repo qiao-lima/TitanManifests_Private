@@ -1,0 +1,27 @@
+{
+    "appid": 2321860,
+    "name": "8th Heaven",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 16:36:15",
+    "change_number": 30134640,
+    "depot": {
+        "2321861": {
+            "manifests": {
+                "public": {
+                    "gid": "5582810911022586013",
+                    "size": "2808903098",
+                    "download": "648698336"
+                }
+            },
+            "decryptionkey": "1279159e1ca3c0df2eed92973c5d0ce480525542ac596081e6f38429d2b9a1f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19008625",
+                "timeupdated": "1750931199"
+            }
+        }
+    }
+}
