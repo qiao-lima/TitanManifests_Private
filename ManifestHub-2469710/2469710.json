@@ -1,0 +1,31 @@
+{
+    "appid": 2469710,
+    "name": "Forest of Strays",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 00:47:13",
+    "change_number": 29977823,
+    "depot": {
+        "2469711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3394427093641345974",
+                    "size": "99866022",
+                    "download": "95367808"
+                }
+            },
+            "decryptionkey": "28809503c06ebd86f5076cc0e333aa085527d6a8fa82641e075d82d74245349a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19167664",
+                "timeupdated": "1752104828"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
