@@ -1,0 +1,33 @@
+{
+    "appid": "608390",
+    "type": "Game",
+    "name": "Mad Dagger",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24611823",
+    "update_time": "2024-08-14 19:24:13",
+    "depot": {
+        "baselanguages": "english,russian",
+        "608391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7517908908385327133",
+                    "size": "271527492",
+                    "download": "88252800"
+                }
+            },
+            "decryptionkey": "da4cc2d253e16e839c026208f27b2864acc587fdab30356d542edd1162692d58"
+        },
+        "608392": {},
+        "branches": {
+            "public": {
+                "buildid": "1726040",
+                "timeupdated": "1490901578"
+            }
+        }
+    },
+    "access_token": 10420462726078085859
+}
