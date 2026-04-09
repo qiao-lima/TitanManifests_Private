@@ -1,0 +1,44 @@
+{
+    "appid": 1608400,
+    "name": "Vermillion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:59:51",
+    "change_number": 29649652,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1608401": {
+            "manifests": {
+                "public": {
+                    "gid": "134354351278910671",
+                    "size": "2336791728",
+                    "download": "919207312"
+                }
+            },
+            "decryptionkey": "a90a70cee56fe34d1297c3ad2a6aab2587a671e7ba0815ce6f4ad80f32231c92"
+        },
+        "workshopdepot": "1608400",
+        "branches": {
+            "public": {
+                "buildid": "18926375",
+                "timeupdated": "1750337985"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "59785fac9c09d9ac272dbb8870ca08f0a894c60782c8f062de2706dfdb36161f"
+    }
+}
