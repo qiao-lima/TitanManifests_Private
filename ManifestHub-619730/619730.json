@@ -1,0 +1,29 @@
+{
+    "appid": "619730",
+    "type": "Game",
+    "name": "Mad Driver",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26881659",
+    "update_time": "2025-01-07 03:11:53",
+    "depot": {
+        "619731": {
+            "manifests": {
+                "public": {
+                    "gid": "4382525160425000940",
+                    "size": "262490038",
+                    "download": "83338544"
+                }
+            },
+            "decryptionkey": "d95aeb4e6033bcae6a798ff8b3e0fb40f760e8802e4a3e31b04946e2cf299df7"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "2047339",
+                "timeupdated": "1502989497"
+            }
+        }
+    },
+    "access_token": 17631494730563823138
+}
