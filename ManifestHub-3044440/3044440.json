@@ -1,0 +1,45 @@
+{
+    "appid": 3044440,
+    "name": "Gas Station Manager",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 19:52:03",
+    "change_number": 30156959,
+    "depot": {
+        "3044441": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2580006813859373939",
+                    "size": "769827907",
+                    "download": "486380752"
+                }
+            },
+            "decryptionkey": "2840c93bb75474604b492bb085b1d5b13f1f40822edd816661204eff2d54ea05"
+        },
+        "3044442": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6630919087684193374",
+                    "size": "1006820431",
+                    "download": "520852976"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18161998",
+                "timeupdated": "1745009593"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
