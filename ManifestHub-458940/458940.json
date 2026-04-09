@@ -1,0 +1,28 @@
+{
+    "appid": "458940",
+    "type": "Game",
+    "name": "The Atomy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26153475",
+    "update_time": "2024-11-12 16:37:29",
+    "depot": {
+        "458941": {
+            "manifests": {
+                "public": {
+                    "gid": "4682015996814500982",
+                    "size": "409017355",
+                    "download": "123830608"
+                }
+            },
+            "decryptionkey": "d4a971dcae0e505ca89cd7fc310c85cc6abbb1377bb35abdef35267fa082af6c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1382772",
+                "timeupdated": "1476042184"
+            }
+        }
+    },
+    "access_token": 12551026596181485988
+}
