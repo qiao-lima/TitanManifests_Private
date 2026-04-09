@@ -1,0 +1,29 @@
+{
+    "appid": 999550,
+    "name": "Graviteam Tactics: Against the Tide",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:51:23",
+    "change_number": 27015870,
+    "depot": {
+        "999550": {
+            "manifests": {
+                "public": {
+                    "gid": "2883901631837280533",
+                    "size": "758235584",
+                    "download": "760698416"
+                }
+            },
+            "dlcappid": "999550",
+            "decryptionkey": "bff3cdde9a90c03e51e093175ad1bc02997a73ba43d2f125be14ad659b8d8a10"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11135964",
+                "timeupdated": "1683399148"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
