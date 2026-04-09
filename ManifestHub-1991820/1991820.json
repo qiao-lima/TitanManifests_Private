@@ -1,0 +1,32 @@
+{
+    "appid": 1991820,
+    "name": "Drunken FC",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 20:52:04",
+    "change_number": 30157351,
+    "depot": {
+        "1991821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6730716145363139475",
+                    "size": "603534354",
+                    "download": "210423568"
+                }
+            },
+            "decryptionkey": "72ff0e7650cfe58c466b94b85971822e149725390ef435f97c1480ad4d78a520"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,polish,hungarian,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18924622",
+                "timeupdated": "1750326368"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
