@@ -1,0 +1,74 @@
+{
+    "appid": 80310,
+    "name": "Gemini Rue",
+    "type": "Game",
+    "schinese_name": "双子座行动",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 00:58:23",
+    "change_number": 29468644,
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "80311": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "432574355052031449",
+                    "size": "285209968",
+                    "download": "244164048"
+                }
+            },
+            "decryptionkey": "4a81d67d9a92e78d13638d071c5e73e2389bcf9257b7d8a0ed3a19b0fc77c16d"
+        },
+        "80312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "955624264312596922",
+                    "size": "300222898",
+                    "download": "244842912"
+                }
+            },
+            "decryptionkey": "aac7cebd9311b622ad3d3012e01a0573a1e1a4351eb33df2f476909823885832"
+        },
+        "80313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "129106508979204587",
+                    "size": "354295909",
+                    "download": "261305952"
+                }
+            },
+            "decryptionkey": "496a2af8e9be0f1a754bb9c6b9fcf6907190c5d7663028735b28883a4c0587aa"
+        },
+        "80314": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2814791017423853894",
+                    "size": "357586628",
+                    "download": "258206144"
+                }
+            },
+            "decryptionkey": "2c6f74e58aef34bf69ee522053de2b9d0e11c06cff84b93fbe5e3e56c3f5c042"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18250134",
+                "timeupdated": "1745677413"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
