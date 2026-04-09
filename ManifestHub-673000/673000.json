@@ -1,0 +1,55 @@
+{
+    "appid": 673000,
+    "name": "High Hell",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:38:55",
+    "change_number": 29666433,
+    "depot": {
+        "673001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5573578223036735059",
+                    "size": "720542792",
+                    "download": "232250208"
+                }
+            },
+            "decryptionkey": "5f60c8e355d39c9d48840d1fd005c999b0b1565422a96d40bab51cac30df2fbf"
+        },
+        "673002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5482062111282646920",
+                    "size": "770171672",
+                    "download": "245839856"
+                }
+            },
+            "decryptionkey": "ff8278e0ba6c8fae9d1a1dd45522c6b71e9f5f8157ddd23903b95250122e578d"
+        },
+        "737250": {
+            "dlcappid": "737250",
+            "manifests": {
+                "public": {
+                    "gid": "75712355866889175",
+                    "size": "176461473",
+                    "download": "163246960"
+                }
+            },
+            "decryptionkey": "493a33b0ad081ffb9c0fb6df74b01e4b335ef2ec03578f4a6bcf396f135fe95d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2249077",
+                "timeupdated": "1509553402"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
