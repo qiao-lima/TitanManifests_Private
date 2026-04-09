@@ -1,0 +1,138 @@
+{
+    "appid": "475220",
+    "type": "Game",
+    "name": "Kabitis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:10:47",
+    "depot": {
+        "475221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1310572937058331459",
+                    "size": "174987455",
+                    "download": "77997728"
+                }
+            },
+            "decryptionkey": "566fd05318960b63b0a0bea2231bacf6e0b4663c002216ace999236c088e40c3"
+        },
+        "475222": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8370876509970803192",
+                    "size": "166782352",
+                    "download": "60881312"
+                }
+            },
+            "decryptionkey": "ea2404a27cc93a64ae3e1ceaa7ba1f3f5bb4e92c3eb2b40b050d3365e6bd1df8"
+        },
+        "475223": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2743930930396005255",
+                    "size": "197893432",
+                    "download": "70354016"
+                }
+            },
+            "decryptionkey": "757392d14e7039010c497e7ba88c32258e6f9295cead5a3740abab99b5d85c8d"
+        },
+        "483280": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "483280",
+            "manifests": {
+                "public": {
+                    "gid": "6591510744688451711",
+                    "size": "171924546",
+                    "download": "74984640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "475224": {
+            "dlcappid": "483280",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8781807878113841653",
+                    "size": "194756613",
+                    "download": "67275104"
+                }
+            }
+        },
+        "475225": {
+            "dlcappid": "483280",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2806392288396350935",
+                    "size": "163711026",
+                    "download": "57851696"
+                }
+            }
+        },
+        "533220": {
+            "dlcappid": "533220",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4915237642785586243",
+                    "size": "116406102",
+                    "download": "40890784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "533221": {
+            "dlcappid": "533220",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1693397889428401440",
+                    "size": "148673907",
+                    "download": "42659088"
+                }
+            }
+        },
+        "533222": {
+            "dlcappid": "533220",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6118434040356205102",
+                    "size": "178453865",
+                    "download": "51800144"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3958752",
+                "timeupdated": "1561597053"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 5970318749886795729
+}
