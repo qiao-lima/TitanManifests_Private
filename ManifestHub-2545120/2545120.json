@@ -1,0 +1,32 @@
+{
+    "appid": 2545120,
+    "name": "CUSTOM ORDER MAID 3D2 Personality Pack Overly Serious and Reserved Proper Lady DLX edition",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:17:40",
+    "change_number": 26201212,
+    "depot": {
+        "2545121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5953008772633375530",
+                    "size": "7191050770",
+                    "download": "1834126464"
+                }
+            },
+            "dlcappid": "2545120",
+            "decryptionkey": "e26a28e1e9313265ecf07208d863e6c5be1d147171c7cfd745c71ded2a761ef5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11907476",
+                "timeupdated": "1691633071"
+            }
+        }
+    }
+}
