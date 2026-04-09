@@ -1,0 +1,47 @@
+{
+    "appid": 1161770,
+    "name": "Breeders of the Nephelym",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-20 20:59:22",
+    "change_number": 30157417,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1161771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3191187047250776273",
+                    "size": "5325364189",
+                    "download": "5149996704"
+                }
+            },
+            "decryptionkey": "f721df393d668bd9b99270f51c5a715d40556fe826c5213700ed3b7e95858976"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19293018",
+                "timeupdated": "1753041556"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
