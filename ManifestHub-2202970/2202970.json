@@ -1,0 +1,40 @@
+{
+    "appid": 2202970,
+    "name": "Soulstone Survivors Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 11:34:06",
+    "change_number": 29617529,
+    "depot": {
+        "2202971": {
+            "manifests": {
+                "public": {
+                    "gid": "5777671528674484643",
+                    "size": "158114141",
+                    "download": "123785440"
+                }
+            },
+            "decryptionkey": "24dfa913ef98f7a717ab6d92810425568b7d3276c92dc8a44b5b536d113870c8"
+        },
+        "2202972": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "36000254100157888",
+                    "size": "1130527230",
+                    "download": "1067918752"
+                }
+            },
+            "decryptionkey": "ca1803ea4dd9dca3fd1365bb07a33e3feb0f69088c2b9c7b7b0913d636e4d7c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18889117",
+                "timeupdated": "1750179089"
+            }
+        }
+    }
+}
