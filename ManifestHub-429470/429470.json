@@ -1,0 +1,35 @@
+{
+    "appid": 429470,
+    "name": "Space Pilgrim Episode I: Alpha Centauri",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-25 00:08:11",
+    "change_number": 29731685,
+    "depot": {
+        "429471": {
+            "manifests": {
+                "public": {
+                    "gid": "8403275435657402383",
+                    "size": "255135152",
+                    "download": "249797568"
+                },
+                "test": {
+                    "gid": "8403275435657402383",
+                    "size": "255135152",
+                    "download": "249797568"
+                }
+            },
+            "decryptionkey": "79d64a415b5ac61c0e3a49d4fd3d76db57b9f7bbd99ba4c0601d1ea190676608"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1014785"
+            },
+            "test": {
+                "buildid": "1014785",
+                "description": "test"
+            }
+        }
+    }
+}
