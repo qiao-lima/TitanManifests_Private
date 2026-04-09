@@ -1,0 +1,60 @@
+{
+    "appid": "1513760",
+    "type": "Game",
+    "name": "Girls Pinball",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 22:42:54",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1513761": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1203126694684377309",
+                    "size": "158263023",
+                    "download": "42757456"
+                }
+            },
+            "decryptionkey": "f1e29587f6d7779ff0eeb6e71ff7c1158943488c055596cdaec283d86c68915a"
+        },
+        "1515910": {
+            "dlcappid": "1515910",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2432781849085367335",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1515911": {
+            "dlcappid": "1515911",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3092862431049304044",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6043614",
+                "timeupdated": "1609899862"
+            }
+        }
+    },
+    "access_token": 13058422574336548386
+}
