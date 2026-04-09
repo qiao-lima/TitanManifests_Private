@@ -1,0 +1,27 @@
+{
+    "appid": 1760670,
+    "name": "Mystery Swords",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 00:49:24",
+    "change_number": 30150592,
+    "depot": {
+        "1760671": {
+            "manifests": {
+                "public": {
+                    "gid": "3344464120084891033",
+                    "size": "162152827",
+                    "download": "142525296"
+                }
+            },
+            "decryptionkey": "77e01696c5e8c07fa11c753e8da6c9f17890528d2db075eb486a31115b596239"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7358996",
+                "timeupdated": "1631649202"
+            }
+        }
+    }
+}
