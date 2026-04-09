@@ -1,0 +1,41 @@
+{
+    "appid": 3447570,
+    "name": "Get a midnight snack without mom knowing",
+    "type": "Game",
+    "schinese_name": "瞒着妈妈吃夜宵",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 15:53:05",
+    "change_number": 30147180,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3447571": {
+            "manifests": {
+                "public": {
+                    "gid": "2416164553778466210",
+                    "size": "1083344576",
+                    "download": "772213696"
+                }
+            },
+            "decryptionkey": "f9bb61e4615afefa730b28be97bbdde15dec611b9f63dc6c754adcf7dee9b70a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19006718",
+                "timeupdated": "1750921792"
+            }
+        }
+    }
+}
