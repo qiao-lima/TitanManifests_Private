@@ -1,0 +1,27 @@
+{
+    "appid": 3004440,
+    "name": "#BLUD Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 17:07:44",
+    "change_number": 26201212,
+    "depot": {
+        "3004441": {
+            "manifests": {
+                "public": {
+                    "gid": "1131862802640709275",
+                    "size": "174137373",
+                    "download": "145919024"
+                }
+            },
+            "decryptionkey": "0d2678b5bfb8b2a106728fbe33897c8e67d50449123f0b1c77d0e391ac73d2ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14408348",
+                "timeupdated": "1715980392"
+            }
+        }
+    }
+}
