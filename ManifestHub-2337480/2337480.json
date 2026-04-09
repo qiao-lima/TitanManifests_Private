@@ -1,0 +1,42 @@
+{
+    "appid": 2337480,
+    "name": "Combat Champions Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 05:09:11",
+    "change_number": 30041955,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2337481": {
+            "manifests": {
+                "public": {
+                    "gid": "3794526410474674426",
+                    "size": "21838579526",
+                    "download": "13484328592"
+                }
+            },
+            "decryptionkey": "ab1319582cf2c8979f19fcae9726c5e2199c7152467400cd23167745fa881f82"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14997885",
+                "timeupdated": "1720801483"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
