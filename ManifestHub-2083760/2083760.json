@@ -1,0 +1,28 @@
+{
+    "appid": "2083760",
+    "type": "Game",
+    "name": "Tiki Tiki Hop",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "19436079",
+    "update_time": "2024-08-14 21:01:30",
+    "depot": {
+        "2083761": {
+            "manifests": {
+                "public": {
+                    "gid": "2010871690574420797",
+                    "size": "65071721",
+                    "download": "16932640"
+                }
+            },
+            "decryptionkey": "59e0990c694a27ef42a916f040dc142ddc9052e5061f54b2c644dd1854c656eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9091607",
+                "timeupdated": "1657375793"
+            }
+        }
+    },
+    "access_token": 6466727611648406050
+}
