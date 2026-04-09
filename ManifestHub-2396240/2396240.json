@@ -1,0 +1,28 @@
+{
+    "appid": 2396240,
+    "name": "SteamWorld Heist II",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 13:10:06",
+    "change_number": 29822062,
+    "depot": {
+        "2396241": {
+            "manifests": {
+                "public": {
+                    "gid": "3227884472846331420",
+                    "size": "4034951860",
+                    "download": "1618398032"
+                }
+            },
+            "decryptionkey": "a33fb80f640826dd29e8a225baf9156fc106564d7de50b8c786bb01ba5e3effb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15929319",
+                "timeupdated": "1728398842"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
