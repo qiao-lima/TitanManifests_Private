@@ -1,0 +1,81 @@
+{
+    "appid": 3376080,
+    "name": "The Leviathan's fantasy",
+    "type": "Game",
+    "schinese_name": "我的幻想乡",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 07:55:06",
+    "change_number": 30161977,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3376081": {
+            "manifests": {
+                "public": {
+                    "gid": "571526682883580909",
+                    "size": "16565843141",
+                    "download": "15333699120"
+                },
+                "beta": {
+                    "gid": "6309391405959927799",
+                    "size": "2381850579",
+                    "download": "1796527392"
+                }
+            },
+            "decryptionkey": "3fe0ea7d856c0431a2fd1ce4605b7d8f379c45fa41d47f17c4a8a3ceac051d67"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17695213",
+                "timeupdated": "1749239600"
+            },
+            "beta": {
+                "buildid": "19296394",
+                "description": "用于测试",
+                "timeupdated": "1753080900"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
