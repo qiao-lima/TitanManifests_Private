@@ -1,0 +1,53 @@
+{
+    "appid": 2459350,
+    "name": "Taboo University Book One",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 10:38:24",
+    "change_number": 30128550,
+    "depot": {
+        "2459351": {
+            "manifests": {
+                "public": {
+                    "gid": "7305870198977151099",
+                    "size": "8277583446",
+                    "download": "8138626720"
+                },
+                "beta": {
+                    "gid": "7305870198977151099",
+                    "size": "8277583446",
+                    "download": "8138626720"
+                }
+            },
+            "decryptionkey": "d2a72495e9c6120eb5267ece25116f7435c00082dcf1c242b5d1dbe8ffab1fbe"
+        },
+        "3202740": {
+            "dlcappid": "3202740",
+            "manifests": {
+                "public": {
+                    "gid": "326765332814089125",
+                    "size": "2814367",
+                    "download": "2294192"
+                },
+                "beta": {
+                    "gid": "326765332814089125",
+                    "size": "2814367",
+                    "download": "2294192"
+                }
+            },
+            "decryptionkey": "ae5430b21357961642a3562c24e1f533d1753b4c608fa3ee8a507b07750bda25"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19265976",
+                "timeupdated": "1752831498"
+            },
+            "beta": {
+                "buildid": "19265976",
+                "description": "Beta",
+                "timeupdated": "1752787314"
+            }
+        }
+    }
+}
