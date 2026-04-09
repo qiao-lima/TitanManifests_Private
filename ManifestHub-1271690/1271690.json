@@ -1,0 +1,31 @@
+{
+    "appid": 1271690,
+    "name": "Zombie Derby: Pixel Survival",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 06:16:49",
+    "change_number": 29171712,
+    "depot": {
+        "1271691": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9220827486683686097",
+                    "size": "200069943",
+                    "download": "83749136"
+                }
+            },
+            "decryptionkey": "6614e6b3869a7fc642918bd90636ab246bd7f557d4c90a5d0e1921484aaceaf4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15849329",
+                "timeupdated": "1727434257"
+            }
+        }
+    }
+}
