@@ -1,0 +1,31 @@
+{
+    "appid": 2649480,
+    "name": "Spirit Valley",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 11:58:06",
+    "change_number": 30009195,
+    "depot": {
+        "2649481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2958474988835614987",
+                    "size": "1102506208",
+                    "download": "209040688"
+                }
+            },
+            "decryptionkey": "c8eb781eae8b24fa10fbf59a6cd2c74a0068c19afa643ade78e34aae7fc20b88"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18608108",
+                "timeupdated": "1749117930"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
