@@ -1,0 +1,32 @@
+{
+    "appid": 581470,
+    "name": "Mortifero Motus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:18:29",
+    "change_number": 29615390,
+    "depot": {
+        "baselanguages": "english",
+        "581471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8164809191027837712",
+                    "size": "113269508",
+                    "download": "43966544"
+                }
+            },
+            "decryptionkey": "21ae4e4cd37f1362e1cca0ee3a623b87e3d29816669a66e5000fa2a91f8c76eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1577010",
+                "timeupdated": "1484767200"
+            }
+        }
+    },
+    "access_token": 10846320282575495975
+}
