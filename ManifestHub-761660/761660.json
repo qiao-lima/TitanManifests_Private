@@ -1,0 +1,56 @@
+{
+    "appid": 761660,
+    "name": "Stickman Destruction 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:56",
+    "change_number": 30056467,
+    "depot": {
+        "761661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6186641226231423085",
+                    "size": "98147463",
+                    "download": "15965920"
+                }
+            },
+            "decryptionkey": "4446d632d73e77a9fe9401f24d0ef1da1ccff7732edb1dc1e60ba8b328c7f330"
+        },
+        "761662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8355015201297108233",
+                    "size": "145971870",
+                    "download": "29943552"
+                }
+            },
+            "decryptionkey": "c7ca01508cd2f6a019b2129bce93acf976c6c1a8af7d738e11ba611e6bd74fed"
+        },
+        "761663": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1903207642541983503",
+                    "size": "146350449",
+                    "download": "31113664"
+                }
+            },
+            "decryptionkey": "05d3170c90e8a99625c436dfef817c771e14b76b2e09c1db28ac2846aeca59e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2351319",
+                "timeupdated": "1512729012"
+            }
+        }
+    }
+}
