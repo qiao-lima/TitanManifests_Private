@@ -1,0 +1,42 @@
+{
+    "appid": 2413090,
+    "name": "Oppai Samurai: Knocked up by a No Name Novice",
+    "type": "Game",
+    "schinese_name": "爆乳剑士沦为玩物",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 21:34:33",
+    "change_number": 30097241,
+    "depot": {
+        "2413091": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6530495964503803869",
+                    "size": "1498000683",
+                    "download": "1316961888"
+                }
+            },
+            "decryptionkey": "106e790fd1ead6e50539700187646a72b9d7cd8a1972af4fb690356485266f8b"
+        },
+        "2413092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5546601383185054050",
+                    "size": "1459838202",
+                    "download": "1305072896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11274548",
+                "timeupdated": "1684523635"
+            }
+        }
+    }
+}
