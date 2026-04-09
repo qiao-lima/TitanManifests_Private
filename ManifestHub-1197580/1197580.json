@@ -1,0 +1,53 @@
+{
+    "appid": 1197580,
+    "name": "Nekoview",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-19 14:51:31",
+    "change_number": 30146744,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1197581": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6507517206615904795",
+                    "size": "213967472",
+                    "download": "61857232"
+                }
+            },
+            "decryptionkey": "efbed7d28f25c315417e6fd65cfcf6dc0111270d467333fed2d40d26247ffe45"
+        },
+        "1197583": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2406328636068119343",
+                    "size": "2041663",
+                    "download": "823968"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6706587",
+                "timeupdated": "1621135629"
+            }
+        }
+    }
+}
