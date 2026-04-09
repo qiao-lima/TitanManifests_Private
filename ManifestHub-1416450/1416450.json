@@ -1,0 +1,27 @@
+{
+    "appid": 1416450,
+    "name": "Quest: Escape Room",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 03:35:05",
+    "change_number": 30101926,
+    "depot": {
+        "1416451": {
+            "manifests": {
+                "public": {
+                    "gid": "7876005778451530720",
+                    "size": "228587039",
+                    "download": "111428800"
+                }
+            },
+            "decryptionkey": "08312b96b2ef65dff4f441fc85cb094b7abf43339fec67a9ec405c1db9dc5ba7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11008037",
+                "timeupdated": "1681510712"
+            }
+        }
+    }
+}
