@@ -1,0 +1,73 @@
+{
+    "appid": "528250",
+    "type": "Game",
+    "name": "Patchwork",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28974341",
+    "update_time": "2025-05-14 14:07:59",
+    "depot": {
+        "baselanguages": "",
+        "528251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4962342509047875246",
+                    "size": "156406271",
+                    "download": "50421808"
+                }
+            },
+            "decryptionkey": "d154aa9116dd60aee0dc232476cc68939f9209ecb66996208ac33f6a264915a9"
+        },
+        "528252": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4936305647536476974",
+                    "size": "230523508",
+                    "download": "68227152"
+                }
+            },
+            "decryptionkey": "64864a75e4032892d4046c6a7714b84b6be70483cd6bfa6b4b5b96fdb135375d"
+        },
+        "528253": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2404663192821142958",
+                    "size": "178245850",
+                    "download": "50988624"
+                }
+            },
+            "decryptionkey": "3903f06ada078ecb502ce94ab1780addd7eb5d2113958b8a20bd5bae0934fc00"
+        },
+        "528254": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "561257826802772835",
+                    "size": "178245850",
+                    "download": "50988624"
+                }
+            },
+            "decryptionkey": "e0c2c7774ee16f63e677219b44f9f8f7f9bdadf7d033f1e69486e38e4629eab3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13012207",
+                "timeupdated": "1703089812"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
