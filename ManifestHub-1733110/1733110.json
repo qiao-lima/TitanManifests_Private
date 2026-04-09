@@ -1,0 +1,80 @@
+{
+    "appid": 1733110,
+    "name": "Of Life and Land",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 17:25:49",
+    "change_number": 30170402,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "workshopdepot": "1733110",
+        "hasdepotsindlc": "1",
+        "1733111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8190179464424375029",
+                    "size": "606114821",
+                    "download": "357272880"
+                },
+                "beta": {
+                    "gid": "8190179464424375029",
+                    "size": "606114821",
+                    "download": "357272880"
+                },
+                "previous": {
+                    "gid": "415942311282202333",
+                    "size": "597096941",
+                    "download": "347736288"
+                }
+            },
+            "decryptionkey": "2aefb5610aff8c017b461ec4f3da8d7a17a426b0d4ab6bf30df2bd99c391e208"
+        },
+        "1733112": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5387910252645304620",
+                    "size": "615598606",
+                    "download": "361335632"
+                },
+                "beta": {
+                    "gid": "5387910252645304620",
+                    "size": "615598606",
+                    "download": "361335632"
+                },
+                "previous": {
+                    "gid": "6810908340594719229",
+                    "size": "608725155",
+                    "download": "351553984"
+                }
+            },
+            "decryptionkey": "c8a5dfd8f65bf5c949c255c8fca8b013076e98f57ade13f59f7109a416664253"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19161442",
+                "timeupdated": "1752159249"
+            },
+            "beta": {
+                "buildid": "19161442",
+                "description": "Get the latest features",
+                "timeupdated": "1752069828"
+            },
+            "previous": {
+                "buildid": "18976021",
+                "description": "Loads the previous patch content",
+                "timeupdated": "1752159223"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6c3007e160b8db8a1534cdc04cac231c5c141e4e9b82978d69a5070e6d012665"
+    }
+}
