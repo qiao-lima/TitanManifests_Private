@@ -1,0 +1,28 @@
+{
+    "appid": 2563550,
+    "name": "闲置神话",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 01:17:52",
+    "change_number": 30100247,
+    "depot": {
+        "2563551": {
+            "manifests": {
+                "public": {
+                    "gid": "5338909323280947452",
+                    "size": "255039718",
+                    "download": "109475664"
+                }
+            },
+            "decryptionkey": "fdc417fe56b80c43bf8ae5afbf0598574734ec39bd0ddd687943ee3ad494469a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16238385",
+                "timeupdated": "1731341836"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
