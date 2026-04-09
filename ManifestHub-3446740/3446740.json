@@ -1,0 +1,27 @@
+{
+    "appid": 3446740,
+    "name": "The Random Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 05:11:56",
+    "change_number": 29942321,
+    "depot": {
+        "3446741": {
+            "manifests": {
+                "public": {
+                    "gid": "2447052965990635501",
+                    "size": "1802818188",
+                    "download": "342824096"
+                }
+            },
+            "decryptionkey": "e657e899d9bceb265b3cd53335e8c6a9ecf37b3a694a8b3f11bfc5d7ed6408a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19022196",
+                "timeupdated": "1751007140"
+            }
+        }
+    }
+}
