@@ -1,0 +1,30 @@
+{
+    "appid": 622920,
+    "name": "P-Walker's Simulation",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:50:03",
+    "change_number": 29427089,
+    "depot": {
+        "622921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "879307206582797463",
+                    "size": "5966059809",
+                    "download": "1727728512"
+                }
+            },
+            "decryptionkey": "3dc78812a72258d75c93a31b639d074ab8c55949af80d0f8fbff8e895c0834e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1845634",
+                "timeupdated": "1495728697"
+            }
+        }
+    }
+}
