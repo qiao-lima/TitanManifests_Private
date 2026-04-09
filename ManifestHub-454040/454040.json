@@ -1,0 +1,46 @@
+{
+    "appid": "454040",
+    "type": "Game",
+    "name": "Jackal",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24855797",
+    "update_time": "2024-08-20 08:14:00",
+    "depot": {
+        "454041": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "140183039387313874",
+                    "size": "1281900394",
+                    "download": "320865696"
+                }
+            },
+            "decryptionkey": "b633d1ac8a45c9d904e98840bbf00c74cd3737f2c9389a62fe28363a12849258"
+        },
+        "454042": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9203077599040560321",
+                    "size": "1283124586",
+                    "download": "320165760"
+                }
+            },
+            "decryptionkey": "41508d0ab887e7c6dc63c49902c82b844d6ff74b8bfa65c46143aa9f43880516"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1378661",
+                "timeupdated": "1475789671"
+            }
+        }
+    },
+    "access_token": 2551242290809586079
+}
