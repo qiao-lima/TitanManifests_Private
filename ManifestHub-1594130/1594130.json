@@ -1,0 +1,44 @@
+{
+    "appid": 1594130,
+    "name": "Excidio the Kaiju Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 01:35:54",
+    "change_number": 29906107,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1594131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1187296383977583568",
+                    "size": "3046946757",
+                    "download": "535025008"
+                }
+            },
+            "decryptionkey": "0a0d5250bcb4b6d42cf9418cce12612a9b2e29876899d2c742d132422aee9868"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18983239",
+                "timeupdated": "1750782294"
+            }
+        }
+    }
+}
