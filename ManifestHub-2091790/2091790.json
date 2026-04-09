@@ -1,0 +1,33 @@
+{
+    "appid": 2091790,
+    "name": "No More Future",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 15:27:03",
+    "change_number": 29844232,
+    "depot": {
+        "2091791": {
+            "manifests": {
+                "public": {
+                    "gid": "7486865028913313675",
+                    "size": "402641294",
+                    "download": "329454672"
+                }
+            },
+            "decryptionkey": "ca97ec9ab959d7ac87d977770d94466f0f9c06f95b333fa3e159c2ac9e88e074"
+        },
+        "2091794": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19066420",
+                "timeupdated": "1751380017"
+            }
+        }
+    }
+}
