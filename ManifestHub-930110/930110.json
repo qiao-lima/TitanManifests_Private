@@ -1,0 +1,77 @@
+{
+    "appid": 930110,
+    "name": "Sufoco",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 05:12:23",
+    "change_number": 29755042,
+    "depot": {
+        "baselanguages": "english,portuguese,brazilian",
+        "930111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6106203017147462971",
+                    "size": "105173239",
+                    "download": "22215104"
+                }
+            },
+            "decryptionkey": "f022148a1f6c75e8f1bc46a4e87ac0081b8fa01ed139aa7dfc5b39d1c28743b7"
+        },
+        "930112": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6494826919780904384",
+                    "size": "98233759",
+                    "download": "20026128"
+                }
+            },
+            "decryptionkey": "8823556885fc81b03f41197398ad225e00e488d95209f90196ebddd7487b2e1a"
+        },
+        "930113": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2958048770793938892",
+                    "size": "111357260",
+                    "download": "24707264"
+                }
+            },
+            "decryptionkey": "123514b1d73ab82a4636ac685c1218ccdaf763138fff91bf508fe72ba17f5b0c"
+        },
+        "930114": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7927886210901036282",
+                    "size": "109065506",
+                    "download": "23819904"
+                }
+            },
+            "decryptionkey": "407dcb2a5d90ad46ca2a7a0cd52892db45ceb8b972e9711dc2a1bd17878aebde"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4584013",
+                "timeupdated": "1581565415"
+            }
+        }
+    }
+}
