@@ -1,0 +1,43 @@
+{
+    "appid": 2757520,
+    "name": "Glory to Ukraine!",
+    "type": "Game",
+    "schinese_name": "光荣属于乌克兰",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 03:21:45",
+    "change_number": 29471738,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2757521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1835634214949316937",
+                    "size": "2863768271",
+                    "download": "1310677792"
+                }
+            },
+            "decryptionkey": "4b41d5cac743e30f645631c4fadb6a997466f5c225095765de5d40416c8220ea"
+        },
+        "2757522": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4692909158819096983",
+                    "size": "2907348446",
+                    "download": "1324673392"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13508143",
+                "timeupdated": "1708436038"
+            }
+        }
+    }
+}
