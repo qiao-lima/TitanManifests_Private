@@ -1,0 +1,92 @@
+{
+    "appid": 1911610,
+    "name": "Windblown",
+    "type": "Game",
+    "schinese_name": "风中行者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 09:36:19",
+    "change_number": 30106230,
+    "depot": {
+        "1911611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8082056227783705485",
+                    "size": "3017328375",
+                    "download": "2427882880"
+                },
+                "public_beta": {
+                    "gid": "8082056227783705485",
+                    "size": "3017328375",
+                    "download": "2427882880"
+                },
+                "v0.1": {
+                    "gid": "3269812541249164264",
+                    "size": "2699179417",
+                    "download": "2092559168"
+                },
+                "v0.2": {
+                    "gid": "4116740841452663697",
+                    "size": "2807626077",
+                    "download": "2169004720"
+                },
+                "v0.3": {
+                    "gid": "8636626934840864109",
+                    "size": "2832252515",
+                    "download": "2190292320"
+                },
+                "v0.4": {
+                    "gid": "5720101122703848542",
+                    "size": "2976582073",
+                    "download": "2316707424"
+                },
+                "v0.5": {
+                    "gid": "8636999455130187346",
+                    "size": "3003941834",
+                    "download": "2339080928"
+                }
+            },
+            "decryptionkey": "b5c4bddd645cf434b93fe6fe8451160b95b68c9237ec33aa6387fedabe06ced9"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19256795",
+                "timeupdated": "1752741375"
+            },
+            "public_beta": {
+                "buildid": "19256795",
+                "description": "Beta - Your progress will be saved",
+                "timeupdated": "1752741359"
+            },
+            "v0.1": {
+                "buildid": "16541666",
+                "description": "U0 - Early Access Vanilla",
+                "timeupdated": "1733210848"
+            },
+            "v0.2": {
+                "buildid": "16779306",
+                "description": "U1 - Revenge Update",
+                "timeupdated": "1737456565"
+            },
+            "v0.3": {
+                "buildid": "17957744",
+                "description": "U2 - Endless Update",
+                "timeupdated": "1743611855"
+            },
+            "v0.4": {
+                "buildid": "18402558",
+                "description": "U3 - Sanctuary Update",
+                "timeupdated": "1747143648"
+            },
+            "v0.5": {
+                "buildid": "18885653",
+                "description": "U4 - From the Leapers Update",
+                "timeupdated": "1750785811"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
