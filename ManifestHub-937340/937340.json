@@ -1,0 +1,28 @@
+{
+    "appid": "937340",
+    "type": "Game",
+    "name": "Spacecraft War",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18821630",
+    "update_time": "2024-08-14 20:04:32",
+    "depot": {
+        "937341": {
+            "manifests": {
+                "public": {
+                    "gid": "4572910783328708581",
+                    "size": "827569012",
+                    "download": "203416592"
+                }
+            },
+            "decryptionkey": "fe4319e0c79072dc9a50d7f893dea593cb66322f0ad48c91669dc797be0278a1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3087643",
+                "timeupdated": "1535988286"
+            }
+        }
+    },
+    "access_token": 1850075718807810999
+}
