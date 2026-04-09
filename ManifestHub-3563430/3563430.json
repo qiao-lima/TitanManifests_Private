@@ -1,0 +1,27 @@
+{
+    "appid": 3563430,
+    "name": "Secret Love Temple",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-19 02:44:18",
+    "change_number": 29051331,
+    "depot": {
+        "3563431": {
+            "manifests": {
+                "public": {
+                    "gid": "4966427882544325073",
+                    "size": "1583193906",
+                    "download": "1444750400"
+                }
+            },
+            "decryptionkey": "92a99142e1d266b99dd07149e5538d9c3f933dd393575229aa713810c63dd06f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17559087",
+                "timeupdated": "1740835962"
+            }
+        }
+    }
+}
