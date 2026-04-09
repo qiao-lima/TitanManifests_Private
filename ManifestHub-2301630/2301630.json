@@ -1,0 +1,46 @@
+{
+    "appid": 2301630,
+    "name": "Goblins",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-24 08:13:54",
+    "change_number": 29161152,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2301631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8026347392293327743",
+                    "size": "2594768365",
+                    "download": "840694048"
+                }
+            },
+            "decryptionkey": "992ba737353ff1bf81d3c7fb2464b2de26a1630cf4316f6ceed1fe979915f415"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "12574945",
+                "timeupdated": "1698692317"
+            }
+        }
+    }
+}
