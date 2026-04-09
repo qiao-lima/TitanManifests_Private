@@ -1,0 +1,32 @@
+{
+    "appid": 530930,
+    "name": "Soulblight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 18:54:21",
+    "change_number": 30212079,
+    "depot": {
+        "530931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9081057136697588954",
+                    "size": "2325309015",
+                    "download": "562670576"
+                }
+            },
+            "decryptionkey": "c5bd4ce1949d5ca30ccd7262cece459892ad249a1aac216c2cc89b5552034103"
+        },
+        "baselanguages": "english,german,french,italian,spanish,japanese,polish,hungarian",
+        "branches": {
+            "public": {
+                "buildid": "3361390",
+                "timeupdated": "1545091119"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
