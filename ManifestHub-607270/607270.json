@@ -1,0 +1,29 @@
+{
+    "appid": "607270",
+    "type": "Game",
+    "name": "Jack's Gang",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-28 11:59:13",
+    "depot": {
+        "607271": {
+            "manifests": {
+                "public": {
+                    "gid": "6817291479255382006",
+                    "size": "126825034",
+                    "download": "51402048"
+                }
+            },
+            "decryptionkey": "8a4b52bf4b105003434a83d5b38f593683b5e9b9df980e4f6ccfe91c85fcb4c2"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "1730192",
+                "timeupdated": "1491084323"
+            }
+        }
+    },
+    "access_token": 3719417570813653499
+}
