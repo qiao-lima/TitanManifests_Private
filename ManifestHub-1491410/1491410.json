@@ -1,0 +1,46 @@
+{
+    "appid": 1491410,
+    "name": "Eternal Strands",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:34:13",
+    "change_number": 30217208,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1491411": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8999742337858045753",
+                    "size": "20933139317",
+                    "download": "9500383904"
+                }
+            },
+            "decryptionkey": "e4195a57e3f14ccbdf4be2fa5c576bb10366f40df6a80f47b31f6d71e918cdc4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18804609",
+                "timeupdated": "1751036217"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
