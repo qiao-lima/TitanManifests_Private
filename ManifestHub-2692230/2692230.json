@@ -1,0 +1,28 @@
+{
+    "appid": 2692230,
+    "name": "山海经之仙剑传奇",
+    "type": "Game",
+    "schinese_name": "山海经之仙剑传奇",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 22:59:04",
+    "change_number": 29998217,
+    "depot": {
+        "2692231": {
+            "manifests": {
+                "public": {
+                    "gid": "3842102796383489497",
+                    "size": "5944575002",
+                    "download": "1484619008"
+                }
+            },
+            "decryptionkey": "a54098f97dc51cff496a9bfcb269654513db12c80232977f2ca8fda7d854337d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13588465",
+                "timeupdated": "1709177312"
+            }
+        }
+    },
+    "access_token": 4227870405419833685
+}
