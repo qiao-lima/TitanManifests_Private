@@ -1,0 +1,42 @@
+{
+    "appid": 1559600,
+    "name": "The Ranch of Rivershine",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:31:59",
+    "change_number": 29529702,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1559601": {
+            "manifests": {
+                "public": {
+                    "gid": "4334302040764455542",
+                    "size": "5961945399",
+                    "download": "1924629696"
+                }
+            },
+            "decryptionkey": "04fb1bf1c8fdde44f763a3a56149135d1c06470e0176d631db99ccc1b4b145e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18841530",
+                "timeupdated": "1749737037"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
