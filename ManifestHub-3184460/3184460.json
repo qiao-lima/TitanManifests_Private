@@ -1,0 +1,78 @@
+{
+    "appid": 3184460,
+    "name": "Five Nights at Restroom 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 15:15:57",
+    "change_number": 30013150,
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "hasdepotsindlc": "1",
+        "3184461": {
+            "manifests": {
+                "public": {
+                    "gid": "2270674923503432770",
+                    "size": "165722891",
+                    "download": "126409360"
+                },
+                "window_resize_enabled": {
+                    "gid": "4279352559716220243",
+                    "size": "165546275",
+                    "download": "126128768"
+                }
+            },
+            "decryptionkey": "a4afd4fb1c5b6ac882043d820d5b18dfbe767b9863899abd4ba4048bc03a1996"
+        },
+        "3184760": {
+            "dlcappid": "3184760",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6285855129689502228",
+                    "size": "40022019",
+                    "download": "31097520"
+                },
+                "window_resize_enabled": {
+                    "gid": "91812553135084518",
+                    "size": "44042896",
+                    "download": "30345008"
+                }
+            },
+            "decryptionkey": "3242085fa1b7d65f9251040ba1498709e06c7e1dc8c4e7d30f10e49b6f565dd8"
+        },
+        "3431940": {
+            "dlcappid": "3431940",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4041495442578226692",
+                    "size": "101925661",
+                    "download": "87709024"
+                },
+                "window_resize_enabled": {
+                    "gid": "8132913743770422297",
+                    "size": "101828365",
+                    "download": "87615520"
+                }
+            },
+            "decryptionkey": "7ecc1784aa8902e88ae28af7a8ac76720550cb34095f684959f1a7f7b522a6a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19192078",
+                "timeupdated": "1752243351"
+            },
+            "window_resize_enabled": {
+                "buildid": "19013665",
+                "description": "build with window resize",
+                "timeupdated": "1750953116"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
