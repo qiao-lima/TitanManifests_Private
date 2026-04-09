@@ -1,0 +1,29 @@
+{
+    "appid": 2221270,
+    "name": "Arkero VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 14:09:57",
+    "change_number": 29442993,
+    "depot": {
+        "2221271": {
+            "manifests": {
+                "public": {
+                    "gid": "8004238011706125847",
+                    "size": "7415260093",
+                    "download": "2871882896"
+                }
+            },
+            "decryptionkey": "b3e657d2704028f2c569b0ee261932fae5cd2978dabb86bb25191e362ccc0616"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18782351",
+                "timeupdated": "1749362991"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
