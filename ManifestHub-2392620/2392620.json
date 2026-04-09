@@ -1,0 +1,27 @@
+{
+    "appid": 2392620,
+    "name": "Gravity Circuit Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 03:11:46",
+    "change_number": 29906676,
+    "depot": {
+        "2392621": {
+            "manifests": {
+                "public": {
+                    "gid": "5636912860708292501",
+                    "size": "276343702",
+                    "download": "275985248"
+                }
+            },
+            "decryptionkey": "62978bd325fe5b85e958fb7eacf1eee7df6fe0b1e4739767cc762efa76890aa9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11638631",
+                "timeupdated": "1688636653"
+            }
+        }
+    }
+}
