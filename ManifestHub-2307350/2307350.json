@@ -1,0 +1,28 @@
+{
+    "appid": 2307350,
+    "name": "Into the Radius 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:09:08",
+    "change_number": 30216904,
+    "depot": {
+        "2307351": {
+            "manifests": {
+                "public": {
+                    "gid": "8697578064623490215",
+                    "size": "13481895588",
+                    "download": "12569759904"
+                }
+            },
+            "decryptionkey": "20260ee59d150cc2511edf793073971d569a98d93db3564c77622ff953243a00"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19162517",
+                "timeupdated": "1752074969"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
