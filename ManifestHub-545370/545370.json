@@ -1,0 +1,28 @@
+{
+    "appid": "545370",
+    "type": "Game",
+    "name": "Time Of Silence",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:16:43",
+    "depot": {
+        "545371": {
+            "manifests": {
+                "public": {
+                    "gid": "1280610296582713559",
+                    "size": "132796399",
+                    "download": "49740384"
+                }
+            },
+            "decryptionkey": "bc9c41118f242c2aada8574e25689e22646a4c78cabedb685d90c33753551236"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1453176",
+                "timeupdated": "1478864934"
+            }
+        }
+    },
+    "access_token": 8718872487952821721
+}
