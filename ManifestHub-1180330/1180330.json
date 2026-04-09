@@ -1,0 +1,40 @@
+{
+    "appid": 1180330,
+    "name": "Manor of Mystic Courtesans",
+    "type": "Game",
+    "schinese_name": "欢迎来到♥妖魔娼馆",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 15:59:33",
+    "change_number": 28984818,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "1180331": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7577759041358210327",
+                    "size": "3227253415",
+                    "download": "1281778960"
+                },
+                "beta": {
+                    "gid": "7577759041358210327",
+                    "size": "3227253415",
+                    "download": "1281778960"
+                }
+            },
+            "decryptionkey": "4b4ccd7d3c8150d14a44baa300b4d2ed9d5694c393a52655fdb6a89b835754bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4956169",
+                "timeupdated": "1588097268"
+            },
+            "beta": {
+                "buildid": "4956169",
+                "timeupdated": "1588097111"
+            }
+        }
+    }
+}
