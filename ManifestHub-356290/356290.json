@@ -1,0 +1,45 @@
+{
+    "appid": 356290,
+    "name": "Cuban Missile Crisis: Ice Crusade",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 11:14:02",
+    "change_number": 30065962,
+    "depot": {
+        "356291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1873191858770996087",
+                    "size": "1271771825",
+                    "download": "1166288736"
+                }
+            },
+            "decryptionkey": "1d616146e7a6ff4ab15fc8a8452df6b8a3affa4f0b57388509a025b5510d502d"
+        },
+        "356292": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5872430985150443831",
+                    "size": "1160065337",
+                    "download": "1063750160"
+                }
+            },
+            "decryptionkey": "94fa373b32bdf8c119d690728141177b28355d38d7558c329502f845ae5873e1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15238437",
+                "timeupdated": "1722868366"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
