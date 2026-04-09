@@ -1,0 +1,28 @@
+{
+    "appid": 1884910,
+    "name": "RPG Maker MZ - Another World Heroine Generator 2 for MZ",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:49:19",
+    "change_number": 26201212,
+    "depot": {
+        "1884910": {
+            "manifests": {
+                "public": {
+                    "gid": "5358065733687473726",
+                    "size": "3395725",
+                    "download": "1683328"
+                }
+            },
+            "dlcappid": "1884910",
+            "decryptionkey": "f0567f60bb11c1ce5288f953334f27afb249d41a3fb83b0ddf8ef9a272bd178c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12673948",
+                "timeupdated": "1699640656"
+            }
+        }
+    }
+}
