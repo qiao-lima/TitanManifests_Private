@@ -1,0 +1,28 @@
+{
+    "appid": 614006,
+    "name": "X-Plane 11 - Add-on: Aerosoft - Airport London-Heathrow",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:20:41",
+    "change_number": 26201212,
+    "depot": {
+        "615890": {
+            "manifests": {
+                "public": {
+                    "gid": "2931493333701182678",
+                    "size": "2468239477",
+                    "download": "663318016"
+                }
+            },
+            "dlcappid": "614006",
+            "decryptionkey": "14f90751335dee231201f9848079dc23edfd7c83a2c5ebcbf1e449ca6bf385e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3459887",
+                "timeupdated": "1547192030"
+            }
+        }
+    }
+}
