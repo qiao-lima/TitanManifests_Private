@@ -1,0 +1,56 @@
+{
+    "appid": 1807080,
+    "name": "Ghost Exile",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 22:09:08",
+    "change_number": 30174556,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1807081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "469974786588822186",
+                    "size": "14662617775",
+                    "download": "7802626800"
+                },
+                "new-network-beta": {
+                    "gid": "469974786588822186",
+                    "size": "14662617775",
+                    "download": "7802626800"
+                }
+            },
+            "decryptionkey": "589b37c3941d4cbe363fbca9c77b3119c8c942dfb056f92e7cea0f42f30382fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19305030",
+                "timeupdated": "1753132142"
+            },
+            "new-network-beta": {
+                "buildid": "19305030",
+                "description": "new-network-beta",
+                "timeupdated": "1753132122"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
