@@ -1,0 +1,29 @@
+{
+    "appid": 1643100,
+    "name": "Noun Town",
+    "type": "Game",
+    "schinese_name": "Noun Town VR 语言学习",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 18:56:41",
+    "change_number": 29847491,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,japanese,brazilian,latam",
+        "1643101": {
+            "manifests": {
+                "public": {
+                    "gid": "6570016584637393870",
+                    "size": "6539611913",
+                    "download": "1996138432"
+                }
+            },
+            "decryptionkey": "e91a99eaea1343f1bea7e632c5a4197adea9e47ad82f3a1c336d94e7ee6ac394"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16999430",
+                "timeupdated": "1736866720"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
