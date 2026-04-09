@@ -1,0 +1,28 @@
+{
+    "appid": 1796180,
+    "name": "湖心亭奇談集",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 23:23:55",
+    "change_number": 29263318,
+    "depot": {
+        "1796181": {
+            "manifests": {
+                "public": {
+                    "gid": "9154239892129619644",
+                    "size": "1235281376",
+                    "download": "959378176"
+                }
+            },
+            "decryptionkey": "9594a9a000b1d93911605477f4fd77af64bf7866a802be11903100b22073832a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12489310",
+                "timeupdated": "1697777226"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
