@@ -1,0 +1,38 @@
+{
+    "appid": 1480830,
+    "name": "Evil Tonight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 09:11:14",
+    "change_number": 29893531,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1480831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7706200876098973675",
+                    "size": "98701610",
+                    "download": "58889152"
+                }
+            },
+            "decryptionkey": "4cd75d180271a7c0a07fd0f90de60d71399ef979c60bec860f7c8ae3db058dac"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "16177695",
+                "timeupdated": "1729845666"
+            }
+        }
+    }
+}
