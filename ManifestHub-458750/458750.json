@@ -1,0 +1,69 @@
+{
+    "appid": 458750,
+    "name": "FireAlpaca SE",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 08:17:40",
+    "change_number": 30201199,
+    "depot": {
+        "458751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3657934295309164729",
+                    "size": "148448990",
+                    "download": "68553776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "458752": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3657337524695748723",
+                    "size": "132086407",
+                    "download": "65679104"
+                }
+            },
+            "decryptionkey": "1722e1ea688d999f0ca032f5cd9bf41c77528acafcb7269809ed8db4bb2888d6"
+        },
+        "458753": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6312391241900805807",
+                    "size": "123815082",
+                    "download": "59561744"
+                }
+            }
+        },
+        "458754": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "458755": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19325192",
+                "timeupdated": "1753255054"
+            }
+        }
+    }
+}
