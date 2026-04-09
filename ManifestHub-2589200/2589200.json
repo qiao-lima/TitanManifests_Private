@@ -1,0 +1,68 @@
+{
+    "appid": 2589200,
+    "name": "Budget Backrooms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-07 00:15:06",
+    "change_number": 29922065,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2589201": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6846430431101021442",
+                    "size": "1604394873",
+                    "download": "1202969104"
+                },
+                "legacy": {
+                    "gid": "2866845062149627735",
+                    "size": "1082967868",
+                    "download": "760183360"
+                },
+                "nightly-dev": {
+                    "gid": "1063173650434902144",
+                    "size": "2818842625",
+                    "download": "1462572816"
+                }
+            },
+            "decryptionkey": "72ad8979736e497c2e5d565ec3a7c262ee8ae15704ae9abecaf4378fcdadde2f"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17627775",
+                "timeupdated": "1741306574"
+            },
+            "legacy": {
+                "buildid": "12436174",
+                "description": "Legacy 0.0.10 Alpha",
+                "timeupdated": "1697217158"
+            },
+            "nightly-dev": {
+                "buildid": "18797478",
+                "description": "Very in-development builds of the game -  UNSTABLE",
+                "timeupdated": "1749485462"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
