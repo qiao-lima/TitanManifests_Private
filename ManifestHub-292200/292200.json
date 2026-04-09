@@ -1,0 +1,28 @@
+{
+    "appid": 292200,
+    "name": "Crazy Plant Shop",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 17:21:20",
+    "change_number": 29414466,
+    "depot": {
+        "overridescddb": "1",
+        "292201": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4444829675484959368",
+                    "size": "134901480",
+                    "download": "667539050775"
+                }
+            },
+            "decryptionkey": "dbd79a1bd43e07e1431b3cf45f4b31c695d08bbbf40818cc6a6ef3fde95d7d35"
+        },
+        "branches": {
+            "public": {
+                "buildid": "341755"
+            }
+        }
+    }
+}
