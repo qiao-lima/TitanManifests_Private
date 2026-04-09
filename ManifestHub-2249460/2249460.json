@@ -1,0 +1,46 @@
+{
+    "appid": 2249460,
+    "name": "Desynced Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:11:05",
+    "change_number": 30216275,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2249461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6304851205148034470",
+                    "size": "2235240131",
+                    "download": "1820990608"
+                }
+            },
+            "decryptionkey": "d666654864d3733b24faace8ad61790e21c916094bb75655e5f366e46d9f4dea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18731423",
+                "timeupdated": "1749038273"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
