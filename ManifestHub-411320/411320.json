@@ -1,0 +1,178 @@
+{
+    "appid": "411320",
+    "type": "Game",
+    "name": "Codename: Panzers, Phase Two",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26807124",
+    "update_time": "2024-12-29 06:53:34",
+    "depot": {
+        "baselanguages": "",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "411321": {
+            "manifests": {
+                "public": {
+                    "gid": "1458931855457034893",
+                    "size": "2832646969",
+                    "download": "1374822080"
+                }
+            },
+            "decryptionkey": "68ac9ed75545623bfe29d7a8c06f0812a4dea6dd5deeb255eb6422e6d42e7a4d"
+        },
+        "411322": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6887717851157292161",
+                    "size": "463870254",
+                    "download": "318082864"
+                }
+            },
+            "decryptionkey": "b5682011d65fc918dec544c81cf4da1e9513a848fc8b9e63fafcb9104f756fb6"
+        },
+        "411323": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2632702155432425745",
+                    "size": "385687051",
+                    "download": "235080848"
+                }
+            },
+            "decryptionkey": "6f6b05a15616ba01e909725e47ce9b20ce08e007539920f8466d3fb0044b8db2"
+        },
+        "411324": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4240325023526846554",
+                    "size": "387240217",
+                    "download": "223202416"
+                }
+            },
+            "decryptionkey": "505e6648aa8d7cd0ba33f9ad0b89e5b28a5454df5613fd5df7d8c1f0bbd207ef"
+        },
+        "411325": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8717622244054936459",
+                    "size": "874732973",
+                    "download": "675939024"
+                }
+            },
+            "decryptionkey": "fafb2d7a29bb3808ae9532e46e8879df3fff37ab6d6ff65921c87a4646eaeb9b"
+        },
+        "411326": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "183163434213829086",
+                    "size": "801208463",
+                    "download": "568133072"
+                }
+            },
+            "decryptionkey": "3e375256a672c2c8a3d3ca008783f27044bf8ad5488fa76a582d4ff71bf9150f"
+        },
+        "411327": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8614778914101783428",
+                    "size": "427232942",
+                    "download": "240698576"
+                }
+            },
+            "decryptionkey": "a7bca6dfeedcd28d789eaa28c57bbc1e15d8259ad38235849b9a9e93fed8d96d"
+        },
+        "411328": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7111783047575030607",
+                    "size": "446936949",
+                    "download": "274386544"
+                }
+            },
+            "decryptionkey": "308818343b66237b50fb2113b455401e6a387b76ec30c207d68c5b3e9b33a8af"
+        },
+        "411329": {
+            "config": {
+                "language": "hungarian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4212481781790942936",
+                    "size": "511232981",
+                    "download": "362685040"
+                }
+            },
+            "decryptionkey": "6d91b0717fa9e725217046b48f4e19ed20c8614984f1cd94cb4f38d55eda6fad"
+        },
+        "431080": {
+            "config": {
+                "language": "czech"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6573707014888646352",
+                    "size": "464284635",
+                    "download": "324002560"
+                }
+            },
+            "decryptionkey": "4851b710105860102db1b97426ba26fe077b0b3f45d54b984a036d8f3a4c1534"
+        },
+        "431081": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {}
+        },
+        "431082": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "983033"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
