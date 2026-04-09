@@ -1,0 +1,38 @@
+{
+    "appid": "497350",
+    "type": "Game",
+    "name": "Conclusion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:12:29",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "497351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6261611594806658286",
+                    "size": "10989236800",
+                    "download": "3323266144"
+                }
+            },
+            "decryptionkey": "2af9a079ecf43f263f5ceb592a3161cde8940f06638b1b6ba0ed10a9b127acd4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1265682",
+                "timeupdated": "1490748280"
+            }
+        }
+    },
+    "access_token": 11946610576322298277
+}
