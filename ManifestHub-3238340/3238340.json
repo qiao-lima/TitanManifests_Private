@@ -1,0 +1,27 @@
+{
+    "appid": 3238340,
+    "name": "Warhammer 40,000: Dawn of War II Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 21:12:43",
+    "change_number": 30138620,
+    "depot": {
+        "3238341": {
+            "manifests": {
+                "public": {
+                    "gid": "8467067285334896035",
+                    "size": "127263696",
+                    "download": "126878112"
+                }
+            },
+            "decryptionkey": "b4fe5d24163a1294372cbecc309bfcd40ed1ca58a9425b68d96cf9e7b1c3a6c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15719941",
+                "timeupdated": "1726521097"
+            }
+        }
+    }
+}
