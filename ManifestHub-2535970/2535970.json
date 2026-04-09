@@ -1,0 +1,42 @@
+{
+    "appid": 2535970,
+    "name": "LeagueTD",
+    "type": "Game",
+    "schinese_name": "联盟塔防",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 23:10:47",
+    "change_number": 29488937,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2535971": {
+            "manifests": {
+                "public": {
+                    "gid": "3047559623294045821",
+                    "size": "5776312459",
+                    "download": "5311384048"
+                }
+            },
+            "decryptionkey": "7fcbf41534f673ca7e70834ed653d944533baf1458d48536a0c7fc685cb694a0"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "12363344",
+                "timeupdated": "1696503496"
+            }
+        }
+    }
+}
