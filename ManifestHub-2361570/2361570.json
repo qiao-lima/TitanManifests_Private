@@ -1,0 +1,47 @@
+{
+    "appid": 2361570,
+    "name": "Cronous",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 07:03:01",
+    "change_number": 30180164,
+    "depot": {
+        "baselanguages": "tchinese",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2361571": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "522382762555720450",
+                    "size": "19631097895",
+                    "download": "1892951712"
+                }
+            },
+            "decryptionkey": "c25107d7ce352eda642ac10d87b160f8316fbc3e454d3906e56133e408396e8d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19310107",
+                "timeupdated": "1753164175"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
