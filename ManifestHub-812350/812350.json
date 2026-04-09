@@ -1,0 +1,33 @@
+{
+    "appid": 812350,
+    "name": "Last Fort",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:13:35",
+    "change_number": 30056477,
+    "depot": {
+        "812351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8799232090004033009",
+                    "size": "214452411",
+                    "download": "113572032"
+                }
+            },
+            "decryptionkey": "cea7cd6d4dddd7be74e8d6173d07f307adfc6985f870708c61fa6f66d8e03028"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "2668365",
+                "timeupdated": "1523098007"
+            }
+        }
+    },
+    "access_token": 5518352032768351665
+}
