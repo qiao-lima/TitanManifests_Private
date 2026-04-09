@@ -1,0 +1,28 @@
+{
+    "appid": 2342950,
+    "name": "God Of Weapons",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 07:19:21",
+    "change_number": 30200476,
+    "depot": {
+        "2342951": {
+            "manifests": {
+                "public": {
+                    "gid": "5694730860606082893",
+                    "size": "2204540137",
+                    "download": "905350688"
+                }
+            },
+            "decryptionkey": "f18007f05de526f58cd0f02db0d25b1d6513980aecc85e94ed7c67b75a300266"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18714311",
+                "timeupdated": "1749602839"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
