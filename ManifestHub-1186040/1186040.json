@@ -1,0 +1,48 @@
+{
+    "appid": 1186040,
+    "name": "Worms Rumble",
+    "type": "Game",
+    "schinese_name": "百战天虫：大混战",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 23:42:12",
+    "change_number": 29399059,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1186041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7398576476736022812",
+                    "size": "10078283571",
+                    "download": "2715929136"
+                }
+            },
+            "decryptionkey": "d36b37fc2cc47afac8d850b9bef3bf65a60292c5d92dda259b815b1cc2c6658b"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18752482",
+                "timeupdated": "1749138087"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
