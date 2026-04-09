@@ -1,0 +1,27 @@
+{
+    "appid": 730220,
+    "name": "Trivia Vault: Video Game Trivia Deluxe",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:51",
+    "change_number": 30056467,
+    "depot": {
+        "730221": {
+            "manifests": {
+                "public": {
+                    "gid": "6296065872330557820",
+                    "size": "136497186",
+                    "download": "29705552"
+                }
+            },
+            "decryptionkey": "4d0096f19d9211161410d80b363fffec6437dd99b85f197e8e4ae0e970d028a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2173515",
+                "timeupdated": "1507175859"
+            }
+        }
+    }
+}
