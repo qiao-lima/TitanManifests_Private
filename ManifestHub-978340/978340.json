@@ -1,0 +1,52 @@
+{
+    "appid": 978340,
+    "name": "RGB RUN",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 01:26:04",
+    "change_number": 29776753,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "978341": {
+            "manifests": {
+                "public": {
+                    "gid": "8115286103670205260",
+                    "size": "670283223",
+                    "download": "565111120"
+                }
+            },
+            "decryptionkey": "1bd42d2b7e81bc4748402a133cd6f2c6c10b18e0950625957e00513e4428f993"
+        },
+        "981230": {
+            "manifests": {
+                "public": {
+                    "gid": "344968648963169534",
+                    "size": "44203116",
+                    "download": "38734432"
+                }
+            },
+            "dlcappid": "981230",
+            "decryptionkey": "aa54ffb3e5bdca3cb8ed5aed6ead15da087f7da6fb382875e93b8dc4f3aa41b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3339837",
+                "timeupdated": "1543241416"
+            }
+        }
+    }
+}
