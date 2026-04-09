@@ -1,0 +1,65 @@
+{
+    "appid": 2678280,
+    "name": "Operation Food to Gold",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-19 23:08:03",
+    "change_number": 30150010,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2678281": {
+            "manifests": {
+                "public": {
+                    "gid": "8918097123471211309",
+                    "size": "156740909",
+                    "download": "91620896"
+                },
+                "no-shader": {
+                    "gid": "3599468233239528123",
+                    "size": "147233629",
+                    "download": "93807504"
+                }
+            },
+            "decryptionkey": "0ee3509dca5247d6a63e98a58ef87448e57ed8a7e515e886a2220984a41fcd0c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17783515",
+                "timeupdated": "1742404379"
+            },
+            "no-shader": {
+                "buildid": "15407811",
+                "description": "Older game version without the shader.",
+                "timeupdated": "1749334521"
+            }
+        }
+    }
+}
