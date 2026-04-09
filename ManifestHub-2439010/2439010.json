@@ -1,0 +1,28 @@
+{
+    "appid": 2439010,
+    "name": "Unibat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 10:18:46",
+    "change_number": 29660068,
+    "depot": {
+        "baselanguages": "english,russian",
+        "2439011": {
+            "manifests": {
+                "public": {
+                    "gid": "785354961945191418",
+                    "size": "32013823",
+                    "download": "21478832"
+                }
+            },
+            "decryptionkey": "f329e1628542cd7bca945ffb0633bbe01e18de4d8aa93a326112a90339937344"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11319504",
+                "timeupdated": "1685044742"
+            }
+        }
+    }
+}
