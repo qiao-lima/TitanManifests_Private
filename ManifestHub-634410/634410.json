@@ -1,0 +1,38 @@
+{
+    "appid": 634410,
+    "name": "A Story Beside",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 09:28:33",
+    "change_number": 30084942,
+    "depot": {
+        "634411": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8797649636893185162",
+                    "size": "575029006",
+                    "download": "425326192"
+                }
+            },
+            "decryptionkey": "71015992f6616486c9730681514ec22c45ed8d950f98755ab49f891fa1a5c3eb"
+        },
+        "634412": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8800660",
+                "timeupdated": "1653409332"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
