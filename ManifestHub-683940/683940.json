@@ -1,0 +1,76 @@
+{
+    "appid": 683940,
+    "name": "Lawgivers",
+    "type": "Game",
+    "schinese_name": "文明法则",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 04:18:28",
+    "change_number": 30160364,
+    "depot": {
+        "baselanguages": "",
+        "683941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7436822258624925280",
+                    "size": "273761727",
+                    "download": "57073856"
+                },
+                "2.2.0": {
+                    "gid": "5309125814981956980",
+                    "size": "623733550",
+                    "download": "81320272"
+                }
+            },
+            "decryptionkey": "a389920cfd3406eac0e91526d347c0bb49582682b3de488af2fac3f444b8516e"
+        },
+        "683942": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1491330955877630275",
+                    "size": "286817376",
+                    "download": "68778240"
+                },
+                "2.2.0": {
+                    "gid": "2640926591653140994",
+                    "size": "583603161",
+                    "download": "119365264"
+                }
+            }
+        },
+        "683943": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2693026435875296768",
+                    "size": "311417568",
+                    "download": "59706000"
+                },
+                "2.2.0": {
+                    "gid": "7978659114208058326",
+                    "size": "549025083",
+                    "download": "95190368"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19291205",
+                "timeupdated": "1753029631"
+            },
+            "2.2.0": {
+                "buildid": "11271678",
+                "description": "2.2.0",
+                "timeupdated": "1753067415"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
