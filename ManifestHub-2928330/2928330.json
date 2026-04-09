@@ -1,0 +1,72 @@
+{
+    "appid": 2928330,
+    "name": "MASH VP! Re:VISION",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 13:21:10",
+    "change_number": 30206101,
+    "depot": {
+        "2928332": {
+            "config": {
+                "oslist": "windows,macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5390440304964239997",
+                    "size": "1289539501",
+                    "download": "910184992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2928331": {},
+        "2959210": {
+            "dlcappid": "2959210",
+            "manifests": {
+                "public": {
+                    "gid": "3170714670194104753",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2928333": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4250185819735479564",
+                    "size": "3898287161",
+                    "download": "3345009712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2928334": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8185919428597659657",
+                    "size": "3587672010",
+                    "download": "3065070512"
+                }
+            },
+            "decryptionkey": "40d25c8256f47fcde8f3d12e46e422d0e1d99d49b2a887f8a56202fb1e9bcaaf"
+        },
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19328929",
+                "timeupdated": "1753273265"
+            }
+        }
+    }
+}
