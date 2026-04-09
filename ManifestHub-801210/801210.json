@@ -1,0 +1,27 @@
+{
+    "appid": 801210,
+    "name": "Spellsword Cards: Demontide",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 11:55:44",
+    "change_number": 29561432,
+    "depot": {
+        "801211": {
+            "manifests": {
+                "public": {
+                    "gid": "4055866566235282196",
+                    "size": "804624985",
+                    "download": "237919728"
+                }
+            },
+            "decryptionkey": "d67e2c50a603f02ed508350fe66a6e22740173b32ee51668ca5d2f8a5e82ae07"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12430617",
+                "timeupdated": "1697175333"
+            }
+        }
+    }
+}
