@@ -1,0 +1,27 @@
+{
+    "appid": 2019240,
+    "name": "Shackles of Ellswyn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 00:11:30",
+    "change_number": 30021132,
+    "depot": {
+        "2019241": {
+            "manifests": {
+                "public": {
+                    "gid": "8719187226834350296",
+                    "size": "515604267",
+                    "download": "415673232"
+                }
+            },
+            "decryptionkey": "8df220006a4446024967446727e351e05c18b7dcb00def6e71a36a81a3950b02"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19046412",
+                "timeupdated": "1751254485"
+            }
+        }
+    }
+}
