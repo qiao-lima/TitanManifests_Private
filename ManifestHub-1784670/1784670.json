@@ -1,0 +1,27 @@
+{
+    "appid": 1784670,
+    "name": "琉隐 Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 04:10:15",
+    "change_number": 29734172,
+    "depot": {
+        "1784671": {
+            "manifests": {
+                "public": {
+                    "gid": "3117735021987773146",
+                    "size": "8582504",
+                    "download": "8547088"
+                }
+            },
+            "decryptionkey": "3bb2725462a81b04d85850f46450116ca5dfc28688d961b07bf646e758abed3f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7559121",
+                "timeupdated": "1634640127"
+            }
+        }
+    }
+}
