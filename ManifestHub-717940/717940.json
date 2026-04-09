@@ -1,0 +1,44 @@
+{
+    "appid": 717940,
+    "name": "WIL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 11:47:31",
+    "change_number": 30184258,
+    "depot": {
+        "baselanguages": "english",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "717941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "907351700564215334",
+                    "size": "1904216819",
+                    "download": "1386328320"
+                }
+            },
+            "decryptionkey": "bf29af6dfc07f5331572f0d375a704b91922371cd73ca51d0368e24a6c3c6936"
+        },
+        "717942": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3505005",
+                "timeupdated": "1548519470"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
