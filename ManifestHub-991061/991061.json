@@ -1,0 +1,28 @@
+{
+    "appid": 991061,
+    "name": "X-Plane 11 - Add-on: Aerosoft - Airport Köln/Bonn",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:20:51",
+    "change_number": 26201212,
+    "depot": {
+        "991061": {
+            "manifests": {
+                "public": {
+                    "gid": "1766760227101538948",
+                    "size": "9572694403",
+                    "download": "6443505184"
+                }
+            },
+            "dlcappid": "991061",
+            "decryptionkey": "d674dcaa19ac9687a2097e93e1de9b187417d5f320530ca752302208f9844429"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7662448",
+                "timeupdated": "1636104599"
+            }
+        }
+    }
+}
