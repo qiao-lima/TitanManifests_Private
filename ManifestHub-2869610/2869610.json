@@ -1,0 +1,44 @@
+{
+    "appid": 2869610,
+    "name": "ArkCraft: The Rebirth of the World",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 20:11:29",
+    "change_number": 30075546,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2869611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1088316609814664586",
+                    "size": "9549134081",
+                    "download": "9131423552"
+                }
+            },
+            "decryptionkey": "3524764112f17ad8775391d0ece5900352fbf17b0adab066cec722b539118371"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18756101",
+                "timeupdated": "1749153434"
+            }
+        }
+    }
+}
