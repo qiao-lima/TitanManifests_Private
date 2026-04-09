@@ -1,0 +1,43 @@
+{
+    "appid": 329950,
+    "name": "The Slaughtering Grounds",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 01:09:32",
+    "change_number": 29922765,
+    "depot": {
+        "329951": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8185376510684590948",
+                    "size": "993136855",
+                    "download": "357669392"
+                }
+            },
+            "decryptionkey": "41dae6e7138ffbbf347daf27e34f8999cea9a0542f3396f9749442f384204a4c"
+        },
+        "492010": {
+            "manifests": {
+                "public": {
+                    "gid": "3120810561768454682",
+                    "size": "97626522",
+                    "download": "56519680"
+                }
+            },
+            "dlcappid": "492010",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1394572",
+                "timeupdated": "1476590594"
+            }
+        }
+    },
+    "access_token": 12710214656592385121
+}
