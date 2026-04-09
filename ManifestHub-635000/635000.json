@@ -1,0 +1,45 @@
+{
+    "appid": "635000",
+    "type": "Game",
+    "name": "Edge of Hearts",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22000874",
+    "update_time": "2024-08-28 11:59:23",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "635001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6753031102428923966",
+                    "size": "62067988",
+                    "download": "44728144"
+                }
+            },
+            "decryptionkey": "b1475fe2e697ed80349278a75d7dc89cb3cc895a1eb19f77937768a6cb303548"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4217268",
+                "timeupdated": "1569063764"
+            }
+        }
+    },
+    "access_token": 16102331419075396424
+}
