@@ -1,0 +1,33 @@
+{
+    "appid": 3526830,
+    "name": "Demon Goblin and Mr. Knight ",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 04:52:26",
+    "change_number": 29853717,
+    "depot": {
+        "baselanguages": "tchinese",
+        "3526831": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3595782297908394224",
+                    "size": "581168862",
+                    "download": "375514944"
+                }
+            },
+            "decryptionkey": "da83e205998bdd3eaa8fedf5747a7f8c5dfe2730427d5c6e8be1eb4cde9af906"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18980539",
+                "timeupdated": "1750955401"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
