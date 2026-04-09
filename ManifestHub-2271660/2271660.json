@@ -1,0 +1,28 @@
+{
+    "appid": 2271660,
+    "name": "RPG Maker MZ - Winlu Fantasy Tileset -  Interior",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-21 01:55:08",
+    "change_number": 29087866,
+    "depot": {
+        "2271660": {
+            "manifests": {
+                "public": {
+                    "gid": "8272290588149904138",
+                    "size": "13650539",
+                    "download": "8243776"
+                }
+            },
+            "dlcappid": "2271660",
+            "decryptionkey": "19ecb3723da78f971f50310760958537c2778edb3b792fbb587c1a412d6359fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18537453",
+                "timeupdated": "1747762324"
+            }
+        }
+    }
+}
