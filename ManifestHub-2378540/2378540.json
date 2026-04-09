@@ -1,0 +1,27 @@
+{
+    "appid": 2378540,
+    "name": "Hentai Dream",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 10:21:23",
+    "change_number": 29441825,
+    "depot": {
+        "2378541": {
+            "manifests": {
+                "public": {
+                    "gid": "3745986185116880200",
+                    "size": "267429432",
+                    "download": "191773152"
+                }
+            },
+            "decryptionkey": "a157813363f6713864f6bc850323df1cb0bf36faf17e1d4a14313bf376ed2acb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12248287",
+                "timeupdated": "1695663117"
+            }
+        }
+    }
+}
