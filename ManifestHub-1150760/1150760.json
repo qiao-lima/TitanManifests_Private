@@ -1,0 +1,28 @@
+{
+    "appid": 1150760,
+    "name": "Gloomwood",
+    "type": "Game",
+    "schinese_name": "幽暗森林",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:22:38",
+    "change_number": 30203197,
+    "depot": {
+        "1150761": {
+            "manifests": {
+                "public": {
+                    "gid": "7106657188751867195",
+                    "size": "2333208773",
+                    "download": "2206624288"
+                }
+            },
+            "decryptionkey": "4fe756af50289f72bf1ed9a6a53ab9720376691d264abce579523e8f39bbe662"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19037219",
+                "timeupdated": "1751133220"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
