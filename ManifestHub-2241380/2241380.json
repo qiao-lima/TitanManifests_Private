@@ -1,0 +1,50 @@
+{
+    "appid": 2241380,
+    "name": "Ancient Kingdoms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 15:22:31",
+    "change_number": 30187789,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "2241381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6327550683715516894",
+                    "size": "9147886064",
+                    "download": "360848800"
+                }
+            },
+            "decryptionkey": "ab5171b37a9c9646a992af3a861922b53c021caac43ebf80eea6d58712669eee"
+        },
+        "2241382": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3120916086657957189",
+                    "size": "9217194691",
+                    "download": "370291888"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19311482",
+                "timeupdated": "1753170850"
+            }
+        }
+    }
+}
