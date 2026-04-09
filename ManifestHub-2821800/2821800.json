@@ -1,0 +1,55 @@
+{
+    "appid": 2821800,
+    "name": "Drill Core",
+    "type": "Game",
+    "schinese_name": "钻核公司 (Drill Core)",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 17:29:21",
+    "change_number": 30190143,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2821801": {
+            "manifests": {
+                "public": {
+                    "gid": "4582807768142781750",
+                    "size": "3074087332",
+                    "download": "2520735056"
+                },
+                "earlyaccessv176": {
+                    "gid": "7278074067710628540",
+                    "size": "2288019769",
+                    "download": "1883995504"
+                }
+            },
+            "decryptionkey": "2d6f599ca00239c873cb8094d116ff81dc697e1d830ec0e9f62e155f1b5520da"
+        },
+        "3176040": {
+            "dlcappid": "3176040"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19316420",
+                "timeupdated": "1753200870"
+            },
+            "earlyaccessv176": {
+                "buildid": "18685160",
+                "description": "Early Access version of the game",
+                "timeupdated": "1752780460"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
