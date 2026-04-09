@@ -1,0 +1,32 @@
+{
+    "appid": 2881800,
+    "name": "SuperTaxCity",
+    "type": "Game",
+    "schinese_name": "超增税都市",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 20:52:56",
+    "change_number": 29710397,
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "2881801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "433653094208661968",
+                    "size": "299685197",
+                    "download": "98091776"
+                }
+            },
+            "decryptionkey": "d1ecba256d079cbd3cf917e5de736ea6d13e1694cd1e09065f8ec78464dac855"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18969791",
+                "timeupdated": "1750708369"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
