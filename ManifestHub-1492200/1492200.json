@@ -1,0 +1,31 @@
+{
+    "appid": 1492200,
+    "name": "Soviet Hentai",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 13:52:48",
+    "change_number": 30154456,
+    "depot": {
+        "1492201": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1365057405646354926",
+                    "size": "466780857",
+                    "download": "205035920"
+                }
+            },
+            "decryptionkey": "756094281394296e529c625213bc3c4d67fe5f1f52984832dd2c56f16db504bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5911758",
+                "timeupdated": "1606922887"
+            }
+        }
+    }
+}
