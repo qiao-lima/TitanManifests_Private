@@ -1,0 +1,32 @@
+{
+    "appid": 3125570,
+    "name": "Laundry Simulator : PowerWash It!",
+    "type": "Game",
+    "schinese_name": "洗衣店模拟器：洗刷刷！",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 21:57:36",
+    "change_number": 29682529,
+    "depot": {
+        "3125571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3300832150098871518",
+                    "size": "3424461279",
+                    "download": "2531563456"
+                }
+            },
+            "decryptionkey": "f0120aa244caeddda39251c1ccd4717bdc1a74eda70dad620f8fae943119cc18"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18936315",
+                "timeupdated": "1750403475"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
