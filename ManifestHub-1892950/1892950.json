@@ -1,0 +1,54 @@
+{
+    "appid": 1892950,
+    "name": "The Golden Rose: Book One",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 12:56:40",
+    "change_number": 29821860,
+    "depot": {
+        "1892951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "38719517538129108",
+                    "size": "251817951",
+                    "download": "82346400"
+                }
+            },
+            "decryptionkey": "786e9266c27f685f3aa9e21f19547c03ff87775be5f1c3cfd47f710a7b3660f4"
+        },
+        "1892952": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2589928141350028892",
+                    "size": "25209723",
+                    "download": "8980272"
+                }
+            }
+        },
+        "1892953": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7780902617790547692",
+                    "size": "254388456",
+                    "download": "76978752"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15552409",
+                "timeupdated": "1725497739"
+            }
+        }
+    }
+}
