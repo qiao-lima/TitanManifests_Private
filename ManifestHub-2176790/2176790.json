@@ -1,0 +1,27 @@
+{
+    "appid": 2176790,
+    "name": "Furry Arena [18+]",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 17:43:06",
+    "change_number": 30190391,
+    "depot": {
+        "2176791": {
+            "manifests": {
+                "public": {
+                    "gid": "9003858908516046038",
+                    "size": "2968182801",
+                    "download": "805797600"
+                }
+            },
+            "decryptionkey": "ddf154048b9a336f02af0bc7c1da7affc1f29a718a2adbac07879e588e8b91e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10088176",
+                "timeupdated": "1670330014"
+            }
+        }
+    }
+}
