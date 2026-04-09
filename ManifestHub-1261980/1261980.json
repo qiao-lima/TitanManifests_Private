@@ -1,0 +1,27 @@
+{
+    "appid": 1261980,
+    "name": "Samurai Aces",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 01:11:02",
+    "change_number": 29491261,
+    "depot": {
+        "1261981": {
+            "manifests": {
+                "public": {
+                    "gid": "829191108790890815",
+                    "size": "25554224",
+                    "download": "19180656"
+                }
+            },
+            "decryptionkey": "28fb9bf1496b327c6ec5fca8afa3fb2683436c22e18d1037ce1b61110afc6f85"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11430628",
+                "timeupdated": "1686296319"
+            }
+        }
+    }
+}
