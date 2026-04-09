@@ -1,0 +1,28 @@
+{
+    "appid": "574620",
+    "type": "Game",
+    "name": "Word Killer: Zorgilonian Chronicles",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25508482",
+    "update_time": "2024-10-03 13:09:56",
+    "depot": {
+        "574621": {
+            "manifests": {
+                "public": {
+                    "gid": "2818868210734711033",
+                    "size": "19299572",
+                    "download": "12247712"
+                }
+            },
+            "decryptionkey": "1de46565a0e7d220be53dd04ba39e038f4aef8315535f537c97bf61f090af4f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1543443",
+                "timeupdated": "1482957128"
+            }
+        }
+    },
+    "access_token": 363139826223621414
+}
