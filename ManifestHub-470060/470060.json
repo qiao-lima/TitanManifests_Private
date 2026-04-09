@@ -1,0 +1,42 @@
+{
+    "appid": 470060,
+    "name": "1917 - The Alien Invasion DX",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 11:12:05",
+    "change_number": 30204080,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,danish,dutch,brazilian",
+        "470062": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "280412004290266801",
+                    "size": "215570353",
+                    "download": "103138080"
+                }
+            },
+            "decryptionkey": "8761dffe7051a419363eb6a867aafdbd181b05a2780dd0de0cab9ce71e6dc897"
+        },
+        "489950": {
+            "manifests": {
+                "public": {
+                    "gid": "6870756022484914705",
+                    "size": "62714558",
+                    "download": "56684512"
+                }
+            },
+            "dlcappid": "489950",
+            "decryptionkey": "603df749fbeb7342f5eb056089e8ecd1d6748eba015a29cb8d4ec35a05efe69e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1821897",
+                "timeupdated": "1494837454"
+            }
+        }
+    }
+}
