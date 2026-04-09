@@ -1,0 +1,39 @@
+{
+    "appid": 1787030,
+    "name": "Safari Cannon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 18:11:23",
+    "change_number": 30073239,
+    "depot": {
+        "1787031": {
+            "manifests": {
+                "public": {
+                    "gid": "8994485076278715009",
+                    "size": "435206688",
+                    "download": "129107904"
+                }
+            },
+            "decryptionkey": "19d6f02eedd5d061e41f31d0fa01b24d9961254b1ec7f2daa63db498629a9184"
+        },
+        "1787032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6668277446607500738",
+                    "size": "433323866",
+                    "download": "128066160"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7582232",
+                "timeupdated": "1634912688"
+            }
+        }
+    }
+}
