@@ -1,0 +1,45 @@
+{
+    "appid": 2625330,
+    "name": "UpWorld - Multiplayer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 12:26:45",
+    "change_number": 29821399,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2625331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1519929234284298040",
+                    "size": "8777316123",
+                    "download": "3469708672"
+                }
+            },
+            "decryptionkey": "0229317411d4db191edbad8683d99e653762438c97cfc8a13c6afc4a41a8bde4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14932602",
+                "timeupdated": "1720103565"
+            }
+        }
+    }
+}
