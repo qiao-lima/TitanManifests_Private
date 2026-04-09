@@ -1,0 +1,27 @@
+{
+    "appid": 3655230,
+    "name": "101 Cats Hidden in Mumbai",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-18 22:11:40",
+    "change_number": 29049296,
+    "depot": {
+        "3655231": {
+            "manifests": {
+                "public": {
+                    "gid": "1259013835091319687",
+                    "size": "568085842",
+                    "download": "110586448"
+                }
+            },
+            "decryptionkey": "e14dbd05b8dc650e2673d85f92d72af5efea25828e3288f2b506c0029b79f2e8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18437265",
+                "timeupdated": "1747098156"
+            }
+        }
+    }
+}
