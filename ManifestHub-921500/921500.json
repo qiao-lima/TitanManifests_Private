@@ -1,0 +1,57 @@
+{
+    "appid": 921500,
+    "name": "Jack Is Missing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 18:14:23",
+    "change_number": 29811715,
+    "depot": {
+        "921501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3327801444146852314",
+                    "size": "636469024",
+                    "download": "218604480"
+                }
+            },
+            "decryptionkey": "ee5548f41edd87177c05ea5bba1572ee376d36f33a83c43c4a759bd386853cac"
+        },
+        "921502": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6337692028512832889",
+                    "size": "656656145",
+                    "download": "225182544"
+                }
+            },
+            "decryptionkey": "93bf1b8c1a86a5e2d68b5515e16a86fef5053fa0dc650c4312a08bbcdf84462a"
+        },
+        "921503": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2667569220334376004",
+                    "size": "688689480",
+                    "download": "241085504"
+                }
+            },
+            "decryptionkey": "728cb62fb9b67177b4fd9d9a770b8b4796402e1c656edfdaef174fdb5430eaa0"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "3357070",
+                "timeupdated": "1543644324"
+            }
+        }
+    }
+}
