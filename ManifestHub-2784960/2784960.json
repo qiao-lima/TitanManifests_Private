@@ -1,0 +1,28 @@
+{
+    "appid": 2784960,
+    "name": "Avian Enigma",
+    "type": "Game",
+    "schinese_name": "鸟之谜",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 12:57:12",
+    "change_number": 29821870,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2784962": {
+            "manifests": {
+                "public": {
+                    "gid": "4384700545589960516",
+                    "size": "607536309",
+                    "download": "462350736"
+                }
+            },
+            "decryptionkey": "8d11d333333a0643bdb3b4180ec3140dcb7b5c70ec503d7480d6c86edf61a3e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15707738",
+                "timeupdated": "1726415500"
+            }
+        }
+    }
+}
