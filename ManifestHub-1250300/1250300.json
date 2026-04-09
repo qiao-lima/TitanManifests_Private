@@ -1,0 +1,39 @@
+{
+    "appid": 1250300,
+    "name": "Orders of Magnitude",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:54:02",
+    "change_number": 29708868,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1250303": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8557216520805789805",
+                    "size": "3581861253",
+                    "download": "1049910704"
+                }
+            },
+            "decryptionkey": "8d9222ee30062b947d2320177e2326c97aeb90f32561283ec5c4dda0c3d82750"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18967413",
+                "timeupdated": "1750700922"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
