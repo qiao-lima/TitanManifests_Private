@@ -1,0 +1,27 @@
+{
+    "appid": 219152,
+    "name": "Hotline Miami Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 20:15:03",
+    "change_number": 29549132,
+    "depot": {
+        "219152": {
+            "manifests": {
+                "public": {
+                    "gid": "8250777090586816025",
+                    "size": "228871209",
+                    "download": "219763152"
+                }
+            },
+            "decryptionkey": "d1116e26a0aeb3d3a498382d419102e5a8386dcfa923e8844a6e1e2aa0d671f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5311243",
+                "timeupdated": "1595284531"
+            }
+        }
+    }
+}
