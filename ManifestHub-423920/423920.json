@@ -1,0 +1,30 @@
+{
+    "appid": "423920",
+    "type": "Game",
+    "name": "Etaria | Survival Adventure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25781415",
+    "update_time": "2024-10-18 16:03:49",
+    "depot": {
+        "423921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "911799388245869067",
+                    "size": "124606116",
+                    "download": "44383568"
+                }
+            },
+            "decryptionkey": "38f14038d4b08c145b69ecc2d5bf21d8addda870f99a90d4d6c403f907b37e0e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "985270"
+            }
+        }
+    },
+    "access_token": 6089512454083247376
+}
