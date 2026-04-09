@@ -1,0 +1,81 @@
+{
+    "appid": "1805150",
+    "type": "Game",
+    "name": "Five dreams",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25607943",
+    "update_time": "2024-10-09 05:10:35",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1805151": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1739460912291619161",
+                    "size": "12035960934",
+                    "download": "3081493840"
+                }
+            },
+            "decryptionkey": "4f2d94c01124c182ea8d7e0b82ab8e4df2b8837efcc2a82b26100d1782196413"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7688122",
+                "timeupdated": "1636537824"
+            }
+        }
+    }
+}
