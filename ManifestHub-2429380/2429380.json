@@ -1,0 +1,28 @@
+{
+    "appid": 2429380,
+    "name": "淤積的祈禱",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 15:23:29",
+    "change_number": 29432614,
+    "depot": {
+        "baselanguages": "tchinese",
+        "2429381": {
+            "manifests": {
+                "public": {
+                    "gid": "258636985775347443",
+                    "size": "1891951506",
+                    "download": "1604911808"
+                }
+            },
+            "decryptionkey": "e5e355584e5654ef579d828f2b0446c1794b31f2db5e9d7e1e0cef03f17cc6bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16910363",
+                "timeupdated": "1736074967"
+            }
+        }
+    }
+}
