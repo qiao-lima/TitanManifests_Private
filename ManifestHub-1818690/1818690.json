@@ -1,0 +1,29 @@
+{
+    "appid": 1818690,
+    "name": "Grindstone",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 19:52:14",
+    "change_number": 30148836,
+    "depot": {
+        "1818691": {
+            "manifests": {
+                "public": {
+                    "gid": "4653829359599814506",
+                    "size": "1261714943",
+                    "download": "1011128848"
+                }
+            },
+            "decryptionkey": "0d6facef61f324f28048b61a828730bab238ea31e330bc37610236b49b05932d"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18301716",
+                "timeupdated": "1747918827"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
