@@ -1,0 +1,51 @@
+{
+    "appid": "2319030",
+    "type": "Game",
+    "name": "Lotus Lantern: Rescue Mother",
+    "schinese_name": "宝莲灯：太子沉香",
+    "isfreeapp": "0",
+    "change_number": "29010787",
+    "update_time": "2025-05-16 04:13:01",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2319031": {
+            "manifests": {
+                "public": {
+                    "gid": "5742852475714267111",
+                    "size": "2697622127",
+                    "download": "2341745584"
+                }
+            },
+            "decryptionkey": "b1f7187090f08c793f4bd4e8c5a0a9676940f6c1facd511d5bc0e56f1fbe56ab"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "14707517",
+                "timeupdated": "1718328855"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 12906838892456633662
+}
