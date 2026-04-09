@@ -1,0 +1,31 @@
+{
+    "appid": 3361340,
+    "name": "Shop Simulator: Waifu Pillows",
+    "type": "Game",
+    "schinese_name": "Shop Simulator: 抱枕女神",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 14:32:13",
+    "change_number": 30027474,
+    "depot": {
+        "workshopdepot": "3361340",
+        "hasdepotsindlc": "1",
+        "3361341": {
+            "manifests": {
+                "public": {
+                    "gid": "5530760999137612023",
+                    "size": "2331748363",
+                    "download": "1545389472"
+                }
+            },
+            "decryptionkey": "ac30488150bd964f39cf92f944398a24b8076f784de66b44df299390b87645a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18441276",
+                "timeupdated": "1749816685"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "b569fbe367980d340f57e8929a392bda5b78b55be6a3265e851e7865a7b3a044"
+    }
+}
