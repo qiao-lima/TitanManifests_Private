@@ -1,0 +1,41 @@
+{
+    "appid": 2486740,
+    "name": "Sledders",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 12:13:13",
+    "change_number": 29967028,
+    "depot": {
+        "2486741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3925192924530497302",
+                    "size": "11099665692",
+                    "download": "2690830528"
+                },
+                "multiplayer-race-test": {
+                    "gid": "8187150062175926126",
+                    "size": "9395149725",
+                    "download": "2425340656"
+                }
+            },
+            "decryptionkey": "4144067d33e34965671b4aabd42b033e11a077b35d90afe33d67a4371b540f6a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18840383",
+                "timeupdated": "1749735906"
+            },
+            "multiplayer-race-test": {
+                "buildid": "18307230",
+                "description": "For April's multplayer race testing",
+                "timeupdated": "1746087453"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
