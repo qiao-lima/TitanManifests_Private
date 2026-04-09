@@ -1,0 +1,60 @@
+{
+    "appid": 581640,
+    "name": "Numberline",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 19:00:28",
+    "change_number": 29973520,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "581641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8529875520898412589",
+                    "size": "106437614",
+                    "download": "38535616"
+                }
+            },
+            "decryptionkey": "85b0f237945abef47002b79d05b95dc9c2e9aa81de9a9b31f104b8a40a880e91"
+        },
+        "581642": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3093701239027352652",
+                    "size": "106437476",
+                    "download": "38535568"
+                }
+            },
+            "decryptionkey": "32850de0a6a9be4c844119bb402f8f1633db74a6a77a490d7e6c1e757ca5dcce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1604164",
+                "timeupdated": "1485978633"
+            }
+        }
+    },
+    "access_token": 12633825271620334695
+}
