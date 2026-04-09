@@ -1,0 +1,27 @@
+{
+    "appid": 2516550,
+    "name": "Margoq's Lair",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 17:06:55",
+    "change_number": 29231929,
+    "depot": {
+        "2516551": {
+            "manifests": {
+                "public": {
+                    "gid": "5246941936746745525",
+                    "size": "427273312",
+                    "download": "123414496"
+                }
+            },
+            "decryptionkey": "425f9ab654ebbf7924ac82dd4a1290a0a864480c5fccdc800a1cd4d02db71eda"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18638945",
+                "timeupdated": "1748423207"
+            }
+        }
+    }
+}
