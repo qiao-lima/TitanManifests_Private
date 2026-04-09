@@ -1,0 +1,31 @@
+{
+    "appid": 2772740,
+    "name": "BETA: iVRy Driver for SteamVR (PSVR2 Lite Edition)",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 10:42:31",
+    "change_number": 29584380,
+    "depot": {
+        "2772741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4622040845673634801",
+                    "size": "23680061",
+                    "download": "13461344"
+                }
+            },
+            "dlcappid": "2772740",
+            "decryptionkey": "d87c8bb05aa5c73b6457e6a72310995906ba75f98f21fdc692ecfe4f82f159d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18880574",
+                "timeupdated": "1750067299"
+            }
+        }
+    }
+}
