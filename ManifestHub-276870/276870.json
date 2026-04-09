@@ -1,0 +1,53 @@
+{
+    "appid": 276870,
+    "name": "Dwelvers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 09:51:40",
+    "change_number": 30144630,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "276871": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3821358657199833566",
+                    "size": "474581779",
+                    "download": "246962992"
+                }
+            },
+            "decryptionkey": "e43abc38c2b595f6a72fadb2a1dd6d627cbc498407310124e4ec2778b9364ee5"
+        },
+        "overridescddb": "1",
+        "workshopdepot": "276870",
+        "branches": {
+            "public": {
+                "buildid": "19179297",
+                "timeupdated": "1752168149"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
