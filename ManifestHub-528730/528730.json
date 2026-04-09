@@ -1,0 +1,27 @@
+{
+    "appid": 528730,
+    "name": "Crypt of the Serpent King",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 22:41:52",
+    "change_number": 29350551,
+    "depot": {
+        "528731": {
+            "manifests": {
+                "public": {
+                    "gid": "7432028590900813688",
+                    "size": "1114388087",
+                    "download": "492187296"
+                }
+            },
+            "decryptionkey": "cf18605843e90bc7022e7c3022f4097cb9b60b70bfefc25f7ed524f37bff0fab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1588371",
+                "timeupdated": "1485285232"
+            }
+        }
+    }
+}
