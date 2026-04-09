@@ -1,0 +1,35 @@
+{
+    "appid": 443110,
+    "name": "Armored Warfare",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 08:36:14",
+    "change_number": 30201469,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "443111": {
+            "manifests": {
+                "public": {
+                    "gid": "2380839787222778593",
+                    "size": "67757722095",
+                    "download": "62661230656"
+                }
+            },
+            "decryptionkey": "99104a5a92e76a1c16407c5cbad95a8635aa63c3b8dda1c80e88532819bf66b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19339075",
+                "timeupdated": "1753335192"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
