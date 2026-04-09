@@ -1,0 +1,28 @@
+{
+    "appid": 3430300,
+    "name": "Tayutama: Kiss on my Deity",
+    "type": "Game",
+    "schinese_name": "游魂 -Kiss on my Deity-",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 04:42:29",
+    "change_number": 30102672,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "3430301": {
+            "manifests": {
+                "public": {
+                    "gid": "107182646844510427",
+                    "size": "5957990861",
+                    "download": "5603624320"
+                }
+            },
+            "decryptionkey": "49f55dfa1e0fe61db960b070c933655967af6c5784b392999810aaefbe47dae2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18473763",
+                "timeupdated": "1747303949"
+            }
+        }
+    }
+}
