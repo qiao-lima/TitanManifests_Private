@@ -1,0 +1,44 @@
+{
+    "appid": 2279600,
+    "name": "Raw Metal",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 02:58:13",
+    "change_number": 30159786,
+    "depot": {
+        "2279601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3751863459189097013",
+                    "size": "1754057287",
+                    "download": "725051856"
+                }
+            },
+            "decryptionkey": "65d42d74ac4d4892600feab5a59795e6108dc6c7fabd93c7b70971606d36e7e5"
+        },
+        "2279602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7951816684300581261",
+                    "size": "1776406111",
+                    "download": "731848720"
+                }
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "19294859",
+                "timeupdated": "1753063089"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
