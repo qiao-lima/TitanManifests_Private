@@ -1,0 +1,31 @@
+{
+    "appid": 1818790,
+    "name": "Maze Art: Orange",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 11:26:56",
+    "change_number": 30087071,
+    "depot": {
+        "1818791": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2753432686698510995",
+                    "size": "285958776",
+                    "download": "286130880"
+                }
+            },
+            "decryptionkey": "da3f7411c0cfb7c7a8239c2e55084200a3e12f7d89445b9a0087ec1e034ece2b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7694562",
+                "timeupdated": "1636617264"
+            }
+        }
+    }
+}
