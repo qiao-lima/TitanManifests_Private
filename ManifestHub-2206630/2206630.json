@@ -1,0 +1,28 @@
+{
+    "appid": 2206630,
+    "name": "RPG Maker MZ - Soldier Character Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:49:47",
+    "change_number": 26201212,
+    "depot": {
+        "2206630": {
+            "manifests": {
+                "public": {
+                    "gid": "8738232738434278777",
+                    "size": "144947761",
+                    "download": "143905248"
+                }
+            },
+            "dlcappid": "2206630",
+            "decryptionkey": "42991590914811223566e79792669f270a3b4f449439d9545e250ef9eadc3bc3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9904693",
+                "timeupdated": "1668031638"
+            }
+        }
+    }
+}
