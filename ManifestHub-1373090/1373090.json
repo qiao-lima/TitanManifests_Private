@@ -1,0 +1,59 @@
+{
+    "appid": 1373090,
+    "name": "Yes, Your Grace: Snowfall",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 08:12:13",
+    "change_number": 29916489,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1373091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3011726484180956375",
+                    "size": "2934071777",
+                    "download": "2388898160"
+                }
+            },
+            "decryptionkey": "1e62e9776420e2326bcd8899e8b909fed88378c995abdc1e1d05184d6d87d67c"
+        },
+        "1373092": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7687275670197211416",
+                    "size": "2679530863",
+                    "download": "1999532272"
+                }
+            },
+            "decryptionkey": "0e30968e52ab8e674f1b315838929208744f8c50f0ab9a06a217b2b6a3819029"
+        },
+        "1373093": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8414075010744901224",
+                    "size": "2999715367",
+                    "download": "2426598032"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18857226",
+                "timeupdated": "1749828238"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
