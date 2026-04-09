@@ -1,0 +1,41 @@
+{
+    "appid": 2214220,
+    "name": "Trench Tales",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 08:24:19",
+    "change_number": 30201306,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2214221": {
+            "manifests": {
+                "public": {
+                    "gid": "1809121373694028482",
+                    "size": "4931211215",
+                    "download": "4580662576"
+                }
+            },
+            "decryptionkey": "5c2bae682f9e8fb9f957c4683cf802f2eb4ef95c7c17d867ebf91525695051cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19325401",
+                "timeupdated": "1753255456"
+            }
+        }
+    }
+}
