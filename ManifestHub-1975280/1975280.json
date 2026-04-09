@@ -1,0 +1,57 @@
+{
+    "appid": 1975280,
+    "name": "Between Two Worlds",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 13:12:22",
+    "change_number": 30035283,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1975285": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "774159931324759418",
+                    "size": "5450634292",
+                    "download": "5249561088"
+                }
+            },
+            "decryptionkey": "3a4340a192d8c879005cd0b399856c3c64379b5a3ffd17ed06cb50d39ececf27"
+        },
+        "2102650": {
+            "dlcappid": "2102650"
+        },
+        "1975281": {
+            "manifests": {
+                "public": {
+                    "gid": "2286708057736896267",
+                    "size": "1917115531",
+                    "download": "1767454720"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3754820": {
+            "dlcappid": "3754820",
+            "manifests": {
+                "public": {
+                    "gid": "1148757521131338806",
+                    "size": "2444",
+                    "download": "960"
+                }
+            },
+            "decryptionkey": "3865a9935afdbfd956e447f74a6679c68c1a3b44e0cd89d025e58fbab947dd54"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19125724",
+                "timeupdated": "1751845063"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
