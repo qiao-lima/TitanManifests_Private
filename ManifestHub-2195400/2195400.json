@@ -1,0 +1,44 @@
+{
+    "appid": 2195400,
+    "name": "Shave & Stuff",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:48",
+    "change_number": 29655649,
+    "depot": {
+        "2195401": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8875673258834927626",
+                    "size": "1253187693",
+                    "download": "285536992"
+                },
+                "beta": {
+                    "gid": "8875673258834927626",
+                    "size": "1253187693",
+                    "download": "285536992"
+                }
+            },
+            "decryptionkey": "4f6ea639ef2193920caab2436cc4f585c0f8770a8903d1a2e55b3a6ec5f31283"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18656165",
+                "timeupdated": "1748510493"
+            },
+            "beta": {
+                "buildid": "18656165",
+                "description": "Public beta",
+                "timeupdated": "1748510481"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
