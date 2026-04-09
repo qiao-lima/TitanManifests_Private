@@ -1,0 +1,51 @@
+{
+    "appid": 3600700,
+    "name": "e-Racer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 01:01:28",
+    "change_number": 30121210,
+    "depot": {
+        "3600701": {
+            "manifests": {
+                "public": {
+                    "gid": "2280027090385638311",
+                    "size": "427118034",
+                    "download": "364067136"
+                }
+            },
+            "decryptionkey": "0a17b378346acd4dd526493f58ed168023b291414d88ff47b4be45c3aa41b7f5"
+        },
+        "3600711": {
+            "dlcappid": "3600710",
+            "manifests": {
+                "public": {
+                    "gid": "7530892164180424662",
+                    "size": "8656503",
+                    "download": "8260992"
+                }
+            },
+            "decryptionkey": "5668f77a40767cf069707bbfc585d93923496fb995ac167a570365a36a88b0cf"
+        },
+        "3600702": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "646121269493964511",
+                    "size": "80746800",
+                    "download": "73966384"
+                }
+            },
+            "decryptionkey": "1f3f4f39735d711c26cb1d488b3c1a66e3eac380e082b4465c2502e11662646b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18894549",
+                "timeupdated": "1750149824"
+            }
+        }
+    }
+}
