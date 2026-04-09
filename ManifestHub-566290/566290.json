@@ -1,0 +1,28 @@
+{
+    "appid": "566290",
+    "type": "Game",
+    "name": "Billiard: VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "19577082",
+    "update_time": "2024-08-28 11:58:50",
+    "depot": {
+        "566291": {
+            "manifests": {
+                "public": {
+                    "gid": "5941599574570288680",
+                    "size": "48139823",
+                    "download": "13750496"
+                }
+            },
+            "decryptionkey": "4c3ef4de59db5a42dccbe8e74f389ab29ae0c092e1571330015fd2c844de28d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1506865",
+                "timeupdated": "1481220634"
+            }
+        }
+    },
+    "access_token": 7599916259514457213
+}
