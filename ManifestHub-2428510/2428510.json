@@ -1,0 +1,27 @@
+{
+    "appid": 2428510,
+    "name": "仙路争锋-GM畅玩版",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 17:15:58",
+    "change_number": 29583868,
+    "depot": {
+        "2428511": {
+            "manifests": {
+                "public": {
+                    "gid": "3321605543982250030",
+                    "size": "138670840",
+                    "download": "52991456"
+                }
+            },
+            "decryptionkey": "47f1f99326e8ad37abcdba20e18b2e0fa120642e4b9bf0036dd31c099352f8cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11295259",
+                "timeupdated": "1684830998"
+            }
+        }
+    }
+}
