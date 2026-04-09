@@ -1,0 +1,33 @@
+{
+    "appid": 883200,
+    "name": "Immortal: Unchained - Midas Touched",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 01:59:16",
+    "change_number": 27015870,
+    "depot": {
+        "883201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "883200",
+            "manifests": {
+                "public": {
+                    "gid": "6039082655545791406",
+                    "size": "31618284",
+                    "download": "31794624"
+                }
+            },
+            "decryptionkey": "4a281edee706f10eaecb56e7d4a347e02b1c049830b150ca449d59c84f00b0a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4035864",
+                "timeupdated": "1563894031"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
