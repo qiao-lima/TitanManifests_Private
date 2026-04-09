@@ -1,0 +1,31 @@
+{
+    "appid": "431560",
+    "type": "Game",
+    "name": "Hard Room",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:04:28",
+    "depot": {
+        "431561": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2546068591775647902",
+                    "size": "33950208",
+                    "download": "34327488"
+                }
+            },
+            "decryptionkey": "7768fe4492138fc79e48e9350b3dd8756975b5ce6c11e9c8421e12a21a00a729"
+        },
+        "branches": {
+            "public": {
+                "buildid": "963026"
+            }
+        }
+    },
+    "access_token": 13028166363374382305
+}
