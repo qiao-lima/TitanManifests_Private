@@ -1,0 +1,27 @@
+{
+    "appid": 1154720,
+    "name": "Re: Gals Panic｜幻想天蠶變",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 04:15:13",
+    "change_number": 29577121,
+    "depot": {
+        "1154721": {
+            "manifests": {
+                "public": {
+                    "gid": "7668652315498486949",
+                    "size": "275818764",
+                    "download": "66710688"
+                }
+            },
+            "decryptionkey": "4da3dc73cb65f63b675dc39b9081325a4f37f39c521c5913f4dc8566e521e143"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4642957",
+                "timeupdated": "1580888737"
+            }
+        }
+    }
+}
