@@ -1,0 +1,63 @@
+{
+    "appid": 886250,
+    "name": "Vegas Infinite by PokerStars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 00:18:16",
+    "change_number": 30216366,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "886251": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4171964774508680731",
+                    "size": "13854833058",
+                    "download": "7368546928"
+                },
+                "default_secondary": {
+                    "gid": "4171964774508680731",
+                    "size": "13854833058",
+                    "download": "7368546928"
+                }
+            },
+            "decryptionkey": "c3022b661f50ffeef0e317f2aef125b845e701668cabd21ebffb939073947e1c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19152716",
+                "timeupdated": "1752590029"
+            },
+            "default_secondary": {
+                "buildid": "19152716",
+                "description": "Second public branch",
+                "timeupdated": "1752590063"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
