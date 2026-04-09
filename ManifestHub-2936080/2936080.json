@@ -1,0 +1,29 @@
+{
+    "appid": 2936080,
+    "name": "ReSetna",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 04:52:25",
+    "change_number": 30151743,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2936081": {
+            "manifests": {
+                "public": {
+                    "gid": "5913086838977849075",
+                    "size": "24344694609",
+                    "download": "11704165600"
+                }
+            },
+            "decryptionkey": "cb2163bacefaccd77ee61cba9322358f3c6632597c7d978e284c783463e27190"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19250476",
+                "timeupdated": "1752698564"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
