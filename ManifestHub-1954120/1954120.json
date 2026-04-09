@@ -1,0 +1,39 @@
+{
+    "appid": 1954120,
+    "name": "4D Miner Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:36:55",
+    "change_number": 29294890,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1954121": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6751676548195361592",
+                    "size": "174052595",
+                    "download": "120261488"
+                }
+            },
+            "decryptionkey": "3ad50d2304fee8baa199a3c469197edcb784de588e60fffa9c3428a674015169"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18681376",
+                "timeupdated": "1748648171"
+            }
+        }
+    }
+}
