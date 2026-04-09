@@ -1,0 +1,30 @@
+{
+    "appid": "534080",
+    "type": "Tool",
+    "name": "Last Tide TEST Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:15:24",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian",
+        "534081": {
+            "manifests": {
+                "public": {
+                    "gid": "6208196858790946411",
+                    "size": "9926147472",
+                    "download": "3938945488"
+                }
+            },
+            "decryptionkey": "1c923fff6c58be039ee96ae0bd3591c6ff96279c8908f2dc3114ffad73068f81"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3156975",
+                "timeupdated": "1537967154"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 14668241743177600100
+}
