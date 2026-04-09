@@ -1,0 +1,41 @@
+{
+    "appid": 2678060,
+    "name": "Inner Darkness",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 15:18:11",
+    "change_number": 29680105,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2678061": {
+            "manifests": {
+                "public": {
+                    "gid": "5576814917256179065",
+                    "size": "930329355",
+                    "download": "634273296"
+                }
+            },
+            "decryptionkey": "aeabc9d14a6606362555421f7e9ff76c888c70f09d871f3932042e5ac8a3342b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18690778",
+                "timeupdated": "1748761226"
+            }
+        }
+    }
+}
