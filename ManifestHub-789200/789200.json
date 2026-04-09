@@ -1,0 +1,84 @@
+{
+    "appid": 789200,
+    "name": "S.P.I.K.E: ARENA",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 04:11:22",
+    "change_number": 30032611,
+    "depot": {
+        "789201": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "832038026750189530",
+                    "size": "165894945",
+                    "download": "73034592"
+                }
+            },
+            "decryptionkey": "11c4f01625329ff0ff21c74e5bf3a6dca81786143c755b285bbc150087737314"
+        },
+        "789202": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1292891992787151380",
+                    "size": "212785087",
+                    "download": "92779600"
+                }
+            }
+        },
+        "789203": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6366299005622638569",
+                    "size": "239460119",
+                    "download": "95045184"
+                }
+            }
+        },
+        "789204": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8961493738312917910",
+                    "size": "137474196",
+                    "download": "66314736"
+                }
+            },
+            "decryptionkey": "63ae4cb1ec75767a278b0bc21a61fb4377fb5fe73eae1cc8b661a73b52a2b155"
+        },
+        "789205": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4011988830613663997",
+                    "size": "211476991",
+                    "download": "93537760"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2917141",
+                "timeupdated": "1530680459"
+            }
+        }
+    }
+}
