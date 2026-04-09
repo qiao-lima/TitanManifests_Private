@@ -1,0 +1,80 @@
+{
+    "appid": 1783500,
+    "name": "DaVinCo",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 13:26:49",
+    "change_number": 30166552,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1783501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7688319965462095304",
+                    "size": "7511619177",
+                    "download": "959153280"
+                },
+                "nightly": {
+                    "gid": "5681476274620052881",
+                    "size": "4303423982",
+                    "download": "1188352816"
+                }
+            },
+            "decryptionkey": "3c9544503213796f11a1ff76c4c5cafbd51c7a5f95b2739f29d45532e96a4319"
+        },
+        "1783502": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8735334603777007333",
+                    "size": "6538946451",
+                    "download": "871154480"
+                },
+                "nightly": {
+                    "gid": "2738726541351382486",
+                    "size": "4797417022",
+                    "download": "1320548208"
+                }
+            },
+            "decryptionkey": "01e41eb114d004fdaf44f27642f5e0c94d0b630a8de4a906e7fdf3fee661f893"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14906811",
+                "timeupdated": "1719971662"
+            },
+            "nightly": {
+                "buildid": "19299675",
+                "description": "Branch containing the newest version of DaVinCo, possibly unstable",
+                "timeupdated": "1753100802"
+            }
+        }
+    }
+}
