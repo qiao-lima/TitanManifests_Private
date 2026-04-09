@@ -1,0 +1,45 @@
+{
+    "appid": 3227190,
+    "name": "Overtime Anomaly",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 12:12:36",
+    "change_number": 30047304,
+    "depot": {
+        "3227192": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7556763190289038865",
+                    "size": "1972552664",
+                    "download": "674009184"
+                }
+            },
+            "decryptionkey": "6fc6c03f75dd6446e88407a12968fa118eb31ea5b12ff64647357f9503fcb38a"
+        },
+        "3227193": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4212559614764707199",
+                    "size": "2026382682",
+                    "download": "693979792"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18419623",
+                "timeupdated": "1746966029"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
