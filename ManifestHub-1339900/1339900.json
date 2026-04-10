@@ -1,0 +1,45 @@
+{
+    "appid": 1339900,
+    "name": "BOT.vinnik Chess: Combination Lessons",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 00:04:41",
+    "change_number": 29814086,
+    "depot": {
+        "baselanguages": "english",
+        "1339901": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "138115558161584436",
+                    "size": "83362245",
+                    "download": "27620336"
+                }
+            },
+            "decryptionkey": "132bd39c212613f46b3ebea2f0bd580d7cb00fc7b5cfc8733bf86920da7cb11f"
+        },
+        "1339903": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1006254107999106305",
+                    "size": "68697033",
+                    "download": "19231328"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19045071",
+                "timeupdated": "1751238274"
+            }
+        }
+    }
+}
