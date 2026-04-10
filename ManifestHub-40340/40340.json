@@ -1,0 +1,80 @@
+{
+    "appid": 40340,
+    "name": "Secret Files: Puritas Cordis",
+    "type": "Game",
+    "schinese_name": "秘密档案2：清心",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:42:11",
+    "change_number": 29694004,
+    "depot": {
+        "40341": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2629410981323446076",
+                    "size": "2132189631",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "49a1b64b14efc30b03a3b9882c4dce4bfacf3d957d70266c53cdbbeb3575b596"
+        },
+        "40342": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "444723732802674333",
+                    "size": "1212910666",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "09bfbc17f1fe3195346385f1fab8f93a3d434a3b6e7aca1dbe7c6d9e34fe178c"
+        },
+        "40343": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8848000593840885452",
+                    "size": "1301008927",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "155bb2d6e2c175c62dd93f3b9dafb20f35964592b8a15ad5cc298bf90cfc1832"
+        },
+        "40344": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6903284981324720282",
+                    "size": "552817691",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6c428249f722f60439dbe80f9b40951d7e6888818f38491fdf2a4786f7a8f3c2"
+        },
+        "40345": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1917636010801926813",
+                    "size": "1255226121",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4ff5bd2a7e3579efeef288d06f04e76a5f1d75e9482edbed7f97876ebdae9309"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "21229"
+            }
+        }
+    }
+}
