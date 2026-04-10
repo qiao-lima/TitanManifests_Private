@@ -1,0 +1,27 @@
+{
+    "appid": 2889460,
+    "name": "Route8",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 08:39:41",
+    "change_number": 29598350,
+    "depot": {
+        "2889461": {
+            "manifests": {
+                "public": {
+                    "gid": "5781055620420526373",
+                    "size": "2229133122",
+                    "download": "346888384"
+                }
+            },
+            "decryptionkey": "7239b43daa963cf84b95d0a507e0cc36b772424933de03e5229ab98329a55a88"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14018741",
+                "timeupdated": "1729694574"
+            }
+        }
+    }
+}
