@@ -1,0 +1,47 @@
+{
+    "appid": 1348760,
+    "name": "KARM",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 21:22:30",
+    "change_number": 29565281,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1348761": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5815655608024877631",
+                    "size": "1847213777",
+                    "download": "1494529072"
+                }
+            },
+            "decryptionkey": "02705aa34e15260e64bd52fb3f11cbe8b4b95b00bed58ef1aacc76434be37f56"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18552864",
+                "timeupdated": "1747845224"
+            }
+        }
+    }
+}
