@@ -1,0 +1,31 @@
+{
+    "appid": 1684154,
+    "name": "DYNASTY WARRIORS 9 Empires - School Gymnasium",
+    "type": "DLC",
+    "schinese_name": "真・三国无双８ 帝国 - 学园体育馆",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 16:31:19",
+    "change_number": 26201212,
+    "depot": {
+        "1684154": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1822420679340943520",
+                    "size": "14435072",
+                    "download": "14312432"
+                }
+            },
+            "dlcappid": "1684154",
+            "decryptionkey": "86d44e10729bb74a9c4ace48ffc4e3a3ef264e4867250f65b9f7f40deff8151e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7214405",
+                "timeupdated": "1629359465"
+            }
+        }
+    }
+}
