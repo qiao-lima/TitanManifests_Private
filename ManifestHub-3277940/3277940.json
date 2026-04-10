@@ -1,0 +1,27 @@
+{
+    "appid": 3277940,
+    "name": "Venge Act 0 Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 10:20:08",
+    "change_number": 26371780,
+    "depot": {
+        "3277942": {
+            "manifests": {
+                "public": {
+                    "gid": "5616857988792758363",
+                    "size": "19214523",
+                    "download": "19223728"
+                }
+            },
+            "decryptionkey": "bd8cff30ee2fdb34b89ec578e4753ff2107737998360281957be014feec3953a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16005575",
+                "timeupdated": "1728631371"
+            }
+        }
+    }
+}
