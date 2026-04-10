@@ -1,0 +1,31 @@
+{
+    "appid": 856890,
+    "name": "JUSTICE SUCKS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 16:40:19",
+    "change_number": 29952425,
+    "depot": {
+        "856891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8356814732581836164",
+                    "size": "2093892079",
+                    "download": "1204917792"
+                }
+            },
+            "decryptionkey": "255a38e3e742499a0e973be0b6cbde54cf7340ff6669fdc0112d3c0d1ae033e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10467942",
+                "timeupdated": "1676562580"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
