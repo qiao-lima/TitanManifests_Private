@@ -1,0 +1,33 @@
+{
+    "appid": 1888480,
+    "name": "Wild Radio Flux",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 04:31:15",
+    "change_number": 29472798,
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "0",
+        "1888481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1884649969445429850",
+                    "size": "874787992",
+                    "download": "475603408"
+                }
+            },
+            "decryptionkey": "cff657f0f500c17adfe04abcfba5f8d7ed00d46e9e332d988429c446309cf8f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18793207",
+                "timeupdated": "1749465819"
+            }
+        }
+    }
+}
