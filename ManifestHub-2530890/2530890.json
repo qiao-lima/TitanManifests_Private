@@ -1,0 +1,32 @@
+{
+    "appid": 2530890,
+    "name": "Fruit Conflict",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 21:31:29",
+    "change_number": 29997006,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2530891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3534367553211440350",
+                    "size": "428460753",
+                    "download": "153808944"
+                }
+            },
+            "decryptionkey": "44a33cceab7180540a23b850bc71bda9ed645ad283474895da9bffbf185376de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19181350",
+                "timeupdated": "1752179484"
+            }
+        }
+    }
+}
