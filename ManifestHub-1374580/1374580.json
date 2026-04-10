@@ -1,0 +1,43 @@
+{
+    "appid": 1374580,
+    "name": "Dirge",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 07:18:40",
+    "change_number": 30200467,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1374581": {
+            "manifests": {
+                "public": {
+                    "gid": "9000511995974795457",
+                    "size": "7690208975",
+                    "download": "7389346496"
+                }
+            },
+            "decryptionkey": "bd92377ead73cd70916c4412f0a5307a8d618a8425b27db11a391145a86fee45"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19217869",
+                "timeupdated": "1752506385"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
