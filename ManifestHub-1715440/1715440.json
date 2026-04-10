@@ -1,0 +1,28 @@
+{
+    "appid": 1715440,
+    "name": "RPG Maker MZ - Muse Fantasia Battle Music Vol.1",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 02:05:33",
+    "change_number": 30058994,
+    "depot": {
+        "1715440": {
+            "manifests": {
+                "public": {
+                    "gid": "4132598733871138206",
+                    "size": "41884656",
+                    "download": "41550752"
+                }
+            },
+            "dlcappid": "1715440",
+            "decryptionkey": "8e9a7555e7b46a61a99a4da8396c2e3a8b2c97060f093576edb1a2d5b2bbea43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19223393",
+                "timeupdated": "1752541529"
+            }
+        }
+    }
+}
