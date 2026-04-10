@@ -1,0 +1,80 @@
+{
+    "appid": 681280,
+    "name": "Descenders",
+    "type": "Game",
+    "schinese_name": "速降王者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 16:29:21",
+    "change_number": 30189081,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "681281": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8669406238364864613",
+                    "size": "14910640124",
+                    "download": "5392861216"
+                }
+            },
+            "decryptionkey": "593d7997a09340553e4e44320a5325875cdecb7056ce3d07639d1535c8e31e43"
+        },
+        "681282": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8697164202983556927",
+                    "size": "15316664180",
+                    "download": "5634379248"
+                }
+            },
+            "decryptionkey": "339c052ca6e4cfe46be415825c4df73fbaea46d8f312c324af245d6916180a07"
+        },
+        "681283": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3670244073299796543",
+                    "size": "15810744089",
+                    "download": "6002884144"
+                }
+            },
+            "decryptionkey": "77f7bd28229c44f49ae7d04fcf799b2cf64dafd5e84ad58a2f7985cdf01585ec"
+        },
+        "1079460": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2619466471631354721",
+                    "size": "2069077016",
+                    "download": "1995212320"
+                }
+            },
+            "decryptionkey": "3bb3fac221d19f4e93bd16c8d7edde3a750d564569c7f45eb2a117be5210a752"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19274039",
+                "timeupdated": "1753113505"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
