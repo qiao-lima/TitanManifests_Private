@@ -1,0 +1,27 @@
+{
+    "appid": 2547120,
+    "name": "修炼成仙",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 12:56:11",
+    "change_number": 29878066,
+    "depot": {
+        "2547121": {
+            "manifests": {
+                "public": {
+                    "gid": "8708419221965254563",
+                    "size": "117063856",
+                    "download": "70543040"
+                }
+            },
+            "decryptionkey": "1994479c7a42749db12be52c283f7a165bbb01779c23de676ee4610bef858479"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18505991",
+                "timeupdated": "1747530213"
+            }
+        }
+    }
+}
