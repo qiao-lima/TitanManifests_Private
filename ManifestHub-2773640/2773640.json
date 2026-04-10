@@ -1,0 +1,27 @@
+{
+    "appid": 2773640,
+    "name": "99 Waves",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:58:26",
+    "change_number": 29684583,
+    "depot": {
+        "2773641": {
+            "manifests": {
+                "public": {
+                    "gid": "6667651478725176559",
+                    "size": "933683467",
+                    "download": "378117248"
+                }
+            },
+            "decryptionkey": "6af5f50055a793f5cf68ef6c0a1494ab16b0c3698379907c3d50186738e5175c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15378120",
+                "timeupdated": "1723704205"
+            }
+        }
+    }
+}
