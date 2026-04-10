@@ -1,0 +1,42 @@
+{
+    "appid": 2591000,
+    "name": "Kill The Topulus Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:27:16",
+    "change_number": 29670018,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2591001": {
+            "manifests": {
+                "public": {
+                    "gid": "2836516600203566055",
+                    "size": "639683430",
+                    "download": "481254784"
+                }
+            },
+            "decryptionkey": "aaf2251c039e71bbc1d6d289209e8ee1b91ab80da193eed9d73de6566321de32"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian,vietnamese,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "18941207",
+                "timeupdated": "1750429630"
+            }
+        }
+    }
+}
