@@ -1,0 +1,27 @@
+{
+    "appid": 2784250,
+    "name": "100 Cats Mexico",
+    "type": "Game",
+    "schinese_name": "100 只猫 墨西哥",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 16:57:05",
+    "change_number": 29825867,
+    "depot": {
+        "2784251": {
+            "manifests": {
+                "public": {
+                    "gid": "5347623676740914751",
+                    "size": "67788232",
+                    "download": "23228048"
+                }
+            },
+            "decryptionkey": "bba21d95ca70da7c8d222a30338a8ca00b0320d82c18e112028e6bb5fd8367df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17762365",
+                "timeupdated": "1742285798"
+            }
+        }
+    }
+}
