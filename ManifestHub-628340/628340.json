@@ -1,0 +1,31 @@
+{
+    "appid": 628340,
+    "name": "1 vs 1 : Global Operations",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:02",
+    "change_number": 30056460,
+    "depot": {
+        "628341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2242377595144190414",
+                    "size": "317029637",
+                    "download": "97887184"
+                }
+            },
+            "decryptionkey": "312068788f18c8119babbc1d366d0b74bbeb53ec74c2ed92fc56b16cd006133e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1796775",
+                "timeupdated": "1493812181"
+            }
+        }
+    },
+    "access_token": 16832349724461547108
+}
