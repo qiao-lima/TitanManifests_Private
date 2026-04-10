@@ -1,0 +1,31 @@
+{
+    "appid": "447880",
+    "type": "Game",
+    "name": "Beast Blaster",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22312581",
+    "update_time": "2024-08-14 19:06:27",
+    "depot": {
+        "447881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7200712506958233215",
+                    "size": "80004432",
+                    "download": "34817920"
+                }
+            },
+            "decryptionkey": "8824f9c647dd4a044d3e1b0eb574fdd0e57101ef8bab86735817d3c2743b119c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1533767",
+                "timeupdated": "1482328327"
+            }
+        }
+    },
+    "access_token": 3721872182073355944
+}
