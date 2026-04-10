@@ -1,0 +1,43 @@
+{
+    "appid": 1844790,
+    "name": "Dungeon Divers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 07:11:26",
+    "change_number": 30043096,
+    "depot": {
+        "1844792": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "157646014443731157",
+                    "size": "147313568",
+                    "download": "52246304"
+                }
+            },
+            "decryptionkey": "0263de36b044eab8c20b177192df0bbea6e73f7f9f4fa5e37c2516490b0c10f9"
+        },
+        "1844791": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6554603899748040584",
+                    "size": "188446572",
+                    "download": "52453808"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18781865",
+                "timeupdated": "1749351802"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
