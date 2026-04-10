@@ -1,0 +1,27 @@
+{
+    "appid": 1941840,
+    "name": "Otoko Cross: Pretty Boys Mahjong Solitaire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 01:50:48",
+    "change_number": 30141570,
+    "depot": {
+        "1941841": {
+            "manifests": {
+                "public": {
+                    "gid": "7426244318902348634",
+                    "size": "1723335375",
+                    "download": "243813632"
+                }
+            },
+            "decryptionkey": "d9b1439784dfcc4a44351a47fe4a2c8c8fdd68ca5ede7898df1b6e785c5a0e08"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8512488",
+                "timeupdated": "1649304346"
+            }
+        }
+    }
+}
