@@ -1,0 +1,27 @@
+{
+    "appid": 2579470,
+    "name": "Futanari girlfriends ⚧👧🍆",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 11:21:21",
+    "change_number": 29477844,
+    "depot": {
+        "2579471": {
+            "manifests": {
+                "public": {
+                    "gid": "3025539038549291424",
+                    "size": "344573607",
+                    "download": "172066928"
+                }
+            },
+            "decryptionkey": "c1ebde62c8426536108bc09fcd954d334070caedddd0389d771df07e926c0864"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12175561",
+                "timeupdated": "1694588154"
+            }
+        }
+    }
+}
