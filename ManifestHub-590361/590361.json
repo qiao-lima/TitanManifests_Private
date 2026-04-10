@@ -1,0 +1,28 @@
+{
+    "appid": 590361,
+    "name": "The Wild Eight – Supporter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:15:16",
+    "change_number": 26201212,
+    "depot": {
+        "590361": {
+            "dlcappid": "590361",
+            "manifests": {
+                "public": {
+                    "gid": "973329564613733898",
+                    "size": "126275863",
+                    "download": "101755536"
+                }
+            },
+            "decryptionkey": "bc6ce300bbaaaafec95586fa21557687d25a0b9f6af6284874c69f0678e9e287"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4257800",
+                "timeupdated": "1570198791"
+            }
+        }
+    }
+}
