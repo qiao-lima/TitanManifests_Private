@@ -1,0 +1,27 @@
+{
+    "appid": 2533020,
+    "name": "Renaissance Kingdom Wars",
+    "type": "Game",
+    "schinese_name": "Renaissance Kingdom Wars 文艺复兴王国战争",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 02:00:21",
+    "change_number": 30022091,
+    "depot": {
+        "2533021": {
+            "manifests": {
+                "public": {
+                    "gid": "4720054568209869688",
+                    "size": "4874177419",
+                    "download": "1462638688"
+                }
+            },
+            "decryptionkey": "2835f591bac054c0c681e3a68b9bb53e26f47ea1109561870c989deda3d8815a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19029169",
+                "timeupdated": "1751041892"
+            }
+        }
+    }
+}
