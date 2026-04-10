@@ -1,0 +1,54 @@
+{
+    "appid": 1498130,
+    "name": "Tank Squad",
+    "type": "Game",
+    "schinese_name": "坦克小队",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 08:03:30",
+    "change_number": 30200997,
+    "depot": {
+        "baselanguages": "english",
+        "1498131": {
+            "manifests": {
+                "public": {
+                    "gid": "5892911991955444750",
+                    "size": "15354552774",
+                    "download": "10764261200"
+                },
+                "unstable": {
+                    "gid": "2104082289190369774",
+                    "size": "15624238297",
+                    "download": "10878822688"
+                }
+            },
+            "decryptionkey": "bb2fa96b40e0441aea32a605f09e313a1f83262896d6b14058cd2000d8e4fd7d"
+        },
+        "1498132": {
+            "manifests": {
+                "public": {
+                    "gid": "4588612414910493527",
+                    "size": "15354552774",
+                    "download": "10756968368"
+                },
+                "unstable": {
+                    "gid": "6862518931833288261",
+                    "size": "15624238297",
+                    "download": "10872039104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19031022",
+                "timeupdated": "1751053848"
+            },
+            "unstable": {
+                "buildid": "19113150",
+                "description": "for testing new builds (might be instable)",
+                "timeupdated": "1751664018"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
