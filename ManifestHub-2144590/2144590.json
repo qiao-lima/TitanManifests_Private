@@ -1,0 +1,70 @@
+{
+    "appid": 2144590,
+    "name": "Take Me, Vitaly",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 10:27:03",
+    "change_number": 30107055,
+    "depot": {
+        "2144591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "557864192070326832",
+                    "size": "3038712396",
+                    "download": "1413056288"
+                }
+            },
+            "decryptionkey": "ad90799e27fcdab8e4951c4460f2695843849573e3d65a76e98fb209372e1acb"
+        },
+        "2144592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4964911968466798820",
+                    "size": "3011699224",
+                    "download": "1404966384"
+                }
+            },
+            "decryptionkey": "3c55e68cbc75270c711ae4ddbb19ca5caf542d2b3f396fee77d13fb2c0fafe91"
+        },
+        "2144593": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8198606418527961010",
+                    "size": "3013218360",
+                    "download": "1323544064"
+                }
+            }
+        },
+        "2144594": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6157376829998527380",
+                    "size": "3082245811",
+                    "download": "1428457456"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18955852",
+                "timeupdated": "1750600337"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
