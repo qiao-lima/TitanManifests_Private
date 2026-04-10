@@ -1,0 +1,31 @@
+{
+    "appid": 1185780,
+    "name": "Forest Ranger Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:28:09",
+    "change_number": 29722031,
+    "depot": {
+        "1185781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5994262937467113645",
+                    "size": "8640686648",
+                    "download": "3946679600"
+                }
+            },
+            "decryptionkey": "47478b628c2300c2b8d42b61f5f5e73dd2ef4c9f5308ab3be30cfc9af417a736"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16802710",
+                "timeupdated": "1734631237"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
