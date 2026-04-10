@@ -1,0 +1,28 @@
+{
+    "appid": 1887400,
+    "name": "ANTONBLAST",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 21:11:26",
+    "change_number": 30019233,
+    "depot": {
+        "1887401": {
+            "manifests": {
+                "public": {
+                    "gid": "2013944093475810921",
+                    "size": "1455317987",
+                    "download": "1128154384"
+                }
+            },
+            "decryptionkey": "45bc1461e14ddd35a713fc71483727d019f558488091b54ef249bf00dba5a16b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18740759",
+                "timeupdated": "1749071685"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
