@@ -1,0 +1,34 @@
+{
+    "appid": 462110,
+    "name": "3 Coins At School",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 11:54:00",
+    "change_number": 29841037,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "462111": {
+            "manifests": {
+                "public": {
+                    "gid": "4842243569216307223",
+                    "size": "336828249",
+                    "download": "157458448"
+                }
+            },
+            "decryptionkey": "640e08c7c17145202ebe76d935ce5e8f207305b2ad2277bfa419be3ad42ba6c9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6634375",
+                "timeupdated": "1619893568"
+            }
+        }
+    }
+}
