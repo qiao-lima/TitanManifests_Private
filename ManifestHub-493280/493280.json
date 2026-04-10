@@ -1,0 +1,53 @@
+{
+    "appid": "493280",
+    "type": "Game",
+    "name": "WALLSLIDE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27376156",
+    "update_time": "2025-02-08 15:27:43",
+    "depot": {
+        "baselanguages": "english,russian",
+        "493281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "575426103087606062",
+                    "size": "234162984",
+                    "download": "89363104"
+                }
+            },
+            "decryptionkey": "a52c3d75e15c97d7ff48db74b3708499de1b7f4d1ec21b4df5735952a3d32fc7"
+        },
+        "493282": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6871252670355582124",
+                    "size": "192791650",
+                    "download": "88880752"
+                }
+            },
+            "decryptionkey": "9e56aff1acaeb91bbb238a82679a326745fff4422abb0b0257b0f478d71655e0"
+        },
+        "493283": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "workshopdepot": "493280",
+        "branches": {
+            "public": {
+                "buildid": "1241348",
+                "timeupdated": "1469244356"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    },
+    "access_token": 4104318269090626279
+}
