@@ -1,0 +1,119 @@
+{
+    "appid": 1293170,
+    "name": "BZZZT",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 08:10:41",
+    "change_number": 29757179,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,japanese,polish,swedish,czech,turkish,brazilian",
+        "1293171": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7546495955903190252",
+                    "size": "1",
+                    "download": "48"
+                },
+                "next_update": {
+                    "gid": "7546495955903190252",
+                    "size": "1",
+                    "download": "48"
+                }
+            },
+            "decryptionkey": "09dfff14c37a2203bc2a8532e205ff375f8e6a1085570d88c435ea61d8a74ddb"
+        },
+        "1293172": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8028225773539817095",
+                    "size": "598950374",
+                    "download": "174662288"
+                },
+                "next_update": {
+                    "gid": "8028225773539817095",
+                    "size": "598950374",
+                    "download": "174662288"
+                }
+            }
+        },
+        "1293173": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3428271278569273688",
+                    "size": "566449719",
+                    "download": "167607120"
+                },
+                "next_update": {
+                    "gid": "3428271278569273688",
+                    "size": "566449719",
+                    "download": "167607120"
+                }
+            },
+            "decryptionkey": "27feb31f6ab691ced077676c709a2fcaf1717a127803815accbe66f9539b6e41"
+        },
+        "1293174": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6056411665162273843",
+                    "size": "575034316",
+                    "download": "170244128"
+                },
+                "next_update": {
+                    "gid": "6056411665162273843",
+                    "size": "575034316",
+                    "download": "170244128"
+                }
+            },
+            "decryptionkey": "ef080812ab61508c0b57261c712f18eeea4acc05c0b6df73d3ad6144992f51c4"
+        },
+        "1293175": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5062040846971608245",
+                    "size": "566161646",
+                    "download": "161489248"
+                },
+                "next_update": {
+                    "gid": "5062040846971608245",
+                    "size": "566161646",
+                    "download": "161489248"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18566837",
+                "timeupdated": "1747922219"
+            },
+            "next_update": {
+                "buildid": "18566837",
+                "description": "For Public Testing",
+                "timeupdated": "1747921766"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
