@@ -1,0 +1,53 @@
+{
+    "appid": 1386770,
+    "name": "Blip",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 19:11:20",
+    "change_number": 30017500,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1386771": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1298629100294574395",
+                    "size": "24978432",
+                    "download": "19261088"
+                }
+            },
+            "decryptionkey": "7c7886d120b89a528437a7f675e0cd3c4b08f43dc031497c56805660954a941d"
+        },
+        "1386772": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2909754239226980055",
+                    "size": "34672522",
+                    "download": "20576608"
+                }
+            },
+            "decryptionkey": "d57d8383c91d3b2ca0a11547f0171b8ec3918b2afdd56ca47d6ae399e0266c0c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19173873",
+                "timeupdated": "1752142852"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
