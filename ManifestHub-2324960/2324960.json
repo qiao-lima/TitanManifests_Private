@@ -1,0 +1,51 @@
+{
+    "appid": 2324960,
+    "name": "Sex Simulator - Pool Party",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 12:12:50",
+    "change_number": 29740259,
+    "depot": {
+        "2324961": {
+            "manifests": {
+                "public": {
+                    "gid": "5112958061149703580",
+                    "size": "172037436",
+                    "download": "94187072"
+                }
+            },
+            "decryptionkey": "57c9a575771f50270913664636abf1a3b815252f8ef48e123f484ebf646b1956"
+        },
+        "2324962": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3466450656160544863",
+                    "size": "168464580",
+                    "download": "93472640"
+                }
+            }
+        },
+        "2324963": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5240283666586242125",
+                    "size": "173574194",
+                    "download": "93240480"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13599265",
+                "timeupdated": "1709198222"
+            }
+        }
+    }
+}
