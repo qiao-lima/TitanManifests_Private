@@ -1,0 +1,31 @@
+{
+    "appid": "581720",
+    "type": "Game",
+    "name": "Way of Hero",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "21117164",
+    "update_time": "2024-08-14 19:20:41",
+    "depot": {
+        "581721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7535593181161019048",
+                    "size": "194116047",
+                    "download": "78546240"
+                }
+            },
+            "decryptionkey": "1fb73b19b3bb20e5adcb9d7661544dba2b6d4e6654b2aedb1ac157d11d86b11f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1583208",
+                "timeupdated": "1485007874"
+            }
+        }
+    },
+    "access_token": 6656753604500655889
+}
