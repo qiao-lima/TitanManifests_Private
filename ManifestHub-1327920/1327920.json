@@ -1,0 +1,32 @@
+{
+    "appid": 1327920,
+    "name": "Maestro VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 08:25:03",
+    "change_number": 29698676,
+    "depot": {
+        "1327921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5646833168990700297",
+                    "size": "25245378981",
+                    "download": "6185482896"
+                }
+            },
+            "decryptionkey": "086b334bba243a70ef3f0b65861ec255c693f3e6be33df47496a90d02c09c843"
+        },
+        "workshopdepot": "1327920",
+        "branches": {
+            "public": {
+                "buildid": "18961482",
+                "timeupdated": "1750663498"
+            }
+        },
+        "workshopdepotdecryptionkey": "9045877066d53de37c79e12f5f6d75239135a013cf65d8d8d7912033b95a492e"
+    }
+}
