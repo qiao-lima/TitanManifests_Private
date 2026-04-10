@@ -1,0 +1,31 @@
+{
+    "appid": 3182040,
+    "name": "Cyber mission - Full armor",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:41:19",
+    "change_number": 26201212,
+    "depot": {
+        "3182040": {
+            "dlcappid": "3182040",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2119213363273136571",
+                    "size": "277191597",
+                    "download": "176604784"
+                }
+            },
+            "decryptionkey": "8e4f7b0239b2ac799c57ecef9b796a31a0583fc5274e4b5ece12dea56aa823eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15438370",
+                "timeupdated": "1724178837"
+            }
+        }
+    }
+}
