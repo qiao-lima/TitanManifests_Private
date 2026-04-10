@@ -1,0 +1,45 @@
+{
+    "appid": 2231890,
+    "name": "The Test: Secrets of the Soul",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-28 18:37:42",
+    "change_number": 29803905,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2231891": {
+            "manifests": {
+                "public": {
+                    "gid": "4489812035546607441",
+                    "size": "1002767826",
+                    "download": "847005776"
+                }
+            },
+            "decryptionkey": "aca89642f7d2619660c6fd3da08d2b4ff609f2aaf4195522e9f6d1958611bec7"
+        },
+        "2280920": {
+            "dlcappid": "2280920",
+            "manifests": {
+                "public": {
+                    "gid": "3935710990288142539",
+                    "size": "29273881",
+                    "download": "29243856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19038160",
+                "timeupdated": "1751132255"
+            }
+        }
+    }
+}
