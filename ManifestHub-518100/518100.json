@@ -1,0 +1,32 @@
+{
+    "appid": "518100",
+    "type": "Game",
+    "name": "Nanooborg",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28098096",
+    "update_time": "2025-03-24 02:18:48",
+    "depot": {
+        "baselanguages": "english,russian",
+        "518101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4669027583940167419",
+                    "size": "139458908",
+                    "download": "62800544"
+                }
+            },
+            "decryptionkey": "809d46b8fc9d272b51ab74ec6e6d612e388ea9abb87dd3ce21ca339d0efcf2be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1394756",
+                "timeupdated": "1476615801"
+            }
+        }
+    },
+    "access_token": 4274892937857373840
+}
