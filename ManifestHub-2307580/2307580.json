@@ -1,0 +1,30 @@
+{
+    "appid": 2307580,
+    "name": "Cargo Truck Simulator 2023",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 12:44:31",
+    "change_number": 29967432,
+    "depot": {
+        "2307581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8037349534344963515",
+                    "size": "493421809",
+                    "download": "358036832"
+                }
+            },
+            "decryptionkey": "3beaa6313e5e8793fab1a0cc91b03e006aeba774fc6565964fd1448ab33f67f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19159881",
+                "timeupdated": "1752061442"
+            }
+        }
+    }
+}
