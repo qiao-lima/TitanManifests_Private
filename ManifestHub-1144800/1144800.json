@@ -1,0 +1,46 @@
+{
+    "appid": 1144800,
+    "name": "Drop In - VR F2P",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-29 09:22:45",
+    "change_number": 29249693,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1144801": {
+            "config": {
+                "language": "",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2659764695230120598",
+                    "size": "4119766717",
+                    "download": "1217784016"
+                }
+            },
+            "decryptionkey": "f3e386eb697d47f96f091e2a26b7db4f9b6277954eb71c6de5414f21f2276f64"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18632234",
+                "timeupdated": "1748382263"
+            }
+        }
+    }
+}
