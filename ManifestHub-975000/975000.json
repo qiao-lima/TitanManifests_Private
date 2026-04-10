@@ -1,0 +1,27 @@
+{
+    "appid": 975000,
+    "name": "NO, THANK YOU!!!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 05:10:02",
+    "change_number": 29734732,
+    "depot": {
+        "975001": {
+            "manifests": {
+                "public": {
+                    "gid": "4843033242105682013",
+                    "size": "4690260954",
+                    "download": "4181136368"
+                }
+            },
+            "decryptionkey": "9575ffd3affe3782c0912278c17e21e2ea2475d82d5f5e4fe20d7219de852844"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3263607",
+                "timeupdated": "1540988075"
+            }
+        }
+    }
+}
