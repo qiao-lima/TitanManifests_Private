@@ -1,0 +1,27 @@
+{
+    "appid": 1338020,
+    "name": "Super Glitter Rush",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 06:14:39",
+    "change_number": 29612464,
+    "depot": {
+        "1338021": {
+            "manifests": {
+                "public": {
+                    "gid": "5626133086258991319",
+                    "size": "23209228",
+                    "download": "17237232"
+                }
+            },
+            "decryptionkey": "ad38aaae449595adec81d569e9bcc4ad40cfb829b0b613835782fee2b5d1f3dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7322106",
+                "timeupdated": "1631086597"
+            }
+        }
+    }
+}
