@@ -1,0 +1,45 @@
+{
+    "appid": 3001000,
+    "name": "最后的防线",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 12:11:08",
+    "change_number": 29909776,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese",
+        "3001008": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3427027471059461915",
+                    "size": "1858092773",
+                    "download": "327823856"
+                }
+            },
+            "decryptionkey": "3ea33b6d8aac6f84209c492808f2e8152744520cfd5911fbed6ab6c985311562"
+        },
+        "3001001": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1936655207360685094",
+                    "size": "1854190483",
+                    "download": "326978352"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18511850",
+                "timeupdated": "1750660854"
+            }
+        }
+    }
+}
