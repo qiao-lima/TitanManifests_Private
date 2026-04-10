@@ -1,0 +1,28 @@
+{
+    "appid": 2928280,
+    "name": "Crime Simulator: Playgrounds",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 14:23:18",
+    "change_number": 29988853,
+    "depot": {
+        "2928281": {
+            "manifests": {
+                "public": {
+                    "gid": "1438678338042626536",
+                    "size": "9970716664",
+                    "download": "3756472912"
+                }
+            },
+            "decryptionkey": "420803afcfa6aad0d49ab5c933d63f73a2a541bd6d20c1e2030c53113c844006"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18463454",
+                "timeupdated": "1747240568"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
