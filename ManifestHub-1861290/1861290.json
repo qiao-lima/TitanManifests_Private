@@ -1,0 +1,29 @@
+{
+    "appid": 1861290,
+    "name": "Devil Spire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 13:24:05",
+    "change_number": 30026985,
+    "depot": {
+        "1861291": {
+            "manifests": {
+                "public": {
+                    "gid": "1284533617778437924",
+                    "size": "89379165",
+                    "download": "72769312"
+                }
+            },
+            "decryptionkey": "85e1d9cdacdedddfc86d58c3783b0e37734a5685bd9aef931911f8fdd0712554"
+        },
+        "workshopdepot": "1861290",
+        "branches": {
+            "public": {
+                "buildid": "15342047",
+                "timeupdated": "1723467729"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
