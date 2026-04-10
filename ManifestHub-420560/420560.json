@@ -1,0 +1,62 @@
+{
+    "appid": 420560,
+    "name": "Firefighting Simulator - The Squad",
+    "type": "Game",
+    "schinese_name": "模拟消防英豪",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 14:56:43",
+    "change_number": 29950490,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "420561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "217124015237656567",
+                    "size": "5243314572",
+                    "download": "4822518640"
+                }
+            },
+            "decryptionkey": "b9c305a15d2bf9b3391d9655749df9c99e797b311fdb5f4d137c7429732a9590"
+        },
+        "420562": {
+            "config": {
+                "language": "english"
+            }
+        },
+        "420563": {
+            "config": {
+                "language": "german"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19002959",
+                "timeupdated": "1751982996"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
