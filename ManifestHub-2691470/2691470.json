@@ -1,0 +1,74 @@
+{
+    "appid": 2691470,
+    "name": "Lisa Total investigation!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 20:42:18",
+    "change_number": 30173379,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese",
+        "2691471": {},
+        "2691472": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1419419183154512471",
+                    "size": "4256797086",
+                    "download": "4093520784"
+                },
+                "rollback_minor_updates": {
+                    "gid": "7300435211565914846",
+                    "size": "4256695592",
+                    "download": "4093431408"
+                },
+                "previous_version": {
+                    "gid": "6433619720456651197",
+                    "size": "3776640023",
+                    "download": "3617009168"
+                }
+            },
+            "decryptionkey": "131d982b46f8756bbe8a0cfb8f6724fa817d5ea664397ec79dc2af58461886fd"
+        },
+        "2691473": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8893466775187354590",
+                    "size": "4244448019",
+                    "download": "4088724384"
+                },
+                "rollback_minor_updates": {
+                    "gid": "1650798379331177213",
+                    "size": "4244346525",
+                    "download": "4088635008"
+                },
+                "previous_version": {
+                    "gid": "6031218033332468891",
+                    "size": "3764290956",
+                    "download": "3612212768"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19146203",
+                "timeupdated": "1751980478"
+            },
+            "rollback_minor_updates": {
+                "buildid": "19137894",
+                "description": "rollback_minor_updates",
+                "timeupdated": "1751980530"
+            },
+            "previous_version": {
+                "buildid": "18376317",
+                "description": "previous_version",
+                "timeupdated": "1751913589"
+            }
+        }
+    }
+}
