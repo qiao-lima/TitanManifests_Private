@@ -1,0 +1,34 @@
+{
+    "appid": 3521320,
+    "name": "魔法書自走棋：契約",
+    "type": "Game",
+    "schinese_name": "魔法书自走棋：契约",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 10:24:18",
+    "change_number": 29946095,
+    "depot": {
+        "3521321": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9153364453174431304",
+                    "size": "522857038",
+                    "download": "458019360"
+                }
+            },
+            "decryptionkey": "da8e5c19dbd799a01ab9954cdf822c966f4179b3d5d51a2e7a98627bf2c39165"
+        },
+        "baselanguages": "tchinese",
+        "workshopdepot": "3521320",
+        "branches": {
+            "public": {
+                "buildid": "19143590",
+                "timeupdated": "1751966651"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "310bb121dafb5952cbae063edda281f5071666da39c3aae05fc2367058c13546"
+    }
+}
