@@ -1,0 +1,41 @@
+{
+    "appid": 1814160,
+    "name": "Crazy Santa",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 07:12:05",
+    "change_number": 29925472,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1814161": {
+            "manifests": {
+                "public": {
+                    "gid": "3608352860050259261",
+                    "size": "1092903040",
+                    "download": "958875296"
+                }
+            },
+            "decryptionkey": "4ec74e7c7546a7b03d8b4695785b08445379b0738823fbad044f2173dbb11125"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7669728",
+                "timeupdated": "1636233485"
+            }
+        }
+    }
+}
