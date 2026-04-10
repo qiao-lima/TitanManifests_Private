@@ -1,0 +1,32 @@
+{
+    "appid": 1785150,
+    "name": "Friends vs Friends",
+    "type": "Game",
+    "schinese_name": "Friends vs Friends 友尽对决",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 12:08:36",
+    "change_number": 29929187,
+    "depot": {
+        "1785151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4638121189776897489",
+                    "size": "10884282030",
+                    "download": "1030875776"
+                }
+            },
+            "decryptionkey": "c3804d95965aff919c17133b9368730465743d377206cb34d0a526e61f940b0d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15731179",
+                "timeupdated": "1726589532"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
