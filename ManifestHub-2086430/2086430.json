@@ -1,0 +1,67 @@
+{
+    "appid": 2086430,
+    "name": "NIMRODS",
+    "type": "Game",
+    "schinese_name": "NIMRODS: 枪匠幸存者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:56:40",
+    "change_number": 30211027,
+    "depot": {
+        "2086432": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "715522924405621883",
+                    "size": "966084306",
+                    "download": "231946192"
+                },
+                "mono": {
+                    "gid": "3489544797415669462",
+                    "size": "869111210",
+                    "download": "206250736"
+                }
+            },
+            "decryptionkey": "027b957a020894379976c203d53558eacd1459e14c73fd73986c6e45e423fd19"
+        },
+        "2086433": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1870688849933825438",
+                    "size": "1197046769",
+                    "download": "275883936"
+                },
+                "mono": {
+                    "gid": "7092350092037632061",
+                    "size": "1097533488",
+                    "download": "223445472"
+                }
+            },
+            "decryptionkey": "dffec2656ef08984f1b40aca0cde2625f19da653913b1338cdd37484a77fb7ff"
+        },
+        "2086431": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19331634",
+                "timeupdated": "1753288858"
+            },
+            "mono": {
+                "buildid": "19331630",
+                "description": "mono enabled builds (no il2cpp)",
+                "timeupdated": "1753286741"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
