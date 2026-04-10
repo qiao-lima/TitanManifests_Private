@@ -1,0 +1,35 @@
+{
+    "appid": "223540",
+    "type": "Tool",
+    "name": "Left 4 Dead 2 Beta Authoring Tools",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22534048",
+    "update_time": "2024-07-16 02:43:46",
+    "depot": {
+        "223541": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8075139302085465338",
+                    "size": "848824667",
+                    "download": "647018144"
+                }
+            },
+            "decryptionkey": "508d7718267a64f2a6801749ed3a5d7460dd064a21e42bdce7827e7956666bcf"
+        },
+        "223531": {
+            "systemdefined": "1",
+            "depotfromapp": "223530",
+            "sharedinstall": "2"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "1559639",
+                "timeupdated": "1484072473"
+            }
+        }
+    },
+    "access_token": 3053845186347484332
+}
