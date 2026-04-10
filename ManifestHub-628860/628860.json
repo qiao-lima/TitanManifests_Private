@@ -1,0 +1,38 @@
+{
+    "appid": "628860",
+    "type": "Game",
+    "name": "Escape Together",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:27:45",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "628861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5995145359659172293",
+                    "size": "37247654",
+                    "download": "35817968"
+                }
+            },
+            "decryptionkey": "bfe97ee6ce259f5e96a4b08dabb847d92ccb14f8076a2dd4e4b261d86d55ffef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1902179",
+                "timeupdated": "1497950664"
+            }
+        }
+    },
+    "access_token": 8618664709931857836
+}
