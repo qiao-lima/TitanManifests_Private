@@ -1,0 +1,32 @@
+{
+    "appid": 1838361,
+    "name": "デラックス版特典",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 11:05:08",
+    "change_number": 25065303,
+    "depot": {
+        "1838361": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3733102909060855988",
+                    "size": "8170572",
+                    "download": "4529056"
+                }
+            },
+            "dlcappid": "1838361",
+            "decryptionkey": "513885326156f6b05cb0e84aa92ba76680210f2b7b01416630ef4b489616bf85"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11188953",
+                "timeupdated": "1685030793"
+            }
+        }
+    }
+}
