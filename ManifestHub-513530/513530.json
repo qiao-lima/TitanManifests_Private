@@ -1,0 +1,39 @@
+{
+    "appid": 513530,
+    "name": "Anykey Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 08:52:09",
+    "change_number": 30152823,
+    "depot": {
+        "513531": {
+            "manifests": {
+                "public": {
+                    "gid": "3683066662766675192",
+                    "size": "19496711",
+                    "download": "14002848"
+                }
+            },
+            "decryptionkey": "ac38fd5414a1c2f075e5a1646657607cc42bf4d324e192e7765eb783375bbeb9"
+        },
+        "538520": {
+            "manifests": {
+                "public": {
+                    "gid": "2091146766843539928",
+                    "size": "139546377",
+                    "download": "124418016"
+                }
+            },
+            "dlcappid": "538520",
+            "decryptionkey": "2065599dd4da979ce83584216bdf0133e0e01e15089606410dc2255fd1b1aacb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1370639",
+                "timeupdated": "1475488029"
+            }
+        }
+    },
+    "access_token": 5610681202641918575
+}
