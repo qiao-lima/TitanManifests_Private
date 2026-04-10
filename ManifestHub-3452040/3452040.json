@@ -1,0 +1,41 @@
+{
+    "appid": 3452040,
+    "name": "AFFRAID",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 06:17:03",
+    "change_number": 29537831,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3452041": {
+            "manifests": {
+                "public": {
+                    "gid": "1048714288889962026",
+                    "size": "2412912281",
+                    "download": "2229901600"
+                }
+            },
+            "decryptionkey": "58311791b3fe938df460bbdd1edc21b0ed9fe4b1f7c5c36b7129216a7e8cc870"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17467401",
+                "timeupdated": "1740239989"
+            }
+        }
+    }
+}
