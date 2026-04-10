@@ -1,0 +1,58 @@
+{
+    "appid": 363950,
+    "name": "Windscape",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:13:58",
+    "change_number": 30206914,
+    "depot": {
+        "363951": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4816769470737357386",
+                    "size": "2954966640",
+                    "download": "554394208"
+                }
+            },
+            "decryptionkey": "ee01ab041ee2b581ad2c234d86fed374f586eda3c57067fb4d241c9dd2717e3b"
+        },
+        "363952": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8453999197272354315",
+                    "size": "2965963888",
+                    "download": "557798896"
+                }
+            },
+            "decryptionkey": "789aa7a5a5dda6cfe00e3b09605f21d79486fbd63e6b1286962322c4c31ff412"
+        },
+        "363953": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5067341411322869077",
+                    "size": "3006387988",
+                    "download": "574684432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3712179",
+                "timeupdated": "1554463120"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
