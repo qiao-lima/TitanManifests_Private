@@ -1,0 +1,70 @@
+{
+    "appid": 2544110,
+    "name": "Broken Sword - Shadow of the Templars: Reforged",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 00:44:31",
+    "change_number": 29977799,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,spanish",
+        "2544111": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "861808131482098867",
+                    "size": "7401665653",
+                    "download": "7335530544"
+                }
+            },
+            "decryptionkey": "41ee7b846b2f1a26a8b38d4893ee96c2a435977fc4038f1c673035e14c64b66e"
+        },
+        "2544112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1344627787611646051",
+                    "size": "7407696785",
+                    "download": "7323174400"
+                }
+            }
+        },
+        "2544113": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "818677898749838766",
+                    "size": "7400813509",
+                    "download": "7318777440"
+                }
+            }
+        },
+        "2544114": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8868656865017091011",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18679319",
+                "timeupdated": "1748636223"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
