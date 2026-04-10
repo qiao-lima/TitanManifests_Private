@@ -1,0 +1,31 @@
+{
+    "appid": 3449850,
+    "name": "桌面小猫娘",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 11:32:43",
+    "change_number": 30087190,
+    "depot": {
+        "3449851": {
+            "manifests": {
+                "public": {
+                    "gid": "706724189177846847",
+                    "size": "1668367110",
+                    "download": "190735552"
+                }
+            },
+            "decryptionkey": "3d36eeb9cea7c107304e908d5021dbe98471d6ecadb6972491f3d71b371c79f5"
+        },
+        "baselanguages": "schinese",
+        "workshopdepot": "3449850",
+        "branches": {
+            "public": {
+                "buildid": "18140999",
+                "timeupdated": "1744878427"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "515b5e473b3e418fd72fc7067c56e4002dd45edeaece7e987ec063ab25abb760"
+    }
+}
