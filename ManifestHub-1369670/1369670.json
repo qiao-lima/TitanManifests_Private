@@ -1,0 +1,67 @@
+{
+    "appid": 1369670,
+    "name": "Motor Town: Behind The Wheel",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 18:07:48",
+    "change_number": 30190799,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1369671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1335548842501249754",
+                    "size": "3029805974",
+                    "download": "2646814176"
+                },
+                "temp-ue4-0.6.20": {
+                    "gid": "8505833231573759861",
+                    "size": "1606084127",
+                    "download": "1358268288"
+                },
+                "test": {
+                    "gid": "6146041876858020054",
+                    "size": "3029791126",
+                    "download": "2646912704"
+                }
+            },
+            "decryptionkey": "2997d5be0b53d13cde83335f41136a55c7198a843f319a2e9e3667ef228a1aed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19039960",
+                "timeupdated": "1751264353"
+            },
+            "temp-ue4-0.6.20": {
+                "buildid": "11900954",
+                "description": "Temporary branch for who has problem running new unreal engine 5 build. Note this is old version of game",
+                "timeupdated": "1699583548"
+            },
+            "test": {
+                "buildid": "19240550",
+                "description": "For tester who want to play next update before others\t",
+                "timeupdated": "1752663096"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
