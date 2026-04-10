@@ -1,0 +1,39 @@
+{
+    "appid": 3227420,
+    "name": "COPPER ODYSSEY 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 17:52:06",
+    "change_number": 29882884,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3227421": {
+            "manifests": {
+                "public": {
+                    "gid": "695029453258988385",
+                    "size": "934256357",
+                    "download": "658287712"
+                }
+            },
+            "decryptionkey": "316dddfe96cebb05e4da3d4cf86f0594cd1c801ae2d7a294619c12a7fe1d5717"
+        },
+        "3487710": {
+            "dlcappid": "3487710",
+            "manifests": {
+                "public": {
+                    "gid": "8680664546126354910",
+                    "size": "30772326",
+                    "download": "28202208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19096790",
+                "timeupdated": "1751561521"
+            }
+        }
+    }
+}
