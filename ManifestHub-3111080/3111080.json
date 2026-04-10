@@ -1,0 +1,43 @@
+{
+    "appid": 3111080,
+    "name": "Secret Agent Wizard Boy and the International Crime Syndicate",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 01:52:46",
+    "change_number": 30150882,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3111081": {
+            "manifests": {
+                "public": {
+                    "gid": "5776490890832602946",
+                    "size": "1740474535",
+                    "download": "1033036816"
+                }
+            },
+            "decryptionkey": "8411918c449ce8996aae76cde60594f80c341a830643f4318d416cc19cec09dc"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19013054",
+                "timeupdated": "1750951501"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
