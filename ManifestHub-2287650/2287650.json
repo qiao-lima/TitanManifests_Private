@@ -1,0 +1,27 @@
+{
+    "appid": 2287650,
+    "name": "HITLER: BDSM BUNKER",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 20:44:04",
+    "change_number": 29921139,
+    "depot": {
+        "2287651": {
+            "manifests": {
+                "public": {
+                    "gid": "7671787243988178093",
+                    "size": "2080009603",
+                    "download": "1644468112"
+                }
+            },
+            "decryptionkey": "15d56fd9f608905e11bd23dad138d05d006ce25bd31acfc1f8f5d3c2b9beeb70"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10349438",
+                "timeupdated": "1674054676"
+            }
+        }
+    }
+}
