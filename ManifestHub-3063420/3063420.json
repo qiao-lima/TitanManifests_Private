@@ -1,0 +1,27 @@
+{
+    "appid": 3063420,
+    "name": "Coffee Quest VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 15:01:56",
+    "change_number": 29969638,
+    "depot": {
+        "3063421": {
+            "manifests": {
+                "public": {
+                    "gid": "435777154781269526",
+                    "size": "1105519270",
+                    "download": "428381552"
+                }
+            },
+            "decryptionkey": "862d57772c8647b13737d28481bab2e24261ddc3ff4473fce7111471be2b5eb7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18664421",
+                "timeupdated": "1748551636"
+            }
+        }
+    }
+}
