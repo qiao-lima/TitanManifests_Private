@@ -1,0 +1,28 @@
+{
+    "appid": 3243540,
+    "name": "RPG Maker MZ - NEONPIXEL - International Airport",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:51:12",
+    "change_number": 27395432,
+    "depot": {
+        "3243540": {
+            "manifests": {
+                "public": {
+                    "gid": "7424629314351177396",
+                    "size": "70724701",
+                    "download": "26211840"
+                }
+            },
+            "dlcappid": "3243540",
+            "decryptionkey": "0ed23120ccc01db25ec20caeed3986fd721bae6750916f7f5ab41e824c8533b7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17303367",
+                "timeupdated": "1739171498"
+            }
+        }
+    }
+}
