@@ -1,0 +1,111 @@
+{
+    "appid": 768180,
+    "name": "Truck Driver",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 12:34:59",
+    "change_number": 30009759,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "768181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4096585447312189645",
+                    "size": "1281232205",
+                    "download": "1023024464"
+                }
+            },
+            "decryptionkey": "387e4ff009cd4c11799c21ad68361c11d1ef0a6217aa7cf1c9f651e392ae9913"
+        },
+        "768182": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9033518281293433201",
+                    "size": "1270062255",
+                    "download": "1019812160"
+                }
+            },
+            "decryptionkey": "d6cda88aeb93052d1a50d06f46dfddfb6a8072ceba8edff06f19c2f21d08fd80"
+        },
+        "1275560": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "1275560"
+        },
+        "1279714": {
+            "dlcappid": "1279714",
+            "manifests": {
+                "public": {
+                    "gid": "1427338573951935665",
+                    "size": "805661456",
+                    "download": "651578416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "768183": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7487707022913540770",
+                    "size": "1279649803",
+                    "download": "1026127760"
+                }
+            },
+            "decryptionkey": "08eaab94f10fd2543b3f88b9ab693c0c07e26dce887b250f2711ee310104146f"
+        },
+        "1275561": {
+            "dlcappid": "1279714",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "745308428196797115",
+                    "size": "809074278",
+                    "download": "655093600"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18673451",
+                "timeupdated": "1750410087"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
