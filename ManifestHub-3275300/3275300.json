@@ -1,0 +1,65 @@
+{
+    "appid": 3275300,
+    "name": "LIMSCAPE DEMO",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 05:37:20",
+    "change_number": 30103223,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3275301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6771655706228969432",
+                    "size": "1555729053",
+                    "download": "1184166736"
+                },
+                "beta": {
+                    "gid": "6771655706228969432",
+                    "size": "1555729053",
+                    "download": "1184166736"
+                },
+                "previous": {
+                    "gid": "181535629546070337",
+                    "size": "1555517367",
+                    "download": "1183998448"
+                }
+            },
+            "decryptionkey": "ea6448f77bd6e7cdab3d51211b1143e515176ce34f9fe3f7dff992acc70f21da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19254345",
+                "timeupdated": "1752727012"
+            },
+            "beta": {
+                "buildid": "19254345",
+                "description": "beta version",
+                "timeupdated": "1752723347"
+            },
+            "previous": {
+                "buildid": "19090193",
+                "description": "previous version",
+                "timeupdated": "1752727035"
+            }
+        }
+    }
+}
