@@ -1,0 +1,31 @@
+{
+    "appid": 1478780,
+    "name": "You Are Weak",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-21 05:13:06",
+    "change_number": 29090834,
+    "depot": {
+        "1478781": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6482898507275543116",
+                    "size": "4448736147",
+                    "download": "1994075104"
+                }
+            },
+            "decryptionkey": "ccb2a3310a260ba6168c01da8df1c6fc953aefac4d7bedb8ddaf1c4a9d7f7925"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6863638",
+                "timeupdated": "1623661723"
+            }
+        }
+    }
+}
