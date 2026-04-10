@@ -1,0 +1,28 @@
+{
+    "appid": 3168600,
+    "name": "Among Us 3D",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 13:54:08",
+    "change_number": 29679653,
+    "depot": {
+        "3168601": {
+            "manifests": {
+                "public": {
+                    "gid": "8529513316009331478",
+                    "size": "1866595380",
+                    "download": "343100864"
+                }
+            },
+            "decryptionkey": "aa00ac0fba8596773fd2ef1ba340b52d867e19bf447258e770f68a2257d39dd4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18585597",
+                "timeupdated": "1748537970"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
