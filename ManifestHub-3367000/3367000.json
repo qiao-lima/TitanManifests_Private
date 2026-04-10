@@ -1,0 +1,30 @@
+{
+    "appid": 3367000,
+    "name": "Threads of Karma",
+    "type": "Game",
+    "schinese_name": "偿",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 08:52:53",
+    "change_number": 30152827,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "3367001": {
+            "manifests": {
+                "public": {
+                    "gid": "6408092335337122118",
+                    "size": "2007653179",
+                    "download": "1678323504"
+                }
+            },
+            "decryptionkey": "06ac6bab274ed940cb42836a779c5064d1786c6c9e9b42480fae149b0b7f869f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18089813",
+                "timeupdated": "1744553513"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
