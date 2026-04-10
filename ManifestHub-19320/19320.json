@@ -1,0 +1,29 @@
+{
+    "appid": 19320,
+    "name": "Space Ark",
+    "type": "Game",
+    "schinese_name": "太空方舟",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 12:13:38",
+    "change_number": 29163098,
+    "depot": {
+        "19321": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2823468610377271066",
+                    "size": "434012548",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "283365328b82c6f99fae048281f043b7afdfbed1abfd397ace7436900f495371"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "2805"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
