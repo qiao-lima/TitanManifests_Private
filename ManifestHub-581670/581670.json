@@ -1,0 +1,39 @@
+{
+    "appid": "581670",
+    "type": "Game",
+    "name": "The Astral Hero",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26854469",
+    "update_time": "2025-01-04 02:12:41",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "581671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3098941722701843709",
+                    "size": "170588698",
+                    "download": "96815904"
+                }
+            },
+            "decryptionkey": "1d81630525ac2cc0e89d9f17d4d277907c07bd5ed35d9a95a37dde8a4d0f6ca7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2419547",
+                "timeupdated": "1515395144"
+            }
+        }
+    },
+    "access_token": 16091071454222277935
+}
