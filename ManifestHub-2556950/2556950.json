@@ -1,0 +1,28 @@
+{
+    "appid": 2556950,
+    "name": "深夜徘徊",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 10:52:56",
+    "change_number": 30145078,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "2556951": {
+            "manifests": {
+                "public": {
+                    "gid": "6618660409552445170",
+                    "size": "2587350223",
+                    "download": "2229194752"
+                }
+            },
+            "decryptionkey": "6745e42744f0ea3b34dbf350a3c59ff532510fd655df8e10caa57f13b435dbf8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13169747",
+                "timeupdated": "1705256028"
+            }
+        }
+    }
+}
