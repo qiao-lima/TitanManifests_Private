@@ -1,0 +1,39 @@
+{
+    "appid": 2407360,
+    "name": "IfSunSets: Prologue",
+    "type": "Demo",
+    "schinese_name": "落日余晖：序幕",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 04:43:20",
+    "change_number": 30002802,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2407361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7159893753919582526",
+                    "size": "17398888975",
+                    "download": "16665956288"
+                }
+            },
+            "decryptionkey": "8d0df49ace6eaecf31506f9b8121f04fecf57948c917af8c4f58dcda3b90ea50"
+        },
+        "baselanguages": "english,german,koreana,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "17762153",
+                "timeupdated": "1742288810"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
