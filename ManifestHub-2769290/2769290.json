@@ -1,0 +1,27 @@
+{
+    "appid": 2769290,
+    "name": "Ringo's Roundup",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 06:07:31",
+    "change_number": 29358674,
+    "depot": {
+        "2769291": {
+            "manifests": {
+                "public": {
+                    "gid": "7525595147564835135",
+                    "size": "462908794",
+                    "download": "197851968"
+                }
+            },
+            "decryptionkey": "7eb10e829140a63c5e58a49bd2e84c5b60fc81ffbd0c76fd9f9a4a10e803c1d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17706593",
+                "timeupdated": "1741859125"
+            }
+        }
+    }
+}
