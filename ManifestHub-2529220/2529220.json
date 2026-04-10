@@ -1,0 +1,45 @@
+{
+    "appid": 2529220,
+    "name": "Anarchy Park",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-05 07:11:44",
+    "change_number": 29908048,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2529221": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4681359569984599883",
+                    "size": "720830620",
+                    "download": "619246944"
+                }
+            },
+            "decryptionkey": "0b2321591f2195cae6fc30b54e72b4cf51be14f2fcddeca747fff44b0c364874"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12634898",
+                "timeupdated": "1699316581"
+            }
+        }
+    }
+}
