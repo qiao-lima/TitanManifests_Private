@@ -1,0 +1,31 @@
+{
+    "appid": 2260720,
+    "name": "Fast Burger Simulator",
+    "type": "Game",
+    "schinese_name": "快速汉堡模拟器",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 15:21:01",
+    "change_number": 29229996,
+    "depot": {
+        "2260721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5272761570783604022",
+                    "size": "177729516",
+                    "download": "34564432"
+                }
+            },
+            "decryptionkey": "20ba5142aef8f2098edbe374bf4b29817a76290d9e7cba4300d8ca0e95b3088d"
+        },
+        "baselanguages": "english,koreana,schinese,russian,japanese,turkish",
+        "branches": {
+            "public": {
+                "buildid": "10455644",
+                "timeupdated": "1675284794"
+            }
+        }
+    }
+}
