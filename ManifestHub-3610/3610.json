@@ -1,0 +1,28 @@
+{
+    "appid": 3610,
+    "name": "Mystery P.I.: Lost in Los Angeles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 06:22:52",
+    "change_number": 29451429,
+    "depot": {
+        "3611": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3973039405914105199",
+                    "size": "49476858",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cc2647edbd06d8236a11b1056efd2fe1e7b249a1d7ce920f41ac199b80c7b3ef"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "10708"
+            }
+        }
+    }
+}
