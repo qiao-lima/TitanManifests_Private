@@ -1,0 +1,62 @@
+{
+    "appid": 885000,
+    "name": "Synth Riders",
+    "type": "Game",
+    "schinese_name": "综合骑手",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 08:26:48",
+    "change_number": 30181160,
+    "depot": {
+        "885001": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4672305631174927790",
+                    "size": "10265642760",
+                    "download": "3631516704"
+                },
+                "open-beta": {
+                    "gid": "4672305631174927790",
+                    "size": "10265642760",
+                    "download": "3631516704"
+                },
+                "previous": {
+                    "gid": "2241211775523479467",
+                    "size": "8636301651",
+                    "download": "3066394192"
+                },
+                "legacy": {
+                    "gid": "2241211775523479467",
+                    "size": "8636301651",
+                    "download": "3066394192"
+                }
+            },
+            "decryptionkey": "02645ffcb89ba0e277f11418e05f7dc010d530aed0399178ea0acfb44beada08"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19160664",
+                "timeupdated": "1752332131"
+            },
+            "open-beta": {
+                "buildid": "19160664",
+                "description": "OPEN BETA (Opt-in for early access to patches!)",
+                "timeupdated": "1752332090"
+            },
+            "previous": {
+                "buildid": "14144154",
+                "description": "PREVIOUS V3.X (Previous Stable v3 Release)",
+                "timeupdated": "1731578284"
+            },
+            "legacy": {
+                "buildid": "14144154",
+                "description": "LEGACY V2.3.32 (Last Stable v2 Release, No new content available here)",
+                "timeupdated": "1751588682"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
