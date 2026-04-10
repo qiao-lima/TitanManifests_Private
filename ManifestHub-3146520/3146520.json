@@ -1,0 +1,29 @@
+{
+    "appid": 3146520,
+    "name": "WEBFISHING",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 08:44:11",
+    "change_number": 29908586,
+    "depot": {
+        "3146521": {
+            "manifests": {
+                "public": {
+                    "gid": "8335871907830818439",
+                    "size": "204546344",
+                    "download": "102158384"
+                }
+            },
+            "decryptionkey": "fbcacb22ed8487248d655f943d8583e6250bc26ae968561e209ef2474ecd7834"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16887780",
+                "timeupdated": "1735766177"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
