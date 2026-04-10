@@ -1,0 +1,75 @@
+{
+    "appid": 1530450,
+    "name": "Scramble: Battle of Britain",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 23:42:38",
+    "change_number": 30175624,
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1530451": {
+            "manifests": {
+                "public": {
+                    "gid": "7496175510952571809",
+                    "size": "2790448301",
+                    "download": "852543200"
+                },
+                "legacy": {
+                    "gid": "1782775152487659350",
+                    "size": "2703108076",
+                    "download": "834164800"
+                },
+                "openbeta": {
+                    "gid": "1782775152487659350",
+                    "size": "2703108076",
+                    "download": "834164800"
+                }
+            },
+            "decryptionkey": "af09b72bafff609f24613b4c8777f435de2b3a2ec390406f94d408b73b14c08d"
+        },
+        "1530452": {
+            "manifests": {
+                "public": {
+                    "gid": "5254780250923517129",
+                    "size": "2510820",
+                    "download": "1034576"
+                },
+                "legacy": {
+                    "gid": "7440157244987871376",
+                    "size": "2430867",
+                    "download": "963840"
+                },
+                "openbeta": {
+                    "gid": "7440157244987871376",
+                    "size": "2430867",
+                    "download": "963840"
+                }
+            },
+            "decryptionkey": "404aa3dc5eb6313e46ff99426ca926c49e089733e2dc3c3038291f68a6d4b9b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19008065",
+                "timeupdated": "1751379969"
+            },
+            "legacy": {
+                "buildid": "17144072",
+                "description": "legacy branch",
+                "timeupdated": "1743174166"
+            },
+            "openbeta": {
+                "buildid": "17144072",
+                "description": "First view of new features",
+                "timeupdated": "1737994968"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
