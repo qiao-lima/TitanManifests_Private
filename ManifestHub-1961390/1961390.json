@@ -1,0 +1,27 @@
+{
+    "appid": 1961390,
+    "name": "Sakura Succubus 6",
+    "type": "Game",
+    "schinese_name": "樱花魅魔6",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 08:22:33",
+    "change_number": 29313890,
+    "depot": {
+        "1961391": {
+            "manifests": {
+                "public": {
+                    "gid": "5641625792062744444",
+                    "size": "360707439",
+                    "download": "229657600"
+                }
+            },
+            "decryptionkey": "2becab7ab959fbaa7adf57380ee64d20c4ebab33820c235bd47f932bf6ead22b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8994640",
+                "timeupdated": "1655996180"
+            }
+        }
+    }
+}
