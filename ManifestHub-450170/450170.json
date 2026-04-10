@@ -1,0 +1,63 @@
+{
+    "appid": 450170,
+    "name": "BOOR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 23:28:23",
+    "change_number": 29328786,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "450171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7675031232269476429",
+                    "size": "54231040",
+                    "download": "54741376"
+                }
+            },
+            "decryptionkey": "4b3577ce65bf6eec9e6e65f3cdb55709dc34feaf1bcf42848b7bb12599bbffe1"
+        },
+        "450172": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1329815480876301025",
+                    "size": "76692628",
+                    "download": "54359072"
+                }
+            },
+            "decryptionkey": "cef888022048b699e57931678ca1e979b1c3e998d310e34c2b1be0f5437790c2"
+        },
+        "450173": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2001352470865917364",
+                    "size": "76733373",
+                    "download": "55120864"
+                }
+            },
+            "decryptionkey": "65425466111afadebf6e5f97acf0ac109fdc263c615343d7a1776cc7e32c9aa4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1919963",
+                "timeupdated": "1498579107"
+            }
+        }
+    }
+}
