@@ -1,0 +1,49 @@
+{
+    "appid": 3043870,
+    "name": "Disney Epic Mickey: Rebrushed - Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 03:35:44",
+    "change_number": 30101934,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3043871": {
+            "manifests": {
+                "public": {
+                    "gid": "3904813087784560526",
+                    "size": "6229704501",
+                    "download": "5852595568"
+                }
+            },
+            "decryptionkey": "7e6ee76d23301bf2fff2965c34cf5dcd3c5e367f3006052d6a6320f8da4615eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15768111",
+                "timeupdated": "1727171356"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
