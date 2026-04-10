@@ -1,0 +1,32 @@
+{
+    "appid": 605910,
+    "name": "Bootombaa",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 22:51:30",
+    "change_number": 30149907,
+    "depot": {
+        "baselanguages": "",
+        "605912": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2564270490206672584",
+                    "size": "150822616",
+                    "download": "77771408"
+                }
+            },
+            "decryptionkey": "f2d94b5f1b5a5774b7a7eb621a911dfd5070c3112508526bc204a24f40e2dabf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2560872",
+                "timeupdated": "1519746144"
+            }
+        }
+    },
+    "access_token": 838548904510832659
+}
