@@ -1,0 +1,70 @@
+{
+    "appid": 3455450,
+    "name": "Useless Princess and the Village Renovation",
+    "type": "Game",
+    "schinese_name": "废柴公主荒村开拓记",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 13:37:19",
+    "change_number": 30110521,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "3455451": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8496017668089530456",
+                    "size": "991241848",
+                    "download": "850066416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3455452": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7718698650398029031",
+                    "size": "1004855741",
+                    "download": "857615184"
+                }
+            },
+            "decryptionkey": "fc6256ffa767600ac09038b4d7a2caa0cb93366c9f3ddec5b11e4305f5628962"
+        },
+        "3455453": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6914451668238806069",
+                    "size": "1004824589",
+                    "download": "857562752"
+                }
+            },
+            "decryptionkey": "a131d32d7704edab5bd7bddecbe83e35e9ea764d0b6be6e8cca726d20b00c63d"
+        },
+        "3455454": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1737121882242263819",
+                    "size": "1004868006",
+                    "download": "857663824"
+                }
+            },
+            "decryptionkey": "e3b4fb7a16fbce824888c566c8e67d00bdc4510d970d96ab78b59db83832ba8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18512698",
+                "timeupdated": "1747624185"
+            }
+        }
+    }
+}
