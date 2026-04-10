@@ -1,0 +1,73 @@
+{
+    "appid": 468100,
+    "name": "Aqua Moto Racing Utopia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 08:51:50",
+    "change_number": 30162602,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,portuguese,polish,brazilian",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "468101": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2195835698837037832",
+                    "size": "6326210158",
+                    "download": "3800933872"
+                }
+            },
+            "decryptionkey": "bdeb5d33cd5df11889d1459da0d7ce609025680160e12ae8c7ffbefef8954acb"
+        },
+        "468102": {
+            "config": {
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2014658959567366394",
+                    "size": "6322395815",
+                    "download": "3799543376"
+                }
+            },
+            "decryptionkey": "a3f0773a23e82a3ab33047441ceceef46afae2bdb3773f9e63ae2f1b1c718194"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4006609",
+                "timeupdated": "1562942934"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
