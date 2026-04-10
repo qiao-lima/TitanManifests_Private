@@ -1,0 +1,42 @@
+{
+    "appid": 2328760,
+    "name": "Pinball FX",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-16 06:17:02",
+    "change_number": 30082655,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2328761": {
+            "manifests": {
+                "public": {
+                    "gid": "5959226731352867311",
+                    "size": "43655816357",
+                    "download": "42199511520"
+                }
+            },
+            "decryptionkey": "ebd3cd9ab224746406fbcb2a4d335eaf3c716feea7869b67121f22b2ed8401ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18822330",
+                "timeupdated": "1750345105"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
