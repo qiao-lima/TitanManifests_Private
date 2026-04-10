@@ -1,0 +1,69 @@
+{
+    "appid": 280620,
+    "name": "Fiesta Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-16 09:01:34",
+    "change_number": 30084560,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "german",
+        "hasdepotsindlc": "0",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "280622": {
+            "config": {
+                "oslist": "windows",
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "30023198950043891",
+                    "size": "10229953921",
+                    "download": "3333030064"
+                }
+            },
+            "decryptionkey": "8d006f1ff4d95b98049b4c421fa59e275061ec2a632017960918521eddd7fbbe"
+        },
+        "280623": {
+            "config": {
+                "oslist": "windows",
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8363076673435068185",
+                    "size": "10232039165",
+                    "download": "3317424176"
+                }
+            },
+            "decryptionkey": "d25666cb07d86749dd8adb00d329db2548597a393b053d4eaeb582f34609c0e2"
+        },
+        "280624": {
+            "config": {
+                "oslist": "windows",
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "75707608058652568",
+                    "size": "10231313299",
+                    "download": "3336393600"
+                }
+            },
+            "decryptionkey": "c80b2599bc88c212b5f08ec160226640fe12bc8df55a79403b5abb7b036762c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19231915",
+                "timeupdated": "1752652889"
+            }
+        }
+    }
+}
