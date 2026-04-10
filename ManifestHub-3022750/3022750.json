@@ -1,0 +1,27 @@
+{
+    "appid": 3022750,
+    "name": "Rune Stones",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 16:18:37",
+    "change_number": 29481666,
+    "depot": {
+        "3022751": {
+            "manifests": {
+                "public": {
+                    "gid": "3611412032750332731",
+                    "size": "260169383",
+                    "download": "53275440"
+                }
+            },
+            "decryptionkey": "f5ed03784eae4aa791b96779e852de6f949763f9e1ff78053e042663460294cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14631897",
+                "timeupdated": "1717712967"
+            }
+        }
+    }
+}
