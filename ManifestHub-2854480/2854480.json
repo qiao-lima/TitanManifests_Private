@@ -1,0 +1,42 @@
+{
+    "appid": 2854480,
+    "name": "Blindfire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 23:37:26",
+    "change_number": 29805638,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2854481": {
+            "manifests": {
+                "public": {
+                    "gid": "2053475784216454360",
+                    "size": "3730026431",
+                    "download": "3361301392"
+                }
+            },
+            "decryptionkey": "6efc7aeef56a46aff81839de0d97b24440f12301879c5dac7e4e400fb5def456"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18639513",
+                "timeupdated": "1748516358"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
