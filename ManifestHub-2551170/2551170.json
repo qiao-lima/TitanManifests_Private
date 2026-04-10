@@ -1,0 +1,38 @@
+{
+    "appid": 2551170,
+    "name": "Cats Hidden in Maple Hollow",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 23:54:49",
+    "change_number": 30120356,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2551171": {
+            "manifests": {
+                "public": {
+                    "gid": "3359338382303430324",
+                    "size": "70052623",
+                    "download": "47971344"
+                },
+                "test": {
+                    "gid": "6086487564116314868",
+                    "size": "67824758",
+                    "download": "47382384"
+                }
+            },
+            "decryptionkey": "0c7bed8faf942d835af59207a5a9eec39ab46494f10720ea1f0b045d4fd4064d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18822850",
+                "timeupdated": "1749634917"
+            },
+            "test": {
+                "buildid": "13761884",
+                "description": "test",
+                "timeupdated": "1710591042"
+            }
+        }
+    }
+}
