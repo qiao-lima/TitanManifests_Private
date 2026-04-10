@@ -1,0 +1,39 @@
+{
+    "appid": 2268610,
+    "name": "Come Home - Premium Edition",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 14:34:28",
+    "change_number": 30090267,
+    "depot": {
+        "2268610": {
+            "dlcappid": "2268610",
+            "manifests": {
+                "public": {
+                    "gid": "2505311588205965209",
+                    "size": "4216467752",
+                    "download": "3983880480"
+                }
+            },
+            "decryptionkey": "5fdd923082bd6a7ae3bfb837a79bdc21c019d15cdb8d4df30b033033762cbd60"
+        },
+        "2268611": {
+            "manifests": {
+                "public": {
+                    "gid": "1780007693798874543",
+                    "size": "4216467752",
+                    "download": "3983880480"
+                }
+            },
+            "dlcappid": "2268610",
+            "decryptionkey": "b7132d62c819263dcc3328f120b87eaaf8e759db73b539b06728314c4e899338"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19245582",
+                "timeupdated": "1752672863"
+            }
+        }
+    }
+}
