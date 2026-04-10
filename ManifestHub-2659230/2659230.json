@@ -1,0 +1,41 @@
+{
+    "appid": 2659230,
+    "name": "3DC",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-07 00:13:59",
+    "change_number": 29922465,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2659231": {
+            "manifests": {
+                "public": {
+                    "gid": "7946680211852878348",
+                    "size": "2052278945",
+                    "download": "595763088"
+                }
+            },
+            "decryptionkey": "2eb21a54b836e0e5396ea433cb94cc61dde8b37b440bb09c8c82a39c8598db68"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13328652",
+                "timeupdated": "1706734230"
+            }
+        }
+    }
+}
