@@ -1,0 +1,73 @@
+{
+    "appid": 1709170,
+    "name": "Paradise Marsh",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 04:59:07",
+    "change_number": 29439669,
+    "depot": {
+        "1709171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5714321724235384189",
+                    "size": "399782574",
+                    "download": "256006352"
+                }
+            },
+            "decryptionkey": "86487c8b59baf7be6997f32f9daaf6bb6328b445144c9b9fbe93a870c5638e2a"
+        },
+        "1709172": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6956637543627753565",
+                    "size": "422042617",
+                    "download": "262484384"
+                }
+            },
+            "decryptionkey": "dc68df5cc61219babcf4521f56cc62013b18beef298f257eb3bad986d5b65800"
+        },
+        "1709173": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8773319192223069875",
+                    "size": "391561758",
+                    "download": "253361104"
+                }
+            },
+            "decryptionkey": "ff685bcae1f58ed7af4fce54fab2f3bbd6453a3d1a4f4fd3111c5e364cbff598"
+        },
+        "1709174": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5651988312684610238",
+                    "size": "443408813",
+                    "download": "257686272"
+                }
+            },
+            "decryptionkey": "47c524f50c1a4e4cb207b5e3989ec90bb9838f11702e848bc84de648c05a2387"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17942528",
+                "timeupdated": "1743525639"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
