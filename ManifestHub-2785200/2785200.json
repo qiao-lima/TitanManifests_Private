@@ -1,0 +1,41 @@
+{
+    "appid": 2785200,
+    "name": "Unknown Tapes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 08:41:08",
+    "change_number": 30105340,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2785201": {
+            "manifests": {
+                "public": {
+                    "gid": "560174399628901439",
+                    "size": "8643894766",
+                    "download": "7875612096"
+                }
+            },
+            "decryptionkey": "523d5e0049cd57f34ec10424505a647df1107a7cb42fdc7aec2e60c9d7e613c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19256342",
+                "timeupdated": "1752738063"
+            }
+        }
+    }
+}
