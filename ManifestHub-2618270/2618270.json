@@ -1,0 +1,41 @@
+{
+    "appid": 2618270,
+    "name": "Project Werewulf Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 09:23:13",
+    "change_number": 29249696,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2618271": {
+            "manifests": {
+                "public": {
+                    "gid": "6967874693206160636",
+                    "size": "8169858831",
+                    "download": "7576341072"
+                }
+            },
+            "decryptionkey": "78069c5d6e67f7967aec6a99fc41bd7ddb25723f7498399a267991589cf692c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18101008",
+                "timeupdated": "1744645156"
+            }
+        }
+    }
+}
