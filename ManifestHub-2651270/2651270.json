@@ -1,0 +1,56 @@
+{
+    "appid": 2651270,
+    "name": "Enginefall Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:46:33",
+    "change_number": 30213712,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2651271": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4531377666239753432",
+                    "size": "24584340696",
+                    "download": "23308888528"
+                }
+            },
+            "decryptionkey": "951695f3b44fca54c5bb5c845349d92d9fa6e5d1091d1d4e953ef4b771bcc0ab"
+        },
+        "2651272": {
+            "manifests": {
+                "public": {
+                    "gid": "5514804988028229762",
+                    "size": "234861",
+                    "download": "127872"
+                }
+            },
+            "decryptionkey": "2fb56c74c2db6f5aeb9dc214c282b6a53d6354b7e157f7c14b0315fd0ed5e2c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19334048",
+                "timeupdated": "1753299990"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
