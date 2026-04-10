@@ -1,0 +1,28 @@
+{
+    "appid": "563140",
+    "type": "Game",
+    "name": "Adventures of Hooi",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:18:19",
+    "depot": {
+        "563141": {
+            "manifests": {
+                "public": {
+                    "gid": "6867908849491980632",
+                    "size": "48626705",
+                    "download": "9911792"
+                }
+            },
+            "decryptionkey": "8cb9f1890663158f986cf70024f5aa0a630bb4691407b76b90df9e97b9648757"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1628867",
+                "timeupdated": "1487026545"
+            }
+        }
+    },
+    "access_token": 5212185435973041159
+}
