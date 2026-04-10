@@ -1,0 +1,57 @@
+{
+    "appid": "569490",
+    "type": "Game",
+    "name": "Remain",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26375805",
+    "update_time": "2024-12-04 21:45:44",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "569491": {
+            "manifests": {
+                "public": {
+                    "gid": "698700886487691011",
+                    "size": "10428313977",
+                    "download": "4565979600"
+                }
+            },
+            "decryptionkey": "5905da8bf0d88b9fd8d7e8e6c2a9839fcaa810d80ed97a8b15bffc436c847278"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1537818",
+                "timeupdated": "1482458313"
+            }
+        }
+    },
+    "access_token": 9664434203773315326
+}
