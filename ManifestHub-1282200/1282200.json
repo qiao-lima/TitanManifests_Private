@@ -1,0 +1,37 @@
+{
+    "appid": 1282200,
+    "name": "The Test: Hypothesis Rising",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 17:13:05",
+    "change_number": 29803372,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1282201": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5998620436483836513",
+                    "size": "814743845",
+                    "download": "693456512"
+                }
+            },
+            "decryptionkey": "966764ff6a277719faf61655ab8071838dedcd31058fd72d748a6460a667e1d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19037806",
+                "timeupdated": "1751127180"
+            }
+        }
+    }
+}
