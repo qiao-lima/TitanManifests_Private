@@ -1,0 +1,51 @@
+{
+    "appid": 2072980,
+    "name": "FINAL KNIGHT",
+    "type": "Game",
+    "schinese_name": "地下城骑士团",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 03:51:03",
+    "change_number": 30198233,
+    "depot": {
+        "baselanguages": "english,koreana",
+        "2072981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2711549047138727919",
+                    "size": "2197831955",
+                    "download": "681029120"
+                }
+            },
+            "decryptionkey": "ed2f903f534830206601542369719a93a978a1381a1cd76308784b5a560d0c3b"
+        },
+        "2072983": {
+            "manifests": {
+                "public": {
+                    "gid": "79594928818624075",
+                    "size": "2002193189",
+                    "download": "629893872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2072982": {
+            "manifests": {
+                "public": {
+                    "gid": "2684689332203564933",
+                    "size": "2003420349",
+                    "download": "629963168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19323198",
+                "timeupdated": "1753239060"
+            }
+        }
+    }
+}
