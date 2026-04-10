@@ -1,0 +1,58 @@
+{
+    "appid": "636750",
+    "type": "Tool",
+    "name": "Oxygen Not Included Uploader",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26415147",
+    "update_time": "2024-12-05 07:20:09",
+    "depot": {
+        "636751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9177295896340822426",
+                    "size": "24756800",
+                    "download": "7007600"
+                }
+            },
+            "decryptionkey": "3310b00a097e72708219804aa7a6b15fad206956e7de7b68c6096f2598cff10d"
+        },
+        "636752": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5093985611011931141",
+                    "size": "7584964",
+                    "download": "2028000"
+                }
+            },
+            "decryptionkey": "b9f8e38c67295e1272710f1f4c530a5ec2fb6334b0636383789e02e2c2a9e5c9"
+        },
+        "636753": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6609714419984626367",
+                    "size": "5613543",
+                    "download": "1609040"
+                }
+            },
+            "decryptionkey": "e9eb7652b832260d6f21139ce17f41d1120bff4969ebbc4cf0f3e6539896387a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16572897",
+                "timeupdated": "1732846197"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 3288102369811331363
+}
