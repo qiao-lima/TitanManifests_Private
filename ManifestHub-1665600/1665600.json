@@ -1,0 +1,45 @@
+{
+    "appid": 1665600,
+    "name": "Source of Survival",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-06 14:13:03",
+    "change_number": 29918579,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1665601": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1226536877121769873",
+                    "size": "4605878125",
+                    "download": "4121883136"
+                }
+            },
+            "decryptionkey": "f80104198b87cef65e604a22c276b0bc3c01b54a519dde54c818b664ac57d7eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10118547",
+                "timeupdated": "1670635482"
+            }
+        }
+    }
+}
