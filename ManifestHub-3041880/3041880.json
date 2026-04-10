@@ -1,0 +1,45 @@
+{
+    "appid": 3041880,
+    "name": "CatboyZOOM Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 15:21:19",
+    "change_number": 29230000,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3041881": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1900520112230979252",
+                    "size": "530413358",
+                    "download": "404732608"
+                }
+            },
+            "decryptionkey": "efa5549df04f7a45087e4d27d3a3a1da756529f14ece476f40a91aab10a18802"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16078479",
+                "timeupdated": "1729156298"
+            }
+        }
+    }
+}
