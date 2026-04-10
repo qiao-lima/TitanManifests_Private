@@ -1,0 +1,28 @@
+{
+    "appid": 2162070,
+    "name": "Ooglians",
+    "type": "Game",
+    "schinese_name": "乌利给 Ooglians",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 04:11:47",
+    "change_number": 30032613,
+    "depot": {
+        "2162071": {
+            "manifests": {
+                "public": {
+                    "gid": "6101386879891651488",
+                    "size": "171079826",
+                    "download": "54821600"
+                }
+            },
+            "decryptionkey": "9741a6f5e0272af38e705adddcd622593b7489a7a51c0f9b137fb38cbb111625"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12080040",
+                "timeupdated": "1750345024"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
