@@ -1,0 +1,38 @@
+{
+    "appid": 676030,
+    "name": "Eternal Starlight VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 08:00:56",
+    "change_number": 29982615,
+    "depot": {
+        "676032": {
+            "manifests": {
+                "public": {
+                    "gid": "4040780353459668365",
+                    "size": "1417436795",
+                    "download": "350194192"
+                },
+                "beta": {
+                    "gid": "4040780353459668365",
+                    "size": "1417436795",
+                    "download": "350194192"
+                }
+            },
+            "decryptionkey": "7efb8ce34700d6d4fabd56817481057ff5ce582049c8c7b975da7a40c2dccd1e"
+        },
+        "baselanguages": "english,german,french,koreana,japanese,latam",
+        "branches": {
+            "public": {
+                "buildid": "18779034",
+                "timeupdated": "1749316041"
+            },
+            "beta": {
+                "buildid": "18779034",
+                "description": "Beta testing branch",
+                "timeupdated": "1749316175"
+            }
+        }
+    }
+}
