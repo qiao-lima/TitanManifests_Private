@@ -1,0 +1,28 @@
+{
+    "appid": 1691750,
+    "name": "Sky Oceans: Wings for Hire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 02:11:41",
+    "change_number": 29923156,
+    "depot": {
+        "1691751": {
+            "manifests": {
+                "public": {
+                    "gid": "6998441994578541802",
+                    "size": "9310307976",
+                    "download": "2453314496"
+                }
+            },
+            "decryptionkey": "6884b21dca6e140b010827c9904e88b77584627f52d5540202d320b785e9855d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17883465",
+                "timeupdated": "1744491073"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
