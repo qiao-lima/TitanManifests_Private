@@ -1,0 +1,44 @@
+{
+    "appid": 626660,
+    "name": "Flipping Death",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 04:02:17",
+    "change_number": 29594509,
+    "depot": {
+        "626661": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6674875802160145023",
+                    "size": "3155795214",
+                    "download": "1390852032"
+                }
+            },
+            "decryptionkey": "9e746ad6f96c6484fcb91b09a7c3600e234a3ff9d03d9c91a4ad94a31159db76"
+        },
+        "626662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2195101750376645139",
+                    "size": "3000582821",
+                    "download": "1199584896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3175882",
+                "timeupdated": "1538489556"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
