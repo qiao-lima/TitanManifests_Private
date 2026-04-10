@@ -1,0 +1,80 @@
+{
+    "appid": 941460,
+    "name": "Death Trash",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 16:02:03",
+    "change_number": 30208869,
+    "depot": {
+        "941461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3411634264410533578",
+                    "size": "895686989",
+                    "download": "213128224"
+                },
+                "beta": {
+                    "gid": "5708965391048857848",
+                    "size": "895687135",
+                    "download": "221760608"
+                }
+            },
+            "decryptionkey": "b0d0698bc15a83cab9fc71594a209515ae28c498aa7bb7fc0adc69adee219d8e"
+        },
+        "941462": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3977050807007872058",
+                    "size": "891048918",
+                    "download": "213586512"
+                },
+                "beta": {
+                    "gid": "8990556975659691806",
+                    "size": "891004353",
+                    "download": "219334400"
+                }
+            },
+            "decryptionkey": "e252486cfcecfda173f7951b9bcc40f6089025ee745ff0d63302425863b04bf1"
+        },
+        "941463": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5633184326549525034",
+                    "size": "896361852",
+                    "download": "214077760"
+                },
+                "beta": {
+                    "gid": "3494970948116100630",
+                    "size": "896285772",
+                    "download": "219802752"
+                }
+            },
+            "decryptionkey": "37ba5ad4fd87107b0094639a47dbeb9b4fa86eac62e3d7a2e226bcf0d76dff2e"
+        },
+        "baselanguages": "",
+        "workshopdepot": "941460",
+        "branches": {
+            "public": {
+                "buildid": "19078076",
+                "timeupdated": "1751455780"
+            },
+            "beta": {
+                "buildid": "19273406",
+                "description": "test builds",
+                "timeupdated": "1752834819"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6d5d2a036ae38cda9271ce000956d802f566be505e97419850b6e078410fa740"
+    }
+}
