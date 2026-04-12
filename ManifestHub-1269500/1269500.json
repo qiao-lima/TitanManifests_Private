@@ -1,0 +1,31 @@
+{
+    "appid": 1269500,
+    "name": "Crowalt: Traces of the Lost Colony",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:59:48",
+    "change_number": 30207699,
+    "depot": {
+        "1269501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3797703491835173392",
+                    "size": "236285168",
+                    "download": "162044912"
+                }
+            },
+            "decryptionkey": "fae186e7a8c0f1262865223cd45b1403ed76125341d2d077a3bdc84658532620"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7980988",
+                "timeupdated": "1641496455"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
