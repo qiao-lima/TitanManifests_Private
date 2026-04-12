@@ -1,0 +1,43 @@
+{
+    "appid": 1919270,
+    "name": "Part of You",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 05:41:38",
+    "change_number": 29558220,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1919271": {
+            "manifests": {
+                "public": {
+                    "gid": "2647691592064168108",
+                    "size": "1129821265",
+                    "download": "838720704"
+                }
+            },
+            "decryptionkey": "886fe39051190c152d191d2c7727e2436ed8d73b83c943c9432101308f296dc9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18848718",
+                "timeupdated": "1749776041"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
