@@ -1,0 +1,30 @@
+{
+    "appid": 491280,
+    "name": "Drift Horizon Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 23:13:46",
+    "change_number": 29813741,
+    "depot": {
+        "491281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3398640647259417523",
+                    "size": "2016975824",
+                    "download": "617974736"
+                }
+            },
+            "decryptionkey": "6d09472870b83a351e0498260ceb5a7bf9e410fb95d91465b0e54c9606bf506d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1796855",
+                "timeupdated": "1493817261"
+            }
+        }
+    }
+}
