@@ -1,0 +1,77 @@
+{
+    "appid": 1269690,
+    "name": "Attack on Toys",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 10:34:02",
+    "change_number": 30153343,
+    "depot": {
+        "workshopdepot": "1269690",
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1269691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1478789494174139517",
+                    "size": "1113815689",
+                    "download": "967220496"
+                }
+            },
+            "decryptionkey": "696234cf82c6a339615e1f4a1642e0fd261a86eeb90d6420e89a0cbcd04c0676"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19035334",
+                "timeupdated": "1751093367"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "f00d30daab6531dfb6d59f4fae4fff6cf377426da60408a0bc9b7f97f1d6a231"
+    }
+}
