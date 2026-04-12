@@ -1,0 +1,89 @@
+{
+    "appid": 2103940,
+    "name": "Skate Rift",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 12:57:28",
+    "change_number": 30067673,
+    "depot": {
+        "workshopdepot": "2103940",
+        "2103941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3561197888420407051",
+                    "size": "12675623",
+                    "download": "3648720"
+                },
+                "beta": {
+                    "gid": "6244842429531107632",
+                    "size": "12675623",
+                    "download": "3649648"
+                }
+            },
+            "decryptionkey": "9e0afbb3e0a02a0c77440c374b6bfaa78edce2890eae7f161a2bbd7c4a25225d"
+        },
+        "2103942": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1105280477885137881",
+                    "size": "7534377",
+                    "download": "2292576"
+                },
+                "beta": {
+                    "gid": "2775444341003980931",
+                    "size": "7534321",
+                    "download": "2292688"
+                }
+            }
+        },
+        "2103943": {
+            "manifests": {
+                "public": {
+                    "gid": "8581223058730517995",
+                    "size": "140651467",
+                    "download": "65181472"
+                },
+                "beta": {
+                    "gid": "8581223058730517995",
+                    "size": "140651467",
+                    "download": "65181472"
+                }
+            },
+            "decryptionkey": "979ba31ef7199022b44d45d17cb9596a473504e497734b38364ea5e39a6bb759"
+        },
+        "2103944": {
+            "manifests": {
+                "public": {
+                    "gid": "7088260203597462084",
+                    "size": "7",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "7088260203597462084",
+                    "size": "7",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19229405",
+                "timeupdated": "1752580641"
+            },
+            "beta": {
+                "buildid": "19228944",
+                "description": "high chance of brokenness!",
+                "timeupdated": "1752578125"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
