@@ -1,0 +1,32 @@
+{
+    "appid": 835520,
+    "name": "Dodge Show",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 15:32:28",
+    "change_number": 29899557,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "835521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9077140917547429021",
+                    "size": "316637142",
+                    "download": "206170032"
+                }
+            },
+            "decryptionkey": "3fdd981cd05b208700be5f5f40c77df32a7b1d254c8f69c6857f4774cfe48f44"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19109561",
+                "timeupdated": "1751639533"
+            }
+        }
+    }
+}
