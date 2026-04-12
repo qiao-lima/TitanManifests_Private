@@ -1,0 +1,70 @@
+{
+    "appid": 1964480,
+    "name": "Yami RPG Editor",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 12:36:39",
+    "change_number": 30109410,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "1964481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3345012625495651020",
+                    "size": "1769127456",
+                    "download": "595285936"
+                },
+                "js-legacy": {
+                    "gid": "1369691805348584487",
+                    "size": "1346955004",
+                    "download": "476316672"
+                }
+            },
+            "decryptionkey": "0fbc3ce20c8baf6dfbb6c67c3e8301316876c2e2ef6b9149498b901c54b7fa7d"
+        },
+        "1964482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2901325552555620121",
+                    "size": "1911307892",
+                    "download": "594992512"
+                },
+                "js-legacy": {
+                    "gid": "3140226095485318395",
+                    "size": "1880589615",
+                    "download": "595322096"
+                }
+            }
+        },
+        "hasdepotsindlc": "0",
+        "workshopdepot": "1964480",
+        "branches": {
+            "public": {
+                "buildid": "19259002",
+                "timeupdated": "1752752182"
+            },
+            "js-legacy": {
+                "buildid": "12559764",
+                "description": "Legacy Version (JavaScript-based) - 2023.10.27",
+                "timeupdated": "1742036400"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
