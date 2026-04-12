@@ -1,0 +1,40 @@
+{
+    "appid": 1927920,
+    "name": "Real Feel",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 22:11:56",
+    "change_number": 30077206,
+    "depot": {
+        "1927921": {
+            "manifests": {
+                "public": {
+                    "gid": "2256378015952958776",
+                    "size": "12469732675",
+                    "download": "5930763728"
+                }
+            },
+            "decryptionkey": "ae4f5c05afa47aff89c23065c5ae07b82c9070ca172b06fdf7549bea18a39d0c"
+        },
+        "1927922": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7772620751336308741",
+                    "size": "12572661418",
+                    "download": "5965713072"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18554752",
+                "timeupdated": "1747854758"
+            }
+        }
+    }
+}
