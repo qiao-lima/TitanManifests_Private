@@ -1,0 +1,42 @@
+{
+    "appid": 3074020,
+    "name": "异世界生存指南(美食猎人)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 02:03:52",
+    "change_number": 29780080,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3074021": {
+            "manifests": {
+                "public": {
+                    "gid": "2553740123699630308",
+                    "size": "17385740267",
+                    "download": "12913290240"
+                }
+            },
+            "decryptionkey": "c349fd0b61413ccd60be941cc56222d310ef992cc81982bd590b83f4d845b03b"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "19021401",
+                "timeupdated": "1751001669"
+            }
+        }
+    }
+}
