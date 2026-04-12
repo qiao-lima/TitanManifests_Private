@@ -1,0 +1,72 @@
+{
+    "appid": 2654630,
+    "name": "Soulmask Demo",
+    "type": "Demo",
+    "schinese_name": "灵魂面甲(Soulmask) Demo",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 12:25:28",
+    "change_number": 30184853,
+    "depot": {
+        "baselanguages": "english,koreana,spanish,schinese,tchinese,russian,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2654631": {
+            "config": {
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9205210817395449997",
+                    "size": "10992909550",
+                    "download": "10549283264"
+                }
+            },
+            "decryptionkey": "d0e4ff1489dd5c040ffa445ffcb5c8e3730988ba840aee766df59c743f59fd6a"
+        },
+        "2654632": {
+            "config": {
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8824761360921619355",
+                    "size": "10942849293",
+                    "download": "10502054128"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19299120",
+                "timeupdated": "1753097587"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
