@@ -1,0 +1,68 @@
+{
+    "appid": 2553420,
+    "name": "Outta Hand",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:16:08",
+    "change_number": 29650189,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2553421": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7473682833673076172",
+                    "size": "5898266247",
+                    "download": "5854476000"
+                },
+                "testing": {
+                    "gid": "7473682833673076172",
+                    "size": "5898266247",
+                    "download": "5854476000"
+                }
+            },
+            "decryptionkey": "e241a1431f9f8b5c94220e022964b2e0e8615029dca688eb29ca154ed3e7f262"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18902295",
+                "timeupdated": "1750339934"
+            },
+            "testing": {
+                "buildid": "18902295",
+                "description": "Behind the Scenes",
+                "timeupdated": "1750189521"
+            }
+        }
+    }
+}
