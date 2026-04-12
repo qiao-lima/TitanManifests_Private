@@ -1,0 +1,27 @@
+{
+    "appid": 410790,
+    "name": "Broforce: The Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 20:44:47",
+    "change_number": 29974987,
+    "depot": {
+        "410790": {
+            "manifests": {
+                "public": {
+                    "gid": "7855829414436541284",
+                    "size": "225555274",
+                    "download": "212615296"
+                }
+            },
+            "decryptionkey": "a775ad9a4cc1bde128e630f35e4370cd2bdc659943da868a5b09c6d8cc35bd96"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11894175",
+                "timeupdated": "1691508936"
+            }
+        }
+    }
+}
