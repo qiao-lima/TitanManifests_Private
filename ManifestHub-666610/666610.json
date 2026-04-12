@@ -1,0 +1,37 @@
+{
+    "appid": 666610,
+    "name": "Endless ATC",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:14:20",
+    "change_number": 30206926,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "666611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5582133797860043169",
+                    "size": "10671013",
+                    "download": "7752688"
+                }
+            },
+            "decryptionkey": "4bd82fb2b44fea728aa1ce65940b711987e7fde5ed9dfc0ed9c96262a400171f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18756122",
+                "timeupdated": "1749220690"
+            }
+        }
+    }
+}
