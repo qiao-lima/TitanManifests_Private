@@ -1,0 +1,29 @@
+{
+    "appid": 1300620,
+    "name": "解药公司: 救世行动",
+    "type": "Game",
+    "schinese_name": "解药公司: 救世行动",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 22:23:22",
+    "change_number": 29436137,
+    "depot": {
+        "1300621": {
+            "manifests": {
+                "public": {
+                    "gid": "8273958342756824826",
+                    "size": "1074240106",
+                    "download": "387059072"
+                }
+            },
+            "decryptionkey": "3801e744b1df458ee3251a11a73c0bf14b249c734b936ac61cebc8017c99ad1a"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "6258969",
+                "timeupdated": "1613667544"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
