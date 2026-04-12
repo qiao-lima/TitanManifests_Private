@@ -1,0 +1,42 @@
+{
+    "appid": 1802190,
+    "name": "Puzzles For Clef",
+    "type": "Game",
+    "schinese_name": "凯莉芙的谜题",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 01:07:28",
+    "change_number": 29400853,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1802191": {
+            "manifests": {
+                "public": {
+                    "gid": "4420305194280723655",
+                    "size": "1615847876",
+                    "download": "1612625472"
+                }
+            },
+            "decryptionkey": "0fef00e36da154118200f3be053a2a3518c74b362a49bce9cbbad85b8756b3cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14471595",
+                "timeupdated": "1716483541"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
