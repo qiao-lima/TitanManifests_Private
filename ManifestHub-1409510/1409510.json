@@ -1,0 +1,28 @@
+{
+    "appid": 1409510,
+    "name": "Survival Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 04:11:25",
+    "change_number": 29754351,
+    "depot": {
+        "1409511": {
+            "manifests": {
+                "public": {
+                    "gid": "4052773781452386668",
+                    "size": "611816877",
+                    "download": "216373504"
+                }
+            },
+            "decryptionkey": "b201992d778321d0b99eb4f597d2c4d230274c3c06584a715d9d9835df52062c"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "5571597",
+                "timeupdated": "1600655642"
+            }
+        }
+    }
+}
