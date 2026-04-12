@@ -1,0 +1,42 @@
+{
+    "appid": 3064410,
+    "name": "10:59",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 06:52:49",
+    "change_number": 30152307,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3064411": {
+            "manifests": {
+                "public": {
+                    "gid": "3451317962960925580",
+                    "size": "5025686754",
+                    "download": "4682880304"
+                }
+            },
+            "decryptionkey": "3b77e528c6221d0ef283f34c30e6c2f58857ea0b40d686f9ff8d2f9e88288feb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17157450",
+                "timeupdated": "1738066815"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
