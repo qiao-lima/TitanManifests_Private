@@ -1,0 +1,27 @@
+{
+    "appid": 914220,
+    "name": "Land of Puzzles: Castles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 02:15:14",
+    "change_number": 29806380,
+    "depot": {
+        "914221": {
+            "manifests": {
+                "public": {
+                    "gid": "3974350270325507730",
+                    "size": "141900779",
+                    "download": "31847360"
+                }
+            },
+            "decryptionkey": "70a611d5b810e17cd19bfefb0e669ee0fd054d9f24155ce33a531f9428af8386"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3007760",
+                "timeupdated": "1533504502"
+            }
+        }
+    }
+}
