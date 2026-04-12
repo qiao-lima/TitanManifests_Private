@@ -1,0 +1,32 @@
+{
+    "appid": 1434900,
+    "name": "HardPunch: Sex Plague",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 01:35:56",
+    "change_number": 29888543,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1434901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "869366803730376233",
+                    "size": "16308257384",
+                    "download": "6725221744"
+                }
+            },
+            "decryptionkey": "fb9de5d354cca276768d6e7eab5536227b9cacdee36398d027549d32059d7069"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11538725",
+                "timeupdated": "1687786573"
+            }
+        }
+    }
+}
