@@ -1,0 +1,55 @@
+{
+    "appid": 499960,
+    "name": "The Sunset",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 22:15:21",
+    "change_number": 29574645,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "499961": {
+            "manifests": {
+                "public": {
+                    "gid": "6806510994671087044",
+                    "size": "184847450",
+                    "download": "121154960"
+                }
+            },
+            "decryptionkey": "6a35bbd825e0a2607baa1e04310933708f64b9ce0ef20b5e9364d5505fa844d3"
+        },
+        "499962": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1250837",
+                "timeupdated": "1469739458"
+            }
+        }
+    },
+    "access_token": 342452286168407050
+}
