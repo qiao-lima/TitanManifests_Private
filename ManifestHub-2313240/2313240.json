@@ -1,0 +1,28 @@
+{
+    "appid": 2313240,
+    "name": "Cats Hidden in Italy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 16:20:48",
+    "change_number": 29645457,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2313241": {
+            "manifests": {
+                "public": {
+                    "gid": "6108857434277491761",
+                    "size": "67801627",
+                    "download": "46649472"
+                }
+            },
+            "decryptionkey": "53771a49704085d26dab12ef308732dc92a47a2a66c7e4bd4a7a83ab6f641995"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18821500",
+                "timeupdated": "1749628061"
+            }
+        }
+    }
+}
