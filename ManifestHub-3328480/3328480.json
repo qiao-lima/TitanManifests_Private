@@ -1,0 +1,43 @@
+{
+    "appid": 3328480,
+    "name": "TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:12:35",
+    "change_number": 30202991,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3328481": {
+            "manifests": {
+                "public": {
+                    "gid": "4997856599804712381",
+                    "size": "335528296",
+                    "download": "211637504"
+                }
+            },
+            "decryptionkey": "a7acd339c1d95daeaf0c898cdb6e2b80f71b6a9b1d322f84d80ba1a393bfe586"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,arabic",
+        "branches": {
+            "public": {
+                "buildid": "19310859",
+                "timeupdated": "1753174647"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
