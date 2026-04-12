@@ -1,0 +1,28 @@
+{
+    "appid": 1543240,
+    "name": "Gigapocalypse",
+    "type": "Game",
+    "schinese_name": "巨兽浩劫",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 13:15:38",
+    "change_number": 29562280,
+    "depot": {
+        "1543241": {
+            "manifests": {
+                "public": {
+                    "gid": "3725536405622448000",
+                    "size": "2039896930",
+                    "download": "70663456"
+                }
+            },
+            "decryptionkey": "3ba7ea04460b9490d836b1c97ac6a327ca925e6c7721c82be0a051799f789897"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15285159",
+                "timeupdated": "1723003925"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
