@@ -1,0 +1,47 @@
+{
+    "appid": 2597350,
+    "name": "The Black Knight Chronicles - The Widow without Time",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 22:01:36",
+    "change_number": 29711265,
+    "depot": {
+        "baselanguages": "english",
+        "2597351": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6981898900965961294",
+                    "size": "1237797395",
+                    "download": "863920864"
+                }
+            },
+            "decryptionkey": "226bef2ae337e6fd78aaced990d4aef44608cd5aea82d0997159bc3b6757bfd0"
+        },
+        "3319830": {
+            "dlcappid": "3319830",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7811022043200021570",
+                    "size": "46",
+                    "download": "96"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18970517",
+                "timeupdated": "1750712487"
+            }
+        }
+    }
+}
