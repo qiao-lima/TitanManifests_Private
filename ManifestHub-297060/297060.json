@@ -1,0 +1,91 @@
+{
+    "appid": 297060,
+    "name": "Freaking Meatbags",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:28:55",
+    "change_number": 29670374,
+    "depot": {
+        "297061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6501674482801503796",
+                    "size": "187332782",
+                    "download": "93128064"
+                },
+                "beta_branch": {
+                    "gid": "6501674482801503796",
+                    "size": "187332782",
+                    "download": "93128064"
+                }
+            },
+            "decryptionkey": "98a1f77fee1d06ac8efa986a52639964b3eaa6789e662918dd0dc2adcb183cb4"
+        },
+        "297062": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8751390014489028215",
+                    "size": "204801079",
+                    "download": "85297936"
+                },
+                "beta_branch": {
+                    "gid": "8751390014489028215",
+                    "size": "204801079",
+                    "download": "85297936"
+                }
+            },
+            "decryptionkey": "45f449ee57853f87a2c576be871df4eef6c6323e49995d8d3f272177e33a405e"
+        },
+        "297063": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1640250087537008537",
+                    "size": "233420504",
+                    "download": "99124320"
+                },
+                "beta_branch": {
+                    "gid": "3269939525329468117",
+                    "size": "242648267",
+                    "download": "96606464"
+                }
+            },
+            "decryptionkey": "bbe133d411c8cd9a662dc01ef8df2afebbe0300e3d0d327b9f531950b935ea2d"
+        },
+        "297064": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6404667888308813855",
+                    "size": "254431414",
+                    "download": "101285696"
+                },
+                "beta_branch": {
+                    "gid": "3750647245124442641",
+                    "size": "246285815",
+                    "download": "96366704"
+                }
+            },
+            "decryptionkey": "4805f6ea41fe02487fdc5d4ad77508ffc1141480191ee8f4b0f774b5ec5bd491"
+        },
+        "branches": {
+            "public": {
+                "buildid": "967889"
+            },
+            "beta_branch": {
+                "buildid": "954778"
+            }
+        }
+    }
+}
