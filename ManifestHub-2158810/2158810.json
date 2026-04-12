@@ -1,0 +1,28 @@
+{
+    "appid": 2158810,
+    "name": "Cosmic Coliseum",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 19:38:16",
+    "change_number": 29912626,
+    "depot": {
+        "2158811": {
+            "manifests": {
+                "public": {
+                    "gid": "8635625800783940381",
+                    "size": "2676352904",
+                    "download": "1005378784"
+                }
+            },
+            "decryptionkey": "92841fb59aa8b7c0c44f750aa8c7d052bc11d76a32467c44a716efc4b774458b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18633981",
+                "timeupdated": "1748393731"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
