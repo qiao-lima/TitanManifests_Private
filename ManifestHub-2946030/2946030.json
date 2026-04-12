@@ -1,0 +1,95 @@
+{
+    "appid": 2946030,
+    "name": "Choo-Choose",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 17:53:58",
+    "change_number": 29846547,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,turkish",
+        "hasdepotsindlc": "0",
+        "2946031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3624455401158503660",
+                    "size": "383495127",
+                    "download": "79571360"
+                }
+            },
+            "decryptionkey": "7e81ac081f94f0a1de80d15ef3a74b86b006c6f149897ae0994f26056eec90db"
+        },
+        "3384850": {
+            "dlcappid": "3384850",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2183749431958216091",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "89570a88010cdc194ef3afeb97362afc011a9875938738cbd3993560bdf94ae1"
+        },
+        "2946032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2212535086508097258",
+                    "size": "348483240",
+                    "download": "68698624"
+                }
+            }
+        },
+        "3777740": {
+            "dlcappid": "3777740",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5317226836248862565",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "539163f050c99de0423ce28588c5c081ca26146474269211a7068ce274c9defb"
+        },
+        "3777730": {
+            "dlcappid": "3777730",
+            "manifests": {
+                "public": {
+                    "gid": "3506915794008472037",
+                    "size": "115150073",
+                    "download": "112724960"
+                }
+            },
+            "decryptionkey": "6c10325933645400240042b99e9b807947d518801b29d0533b2f64f0206854ed"
+        },
+        "3839870": {
+            "dlcappid": "3839870",
+            "manifests": {
+                "public": {
+                    "gid": "7016187090845284734",
+                    "size": "169790507",
+                    "download": "162933008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19013536",
+                "timeupdated": "1750952427"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
