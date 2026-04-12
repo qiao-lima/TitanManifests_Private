@@ -1,0 +1,44 @@
+{
+    "appid": 1679870,
+    "name": "Arcana: Heat and Cold. Season 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 11:42:49",
+    "change_number": 29966583,
+    "depot": {
+        "1679871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3207078021485250874",
+                    "size": "510165954",
+                    "download": "439346848"
+                }
+            },
+            "decryptionkey": "4c87c9da6f5ed85198f2cc4e54ea75a7b0536ec3dcd19c1506c7c644e9bbac58"
+        },
+        "1679872": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6978303981430307070",
+                    "size": "575789525",
+                    "download": "449355360"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19016820",
+                "timeupdated": "1750969284"
+            }
+        }
+    }
+}
