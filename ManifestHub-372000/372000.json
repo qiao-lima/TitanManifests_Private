@@ -1,0 +1,129 @@
+{
+    "appid": 372000,
+    "name": "Tree of Savior (English Ver.)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 22:18:04",
+    "change_number": 30174670,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "372001": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1264941646017907037",
+                    "size": "47160219595",
+                    "download": "31073565328"
+                }
+            },
+            "decryptionkey": "17eb52471e8792d079bc09344bc916dba9418e7133ed4e152a0714e1a6084b96"
+        },
+        "372002": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "451280": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "451280"
+        },
+        "451320": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "451320"
+        },
+        "372004": {
+            "dlcappid": "451280",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "372005": {
+            "dlcappid": "451320",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "463650": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "463650"
+        },
+        "463660": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "dlcappid": "463660"
+        },
+        "372007": {
+            "dlcappid": "463650",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "372008": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "1687600": {
+            "dlcappid": "1687600",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "1873520": {
+            "dlcappid": "1873520"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19240326",
+                "timeupdated": "1752646819"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
