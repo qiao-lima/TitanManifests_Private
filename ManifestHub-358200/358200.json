@@ -1,0 +1,58 @@
+{
+    "appid": 358200,
+    "name": "Math Rescue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 03:13:50",
+    "change_number": 29797743,
+    "depot": {
+        "358201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7685886881372497585",
+                    "size": "30154303",
+                    "download": "11447712"
+                }
+            },
+            "decryptionkey": "7478fceb6b1b68ce17e2b64ed5e628ba6209ff223f124bbe76781a5a59f47920"
+        },
+        "358202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3448828802497552472",
+                    "size": "8482855",
+                    "download": "2801824"
+                }
+            },
+            "decryptionkey": "791b1d6b288bf046ed06b775253dc24e5469aeb9d072ece6a3369229935ddce4"
+        },
+        "358203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1901534352255769356",
+                    "size": "10177381",
+                    "download": "3539872"
+                }
+            }
+        },
+        "358282": {
+            "depotfromapp": "358280",
+            "sharedinstall": "1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "606132"
+            }
+        }
+    }
+}
