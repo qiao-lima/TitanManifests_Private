@@ -1,0 +1,49 @@
+{
+    "appid": 1685460,
+    "name": "A-Train: All Aboard! Tourism",
+    "type": "Game",
+    "schinese_name": "A列车：开始吧 观光开发计划",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:55:02",
+    "change_number": 29339215,
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "1685460",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1685461": {
+            "manifests": {
+                "public": {
+                    "gid": "8032421705868508979",
+                    "size": "12117332804",
+                    "download": "9964347008"
+                }
+            },
+            "decryptionkey": "edf0cf99f612764bb616efc2d0c0cf7a8883f6caf6acbc647332b48b0cf6c2c5"
+        },
+        "2168690": {
+            "dlcappid": "2168690",
+            "manifests": {
+                "public": {
+                    "gid": "60232353296335708",
+                    "size": "254268926",
+                    "download": "234032368"
+                }
+            },
+            "decryptionkey": "aa38399402d8ba93b3d2d5e17f2b51a9fb2d3dae5f8cc3c87eba1eea7a22e872"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18605374",
+                "timeupdated": "1748919685"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "fae229e5aad25c437a02e1e69584be001d63d362629d17f9dcdd7f8c62129286"
+    }
+}
