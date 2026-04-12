@@ -1,0 +1,59 @@
+{
+    "appid": "230050",
+    "type": "Game",
+    "name": "DLC Quest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970500",
+    "update_time": "2025-05-14 08:07:48",
+    "depot": {
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "230051": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "881450551068591326",
+                    "size": "20674919",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "50dee201bc1ab15631892ab706683ccc7b32002ce04728e16bc3e14f31affce8"
+        },
+        "230052": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "613672415094796256",
+                    "size": "67763155",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "98c762f73b9d57832c69d6276aab5d4d783893b0e23cf730c75e09bd6841c8f5"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "56519"
+            }
+        }
+    }
+}
