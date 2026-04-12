@@ -1,0 +1,42 @@
+{
+    "appid": 3253990,
+    "name": "THE WALLWAY",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 12:16:54",
+    "change_number": 30087877,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3253991": {
+            "manifests": {
+                "public": {
+                    "gid": "4962190797115443310",
+                    "size": "1742124272",
+                    "download": "1564421504"
+                }
+            },
+            "decryptionkey": "43974538cc51a20b9fbe9a9dda6c06485e5814a390f8e8b26a696234397fe322"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19152338",
+                "timeupdated": "1752013892"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
