@@ -1,0 +1,83 @@
+{
+    "appid": 2639440,
+    "name": "SGS Overlord",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 08:38:20",
+    "change_number": 30126646,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2639441": {
+            "manifests": {
+                "public": {
+                    "gid": "496448257682970212",
+                    "size": "538547504",
+                    "download": "466051936"
+                }
+            },
+            "decryptionkey": "1f51b76c1de456368034c798a34135faff0b11c5a2e425deee595449e06c8839"
+        },
+        "2639442": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5140215147653388054",
+                    "size": "607205644",
+                    "download": "221791760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2639443": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1228531061987554909",
+                    "size": "620942230",
+                    "download": "227037216"
+                }
+            },
+            "decryptionkey": "38e62168eb11401b5b9736b435926ecf3dcaa529f2ab35c834b2fee56343d409"
+        },
+        "2639444": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4495113842159608169",
+                    "size": "616252122",
+                    "download": "225590048"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish",
+        "branches": {
+            "public": {
+                "buildid": "18761882",
+                "timeupdated": "1749191469"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
