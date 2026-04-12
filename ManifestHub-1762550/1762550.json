@@ -1,0 +1,162 @@
+{
+    "appid": 1762550,
+    "name": "PixelOver",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 18:26:05",
+    "change_number": 30116070,
+    "depot": {
+        "1762552": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "262734930205375907",
+                    "size": "124341506",
+                    "download": "48843552"
+                },
+                "0.16.x": {
+                    "gid": "5166193881233547055",
+                    "size": "87912767",
+                    "download": "32399264"
+                },
+                "pre-release": {
+                    "gid": "6987153846277400644",
+                    "size": "124379986",
+                    "download": "48859328"
+                }
+            },
+            "decryptionkey": "f6f224340f980d87f3e055310adcbbc359e20547df68167480f17acf759cc929"
+        },
+        "1762553": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4782823130151450965",
+                    "size": "139510962",
+                    "download": "53080720"
+                },
+                "0.16.x": {
+                    "gid": "7863298776941799788",
+                    "size": "100998047",
+                    "download": "36291616"
+                },
+                "pre-release": {
+                    "gid": "3199446881134377400",
+                    "size": "139549442",
+                    "download": "53104704"
+                }
+            }
+        },
+        "1762554": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1382791389861993983",
+                    "size": "240665850",
+                    "download": "69701856"
+                },
+                "0.16.x": {
+                    "gid": "5471014806224392305",
+                    "size": "94025830",
+                    "download": "34194800"
+                },
+                "pre-release": {
+                    "gid": "17289717558315092",
+                    "size": "240711270",
+                    "download": "69730416"
+                }
+            }
+        },
+        "1762555": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5603056028187402829",
+                    "size": "60985552",
+                    "download": "21940544"
+                },
+                "0.16.x": {
+                    "gid": "5603056028187402829",
+                    "size": "60985552",
+                    "download": "21940544"
+                },
+                "pre-release": {
+                    "gid": "5603056028187402829",
+                    "size": "60985552",
+                    "download": "21940544"
+                }
+            },
+            "decryptionkey": "22246694975b6c5cecca7cdb541d6f05e20d15f8e80a7ffb9806acf18f8c1c0b"
+        },
+        "1762556": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "482745955953165904",
+                    "size": "64033296",
+                    "download": "23350512"
+                },
+                "0.16.x": {
+                    "gid": "482745955953165904",
+                    "size": "64033296",
+                    "download": "23350512"
+                },
+                "pre-release": {
+                    "gid": "482745955953165904",
+                    "size": "64033296",
+                    "download": "23350512"
+                }
+            }
+        },
+        "1762557": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4302726450148591166",
+                    "size": "72466435",
+                    "download": "24696288"
+                },
+                "0.16.x": {
+                    "gid": "4302726450148591166",
+                    "size": "72466435",
+                    "download": "24696288"
+                },
+                "pre-release": {
+                    "gid": "4302726450148591166",
+                    "size": "72466435",
+                    "download": "24696288"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19055395",
+                "timeupdated": "1751312382"
+            },
+            "0.16.x": {
+                "buildid": "18014818",
+                "description": "older stable version",
+                "timeupdated": "1744047667"
+            },
+            "pre-release": {
+                "buildid": "19263625",
+                "description": "Unstable version",
+                "timeupdated": "1752773162"
+            }
+        }
+    }
+}
