@@ -1,0 +1,41 @@
+{
+    "appid": 2401230,
+    "name": "Clone Drone in the Hyperdome",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:15:58",
+    "change_number": 30212427,
+    "depot": {
+        "2401231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6566322956829196975",
+                    "size": "8362456429",
+                    "download": "2642232576"
+                },
+                "development": {
+                    "gid": "6424556202254687038",
+                    "size": "8651018674",
+                    "download": "3451135344"
+                }
+            },
+            "decryptionkey": "adef8b8c08460980073f49a920b727586898eb979fded407e77facc0471d75cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16819714",
+                "timeupdated": "1734741294"
+            },
+            "development": {
+                "buildid": "19333099",
+                "description": "Experimental and unreleased features. May be unstable, play at your own risk!",
+                "timeupdated": "1753294555"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
