@@ -1,0 +1,59 @@
+{
+    "appid": "391300",
+    "type": "Game",
+    "name": "Double Cubes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-28 11:57:06",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "391301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6727971957009960742",
+                    "size": "491143286",
+                    "download": "171936080"
+                }
+            },
+            "decryptionkey": "c0902b777a4a0a56e0f2e35f2de7b15505ca19271d194257c6cc8904ee288d30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1571623",
+                "timeupdated": "1484572659"
+            }
+        }
+    },
+    "access_token": 12597373015503553531
+}
