@@ -1,0 +1,42 @@
+{
+    "appid": 1859780,
+    "name": "BRUTAL JOHN 2 Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 23:30:26",
+    "change_number": 30194730,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "1859781": {
+            "manifests": {
+                "public": {
+                    "gid": "2229419164524114286",
+                    "size": "1091321868",
+                    "download": "454349520"
+                }
+            },
+            "decryptionkey": "d63131e0dfd145f519f970e5864797fea55c4da95c5b0fda071ea38d65284716"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18812724",
+                "timeupdated": "1749572135"
+            }
+        }
+    }
+}
