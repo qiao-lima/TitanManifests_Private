@@ -1,0 +1,59 @@
+{
+    "appid": 2276930,
+    "name": "Chillquarium",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 18:22:31",
+    "change_number": 29847053,
+    "depot": {
+        "2276931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1023783227445359084",
+                    "size": "381890736",
+                    "download": "269717632"
+                },
+                "beta_testing": {
+                    "gid": "1023783227445359084",
+                    "size": "381890736",
+                    "download": "269717632"
+                }
+            },
+            "decryptionkey": "fcf9662feff7e3607308854557baac65fd6d346455c261c4e38942e597c48b93"
+        },
+        "2276932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2103968958261063508",
+                    "size": "464277909",
+                    "download": "286884768"
+                },
+                "beta_testing": {
+                    "gid": "2103968958261063508",
+                    "size": "464277909",
+                    "download": "286884768"
+                }
+            },
+            "decryptionkey": "f79b4b156ec43b6dbe920d70058fd28f9d0637a540db8f1c18518fbbcd1fadfe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18678544",
+                "timeupdated": "1748633794"
+            },
+            "beta_testing": {
+                "buildid": "18678544",
+                "description": "Beta branch for testing changes before they go live on the main build",
+                "timeupdated": "1748630679"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
