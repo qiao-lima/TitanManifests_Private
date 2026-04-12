@@ -1,0 +1,27 @@
+{
+    "appid": 2564140,
+    "name": "Desktop Garage Kit : Go",
+    "type": "Game",
+    "schinese_name": "桌面手办GO",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 15:21:28",
+    "change_number": 30112517,
+    "depot": {
+        "2564141": {
+            "manifests": {
+                "public": {
+                    "gid": "4396715822633246248",
+                    "size": "24765040574",
+                    "download": "6988285168"
+                }
+            },
+            "decryptionkey": "076738c91d62917a2ac0ec97cd3931df01a36adb4935462896e8d0056ce1bd04"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19226207",
+                "timeupdated": "1752562832"
+            }
+        }
+    }
+}
