@@ -1,0 +1,27 @@
+{
+    "appid": 2394590,
+    "name": "Just Survive",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 20:52:20",
+    "change_number": 30157356,
+    "depot": {
+        "2394591": {
+            "manifests": {
+                "public": {
+                    "gid": "8015365078180012428",
+                    "size": "165762656",
+                    "download": "52171696"
+                }
+            },
+            "decryptionkey": "53c1f4c179ac21b646d926700f0b5e6582f94441a9523cede33d2baf36a1ddbc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11002625",
+                "timeupdated": "1681465387"
+            }
+        }
+    }
+}
