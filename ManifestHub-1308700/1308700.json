@@ -1,0 +1,35 @@
+{
+    "appid": 1308700,
+    "name": "Wizardry: The Five Ordeals",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 04:06:32",
+    "change_number": 29924011,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "workshopdepot": "1308700",
+        "hasdepotsindlc": "1",
+        "1308701": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5246172343812946089",
+                    "size": "2278447005",
+                    "download": "1005849696"
+                }
+            },
+            "decryptionkey": "8e2cd6a1a36611d2a178edb5ddef89704391742fef5c9384d80a4c93029fc61e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18543632",
+                "timeupdated": "1747893684"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
