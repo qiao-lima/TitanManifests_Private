@@ -1,0 +1,27 @@
+{
+    "appid": 486230,
+    "name": "Con Amore",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 05:51:33",
+    "change_number": 30152015,
+    "depot": {
+        "486231": {
+            "manifests": {
+                "public": {
+                    "gid": "4894100379675029016",
+                    "size": "187095898",
+                    "download": "120845328"
+                }
+            },
+            "decryptionkey": "17dc4cf994642566f93ed6a7bcd9b7762e7e1ea0202bce1a457f788840c78ba3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1230729",
+                "timeupdated": "1468667536"
+            }
+        }
+    }
+}
