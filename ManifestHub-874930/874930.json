@@ -1,0 +1,45 @@
+{
+    "appid": 874930,
+    "name": "What A Trash Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 01:00:21",
+    "change_number": 30121192,
+    "depot": {
+        "baselanguages": "",
+        "874931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1032394486341215687",
+                    "size": "272746013",
+                    "download": "84982416"
+                }
+            },
+            "decryptionkey": "9bcb3910156ab37ade106d90897f5bc6abf7e6c0b30051fa50b9f6e4af769518"
+        },
+        "874932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "582337582765708793",
+                    "size": "291872420",
+                    "download": "90236560"
+                }
+            },
+            "decryptionkey": "cd3bfeae2084069786d718f572b10d50b9119c5f9e4d09f1405a0857cdf0a533"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3018303",
+                "timeupdated": "1533839235"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
