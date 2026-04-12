@@ -1,0 +1,27 @@
+{
+    "appid": 1965130,
+    "name": "Key Puss",
+    "type": "Game",
+    "schinese_name": "按键少女",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 11:31:21",
+    "change_number": 30034650,
+    "depot": {
+        "1965131": {
+            "manifests": {
+                "public": {
+                    "gid": "5770537035610037498",
+                    "size": "194965922",
+                    "download": "35028816"
+                }
+            },
+            "decryptionkey": "3d8ea664cb43913dccd0134f78053ff3a5fc353d121ce7c754a3296aadbca8b7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8647107",
+                "timeupdated": "1651213319"
+            }
+        }
+    }
+}
