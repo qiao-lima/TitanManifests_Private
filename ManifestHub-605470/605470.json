@@ -1,0 +1,31 @@
+{
+    "appid": "605470",
+    "type": "Game",
+    "name": "Barclay: The Marrowdale Murder",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23655113",
+    "update_time": "2024-08-14 19:23:55",
+    "depot": {
+        "605471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3431530997826855380",
+                    "size": "476921606",
+                    "download": "377770192"
+                }
+            },
+            "decryptionkey": "1713130c8adbd5174a4938e0f3a90836d9914173e42c2540d3aa5d605815b0d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1702695",
+                "timeupdated": "1490021888"
+            }
+        }
+    },
+    "access_token": 375356281341128232
+}
