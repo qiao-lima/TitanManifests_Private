@@ -1,0 +1,37 @@
+{
+    "appid": 989040,
+    "name": "After Hours",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-06 04:10:16",
+    "change_number": 29915422,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "989041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "266596366361213335",
+                    "size": "777327825",
+                    "download": "754900160"
+                }
+            },
+            "decryptionkey": "1371e4954b71094c30620a9cdebd82ce6d81a886e5c0f07b4787643c27a28602"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3485658",
+                "timeupdated": "1548017547"
+            }
+        }
+    }
+}
