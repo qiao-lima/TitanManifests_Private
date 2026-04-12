@@ -1,0 +1,32 @@
+{
+    "appid": 518040,
+    "name": "Volleyball Unbound",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 01:21:57",
+    "change_number": 29469359,
+    "depot": {
+        "baselanguages": "english",
+        "518041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "240103812331117574",
+                    "size": "1593963977",
+                    "download": "439590880"
+                }
+            },
+            "decryptionkey": "50fdab2fc60117beb3b8f0535ac72338a4c96717bcd6dd531cc89309e2fb2777"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1605550",
+                "timeupdated": "1486036684"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
