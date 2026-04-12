@@ -1,0 +1,59 @@
+{
+    "appid": 746400,
+    "name": "Speed Dating for Ghosts",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:48:22",
+    "change_number": 29225621,
+    "depot": {
+        "746401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "552093707341466736",
+                    "size": "283436765",
+                    "download": "107131456"
+                }
+            },
+            "decryptionkey": "0496ba08a6d5dfd647910661e9d41373087edf09a9565f6164bf3bc40a77abbb"
+        },
+        "746402": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1696899363380767541",
+                    "size": "290172165",
+                    "download": "109225392"
+                }
+            },
+            "decryptionkey": "b82f34eb43325df7edd35d49124a2d8adced8a9c9420e9958913b813d4676887"
+        },
+        "746403": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7234262505814234998",
+                    "size": "283881131",
+                    "download": "107678688"
+                }
+            },
+            "decryptionkey": "05bbde9c43e156c427b602a2f810e30826aa44736186634997535b001e0b56df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5067118",
+                "timeupdated": "1590183761"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
