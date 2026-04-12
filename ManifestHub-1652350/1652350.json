@@ -1,0 +1,28 @@
+{
+    "appid": 1652350,
+    "name": "X-Plane 11 - Add-on: Aerosoft - Airport Istanbul",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:21:06",
+    "change_number": 26201212,
+    "depot": {
+        "1652350": {
+            "manifests": {
+                "public": {
+                    "gid": "6084057552467784533",
+                    "size": "4846784401",
+                    "download": "1843349264"
+                }
+            },
+            "dlcappid": "1652350",
+            "decryptionkey": "a2bf42a7e1f1c872a3a9189e897f9a3cb76e1aab92586d3d4d97a865a5ccaec7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8266192",
+                "timeupdated": "1645696569"
+            }
+        }
+    }
+}
