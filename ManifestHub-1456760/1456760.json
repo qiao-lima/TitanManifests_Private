@@ -1,0 +1,32 @@
+{
+    "appid": 1456760,
+    "name": "ROBOBEAT",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 12:44:33",
+    "change_number": 29948304,
+    "depot": {
+        "1456761": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9178269778914611800",
+                    "size": "3100912383",
+                    "download": "1145406976"
+                }
+            },
+            "decryptionkey": "b8bc2cde1ecb6eaf6683921c1879482515b41e3483909370a39729920b7e45c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18945669",
+                "timeupdated": "1750949288"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
