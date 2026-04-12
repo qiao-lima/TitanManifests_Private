@@ -1,0 +1,41 @@
+{
+    "appid": 1761770,
+    "name": "Universe 51: Tannhäuser Wars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 14:16:55",
+    "change_number": 29787556,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1761771": {
+            "manifests": {
+                "public": {
+                    "gid": "8191912166072118477",
+                    "size": "16538481546",
+                    "download": "4602271520"
+                }
+            },
+            "decryptionkey": "8976e6ed65fe3fb327383a0fccf8b575c892c144c396b3abb25ef7cb894fc2c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10132466",
+                "timeupdated": "1670953060"
+            }
+        }
+    }
+}
