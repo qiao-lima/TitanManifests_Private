@@ -1,0 +1,158 @@
+{
+    "appid": 2398170,
+    "name": "BORE BLASTERS",
+    "type": "Game",
+    "schinese_name": "深地爆破采掘",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 01:10:47",
+    "change_number": 30216924,
+    "depot": {
+        "baselanguages": "english",
+        "2398171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5270379223840653531",
+                    "size": "521522420",
+                    "download": "464146352"
+                },
+                "experimental": {
+                    "gid": "5270379223840653531",
+                    "size": "521522420",
+                    "download": "464146352"
+                },
+                "v1_10_3": {
+                    "gid": "5784699574422717814",
+                    "size": "521108624",
+                    "download": "466854400"
+                },
+                "game_not_launching_v1_10_1": {
+                    "gid": "5799189428461058141",
+                    "size": "521071884",
+                    "download": "464024128"
+                },
+                "game_not_launching_v1_9_1": {
+                    "gid": "5609134669396218078",
+                    "size": "521264225",
+                    "download": "464060368"
+                },
+                "game_not_launching_v1_9_7_logger": {
+                    "gid": "5894659472284423308",
+                    "size": "520468562",
+                    "download": "464047344"
+                }
+            },
+            "decryptionkey": "17a13058c9b92ec2d622ec63e9e8535e28fcfa051ab2df613ca72f72d422fa8e"
+        },
+        "2398172": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2323878692577563436",
+                    "size": "519452902",
+                    "download": "463494528"
+                },
+                "experimental": {
+                    "gid": "2323878692577563436",
+                    "size": "519452902",
+                    "download": "463494528"
+                },
+                "v1_10_3": {
+                    "gid": "7553973977289116065",
+                    "size": "519949542",
+                    "download": "465999392"
+                },
+                "game_not_launching_v1_10_1": {
+                    "gid": "7448867181146322299",
+                    "size": "519912715",
+                    "download": "463663760"
+                },
+                "game_not_launching_v1_9_1": {
+                    "gid": "7566020193953626391",
+                    "size": "519370791",
+                    "download": "463438208"
+                },
+                "game_not_launching_v1_9_7_logger": {
+                    "gid": "7566020193953626391",
+                    "size": "519370791",
+                    "download": "463438208"
+                }
+            }
+        },
+        "2398173": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3055702667224458227",
+                    "size": "522831964",
+                    "download": "464108544"
+                },
+                "experimental": {
+                    "gid": "3055702667224458227",
+                    "size": "522831964",
+                    "download": "464108544"
+                },
+                "v1_10_3": {
+                    "gid": "2403723871169257425",
+                    "size": "528558418",
+                    "download": "467795648"
+                },
+                "game_not_launching_v1_10_1": {
+                    "gid": "7741400118315964760",
+                    "size": "528505633",
+                    "download": "465390208"
+                },
+                "game_not_launching_v1_9_1": {
+                    "gid": "1789831700524152095",
+                    "size": "522719445",
+                    "download": "464057088"
+                },
+                "game_not_launching_v1_9_7_logger": {
+                    "gid": "1789831700524152095",
+                    "size": "522719445",
+                    "download": "464057088"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17512324",
+                "timeupdated": "1740563279"
+            },
+            "experimental": {
+                "buildid": "17512324",
+                "description": "Help test bleeding edge builds. WARNING: Save file at risk",
+                "timeupdated": "1740561988"
+            },
+            "v1_10_3": {
+                "buildid": "18985392",
+                "description": "Bleeding edge engine build, testing if gamepad crash fix is resolved",
+                "timeupdated": "1750794248"
+            },
+            "game_not_launching_v1_10_1": {
+                "buildid": "18622773",
+                "description": "Game not launching? This branch tests the most recent version of the game engine. Only use if instructed by the devs.",
+                "timeupdated": "1748338462"
+            },
+            "game_not_launching_v1_9_1": {
+                "buildid": "18594517",
+                "description": "Game not launching? We're trying to revert to v1.9.1 of our game engine to test if a feature implemented in 1.9.2 is causing it.",
+                "timeupdated": "1748093700"
+            },
+            "game_not_launching_v1_9_7_logger": {
+                "buildid": "18599274",
+                "description": "Game not launching? This is engine v1.9.7 that you can launch via output_launcher.bat to catch the logs before the crash.",
+                "timeupdated": "1748154469"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
