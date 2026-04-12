@@ -1,0 +1,57 @@
+{
+    "appid": 895330,
+    "name": "Unblock: The Parking",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 04:11:44",
+    "change_number": 29941753,
+    "depot": {
+        "895331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3293875435761390811",
+                    "size": "63045582",
+                    "download": "14738656"
+                }
+            },
+            "decryptionkey": "c3474674a7ccfb769156dfb97c76ef055a997b8c55bf55fbd6edb401367b1c24"
+        },
+        "895332": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4461944748816007839",
+                    "size": "100486555",
+                    "download": "27340992"
+                }
+            },
+            "decryptionkey": "71479b02bee4fa4affde9a41def956a698afe8c032848a6bda7b9b8aea61ae7d"
+        },
+        "895333": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2279733234495022581",
+                    "size": "79144078",
+                    "download": "18108256"
+                }
+            },
+            "decryptionkey": "2e2fdbcff81eb65010dcb862dfbf809eeefd5e6d3b15d91689629c101bbeed0a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3097158",
+                "timeupdated": "1536227353"
+            }
+        }
+    },
+    "access_token": 1978003356277612762
+}
