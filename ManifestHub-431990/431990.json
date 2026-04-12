@@ -1,0 +1,31 @@
+{
+    "appid": "431990",
+    "type": "Game",
+    "name": "Locked-in syndrome",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "19327795",
+    "update_time": "2024-08-14 19:04:30",
+    "depot": {
+        "baselanguages": "english,russian",
+        "431991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7741020944466532241",
+                    "size": "1270458568",
+                    "download": "380611504"
+                }
+            },
+            "decryptionkey": "ea3c6ad423567169061e4abe64085fe4f4538afca62fe94b80f5d0c665c88be0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "924930"
+            }
+        }
+    },
+    "access_token": 9764844669463786130
+}
