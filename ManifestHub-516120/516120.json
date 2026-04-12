@@ -1,0 +1,27 @@
+{
+    "appid": 516120,
+    "name": "Juno's Darkest Hour",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 21:11:06",
+    "change_number": 30038558,
+    "depot": {
+        "516121": {
+            "manifests": {
+                "public": {
+                    "gid": "1794887711850422764",
+                    "size": "54591351",
+                    "download": "53249120"
+                }
+            },
+            "decryptionkey": "e504edeb902d0618fb77500306ecfea03e83296d4d29c07781e1ef4132bfc380"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1798600",
+                "timeupdated": "1493864301"
+            }
+        }
+    }
+}
