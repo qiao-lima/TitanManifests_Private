@@ -1,0 +1,51 @@
+{
+    "appid": 26900,
+    "name": "Crayon Physics Deluxe",
+    "type": "Game",
+    "schinese_name": "蜡笔物理学",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 04:51:23",
+    "change_number": 30151732,
+    "depot": {
+        "26902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1788910810581165666",
+                    "size": "65285729",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e65b22497039e6e724ce201e08ba78539135bc67626f944ce879859e2f914bb8"
+        },
+        "26901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4461394390250007869",
+                    "size": "50906229",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5c5e65a15c732d1320726b13a5ad7125ab9ea042a5480accfb7d514f370dc2f1"
+        },
+        "26903": {
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "11341"
+            }
+        }
+    }
+}
