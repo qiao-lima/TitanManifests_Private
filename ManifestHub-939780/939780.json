@@ -1,0 +1,28 @@
+{
+    "appid": "939780",
+    "type": "Game",
+    "name": "Cat Demon Island",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18821630",
+    "update_time": "2024-08-14 20:05:11",
+    "depot": {
+        "939781": {
+            "manifests": {
+                "public": {
+                    "gid": "8134578178879035378",
+                    "size": "750724714",
+                    "download": "379601184"
+                }
+            },
+            "decryptionkey": "86f748edbb3bb0e9ee60e050147bfd03649f9226df3a6b42adf3bc7f3b0d7c08"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3101003",
+                "timeupdated": "1536324671"
+            }
+        }
+    },
+    "access_token": 13049074596937874646
+}
