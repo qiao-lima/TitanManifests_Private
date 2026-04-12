@@ -1,0 +1,39 @@
+{
+    "appid": "619520",
+    "type": "Game",
+    "name": "Destruction 48",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24948010",
+    "update_time": "2024-08-27 04:35:44",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "619521": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5591871903036503245",
+                    "size": "33295942",
+                    "download": "14783488"
+                }
+            },
+            "decryptionkey": "6ab9ba26b5a07fda0a605891bee1a12d9aafdcc3f29ed48c15f5efdbb7b563dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1873788",
+                "timeupdated": "1497129385"
+            }
+        }
+    },
+    "access_token": 1828328354557757327
+}
