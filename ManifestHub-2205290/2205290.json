@@ -1,0 +1,71 @@
+{
+    "appid": 2205290,
+    "name": "流光易逝的夏末 - Fleeting Summer's End",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 04:18:27",
+    "change_number": 30081280,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "2205291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4581018385246509324",
+                    "size": "306989332",
+                    "download": "183433920"
+                }
+            },
+            "decryptionkey": "65c6d468e88a8d43369bd7ce3d303dad34c1d73d9514102d3833f9ab1c9d7c33"
+        },
+        "2205292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4318689658572384689",
+                    "size": "651663042",
+                    "download": "189778176"
+                }
+            }
+        },
+        "2205293": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "631490117342696368",
+                    "size": "514451770",
+                    "download": "384155840"
+                }
+            },
+            "decryptionkey": "1031a182c190d69f85aced82006da8783609931e8c997be6deacbb1751819d85"
+        },
+        "2205294": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9201285263256619197",
+                    "size": "296634594",
+                    "download": "183728928"
+                }
+            },
+            "decryptionkey": "58fdaa404a14a076fb4becb7cb8c380811aee804b8090117de6225e1066640bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19116771",
+                "timeupdated": "1751710532"
+            }
+        }
+    }
+}
