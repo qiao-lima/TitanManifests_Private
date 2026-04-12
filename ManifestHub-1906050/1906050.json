@@ -1,0 +1,60 @@
+{
+    "appid": 1906050,
+    "name": "Dragon Map Maker",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 02:11:34",
+    "change_number": 30022202,
+    "depot": {
+        "1906051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3767447272708237262",
+                    "size": "2716093813",
+                    "download": "1933731168"
+                },
+                "beta": {
+                    "gid": "3767447272708237262",
+                    "size": "2716093813",
+                    "download": "1933731168"
+                },
+                "dmm_v0.240": {
+                    "gid": "1114444181590891689",
+                    "size": "2424346796",
+                    "download": "1780604176"
+                },
+                "previousversion": {
+                    "gid": "2186885017736230315",
+                    "size": "2320409819",
+                    "download": "1683780944"
+                }
+            },
+            "decryptionkey": "95b18658b84e099f2e0a0a7705605ce6caa402cc447efbb9b1742d0c69efcd04"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18930634",
+                "timeupdated": "1750359154"
+            },
+            "beta": {
+                "buildid": "18930634",
+                "description": "DMM Beta Test",
+                "timeupdated": "1750358437"
+            },
+            "dmm_v0.240": {
+                "buildid": "14640911",
+                "description": "DMM v0.240",
+                "timeupdated": "1734018854"
+            },
+            "previousversion": {
+                "buildid": "12739714",
+                "description": "The previous version of DMM",
+                "timeupdated": "1714742992"
+            }
+        }
+    }
+}
