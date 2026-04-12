@@ -1,0 +1,35 @@
+{
+    "appid": "586530",
+    "type": "Game",
+    "name": "Hell`S Little Story",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:21:32",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "586531": {
+            "manifests": {
+                "public": {
+                    "gid": "2619102839511576641",
+                    "size": "39377241",
+                    "download": "32992880"
+                }
+            },
+            "decryptionkey": "e5d1ea650c7ff5be3aa56acabf9de1392b70473fdae5412dbe1c435ffc8a357a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1608873",
+                "timeupdated": "1486142122"
+            }
+        }
+    },
+    "access_token": 15009113847931355184
+}
