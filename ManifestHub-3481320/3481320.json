@@ -1,0 +1,28 @@
+{
+    "appid": 3481320,
+    "name": "Deckline",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 11:11:02",
+    "change_number": 29928395,
+    "depot": {
+        "3481321": {
+            "manifests": {
+                "public": {
+                    "gid": "771591349810604201",
+                    "size": "277027743",
+                    "download": "203297456"
+                }
+            },
+            "decryptionkey": "3f8cf034015d65424c4a36c2923b3570b9f833b4966d4cba5409fdd796dbc13f"
+        },
+        "baselanguages": "english,german,french,italian,koreana,schinese,russian,japanese,polish,brazilian,ukrainian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18412453",
+                "timeupdated": "1746858426"
+            }
+        }
+    }
+}
