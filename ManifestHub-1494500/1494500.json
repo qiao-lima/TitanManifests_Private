@@ -1,0 +1,62 @@
+{
+    "appid": 1494500,
+    "name": "FWsim - Fireworks Display Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 14:53:57",
+    "change_number": 29861550,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1494501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1364327652386521248",
+                    "size": "544530432",
+                    "download": "336701472"
+                },
+                "beta": {
+                    "gid": "1364327652386521248",
+                    "size": "544530432",
+                    "download": "336701472"
+                }
+            },
+            "decryptionkey": "3ee8043de76ce556308b524c11a553e65e3568d1539b82e9beead48addd5ca68"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19077059",
+                "timeupdated": "1751464432"
+            },
+            "beta": {
+                "buildid": "19077059",
+                "description": "Get early access to new features",
+                "timeupdated": "1751448228"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
