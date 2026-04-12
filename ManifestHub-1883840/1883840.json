@@ -1,0 +1,30 @@
+{
+    "appid": 1883840,
+    "name": "Ocean Punk",
+    "type": "Game",
+    "schinese_name": "洋流朋克",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 23:51:52",
+    "change_number": 30195313,
+    "depot": {
+        "1883841": {
+            "manifests": {
+                "public": {
+                    "gid": "8491951487112685048",
+                    "size": "1349432503",
+                    "download": "470579136"
+                }
+            },
+            "decryptionkey": "e6b9e470fd8346ad35ca676c6b3dda2db172a994309288f25511360053fcee1e"
+        },
+        "baselanguages": "schinese",
+        "workshopdepot": "1883840",
+        "branches": {
+            "public": {
+                "buildid": "18867482",
+                "timeupdated": "1749906344"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
