@@ -1,0 +1,28 @@
+{
+    "appid": 899893,
+    "name": "Rocksmith® 2014 Edition – Remastered – The Notetrackers - “Amazing Grace”",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:08:37",
+    "change_number": 26551819,
+    "depot": {
+        "899893": {
+            "manifests": {
+                "public": {
+                    "gid": "3479444871120695927",
+                    "size": "8487694",
+                    "download": "5217232"
+                }
+            },
+            "dlcappid": "899893",
+            "decryptionkey": "030a55f86fb17878be83bf47cad84ad75c32ba44d0304eb9f605c63c8cc8c1b8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3747117",
+                "timeupdated": "1555537080"
+            }
+        }
+    }
+}
