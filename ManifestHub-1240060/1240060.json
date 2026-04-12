@@ -1,0 +1,45 @@
+{
+    "appid": 1240060,
+    "name": "A Highland Song",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 11:55:54",
+    "change_number": 29877166,
+    "depot": {
+        "1240061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2451626169883568495",
+                    "size": "3098415618",
+                    "download": "568674192"
+                }
+            },
+            "decryptionkey": "96beb02c693855c8614214eb84be8b4a6319ec724365c3a30185ec162b1cfe77"
+        },
+        "1240062": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2938965297363477427",
+                    "size": "3123698954",
+                    "download": "576285648"
+                }
+            },
+            "decryptionkey": "e34adc0d51d782f99f125d8b7c0d2bab14c12cc3303374fcee4da4c2f736b2dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14317561",
+                "timeupdated": "1715273586"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
