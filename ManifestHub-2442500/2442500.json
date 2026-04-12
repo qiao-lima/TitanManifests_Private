@@ -1,0 +1,27 @@
+{
+    "appid": 2442500,
+    "name": "Coodesker",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 09:45:28",
+    "change_number": 29361316,
+    "depot": {
+        "2442501": {
+            "manifests": {
+                "public": {
+                    "gid": "1422481500327260736",
+                    "size": "8979551",
+                    "download": "2978560"
+                }
+            },
+            "decryptionkey": "5dc0e39e08976f4f2167a1fe549bb0cfa64ce11427d333177e1bc797052faaec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18716723",
+                "timeupdated": "1749001522"
+            }
+        }
+    }
+}
