@@ -1,0 +1,27 @@
+{
+    "appid": 709700,
+    "name": "The Thing: Space X",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 22:13:11",
+    "change_number": 29487871,
+    "depot": {
+        "709701": {
+            "manifests": {
+                "public": {
+                    "gid": "7986692611608614415",
+                    "size": "104587810",
+                    "download": "45343792"
+                }
+            },
+            "decryptionkey": "45cc92ef6163c4fa93fb576f82fa11a6461688af506e59bab796387fdbef4651"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2134537",
+                "timeupdated": "1505938209"
+            }
+        }
+    }
+}
