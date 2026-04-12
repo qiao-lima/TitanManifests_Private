@@ -1,0 +1,51 @@
+{
+    "appid": 2138250,
+    "name": "MELIGO Creator",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 12:57:18",
+    "change_number": 30205708,
+    "depot": {
+        "baselanguages": "",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2138251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9005801471671734945",
+                    "size": "1392374690",
+                    "download": "563313904"
+                }
+            },
+            "decryptionkey": "3110a1a93b130f3621b19e94bec65a575d5df5e55feb41fd55e131178c3b978a"
+        },
+        "2138253": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18513865",
+                "timeupdated": "1747638130"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
