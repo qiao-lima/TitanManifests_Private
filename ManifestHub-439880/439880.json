@@ -1,0 +1,54 @@
+{
+    "appid": 439880,
+    "name": "Heroes of Loot 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 08:10:52",
+    "change_number": 29963463,
+    "depot": {
+        "439881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "73968378699933564",
+                    "size": "86443518",
+                    "download": "49260256"
+                }
+            },
+            "decryptionkey": "00eeb1c2aaa7e2204fbbadf35d94d8e5e9d00199576dcbf4096d6c8161e9e856"
+        },
+        "439882": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2830803874008453887",
+                    "size": "91786623",
+                    "download": "49979312"
+                }
+            }
+        },
+        "439883": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4648860596587964258",
+                    "size": "98042566",
+                    "download": "51610112"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19156739",
+                "timeupdated": "1752045047"
+            }
+        }
+    }
+}
