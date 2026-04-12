@@ -1,0 +1,43 @@
+{
+    "appid": 2319640,
+    "name": "Rise of Gun",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:03:09",
+    "change_number": 29728713,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2319641": {
+            "manifests": {
+                "public": {
+                    "gid": "6991959620934077724",
+                    "size": "1807888982",
+                    "download": "1691644672"
+                }
+            },
+            "decryptionkey": "5eb85c0962ac3f649278e521f950f6e9ee518ed8faa03466316904e84f6018e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18692997",
+                "timeupdated": "1748791998"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
