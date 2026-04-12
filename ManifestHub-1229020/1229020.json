@@ -1,0 +1,67 @@
+{
+    "appid": 1229020,
+    "name": "Kona II: Brume",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 16:36:11",
+    "change_number": 30113943,
+    "depot": {
+        "baselanguages": "english",
+        "1229021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "831109155277996078",
+                    "size": "31007444320",
+                    "download": "13222740448"
+                }
+            },
+            "decryptionkey": "a9a30b5ec87ce301eae5c1da407c049ea4ae000842936b6dfbc713b88ab123f0"
+        },
+        "1229022": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1889886378305728664",
+                    "size": "30475475768",
+                    "download": "12757290016"
+                }
+            },
+            "decryptionkey": "3091d44f1c8273f0566ecd8953e5b4b6d57b9867a7b84f6003b00944ce1ec5e7"
+        },
+        "1229023": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2392498295551839140",
+                    "size": "30479982796",
+                    "download": "12762091984"
+                }
+            },
+            "decryptionkey": "df779dc6a16e0298c8fa7b90388d7d821c6b3f642c2979e05e6e318438491b10"
+        },
+        "1229024": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "13546007",
+                "timeupdated": "1708708640"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
