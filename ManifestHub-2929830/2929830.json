@@ -1,0 +1,32 @@
+{
+    "appid": "2929830",
+    "type": "Game",
+    "name": "Megan's Adventure",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29001821",
+    "update_time": "2025-05-15 20:15:42",
+    "depot": {
+        "baselanguages": "english",
+        "2929831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7741870927608410796",
+                    "size": "157559302",
+                    "download": "123488432"
+                }
+            },
+            "decryptionkey": "f1aef5c784eeeafd0e129aa094ab3a0eb64d195d700fedc266b976dc3703a5b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18469555",
+                "timeupdated": "1747276699"
+            }
+        }
+    }
+}
