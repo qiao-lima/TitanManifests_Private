@@ -1,0 +1,30 @@
+{
+    "appid": 1156510,
+    "name": "Peachleaf Pirates",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 04:36:54",
+    "change_number": 29557155,
+    "depot": {
+        "1156511": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8142669352497633795",
+                    "size": "360191179",
+                    "download": "236627872"
+                }
+            },
+            "decryptionkey": "4d583dd3d1d401f599d9b4e71c9bb62a2adaa80f8db76e583fa65b12f9dfae2a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8342438",
+                "timeupdated": "1646854935"
+            }
+        }
+    }
+}
