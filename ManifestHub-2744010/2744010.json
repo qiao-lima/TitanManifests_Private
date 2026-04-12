@@ -1,0 +1,29 @@
+{
+    "appid": 2744010,
+    "name": "Urban Jungle",
+    "type": "Game",
+    "schinese_name": "我的小绿屋",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 04:35:00",
+    "change_number": 30002667,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2744011": {
+            "manifests": {
+                "public": {
+                    "gid": "8808889822504769806",
+                    "size": "3104067992",
+                    "download": "428062736"
+                }
+            },
+            "decryptionkey": "e9485680f74b921003e502e7360fe17360400e4c16d3e0c5c0d93be67dbd83d2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19010946",
+                "timeupdated": "1751035010"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
