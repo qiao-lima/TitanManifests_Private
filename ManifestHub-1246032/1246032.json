@@ -1,0 +1,32 @@
+{
+    "appid": 1246032,
+    "name": "Graviteam Tactics: Edge of Storm",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:51:25",
+    "change_number": 26997904,
+    "depot": {
+        "1246032": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1246032",
+            "manifests": {
+                "public": {
+                    "gid": "2322404740419600202",
+                    "size": "1077623398",
+                    "download": "1082422944"
+                }
+            },
+            "decryptionkey": "5d4c9c3755f81062522a97cf2d906a7399668cbdcfae75905cf7abe4d5ceb66d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12338116",
+                "timeupdated": "1696399813"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
