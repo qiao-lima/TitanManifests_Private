@@ -1,0 +1,28 @@
+{
+    "appid": "588100",
+    "type": "Game",
+    "name": "Blood Harvest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24109005",
+    "update_time": "2024-08-14 19:21:46",
+    "depot": {
+        "588101": {
+            "manifests": {
+                "public": {
+                    "gid": "4498374532019984369",
+                    "size": "228142552",
+                    "download": "101625968"
+                }
+            },
+            "decryptionkey": "cfffa0f211972329020ddbc517504a5f566e96d78d17ea557f955e202d177318"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1611547",
+                "timeupdated": "1486321411"
+            }
+        }
+    },
+    "access_token": 17702378691298227966
+}
