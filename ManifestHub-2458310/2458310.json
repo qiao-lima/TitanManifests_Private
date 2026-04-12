@@ -1,0 +1,42 @@
+{
+    "appid": 2458310,
+    "name": "New Arc Line",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 13:06:40",
+    "change_number": 30166260,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2458311": {
+            "manifests": {
+                "public": {
+                    "gid": "7477698882765979106",
+                    "size": "17206575519",
+                    "download": "16303326848"
+                }
+            },
+            "decryptionkey": "740287d3e7e0577a8b76b098bece3977a4074bffde7a2e61fed1c5c561602f55"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19213316",
+                "timeupdated": "1752757114"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
