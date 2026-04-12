@@ -1,0 +1,42 @@
+{
+    "appid": 3285300,
+    "name": "Crowbar Climber",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:13:56",
+    "change_number": 30214882,
+    "depot": {
+        "3285301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8097976649073585138",
+                    "size": "1191246842",
+                    "download": "330139840"
+                },
+                "legacy": {
+                    "gid": "9056604185217212825",
+                    "size": "1126772786",
+                    "download": "263942912"
+                }
+            },
+            "decryptionkey": "d51efd89027b5fdeeef81d6aa001a03a29760b9ce9d36874ea7c13336463e629"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19263874",
+                "timeupdated": "1752804092"
+            },
+            "legacy": {
+                "buildid": "18641007",
+                "description": "For longtime players and speedrunners",
+                "timeupdated": "1750827945"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
