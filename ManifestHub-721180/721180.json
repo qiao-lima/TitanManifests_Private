@@ -1,0 +1,45 @@
+{
+    "appid": 721180,
+    "name": "Dustborn",
+    "type": "Game",
+    "schinese_name": "尘路之旅",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 13:18:23",
+    "change_number": 30154234,
+    "depot": {
+        "721181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6893702902958007394",
+                    "size": "27001171515",
+                    "download": "10974614128"
+                }
+            },
+            "decryptionkey": "23ceb1d86e5aca23fa961043b1f7c8453a6a0fbaea2d7e6731503dd5714ae14d"
+        },
+        "721182": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1176017941844041282",
+                    "size": "27156573062",
+                    "download": "11010319472"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19134004",
+                "timeupdated": "1751903404"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
