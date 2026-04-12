@@ -1,0 +1,28 @@
+{
+    "appid": 3043540,
+    "name": "Mazzle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 23:12:07",
+    "change_number": 30031212,
+    "depot": {
+        "3043541": {
+            "manifests": {
+                "public": {
+                    "gid": "109755577863409466",
+                    "size": "764555318",
+                    "download": "763585408"
+                }
+            },
+            "decryptionkey": "4155068577743e8384233f85dbf789457a578b7e91f6d4c3ac043a6f4a2d8e97"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "15030896",
+                "timeupdated": "1720995456"
+            }
+        }
+    }
+}
