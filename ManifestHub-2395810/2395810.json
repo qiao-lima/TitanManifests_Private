@@ -1,0 +1,29 @@
+{
+    "appid": 2395810,
+    "name": "富豪派对",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 15:22:48",
+    "change_number": 29278117,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2395811": {
+            "manifests": {
+                "public": {
+                    "gid": "5667844751641525242",
+                    "size": "4510625613",
+                    "download": "996688736"
+                }
+            },
+            "decryptionkey": "83805e631dc6dc733f28e7100d07119e80bc3dc81b34a4f04146ea7f2c080384"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16233371",
+                "timeupdated": "1748589762"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
