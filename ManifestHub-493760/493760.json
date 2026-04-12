@@ -1,0 +1,95 @@
+{
+    "appid": "493760",
+    "type": "Game",
+    "name": "Fairyland: Incursion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:12:08",
+    "depot": {
+        "baselanguages": "",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "493761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5794455153760914958",
+                    "size": "186947925",
+                    "download": "110339456"
+                }
+            },
+            "decryptionkey": "aefe1176ebfb3319ffa2d1433c49c64e6b2b3965bc1ff7d5637785432018485b"
+        },
+        "493762": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "712788811992304432",
+                    "size": "230685527",
+                    "download": "114091536"
+                }
+            },
+            "decryptionkey": "20be393e502c025de9ad37dafed0bd05f88221e6828306ad909bfbbdd3350f98"
+        },
+        "493763": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7302070469546288608",
+                    "size": "222199025",
+                    "download": "113690544"
+                }
+            },
+            "decryptionkey": "bad34248c3a325f010f0bb487df28edea55350d0a5b005c3277991a575c759bf"
+        },
+        "493764": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8391498111232145229",
+                    "size": "481460356",
+                    "download": "184081168"
+                }
+            },
+            "decryptionkey": "4d3659e3073ec9b624f608a84d43f6c675f5e8312c0b605643dad733eb381cf4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2006861",
+                "timeupdated": "1501695911"
+            }
+        }
+    },
+    "access_token": 966788272114167957
+}
