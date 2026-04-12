@@ -1,0 +1,109 @@
+{
+    "appid": 1674830,
+    "name": "Victory At Sea Atlantic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 09:59:15",
+    "change_number": 30163503,
+    "depot": {
+        "workshopdepot": "1674830",
+        "1674831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5380326686995965909",
+                    "size": "19533827265",
+                    "download": "11760383104"
+                },
+                "firstlook": {
+                    "gid": "5380326686995965909",
+                    "size": "19533827265",
+                    "download": "11760383104"
+                }
+            },
+            "decryptionkey": "9b5fcc1db7c8baf4fea68fde86c9cc64170df6287337a5e23290dad5afccb213"
+        },
+        "1674832": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1072295006425733734",
+                    "size": "19534031028",
+                    "download": "11766552400"
+                },
+                "firstlook": {
+                    "gid": "1072295006425733734",
+                    "size": "19534031028",
+                    "download": "11766552400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3781210": {
+            "dlcappid": "3781210",
+            "manifests": {
+                "public": {
+                    "gid": "4724079504341275203",
+                    "size": "1563797302",
+                    "download": "1339903312"
+                },
+                "firstlook": {
+                    "gid": "4724079504341275203",
+                    "size": "1563797302",
+                    "download": "1339903312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3781220": {
+            "dlcappid": "3781220",
+            "manifests": {
+                "public": {
+                    "gid": "1895636992625967983",
+                    "size": "650053827",
+                    "download": "555165264"
+                },
+                "firstlook": {
+                    "gid": "1895636992625967983",
+                    "size": "650053827",
+                    "download": "555165264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3781200": {
+            "dlcappid": "3781200",
+            "manifests": {
+                "public": {
+                    "gid": "3930807030622333997",
+                    "size": "1106596431",
+                    "download": "942741792"
+                },
+                "firstlook": {
+                    "gid": "3930807030622333997",
+                    "size": "1106596431",
+                    "download": "942741792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19297554",
+                "timeupdated": "1753088319"
+            },
+            "firstlook": {
+                "buildid": "19297554",
+                "description": "Public preview build",
+                "timeupdated": "1753088333"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "cebc144e8329e01bcdfed50bab13843ca40b875cd21a5e0c1174d06624b42058"
+    }
+}
