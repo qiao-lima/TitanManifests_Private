@@ -1,0 +1,181 @@
+{
+    "appid": 1184770,
+    "name": "The Political Process",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 19:23:06",
+    "change_number": 30137239,
+    "depot": {
+        "1184771": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2232540559173077115",
+                    "size": "552131183",
+                    "download": "143616544"
+                },
+                "v0159": {
+                    "gid": "6458008203411045246",
+                    "size": "291635952",
+                    "download": "79986016"
+                },
+                "v016beta": {
+                    "gid": "3545527394198848614",
+                    "size": "297326395",
+                    "download": "81020176"
+                },
+                "v0175": {
+                    "gid": "5851048905206785178",
+                    "size": "297337339",
+                    "download": "81032992"
+                },
+                "v0228": {
+                    "gid": "8500663483068922810",
+                    "size": "309228518",
+                    "download": "83015264"
+                },
+                "v0239": {
+                    "gid": "7995695752240781315",
+                    "size": "311662932",
+                    "download": "83495616"
+                },
+                "v024beta": {
+                    "gid": "75826133612484929",
+                    "size": "313792220",
+                    "download": "83916912"
+                },
+                "v0253": {
+                    "gid": "1323037426341367268",
+                    "size": "317022905",
+                    "download": "84397040"
+                },
+                "experimental": {
+                    "gid": "2232540559173077115",
+                    "size": "552131183",
+                    "download": "143616544"
+                },
+                "oldframe": {
+                    "gid": "5367876991540264967",
+                    "size": "327246964",
+                    "download": "86078912"
+                },
+                "v0268": {
+                    "gid": "3812097766276715358",
+                    "size": "321393548",
+                    "download": "85219088"
+                },
+                "v030beta": {
+                    "gid": "8330095745376804943",
+                    "size": "327163188",
+                    "download": "86069952"
+                },
+                "v031": {
+                    "gid": "5367876991540264967",
+                    "size": "327246964",
+                    "download": "86078912"
+                },
+                "v0318exp": {
+                    "gid": "3898811749540132113",
+                    "size": "555078805",
+                    "download": "144174176"
+                },
+                "v0318old": {
+                    "gid": "6790375449161999851",
+                    "size": "330285823",
+                    "download": "86637104"
+                },
+                "v031beta": {
+                    "gid": "733286331113059289",
+                    "size": "555935806",
+                    "download": "147895248"
+                }
+            },
+            "decryptionkey": "0e04445810a9e2966305c43ec0a2c8c692ccdf5456ba0935bcae277bf4c2eadf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18704522",
+                "timeupdated": "1748972271"
+            },
+            "v0159": {
+                "buildid": "5949867",
+                "description": "Play version 0.159, using the old election mechanics.",
+                "timeupdated": "1622478714"
+            },
+            "v016beta": {
+                "buildid": "6777523",
+                "description": "version0.16",
+                "timeupdated": "1622227503"
+            },
+            "v0175": {
+                "buildid": "6866519",
+                "description": "Player version 0.175",
+                "timeupdated": "1640021465"
+            },
+            "v0228": {
+                "buildid": "9003387",
+                "description": "Version 0.228",
+                "timeupdated": "1665075444"
+            },
+            "v0239": {
+                "buildid": "9839887",
+                "description": "Version 0.239, pre-redistricting",
+                "timeupdated": "1680541476"
+            },
+            "v024beta": {
+                "buildid": "10905809",
+                "description": "Beta Version 0.24",
+                "timeupdated": "1680298586"
+            },
+            "v0253": {
+                "buildid": "12106590",
+                "description": "Version 0.253, 2019 Start Year",
+                "timeupdated": "1707943479"
+            },
+            "experimental": {
+                "buildid": "18704522",
+                "description": "Experimental",
+                "timeupdated": "1748879885"
+            },
+            "oldframe": {
+                "buildid": "16225264",
+                "description": "Old Framework (Updated)",
+                "timeupdated": "1749135933"
+            },
+            "v0268": {
+                "buildid": "13511600",
+                "description": "Version 0.268, using old legislative mechanism",
+                "timeupdated": "1726522220"
+            },
+            "v030beta": {
+                "buildid": "15694854",
+                "description": "Beta Version 0.30",
+                "timeupdated": "1726253353"
+            },
+            "v031": {
+                "buildid": "16225264",
+                "description": "Version 0.31 (Old Framework)",
+                "timeupdated": "1748972148"
+            },
+            "v0318exp": {
+                "buildid": "18707254",
+                "description": "Beta Version 0.318 (Updated Framework)",
+                "timeupdated": "1748892914"
+            },
+            "v0318old": {
+                "buildid": "18268093",
+                "description": "Beta Version 0.318 (Old Framework)",
+                "timeupdated": "1749135739"
+            },
+            "v031beta": {
+                "buildid": "19278773",
+                "description": "Beta Version 0.31 (Judicial)",
+                "timeupdated": "1752862979"
+            }
+        }
+    }
+}
