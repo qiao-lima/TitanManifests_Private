@@ -1,0 +1,29 @@
+{
+    "appid": 40930,
+    "name": "The Misadventures of P.B. Winterbottom",
+    "type": "Game",
+    "schinese_name": "温特伯顿先生的不幸旅程",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 05:14:39",
+    "change_number": 29577515,
+    "depot": {
+        "40931": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3485733852115078577",
+                    "size": "481988096",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "48ef4067726b0e8eac1118b49c546faadaa58b27eaa230eae3c8a8391b60aafd"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,french,german,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "21236"
+            }
+        }
+    }
+}
