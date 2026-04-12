@@ -1,0 +1,64 @@
+{
+    "appid": 963930,
+    "name": "Contractors VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 02:12:52",
+    "change_number": 30059063,
+    "depot": {
+        "baselanguages": "english,koreana,schinese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "963931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7090657965410977543",
+                    "size": "25624517430",
+                    "download": "24975714560"
+                }
+            },
+            "decryptionkey": "56ed9d9993a9933e6d73d826229cedacfec70f8d02ae1989205a2781b710d774"
+        },
+        "963932": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "963933": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "963934": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18655701",
+                "timeupdated": "1748512861"
+            }
+        }
+    }
+}
