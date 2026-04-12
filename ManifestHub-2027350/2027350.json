@@ -1,0 +1,27 @@
+{
+    "appid": 2027350,
+    "name": "Wanderer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 07:16:56",
+    "change_number": 29172050,
+    "depot": {
+        "2027351": {
+            "manifests": {
+                "public": {
+                    "gid": "60352930778978233",
+                    "size": "7519491",
+                    "download": "3141104"
+                }
+            },
+            "decryptionkey": "36e106431a4e8f4197d4ca6738ea828ded991ce2346d0970a01898ad00b811ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8889629",
+                "timeupdated": "1654625213"
+            }
+        }
+    }
+}
