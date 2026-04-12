@@ -1,0 +1,116 @@
+{
+    "appid": 3093190,
+    "name": "Exfil Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:37:35",
+    "change_number": 30212673,
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "3093191": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "932423421559481105",
+                    "size": "1948664089",
+                    "download": "1583608608"
+                },
+                "demo": {
+                    "gid": "3376521652523239184",
+                    "size": "1944399053",
+                    "download": "1583919856"
+                },
+                "public-testing": {
+                    "gid": "1998689569918858480",
+                    "size": "2678314239",
+                    "download": "2302768960"
+                }
+            }
+        },
+        "3093192": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2487514915035927598",
+                    "size": "1888163953",
+                    "download": "1618440832"
+                },
+                "demo": {
+                    "gid": "121575530044856065",
+                    "size": "1886986599",
+                    "download": "1618912320"
+                },
+                "public-testing": {
+                    "gid": "5463635379057065049",
+                    "size": "2624344787",
+                    "download": "2337502176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18933578",
+                "timeupdated": "1750382195"
+            },
+            "demo": {
+                "buildid": "18689520",
+                "description": "Demo build",
+                "timeupdated": "1748743036"
+            },
+            "public-testing": {
+                "buildid": "19210126",
+                "description": "Public access to the latest changes for dedicated servers",
+                "timeupdated": "1752452328"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
