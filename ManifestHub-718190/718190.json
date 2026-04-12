@@ -1,0 +1,31 @@
+{
+    "appid": 718190,
+    "name": "Koboo: The Tree Spirit",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 17:28:10",
+    "change_number": 29386781,
+    "depot": {
+        "718191": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "603869004345783229",
+                    "size": "897063640",
+                    "download": "695360288"
+                }
+            },
+            "decryptionkey": "1a339d436e94b815aef86c90839cb79ee9e2d3db01f6b3472d231a9354507ef0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16556761",
+                "timeupdated": "1732734252"
+            }
+        }
+    }
+}
