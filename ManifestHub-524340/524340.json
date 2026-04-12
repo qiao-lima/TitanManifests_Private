@@ -1,0 +1,28 @@
+{
+    "appid": "524340",
+    "type": "Game",
+    "name": "HellAngel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26939203",
+    "update_time": "2025-01-10 18:16:39",
+    "depot": {
+        "524341": {
+            "manifests": {
+                "public": {
+                    "gid": "4434020313033578173",
+                    "size": "218221257",
+                    "download": "27793392"
+                }
+            },
+            "decryptionkey": "edd581099bfb5943b367add5bcfef001e9037f9e3ef19ff36f7651ba31fe9e8b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1337625",
+                "timeupdated": "1473952165"
+            }
+        }
+    },
+    "access_token": 17947988207645175562
+}
