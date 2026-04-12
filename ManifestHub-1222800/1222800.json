@@ -1,0 +1,52 @@
+{
+    "appid": 1222800,
+    "name": "VALKYRIE CONNECT",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 13:30:56",
+    "change_number": 30206241,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,thai",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1222801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4954504463554668132",
+                    "size": "150701004",
+                    "download": "73787968"
+                },
+                "local": {
+                    "gid": "1404288288436572148",
+                    "size": "153559806",
+                    "download": "73923824"
+                }
+            },
+            "decryptionkey": "82e189c56319a0dda3351c528691d402764c981e8247b2202bf24f6645ee43ca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19139999",
+                "timeupdated": "1752474900"
+            },
+            "local": {
+                "buildid": "19322499",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1753234082"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
