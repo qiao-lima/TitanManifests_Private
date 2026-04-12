@@ -1,0 +1,41 @@
+{
+    "appid": 3033160,
+    "name": "Hard Chip Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 23:38:07",
+    "change_number": 30175582,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3033161": {
+            "manifests": {
+                "public": {
+                    "gid": "5639106023555006185",
+                    "size": "2967985675",
+                    "download": "1314557344"
+                }
+            },
+            "decryptionkey": "f1da77088ca0b02443058d2b82d75205df40488735c28ff476ce6092f6f410b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19306880",
+                "timeupdated": "1753137481"
+            }
+        }
+    }
+}
