@@ -1,0 +1,28 @@
+{
+    "appid": 1962140,
+    "name": "海贼王街机Idle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:14:09",
+    "change_number": 27924129,
+    "depot": {
+        "1962141": {
+            "manifests": {
+                "public": {
+                    "gid": "4793589044488999248",
+                    "size": "288019799",
+                    "download": "87906800"
+                }
+            },
+            "decryptionkey": "b8f9ee47752529fb59dd58af99ab3cac7d0a7b3ce91221a750e5493210588055"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "8957190",
+                "timeupdated": "1655472477"
+            }
+        }
+    }
+}
