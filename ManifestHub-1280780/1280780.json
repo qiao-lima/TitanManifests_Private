@@ -1,0 +1,44 @@
+{
+    "appid": 1280780,
+    "name": "War on the Sea",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 05:09:38",
+    "change_number": 29890717,
+    "depot": {
+        "1280781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6102303757328066386",
+                    "size": "4492926821",
+                    "download": "2005860464"
+                }
+            },
+            "decryptionkey": "1d1f1657a18f8451651712f511316d887e81004e3b0e189e6ac7da28c59a93aa"
+        },
+        "1280782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5817647818524856596",
+                    "size": "4504767806",
+                    "download": "2009854288"
+                }
+            },
+            "decryptionkey": "3a60eab177178a206ca5ac350ecfa4ce5feffc7c4ebdc878bc5088fac4b5c586"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13554989",
+                "timeupdated": "1708982908"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
