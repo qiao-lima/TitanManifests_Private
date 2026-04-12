@@ -1,0 +1,29 @@
+{
+    "appid": 1871960,
+    "name": "Chill Corner - Mood & Vibes (Vol 1)",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:26:39",
+    "change_number": 29721243,
+    "depot": {
+        "1871960": {
+            "manifests": {
+                "public": {
+                    "gid": "842452963278470532",
+                    "size": "1138537009",
+                    "download": "782994480"
+                }
+            },
+            "dlcappid": "1871960",
+            "decryptionkey": "93fb58964a84c31a721bbb52a9af08b4bc39fd35e0f6f2bb51700e7b1bbec298"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18979242",
+                "timeupdated": "1750762476"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
