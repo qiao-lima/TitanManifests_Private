@@ -1,0 +1,27 @@
+{
+    "appid": 1636360,
+    "name": "DRUM'N'BASS MASSACRE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 15:53:05",
+    "change_number": 29844625,
+    "depot": {
+        "1636361": {
+            "manifests": {
+                "public": {
+                    "gid": "3261619951558726513",
+                    "size": "216467941",
+                    "download": "86570160"
+                }
+            },
+            "decryptionkey": "72675426a5223dcee6d042fbfccb2ec4ea8190de4d7b34daafc3c1df43bd0ef7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6690341",
+                "timeupdated": "1620846744"
+            }
+        }
+    }
+}
