@@ -1,0 +1,29 @@
+{
+    "appid": 1875140,
+    "name": "黎明为歌 - Melody before the Dawn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 22:41:52",
+    "change_number": 30174969,
+    "depot": {
+        "1875141": {
+            "manifests": {
+                "public": {
+                    "gid": "3460515296808345354",
+                    "size": "416564010",
+                    "download": "258150064"
+                }
+            },
+            "decryptionkey": "ef7512c445e8793ff32f216254249aad6bfd53d625000d676aad97d80a20bf7c"
+        },
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "11121154",
+                "timeupdated": "1682757054"
+            }
+        }
+    }
+}
