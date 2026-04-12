@@ -1,0 +1,27 @@
+{
+    "appid": 2593820,
+    "name": "dotAGE OST",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 06:36:27",
+    "change_number": 29222913,
+    "depot": {
+        "2593821": {
+            "manifests": {
+                "public": {
+                    "gid": "416740276439563435",
+                    "size": "50319136",
+                    "download": "50397904"
+                }
+            },
+            "decryptionkey": "4f73c36339a53e7d2390dc9f0f67d755dd162dff5f76dc9da5eddc1757903ac6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18206566",
+                "timeupdated": "1745405864"
+            }
+        }
+    }
+}
