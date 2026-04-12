@@ -1,0 +1,39 @@
+{
+    "appid": 1754860,
+    "name": "Inside Jennifer - Season 1",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 05:36:32",
+    "change_number": 30124437,
+    "depot": {
+        "1754861": {
+            "manifests": {
+                "public": {
+                    "gid": "5381603593009604354",
+                    "size": "4548802539",
+                    "download": "4124540928"
+                }
+            },
+            "decryptionkey": "a3af54ca0ddcae3460f0b6e9001b734519f2bb467862e29551b0061ee5f1afed"
+        },
+        "2177600": {
+            "dlcappid": "2177600",
+            "manifests": {
+                "public": {
+                    "gid": "8591620831000102541",
+                    "size": "375957127",
+                    "download": "379185984"
+                }
+            },
+            "decryptionkey": "824f8f6a59ac2118d60466080fc8c5cc6736fe256d348fd9ab6fadf3c33852c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19188624",
+                "timeupdated": "1752226642"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
