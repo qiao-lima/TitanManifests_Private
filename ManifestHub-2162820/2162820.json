@@ -1,0 +1,28 @@
+{
+    "appid": 2162820,
+    "name": "蒐命のラスティル - とこしえの迷宮城 -",
+    "type": "Game",
+    "schinese_name": "战姬拉斯蒂尔 无限的迷宫城",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 02:08:22",
+    "change_number": 29870129,
+    "depot": {
+        "2162821": {
+            "manifests": {
+                "public": {
+                    "gid": "1982951844914397639",
+                    "size": "1621342358",
+                    "download": "1244905584"
+                }
+            },
+            "decryptionkey": "e11b8dde866fa18dd1ba6b5fa070ac5ae5f2863a788bf87318a0197533367e1b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18734781",
+                "timeupdated": "1749043509"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
