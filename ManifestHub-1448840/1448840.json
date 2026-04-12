@@ -1,0 +1,47 @@
+{
+    "appid": 1448840,
+    "name": "Very Very Valet",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 23:19:47",
+    "change_number": 30098754,
+    "depot": {
+        "1448841": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5632144354417559110",
+                    "size": "702057327",
+                    "download": "483309856"
+                }
+            },
+            "decryptionkey": "4c3c3f68416c5f427ddda5f0af4b2387fb4f5ce51acfc5db2b8667f743fd3066"
+        },
+        "1448842": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "511265409679326360",
+                    "size": "662361678",
+                    "download": "449785984"
+                }
+            },
+            "decryptionkey": "5a8c0eddf5bbfbe3bc0c94e91206afa9fbb2a39d6542afc1d16df0bb70ca5190"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9573293",
+                "timeupdated": "1663883608"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
