@@ -1,0 +1,99 @@
+{
+    "appid": 1953860,
+    "name": "Garden in!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 01:11:28",
+    "change_number": 29999533,
+    "depot": {
+        "baselanguages": "english,italian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1953861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4822032268969449239",
+                    "size": "784088769",
+                    "download": "553155584"
+                }
+            },
+            "decryptionkey": "3af2e5afee9282705d8cad47e771c61a4d47482a90fcca913065986165a014dc"
+        },
+        "1953862": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6400667077659317164",
+                    "size": "718587424",
+                    "download": "458140608"
+                }
+            },
+            "decryptionkey": "956100e7243be7d95fdda97208770db49e12306b51652fdd870872e5a6c563b8"
+        },
+        "1953863": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7230957589750211484",
+                    "size": "703231830",
+                    "download": "444038928"
+                }
+            },
+            "decryptionkey": "cbd3a1f05130c5d482223bf62503512791f8b7376221f6c9fc64be276a3a5bc6"
+        },
+        "1953864": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "308289412802942822",
+                    "size": "784106177",
+                    "download": "553231616"
+                }
+            },
+            "decryptionkey": "67747360f871ee2b397398c7e040964a46d29899c2ad34f8a8c08109964efdf7"
+        },
+        "2720930": {
+            "dlcappid": "2720930",
+            "manifests": {
+                "public": {
+                    "gid": "1659366300751113642",
+                    "size": "571867895",
+                    "download": "577757872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17972473",
+                "timeupdated": "1743694802"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
