@@ -1,0 +1,28 @@
+{
+    "appid": 3690470,
+    "name": "Super TSA",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:16:16",
+    "change_number": 29651312,
+    "depot": {
+        "3690471": {
+            "manifests": {
+                "public": {
+                    "gid": "3861166522680412100",
+                    "size": "823747954",
+                    "download": "112370592"
+                }
+            },
+            "decryptionkey": "9eb7d1a3218bc9a9de989b1e42e971f8950e3af6c7aa40b61719fbe6569e222b"
+        },
+        "baselanguages": "english,german,french,italian,spanish,portuguese,dutch",
+        "branches": {
+            "public": {
+                "buildid": "18615410",
+                "timeupdated": "1748288958"
+            }
+        }
+    }
+}
