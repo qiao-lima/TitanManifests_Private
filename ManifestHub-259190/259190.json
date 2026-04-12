@@ -1,0 +1,33 @@
+{
+    "appid": 259190,
+    "name": "Alone in the Dark: The New Nightmare",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 07:10:56",
+    "change_number": 29618129,
+    "depot": {
+        "overridescddb": "1",
+        "259191": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6102496235202809740",
+                    "size": "1533115592",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2e5aef10fe649f7ddeeabcc8dac60977bd4f8c43fd4b0bf88845418dbccb25d4"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "131770"
+            }
+        }
+    }
+}
