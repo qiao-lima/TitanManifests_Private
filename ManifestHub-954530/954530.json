@@ -1,0 +1,27 @@
+{
+    "appid": 954530,
+    "name": "The Momo Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 07:19:20",
+    "change_number": 29686359,
+    "depot": {
+        "954531": {
+            "manifests": {
+                "public": {
+                    "gid": "1661053492447842038",
+                    "size": "1722641091",
+                    "download": "779719008"
+                }
+            },
+            "decryptionkey": "cb4159882bb5fed5f16c521a36af58aecd661fd00ad0455dd161f827481adda5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3167994",
+                "timeupdated": "1538211861"
+            }
+        }
+    }
+}
