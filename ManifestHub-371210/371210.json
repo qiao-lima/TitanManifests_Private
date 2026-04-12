@@ -1,0 +1,32 @@
+{
+    "appid": 371210,
+    "name": "Gridberd",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 21:14:41",
+    "change_number": 29794190,
+    "depot": {
+        "371211": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2738724167673175153",
+                    "size": "4839875898",
+                    "download": "4371309696"
+                }
+            },
+            "decryptionkey": "6982844c6e5c66bce656c0ab96b9bc28de10c1e2fb87d053285ca2ad3f5c32ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "763167"
+            }
+        }
+    },
+    "access_token": 10137638175529114908
+}
