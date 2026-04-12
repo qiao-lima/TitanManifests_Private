@@ -1,0 +1,27 @@
+{
+    "appid": 1912420,
+    "name": "Sunshine Shuffle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 03:17:53",
+    "change_number": 29535322,
+    "depot": {
+        "1912421": {
+            "manifests": {
+                "public": {
+                    "gid": "2743942853976006432",
+                    "size": "639184993",
+                    "download": "215707552"
+                }
+            },
+            "decryptionkey": "54c4ee065f071c0f2aae221213a5e7457f12752e8978304e133da65ed5178dc9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11651767",
+                "timeupdated": "1688754289"
+            }
+        }
+    }
+}
