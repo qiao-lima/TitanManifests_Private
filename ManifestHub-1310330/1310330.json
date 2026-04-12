@@ -1,0 +1,31 @@
+{
+    "appid": 1310330,
+    "name": "Goodbye Volcano High",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:13:45",
+    "change_number": 30056490,
+    "depot": {
+        "1310331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4260918866694088767",
+                    "size": "5161821108",
+                    "download": "4133135216"
+                }
+            },
+            "decryptionkey": "b0ba59c0af44f1c125682594cfc5f8728e41bbe23303f2fdb94ddb5c0d7526b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13568848",
+                "timeupdated": "1709069158"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
