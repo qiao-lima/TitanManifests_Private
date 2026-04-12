@@ -1,0 +1,31 @@
+{
+    "appid": 956869,
+    "name": "Xingcai - Officer Ticket / 星彩使用券",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:24",
+    "change_number": 26201212,
+    "depot": {
+        "956869": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "254031401953127798",
+                    "size": "4",
+                    "download": "48"
+                }
+            },
+            "dlcappid": "956869",
+            "decryptionkey": "8b910d757ec6004ae628f589d8ca29cb99699256994e834b20e47e60a0307f33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3216536",
+                "timeupdated": "1539677672"
+            }
+        }
+    }
+}
