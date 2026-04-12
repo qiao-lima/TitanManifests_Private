@@ -1,0 +1,33 @@
+{
+    "appid": 2759240,
+    "name": "Rubber Hose Rampage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 16:13:58",
+    "change_number": 29744339,
+    "depot": {
+        "2759241": {
+            "manifests": {
+                "public": {
+                    "gid": "5629606363996439379",
+                    "size": "8529079560",
+                    "download": "6139025456"
+                }
+            },
+            "decryptionkey": "9b21261d7ce9efb626ab9e108f36e8bb14590da9787181049296ba4c419c57b6"
+        },
+        "2759242": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18951447",
+                "timeupdated": "1750530060"
+            }
+        }
+    }
+}
