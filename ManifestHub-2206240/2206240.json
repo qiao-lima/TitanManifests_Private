@@ -1,0 +1,28 @@
+{
+    "appid": 2206240,
+    "name": "Footgun: Underground",
+    "type": "Game",
+    "schinese_name": "踢踢地牢",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 09:52:06",
+    "change_number": 30163391,
+    "depot": {
+        "2206241": {
+            "manifests": {
+                "public": {
+                    "gid": "8322825131126208212",
+                    "size": "322441493",
+                    "download": "138531376"
+                }
+            },
+            "decryptionkey": "8a0bfbe6923d1f6ef8ab748c9bf22695e72ced838483ae9256a451d8a2b1781f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18873442",
+                "timeupdated": "1749993274"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
