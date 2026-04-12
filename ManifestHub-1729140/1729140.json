@@ -1,0 +1,30 @@
+{
+    "appid": 1729140,
+    "name": "Hired 2 Die",
+    "type": "Game",
+    "schinese_name": "Hired 2 Die 雇佣受死",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 19:54:09",
+    "change_number": 30192506,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "1729141": {
+            "manifests": {
+                "public": {
+                    "gid": "6994769078046459448",
+                    "size": "2988526849",
+                    "download": "1658055072"
+                }
+            },
+            "decryptionkey": "da5a3e6bbc24688b7eae2f57170eab07c66edcdf9ebf81b9bada505b0d0a2462"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19013961",
+                "timeupdated": "1750956544"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
