@@ -1,0 +1,32 @@
+{
+    "appid": 767400,
+    "name": "弹炸人2222",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-26 16:42:38",
+    "change_number": 29187379,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
+        "767401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2096305038911026652",
+                    "size": "237648104",
+                    "download": "94304560"
+                }
+            },
+            "decryptionkey": "9f0f5e3d7003e71addb6207c906fd1a397804fa1cb7ed8f6a28886f0cb463830"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18607852",
+                "timeupdated": "1748248951"
+            }
+        }
+    }
+}
