@@ -1,0 +1,33 @@
+{
+    "appid": "503430",
+    "type": "Game",
+    "name": "N0-EXIT",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:13:00",
+    "depot": {
+        "baselanguages": "english",
+        "503431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8749026260862449350",
+                    "size": "83403279",
+                    "download": "78171568"
+                }
+            },
+            "decryptionkey": "f36b4254818c96fec82795024e093484674f286c33ad9379b8fa21010ea1be6b"
+        },
+        "503432": {},
+        "branches": {
+            "public": {
+                "buildid": "1724009",
+                "timeupdated": "1490837386"
+            }
+        }
+    },
+    "access_token": 9673076965062088295
+}
