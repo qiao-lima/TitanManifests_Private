@@ -1,0 +1,65 @@
+{
+    "appid": 1423330,
+    "name": "Ancient Warfare: The Han Dynasty",
+    "type": "Game",
+    "schinese_name": "横戈",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 08:55:06",
+    "change_number": 29916704,
+    "depot": {
+        "1423331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1537815731707068227",
+                    "size": "22719416377",
+                    "download": "10309411664"
+                },
+                "legacy_version": {
+                    "gid": "3129377948637109937",
+                    "size": "19806738551",
+                    "download": "9417960080"
+                },
+                "preview_version": {
+                    "gid": "1537815731707068227",
+                    "size": "22719416377",
+                    "download": "10309411664"
+                },
+                "test_version": {
+                    "gid": "3129377948637109937",
+                    "size": "19806738551",
+                    "download": "9417960080"
+                }
+            },
+            "decryptionkey": "c2565fa044de5c05db05ddfa74f0fbb39e900c8442af4f9bbd73934970085539"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "workshopdepot": "1423330",
+        "branches": {
+            "public": {
+                "buildid": "18948713",
+                "timeupdated": "1751788500"
+            },
+            "legacy_version": {
+                "sc_schinese": "西域版",
+                "buildid": "14807105",
+                "description": "西域版",
+                "timeupdated": "1722090201"
+            },
+            "preview_version": {
+                "buildid": "18948713",
+                "description": "先锋版",
+                "timeupdated": "1750759766"
+            },
+            "test_version": {
+                "buildid": "14807105",
+                "description": "测试版：仅限测试用",
+                "timeupdated": "1719661980"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e23bf1fbb6359e878adb1d109c44ae3a2c9a3b9a67c1dc96337c91ee96377127"
+    }
+}
