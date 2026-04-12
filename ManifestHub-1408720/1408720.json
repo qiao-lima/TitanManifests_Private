@@ -1,0 +1,66 @@
+{
+    "appid": 1408720,
+    "name": "Krunker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:10:24",
+    "change_number": 30216272,
+    "depot": {
+        "1408721": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6001700779519918002",
+                    "size": "213096527",
+                    "download": "77792864"
+                }
+            },
+            "decryptionkey": "7defe92e4d68e6c93e16b0d3d75569daf223dcf177b365d280d6e0b7e22a1e7a"
+        },
+        "1408722": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7536982723455925797",
+                    "size": "192995839",
+                    "download": "75790080"
+                }
+            },
+            "decryptionkey": "3c6ee69c5a3e6a2a645e743d2b1683cb5b14fdd514a3b5c36c0338303e303e40"
+        },
+        "1408723": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "133080926253379761",
+                    "size": "203883449",
+                    "download": "75277440"
+                }
+            },
+            "decryptionkey": "c0b4c3aa13a814652e56d07e10f0d041e3641bf72e5f43ee5655ef9a6318fa47"
+        },
+        "1408724": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18938616",
+                "timeupdated": "1750416545"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
