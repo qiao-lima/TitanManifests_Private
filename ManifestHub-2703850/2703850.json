@@ -1,0 +1,46 @@
+{
+    "appid": 2703850,
+    "name": "Rooftops & Alleys: The Parkour Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 11:53:09",
+    "change_number": 30165187,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2703851": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6619441392773904642",
+                    "size": "1601383289",
+                    "download": "1278542096"
+                }
+            },
+            "decryptionkey": "e64721646710451cc632805df1472e27540a29c83d26bb7a225f91eb38d8e828"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19009930",
+                "timeupdated": "1751035911"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
