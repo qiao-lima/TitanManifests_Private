@@ -1,0 +1,70 @@
+{
+    "appid": 3123830,
+    "name": "诡墓",
+    "type": "Game",
+    "schinese_name": "诡墓",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 00:52:02",
+    "change_number": 29869389,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3123831": {
+            "manifests": {
+                "public": {
+                    "gid": "2498514419991731621",
+                    "size": "9672972710",
+                    "download": "8842755136"
+                }
+            },
+            "decryptionkey": "c025b0a3591221547af38bfa2f4e058c8b0691499d23e40548db676290c78f96"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18711907",
+                "timeupdated": "1748922254"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
