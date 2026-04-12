@@ -1,0 +1,49 @@
+{
+    "appid": 1332840,
+    "name": "Rise & Fall",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 03:44:13",
+    "change_number": 29244713,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1332841": {
+            "manifests": {
+                "public": {
+                    "gid": "4050875373778737741",
+                    "size": "3721270081",
+                    "download": "1149871616"
+                },
+                "legacy_2023": {
+                    "gid": "8797403940971908661",
+                    "size": "3147142606",
+                    "download": "976593872"
+                },
+                "test": {
+                    "gid": "809270525894012402",
+                    "size": "3545398320",
+                    "download": "1051919888"
+                }
+            },
+            "decryptionkey": "5f4690389fa916acb92de0877f0c35e301939819319c5d854a40571094f460ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18647491",
+                "timeupdated": "1748461448"
+            },
+            "legacy_2023": {
+                "buildid": "11041057",
+                "description": "Legacy (2023 Build)",
+                "timeupdated": "1741299802"
+            },
+            "test": {
+                "buildid": "17641178",
+                "description": "Test Branch",
+                "timeupdated": "1741382077"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
