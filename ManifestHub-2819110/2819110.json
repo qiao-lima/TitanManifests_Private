@@ -1,0 +1,27 @@
+{
+    "appid": 2819110,
+    "name": "The Chronicles of Lancelot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 03:52:45",
+    "change_number": 29853202,
+    "depot": {
+        "2819111": {
+            "manifests": {
+                "public": {
+                    "gid": "3320545793446439546",
+                    "size": "16400770561",
+                    "download": "6900318752"
+                }
+            },
+            "decryptionkey": "d4c4c228f5009e148df6852c15059b0bfba355fa435e57161eb46adba130a461"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19038728",
+                "timeupdated": "1751205232"
+            }
+        }
+    }
+}
