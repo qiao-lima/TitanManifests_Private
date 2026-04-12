@@ -1,0 +1,44 @@
+{
+    "appid": 1332420,
+    "name": "Wingspan Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 09:31:09",
+    "change_number": 29758581,
+    "depot": {
+        "1332421": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1971110661278008529",
+                    "size": "126510884",
+                    "download": "117105280"
+                }
+            },
+            "decryptionkey": "8753f2c35620c8b811315dfa7573fed19bc8f4a684e0a73b760ed3525d6d6fa3"
+        },
+        "1332422": {
+            "config": {
+                "highqualityaudio": "1",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "383027080380922336",
+                    "size": "1024692788",
+                    "download": "971842304"
+                }
+            },
+            "decryptionkey": "489d4d3c9bcefa769d23ceaaf0789de21f974b57fdf42726605b19cc8ed4a497"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19007639",
+                "timeupdated": "1750926662"
+            }
+        }
+    }
+}
