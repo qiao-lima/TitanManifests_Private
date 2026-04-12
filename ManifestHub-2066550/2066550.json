@@ -1,0 +1,53 @@
+{
+    "appid": 2066550,
+    "name": "ERROR143",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-14 12:12:19",
+    "change_number": 30047299,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2066551": {
+            "manifests": {
+                "public": {
+                    "gid": "139063396373057104",
+                    "size": "899977912",
+                    "download": "696226144"
+                }
+            },
+            "decryptionkey": "c57ffd2602bd94769b1df09ed4e7a52fd99c8372cdd79dae39d54fd9942bfe8c"
+        },
+        "2230570": {
+            "dlcappid": "2230570",
+            "manifests": {
+                "public": {
+                    "gid": "2307607700095346016",
+                    "size": "1756186",
+                    "download": "1022672"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2738730": {
+            "dlcappid": "2738730",
+            "manifests": {
+                "public": {
+                    "gid": "2998030911257407753",
+                    "size": "12937063",
+                    "download": "12492912"
+                }
+            },
+            "depotfromapp": "2738730",
+            "decryptionkey": "f3d8243cb5f09f12c0125799109318994141b66ba0e3cbd75e9a6f7f47b89465"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16281967",
+                "timeupdated": "1730675571"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
