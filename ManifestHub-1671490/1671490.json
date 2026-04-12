@@ -1,0 +1,45 @@
+{
+    "appid": 1671490,
+    "name": "Merchant in Dungeon",
+    "type": "Game",
+    "schinese_name": "迷宫贩~魔王城的开店还债之旅~",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 02:29:17",
+    "change_number": 29889128,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "1671491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4554027033616765889",
+                    "size": "1401665155",
+                    "download": "363848144"
+                }
+            },
+            "decryptionkey": "f734c8e1cb9b78fcb2cb06341981fc1083a2132138f55b5085b1437942ab6098"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19101489",
+                "timeupdated": "1751592539"
+            }
+        }
+    }
+}
