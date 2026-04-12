@@ -1,0 +1,28 @@
+{
+    "appid": 1604450,
+    "name": "AI Battle Royale Generator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-27 16:32:20",
+    "change_number": 29203828,
+    "depot": {
+        "1604451": {
+            "manifests": {
+                "public": {
+                    "gid": "528164520118481312",
+                    "size": "1071272738",
+                    "download": "133642064"
+                }
+            },
+            "decryptionkey": "e6ac139974a2b5387e469a3f851db380bd1b109f7d4f015fe6659ca8353f9e05"
+        },
+        "baselanguages": "english,french,spanish",
+        "branches": {
+            "public": {
+                "buildid": "18619183",
+                "timeupdated": "1748316647"
+            }
+        }
+    }
+}
