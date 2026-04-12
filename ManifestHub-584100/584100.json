@@ -1,0 +1,42 @@
+{
+    "appid": 584100,
+    "name": "Mad Digger",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 22:57:23",
+    "change_number": 29850276,
+    "depot": {
+        "baselanguages": "english,german,russian",
+        "584101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "474081220658080736",
+                    "size": "77135030",
+                    "download": "21234736"
+                }
+            },
+            "decryptionkey": "f26ceb8a742ed2debe332ceffe547a72dab5880d497c2d2ec59f653c30141859"
+        },
+        "946750": {
+            "manifests": {
+                "public": {
+                    "gid": "3868063303102086650",
+                    "size": "23422426",
+                    "download": "23252160"
+                }
+            },
+            "dlcappid": "946750",
+            "decryptionkey": "55d35a483cf1b09665d7ac7490720122294b065e1cfbd404588c3646a24051f1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11271573",
+                "timeupdated": "1684497811"
+            }
+        }
+    }
+}
