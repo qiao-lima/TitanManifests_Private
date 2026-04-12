@@ -1,0 +1,64 @@
+{
+    "appid": 1170950,
+    "name": "Mortal Online 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 12:52:31",
+    "change_number": 30205631,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1170951": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3663011776653392635",
+                    "size": "53727066285",
+                    "download": "44292976000"
+                },
+                "testpublic": {
+                    "gid": "5663170173701208994",
+                    "size": "53695290843",
+                    "download": "44262950192"
+                }
+            },
+            "decryptionkey": "94af5252c477a832d7d00b05f92b88eac984fbf4deae87b88b1852fa91f9719f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19327409",
+                "timeupdated": "1753268747"
+            },
+            "testpublic": {
+                "buildid": "19187703",
+                "description": "Mortal Online Public Test Realm",
+                "timeupdated": "1752238777"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
