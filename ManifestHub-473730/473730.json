@@ -1,0 +1,28 @@
+{
+    "appid": "473730",
+    "type": "Game",
+    "name": "Physic Monster",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:10:39",
+    "depot": {
+        "473731": {
+            "manifests": {
+                "public": {
+                    "gid": "6547685625218385903",
+                    "size": "145395218",
+                    "download": "54693712"
+                }
+            },
+            "decryptionkey": "1a4fff59f8c07b4b299864390448bed5039eca8b2fade4346e0a897cf2a23fe8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1128550",
+                "timeupdated": "1463314298"
+            }
+        }
+    },
+    "access_token": 14557696928411037760
+}
