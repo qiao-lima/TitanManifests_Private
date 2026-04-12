@@ -1,0 +1,28 @@
+{
+    "appid": 546980,
+    "name": "Midnight Carnival",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:47:18",
+    "change_number": 29770940,
+    "depot": {
+        "baselanguages": "english",
+        "546981": {
+            "manifests": {
+                "public": {
+                    "gid": "231993113806211723",
+                    "size": "124916590",
+                    "download": "77949296"
+                }
+            },
+            "decryptionkey": "31da42de6837bdd808b0b9485ea9bba524d6c2c47af12bfcd91fba7f3bc373ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1857764",
+                "timeupdated": "1496249082"
+            }
+        }
+    }
+}
