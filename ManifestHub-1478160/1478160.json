@@ -1,0 +1,72 @@
+{
+    "appid": 1478160,
+    "name": "咸鱼喵喵",
+    "type": "Game",
+    "schinese_name": "咸鱼喵喵",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 11:52:08",
+    "change_number": 30145440,
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "1",
+        "1478161": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6239979445219154872",
+                    "size": "710930142",
+                    "download": "413928880"
+                }
+            },
+            "decryptionkey": "0b31a1bb4d834f46c37bd1b54b48127e24153c121da8b990eed3d22bfe55c812"
+        },
+        "1478164": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5983915511794436454",
+                    "size": "710930142",
+                    "download": "413595776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1478163": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3304795690046511877",
+                    "size": "827724716",
+                    "download": "426309712"
+                }
+            },
+            "decryptionkey": "a9540f1c2d4cdcbe060c10053578556ee98482b8828c354a711a5b3d60fb0bb7"
+        },
+        "2495690": {
+            "dlcappid": "2495690",
+            "manifests": {
+                "public": {
+                    "gid": "8519005114582078722",
+                    "size": "157675505",
+                    "download": "157550496"
+                }
+            },
+            "decryptionkey": "d37c959d4f78ef15c8647f82355c8f8cd155500049e39df6a36963933d1d558b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19264936",
+                "timeupdated": "1752780878"
+            }
+        }
+    }
+}
