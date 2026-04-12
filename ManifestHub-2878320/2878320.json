@@ -1,0 +1,27 @@
+{
+    "appid": 2878320,
+    "name": "Hidden Castle Top-Down 3D",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:52",
+    "change_number": 29655654,
+    "depot": {
+        "2878321": {
+            "manifests": {
+                "public": {
+                    "gid": "6342402058371656578",
+                    "size": "564801257",
+                    "download": "87395648"
+                }
+            },
+            "decryptionkey": "732baa4561088655b6a9f86214420bac8cfdcad6b4b7a3993abb9f178f2129c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13886091",
+                "timeupdated": "1711652108"
+            }
+        }
+    }
+}
