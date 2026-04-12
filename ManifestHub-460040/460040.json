@@ -1,0 +1,164 @@
+{
+    "appid": 460040,
+    "name": "Empires Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:35:01",
+    "change_number": 30212673,
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "460044": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2316237869211694903",
+                    "size": "875335395",
+                    "download": "285898240"
+                },
+                "beta": {
+                    "gid": "5710025113707488730",
+                    "size": "875335388",
+                    "download": "285898176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "460045": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1142872284595181011",
+                    "size": "846096845",
+                    "download": "273202096"
+                },
+                "beta": {
+                    "gid": "1547938149128614963",
+                    "size": "846096838",
+                    "download": "273202032"
+                }
+            }
+        },
+        "460041": {
+            "manifests": {
+                "public": {
+                    "gid": "6688801237540343644",
+                    "size": "4810794285",
+                    "download": "1499872464"
+                },
+                "beta": {
+                    "gid": "8357193847398825874",
+                    "size": "4810794286",
+                    "download": "1499882080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "460043": {
+            "manifests": {
+                "public": {
+                    "gid": "9218890676133482858",
+                    "size": "126850",
+                    "download": "32576"
+                },
+                "beta": {
+                    "gid": "9218890676133482858",
+                    "size": "126850",
+                    "download": "32576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "460046": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4007536053785563393",
+                    "size": "14594363",
+                    "download": "3459328"
+                },
+                "beta": {
+                    "gid": "2205575332203015819",
+                    "size": "14603134",
+                    "download": "4366384"
+                }
+            }
+        },
+        "460042": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3384198502916287127",
+                    "size": "6239232",
+                    "download": "1885600"
+                },
+                "beta": {
+                    "gid": "2063801109181684116",
+                    "size": "6242304",
+                    "download": "2307952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19201952",
+                "timeupdated": "1752429628"
+            },
+            "beta": {
+                "buildid": "19294119",
+                "timeupdated": "1753054032"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
