@@ -1,0 +1,28 @@
+{
+    "appid": 73060,
+    "name": "Defenders of Ardania",
+    "type": "Game",
+    "schinese_name": "阿达尼亚的守护者",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:00:07",
+    "change_number": 29727018,
+    "depot": {
+        "73061": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8968836478834803217",
+                    "size": "2132436215",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2151496cc77074faff9c6ffd14d90370b2543e8b6acb7e63dd1aaacc4be794cc"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "11613"
+            }
+        }
+    }
+}
