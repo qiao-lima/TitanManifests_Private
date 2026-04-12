@@ -1,0 +1,35 @@
+{
+    "appid": 414530,
+    "name": "Skyforge",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 15:03:42",
+    "change_number": 29823890,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "414531": {
+            "manifests": {
+                "public": {
+                    "gid": "4415905085183256761",
+                    "size": "382858092",
+                    "download": "138919088"
+                }
+            },
+            "decryptionkey": "008780c4aa58b006857573dfded675a6d7d1b692962c51b883444b897b3afecb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18928550",
+                "timeupdated": "1750348938"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
