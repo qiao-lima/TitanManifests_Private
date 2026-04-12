@@ -1,0 +1,47 @@
+{
+    "appid": 720030,
+    "name": "Indecision.",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 15:49:44",
+    "change_number": 30168831,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "720031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2210289296699045930",
+                    "size": "175544285",
+                    "download": "67302080"
+                }
+            },
+            "decryptionkey": "b10a6e9d7964772cdea046bfa9eba8154dd12fc3de6f9287eb2f0a7135ae67e7"
+        },
+        "720032": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7659017912398684568",
+                    "size": "154400231",
+                    "download": "65085008"
+                }
+            },
+            "decryptionkey": "8d3597821866194af1883e59dd65c00fd6bf4c7a86a983381db1fe79b74c5a58"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3626046",
+                "timeupdated": "1551991735"
+            }
+        }
+    }
+}
