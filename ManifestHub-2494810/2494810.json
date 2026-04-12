@@ -1,0 +1,46 @@
+{
+    "appid": 2494810,
+    "name": "Dark Hunting Ground",
+    "type": "Game",
+    "schinese_name": "漆黑猎场",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 04:13:10",
+    "change_number": 30198515,
+    "depot": {
+        "baselanguages": "english,french,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "2494811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3525094267937083489",
+                    "size": "1819291444",
+                    "download": "173240496"
+                }
+            },
+            "decryptionkey": "c9271a6ce186c8fc02dead2d0dd037292ac29ec10f10246b1e617431d52e2537"
+        },
+        "2494812": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2212566102394314953",
+                    "size": "906808021",
+                    "download": "162624896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19156385",
+                "timeupdated": "1752042910"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
