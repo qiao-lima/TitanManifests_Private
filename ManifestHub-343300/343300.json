@@ -1,0 +1,30 @@
+{
+    "appid": 343300,
+    "name": "Camera Obscura Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 11:14:23",
+    "change_number": 29800928,
+    "depot": {
+        "343300": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1227879571359285173",
+                    "size": "139306415",
+                    "download": "138904704"
+                }
+            },
+            "decryptionkey": "8c37f7854949261586865d2c99466e6e9a764ab256ea8c06463624b5d9fe5e0b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4607005",
+                "timeupdated": "1579923782"
+            }
+        }
+    }
+}
