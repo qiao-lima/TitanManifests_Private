@@ -1,0 +1,32 @@
+{
+    "appid": "628840",
+    "type": "Game",
+    "name": "Fighter of Evil",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 19:27:40",
+    "depot": {
+        "baselanguages": "english",
+        "628841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4012139063403193572",
+                    "size": "44189184",
+                    "download": "44694432"
+                }
+            },
+            "decryptionkey": "b366b53c495f567d0b5f0c406054a533ee5d61bd019f5523a3c040335f1e6f3f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1799437",
+                "timeupdated": "1493898238"
+            }
+        }
+    },
+    "access_token": 17641909399134454267
+}
