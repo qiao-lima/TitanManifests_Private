@@ -1,0 +1,28 @@
+{
+    "appid": 243000,
+    "name": "Omikron - The Nomad Soul",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 03:12:26",
+    "change_number": 30218323,
+    "depot": {
+        "243001": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7487973811183327713",
+                    "size": "1747126913",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "dd27379942e3d5d04c8c1dd92a5670c463b61c1057dd74a9c741da402e373cb4"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "86286"
+            }
+        }
+    }
+}
