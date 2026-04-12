@@ -1,0 +1,28 @@
+{
+    "appid": 1493730,
+    "name": "Secret Summer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 21:39:59",
+    "change_number": 30118708,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1493731": {
+            "manifests": {
+                "public": {
+                    "gid": "7747324675245401626",
+                    "size": "1931816127",
+                    "download": "1812949088"
+                }
+            },
+            "decryptionkey": "5005cfb7d5a4b5d14f9ff896a67d8aa7ae3889bddc1053f7460f48e997ad6d9c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19265577",
+                "timeupdated": "1752784777"
+            }
+        }
+    }
+}
