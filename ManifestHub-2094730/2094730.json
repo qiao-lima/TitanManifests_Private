@@ -1,0 +1,56 @@
+{
+    "appid": 2094730,
+    "name": "Tux and Fanny",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 07:37:24",
+    "change_number": 29517596,
+    "depot": {
+        "2094731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4475292760620370250",
+                    "size": "686324739",
+                    "download": "377398928"
+                }
+            },
+            "decryptionkey": "96a49629890b8f453aefae78572708fbf4f3c6a33d563560fcf0537a593d3824"
+        },
+        "2094732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4156195299524756433",
+                    "size": "709208536",
+                    "download": "384861328"
+                }
+            },
+            "decryptionkey": "be99a49d92cc1e25f26e6744a24c0f2d47204a93ca453d041e68ce7f2b64a876"
+        },
+        "2094733": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2227445256293372133",
+                    "size": "759768004",
+                    "download": "409285168"
+                }
+            },
+            "decryptionkey": "ae6ed504da501741a9ffb37e981665d283e7a8b1e2479e09d44863976c25bece"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18832670",
+                "timeupdated": "1749685040"
+            }
+        }
+    }
+}
