@@ -1,0 +1,31 @@
+{
+    "appid": "395980",
+    "type": "Game",
+    "name": "Break Into Zatwor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 18:58:05",
+    "depot": {
+        "395981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7237681260251446114",
+                    "size": "225839512",
+                    "download": "72280480"
+                }
+            },
+            "decryptionkey": "1258fccaca166f36ecbab7d685d18692f966380b41cc396150f2553eb1073904"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1536136",
+                "timeupdated": "1482408838"
+            }
+        }
+    },
+    "access_token": 12455770183752247346
+}
