@@ -1,0 +1,75 @@
+{
+    "appid": 944920,
+    "name": "Nanotale - Typing Chronicles",
+    "type": "Game",
+    "schinese_name": "魔境奇缘：文字大冒险",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:32:19",
+    "change_number": 29669272,
+    "depot": {
+        "baselanguages": "english",
+        "944921": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8759251039758688289",
+                    "size": "5079666111",
+                    "download": "1315483024"
+                }
+            },
+            "decryptionkey": "7092cfc3cffaccfbb6449f93db4134530a9dcb13330e53b7a45c603b251421e6"
+        },
+        "944929": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2847325913333323034",
+                    "size": "668410047",
+                    "download": "151858304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "944922": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2203321614793434858",
+                    "size": "5340469972",
+                    "download": "1498965216"
+                }
+            },
+            "decryptionkey": "a435a3c96bd7522f70c8a83caf64a0e27505a5938df9f1f6b1a4b2faab5f9f30"
+        },
+        "944923": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8212787486756610927",
+                    "size": "5101528882",
+                    "download": "1300236832"
+                }
+            },
+            "decryptionkey": "901b40fa466d2b14907ebf3f8642fd0ba1ebd04db0d8493fe880c67f8b589e41"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10347354",
+                "timeupdated": "1675417708"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
