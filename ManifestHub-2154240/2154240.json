@@ -1,0 +1,59 @@
+{
+    "appid": 2154240,
+    "name": "Odinfall",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:57:41",
+    "change_number": 29565979,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2154241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4056494183489524456",
+                    "size": "803973354",
+                    "download": "658438672"
+                },
+                "experimental": {
+                    "gid": "4056494183489524456",
+                    "size": "803973354",
+                    "download": "658438672"
+                },
+                "local": {
+                    "gid": "4350863400907880150",
+                    "size": "737359987",
+                    "download": "616901056"
+                }
+            },
+            "decryptionkey": "2bdb2330782582bb0c9d3445a7c5d55115b4368433cdbeb303c095d56bfabb67"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18713997",
+                "timeupdated": "1749221618"
+            },
+            "experimental": {
+                "buildid": "18713997",
+                "description": "Public Experimental Branch",
+                "timeupdated": "1749221564"
+            },
+            "local": {
+                "buildid": "16404640",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1731580214"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
