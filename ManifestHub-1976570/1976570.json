@@ -1,0 +1,30 @@
+{
+    "appid": 1976570,
+    "name": "Swarm the City: Full Release Prologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 22:58:42",
+    "change_number": 29998209,
+    "depot": {
+        "1976571": {
+            "manifests": {
+                "public": {
+                    "gid": "2875558685610249052",
+                    "size": "2281727095",
+                    "download": "2074197872"
+                }
+            },
+            "decryptionkey": "123974e763e65c0850d10eaf2f3d1783b97bd832f09de52ec5d3370c5918af2a"
+        },
+        "workshopdepot": "1976570",
+        "branches": {
+            "public": {
+                "buildid": "8753067",
+                "timeupdated": "1652773773"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
