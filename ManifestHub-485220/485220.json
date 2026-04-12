@@ -1,0 +1,42 @@
+{
+    "appid": "485220",
+    "type": "Game",
+    "name": "The Orb Chambers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:11:13",
+    "depot": {
+        "baselanguages": "english,russian",
+        "485221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7971646626473930689",
+                    "size": "60293052",
+                    "download": "50537168"
+                },
+                "demo": {
+                    "gid": "3130518081625000386",
+                    "size": "60585140",
+                    "download": "50862848"
+                }
+            },
+            "decryptionkey": "6222405986634473eaa5d67ddeda4426d09302db71a66017c83cad5ad141248f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1187505",
+                "timeupdated": "1466290102"
+            },
+            "demo": {
+                "buildid": "1193921",
+                "description": "demo",
+                "timeupdated": "1466635325"
+            }
+        }
+    },
+    "access_token": 15878898028746384223
+}
