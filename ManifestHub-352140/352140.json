@@ -1,0 +1,142 @@
+{
+    "appid": "352140",
+    "type": "Game",
+    "name": "Finders",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28972338",
+    "update_time": "2025-05-14 10:57:42",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,japanese,dutch",
+        "352141": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6802280476274541846",
+                    "size": "249359377",
+                    "download": "81907648"
+                }
+            },
+            "decryptionkey": "1c9301c78a2df21e0922dc3a1abaf7eb14b2e80eaf67fbd2aff532c4587af77a"
+        },
+        "352142": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4283037712147184723",
+                    "size": "249391676",
+                    "download": "81932656"
+                }
+            },
+            "decryptionkey": "533e6e76f952579ab422a8da1e1ad6f2cdae583d4465c91085534b304d5060ba"
+        },
+        "352143": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "574896380187498302",
+                    "size": "249368703",
+                    "download": "81908736"
+                }
+            },
+            "decryptionkey": "48add1c6b57c4a8b5cf171b9462a9a7bfcfb832e8e5546add980ce9803acc932"
+        },
+        "352144": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1638511129573901967",
+                    "size": "249364540",
+                    "download": "81908336"
+                }
+            },
+            "decryptionkey": "25232bc2c8f99aa78e54e192a322e300ce5ed859f4f558d188ec33dd466cbec7"
+        },
+        "352145": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8528510073178650298",
+                    "size": "249367112",
+                    "download": "81909184"
+                }
+            },
+            "decryptionkey": "300cc51401f59a7020920d535f5448e6288462ae13fe1a6caf408db452070f7b"
+        },
+        "352146": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1017944318114713249",
+                    "size": "249382776",
+                    "download": "81875648"
+                }
+            },
+            "decryptionkey": "62a68b0ec7c868cc47a2701e8c736c89c225693a5a76d3134806e83156db060b"
+        },
+        "352147": {
+            "config": {
+                "language": "dutch",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6879873043753347786",
+                    "size": "249364001",
+                    "download": "81908048"
+                }
+            },
+            "decryptionkey": "a8009754c55e7c26aa952f2b8c1043b767fd1a32a5e160abef1579308868fb15"
+        },
+        "352148": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7985576940331444528",
+                    "size": "261812918",
+                    "download": "82112608"
+                }
+            },
+            "decryptionkey": "5031610f02ea575eab28bfcb59eaeb5de423802f3a63a51ef3cffa6a135bd55a"
+        },
+        "352149": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5341198325347592225",
+                    "size": "251761008",
+                    "download": "81741408"
+                }
+            },
+            "decryptionkey": "e23382ecb56e0ac806fca3eb3dce6261dbeef264c07670ca892fa3353c7449da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "542443"
+            }
+        }
+    }
+}
