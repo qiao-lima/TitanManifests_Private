@@ -1,0 +1,29 @@
+{
+    "appid": 2472140,
+    "name": "千棋百变 ALL chess",
+    "type": "Game",
+    "schinese_name": "千棋百变 ALL Chess",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 16:39:34",
+    "change_number": 30169643,
+    "depot": {
+        "2472141": {
+            "manifests": {
+                "public": {
+                    "gid": "3569217245479488277",
+                    "size": "595528339",
+                    "download": "152252304"
+                }
+            },
+            "decryptionkey": "8ce49a3a97608217533a6c1cf0527a6a56a9f6a312158474feab5f548d171c3b"
+        },
+        "workshopdepot": "2472140",
+        "branches": {
+            "public": {
+                "buildid": "19301829",
+                "timeupdated": "1753112370"
+            }
+        },
+        "workshopdepotdecryptionkey": "b5919469c144147456ff5049e45b2cfecf24e0cabbcb6931d46991184c73ba8b"
+    }
+}
