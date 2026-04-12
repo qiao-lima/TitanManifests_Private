@@ -1,0 +1,78 @@
+{
+    "appid": 2449450,
+    "name": "Clonizer",
+    "type": "Game",
+    "schinese_name": "外星殖民公司",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 12:15:06",
+    "change_number": 30205125,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,turkish",
+        "2449451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7770815949612531874",
+                    "size": "2445689227",
+                    "download": "367486704"
+                },
+                "beta": {
+                    "gid": "7770815949612531874",
+                    "size": "2445689227",
+                    "download": "367486704"
+                }
+            },
+            "decryptionkey": "e851bbdba1f73973a79770edf9d279583741bc2a4d5b6dae4ad4edeaf7f01b5b"
+        },
+        "2449452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3265332688712542421",
+                    "size": "2462214245",
+                    "download": "374089008"
+                },
+                "beta": {
+                    "gid": "3265332688712542421",
+                    "size": "2462214245",
+                    "download": "374089008"
+                }
+            }
+        },
+        "2449453": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4897655139273371114",
+                    "size": "2438188151",
+                    "download": "361868128"
+                },
+                "beta": {
+                    "gid": "4897655139273371114",
+                    "size": "2438188151",
+                    "download": "361868128"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19121862",
+                "timeupdated": "1751789090"
+            },
+            "beta": {
+                "buildid": "19121862",
+                "description": "Clonizer Beta testing branch, usually full of bugs",
+                "timeupdated": "1751789103"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
