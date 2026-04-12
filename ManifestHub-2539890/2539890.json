@@ -1,0 +1,42 @@
+{
+    "appid": 2539890,
+    "name": "VR Dinosaur Island Paradise",
+    "type": "Game",
+    "schinese_name": "VR恐龙岛乐园",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 08:17:54",
+    "change_number": 29161255,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2539891": {
+            "manifests": {
+                "public": {
+                    "gid": "2811943861969187222",
+                    "size": "7469969053",
+                    "download": "2686466896"
+                }
+            },
+            "decryptionkey": "d931ef557aaab3612a498e7c09edc0e8299ca14904472379835ff3c0cce08cee"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "11845490",
+                "timeupdated": "1690971122"
+            }
+        }
+    }
+}
