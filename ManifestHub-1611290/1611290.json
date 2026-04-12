@@ -1,0 +1,42 @@
+{
+    "appid": 1611290,
+    "name": "Puzzle Compound",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 20:54:44",
+    "change_number": 29690239,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1611291": {
+            "manifests": {
+                "public": {
+                    "gid": "5270253907780149685",
+                    "size": "1295556738",
+                    "download": "919489984"
+                }
+            },
+            "decryptionkey": "e5e36210530aed49a5fd6579ba819819276c50767bca96d246e9c00526c6aba5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11510601",
+                "timeupdated": "1687701195"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
