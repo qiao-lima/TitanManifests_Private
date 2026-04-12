@@ -1,0 +1,31 @@
+{
+    "appid": 2994790,
+    "name": "Summer Scent",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 20:52:21",
+    "change_number": 30157356,
+    "depot": {
+        "2994791": {
+            "config": {
+                "language": "english",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2251978107986494723",
+                    "size": "5106055658",
+                    "download": "4921511040"
+                }
+            },
+            "decryptionkey": "5c060538a93c66aebe2e3b0e02eb8cddde3bebcdccee9dcc7017794cadcc0046"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19256236",
+                "timeupdated": "1752737535"
+            }
+        }
+    }
+}
