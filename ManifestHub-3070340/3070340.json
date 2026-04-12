@@ -1,0 +1,27 @@
+{
+    "appid": 3070340,
+    "name": "Escape From Clive",
+    "type": "Game",
+    "schinese_name": "逃离克里夫",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 15:30:39",
+    "change_number": 29480883,
+    "depot": {
+        "3070341": {
+            "manifests": {
+                "public": {
+                    "gid": "8535946385164811183",
+                    "size": "10042802808",
+                    "download": "3983471360"
+                }
+            },
+            "decryptionkey": "d83aeb12a136b90744f0e9f9e18425dda2a5c8501f32899f74daf5dc3d4ee5eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18806371",
+                "timeupdated": "1749540634"
+            }
+        }
+    }
+}
