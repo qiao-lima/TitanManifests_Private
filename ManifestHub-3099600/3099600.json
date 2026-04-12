@@ -1,0 +1,101 @@
+{
+    "appid": 3099600,
+    "name": "Saleblazers Dedicated Server (Beta)",
+    "type": "Tool",
+    "schinese_name": "拓荒商客 专用服务器（测试版）",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:08:21",
+    "change_number": 30217592,
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3099601": {
+            "manifests": {
+                "public": {
+                    "gid": "6344216098166244428",
+                    "size": "3941212525",
+                    "download": "1538168896"
+                },
+                "experimental": {
+                    "gid": "4903440033720047003",
+                    "size": "4060677239",
+                    "download": "1553427088"
+                }
+            },
+            "decryptionkey": "f770bbb0462c051987e8f43ae57019e28a5352b3b8a6fc046912fdf5ccd79318"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19117576",
+                "timeupdated": "1751733941"
+            },
+            "experimental": {
+                "buildid": "19334964",
+                "description": "Public experimental branch for testing upcoming patches and features",
+                "timeupdated": "1753319297"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
