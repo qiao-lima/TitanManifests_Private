@@ -1,0 +1,33 @@
+{
+    "appid": 2009650,
+    "name": "Desta: The Memories Between",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 14:42:02",
+    "change_number": 30187067,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2009651": {
+            "manifests": {
+                "public": {
+                    "gid": "1717768797973502991",
+                    "size": "1469229798",
+                    "download": "1313243280"
+                }
+            },
+            "decryptionkey": "17ecbf5baa48ad112d7cdd80b679c2653bdc40163eb6fe64748faaa9fbe32c73"
+        },
+        "2366570": {
+            "dlcappid": "2366570"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11049297",
+                "timeupdated": "1682074298"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
