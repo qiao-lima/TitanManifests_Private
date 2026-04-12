@@ -1,0 +1,51 @@
+{
+    "appid": 767560,
+    "name": "War Robots",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 15:25:29",
+    "change_number": 30168454,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,dutch,turkish,brazilian",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "767561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5929596830634363534",
+                    "size": "5044304172",
+                    "download": "4231433344"
+                }
+            },
+            "decryptionkey": "bb79a2cf61943a54f704be20c5f046d14b12de3456b3ee9e374b384d6f69868c"
+        },
+        "767564": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3465173907606746840",
+                    "size": "1948706738",
+                    "download": "782584448"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19027118",
+                "timeupdated": "1751292468"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
