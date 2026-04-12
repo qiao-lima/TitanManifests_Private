@@ -1,0 +1,28 @@
+{
+    "appid": 3633180,
+    "name": "Undead Horde: Dark Conqueror",
+    "type": "Game",
+    "schinese_name": "亡灵大军：黑暗征服者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 02:09:58",
+    "change_number": 30150952,
+    "depot": {
+        "3633181": {
+            "manifests": {
+                "public": {
+                    "gid": "7134063264223489114",
+                    "size": "2919197026",
+                    "download": "1990106288"
+                }
+            },
+            "decryptionkey": "c131906faeb327c72bb2ad71d94102d05c56bf1aa8ce61cee350337bbad66763"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19288565",
+                "timeupdated": "1752973794"
+            }
+        }
+    }
+}
