@@ -1,0 +1,28 @@
+{
+    "appid": 1952434,
+    "name": "RPG Developer Bakin Effect Pack Vol.1",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 11:35:13",
+    "change_number": 26201212,
+    "depot": {
+        "1952434": {
+            "manifests": {
+                "public": {
+                    "gid": "4572971307543850741",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1952434",
+            "decryptionkey": "eb4abebf632f295c5ccc8357ee369f631b4cf914f10da4b62554ae806bf91756"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9712494",
+                "timeupdated": "1665655843"
+            }
+        }
+    }
+}
