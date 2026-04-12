@@ -1,0 +1,56 @@
+{
+    "appid": 1408080,
+    "name": "Minigame Madness",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 00:29:24",
+    "change_number": 30176112,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1408081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1817870873465228149",
+                    "size": "811703552",
+                    "download": "619364608"
+                }
+            },
+            "decryptionkey": "a9d5e9858c3ac9c1af67c66759fa3d885cdcf991de3ae4acbcd7637c3aa5dbba"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,swedish,turkish,brazilian,ukrainian,vietnamese",
+        "workshopdepot": "1408080",
+        "branches": {
+            "public": {
+                "buildid": "19201570",
+                "timeupdated": "1752328608"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
