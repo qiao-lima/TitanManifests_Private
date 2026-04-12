@@ -1,0 +1,54 @@
+{
+    "appid": 2215390,
+    "name": "Five Nights at Freddy's: Secret of the Mimic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 21:11:55",
+    "change_number": 30214031,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2215391": {
+            "manifests": {
+                "public": {
+                    "gid": "4693269454945290347",
+                    "size": "19880631500",
+                    "download": "19766863104"
+                }
+            },
+            "decryptionkey": "d87a5534a048a1a7a81c896212cff7fa105e3104a74914bf1473552d72347211"
+        },
+        "2814500": {
+            "manifests": {
+                "public": {
+                    "gid": "8367266441409008161",
+                    "size": "7533487",
+                    "download": "7462032"
+                }
+            },
+            "dlcappid": "2814500",
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,spanish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18900133",
+                "timeupdated": "1750698063"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
