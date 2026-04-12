@@ -1,0 +1,33 @@
+{
+    "appid": 1169460,
+    "name": "遠古大陸外傳-古道的盡頭",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 08:38:55",
+    "change_number": 30105298,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese",
+        "hasdepotsindlc": "0",
+        "1169461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1508277921348288554",
+                    "size": "1297635363",
+                    "download": "1007713456"
+                }
+            },
+            "decryptionkey": "2e77df935dd1b10cf4b5e23f2350b949eab8fec6348514b0ef19b6c5a33fe944"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19256303",
+                "timeupdated": "1752737932"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
