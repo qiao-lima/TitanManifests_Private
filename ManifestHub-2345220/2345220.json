@@ -1,0 +1,43 @@
+{
+    "appid": 2345220,
+    "name": "Roody:2d",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 23:04:16",
+    "change_number": 30020444,
+    "depot": {
+        "2345221": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4153470106975164701",
+                    "size": "42253735",
+                    "download": "9490192"
+                },
+                "experimental": {
+                    "gid": "4153470106975164701",
+                    "size": "42253735",
+                    "download": "9490192"
+                }
+            },
+            "decryptionkey": "6bb61c80b40b0371e298037edf33358ba93068a3939072ef839b0a5ca5089336"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19125597",
+                "timeupdated": "1752271452"
+            },
+            "experimental": {
+                "buildid": "19125597",
+                "description": "Test new updates",
+                "timeupdated": "1751841064"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
