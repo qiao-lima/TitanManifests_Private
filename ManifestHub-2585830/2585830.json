@@ -1,0 +1,47 @@
+{
+    "appid": 2585830,
+    "name": "Promise Mascot Agency",
+    "type": "Game",
+    "schinese_name": "达愿福神社",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:43:55",
+    "change_number": 30212825,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2585831": {
+            "manifests": {
+                "public": {
+                    "gid": "1459272286629562684",
+                    "size": "6496097224",
+                    "download": "5679136672"
+                }
+            },
+            "decryptionkey": "144bcb22da1983f95426c7e279453e0971d647bddbcc702a96257d602a2a2856"
+        },
+        "3899690": {
+            "dlcappid": "3899690",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18196496",
+                "timeupdated": "1745412425"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
