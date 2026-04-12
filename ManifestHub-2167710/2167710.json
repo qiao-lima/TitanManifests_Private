@@ -1,0 +1,28 @@
+{
+    "appid": 2167710,
+    "name": "蔚蓝月下的回忆~SAPPHIRE MOON-FOREVER MEMORIES 原画集",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 16:07:59",
+    "change_number": 25065303,
+    "depot": {
+        "2167711": {
+            "manifests": {
+                "public": {
+                    "gid": "5675942634954029928",
+                    "size": "195856491",
+                    "download": "198502896"
+                }
+            },
+            "dlcappid": "2167710",
+            "decryptionkey": "a0a5d16afd746972d3f8718bc7714c11910baa573914e19d87bf55995a15e3b4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9613669",
+                "timeupdated": "1664660045"
+            }
+        }
+    }
+}
