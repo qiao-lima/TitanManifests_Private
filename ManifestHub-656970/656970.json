@@ -1,0 +1,57 @@
+{
+    "appid": 656970,
+    "name": "MagiCat",
+    "type": "Game",
+    "schinese_name": "魔法猫咪 / MagiCat",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 15:10:42",
+    "change_number": 30036055,
+    "depot": {
+        "baselanguages": "english,schinese,russian,japanese",
+        "hasdepotsindlc": "0",
+        "656971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6505851030314880892",
+                    "size": "124979815",
+                    "download": "69058896"
+                }
+            },
+            "decryptionkey": "788bd4e988ccc9315a4560b0ed6a4b7ca3bccc06e4b30f68c4399b765f816287"
+        },
+        "656972": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2208178239751540850",
+                    "size": "128125471",
+                    "download": "56477584"
+                }
+            },
+            "decryptionkey": "0abb8e611cbd8628d89ecf1ce2d0bb84bfce94c9156faac808cc79ce3f9cc02a"
+        },
+        "658900": {
+            "manifests": {
+                "public": {
+                    "gid": "8491393230294640693",
+                    "size": "115048702",
+                    "download": "110574608"
+                }
+            },
+            "dlcappid": "658900",
+            "decryptionkey": "829bc2df0b23286556a85fd164446dcf181afe3fba992279c633a5787f0931bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19207395",
+                "timeupdated": "1752415839"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
