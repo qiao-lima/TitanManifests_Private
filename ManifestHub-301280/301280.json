@@ -1,0 +1,69 @@
+{
+    "appid": 301280,
+    "name": "Skin Deep",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 13:10:06",
+    "change_number": 30010405,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,latam",
+        "workshopdepot": "301280",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "301281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1046453541161328393",
+                    "size": "6280346551",
+                    "download": "2093491312"
+                },
+                "next_build": {
+                    "gid": "1046453541161328393",
+                    "size": "6280346551",
+                    "download": "2093491312"
+                },
+                "prev_build": {
+                    "gid": "2367121963039404439",
+                    "size": "6280358550",
+                    "download": "2100975568"
+                }
+            },
+            "decryptionkey": "7ffc4347e349c8503314f1cb1ee522e82f1f07642a76fdc9f11658adda0fde86"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19012752",
+                "timeupdated": "1750981157"
+            },
+            "next_build": {
+                "buildid": "19012752",
+                "description": "Next build",
+                "timeupdated": "1750981058"
+            },
+            "prev_build": {
+                "buildid": "18526468",
+                "description": "Previous build",
+                "timeupdated": "1750867610"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "2a512bd016204c291ae606664bbde2aaa22ffd6207a43d55f01e4d7bae2529c3"
+    }
+}
