@@ -1,0 +1,28 @@
+{
+    "appid": 798860,
+    "name": "Additional Scenarios Pack/追加シナリオパック",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:04",
+    "change_number": 26201212,
+    "depot": {
+        "798860": {
+            "manifests": {
+                "public": {
+                    "gid": "3359927599035665735",
+                    "size": "579175012",
+                    "download": "517064032"
+                }
+            },
+            "dlcappid": "798860",
+            "decryptionkey": "038527fbfc4b71919808521fb7105da29f56ff8c8e4db34ae6e6101f3b767229"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2856788",
+                "timeupdated": "1529375122"
+            }
+        }
+    }
+}
