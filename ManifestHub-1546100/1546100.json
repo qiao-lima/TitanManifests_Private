@@ -1,0 +1,103 @@
+{
+    "appid": 1546100,
+    "name": "A Musical Story",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 21:59:18",
+    "change_number": 29669494,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1546101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7203087819488176733",
+                    "size": "1088507488",
+                    "download": "815209888"
+                }
+            },
+            "decryptionkey": "b23da0eab58a14544638327cf2062bbe7afd4e2b57429b60e77b094382d12b76"
+        },
+        "1546102": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2111721100256574216",
+                    "size": "1926747517",
+                    "download": "1325555568"
+                }
+            },
+            "decryptionkey": "4ce2e98c86decd4d9c705ce8f4192873d77ba5320b96246b15a31f9c5e86ba42"
+        },
+        "1546103": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1490311430409758355",
+                    "size": "2378093026",
+                    "download": "1681183968"
+                }
+            },
+            "decryptionkey": "d78fef51cd0209c352218d755340d59a53855e41ad27529fe6d0340e7815cb15"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "8150903",
+                "timeupdated": "1644065695"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
