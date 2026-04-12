@@ -1,0 +1,27 @@
+{
+    "appid": 1987990,
+    "name": "Vanilla Brulee & The Rose Bandit",
+    "type": "Game",
+    "schinese_name": "香草布蕾与玫瑰怪盗",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 17:12:30",
+    "change_number": 30036848,
+    "depot": {
+        "1987991": {
+            "manifests": {
+                "public": {
+                    "gid": "1604797070622810446",
+                    "size": "347634788",
+                    "download": "206382512"
+                }
+            },
+            "decryptionkey": "633de0f90ae362230afae2a9b90fadd979cfa585fdf77719b878fb7a2891d35c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15195591",
+                "timeupdated": "1722321282"
+            }
+        }
+    }
+}
