@@ -1,0 +1,27 @@
+{
+    "appid": 3184110,
+    "name": "Widget Inc.",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 02:50:56",
+    "change_number": 30122607,
+    "depot": {
+        "3184111": {
+            "manifests": {
+                "public": {
+                    "gid": "3634059427752318894",
+                    "size": "203599258",
+                    "download": "102857408"
+                }
+            },
+            "decryptionkey": "74b60bd060a9d7c1b80bbf277c4d1e46a2ffa05e2331ee133c4ceed2b70a5f2a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18943856",
+                "timeupdated": "1750445422"
+            }
+        }
+    }
+}
