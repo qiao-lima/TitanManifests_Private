@@ -1,0 +1,31 @@
+{
+    "appid": 1803600,
+    "name": "Gone Rogue",
+    "type": "Game",
+    "schinese_name": "离经叛盗",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 20:05:46",
+    "change_number": 29955465,
+    "depot": {
+        "1803601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7490574501900311012",
+                    "size": "5076835129",
+                    "download": "4330614000"
+                }
+            },
+            "decryptionkey": "fd56d425cad20c0a3a0a0a11590a52b9cf9898c942d6d94a5718c76e8ea5bfeb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19149629",
+                "timeupdated": "1751998305"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
