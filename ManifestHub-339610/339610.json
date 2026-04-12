@@ -1,0 +1,44 @@
+{
+    "appid": 339610,
+    "name": "FreeStyle 2: Street Basketball",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-20 01:17:59",
+    "change_number": 30150728,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,thai",
+        "339611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6974108502048579026",
+                    "size": "9696472456",
+                    "download": "5773895632"
+                }
+            },
+            "decryptionkey": "a301a9654e4cb404d6a556fc8d1a0f2ed606362efd88edc390f7210b92918746"
+        },
+        "365470": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "365470"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19076721",
+                "timeupdated": "1751446797"
+            }
+        }
+    }
+}
