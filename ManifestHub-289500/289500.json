@@ -1,0 +1,113 @@
+{
+    "appid": 289500,
+    "name": "UFO: Aftershock",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 11:49:47",
+    "change_number": 30087484,
+    "depot": {
+        "overridescddb": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "289501": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3873244869064196617",
+                    "size": "3048575631",
+                    "download": "2934520784"
+                }
+            },
+            "decryptionkey": "94a520b42f9942bf7c1cadaf573fb161c4ee1369f764842d8685c865185f4185"
+        },
+        "289502": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3090891477887099864",
+                    "size": "491400862",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "20678f523d44c8c023dc143a08d961a083ee6f9ac33051df45bfb01163bb0300"
+        },
+        "289503": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9060225018786255847",
+                    "size": "3170314",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "86da06eb70cdce7d9f5730bd70622cbdfd19692a82a0ffea61ae04262328128f"
+        },
+        "289504": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5815815472018720483",
+                    "size": "284541",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9aae44d46bf16a0318dfbbd1f8f6c258201d9fc23afdcc9bdb0dd8696850a54a"
+        },
+        "289505": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7363356720282187872",
+                    "size": "1510616",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2efe5ed833c512c99b8e26091e5218fc72b3dfea11c1f0019e85a01b7c402ec0"
+        },
+        "289506": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3175735519233728068",
+                    "size": "7312340",
+                    "download": "6757264"
+                }
+            },
+            "decryptionkey": "2c58f9039b1382eca29f3b7f47347e6edb1399c0734b81dba642e64f17be7ffa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15227478",
+                "timeupdated": "1722868807"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
