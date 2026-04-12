@@ -1,0 +1,32 @@
+{
+    "appid": 2324300,
+    "name": "Run Sausage Run!",
+    "type": "Game",
+    "schinese_name": "奔跑吧，香肠！",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 09:15:24",
+    "change_number": 29808314,
+    "depot": {
+        "2324301": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5066691689497584682",
+                    "size": "616755425",
+                    "download": "97500800"
+                }
+            },
+            "decryptionkey": "71462dd0917e0aa39a99ff768fb7499b7db568c079fc185067010642ef24d3f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18747509",
+                "timeupdated": "1750843896"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
