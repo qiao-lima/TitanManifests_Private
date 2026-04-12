@@ -1,0 +1,72 @@
+{
+    "appid": 2010380,
+    "name": "Starwalker - Into the Cylinder",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 15:14:06",
+    "change_number": 30207982,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2010381": {
+            "manifests": {
+                "public": {
+                    "gid": "2567970833946040929",
+                    "size": "37709783341",
+                    "download": "15944303440"
+                },
+                "alpha_test": {
+                    "gid": "2567970833946040929",
+                    "size": "37709783341",
+                    "download": "15944303440"
+                }
+            },
+            "decryptionkey": "1e664f3450e64ce5e5ad334bb1d8a1a527087489f1549a67f60917d924c5b59f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19309680",
+                "timeupdated": "1753253278"
+            },
+            "alpha_test": {
+                "buildid": "19309680",
+                "description": "for development builds",
+                "timeupdated": "1753156545"
+            }
+        }
+    }
+}
