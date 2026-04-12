@@ -1,0 +1,35 @@
+{
+    "appid": "603290",
+    "type": "Game",
+    "name": "GRUZCHIK",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28495792",
+    "update_time": "2025-04-16 05:27:32",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "603291": {
+            "manifests": {
+                "public": {
+                    "gid": "5259873028245994723",
+                    "size": "139798280",
+                    "download": "79219744"
+                }
+            },
+            "decryptionkey": "50d774bf4e6bb62991e25365f8303c8496fcfd7879d8d4a61bb9291622fd3d5d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1735848",
+                "timeupdated": "1491364714"
+            }
+        }
+    },
+    "access_token": 994359437983186733
+}
