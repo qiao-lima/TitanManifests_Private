@@ -1,0 +1,49 @@
+{
+    "appid": "539350",
+    "type": "Game",
+    "name": "Ball of Light",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26790188",
+    "update_time": "2024-12-27 01:18:35",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "539351": {
+            "manifests": {
+                "public": {
+                    "gid": "4330391153762657013",
+                    "size": "4707156214",
+                    "download": "1688425120"
+                }
+            },
+            "decryptionkey": "571e6b2f0f7bea100e794eb8abe1c856c6dc9795299e9dc63f85e9f6a6b63f58"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1502017",
+                "timeupdated": "1481059356"
+            }
+        }
+    },
+    "access_token": 14583002969434535018
+}
