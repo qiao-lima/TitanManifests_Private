@@ -1,0 +1,29 @@
+{
+    "appid": 276890,
+    "name": "FATE: Undiscovered Realms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 04:44:21",
+    "change_number": 29915583,
+    "depot": {
+        "276891": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1816038023522433417",
+                    "size": "389114753",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9d14c038aef01c7a7edda41cf4303b31838df8ec5a7162660e9d292e6221c594"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "240456"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
