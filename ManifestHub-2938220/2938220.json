@@ -1,0 +1,56 @@
+{
+    "appid": 2938220,
+    "name": "My Ex-Future Family Season 2 Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 20:22:26",
+    "change_number": 29485911,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2938221": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5635283369482066521",
+                    "size": "1286492430",
+                    "download": "1180650512"
+                }
+            },
+            "decryptionkey": "8935b23c1e5d2b00d132953ee5a0bf45e3bbe7daa712d9ea98212c71a2547570"
+        },
+        "2938222": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7859529464828642900",
+                    "size": "1274697962",
+                    "download": "1176486288"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18767846",
+                "timeupdated": "1749221664"
+            }
+        }
+    }
+}
