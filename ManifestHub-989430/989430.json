@@ -1,0 +1,46 @@
+{
+    "appid": 989430,
+    "name": "随风而逝/Story About Times",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:10:40",
+    "change_number": 30212342,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "989431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7786991380163645002",
+                    "size": "567824897",
+                    "download": "373376208"
+                }
+            },
+            "decryptionkey": "9d3b400c2ee82afca666ad888a46671db217592ce65e8bba65122ff8bbd11696"
+        },
+        "989432": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2798360463575475822",
+                    "size": "558051006",
+                    "download": "371835776"
+                }
+            },
+            "decryptionkey": "d1959d2710397dc2b8de0bb9d53141de51fc566a7cec8b66e1042567fafcb8f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6618404",
+                "timeupdated": "1619681705"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
