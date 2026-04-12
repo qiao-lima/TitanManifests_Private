@@ -1,0 +1,95 @@
+{
+    "appid": "3450250",
+    "type": "Tool",
+    "name": "TS:AC Modding Tool",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28527698",
+    "update_time": "2025-04-17 19:23:08",
+    "depot": {
+        "workshopdepot": "3450250",
+        "hasdepotsindlc": "0",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1466129": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1663960854420460534",
+                    "size": "107287109",
+                    "download": "26010320"
+                }
+            },
+            "decryptionkey": "c5efd80adb761a23987922e5e1d6eaf3b249dba405e3cc513570fcf6aaf575ee"
+        },
+        "1345801": {
+            "config": {
+                "language": "koreana"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7948161642525576948",
+                    "size": "1009",
+                    "download": "480"
+                }
+            },
+            "decryptionkey": "3b34973273fa5e5251f984266680c63e2a59a24ec3c5360fdbb308a6def9631d"
+        },
+        "1345802": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6443122698982599163",
+                    "size": "1009",
+                    "download": "480"
+                }
+            },
+            "decryptionkey": "d1d5dfa17fff2a9c5a5719c0ffb80b5fe1e5ad34ec904cc060d71a7cbb351e8a"
+        },
+        "1345803": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3381008121374074795",
+                    "size": "1009",
+                    "download": "480"
+                }
+            },
+            "decryptionkey": "21d8d7a9b8b9023118e8e43b4d46c5fa083cfd5a1ca6237b54b86f97f49f2a90"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18143214",
+                "timeupdated": "1744888982"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
