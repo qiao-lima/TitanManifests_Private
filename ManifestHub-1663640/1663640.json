@@ -1,0 +1,52 @@
+{
+    "appid": 1663640,
+    "name": "The Last Oricru – Final Cut",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 08:15:54",
+    "change_number": 29807997,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1663641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2558101241331581083",
+                    "size": "27452301712",
+                    "download": "26587362512"
+                }
+            },
+            "decryptionkey": "ed98535a6deba7c199d840867f451a59ec533a05306054c935ae6e33ef1ae9bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12068015",
+                "timeupdated": "1694788145"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
