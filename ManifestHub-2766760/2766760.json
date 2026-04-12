@@ -1,0 +1,33 @@
+{
+    "appid": 2766760,
+    "name": "三国英雄演义(Three Kingdoms Heroes Epic)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 18:06:33",
+    "change_number": 29391877,
+    "depot": {
+        "baselanguages": "schinese",
+        "2766761": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2407437901965685609",
+                    "size": "994754234",
+                    "download": "337403360"
+                }
+            },
+            "decryptionkey": "29f144958a433c280377e241afed2e5b0ac3ccb6f4978886df9f948eeb792bda"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15480595",
+                "timeupdated": "1724492572"
+            }
+        }
+    }
+}
