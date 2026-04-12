@@ -1,0 +1,39 @@
+{
+    "appid": 790540,
+    "name": "The Quiet Man",
+    "type": "Game",
+    "schinese_name": "寂静之人",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:30:15",
+    "change_number": 30193638,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "790541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "687050837342985652",
+                    "size": "42046033150",
+                    "download": "28413263200"
+                }
+            },
+            "decryptionkey": "8a6fd00a5933e79e29a37910c213f741ab9fee49f9841ca8f091162a0a6cb986"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3674578",
+                "timeupdated": "1556182686"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
