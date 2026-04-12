@@ -1,0 +1,29 @@
+{
+    "appid": "907840",
+    "type": "Tool",
+    "name": "Hot Lava Language Mod Uploader",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 20:01:36",
+    "depot": {
+        "907841": {
+            "manifests": {
+                "public": {
+                    "gid": "9025495945151158394",
+                    "size": "9530662",
+                    "download": "2676656"
+                }
+            },
+            "decryptionkey": "881c03dc4e1aa311eaad225543c64f70b2c044d7f048a94709e6eed7cb503afb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3706506",
+                "timeupdated": "1569357463"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 17726478724973326713
+}
