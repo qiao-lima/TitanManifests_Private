@@ -1,0 +1,29 @@
+{
+    "appid": 2443610,
+    "name": "Graviteam Tactics: Don Bend",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:51:29",
+    "change_number": 26602770,
+    "depot": {
+        "2443610": {
+            "manifests": {
+                "public": {
+                    "gid": "5271915524241981139",
+                    "size": "4223368245",
+                    "download": "2013714800"
+                }
+            },
+            "dlcappid": "2443610",
+            "decryptionkey": "7df9333e34fbc99b525ef5102688997db8019a559cf6f8628606970dbbcc82d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11439765",
+                "timeupdated": "1686401076"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
