@@ -1,0 +1,27 @@
+{
+    "appid": 3278670,
+    "name": "Menace from the Deep Soundtrack",
+    "type": "Music",
+    "schinese_name": "蠕行的恐惧：克苏鲁选集 数字原声带",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 13:04:46",
+    "change_number": 29878228,
+    "depot": {
+        "3278671": {
+            "manifests": {
+                "public": {
+                    "gid": "4861245321231507312",
+                    "size": "83469611",
+                    "download": "75353504"
+                }
+            },
+            "decryptionkey": "48177b0cc988e6f58b7170edb6c2794552f4993871563250f40d54853b11b430"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16018664",
+                "timeupdated": "1728714873"
+            }
+        }
+    }
+}
