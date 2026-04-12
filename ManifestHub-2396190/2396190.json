@@ -1,0 +1,54 @@
+{
+    "appid": 2396190,
+    "name": "While Sleeping",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 13:43:01",
+    "change_number": 30186066,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2396191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5164714892946517560",
+                    "size": "1011409040",
+                    "download": "854948608"
+                },
+                "beta": {
+                    "gid": "6347564930348029952",
+                    "size": "1011379328",
+                    "download": "854917040"
+                }
+            },
+            "decryptionkey": "144906de4a50849be82d0d0bb664eb6d3a45eb7552476bafae6db83bd584218d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18832307",
+                "timeupdated": "1749682551"
+            },
+            "beta": {
+                "buildid": "16719558",
+                "description": "beta branch",
+                "timeupdated": "1749682536"
+            }
+        }
+    }
+}
