@@ -1,0 +1,28 @@
+{
+    "appid": 1601740,
+    "name": "Corpse Keeper",
+    "type": "Game",
+    "schinese_name": "死亡教堂",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 11:12:22",
+    "change_number": 30025942,
+    "depot": {
+        "1601741": {
+            "manifests": {
+                "public": {
+                    "gid": "6471579374285554830",
+                    "size": "7836944004",
+                    "download": "2424731312"
+                }
+            },
+            "decryptionkey": "5fe91d876dc042f700917403bafef7c1df2c7c8afe6d478f519285827f2f9654"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18672005",
+                "timeupdated": "1748599496"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
