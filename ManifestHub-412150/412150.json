@@ -1,0 +1,41 @@
+{
+    "appid": "412150",
+    "type": "Game",
+    "name": "Midsummer Night",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25269390",
+    "update_time": "2024-09-18 07:14:02",
+    "depot": {
+        "baselanguages": "russian",
+        "412151": {
+            "manifests": {
+                "public": {
+                    "gid": "4588210671498890866",
+                    "size": "54645760",
+                    "download": "55090288"
+                }
+            },
+            "decryptionkey": "4ded44f190a70362966ec403136d8b724277cea7333ce378dd2e7b4368aeab73"
+        },
+        "497750": {
+            "manifests": {
+                "public": {
+                    "gid": "1843176917026592092",
+                    "size": "79984349",
+                    "download": "78336384"
+                }
+            },
+            "dlcappid": "497750",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1215199",
+                "timeupdated": "1519282927"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 16716197046932919609
+}
