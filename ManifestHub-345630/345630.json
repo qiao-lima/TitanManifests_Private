@@ -1,0 +1,42 @@
+{
+    "appid": 345630,
+    "name": "The Eden of Grisaia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 09:41:35",
+    "change_number": 29519196,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "345631": {
+            "manifests": {
+                "public": {
+                    "gid": "3912849281467758326",
+                    "size": "6937298704",
+                    "download": "6853408096"
+                }
+            },
+            "decryptionkey": "b4c3616bf13684a07646738aeb599491992a146ebfe8189892515afbe02d82f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1835913",
+                "timeupdated": "1495330936"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
