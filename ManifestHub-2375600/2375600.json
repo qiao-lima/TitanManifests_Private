@@ -1,0 +1,27 @@
+{
+    "appid": 2375600,
+    "name": "Restaurant Battle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 06:12:16",
+    "change_number": 29942837,
+    "depot": {
+        "2375601": {
+            "manifests": {
+                "public": {
+                    "gid": "7127682494131895034",
+                    "size": "6562857154",
+                    "download": "2452358320"
+                }
+            },
+            "decryptionkey": "2ea97083102aa2724c02980ce4c9d8d52ff8de4a881c0703cf4a82ea438521e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14243359",
+                "timeupdated": "1714650929"
+            }
+        }
+    }
+}
