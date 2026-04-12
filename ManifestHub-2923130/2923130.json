@@ -1,0 +1,53 @@
+{
+    "appid": 2923130,
+    "name": "Kunkun Terror Express",
+    "type": "Game",
+    "schinese_name": "坤车惊魂",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 19:16:30",
+    "change_number": 29548090,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2923131": {
+            "manifests": {
+                "public": {
+                    "gid": "4997742232772991638",
+                    "size": "3075012143",
+                    "download": "2784911120"
+                },
+                "test": {
+                    "gid": "4997742232772991638",
+                    "size": "3075012143",
+                    "download": "2784911120"
+                }
+            },
+            "decryptionkey": "012305f5296d70552b81b1d4597e041c95ec90d9ac9b40b2a7fdb9ce3ea9f4d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18497277",
+                "timeupdated": "1747485103"
+            },
+            "test": {
+                "buildid": "18497277",
+                "description": "test",
+                "timeupdated": "1747430615"
+            }
+        }
+    }
+}
