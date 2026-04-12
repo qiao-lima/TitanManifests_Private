@@ -1,0 +1,55 @@
+{
+    "appid": 526790,
+    "name": "Monsti",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:14:35",
+    "change_number": 29169450,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "526791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2068278923095945746",
+                    "size": "46977536",
+                    "download": "14989408"
+                }
+            },
+            "decryptionkey": "9786debb1322800a410a36ae6c7cd2c1040a33c5496aaad1eb4ce5da174ef67f"
+        },
+        "526850": {
+            "manifests": {
+                "public": {
+                    "gid": "1754901898000268469",
+                    "size": "2022914",
+                    "download": "2007328"
+                }
+            },
+            "dlcappid": "526850",
+            "decryptionkey": "2c348826edbf1c038d896785cabddf8f631805d8ea7dede4023eb8068f1834b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1330166",
+                "timeupdated": "1473665970"
+            }
+        }
+    }
+}
