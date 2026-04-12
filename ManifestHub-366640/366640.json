@@ -1,0 +1,170 @@
+{
+    "appid": 366640,
+    "name": "Shiness: The Lightning Kingdom",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:05:42",
+    "change_number": 29314915,
+    "depot": {
+        "baselanguages": "",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "366641": {
+            "manifests": {
+                "public": {
+                    "gid": "4443938155774633998",
+                    "size": "6217583620",
+                    "download": "4641303232"
+                }
+            },
+            "decryptionkey": "d03d98e1d903f874601eff4e1534096f66203fa72d4b70280e26cc898887341e"
+        },
+        "366642": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8802985428730110664",
+                    "size": "3160717350",
+                    "download": "3049590544"
+                }
+            },
+            "decryptionkey": "22ca73772ab6c49a2f27111ef3bb189ad4546ae50bcea35496e4499c732a677c"
+        },
+        "366643": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7373981643427112110",
+                    "size": "3160182883",
+                    "download": "3046011008"
+                }
+            },
+            "decryptionkey": "aceb6402dd998387125eced42fbfd6837494cb1126c5730b6b36648ba5bcdbde"
+        },
+        "366644": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2465908976062100552",
+                    "size": "3167748893",
+                    "download": "3060446400"
+                }
+            },
+            "decryptionkey": "8aab5365326a4d585733ff0df941f7c7471a056b4f6f8f9e3af1856d087c4f5b"
+        },
+        "366645": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6895857378933207351",
+                    "size": "3167895040",
+                    "download": "3060671072"
+                }
+            },
+            "decryptionkey": "bd4ddfd15b95d2f0c46db876c45c73f7120e7794211266cdecfcd350cc8a60c0"
+        },
+        "366646": {
+            "dlcappid": "585640",
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9129732538209404228",
+                    "size": "3199105368",
+                    "download": "3093195536"
+                }
+            },
+            "decryptionkey": "1018344bfea3b14d4886b24ca442a63c28a7163bf92883bd87664cb729ed906b"
+        },
+        "366647": {
+            "dlcappid": "585640",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6357302257549599196",
+                    "size": "3199602300",
+                    "download": "3093504080"
+                }
+            },
+            "decryptionkey": "bfd52654defa4e17432885127f3f55dc8f30bf8524df2d314f5b581a95c59af1"
+        },
+        "366648": {
+            "dlcappid": "585640",
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8445535024023159856",
+                    "size": "3200649756",
+                    "download": "3095192848"
+                }
+            },
+            "decryptionkey": "fc6fb49cb34e2bb9297f616c5abdc4670cc8d86979bb688648fb846916462b9b"
+        },
+        "366649": {
+            "dlcappid": "585640",
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1131047903756243297",
+                    "size": "3200617228",
+                    "download": "3095041888"
+                }
+            },
+            "decryptionkey": "2d23e411bd7516b936610108cc15ee4d51f876f3cd7e8830adec24024433174b"
+        },
+        "585642": {
+            "dlcappid": "616020",
+            "manifests": {
+                "public": {
+                    "gid": "8799046319532779806",
+                    "size": "286496107",
+                    "download": "261900896"
+                }
+            },
+            "decryptionkey": "363c07f47a335005f844abb543bd53a94c8486219d23e759d7f51247691d0efa"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "1815554",
+                "timeupdated": "1494517295"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
