@@ -1,0 +1,53 @@
+{
+    "appid": "307400",
+    "type": "Tool",
+    "name": "The Divinity Engine",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 18:44:40",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "307401": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "984719054341369618",
+                    "size": "62454279",
+                    "download": "20722048"
+                }
+            },
+            "decryptionkey": "4e64d04f566074ac6ebda4ca3371ec1a2435efb7b0006ce2e83c928783a9d2e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "509190"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 7621642967005023532
+}
