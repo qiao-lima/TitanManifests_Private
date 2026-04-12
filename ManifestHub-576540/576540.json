@@ -1,0 +1,38 @@
+{
+    "appid": 576540,
+    "name": "Brother Wings",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:00",
+    "change_number": 30056460,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "576541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1764325773267699111",
+                    "size": "20772533",
+                    "download": "11109360"
+                }
+            },
+            "decryptionkey": "ad9736786a97046c133ac15c65c124e035cbe0dc96c9201ba0aab35392d593f3"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "1603609",
+                "timeupdated": "1485962460"
+            }
+        }
+    }
+}
