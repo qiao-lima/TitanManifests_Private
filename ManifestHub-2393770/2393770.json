@@ -1,0 +1,57 @@
+{
+    "appid": 2393770,
+    "name": "Bang Average Football",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 05:05:51",
+    "change_number": 30199055,
+    "depot": {
+        "2393772": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "513602859050724528",
+                    "size": "96532566",
+                    "download": "79692720"
+                }
+            }
+        },
+        "2393773": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5119531910677722067",
+                    "size": "83427334",
+                    "download": "75462736"
+                }
+            },
+            "decryptionkey": "ad01288cadb9a2886d0dcb744762bed6134fdb9c16dd7b13c99c9dcabf9bec83"
+        },
+        "2393774": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8765157338160429812",
+                    "size": "77384900",
+                    "download": "76634288"
+                }
+            }
+        },
+        "workshopdepot": "2393770",
+        "branches": {
+            "public": {
+                "buildid": "19204167",
+                "timeupdated": "1752370094"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6f832d242c049689abcdcf88bb891d9d875d5492e70b0dcf2a033722bc3d3b6e"
+    }
+}
