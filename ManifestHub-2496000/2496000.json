@@ -1,0 +1,46 @@
+{
+    "appid": 2496000,
+    "name": "Fractals of Destiny",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 12:09:06",
+    "change_number": 30026435,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2496001": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8673451362417324394",
+                    "size": "34471615626",
+                    "download": "31990980656"
+                }
+            },
+            "decryptionkey": "2f8790d1e41f925a3e63d7ed4184149302ee44de3074c402c4d7b284de7ffb5f"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18950520",
+                "timeupdated": "1750561117"
+            }
+        }
+    }
+}
