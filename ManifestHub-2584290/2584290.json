@@ -1,0 +1,58 @@
+{
+    "appid": 2584290,
+    "name": "Violet",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 17:14:50",
+    "change_number": 30210287,
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,portuguese,brazilian,latam",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2584291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2100821068836115954",
+                    "size": "38097693559",
+                    "download": "9977021264"
+                }
+            },
+            "decryptionkey": "73c235d13e82779a4ffbd8761dfb1edc9f8b8170dbd8ce20ab92fef06ea1c466"
+        },
+        "2584292": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4882014232096587390",
+                    "size": "38215466013",
+                    "download": "9694632288"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19331738",
+                "timeupdated": "1753287286"
+            }
+        }
+    }
+}
