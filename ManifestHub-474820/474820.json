@@ -1,0 +1,31 @@
+{
+    "appid": "474820",
+    "type": "Game",
+    "name": "The Magical Silence",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:10:43",
+    "depot": {
+        "474821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5396931525319752401",
+                    "size": "5808303",
+                    "download": "5835408"
+                }
+            },
+            "decryptionkey": "f5bcda6a899d4cab0f66a6d326ac69dda382d4b04c7717ab34fff85b526c057d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1171380",
+                "timeupdated": "1465424989"
+            }
+        }
+    },
+    "access_token": 9206880268675230020
+}
