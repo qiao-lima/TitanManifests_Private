@@ -1,0 +1,37 @@
+{
+    "appid": 2844850,
+    "name": "FANTASIAN Neo Dimension",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 12:31:38",
+    "change_number": 29986983,
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2844851": {
+            "manifests": {
+                "public": {
+                    "gid": "1957385238022817578",
+                    "size": "13907197793",
+                    "download": "11457289584"
+                }
+            },
+            "decryptionkey": "8d0c42b4beecb7174b656f8bb0dfe61661adfd80d854a21fba5bb180ccef7996"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16995812",
+                "timeupdated": "1747817864"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
