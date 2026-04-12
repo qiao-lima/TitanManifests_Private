@@ -1,0 +1,29 @@
+{
+    "appid": 1944570,
+    "name": "Boneraiser Minions",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 12:44:11",
+    "change_number": 29948296,
+    "depot": {
+        "1944571": {
+            "manifests": {
+                "public": {
+                    "gid": "318221157533497494",
+                    "size": "159725826",
+                    "download": "140252880"
+                }
+            },
+            "decryptionkey": "8e83ec363bd416c4467b4d7565a27c94c044a55cd601b8f3b584078f7333a863"
+        },
+        "workshopdepot": "1944570",
+        "branches": {
+            "public": {
+                "buildid": "18747970",
+                "timeupdated": "1749116021"
+            }
+        },
+        "workshopdepotdecryptionkey": "31af7026899b31eeaa405334f1f4f72aa03b36b8cb31116edc6175cb3849f77d"
+    }
+}
