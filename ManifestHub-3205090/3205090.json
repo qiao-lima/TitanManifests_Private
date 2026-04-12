@@ -1,0 +1,44 @@
+{
+    "appid": 3205090,
+    "name": "Jumping Jack",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-06 21:11:57",
+    "change_number": 29921313,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3205091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2046003779088730996",
+                    "size": "2555043664",
+                    "download": "637002192"
+                }
+            },
+            "decryptionkey": "62aee060f159d1b8c772807d59346cb887b44d52b4a0cfabc73f85e5d0f41144"
+        },
+        "3205092": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18530595",
+                "timeupdated": "1747730827"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
