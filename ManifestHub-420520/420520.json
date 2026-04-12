@@ -1,0 +1,53 @@
+{
+    "appid": 420520,
+    "name": "Lost Technology",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 07:13:23",
+    "change_number": 30043132,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "420521": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8303198317788690604",
+                    "size": "673254671",
+                    "download": "435996784"
+                }
+            },
+            "decryptionkey": "435e942e0b8c6d16485fb4123116f4bd59094d0648208b0cb16e1c47efde3d76"
+        },
+        "420522": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7634824375565445055",
+                    "size": "671055754",
+                    "download": "436839776"
+                }
+            },
+            "decryptionkey": "f394ec201e57ae06bc3b184091b1b6a2a07bf602add30ce7b32d6cbacaf71345"
+        },
+        "420523": {},
+        "branches": {
+            "public": {
+                "buildid": "19185835",
+                "timeupdated": "1752473101"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
