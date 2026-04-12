@@ -1,0 +1,42 @@
+{
+    "appid": 645720,
+    "name": "Fabular: Once upon a Spacetime",
+    "type": "Game",
+    "schinese_name": "星骑：亘古时空",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 10:22:10",
+    "change_number": 30128327,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "645721": {
+            "manifests": {
+                "public": {
+                    "gid": "1748714623614048388",
+                    "size": "734524099",
+                    "download": "353860768"
+                }
+            },
+            "decryptionkey": "54827cf650e82a19e135e28c367e2f5e860da988edb157c6b89b2bdc586f41ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19271253",
+                "timeupdated": "1752830523"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
