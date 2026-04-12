@@ -1,0 +1,28 @@
+{
+    "appid": "606050",
+    "type": "Game",
+    "name": "Gump Runner",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:24:09",
+    "depot": {
+        "606051": {
+            "manifests": {
+                "public": {
+                    "gid": "6104349505364013712",
+                    "size": "39848895",
+                    "download": "14178176"
+                }
+            },
+            "decryptionkey": "783b6baaefa7c835b56cd4ce505748dfc54324866018bfce1ec988f83f4d744e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1677960",
+                "timeupdated": "1488984328"
+            }
+        }
+    },
+    "access_token": 15447669428870203934
+}
