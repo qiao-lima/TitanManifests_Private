@@ -1,0 +1,28 @@
+{
+    "appid": 2259162,
+    "name": "X-Plane 12 Add-on: Aerosoft - Seychelles XP",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 14:07:18",
+    "change_number": 29968711,
+    "depot": {
+        "2259162": {
+            "manifests": {
+                "public": {
+                    "gid": "7202278642577396098",
+                    "size": "7422178036",
+                    "download": "2307336688"
+                }
+            },
+            "dlcappid": "2259162",
+            "decryptionkey": "cd2cb7718330be39b5dcaffab964b16ece074400b72ee7aebcce9886ebe2d455"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19160864",
+                "timeupdated": "1752066433"
+            }
+        }
+    }
+}
