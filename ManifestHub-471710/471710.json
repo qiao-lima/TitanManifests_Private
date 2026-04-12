@@ -1,0 +1,38 @@
+{
+    "appid": 471710,
+    "name": "Rec Room",
+    "type": "Game",
+    "schinese_name": "娱乐室",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 08:56:17",
+    "change_number": 29686823,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "471711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7050735886667230571",
+                    "size": "6665178029",
+                    "download": "3522743920"
+                }
+            },
+            "decryptionkey": "34f5ec907095edfc605a68bb1ed56d6df884b1932fcbe7d2b26b91222384775e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18850543",
+                "timeupdated": "1750129088"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
