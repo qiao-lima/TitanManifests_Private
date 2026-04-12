@@ -1,0 +1,48 @@
+{
+    "appid": 1394810,
+    "name": "Colossus Down",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 18:37:38",
+    "change_number": 30136645,
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "1394811": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5656345470887418953",
+                    "size": "2292124168",
+                    "download": "1812016960"
+                }
+            },
+            "decryptionkey": "73a623856919a7e75520416b7f98aec279e521b14ef8244fbd2a95b1704dc796"
+        },
+        "1442640": {
+            "dlcappid": "1442640",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6852139966228407497",
+                    "size": "255595933",
+                    "download": "227760512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18612905",
+                "timeupdated": "1748420793"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
