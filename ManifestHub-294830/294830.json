@@ -1,0 +1,68 @@
+{
+    "appid": 294830,
+    "name": "RECYCLE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:48:50",
+    "change_number": 29352978,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "294831": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2035454085030291423",
+                    "size": "351241536",
+                    "download": "258548472562"
+                }
+            },
+            "decryptionkey": "cadc497e5a2f4010d593b4d37d27ae360e35db5955555886d75303771ebf7cf6"
+        },
+        "294832": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9197345277528354021",
+                    "size": "4014117",
+                    "download": "1227568"
+                }
+            },
+            "decryptionkey": "aaebd654329611af5786082844085c5615ecd4354395b71d7331e59b85555d49"
+        },
+        "294833": {
+            "config": {
+                "language": "hungarian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1078815881536711957",
+                    "size": "4009138",
+                    "download": "1226944"
+                }
+            },
+            "decryptionkey": "b0d2f1fc21f34d70ed0169589ad7b652ad7334d28c6f5850573dfcb2a416a00e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "806247"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
