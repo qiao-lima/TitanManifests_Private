@@ -1,0 +1,59 @@
+{
+    "appid": 2163160,
+    "name": "OVRLRD",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 21:42:32",
+    "change_number": 30174200,
+    "depot": {
+        "2163161": {
+            "manifests": {
+                "public": {
+                    "gid": "6522906320979799266",
+                    "size": "5341004455",
+                    "download": "1522682048"
+                },
+                "old-version": {
+                    "gid": "2355350804931886259",
+                    "size": "3669860938",
+                    "download": "1034544208"
+                },
+                "public-testing": {
+                    "gid": "6522906320979799266",
+                    "size": "5341004455",
+                    "download": "1522682048"
+                },
+                "very-old-version": {
+                    "gid": "3379153061006338530",
+                    "size": "2939893074",
+                    "download": "883328736"
+                }
+            },
+            "decryptionkey": "edecdcddaaec4d0901db9c1eac3078a5c004e0a0b561547441ff542a1109d861"
+        },
+        "workshopdepot": "2163160",
+        "branches": {
+            "public": {
+                "buildid": "19049634",
+                "timeupdated": "1751279848"
+            },
+            "old-version": {
+                "buildid": "17083787",
+                "description": "The previous version of OVRLRD, in case of issues.",
+                "timeupdated": "1742907307"
+            },
+            "public-testing": {
+                "buildid": "19049634",
+                "description": "For trying out experimental features.",
+                "timeupdated": "1751279833"
+            },
+            "very-old-version": {
+                "buildid": "15642113",
+                "description": "A very old version of OVRLRD, for fun.",
+                "timeupdated": "1729813753"
+            }
+        },
+        "workshopdepotdecryptionkey": "ac896797f387868832d055ae1087e6ef075988b68b7e8812504bec8a52f7eaa9"
+    }
+}
