@@ -1,0 +1,32 @@
+{
+    "appid": 1153210,
+    "name": "Bartender Hustle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 19:12:14",
+    "change_number": 30054094,
+    "depot": {
+        "1153211": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2992193767421407481",
+                    "size": "8062163451",
+                    "download": "2721197728"
+                }
+            },
+            "decryptionkey": "383492ab20d25c3a20bba2747bb96ca380c9be744957ea76d99f587c4ad2688e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19219678",
+                "timeupdated": "1752516723"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
