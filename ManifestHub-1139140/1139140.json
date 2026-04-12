@@ -1,0 +1,28 @@
+{
+    "appid": 1139140,
+    "name": "Kimono Girls",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:21:24",
+    "change_number": 29282702,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1139141": {
+            "manifests": {
+                "public": {
+                    "gid": "5939150035510131865",
+                    "size": "436242834",
+                    "download": "187616096"
+                }
+            },
+            "decryptionkey": "a0ad9b1bb6f534988ef922c51605e327eae42d96fe457faf8f801535f4558814"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4119247",
+                "timeupdated": "1566229554"
+            }
+        }
+    }
+}
