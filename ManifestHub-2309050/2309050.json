@@ -1,0 +1,28 @@
+{
+    "appid": 2309050,
+    "name": "Sea of Thieves - Wallpapers",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 07:05:10",
+    "change_number": 26684309,
+    "depot": {
+        "2309050": {
+            "manifests": {
+                "public": {
+                    "gid": "5827126359140529534",
+                    "size": "212016450",
+                    "download": "214087456"
+                }
+            },
+            "dlcappid": "2309050",
+            "decryptionkey": "e496bd343a45a22ca0148b587298f7701885f32f944ce4217de1c0ba4fb0f786"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10729872",
+                "timeupdated": "1678373330"
+            }
+        }
+    }
+}
