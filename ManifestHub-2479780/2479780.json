@@ -1,0 +1,62 @@
+{
+    "appid": 2479780,
+    "name": "Warlocks Deeds",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 10:09:25",
+    "change_number": 29984759,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2479781": {
+            "manifests": {
+                "public": {
+                    "gid": "8693744857909975069",
+                    "size": "480606129",
+                    "download": "361237776"
+                },
+                "3.01": {
+                    "gid": "5183446062427017394",
+                    "size": "479219187",
+                    "download": "360935552"
+                },
+                "3.02a": {
+                    "gid": "1013697367857000162",
+                    "size": "480604468",
+                    "download": "361237440"
+                }
+            },
+            "decryptionkey": "72503a0289589b510cf6a22fee7ea77c30747e7ee1e52da87372daef70bb96c2"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese,turkish,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "18824522",
+                "timeupdated": "1749643468"
+            },
+            "3.01": {
+                "buildid": "12841453",
+                "description": "last version 3.01",
+                "timeupdated": "1701967661"
+            },
+            "3.02a": {
+                "buildid": "14032721",
+                "description": "version 3.02a pre change",
+                "timeupdated": "1719072170"
+            }
+        }
+    }
+}
