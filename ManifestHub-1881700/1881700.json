@@ -1,0 +1,117 @@
+{
+    "appid": 1881700,
+    "name": "Undawn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 09:47:37",
+    "change_number": 30202607,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1881701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3338305189263543429",
+                    "size": "37937227539",
+                    "download": "36273099088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1881702": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7293572072208316205",
+                    "size": "50354432",
+                    "download": "48503184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1881703": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9006788800771393784",
+                    "size": "37827972159",
+                    "download": "36163739456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1881704": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9130436863581008499",
+                    "size": "53953590",
+                    "download": "52603904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1881705": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4069027278983087813",
+                    "size": "37797960803",
+                    "download": "36134396272"
+                }
+            },
+            "decryptionkey": "19ff311f44a7cf4a7cb182cbcacff73563d218f5d04e69320dc838ca49e23f93"
+        },
+        "1881706": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6292577298401129251",
+                    "size": "53954726",
+                    "download": "52604496"
+                }
+            },
+            "decryptionkey": "2f87bfdcee622070c415df7de3d087e187e54b91a548aa46659a6595916713b1"
+        },
+        "2436650": {
+            "dlcappid": "2436650",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19322836",
+                "timeupdated": "1753260452"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
