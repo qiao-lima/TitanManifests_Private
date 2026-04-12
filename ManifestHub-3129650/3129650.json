@@ -1,0 +1,27 @@
+{
+    "appid": 3129650,
+    "name": "101 Cats Hidden in Mexico",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 07:26:19",
+    "change_number": 29223672,
+    "depot": {
+        "3129651": {
+            "manifests": {
+                "public": {
+                    "gid": "955215724264063945",
+                    "size": "634638450",
+                    "download": "95511456"
+                }
+            },
+            "decryptionkey": "6c3c6a5db72910565272879aa9bdbceba4a151f0896e702270f6679d84e8dfa9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15219451",
+                "timeupdated": "1722469432"
+            }
+        }
+    }
+}
