@@ -1,0 +1,28 @@
+{
+    "appid": 33980,
+    "name": "Pound of Ground",
+    "type": "Game",
+    "schinese_name": "街头僵尸",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 19:40:07",
+    "change_number": 29344718,
+    "depot": {
+        "33981": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "6115228406623624736",
+                    "size": "1511238941",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d27d1bfdc376440da59b417869348b13256397444964e69bf98b402d431443fb"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "11369"
+            }
+        }
+    }
+}
