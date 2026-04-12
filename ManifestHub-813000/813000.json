@@ -1,0 +1,38 @@
+{
+    "appid": "813000",
+    "type": "Game",
+    "name": "PUBG: Experimental Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:51:24",
+    "depot": {
+        "depotdeltapatches": "1",
+        "813001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1607277459557216130",
+                    "size": "6862874200",
+                    "download": "6376177488"
+                }
+            },
+            "decryptionkey": "eeec36e1ad5ecd3cfe0200e06b656dda6d3336deffab097b0b1e6685e4e60061"
+        },
+        "813002": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2848349",
+                "timeupdated": "1528536727"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 11954482443129540499
+}
