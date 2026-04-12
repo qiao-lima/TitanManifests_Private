@@ -1,0 +1,32 @@
+{
+    "appid": 1407140,
+    "name": "A furry house",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 17:11:21",
+    "change_number": 29933670,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1407142": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6577140159366823454",
+                    "size": "2053508269",
+                    "download": "1418195664"
+                }
+            },
+            "decryptionkey": "651997a83d0aeea61a97bc0fcfe4e277079660666e24640fa869e6b730a165b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18912399",
+                "timeupdated": "1750253591"
+            }
+        }
+    }
+}
