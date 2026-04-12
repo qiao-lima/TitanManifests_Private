@@ -1,0 +1,76 @@
+{
+    "appid": 2841640,
+    "name": "GOALS Alpha",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 13:34:57",
+    "change_number": 30185951,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2841641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3107959652746989976",
+                    "size": "103463943",
+                    "download": "39912096"
+                }
+            },
+            "decryptionkey": "76085c909acd1cdaa6e7139584c12c9a564fc1c8ae8974f1894bfd6752151f21"
+        },
+        "2841642": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5113609264578555008",
+                    "size": "1649840277",
+                    "download": "1421094880"
+                }
+            },
+            "decryptionkey": "b32e180acddfe8cb280c7510b31e623b15521f25a7ae4e2ba96fd20efe33940c"
+        },
+        "3724400": {
+            "dlcappid": "3724400",
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "3724400"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3146571358007765130",
+                    "size": "316510811",
+                    "download": "179695792"
+                }
+            },
+            "decryptionkey": "38c1d070d37a17c14bdead3d84086b01ebaf10b87cb5a82fb2af8cceeaa95c68"
+        },
+        "3724480": {
+            "dlcappid": "3724480",
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "3724480"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7876341748151891204",
+                    "size": "265527692",
+                    "download": "134929040"
+                }
+            },
+            "decryptionkey": "51d2ff11e0fdd3292ebbce59a0a6228de758f8eafd7ad2cafd012fb503d3295d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19157315",
+                "timeupdated": "1752062277"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
