@@ -1,0 +1,28 @@
+{
+    "appid": 1832590,
+    "name": "RPG Maker MZ - Castle of Shikigami 2",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 09:49:14",
+    "change_number": 26201212,
+    "depot": {
+        "1832590": {
+            "manifests": {
+                "public": {
+                    "gid": "7491241610677560931",
+                    "size": "43180596",
+                    "download": "43181296"
+                }
+            },
+            "dlcappid": "1832590",
+            "decryptionkey": "58ec0da833ee98fdbab16d9c61eadf572e4ef4d2a8f97edf448f6197f5f18aa2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7837093",
+                "timeupdated": "1638818861"
+            }
+        }
+    }
+}
