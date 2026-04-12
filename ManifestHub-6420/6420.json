@@ -1,0 +1,103 @@
+{
+    "appid": 6420,
+    "name": "Nexus: The Jupiter Incident",
+    "type": "Game",
+    "schinese_name": "银河创世纪：木星事件",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 11:12:53",
+    "change_number": 29739365,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,french,italian,hungarian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "6421": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8727408120542144724",
+                    "size": "1741656815",
+                    "download": "1158219408"
+                },
+                "community": {
+                    "gid": "8670211888288720996",
+                    "size": "1709013713",
+                    "download": "1140313552"
+                },
+                "prenordic_1.01": {
+                    "gid": "6854782180174993164",
+                    "size": "1683186057",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "c3103808f804e14637723eb143ea4cb6108d0c8f290038e98564c2cc80829d19"
+        },
+        "6422": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "509585970648001582",
+                    "size": "761225317",
+                    "download": "729299488"
+                },
+                "community": {
+                    "gid": "3455073157923516001",
+                    "size": "761300747",
+                    "download": "729334176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "6423": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6202002682073034075",
+                    "size": "889768733",
+                    "download": "782490528"
+                },
+                "community": {
+                    "gid": "2232566156348505780",
+                    "size": "773246995",
+                    "download": "737870160"
+                }
+            },
+            "decryptionkey": "7d50ba84c5cd4e151dcfa8f93e6c365f0883d4814fb2dc983583a7ab65abcca8"
+        },
+        "444760": {
+            "manifests": {
+                "public": {
+                    "gid": "1613774466352086018",
+                    "size": "172940701",
+                    "download": "172504640"
+                }
+            },
+            "decryptionkey": "f1ecaa85df6d77d5284f7464940dcac2b930c67df0afa765511429360a75c9ff"
+        },
+        "workshopdepot": "6420",
+        "branches": {
+            "public": {
+                "buildid": "1542276",
+                "timeupdated": "1482869659"
+            },
+            "community": {
+                "buildid": "889226",
+                "description": "Update by Nordic Games"
+            },
+            "prenordic_1.01": {
+                "buildid": "251770"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "94cda57e26f6b71177cc505f15b4387976ca6c1ea550352e41113d85a320f29d"
+    }
+}
