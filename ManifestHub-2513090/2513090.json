@@ -1,0 +1,30 @@
+{
+    "appid": 2513090,
+    "name": "云玩家",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 04:11:10",
+    "change_number": 30041490,
+    "depot": {
+        "2513091": {
+            "manifests": {
+                "public": {
+                    "gid": "1066357341804986527",
+                    "size": "245367775",
+                    "download": "40841488"
+                }
+            },
+            "decryptionkey": "82318b2bcbf2b140527cf3cb98322f76768d33063c8f11e59e4eb53464eb523e"
+        },
+        "workshopdepot": "2513090",
+        "branches": {
+            "public": {
+                "buildid": "18208173",
+                "timeupdated": "1745423938"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4850c5be1e85fb10b9620b0129fcbf1b0ea6e26d2cf36714ecc93a5038355f14"
+    }
+}
