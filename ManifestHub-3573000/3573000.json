@@ -1,0 +1,43 @@
+{
+    "appid": 3573000,
+    "name": "Milo's Tiny Fish Pond",
+    "type": "Game",
+    "schinese_name": "米洛的桌面鱼塘",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 08:29:49",
+    "change_number": 29736792,
+    "depot": {
+        "3573001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5687074922771890057",
+                    "size": "171585968",
+                    "download": "117122096"
+                }
+            },
+            "decryptionkey": "681ba7a64ac3ce943f86c49cb451a9437da356759fd91bd5c4c0ef81e7cabed9"
+        },
+        "3573002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2881517247925593079",
+                    "size": "256930752",
+                    "download": "131624864"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18991542",
+                "timeupdated": "1750836583"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
