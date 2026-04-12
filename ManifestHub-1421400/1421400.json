@@ -1,0 +1,59 @@
+{
+    "appid": 1421400,
+    "name": "Across the Obelisk Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 13:23:19",
+    "change_number": 30185721,
+    "depot": {
+        "1421401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "254675137243446232",
+                    "size": "584931877",
+                    "download": "318329936"
+                }
+            }
+        },
+        "1421402": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "661101962253929301",
+                    "size": "577190053",
+                    "download": "315728240"
+                }
+            }
+        },
+        "1385381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1746566356481089212",
+                    "size": "2637154432",
+                    "download": "1207696288"
+                }
+            },
+            "depotfromapp": "1385380",
+            "decryptionkey": "212b4c54a7dadad3bb6a4a55088868dde54c128e58d7ce4afab3363c77ba1383"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6235218",
+                "timeupdated": "1613218369"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
