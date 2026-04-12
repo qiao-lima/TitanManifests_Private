@@ -1,0 +1,27 @@
+{
+    "appid": 3126050,
+    "name": "Ninja: Shadow of the Dash",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 21:07:53",
+    "change_number": 29236494,
+    "depot": {
+        "3126051": {
+            "manifests": {
+                "public": {
+                    "gid": "1633857783005364442",
+                    "size": "77730192",
+                    "download": "20767792"
+                }
+            },
+            "decryptionkey": "a3fa12616a3445a7634fe2f8aecaf7dc9116573c8d30d24b807c71657fed9ba0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15422635",
+                "timeupdated": "1724086448"
+            }
+        }
+    }
+}
