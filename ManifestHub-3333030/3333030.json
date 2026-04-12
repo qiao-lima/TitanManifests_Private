@@ -1,0 +1,28 @@
+{
+    "appid": 3333030,
+    "name": "Kota`s New Journey - Supporter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-21 23:17:44",
+    "change_number": 29107085,
+    "depot": {
+        "3333030": {
+            "dlcappid": "3333030",
+            "manifests": {
+                "public": {
+                    "gid": "3126940162753886575",
+                    "size": "9401393",
+                    "download": "9353936"
+                }
+            },
+            "decryptionkey": "37227ecbaf51bf7689af5a278c09b55105c66e9ad55c531c4568f808b08b6790"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16502215",
+                "timeupdated": "1732289880"
+            }
+        }
+    }
+}
