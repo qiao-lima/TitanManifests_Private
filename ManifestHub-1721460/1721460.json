@@ -1,0 +1,43 @@
+{
+    "appid": 1721460,
+    "name": "Masochistic Elves from Another World",
+    "type": "Game",
+    "schinese_name": "爆乳妹子姫骑士",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 21:46:10",
+    "change_number": 30097403,
+    "depot": {
+        "1721461": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9211629645538212186",
+                    "size": "1255311973",
+                    "download": "1084698832"
+                }
+            },
+            "decryptionkey": "d19cc2bb0373db3cea74f0a39d9cfbfcda7e3ace9b191325a4141befe9b61f2e"
+        },
+        "1721462": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3697489448772856333",
+                    "size": "1158620846",
+                    "download": "1064131040"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8508090",
+                "timeupdated": "1649451151"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
