@@ -1,0 +1,36 @@
+{
+    "appid": 411370,
+    "name": "MELTY BLOOD Actress Again Current Code",
+    "type": "Game",
+    "schinese_name": "月姬格斗 最终版",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 23:44:26",
+    "change_number": 29905306,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "411371": {
+            "manifests": {
+                "public": {
+                    "gid": "8576952632003475793",
+                    "size": "2318139279",
+                    "download": "808092992"
+                }
+            },
+            "decryptionkey": "b62cf8ef41b7d77aded6c6df233ad7544c6bd6b8be0f09ad707d62d411d81497"
+        },
+        "411372": {},
+        "branches": {
+            "public": {
+                "buildid": "1562327",
+                "timeupdated": "1484198583"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
