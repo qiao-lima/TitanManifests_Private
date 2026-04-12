@@ -1,0 +1,67 @@
+{
+    "appid": 1337890,
+    "name": "Choice of Life: Middle Ages",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:12:43",
+    "change_number": 29553472,
+    "depot": {
+        "1337891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "235638613751142987",
+                    "size": "303029848",
+                    "download": "63482144"
+                }
+            },
+            "decryptionkey": "40fb1cf6aa4fb344641076e3fd89a29ef31558be28e5a74ee5e540038eeaeb58"
+        },
+        "1337892": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1244538928470598599",
+                    "size": "344486571",
+                    "download": "63443472"
+                }
+            },
+            "decryptionkey": "9be478adef8d1588784982561ead014e20a674fdc2268c33a61c775c4c6a6fd2"
+        },
+        "1337893": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2050932630376514108",
+                    "size": "299243302",
+                    "download": "62767088"
+                }
+            },
+            "decryptionkey": "53f4b25e4243209d8f2706b5957723728dbee82a423e9186fb3465d9863a137d"
+        },
+        "1767420": {
+            "dlcappid": "1767420",
+            "manifests": {
+                "public": {
+                    "gid": "2456101199851882364",
+                    "size": "10056400",
+                    "download": "9745776"
+                }
+            },
+            "decryptionkey": "78b2f75702906842b70642bf955b1354e1f9512a11aede168d4d75f58a87d485"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14492825",
+                "timeupdated": "1716639069"
+            }
+        }
+    }
+}
