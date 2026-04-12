@@ -1,0 +1,37 @@
+{
+    "appid": 355070,
+    "name": "TDP5 Arena 3D",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 01:59:30",
+    "change_number": 30079709,
+    "depot": {
+        "baselanguages": "",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "355071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "71547400993314814",
+                    "size": "39753847",
+                    "download": "9307120"
+                }
+            },
+            "decryptionkey": "c2e0d4216c51fd52b0d90bf160798476d33422ff96629e76e1f97595cbed2d6a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "567205"
+            }
+        }
+    }
+}
