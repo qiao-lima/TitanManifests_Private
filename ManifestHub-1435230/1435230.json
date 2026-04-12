@@ -1,0 +1,28 @@
+{
+    "appid": "1435230",
+    "type": "Game",
+    "name": "黑体运动论",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 13:52:41",
+    "depot": {
+        "1435231": {
+            "manifests": {
+                "public": {
+                    "gid": "2381332241222808712",
+                    "size": "199551234",
+                    "download": "75198480"
+                }
+            },
+            "decryptionkey": "bcce5eb56de034fb651f7485935c93643ec4de34d066a33cd0e96a52a9849221"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5620305",
+                "timeupdated": "1601530151"
+            }
+        }
+    },
+    "access_token": 17665628786099405853
+}
