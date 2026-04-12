@@ -1,0 +1,41 @@
+{
+    "appid": 2836830,
+    "name": "Bhop up!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 19:11:38",
+    "change_number": 29935547,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2836831": {
+            "manifests": {
+                "public": {
+                    "gid": "3467259548632524454",
+                    "size": "1030706825",
+                    "download": "920044272"
+                }
+            },
+            "decryptionkey": "10514ae7850301159cb074b57db3721c4c754bbad51a0dae93adcf8776bbeb15"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14603529",
+                "timeupdated": "1717533772"
+            }
+        }
+    }
+}
