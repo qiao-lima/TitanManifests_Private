@@ -1,0 +1,27 @@
+{
+    "appid": 1541670,
+    "name": "Giant Blobs From Mars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 08:04:42",
+    "change_number": 29578617,
+    "depot": {
+        "1541671": {
+            "manifests": {
+                "public": {
+                    "gid": "2777219361585382362",
+                    "size": "189136226",
+                    "download": "134954672"
+                }
+            },
+            "decryptionkey": "1bdafd0756a7a07e1a3ffde8d0b06403d11638260050b4d48bde5f9858bea611"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6344718",
+                "timeupdated": "1615161433"
+            }
+        }
+    }
+}
