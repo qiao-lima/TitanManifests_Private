@@ -1,0 +1,45 @@
+{
+    "appid": 1727210,
+    "name": "MINDHACK",
+    "type": "Game",
+    "schinese_name": "精神骇客",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 20:59:18",
+    "change_number": 29462771,
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1727211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8568266334639062068",
+                    "size": "7461316517",
+                    "download": "1669380400"
+                }
+            },
+            "decryptionkey": "4058b1c573da4a55b473be0e46c04912645e24a9a669f5694c7e83270b323562"
+        },
+        "1727212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7439432973287558790",
+                    "size": "7485577476",
+                    "download": "1683202656"
+                }
+            },
+            "decryptionkey": "1f306486ba980a402c2eeb58c3c8268d505075556c045fc1250a26b241be6618"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18404376",
+                "timeupdated": "1747299755"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
