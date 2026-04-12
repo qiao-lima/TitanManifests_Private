@@ -1,0 +1,31 @@
+{
+    "appid": 1455550,
+    "name": "Warhammer: Chaosbane - 4K Textures",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 10:31:40",
+    "change_number": 29713733,
+    "depot": {
+        "1455550": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3451782174616225792",
+                    "size": "699192",
+                    "download": "179792"
+                }
+            },
+            "dlcappid": "1455550",
+            "decryptionkey": "361759d8e0d96348724ed7c736924bb97056356a9733fe20d294393233a964b2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5721749",
+                "timeupdated": "1603374758"
+            }
+        }
+    }
+}
