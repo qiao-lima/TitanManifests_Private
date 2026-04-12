@@ -1,0 +1,28 @@
+{
+    "appid": 3432600,
+    "name": "BDSM Oasis",
+    "type": "Game",
+    "schinese_name": "BDSM 绿洲",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 21:38:13",
+    "change_number": 30138963,
+    "depot": {
+        "3432601": {
+            "manifests": {
+                "public": {
+                    "gid": "1885579655795284018",
+                    "size": "2288271082",
+                    "download": "829899024"
+                }
+            },
+            "decryptionkey": "de15edfde8f805bf22347f5e677530a1becf00728e8933e95b7391e1483b69f7"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "17980622",
+                "timeupdated": "1743748387"
+            }
+        }
+    }
+}
