@@ -1,0 +1,56 @@
+{
+    "appid": 963450,
+    "name": "The Eternal Castle [REMASTERED]",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:39:39",
+    "change_number": 29761373,
+    "depot": {
+        "963451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7893557640977851383",
+                    "size": "309859509",
+                    "download": "248787200"
+                }
+            },
+            "decryptionkey": "9614b572662d29cb3b2cdbae90fb8f1401c12ae2cf6401e84773dff11cbf40ea"
+        },
+        "963452": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7211672141665188480",
+                    "size": "297961373",
+                    "download": "237454592"
+                }
+            },
+            "decryptionkey": "157a2da8918c71d621a6c5275d4ca8ab01a2c6345ecd8a5d9aa42492677ea119"
+        },
+        "963453": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6527125694998440365",
+                    "size": "353433172",
+                    "download": "275316288"
+                }
+            },
+            "decryptionkey": "621076f2bf8bf32d71856b74b8380f4a7f34ee6c0c3f14262ea441b8b078891b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4305888",
+                "timeupdated": "1571593273"
+            }
+        }
+    }
+}
