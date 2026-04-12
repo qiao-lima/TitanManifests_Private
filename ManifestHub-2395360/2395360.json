@@ -1,0 +1,55 @@
+{
+    "appid": 2395360,
+    "name": "Slime Knight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-20 10:12:28",
+    "change_number": 29073094,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2395361": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4012885811883554115",
+                    "size": "577210180",
+                    "download": "474672288"
+                },
+                "update2_0": {
+                    "gid": "4012885811883554115",
+                    "size": "577210180",
+                    "download": "474672288"
+                }
+            },
+            "decryptionkey": "c4e13c33de0499d63d9fb23b88b6deaf50d49e70b4dc1952b5e44661ae6d5eb8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11141552",
+                "timeupdated": "1683263026"
+            },
+            "update2_0": {
+                "buildid": "11141552",
+                "description": "Updated build with performance enhancements",
+                "timeupdated": "1683069749"
+            }
+        }
+    }
+}
