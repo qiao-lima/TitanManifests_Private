@@ -1,0 +1,31 @@
+{
+    "appid": 2867460,
+    "name": "NTR Office",
+    "type": "Game",
+    "schinese_name": "NTR办公室",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 09:11:47",
+    "change_number": 30127199,
+    "depot": {
+        "2867461": {
+            "manifests": {
+                "public": {
+                    "gid": "3441453987119671625",
+                    "size": "2593731377",
+                    "download": "624752448"
+                }
+            },
+            "decryptionkey": "3ba7fbd2034a8a11bc6e363a35b7170963943c3804bf743bf06eb5360d19c2ac"
+        },
+        "2867462": {
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18654406",
+                "timeupdated": "1748500475"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
