@@ -1,0 +1,53 @@
+{
+    "appid": 3032020,
+    "name": "Cast & Spell",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 02:41:48",
+    "change_number": 30177581,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "3032021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "404271573201053225",
+                    "size": "2089595335",
+                    "download": "1699118256"
+                }
+            },
+            "decryptionkey": "895cdbd736b06ba1b5847b5f004439ec4e5c858a703376492b9a6eceddc905fb"
+        },
+        "3032022": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19037915",
+                "timeupdated": "1751129128"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
