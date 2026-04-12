@@ -1,0 +1,162 @@
+{
+    "appid": 802890,
+    "name": "Muv-Luv Alternative",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 12:18:06",
+    "change_number": 30109048,
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "802891": {
+            "manifests": {
+                "public": {
+                    "gid": "8494213411169986077",
+                    "size": "5860836088",
+                    "download": "5223593808"
+                },
+                "ancient": {
+                    "gid": "1391761727590212707",
+                    "size": "5860794038",
+                    "download": "5223588544"
+                }
+            },
+            "decryptionkey": "215b79691c91bb3febf20e9414071a595326d848a6b185b514342af033166d19"
+        },
+        "1251940": {
+            "dlcappid": "1251940",
+            "manifests": {
+                "public": {
+                    "gid": "925353666202045494",
+                    "size": "459551993",
+                    "download": "464595680"
+                }
+            },
+            "decryptionkey": "2f32ae60d8c9c86ab1eb6b8d03f790c7e218c63113b5afd0c512795eadd94308"
+        },
+        "1987170": {
+            "dlcappid": "1987170",
+            "manifests": {
+                "public": {
+                    "gid": "8099494511123609835",
+                    "size": "423387775",
+                    "download": "427714160"
+                }
+            },
+            "decryptionkey": "1d80b563e27c56546f6d81b36c777d90f9f44c89fa559e0414541852cfc318f8"
+        },
+        "2334110": {
+            "dlcappid": "2334110",
+            "manifests": {
+                "public": {
+                    "gid": "829576322999302084",
+                    "size": "135481108",
+                    "download": "137225280"
+                }
+            },
+            "decryptionkey": "75d2a8b5b0dc05f72598a30d7977f31f9120f08a2962a08c9e075f71531e0d5e"
+        },
+        "2362970": {
+            "dlcappid": "2362970",
+            "manifests": {
+                "public": {
+                    "gid": "1051024993150361081",
+                    "size": "137532560",
+                    "download": "139295776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2399240": {
+            "dlcappid": "2399240",
+            "manifests": {
+                "public": {
+                    "gid": "8913415054198478136",
+                    "size": "125087501",
+                    "download": "126680720"
+                }
+            },
+            "decryptionkey": "171c9e563c04cf0a0466d207a3894ab6f2cf19c3ee7d7c0887a8237b8117f179"
+        },
+        "2399320": {
+            "dlcappid": "2399320",
+            "manifests": {
+                "public": {
+                    "gid": "4829606090455705423",
+                    "size": "125771591",
+                    "download": "127376224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2630270": {
+            "dlcappid": "2630270",
+            "manifests": {
+                "public": {
+                    "gid": "90108259365356515",
+                    "size": "117134787",
+                    "download": "118621728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2630280": {
+            "dlcappid": "2630280",
+            "manifests": {
+                "public": {
+                    "gid": "3069888730599598111",
+                    "size": "122105593",
+                    "download": "123655248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3412870": {
+            "dlcappid": "3412870",
+            "manifests": {
+                "public": {
+                    "gid": "8753367314595923806",
+                    "size": "104074905",
+                    "download": "105404160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3412880": {
+            "dlcappid": "3412880",
+            "manifests": {
+                "public": {
+                    "gid": "163877682473530893",
+                    "size": "105057595",
+                    "download": "106399216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18699247",
+                "timeupdated": "1748998624"
+            },
+            "ancient": {
+                "buildid": "2524289",
+                "timeupdated": "1529634274"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
