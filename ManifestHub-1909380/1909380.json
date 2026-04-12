@@ -1,0 +1,27 @@
+{
+    "appid": 1909380,
+    "name": "Furry Sex",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 05:10:19",
+    "change_number": 29734734,
+    "depot": {
+        "1909381": {
+            "manifests": {
+                "public": {
+                    "gid": "414297530488362310",
+                    "size": "256024595",
+                    "download": "170377904"
+                }
+            },
+            "decryptionkey": "effbfae4e392d118187019bb60daedc8e971bb199578c9a7a3d3e1a4ef571c3c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11450659",
+                "timeupdated": "1686587596"
+            }
+        }
+    }
+}
