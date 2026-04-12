@@ -1,0 +1,122 @@
+{
+    "appid": 347620,
+    "name": "Gaokao.Love.100Days",
+    "type": "Game",
+    "schinese_name": "高考恋爱一百天",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:42:02",
+    "change_number": 29694642,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "347621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7784427331458553270",
+                    "size": "3596720328",
+                    "download": "3496364464"
+                },
+                "original": {
+                    "gid": "5158729774291243904",
+                    "size": "2187250370",
+                    "download": "1992378720"
+                }
+            },
+            "decryptionkey": "61d9744815c29c3567d175e98654e57ffa0859c8dfec37b1cc095837fb5ca850"
+        },
+        "378400": {
+            "dlcappid": "378400",
+            "manifests": {
+                "public": {
+                    "gid": "5596261423492460866",
+                    "size": "530476103",
+                    "download": "453666400"
+                },
+                "original": {
+                    "gid": "5596261423492460866",
+                    "size": "530476103",
+                    "download": "453666400"
+                }
+            },
+            "decryptionkey": "64fe4cfe2b8e690e46ca89436ab8f4613f62a2e90be35bd6b82ad5e28b41c2aa"
+        },
+        "396960": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "396960",
+            "manifests": {
+                "public": {
+                    "gid": "7687552751759860113",
+                    "size": "83281241",
+                    "download": "81673712"
+                },
+                "original": {
+                    "gid": "7687552751759860113",
+                    "size": "83281241",
+                    "download": "81673712"
+                }
+            },
+            "decryptionkey": "4e1c0a33355f4897b3693786ff6da3180837f23579e1e51ad6cde66851e9f1b9"
+        },
+        "747900": {
+            "dlcappid": "747900",
+            "manifests": {
+                "public": {
+                    "gid": "351081312932038715",
+                    "size": "113119640",
+                    "download": "107314144"
+                },
+                "original": {
+                    "gid": "351081312932038715",
+                    "size": "113119640",
+                    "download": "107314144"
+                }
+            },
+            "decryptionkey": "c83493324fc46ba84d1c878caf8d126d5014f3c39f977736fef4bb8d5069545d"
+        },
+        "3588910": {
+            "dlcappid": "3588910",
+            "manifests": {
+                "public": {
+                    "gid": "6702521631858696417",
+                    "size": "3951054151",
+                    "download": "3485284768"
+                }
+            },
+            "decryptionkey": "7866d67d699f3daf316aaae67381dfe173fc14948425451d54b8e571920f6df4"
+        },
+        "3588920": {
+            "dlcappid": "3588920",
+            "manifests": {
+                "public": {
+                    "gid": "8066658500981666543",
+                    "size": "153639618",
+                    "download": "127098048"
+                }
+            },
+            "decryptionkey": "e2c8c893bd10a28598f6920ff7eeec77084f0ae0322e817fbc0ba2f4fdb3fb04"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18730370",
+                "timeupdated": "1749023369"
+            },
+            "original": {
+                "buildid": "3171696",
+                "description": "krkr version",
+                "timeupdated": "1748327343"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
