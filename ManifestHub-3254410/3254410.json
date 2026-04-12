@@ -1,0 +1,28 @@
+{
+    "appid": 3254410,
+    "name": "Europa - \"The Making Of\" Digital Book",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 11:54:24",
+    "change_number": 29801232,
+    "depot": {
+        "3254410": {
+            "dlcappid": "3254410",
+            "manifests": {
+                "public": {
+                    "gid": "1516276285493766637",
+                    "size": "27064579",
+                    "download": "25261264"
+                }
+            },
+            "decryptionkey": "8fb609973d333082f9bf0dc7bd66680a756775f5d71e9f4fe7e763870f1cd2f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15969214",
+                "timeupdated": "1728402698"
+            }
+        }
+    }
+}
