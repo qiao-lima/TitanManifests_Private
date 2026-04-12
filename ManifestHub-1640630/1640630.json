@@ -1,0 +1,32 @@
+{
+    "appid": 1640630,
+    "name": "Heading Out",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 10:22:55",
+    "change_number": 29984995,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1640631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5917865887485908367",
+                    "size": "21165120838",
+                    "download": "10260738896"
+                }
+            },
+            "decryptionkey": "5e86125460087045de71f7cacd85aac39aff11b4d15859d8b891d21088be57ed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18826669",
+                "timeupdated": "1749744086"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
