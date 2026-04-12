@@ -1,0 +1,27 @@
+{
+    "appid": 1300580,
+    "name": "Battle Baseball",
+    "type": "Game",
+    "schinese_name": "战斗棒球",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 07:31:15",
+    "change_number": 30033480,
+    "depot": {
+        "1300581": {
+            "manifests": {
+                "public": {
+                    "gid": "3260509125448992649",
+                    "size": "66239642",
+                    "download": "17784048"
+                }
+            },
+            "decryptionkey": "e495c829b1860742d4cde2a5f2b71a255e22930ba938cb499f6bdf2915d99ee3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4925561",
+                "timeupdated": "1587477681"
+            }
+        }
+    }
+}
