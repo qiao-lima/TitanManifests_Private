@@ -1,0 +1,29 @@
+{
+    "appid": 2401460,
+    "name": "Tamas Awakening",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 00:50:23",
+    "change_number": 30121093,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2401467": {
+            "manifests": {
+                "public": {
+                    "gid": "840380702033304322",
+                    "size": "783148591",
+                    "download": "613568048"
+                }
+            },
+            "decryptionkey": "1070e450f68f8f855dcd9b730e78cd6b1e897b825d6424c4c0e6de64d9e71d73"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11037663",
+                "timeupdated": "1681888976"
+            }
+        }
+    }
+}
