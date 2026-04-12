@@ -1,0 +1,28 @@
+{
+    "appid": 3371500,
+    "name": "傲世修仙录",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 10:28:27",
+    "change_number": 29274479,
+    "depot": {
+        "3371501": {
+            "manifests": {
+                "public": {
+                    "gid": "8767297023746237703",
+                    "size": "549814314",
+                    "download": "359886832"
+                }
+            },
+            "decryptionkey": "644d6bac7e76ca6d90494b49b2054b8dfc53e29cbe0b36d68da8a993e826f66b"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "18667695",
+                "timeupdated": "1748572099"
+            }
+        }
+    }
+}
