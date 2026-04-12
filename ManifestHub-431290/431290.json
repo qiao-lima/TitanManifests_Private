@@ -1,0 +1,43 @@
+{
+    "appid": 431290,
+    "name": "Level 22: Gary’s Misadventures",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:32:48",
+    "change_number": 29670106,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,portuguese,brazilian",
+        "431291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "607877329070491311",
+                    "size": "228907980",
+                    "download": "20613328"
+                }
+            },
+            "decryptionkey": "02f5307465dfd690183071fde1cdd058153dd217d622c619863322e8dfd4e36d"
+        },
+        "431292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6714987631179495989",
+                    "size": "234572542",
+                    "download": "21789552"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "976640"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
