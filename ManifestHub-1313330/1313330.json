@@ -1,0 +1,27 @@
+{
+    "appid": 1313330,
+    "name": "HEDE Game Engine",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:54:12",
+    "change_number": 29769493,
+    "depot": {
+        "1313331": {
+            "manifests": {
+                "public": {
+                    "gid": "297834751637597674",
+                    "size": "9612546537",
+                    "download": "561905536"
+                }
+            },
+            "decryptionkey": "93322c0ac44fe86131c213869697e3e145d64caa633d4593bb0d6a19ceb28504"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8147590",
+                "timeupdated": "1644003988"
+            }
+        }
+    }
+}
