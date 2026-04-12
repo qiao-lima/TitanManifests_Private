@@ -1,0 +1,29 @@
+{
+    "appid": 12800,
+    "name": "FUEL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 23:31:37",
+    "change_number": 30194730,
+    "depot": {
+        "12801": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "2664807168465120074",
+                    "size": "4309328722",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "15e9fc6b41a6aaa487d6f40aab10935309539ffab42feef113b81f933363d8eb"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,french,german,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "252069"
+            }
+        }
+    }
+}
