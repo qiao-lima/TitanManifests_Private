@@ -1,0 +1,27 @@
+{
+    "appid": 3543420,
+    "name": "ТИХИЙ ДЭН",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 09:57:37",
+    "change_number": 30106558,
+    "depot": {
+        "3543421": {
+            "manifests": {
+                "public": {
+                    "gid": "1129890853858625516",
+                    "size": "1078511116",
+                    "download": "979040320"
+                }
+            },
+            "decryptionkey": "7e4c11088aa3afd1cb500006b652778df544171b13ad9396e9b81a8c5fd9b95d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18885945",
+                "timeupdated": "1750093156"
+            }
+        }
+    }
+}
