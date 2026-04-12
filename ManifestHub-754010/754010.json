@@ -1,0 +1,38 @@
+{
+    "appid": 754010,
+    "name": "Medicalholodeck",
+    "type": "Application",
+    "schinese_name": "MEDICALHOLODECK®。虚拟现实中的外科、解剖学、医学和DICOM。适用于医学生、护士、医生和外科医生。",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 07:57:46",
+    "change_number": 30180734,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "754011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4683621410263746169",
+                    "size": "701649631",
+                    "download": "265320048"
+                }
+            },
+            "decryptionkey": "abcfbb2aaf0ca554c7504dc6af71d2974d9cf3a6a1ed61f859749c5b1e491ddd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19310966",
+                "timeupdated": "1753167463"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
