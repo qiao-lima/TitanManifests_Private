@@ -1,0 +1,29 @@
+{
+    "appid": 1653650,
+    "name": "Lucid Dream Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 01:10:37",
+    "change_number": 29914651,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1653651": {
+            "manifests": {
+                "public": {
+                    "gid": "2702212253437352572",
+                    "size": "796414968",
+                    "download": "311568016"
+                }
+            },
+            "decryptionkey": "9397efb18acab046837257d9d5aa3ad485df997482f59eb9e96adc974a4ec2af"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "10212499",
+                "timeupdated": "1671928108"
+            }
+        }
+    }
+}
