@@ -1,0 +1,76 @@
+{
+    "appid": 3056580,
+    "name": "HEXAROMA",
+    "type": "Game",
+    "schinese_name": "桃花源物语：建造小镇",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 05:50:45",
+    "change_number": 30082395,
+    "depot": {
+        "3056581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2268820602275465222",
+                    "size": "682718740",
+                    "download": "154600592"
+                },
+                "beta": {
+                    "gid": "2268820602275465222",
+                    "size": "682718740",
+                    "download": "154600592"
+                }
+            },
+            "decryptionkey": "b0356baaaf926fe9395c4eea611a9b4c1fd3e3a46325bf29c4522188faea319a"
+        },
+        "3056582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6406302952824602371",
+                    "size": "708803257",
+                    "download": "162833232"
+                },
+                "beta": {
+                    "gid": "6406302952824602371",
+                    "size": "708803257",
+                    "download": "162833232"
+                }
+            },
+            "decryptionkey": "5c8986d4c03a89e80209e9947cbc40486fd213c89a16574017a7f627407633a1"
+        },
+        "3056583": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2498909914369317807",
+                    "size": "695361969",
+                    "download": "161771920"
+                },
+                "beta": {
+                    "gid": "2498909914369317807",
+                    "size": "695361969",
+                    "download": "161771920"
+                }
+            },
+            "decryptionkey": "513638bb5cf7d5121e95d17f840c5eb60a4af75ebe28a11db3837b6c17bde2b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18747986",
+                "timeupdated": "1749271366"
+            },
+            "beta": {
+                "buildid": "18747986",
+                "description": "Beta stating branch, usually full of bugs",
+                "timeupdated": "1749116115"
+            }
+        }
+    }
+}
