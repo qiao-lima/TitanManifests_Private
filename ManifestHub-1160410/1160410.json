@@ -1,0 +1,28 @@
+{
+    "appid": 1160410,
+    "name": "Hentai Balloons",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:42:31",
+    "change_number": 30193782,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1160411": {
+            "manifests": {
+                "public": {
+                    "gid": "5636587375475536451",
+                    "size": "183573895",
+                    "download": "181157472"
+                }
+            },
+            "decryptionkey": "7dc4c5d4bcb7df43d9fc1bc9a7a35920101da61912daf05b38d1177c18bdb05e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18787977",
+                "timeupdated": "1749425090"
+            }
+        }
+    }
+}
