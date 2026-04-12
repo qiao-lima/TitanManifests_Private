@@ -1,0 +1,28 @@
+{
+    "appid": 2165620,
+    "name": "Pool Cleaning Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 18:51:06",
+    "change_number": 30212009,
+    "depot": {
+        "2165621": {
+            "manifests": {
+                "public": {
+                    "gid": "5760776791208214945",
+                    "size": "16214206675",
+                    "download": "4267368272"
+                }
+            },
+            "decryptionkey": "ad8dde03388a6fbaa173e97616fe19a9ca497d6552276fa6a6f2bf4083ce99bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19332641",
+                "timeupdated": "1753293029"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
