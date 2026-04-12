@@ -1,0 +1,48 @@
+{
+    "appid": 1415890,
+    "name": "HotRobot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-22 15:57:54",
+    "change_number": 29115685,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1415891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7834577900454716359",
+                    "size": "36281902977",
+                    "download": "34729595504"
+                }
+            },
+            "decryptionkey": "ffe424c8af30fe1e3e8e9561e9b02d5c9fd4bfd066f31b378ec4105a482291cc"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9681875",
+                "timeupdated": "1665242678"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
