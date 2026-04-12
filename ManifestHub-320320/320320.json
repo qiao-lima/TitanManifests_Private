@@ -1,0 +1,63 @@
+{
+    "appid": 320320,
+    "name": "Darkstone",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 15:49:22",
+    "change_number": 29880928,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "320321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4579580302334621838",
+                    "size": "722877580",
+                    "download": "1808154487946"
+                }
+            },
+            "decryptionkey": "7b3420951a4705240fc0124075c85592a295ab0b52a995d211a9d2d5e0eb9512"
+        },
+        "320322": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "320323": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "320324": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "320325": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "376094"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
