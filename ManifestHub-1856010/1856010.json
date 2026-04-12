@@ -1,0 +1,28 @@
+{
+    "appid": 1856010,
+    "name": "Eagle Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 17:15:13",
+    "change_number": 29790853,
+    "depot": {
+        "1856011": {
+            "manifests": {
+                "public": {
+                    "gid": "5095110456864408791",
+                    "size": "56527207",
+                    "download": "19768880"
+                }
+            },
+            "decryptionkey": "c744865e18c1f923f27a21b1f6d01d37016caac63c84324d9c3fad11276d7856"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7914644",
+                "timeupdated": "1640017533"
+            }
+        }
+    },
+    "access_token": 5289524441697777849
+}
