@@ -1,0 +1,29 @@
+{
+    "appid": 691920,
+    "name": "The Art Of Knuckle Sandwich",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:44",
+    "change_number": 30056467,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "691921": {
+            "manifests": {
+                "public": {
+                    "gid": "2482118309167102719",
+                    "size": "403993200",
+                    "download": "113024784"
+                }
+            },
+            "decryptionkey": "02ec4727dd0fd80dda9ccbf2cbaba89b95d4d225d161834aa784ad08f681ae34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2008188",
+                "timeupdated": "1501732387"
+            }
+        }
+    },
+    "access_token": 18255276843279303347
+}
