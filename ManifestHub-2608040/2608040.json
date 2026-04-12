@@ -1,0 +1,38 @@
+{
+    "appid": 2608040,
+    "name": "Cats Hidden in China",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:17:09",
+    "change_number": 29723273,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2608041": {
+            "manifests": {
+                "public": {
+                    "gid": "5436576638846885230",
+                    "size": "105376724",
+                    "download": "76737888"
+                },
+                "test": {
+                    "gid": "3724456457559498324",
+                    "size": "105376634",
+                    "download": "76737168"
+                }
+            },
+            "decryptionkey": "da86d90aa41712b5a21971a2df725471a6c3c9d16b576903c6919dedf96db730"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18980906",
+                "timeupdated": "1750770229"
+            },
+            "test": {
+                "buildid": "18956045",
+                "description": "test",
+                "timeupdated": "1750603428"
+            }
+        }
+    }
+}
