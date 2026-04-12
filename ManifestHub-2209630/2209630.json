@@ -1,0 +1,27 @@
+{
+    "appid": 2209630,
+    "name": "My Pleasure - Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:14:32",
+    "change_number": 27039472,
+    "depot": {
+        "2209631": {
+            "manifests": {
+                "public": {
+                    "gid": "8367926189716393498",
+                    "size": "111880962",
+                    "download": "110895408"
+                }
+            },
+            "decryptionkey": "d55d460b4e2f2e1c0e07fa6b1588f5e58b87f506ac313be50c2c28a37478548b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9861234",
+                "timeupdated": "1667475572"
+            }
+        }
+    }
+}
