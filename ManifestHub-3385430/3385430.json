@@ -1,0 +1,27 @@
+{
+    "appid": 3385430,
+    "name": "Archaeology - Sand Fantasy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 01:51:04",
+    "change_number": 30141573,
+    "depot": {
+        "3385431": {
+            "manifests": {
+                "public": {
+                    "gid": "6017267859843955296",
+                    "size": "1253938409",
+                    "download": "225335344"
+                }
+            },
+            "decryptionkey": "31d5c9dc68f7c5c890895a552dfe8ff870ba19aa44822dff8243c4a5df514da2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17581373",
+                "timeupdated": "1741046226"
+            }
+        }
+    }
+}
