@@ -1,0 +1,48 @@
+{
+    "appid": 2853730,
+    "name": "Skull and Bones",
+    "type": "Game",
+    "schinese_name": "碧海黑帆",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 06:29:16",
+    "change_number": 30199920,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2853731": {
+            "manifests": {
+                "public": {
+                    "gid": "1176002430309061553",
+                    "size": "75945773511",
+                    "download": "63325699056"
+                }
+            },
+            "decryptionkey": "714fcb880dabe47d44a94ed0315e88d867583916d2e1c24d26b648f73870ee9f"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "19253825",
+                "timeupdated": "1753164496"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
