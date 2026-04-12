@@ -1,0 +1,31 @@
+{
+    "appid": 965180,
+    "name": "骑士的魔法战争",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 04:56:00",
+    "change_number": 29835257,
+    "depot": {
+        "baselanguages": "",
+        "965181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "100505546582744571",
+                    "size": "1413326925",
+                    "download": "379293296"
+                }
+            },
+            "decryptionkey": "089a7cc45bd43f7cdb7d5ad6da01d6218ee5517f45c7f7f6096414b9a66cbb34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4480407",
+                "timeupdated": "1596677277"
+            }
+        }
+    }
+}
