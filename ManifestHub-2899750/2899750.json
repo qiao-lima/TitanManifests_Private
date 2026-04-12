@@ -1,0 +1,27 @@
+{
+    "appid": 2899750,
+    "name": "My Boyfriend is a Martian👰❤️👽",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 04:03:09",
+    "change_number": 29220848,
+    "depot": {
+        "2899751": {
+            "manifests": {
+                "public": {
+                    "gid": "5365302053916104452",
+                    "size": "131585790",
+                    "download": "66918560"
+                }
+            },
+            "decryptionkey": "00596dd061bbb9ce53a009bd4bae808c08ce7e6ab4633b5a88c45843ff893883"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13945604",
+                "timeupdated": "1712210604"
+            }
+        }
+    }
+}
