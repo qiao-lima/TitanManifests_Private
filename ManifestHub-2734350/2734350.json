@@ -1,0 +1,41 @@
+{
+    "appid": 2734350,
+    "name": "Elise",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 03:31:17",
+    "change_number": 30041134,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2734351": {
+            "manifests": {
+                "public": {
+                    "gid": "5261793716253632983",
+                    "size": "6522101888",
+                    "download": "6344150544"
+                }
+            },
+            "decryptionkey": "5361ed831bbeef8931bac92645c4fbdc4368fcc67e3f9d2a7aa693c130844c3d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18592478",
+                "timeupdated": "1748073227"
+            }
+        }
+    }
+}
