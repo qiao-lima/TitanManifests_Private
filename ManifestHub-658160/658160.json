@@ -1,0 +1,122 @@
+{
+    "appid": 658160,
+    "name": "ClickRaid",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 16:14:44",
+    "change_number": 29802898,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "658161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3614325900576899771",
+                    "size": "127787457",
+                    "download": "104186144"
+                },
+                "linuxtestbuild": {
+                    "gid": "3614325900576899771",
+                    "size": "127787457",
+                    "download": "104186144"
+                },
+                "transcendence": {
+                    "gid": "3865509381047348296",
+                    "size": "127792065",
+                    "download": "104181952"
+                }
+            },
+            "decryptionkey": "30e85dc01b8857acb9faf437bd7d02cacc960f964dcb745cf8df67efbeb26357"
+        },
+        "658163": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7871258005663316585",
+                    "size": "131252766",
+                    "download": "104992368"
+                },
+                "linuxtestbuild": {
+                    "gid": "2869670814197499231",
+                    "size": "113520217",
+                    "download": "100462288"
+                },
+                "transcendence": {
+                    "gid": "5859546342083350554",
+                    "size": "131244126",
+                    "download": "104992320"
+                }
+            },
+            "decryptionkey": "6d4d2c501c7feae0f2a006a0602d2c14086116df1c7a0674de200641d5d97743"
+        },
+        "658162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "680805818255641391",
+                    "size": "0",
+                    "download": "0"
+                },
+                "linuxtestbuild": {
+                    "gid": "680805818255641391",
+                    "size": "0",
+                    "download": "0"
+                },
+                "transcendence": {
+                    "gid": "680805818255641391",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "658164": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "transcendence": {
+                    "gid": "2607955955768828488",
+                    "size": "174739056",
+                    "download": "42097376"
+                }
+            },
+            "decryptionkey": "c7d018a42a9234db303d8d140a618191870c357e2ae98d028ce1cff34a6d40c9"
+        },
+        "658165": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "transcendence": {
+                    "gid": "268579345376153827",
+                    "size": "60837175",
+                    "download": "17341008"
+                }
+            },
+            "decryptionkey": "83a7e52621364044d8c06408bbb166f674121b2ed4dff92b7db42813c7d8b22c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3968723",
+                "timeupdated": "1565548715"
+            },
+            "linuxtestbuild": {
+                "buildid": "4514533",
+                "timeupdated": "1576831302"
+            },
+            "transcendence": {
+                "buildid": "3946692",
+                "timeupdated": "1561324505"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
