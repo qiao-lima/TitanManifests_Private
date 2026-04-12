@@ -1,0 +1,58 @@
+{
+    "appid": 1252390,
+    "name": "CyberHive",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 01:07:17",
+    "change_number": 29732268,
+    "depot": {
+        "baselanguages": "english",
+        "1252391": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6065741065550535729",
+                    "size": "226906222",
+                    "download": "86693984"
+                }
+            },
+            "decryptionkey": "22624de6877f7017656e03197398153c2e1cfa53e435a97ef3f1c8a004a5cbd4"
+        },
+        "1252392": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5418522137305925013",
+                    "size": "212553198",
+                    "download": "80853888"
+                }
+            }
+        },
+        "1252393": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3726988519096509967",
+                    "size": "202640812",
+                    "download": "81111424"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18816827",
+                "timeupdated": "1749595910"
+            }
+        }
+    }
+}
