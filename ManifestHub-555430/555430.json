@@ -1,0 +1,86 @@
+{
+    "appid": "555430",
+    "type": "Game",
+    "name": "On The Path",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-28 11:58:40",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "555431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5116174285061871739",
+                    "size": "527047985",
+                    "download": "400676064"
+                }
+            },
+            "decryptionkey": "6f7283d3c6e207cfeb83226e676feea1454d149f74210364492740cde19c8e56"
+        },
+        "555432": {
+            "config": {
+                "oslist": "windows",
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9050399945567092315",
+                    "size": "963618172",
+                    "download": "427578992"
+                }
+            },
+            "decryptionkey": "9a4692d0439dc5ca064b2dea7257d3ed432e614c6ef5a2ed14e73fd73ef7ffcf"
+        },
+        "564870": {
+            "dlcappid": "564870",
+            "manifests": {
+                "public": {
+                    "gid": "7966108752221388318",
+                    "size": "45451239",
+                    "download": "44380784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "565400": {
+            "dlcappid": "565400",
+            "manifests": {
+                "public": {
+                    "gid": "8552586201251470665",
+                    "size": "9446715",
+                    "download": "9204976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "566300": {
+            "dlcappid": "566300",
+            "manifests": {
+                "public": {
+                    "gid": "4779989273559518876",
+                    "size": "16120559",
+                    "download": "16054560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3483663",
+                "timeupdated": "1547895603"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 3731361680026431056
+}
