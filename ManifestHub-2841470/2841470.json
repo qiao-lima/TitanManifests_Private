@@ -1,0 +1,33 @@
+{
+    "appid": 2841470,
+    "name": "Sunset Humanity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 08:52:52",
+    "change_number": 30162617,
+    "depot": {
+        "2841471": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2853590567830325775",
+                    "size": "623653653",
+                    "download": "284193408"
+                }
+            },
+            "decryptionkey": "d414aa62f85541109ad12bdf9df7253b84952d6b16c7c90a452568cda62f448b"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19290507",
+                "timeupdated": "1753006301"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
