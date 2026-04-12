@@ -1,0 +1,27 @@
+{
+    "appid": 527470,
+    "name": "Donuts'n'Justice",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 00:42:04",
+    "change_number": 29352985,
+    "depot": {
+        "527471": {
+            "manifests": {
+                "public": {
+                    "gid": "4840461718203431300",
+                    "size": "143172390",
+                    "download": "56340720"
+                }
+            },
+            "decryptionkey": "fb6bd1dc33103fec5c41fa5e2a1c21596336f94e76989a36daa02eb5afeff41f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2783277",
+                "timeupdated": "1526581165"
+            }
+        }
+    }
+}
