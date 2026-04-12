@@ -1,0 +1,42 @@
+{
+    "appid": 533040,
+    "name": "Dark Parables: The Thief and the Tinderbox Collector's Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 07:11:27",
+    "change_number": 29735805,
+    "depot": {
+        "533041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8776562201954750914",
+                    "size": "1147925537",
+                    "download": "1155254224"
+                }
+            },
+            "decryptionkey": "d1656b951cd16374c605299df8f88e608f32da681c53674ea400635662f856d3"
+        },
+        "533042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "375243696860618092",
+                    "size": "1198907634",
+                    "download": "1158470896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1725852",
+                "timeupdated": "1490896250"
+            }
+        }
+    }
+}
