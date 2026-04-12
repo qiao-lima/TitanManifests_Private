@@ -1,0 +1,82 @@
+{
+    "appid": "569760",
+    "type": "Game",
+    "name": "Last Answer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:19:13",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "569761": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7846986004088450648",
+                    "size": "4053608873",
+                    "download": "3399124128"
+                },
+                "bequest": {
+                    "gid": "7846986004088450648",
+                    "size": "4053608873",
+                    "download": "3399124128"
+                }
+            },
+            "decryptionkey": "c137154f197c9b1510fd62ee5aff14ff68213d6d9d489baa316191ea9b52616f"
+        },
+        "569762": {
+            "dlcappid": "593480",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "bequest": {
+                    "gid": "8195886506630792294",
+                    "size": "1815877493",
+                    "download": "1524271952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "1623578",
+                "timeupdated": "1486754283"
+            },
+            "bequest": {
+                "buildid": "1623594",
+                "description": "DLC",
+                "timeupdated": "1486754771"
+            }
+        }
+    },
+    "access_token": 4848620735806236664
+}
