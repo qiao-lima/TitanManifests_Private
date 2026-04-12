@@ -1,0 +1,32 @@
+{
+    "appid": 1998660,
+    "name": "三国群英之兵临天下",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 10:19:12",
+    "change_number": 30203131,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "1998661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5352310950465564668",
+                    "size": "533309707",
+                    "download": "345719728"
+                }
+            },
+            "decryptionkey": "83e09ed016f241452da5cc4c5831d740b1f4eb7ad7faf68412cd7200e47cd53a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19324913",
+                "timeupdated": "1753262346"
+            }
+        }
+    }
+}
