@@ -1,0 +1,29 @@
+{
+    "appid": 3264820,
+    "name": "不可撤离区",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 15:36:19",
+    "change_number": 30091387,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3264822": {
+            "manifests": {
+                "public": {
+                    "gid": "5732024890378240012",
+                    "size": "2418464715",
+                    "download": "189573392"
+                }
+            },
+            "decryptionkey": "c4089c5e9b41971e0020947c5dc5808d079f7ff45dfc3744a0a19cfdd55f355c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18354152",
+                "timeupdated": "1746501182"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
