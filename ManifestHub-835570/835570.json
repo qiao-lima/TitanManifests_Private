@@ -1,0 +1,73 @@
+{
+    "appid": 835570,
+    "name": "Conqueror's Blade",
+    "type": "Game",
+    "schinese_name": "战意",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 04:00:20",
+    "change_number": 30218867,
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam,vietnamese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "835571": {
+            "config": {
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7044488287243988419",
+                    "size": "71769353420",
+                    "download": "53142225072"
+                }
+            },
+            "decryptionkey": "f2597d3fb3b84945af5479bcdc98ba0c2c5a4c3494c2c4ec31f43668ddcc62df"
+        },
+        "835572": {
+            "manifests": {}
+        },
+        "835573": {
+            "manifests": {}
+        },
+        "835574": {},
+        "835575": {
+            "config": {
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4454059208397241929",
+                    "size": "71960634006",
+                    "download": "56571172624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19337205",
+                "timeupdated": "1753320983"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
