@@ -1,0 +1,27 @@
+{
+    "appid": 2227620,
+    "name": "Furry Tale",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 22:11:20",
+    "change_number": 29937836,
+    "depot": {
+        "2227621": {
+            "manifests": {
+                "public": {
+                    "gid": "3358396648736286538",
+                    "size": "75873211",
+                    "download": "23825728"
+                }
+            },
+            "decryptionkey": "117202db2b423180ec9ea6e577e076b84e62eb0765988aeefc8aa9bbd0b825f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10006861",
+                "timeupdated": "1669277937"
+            }
+        }
+    }
+}
