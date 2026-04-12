@@ -1,0 +1,67 @@
+{
+    "appid": 2976720,
+    "name": "1比1人形食玩",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 01:17:56",
+    "change_number": 30100274,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2976721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6691578810830439903",
+                    "size": "462090130",
+                    "download": "351948448"
+                }
+            },
+            "decryptionkey": "4411262ea2ebacc16990d35aa9ebded7a5d36abeb4be5f77add4a9b325696cd6"
+        },
+        "2976722": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3523928755202070065",
+                    "size": "449864272",
+                    "download": "347354352"
+                }
+            }
+        },
+        "2976723": {
+            "manifests": {
+                "public": {
+                    "gid": "379226551722999057",
+                    "size": "472841145",
+                    "download": "366313312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "15342651",
+                "timeupdated": "1723470314"
+            }
+        }
+    }
+}
