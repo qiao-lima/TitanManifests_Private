@@ -1,0 +1,41 @@
+{
+    "appid": 1447290,
+    "name": "Tactical Operations Force",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 12:14:51",
+    "change_number": 30205122,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1447291": {
+            "manifests": {
+                "public": {
+                    "gid": "7123076332872792928",
+                    "size": "21106670444",
+                    "download": "19261954080"
+                }
+            },
+            "decryptionkey": "51eaf7e35006ade544a8db3a5f5311e0f520f30d145ccb3dde8bfd5ce2678d1b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19303857",
+                "timeupdated": "1753123630"
+            }
+        }
+    }
+}
