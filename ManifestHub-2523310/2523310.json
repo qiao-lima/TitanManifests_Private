@@ -1,0 +1,38 @@
+{
+    "appid": 2523310,
+    "name": "Lingo 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 18:12:24",
+    "change_number": 30029296,
+    "depot": {
+        "2523311": {
+            "manifests": {
+                "public": {
+                    "gid": "1791243906447874163",
+                    "size": "140935752",
+                    "download": "77118384"
+                }
+            },
+            "decryptionkey": "e958c757f4aa0b4e4cfbc488cf45a75cd1aab386272c41b5570f0be2a1601c5d"
+        },
+        "2523312": {
+            "manifests": {
+                "public": {
+                    "gid": "4266858544388476149",
+                    "size": "140935752",
+                    "download": "77296272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18604556",
+                "timeupdated": "1748220483"
+            }
+        }
+    }
+}
