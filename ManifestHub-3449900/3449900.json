@@ -1,0 +1,27 @@
+{
+    "appid": 3449900,
+    "name": "Slime Squisher",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 17:36:09",
+    "change_number": 29368191,
+    "depot": {
+        "3449901": {
+            "manifests": {
+                "public": {
+                    "gid": "2562838561168196731",
+                    "size": "397810424",
+                    "download": "66010272"
+                }
+            },
+            "decryptionkey": "f179179e6135ba4b5b7a31de1bbcd54b0607db92a6b27cbd2fa69082f80b146d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18110896",
+                "timeupdated": "1744707165"
+            }
+        }
+    }
+}
