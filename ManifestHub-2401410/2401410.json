@@ -1,0 +1,30 @@
+{
+    "appid": 2401410,
+    "name": "Cabernet",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 21:35:23",
+    "change_number": 29997064,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2401411": {
+            "manifests": {
+                "public": {
+                    "gid": "7413077245940320049",
+                    "size": "5563373450",
+                    "download": "2898979072"
+                }
+            },
+            "decryptionkey": "ba64b17b262dc35843778325fd5addd6428044e2f4da4f1c5e7e72274b2ea150"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18742890",
+                "timeupdated": "1749085478"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
