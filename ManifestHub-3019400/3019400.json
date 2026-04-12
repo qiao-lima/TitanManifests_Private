@@ -1,0 +1,27 @@
+{
+    "appid": 3019400,
+    "name": "No Such Luck",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 01:57:30",
+    "change_number": 29870008,
+    "depot": {
+        "3019401": {
+            "manifests": {
+                "public": {
+                    "gid": "225276738249291695",
+                    "size": "4662060328",
+                    "download": "4371699328"
+                }
+            },
+            "decryptionkey": "71e0907742343367da06e4f8cbc1a1ec853c2b3859ad3c797ef43cd6470a431d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17950920",
+                "timeupdated": "1743579306"
+            }
+        }
+    }
+}
