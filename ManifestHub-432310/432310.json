@@ -1,0 +1,42 @@
+{
+    "appid": 432310,
+    "name": "Virtual Pool 4 Multiplayer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-25 16:40:29",
+    "change_number": 29173863,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "432311": {
+            "manifests": {
+                "public": {
+                    "gid": "5341005588849419249",
+                    "size": "962363004",
+                    "download": "302248960"
+                }
+            },
+            "decryptionkey": "600c2e8dccc38acd20325a5fa67623c55dc44075d69850c10559078a2c800f59"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10650613",
+                "timeupdated": "1678052916"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
