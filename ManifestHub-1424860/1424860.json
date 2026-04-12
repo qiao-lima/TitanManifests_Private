@@ -1,0 +1,32 @@
+{
+    "appid": 1424860,
+    "name": "Bish Bash Bots",
+    "type": "Game",
+    "schinese_name": "哔哔砰砰大作战",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 14:12:12",
+    "change_number": 30027335,
+    "depot": {
+        "1424861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3346328545986242406",
+                    "size": "1301487816",
+                    "download": "900586560"
+                }
+            },
+            "decryptionkey": "b534aff2fef456a1101da0df31d9183de9742f896d5fb2bc3f9a99aebc4407ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13002529",
+                "timeupdated": "1703071741"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
