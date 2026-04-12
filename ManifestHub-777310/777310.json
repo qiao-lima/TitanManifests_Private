@@ -1,0 +1,48 @@
+{
+    "appid": 777310,
+    "name": "Battle Of Keys",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:13:29",
+    "change_number": 30056477,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "777311": {
+            "manifests": {
+                "public": {
+                    "gid": "3729810741341984230",
+                    "size": "792292149",
+                    "download": "228408032"
+                }
+            },
+            "decryptionkey": "254722d28d4dda1d7de0f99896565b1c17ba890b868b9601992fc08f4bcb4493"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2432460",
+                "timeupdated": "1524237026"
+            }
+        }
+    }
+}
