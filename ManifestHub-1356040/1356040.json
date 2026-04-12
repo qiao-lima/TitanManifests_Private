@@ -1,0 +1,46 @@
+{
+    "appid": 1356040,
+    "name": "Ampersat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 19:42:14",
+    "change_number": 30192302,
+    "depot": {
+        "baselanguages": "",
+        "1356041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6173816832593605266",
+                    "size": "1652711656",
+                    "download": "850628256"
+                }
+            },
+            "decryptionkey": "0ff1bd3b10491e4407b717174d3a2770d832b60ac8413dced2e2cbd1393e316b"
+        },
+        "1356042": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7967301192539332005",
+                    "size": "1665021907",
+                    "download": "867033200"
+                }
+            },
+            "decryptionkey": "cfcc0cce5ec456eca7da3ae394b2a3e75f486324decca8019c20fb0687dba315"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19129187",
+                "timeupdated": "1751876601"
+            }
+        }
+    }
+}
