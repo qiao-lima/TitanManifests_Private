@@ -1,0 +1,28 @@
+{
+    "appid": "596600",
+    "type": "Game",
+    "name": "Little ALLIGATOR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26375805",
+    "update_time": "2024-12-04 21:45:48",
+    "depot": {
+        "596601": {
+            "manifests": {
+                "public": {
+                    "gid": "3143223718845752412",
+                    "size": "129328635",
+                    "download": "14353712"
+                }
+            },
+            "decryptionkey": "cf9e37a63df2e10f0990fedee7e5338d7f60e3252fe67629c4a29aaac033d2bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1641564",
+                "timeupdated": "1487497058"
+            }
+        }
+    },
+    "access_token": 16615534713109575332
+}
