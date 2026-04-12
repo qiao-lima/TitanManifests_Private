@@ -1,0 +1,27 @@
+{
+    "appid": 2226990,
+    "name": "Crab Digger",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 12:53:34",
+    "change_number": 29499688,
+    "depot": {
+        "2226991": {
+            "manifests": {
+                "public": {
+                    "gid": "8315904399739927251",
+                    "size": "205947878",
+                    "download": "60202432"
+                }
+            },
+            "decryptionkey": "98767ae1bc272e5c02bcac0c2bd5ea7f740105b195f2a32de84cb202e880a9a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11588137",
+                "timeupdated": "1688042327"
+            }
+        }
+    }
+}
