@@ -1,0 +1,46 @@
+{
+    "appid": 2464880,
+    "name": "Terracards",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 13:27:59",
+    "change_number": 29948974,
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "2464881": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3352421388656670212",
+                    "size": "38034155",
+                    "download": "19564208"
+                }
+            },
+            "decryptionkey": "91424f13adfba8b074c0b01236fa944ec741e7db7536b891216f731e23496d78"
+        },
+        "2464882": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2207574302452921230",
+                    "size": "61200994",
+                    "download": "26731584"
+                }
+            },
+            "decryptionkey": "8f73dd0cbf52ed8380b57d6c67f1a1bd9034836dfaaab303901a74e5f7d2d750"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19145838",
+                "timeupdated": "1751977674"
+            }
+        }
+    }
+}
