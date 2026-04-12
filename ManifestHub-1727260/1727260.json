@@ -1,0 +1,28 @@
+{
+    "appid": 1727260,
+    "name": "Puzzle Fever",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 14:28:09",
+    "change_number": 29722031,
+    "depot": {
+        "1727261": {
+            "manifests": {
+                "public": {
+                    "gid": "6343481954865919940",
+                    "size": "17795815",
+                    "download": "11061632"
+                }
+            },
+            "decryptionkey": "31a39a3fbe658211162785bb3ada4bd331433f4eaed8a7dfedf60c1b22673e53"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7196302",
+                "timeupdated": "1629115509"
+            }
+        }
+    },
+    "access_token": 6445096222239388599
+}
