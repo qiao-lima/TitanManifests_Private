@@ -1,0 +1,41 @@
+{
+    "appid": 1706860,
+    "name": "Monomyth Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 19:52:51",
+    "change_number": 29793164,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1706861": {
+            "manifests": {
+                "public": {
+                    "gid": "6696285673683570727",
+                    "size": "1464197600",
+                    "download": "1230503344"
+                }
+            },
+            "decryptionkey": "bb93fb165b631219ca3a8aa8f3a9ab97c26197025ecb1845b9764c3ca3a533d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19024948",
+                "timeupdated": "1751027248"
+            }
+        }
+    }
+}
