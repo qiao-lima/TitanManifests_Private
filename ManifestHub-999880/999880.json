@@ -1,0 +1,32 @@
+{
+    "appid": 999880,
+    "name": "NASA's Exoplanet Excursions",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-13 01:43:07",
+    "change_number": 29524890,
+    "depot": {
+        "baselanguages": "",
+        "999881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1300689545078939096",
+                    "size": "534176182",
+                    "download": "116558720"
+                }
+            },
+            "decryptionkey": "199df8d046bd5003510efcbff88299c42faec7adf052832d1c2119b06649afca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6337395",
+                "timeupdated": "1614965387"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
