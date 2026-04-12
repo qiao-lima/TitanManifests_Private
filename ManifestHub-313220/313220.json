@@ -1,0 +1,35 @@
+{
+    "appid": 313220,
+    "name": "Company of Heroes 2 Tools",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 21:12:42",
+    "change_number": 30138620,
+    "depot": {
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "313221": {
+            "manifests": {
+                "public": {
+                    "gid": "5247390465388750773",
+                    "size": "199918290",
+                    "download": "39980224"
+                }
+            },
+            "decryptionkey": "82a7b217144dacb6fa6d49058be41c46898bfd0c85791bdcf0f2f27a1a5d3dac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4889709",
+                "timeupdated": "1586721470"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
