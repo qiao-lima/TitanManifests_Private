@@ -1,0 +1,32 @@
+{
+    "appid": 1451120,
+    "name": "Sunlight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 21:09:18",
+    "change_number": 29418583,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1451121": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "41201209236563835",
+                    "size": "979415160",
+                    "download": "457129104"
+                }
+            },
+            "decryptionkey": "0050bd4eaf311db16953f1ee2408431ec4e6b2e05149f018cefa1ca8debe0d9b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18581625",
+                "timeupdated": "1749215350"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
