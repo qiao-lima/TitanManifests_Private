@@ -1,0 +1,42 @@
+{
+    "appid": 2701080,
+    "name": "Intoxicated Driver",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 18:44:51",
+    "change_number": 29705801,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2701081": {
+            "manifests": {
+                "public": {
+                    "gid": "3133523081397397286",
+                    "size": "3090120849",
+                    "download": "2895916672"
+                }
+            },
+            "decryptionkey": "5c99ee7ed7bfc54a2e5948d97bae477f51fdb1d7da591e6394812642f9e25bbb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18966529",
+                "timeupdated": "1750689494"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
