@@ -1,0 +1,31 @@
+{
+    "appid": "448660",
+    "type": "Game",
+    "name": "Shake Your Money Simulator 2016",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24407053",
+    "update_time": "2024-08-14 19:06:40",
+    "depot": {
+        "448661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6539817558107888317",
+                    "size": "4755146",
+                    "download": "4754976"
+                }
+            },
+            "decryptionkey": "73fba6b7144e9ac9c5131f738a6e8e36e3e45f8c60bc98f01200964a47683d84"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1384396",
+                "timeupdated": "1478274102"
+            }
+        }
+    },
+    "access_token": 7762118092718931408
+}
