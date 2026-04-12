@@ -1,0 +1,38 @@
+{
+    "appid": 574810,
+    "name": "Fight or Die",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:11:59",
+    "change_number": 30056460,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "574811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1118385831492508120",
+                    "size": "29974639",
+                    "download": "15597808"
+                }
+            },
+            "decryptionkey": "a2652c729af47399b3bc7a88b73d9fb3c53e7ce52e6029e2ec1ca64e6b6cbd1e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1553330",
+                "timeupdated": "1483643491"
+            }
+        }
+    },
+    "access_token": 15404944924577795975
+}
