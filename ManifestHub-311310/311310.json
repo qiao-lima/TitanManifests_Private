@@ -1,0 +1,67 @@
+{
+    "appid": 311310,
+    "name": "Naval Action",
+    "type": "Game",
+    "schinese_name": "海军行动",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 00:10:23",
+    "change_number": 30216272,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "311311": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2266625577636360718",
+                    "size": "4694686225",
+                    "download": "1789973664"
+                }
+            },
+            "decryptionkey": "f6cef5d884c5388e8ef8d7d216236d741b9f5797b7c84fcd2b1450e5b350a498"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18838200",
+                "timeupdated": "1749723647"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
