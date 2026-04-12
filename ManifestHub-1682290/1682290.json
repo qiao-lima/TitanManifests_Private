@@ -1,0 +1,46 @@
+{
+    "appid": 1682290,
+    "name": "Wéko The Mask Gatherer",
+    "type": "Game",
+    "schinese_name": "面具传说：维可历险记",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:58:00",
+    "change_number": 29664806,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1682291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1705633516521612060",
+                    "size": "6522845338",
+                    "download": "3383352224"
+                }
+            },
+            "decryptionkey": "7ec36c96269ba0b460a53d5958a9ca9e5c0669e5e0f64a20708316dd86132029"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18937184",
+                "timeupdated": "1750407160"
+            }
+        }
+    }
+}
