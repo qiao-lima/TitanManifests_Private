@@ -1,0 +1,31 @@
+{
+    "appid": 2369400,
+    "name": "Dormitory Hentai Clicker",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 12:04:09",
+    "change_number": 29689420,
+    "depot": {
+        "2369401": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4569241427402413595",
+                    "size": "665712359",
+                    "download": "97070400"
+                }
+            },
+            "decryptionkey": "3baa15b345024030902762a4649fb4b1b15dea79e8a63a2eaebdff0c971251a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11281407",
+                "timeupdated": "1684660042"
+            }
+        }
+    }
+}
