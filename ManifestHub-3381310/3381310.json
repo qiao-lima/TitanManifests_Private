@@ -1,0 +1,28 @@
+{
+    "appid": 3381310,
+    "name": "畜神",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 22:01:58",
+    "change_number": 29975944,
+    "depot": {
+        "3381311": {
+            "manifests": {
+                "public": {
+                    "gid": "1779333569679044306",
+                    "size": "711497681",
+                    "download": "503704640"
+                }
+            },
+            "decryptionkey": "5d0d5378be1cb65268c9f13d5efaaa8f93285e3156ce95aecc999672ab34b68e"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "19065051",
+                "timeupdated": "1751373087"
+            }
+        }
+    }
+}
