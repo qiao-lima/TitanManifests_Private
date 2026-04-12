@@ -1,0 +1,36 @@
+{
+    "appid": 2595860,
+    "name": "Hitler is my crush",
+    "type": "Game",
+    "schinese_name": "希特勒是我的暗恋对象",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 14:57:23",
+    "change_number": 29823731,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2595861": {
+            "manifests": {
+                "public": {
+                    "gid": "8561296922241390821",
+                    "size": "2098503542",
+                    "download": "687249936"
+                }
+            },
+            "decryptionkey": "b195524f4c4facf9a070a85a64a5ed1c2c2eb85b90bfc8a86760da23a038ac90"
+        },
+        "3129600": {
+            "dlcappid": "3129600",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "baselanguages": "english,schinese,russian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "19051713",
+                "timeupdated": "1751291804"
+            }
+        }
+    }
+}
