@@ -1,0 +1,49 @@
+{
+    "appid": 1206410,
+    "name": "Kristala",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 01:13:25",
+    "change_number": 30196474,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1206411": {
+            "manifests": {
+                "public": {
+                    "gid": "3396579255075622922",
+                    "size": "8901719574",
+                    "download": "8439479136"
+                }
+            },
+            "decryptionkey": "cf2bd5df49a3f883f86249fe67c2df69341c652a568081cd0cf38f3932a89067"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19262427",
+                "timeupdated": "1752769455"
+            }
+        }
+    }
+}
