@@ -1,0 +1,41 @@
+{
+    "appid": 2656180,
+    "name": "Galacticverse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-14 06:13:16",
+    "change_number": 29558651,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2656181": {
+            "manifests": {
+                "public": {
+                    "gid": "7280904603627132146",
+                    "size": "2785871579",
+                    "download": "2385548000"
+                }
+            },
+            "decryptionkey": "3af8bb3a59556ce397465fbd88e2c62bc0ec5cc1f4f4fa4a9f6e692e230e13f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15898297",
+                "timeupdated": "1727849651"
+            }
+        }
+    }
+}
