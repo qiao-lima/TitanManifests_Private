@@ -1,0 +1,31 @@
+{
+    "appid": 1967830,
+    "name": "武儒绘卷 - 天地奇缘",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 00:44:30",
+    "change_number": 29958805,
+    "depot": {
+        "1967831": {
+            "manifests": {
+                "public": {
+                    "gid": "5128784354401047274",
+                    "size": "1056417336",
+                    "download": "163978512"
+                }
+            },
+            "decryptionkey": "d031c6e7ce3ca715d29ceddd8a99fe5d1dfc65927b341fc4f96377d56e7d853f"
+        },
+        "2098640": {
+            "dlcappid": "2098640"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9539118",
+                "timeupdated": "1663474214"
+            }
+        }
+    }
+}
