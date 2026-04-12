@@ -1,0 +1,30 @@
+{
+    "appid": "390970",
+    "type": "Game",
+    "name": "Russian Horror Story",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 18:57:31",
+    "depot": {
+        "390971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7822758908286228024",
+                    "size": "67340976",
+                    "download": "44948240"
+                }
+            },
+            "decryptionkey": "5a5f238410d4b652ae675a41158da130dac6b0f0055edb9178068bac2fbb534f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "930007"
+            }
+        }
+    },
+    "access_token": 2048429940861331930
+}
