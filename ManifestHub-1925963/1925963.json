@@ -1,0 +1,28 @@
+{
+    "appid": 1925963,
+    "name": "RPG Maker MZ - Sprite Height Modifier",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:49:24",
+    "change_number": 26201212,
+    "depot": {
+        "1925963": {
+            "manifests": {
+                "public": {
+                    "gid": "8681720205705220810",
+                    "size": "463939",
+                    "download": "434528"
+                }
+            },
+            "dlcappid": "1925963",
+            "decryptionkey": "0b8e84a0582bcebf8ae6e07aa7ea85132b257ba1c76b81628ef3fb1cc98f1450"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12568953",
+                "timeupdated": "1698645590"
+            }
+        }
+    }
+}
