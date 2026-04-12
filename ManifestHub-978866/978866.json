@@ -1,0 +1,31 @@
+{
+    "appid": 978866,
+    "name": "DYNASTY WARRIORS 9: Xu Shu \"Additional Hypothetical Scenarios Set\"/ 徐庶「追加ＩＦシナリオセット」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:51",
+    "change_number": 26201212,
+    "depot": {
+        "978866": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1816417004960377826",
+                    "size": "730454047",
+                    "download": "699744352"
+                }
+            },
+            "dlcappid": "978866",
+            "decryptionkey": "f619a8980d5968fb40661dcfdbea7c4473d16b4fe649056380cfde2e11ccbe9b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3472237",
+                "timeupdated": "1547601870"
+            }
+        }
+    }
+}
