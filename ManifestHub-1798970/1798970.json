@@ -1,0 +1,27 @@
+{
+    "appid": 1798970,
+    "name": "phoToq",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 07:11:31",
+    "change_number": 29908045,
+    "depot": {
+        "1798971": {
+            "manifests": {
+                "public": {
+                    "gid": "387161947510311839",
+                    "size": "20815439",
+                    "download": "20224848"
+                }
+            },
+            "decryptionkey": "afc75aec94d68c4c2c419188f1df853b2cc5ab74b24454d40996c0717fb35148"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7745382",
+                "timeupdated": "1637350015"
+            }
+        }
+    }
+}
