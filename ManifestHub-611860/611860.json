@@ -1,0 +1,39 @@
+{
+    "appid": 611860,
+    "name": "Aborigenus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:35:10",
+    "change_number": 29264640,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "611861": {
+            "manifests": {
+                "public": {
+                    "gid": "4382023097354839453",
+                    "size": "50393080",
+                    "download": "35040544"
+                }
+            },
+            "decryptionkey": "2f01ef4c8271600efb5a7917f2010e0764039a08c932050d572b66210a56d9e7"
+        },
+        "965980": {
+            "dlcappid": "965980",
+            "manifests": {
+                "public": {
+                    "gid": "4261101611711055401",
+                    "size": "8035590",
+                    "download": "7891184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4050196",
+                "timeupdated": "1564224566"
+            }
+        }
+    }
+}
