@@ -1,0 +1,42 @@
+{
+    "appid": 2660460,
+    "name": "Aviassembly",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 13:07:32",
+    "change_number": 30185453,
+    "depot": {
+        "2660461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7800499982791754240",
+                    "size": "335104357",
+                    "download": "100057152"
+                },
+                "experimental": {
+                    "gid": "6786039715190037867",
+                    "size": "335097397",
+                    "download": "100048528"
+                }
+            },
+            "decryptionkey": "20759e43cbde1f884d0690ee03b21326da837eb3937e6c811d57f5669dc3b9d2"
+        },
+        "workshopdepot": "2660460",
+        "branches": {
+            "public": {
+                "buildid": "19313041",
+                "timeupdated": "1753178839"
+            },
+            "experimental": {
+                "buildid": "19314403",
+                "description": "Early but unstable builds of updates",
+                "timeupdated": "1753186049"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
