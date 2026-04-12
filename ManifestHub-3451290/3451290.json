@@ -1,0 +1,41 @@
+{
+    "appid": 3451290,
+    "name": "Pale Abyss",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-25 03:13:38",
+    "change_number": 29733572,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3451291": {
+            "manifests": {
+                "public": {
+                    "gid": "5833250190742891536",
+                    "size": "534461126",
+                    "download": "406566448"
+                }
+            },
+            "decryptionkey": "f6c676f5be9f8105138747b813ad016f1a9ceb6ac721ec7b0a2ac09e0bf2596f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18941134",
+                "timeupdated": "1750429196"
+            }
+        }
+    }
+}
