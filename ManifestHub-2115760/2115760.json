@@ -1,0 +1,61 @@
+{
+    "appid": 2115760,
+    "name": "Oppidum",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 22:52:28",
+    "change_number": 30149915,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2115761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1948191721278595448",
+                    "size": "4705451682",
+                    "download": "2177756416"
+                }
+            },
+            "decryptionkey": "694f8e5ac2f0394f8034e08f3f0828e27d157bd485e1f8176c77f95d8088e616"
+        },
+        "2115762": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6368911617865405544",
+                    "size": "4833807701",
+                    "download": "2180017408"
+                }
+            }
+        },
+        "2115763": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3128437496286236101",
+                    "size": "4763871139",
+                    "download": "2178247952"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19082260",
+                "timeupdated": "1751474696"
+            }
+        }
+    }
+}
