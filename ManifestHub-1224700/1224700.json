@@ -1,0 +1,28 @@
+{
+    "appid": 1224700,
+    "name": "Kingpin: Reloaded",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 23:37:47",
+    "change_number": 29239848,
+    "depot": {
+        "1224701": {
+            "manifests": {
+                "public": {
+                    "gid": "6276690570840634013",
+                    "size": "13196229711",
+                    "download": "1901383952"
+                }
+            },
+            "decryptionkey": "224fadd9a3e3c1ea59844148fc0d6f33007e147a82b3b6c08c5b5ffdca77b164"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18518804",
+                "timeupdated": "1748446662"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
