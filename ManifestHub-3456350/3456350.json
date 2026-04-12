@@ -1,0 +1,41 @@
+{
+    "appid": 3456350,
+    "name": "Where the Walls Breathe",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 21:12:05",
+    "change_number": 29921317,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3456351": {
+            "manifests": {
+                "public": {
+                    "gid": "4546483421187437430",
+                    "size": "1121407907",
+                    "download": "927718544"
+                }
+            },
+            "decryptionkey": "6548e402b9bd5218d74f4ddfd8f6149f043567b5045a64ea44b1a8b23c108e64"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17506624",
+                "timeupdated": "1740523695"
+            }
+        }
+    }
+}
