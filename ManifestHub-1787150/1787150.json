@@ -1,0 +1,30 @@
+{
+    "appid": 1787150,
+    "name": "Futanari Jigsaw Puzzle",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 23:23:38",
+    "change_number": 29466065,
+    "depot": {
+        "1787151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7828416134528130440",
+                    "size": "319862757",
+                    "download": "193230160"
+                }
+            },
+            "decryptionkey": "f4238736125898f7fc878dc0afb8c81dffab00fa7becb829141757ce0715c776"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7848240",
+                "timeupdated": "1638968851"
+            }
+        }
+    }
+}
