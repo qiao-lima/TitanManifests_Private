@@ -1,0 +1,33 @@
+{
+    "appid": 546920,
+    "name": "Strongmind",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 07:03:46",
+    "change_number": 29495671,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "546922": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "838433782214390540",
+                    "size": "4159115",
+                    "download": "3035728"
+                }
+            },
+            "decryptionkey": "6502908b0187704a9a83716772eb22498b0fb94987c9e80829908ad95f90eb82"
+        },
+        "546921": {},
+        "branches": {
+            "public": {
+                "buildid": "1820072",
+                "timeupdated": "1494687076"
+            }
+        }
+    },
+    "access_token": 8051802383981934108
+}
