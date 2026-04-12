@@ -1,0 +1,52 @@
+{
+    "appid": 494770,
+    "name": "FIREFIGHT RELOADED SDK",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 02:42:12",
+    "change_number": 29471003,
+    "depot": {
+        "494773": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6834071745201919823",
+                    "size": "168261039",
+                    "download": "57094544"
+                },
+                "beta": {
+                    "gid": "6834071745201919823",
+                    "size": "168261039",
+                    "download": "57094544"
+                },
+                "nightly": {
+                    "gid": "6834071745201919823",
+                    "size": "168261039",
+                    "download": "57094544"
+                }
+            },
+            "decryptionkey": "8cf64c4bfc45223b024f0b5cdc22c2f6c5a67ae0843013a628093bac76ee42d8"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18761195",
+                "timeupdated": "1749271252"
+            },
+            "beta": {
+                "buildid": "18761195",
+                "description": "Public SDK Dev branch",
+                "timeupdated": "1749271267"
+            },
+            "nightly": {
+                "buildid": "18761195",
+                "description": "Public Nightly SDK Dev branch",
+                "timeupdated": "1749271305"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
