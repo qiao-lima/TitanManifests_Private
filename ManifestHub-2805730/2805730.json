@@ -1,0 +1,51 @@
+{
+    "appid": 2805730,
+    "name": "Proton 9.0",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:48:29",
+    "change_number": 29425561,
+    "depot": {
+        "2805731": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1425481931801326634",
+                    "size": "1273068242",
+                    "download": "323137472"
+                },
+                "debug": {
+                    "gid": "4431370475435488475",
+                    "size": "4383893212",
+                    "download": "895019792"
+                },
+                "release-candidate": {
+                    "gid": "2221326322052714905",
+                    "size": "1272473150",
+                    "download": "296018288"
+                }
+            },
+            "decryptionkey": "cba02030ed5c8f6bee173df1b7221d2cb3f296998fdb4a9b4de1fc65e9ee8c8a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18753712",
+                "timeupdated": "1749238206"
+            },
+            "debug": {
+                "buildid": "18753743",
+                "description": "With debugging symbols",
+                "timeupdated": "1749238184"
+            },
+            "release-candidate": {
+                "buildid": "16710403",
+                "description": "Proton 9.0-4 RC",
+                "timeupdated": "1733950484"
+            }
+        }
+    },
+    "access_token": 1294955623286305895
+}
