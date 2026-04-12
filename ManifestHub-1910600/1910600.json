@@ -1,0 +1,29 @@
+{
+    "appid": 1910600,
+    "name": "ONE BTN BOSSES",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:10:59",
+    "change_number": 30216280,
+    "depot": {
+        "1910601": {
+            "manifests": {
+                "public": {
+                    "gid": "7954419494426086753",
+                    "size": "801781805",
+                    "download": "137379520"
+                }
+            },
+            "decryptionkey": "665209bc6439a7dfae5a79ab6fe6ca8ec9e50d273f51dcd8e7c6ec7e7f1162f1"
+        },
+        "1910602": {},
+        "branches": {
+            "public": {
+                "buildid": "17665318",
+                "timeupdated": "1741895131"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
