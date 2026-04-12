@@ -1,0 +1,55 @@
+{
+    "appid": 324760,
+    "name": "Monster Truck Destruction",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 02:35:48",
+    "change_number": 30197372,
+    "depot": {
+        "324761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8498735423332670997",
+                    "size": "533053234",
+                    "download": "104477376"
+                }
+            },
+            "decryptionkey": "5ddf1e7a91c8695a55b6e36769450f4e2d77b3cd2eddecdb1b1f6e3027ed9272"
+        },
+        "324762": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5467218784201777398",
+                    "size": "539050616",
+                    "download": "99611184"
+                }
+            },
+            "decryptionkey": "c5fb6eb27523ebf9e605d3fd4e49d456afaf922f2bb9e1fb78fb8c1be1dbfd9f"
+        },
+        "324763": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "818627967106503420",
+                    "size": "538389698",
+                    "download": "110136784"
+                }
+            },
+            "decryptionkey": "65f409dafd57067dc7183faac2a1027b7779e19afa40c3642fe63aad6e742833"
+        },
+        "branches": {
+            "public": {
+                "buildid": "733806"
+            }
+        }
+    }
+}
