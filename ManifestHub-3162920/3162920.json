@@ -1,0 +1,52 @@
+{
+    "appid": 3162920,
+    "name": "Forest 6174",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 15:23:17",
+    "change_number": 29990019,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3162921": {
+            "manifests": {
+                "public": {
+                    "gid": "1968265944563418595",
+                    "size": "3502168371",
+                    "download": "3396584544"
+                }
+            },
+            "decryptionkey": "e13569dc04cf2da0fb6e7df7392779ffa57cac35213ac20e9d79cd429ff46d6f"
+        },
+        "3772630": {
+            "dlcappid": "3772630"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18661206",
+                "timeupdated": "1748535377"
+            }
+        }
+    }
+}
