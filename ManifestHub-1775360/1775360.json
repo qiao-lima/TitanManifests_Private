@@ -1,0 +1,28 @@
+{
+    "appid": 1775360,
+    "name": "Witch and Council : The Card",
+    "type": "Game",
+    "schinese_name": "魔女与学生会：卡牌之战",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 20:23:37",
+    "change_number": 29445655,
+    "depot": {
+        "1775361": {
+            "manifests": {
+                "public": {
+                    "gid": "7408164408452086600",
+                    "size": "8017836117",
+                    "download": "620476512"
+                }
+            },
+            "decryptionkey": "a052dd5b288c0ccdf29906a15737eb3c7eed78829bf63c4cdd078951111871ca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17652977",
+                "timeupdated": "1741539288"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
