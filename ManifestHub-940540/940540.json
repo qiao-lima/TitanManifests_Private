@@ -1,0 +1,52 @@
+{
+    "appid": 940540,
+    "name": "Generation Zero® BETA",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:32:07",
+    "change_number": 30057887,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "940541": {
+            "manifests": {
+                "public": {
+                    "gid": "299941067301693095",
+                    "size": "32722721652",
+                    "download": "18558027216"
+                }
+            },
+            "decryptionkey": "e789e520847ca7b0f00f5bba8205d3f35446ac7f4d0b41384d8ecd3cbbdbc4d7"
+        },
+        "940542": {
+            "manifests": {
+                "public": {
+                    "gid": "8038915087790104233",
+                    "size": "1462024375",
+                    "download": "250623712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3205628",
+                "timeupdated": "1539673820"
+            }
+        }
+    },
+    "access_token": 17506669590974646935
+}
