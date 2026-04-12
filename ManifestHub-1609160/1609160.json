@@ -1,0 +1,27 @@
+{
+    "appid": 1609160,
+    "name": "Waifu Secret 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 18:15:34",
+    "change_number": 29803778,
+    "depot": {
+        "1609161": {
+            "manifests": {
+                "public": {
+                    "gid": "958205045099162616",
+                    "size": "991613591",
+                    "download": "774882080"
+                }
+            },
+            "decryptionkey": "75e69782342bbb05f2a3d8299e964a053538927dda66e87304e046a5b182a986"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6659855",
+                "timeupdated": "1620324773"
+            }
+        }
+    }
+}
