@@ -1,0 +1,34 @@
+{
+    "appid": "581800",
+    "type": "Game",
+    "name": "Super Cuber",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:20:43",
+    "depot": {
+        "581801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8893469745949383293",
+                    "size": "69290563",
+                    "download": "16334464"
+                }
+            },
+            "decryptionkey": "0f46ed5cf04635775d050d60eb3e7039b94219645243ae7609806f4fbd084d1e"
+        },
+        "workshopdepot": "581800",
+        "branches": {
+            "public": {
+                "buildid": "4179831",
+                "timeupdated": "1568052799"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    },
+    "access_token": 10611760125115339096
+}
