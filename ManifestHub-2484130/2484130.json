@@ -1,0 +1,28 @@
+{
+    "appid": 2484130,
+    "name": "Fruitbus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:39:54",
+    "change_number": 30216578,
+    "depot": {
+        "2484131": {
+            "manifests": {
+                "public": {
+                    "gid": "4186331117730631972",
+                    "size": "2463939995",
+                    "download": "2061202704"
+                }
+            },
+            "decryptionkey": "e06ca0a7a669b63236ebd790bc956b0bb72bdc09bbdc69e3be2b90ea4e42ab31"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19108425",
+                "timeupdated": "1751641495"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
