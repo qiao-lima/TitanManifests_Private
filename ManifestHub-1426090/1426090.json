@@ -1,0 +1,43 @@
+{
+    "appid": 1426090,
+    "name": "My Yandere Sister Loves Me Too Much!",
+    "type": "Game",
+    "schinese_name": "病娇姐姐的「性爱」囚禁 ",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 21:13:44",
+    "change_number": 30138629,
+    "depot": {
+        "1426091": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7696191496582106684",
+                    "size": "588467601",
+                    "download": "464398736"
+                }
+            },
+            "decryptionkey": "1bda40da75f5af72d4e96c47fd3216d3f63ac3ea1bbd8c3c1b9f1b160f498b4c"
+        },
+        "1426092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1334438165265783989",
+                    "size": "521333338",
+                    "download": "444288016"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19279581",
+                "timeupdated": "1752869620"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
