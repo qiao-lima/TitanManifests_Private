@@ -1,0 +1,64 @@
+{
+    "appid": 368720,
+    "name": "Sirius Online",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 01:17:45",
+    "change_number": 29169450,
+    "depot": {
+        "workshopdepot": "368720",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "368721": {
+            "manifests": {
+                "public": {
+                    "gid": "1192187033867027507",
+                    "size": "407267668",
+                    "download": "299785152"
+                }
+            },
+            "decryptionkey": "f4625f56714d40c8f79a4a439505b0b77a82e21b9c39ad8604915ae33faf5830"
+        },
+        "368722": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "368723": {},
+        "368724": {},
+        "branches": {
+            "public": {
+                "buildid": "2033762",
+                "timeupdated": "1502558525"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
