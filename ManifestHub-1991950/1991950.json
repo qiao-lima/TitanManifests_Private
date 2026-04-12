@@ -1,0 +1,31 @@
+{
+    "appid": 1991950,
+    "name": "Blood Job",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-27 23:16:57",
+    "change_number": 29215609,
+    "depot": {
+        "baselanguages": "english",
+        "1991951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5335966128235049197",
+                    "size": "823925145",
+                    "download": "738809424"
+                }
+            },
+            "decryptionkey": "640fa12a733a48af728035ed66dd9b29f71ff18020117e8d2a4bd85bacbf18fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10365513",
+                "timeupdated": "1674208681"
+            }
+        }
+    }
+}
