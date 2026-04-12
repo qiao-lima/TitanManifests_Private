@@ -1,0 +1,41 @@
+{
+    "appid": 3013190,
+    "name": "MIGLORN",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 10:53:01",
+    "change_number": 29876295,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3013191": {
+            "manifests": {
+                "public": {
+                    "gid": "3136336269324997091",
+                    "size": "356532359",
+                    "download": "236882944"
+                }
+            },
+            "decryptionkey": "b19441a170b39a7352c74ea8205449a8ed1f2b78e981bb89c6d828157c2b46b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17147238",
+                "timeupdated": "1737994797"
+            }
+        }
+    }
+}
