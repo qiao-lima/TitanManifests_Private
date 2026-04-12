@@ -1,0 +1,63 @@
+{
+    "appid": 2406180,
+    "name": "Knights Within",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 03:18:08",
+    "change_number": 30218394,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2406181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4089992698349229186",
+                    "size": "6451740886",
+                    "download": "3131246528"
+                },
+                "local": {
+                    "gid": "7762720712066708675",
+                    "size": "7164625077",
+                    "download": "3960234528"
+                }
+            },
+            "decryptionkey": "cbf06c72ee8bc46136ab7a5c23e3d46af32cbfe555d47996a9cd2c89eb57057e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19119490",
+                "timeupdated": "1751748654"
+            },
+            "local": {
+                "buildid": "12208715",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1694935865"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
