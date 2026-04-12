@@ -1,0 +1,31 @@
+{
+    "appid": 1155100,
+    "name": "Latte Stand Tycoon +",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 23:47:28",
+    "change_number": 29712490,
+    "depot": {
+        "1155101": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8019601787757253811",
+                    "size": "157208934",
+                    "download": "67561808"
+                }
+            },
+            "decryptionkey": "aa5f7fc55b71721ae2fd7ed94cb58c51394169f54b65790603a1c665a0349d0e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11886267",
+                "timeupdated": "1691433157"
+            }
+        }
+    }
+}
