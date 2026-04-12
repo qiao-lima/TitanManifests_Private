@@ -1,0 +1,43 @@
+{
+    "appid": 2385530,
+    "name": "PGA TOUR 2K25",
+    "type": "Game",
+    "schinese_name": "《PGA TOUR 2K25》",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 03:44:12",
+    "change_number": 30218644,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2385531": {
+            "manifests": {
+                "public": {
+                    "gid": "5662159697779719108",
+                    "size": "33726286223",
+                    "download": "31960819296"
+                }
+            },
+            "decryptionkey": "891c9c194df2d680a3dbe94e736933f9252184a9680761d1cd6cef9fd178a77a"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19017501",
+                "timeupdated": "1751057803"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
