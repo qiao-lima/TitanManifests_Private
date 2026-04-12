@@ -1,0 +1,46 @@
+{
+    "appid": 2067050,
+    "name": "Squirrel with a Gun",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 22:27:00",
+    "change_number": 30097978,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2067051": {
+            "manifests": {
+                "public": {
+                    "gid": "7705499983297206502",
+                    "size": "3027844315",
+                    "download": "2829661184"
+                }
+            },
+            "decryptionkey": "201dd3404b99fc27f9420fd2c2adc7036e6bbe75162e4db5ecf27106e46c7d9b"
+        },
+        "3715570": {
+            "dlcappid": "3715570"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18767807",
+                "timeupdated": "1749841511"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
