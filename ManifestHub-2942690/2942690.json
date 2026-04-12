@@ -1,0 +1,27 @@
+{
+    "appid": 2942690,
+    "name": "Book of Spells",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-26 00:17:27",
+    "change_number": 29178463,
+    "depot": {
+        "2942691": {
+            "manifests": {
+                "public": {
+                    "gid": "4038875439144538130",
+                    "size": "2022130989",
+                    "download": "524755392"
+                }
+            },
+            "decryptionkey": "4223ef243b5f6ac7dbd754e5046111fb167bae81c681f2a80f242d72fce44d01"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14116112",
+                "timeupdated": "1713571090"
+            }
+        }
+    }
+}
