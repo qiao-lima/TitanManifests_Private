@@ -1,0 +1,32 @@
+{
+    "appid": 1354230,
+    "name": "Love Tavern",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 01:16:22",
+    "change_number": 29228766,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1354231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2591492306048449993",
+                    "size": "3035649343",
+                    "download": "730837952"
+                }
+            },
+            "decryptionkey": "c2b04b2b62e2de8b09e24c7a617c5644599c023c70fc2ede9edf60d861771cf5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18635539",
+                "timeupdated": "1748411137"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
