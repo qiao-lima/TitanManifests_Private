@@ -1,0 +1,27 @@
+{
+    "appid": 815580,
+    "name": "Dark Parables: Return of the Salt Princess Collector's Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 10:43:39",
+    "change_number": 29317317,
+    "depot": {
+        "815581": {
+            "manifests": {
+                "public": {
+                    "gid": "5757721533734170118",
+                    "size": "860282796",
+                    "download": "859164672"
+                }
+            },
+            "decryptionkey": "fa80fd3dab6183aef11dea078957e75d34f4d4010b9c2c9f056bb408680b2ffe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2588478",
+                "timeupdated": "1520549899"
+            }
+        }
+    }
+}
