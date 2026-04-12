@@ -1,0 +1,30 @@
+{
+    "appid": 2514430,
+    "name": "School Bus Driving Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 16:12:31",
+    "change_number": 30051114,
+    "depot": {
+        "2514431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5681291290120105791",
+                    "size": "248155875",
+                    "download": "173832160"
+                }
+            },
+            "decryptionkey": "c80a52aba3e7d433e4469f81f4e594b008b61fc724088b2ae575c004cd76dd05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11729425",
+                "timeupdated": "1689692132"
+            }
+        }
+    }
+}
