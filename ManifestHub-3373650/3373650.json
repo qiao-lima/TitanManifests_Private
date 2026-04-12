@@ -1,0 +1,87 @@
+{
+    "appid": 3373650,
+    "name": "Crescent County Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 05:25:21",
+    "change_number": 29473592,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3373651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "827969303251534081",
+                    "size": "1779798269",
+                    "download": "1623421712"
+                },
+                "development": {
+                    "gid": "457829271077527655",
+                    "size": "1779963061",
+                    "download": "1623498096"
+                },
+                "lgf_build": {
+                    "gid": "1365191878573264602",
+                    "size": "1746756744",
+                    "download": "1578847264"
+                }
+            },
+            "decryptionkey": "2ac1515c5aa0ae4a8f245c15c568ca58ced8632420a071cbe8d40c10e4aea0cb"
+        },
+        "3373652": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7341788432437708711",
+                    "size": "1533986607",
+                    "download": "1357809968"
+                },
+                "development": {
+                    "gid": "7341788432437708711",
+                    "size": "1533986607",
+                    "download": "1357809968"
+                },
+                "lgf_build": {
+                    "gid": "3674705530513016458",
+                    "size": "1519976623",
+                    "download": "1334992688"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18801216",
+                "timeupdated": "1749504314"
+            },
+            "development": {
+                "buildid": "18788265",
+                "description": "for latest changes",
+                "timeupdated": "1749428028"
+            },
+            "lgf_build": {
+                "buildid": "18060406",
+                "description": "Build for LGF",
+                "timeupdated": "1744307813"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
