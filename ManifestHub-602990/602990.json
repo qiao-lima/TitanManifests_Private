@@ -1,0 +1,32 @@
+{
+    "appid": "602990",
+    "type": "Game",
+    "name": "Good Archer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:23:34",
+    "depot": {
+        "baselanguages": "english",
+        "602991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6386074756560417477",
+                    "size": "65756767",
+                    "download": "12775632"
+                }
+            },
+            "decryptionkey": "e7c0aed012aea9fabe7c960e72f35f7718e04a334fd8ae37a5af7281583f9948"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1893567",
+                "timeupdated": "1497560573"
+            }
+        }
+    },
+    "access_token": 9477298131248791822
+}
