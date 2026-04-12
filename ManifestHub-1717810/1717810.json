@@ -1,0 +1,41 @@
+{
+    "appid": 1717810,
+    "name": "Westwood Shadows: Prologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-06 04:10:36",
+    "change_number": 29915425,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1717811": {
+            "manifests": {
+                "public": {
+                    "gid": "8236116281472699359",
+                    "size": "5841122966",
+                    "download": "2111620704"
+                }
+            },
+            "decryptionkey": "92abab40d4ae076d58a025bf125acb1dd4beb62d70431a62f8237dd6706d697d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7830614",
+                "timeupdated": "1638701876"
+            }
+        }
+    }
+}
