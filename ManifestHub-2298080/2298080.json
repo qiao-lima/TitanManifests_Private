@@ -1,0 +1,32 @@
+{
+    "appid": 2298080,
+    "name": "Snafu",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 14:01:19",
+    "change_number": 29306588,
+    "depot": {
+        "2298081": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5709022665606561098",
+                    "size": "612843976",
+                    "download": "337424224"
+                }
+            },
+            "decryptionkey": "98141dc75a5e903c364916eb5dd34d523148a67377085cc0ac72f19a3d60c085"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10748135",
+                "timeupdated": "1678570602"
+            }
+        }
+    }
+}
