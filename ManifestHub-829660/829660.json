@@ -1,0 +1,47 @@
+{
+    "appid": 829660,
+    "name": "No Time to Relax",
+    "type": "Game",
+    "schinese_name": "没时间休息了！",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 19:44:10",
+    "change_number": 29865872,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "829661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4908568706060173541",
+                    "size": "263573035",
+                    "download": "172012608"
+                }
+            },
+            "decryptionkey": "0fe1127cdf38dd2078df4a1e13c6bfd88d20d6dbd6407177ce027a2651c8072c"
+        },
+        "829662": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6467694068948184008",
+                    "size": "293727536",
+                    "download": "181225216"
+                }
+            },
+            "decryptionkey": "03b8320ac9ddc30210b4f3ed1a36c6ae3e664d8ed8f1a1ecc5206894df620a24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18940779",
+                "timeupdated": "1750437795"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
