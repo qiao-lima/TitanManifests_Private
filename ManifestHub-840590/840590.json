@@ -1,0 +1,44 @@
+{
+    "appid": 840590,
+    "name": "ANOIX",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 22:57:48",
+    "change_number": 29998200,
+    "depot": {
+        "840591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7308387926663068931",
+                    "size": "79664799",
+                    "download": "39231920"
+                }
+            },
+            "decryptionkey": "9c73eb0fa77e19ed8176c5216a78820acee3ad493ec800510ef4e9bcb01388aa"
+        },
+        "840592": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "128401899009769925",
+                    "size": "97471770",
+                    "download": "43993440"
+                }
+            },
+            "decryptionkey": "43aacc8cbd0ebb153df05a7d8a42f314284ea4bf6a8c1a69dccfc3cf613ce47c"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "3821974",
+                "timeupdated": "1557836982"
+            }
+        }
+    }
+}
