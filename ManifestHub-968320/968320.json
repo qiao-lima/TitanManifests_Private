@@ -1,0 +1,39 @@
+{
+    "appid": 968320,
+    "name": "Alpha & Beta",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-25 17:13:30",
+    "change_number": 29745450,
+    "depot": {
+        "baselanguages": "english,turkish",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "968321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "473922900052013001",
+                    "size": "64892317",
+                    "download": "43156288"
+                }
+            },
+            "decryptionkey": "f068c2e73b2cefa5945c362c1f669e986841b3093344bcb1aa8220bff9e16b31"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5891705",
+                "timeupdated": "1606491556"
+            }
+        }
+    }
+}
