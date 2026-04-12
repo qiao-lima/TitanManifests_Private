@@ -1,0 +1,28 @@
+{
+    "appid": "515310",
+    "type": "Game",
+    "name": "Invention 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-28 11:58:19",
+    "depot": {
+        "515311": {
+            "manifests": {
+                "public": {
+                    "gid": "5301176669661791334",
+                    "size": "2318681284",
+                    "download": "467149232"
+                }
+            },
+            "decryptionkey": "1c7743f584ced7db357558bc245d0cd019b9d850ee0a03721c0457e8c958555c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1330436",
+                "timeupdated": "1473675990"
+            }
+        }
+    },
+    "access_token": 13067407931649969970
+}
