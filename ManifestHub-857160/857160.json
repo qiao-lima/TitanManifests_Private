@@ -1,0 +1,31 @@
+{
+    "appid": "857160",
+    "type": "Game",
+    "name": "Light Cube",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18821630",
+    "update_time": "2024-08-14 19:54:50",
+    "depot": {
+        "857161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7429928615653089852",
+                    "size": "120824585",
+                    "download": "44113808"
+                }
+            },
+            "decryptionkey": "ec9dbfda0da53e9cad57fadd3c89088fd43b2428ec6c2207552abcde34a80f9e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2760003",
+                "timeupdated": "1525898431"
+            }
+        }
+    },
+    "access_token": 7957907707410922226
+}
