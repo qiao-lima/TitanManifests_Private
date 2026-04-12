@@ -1,0 +1,31 @@
+{
+    "appid": 1803780,
+    "name": "Surviving the Aftermath - New Alliances",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 23:14:16",
+    "change_number": 29795583,
+    "depot": {
+        "1803780": {
+            "dlcappid": "1803780",
+            "manifests": {
+                "public": {
+                    "gid": "4325019039720100571",
+                    "size": "75044875",
+                    "download": "75584736"
+                }
+            },
+            "decryptionkey": "0ef019ae9214cb334cedf3404ae05fcc64bc53edb6ae8735893bfc898382a05a"
+        },
+        "1803783": {
+            "dlcappid": "1803780"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9379128",
+                "timeupdated": "1661353102"
+            }
+        }
+    }
+}
