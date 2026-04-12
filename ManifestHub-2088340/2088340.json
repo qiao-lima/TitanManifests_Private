@@ -1,0 +1,52 @@
+{
+    "appid": 2088340,
+    "name": "Bratz™: Flaunt your fashion",
+    "type": "Game",
+    "schinese_name": "贝兹娃娃™：炫耀你的时尚",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:14:39",
+    "change_number": 30203028,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "2088341": {
+            "manifests": {
+                "public": {
+                    "gid": "1324888659604359499",
+                    "size": "6828452192",
+                    "download": "1743218256"
+                }
+            },
+            "decryptionkey": "fd11b9a65e3c35c93c30300190a553c7ff7818a770ce9d4ebe300cd5feb1648b"
+        },
+        "2281810": {
+            "dlcappid": "2281810",
+            "manifests": {
+                "public": {
+                    "gid": "1200126824941453746",
+                    "size": "121287381",
+                    "download": "102764080"
+                }
+            },
+            "decryptionkey": "9ba242810f5c322aa5ee50f8c392e92eca2f05a3e7d3cb956a6c145c146349a3"
+        },
+        "2451150": {
+            "dlcappid": "2451150",
+            "manifests": {
+                "public": {
+                    "gid": "6468110023196155186",
+                    "size": "160130842",
+                    "download": "133144640"
+                }
+            },
+            "decryptionkey": "2f7cd491c89e7060d0596f14ad62d06a86b62f40d3fcc14b96b347dd83af0dfc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11882443",
+                "timeupdated": "1692951684"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
