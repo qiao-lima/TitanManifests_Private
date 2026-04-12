@@ -1,0 +1,45 @@
+{
+    "appid": 60340,
+    "name": "LUXOR: 5th Passage ",
+    "type": "Game",
+    "schinese_name": "埃及祖玛5",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 16:51:30",
+    "change_number": 30147578,
+    "depot": {
+        "60342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4577713563435875956",
+                    "size": "74682570",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "737eda0115d32a6daedf96df20174dea1834ecc4c2e67f66251b88f6a2af85c6"
+        },
+        "60341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3320146169388340234",
+                    "size": "75285390",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "9c40dfd43c8cfe8b7266addc9bedf4ae255469fa028ba0c1ee1386db29dc2bde"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "256931"
+            }
+        }
+    }
+}
