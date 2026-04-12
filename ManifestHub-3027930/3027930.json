@@ -1,0 +1,44 @@
+{
+    "appid": 3027930,
+    "name": "Karate Survivor",
+    "type": "Game",
+    "schinese_name": "武林求生",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 10:16:28",
+    "change_number": 30007439,
+    "depot": {
+        "3027931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1315231664762760984",
+                    "size": "1891269657",
+                    "download": "177682288"
+                }
+            },
+            "decryptionkey": "8e0e6b6161e8fa9b95807af1d66e3d1a4c5b35968ce2aa06d664329931df0cef"
+        },
+        "3027932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6061845162465184369",
+                    "size": "1863718657",
+                    "download": "121072640"
+                }
+            },
+            "decryptionkey": "fb3e0dfc29633baa15ef4a2a53413a4a9599034a7c93bf523a193fe99f9d33c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17364520",
+                "timeupdated": "1740024869"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
