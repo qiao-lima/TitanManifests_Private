@@ -1,0 +1,48 @@
+{
+    "appid": "590420",
+    "type": "Game",
+    "name": "Chika Militant Cockroach",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-28 11:59:04",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "590421": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "911952026792723141",
+                    "size": "164362463",
+                    "download": "112309776"
+                }
+            },
+            "decryptionkey": "15b58734b8429cedb7c13c370528943eb65326fc119b7b5fc00fc146ac706b54"
+        },
+        "590422": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "855389223337027245",
+                    "size": "150306478",
+                    "download": "108270304"
+                }
+            },
+            "decryptionkey": "c212f6d634a88f4af0ca7448f72038bcfbba3d2f90f610230b5fb88fc1a8eff4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1706937",
+                "timeupdated": "1490176005"
+            }
+        }
+    },
+    "access_token": 5663085483680733342
+}
