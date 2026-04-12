@@ -1,0 +1,31 @@
+{
+    "appid": "475430",
+    "type": "Game",
+    "name": "Kimulator : Fight for your destiny",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25107585",
+    "update_time": "2024-09-06 19:18:59",
+    "depot": {
+        "475431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9193066890108823863",
+                    "size": "4587568037",
+                    "download": "1887776320"
+                }
+            },
+            "decryptionkey": "db2784afc9cd936dd9d7f165bf6d597ef47fb8e7b62dc139a2fbad074866b868"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1273466",
+                "timeupdated": "1470884427"
+            }
+        }
+    },
+    "access_token": 13458325645787120103
+}
