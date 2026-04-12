@@ -1,0 +1,106 @@
+{
+    "appid": 1909770,
+    "name": "Aim Climb",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:23:25",
+    "change_number": 29528769,
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1909771": {
+            "manifests": {
+                "public": {
+                    "gid": "8783680292410526714",
+                    "size": "430956100",
+                    "download": "335230512"
+                },
+                "beta": {
+                    "gid": "2934636876175225433",
+                    "size": "287710472",
+                    "download": "226225920"
+                }
+            },
+            "decryptionkey": "d37b0f6242b0ba5c60fc37ed28b6078957618ffcd9dcda07a0dff26608cc87cc"
+        },
+        "1909772": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3126000920648379545",
+                    "size": "430956100",
+                    "download": "335263392"
+                },
+                "beta": {
+                    "gid": "7389362056395016169",
+                    "size": "287654152",
+                    "download": "226152688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18840835",
+                "timeupdated": "1749734244"
+            },
+            "beta": {
+                "buildid": "17027983",
+                "description": "previous versioned",
+                "timeupdated": "1737039581"
+            }
+        }
+    }
+}
