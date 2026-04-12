@@ -1,0 +1,58 @@
+{
+    "appid": "332670",
+    "type": "Tool",
+    "name": "Project CARS - Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26182306",
+    "update_time": "2024-11-14 05:36:17",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "332671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3453919693304578631",
+                    "size": "13785874",
+                    "download": "5525008"
+                }
+            },
+            "decryptionkey": "3c09b40b627f67bc52036fc0d8f4e280e2b8259e4cd2a1c311efe7261cd54e6b"
+        },
+        "332672": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1138439470607335494",
+                    "size": "25190591",
+                    "download": "7855632"
+                }
+            },
+            "decryptionkey": "9b5081b044912a39d39ba7ae60858ccd6b83a1b15885e9f42a2cf9961efce88c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1299088",
+                "timeupdated": "1478270475"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
