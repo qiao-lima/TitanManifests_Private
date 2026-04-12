@@ -1,0 +1,27 @@
+{
+    "appid": 1361540,
+    "name": "Hentai Monster Quiz 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 23:11:46",
+    "change_number": 30215582,
+    "depot": {
+        "1361541": {
+            "manifests": {
+                "public": {
+                    "gid": "1708868840919512346",
+                    "size": "761238479",
+                    "download": "117768688"
+                }
+            },
+            "decryptionkey": "be8846ef3a456615243d0162bd769621b6b3baf628231d1ef727dd7599727e89"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5306930",
+                "timeupdated": "1595180787"
+            }
+        }
+    }
+}
