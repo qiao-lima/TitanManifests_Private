@@ -1,0 +1,28 @@
+{
+    "appid": 2313440,
+    "name": "Demonslayer AKA Me",
+    "type": "Game",
+    "schinese_name": "我御剑降魔",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 09:17:47",
+    "change_number": 29945000,
+    "depot": {
+        "2313441": {
+            "manifests": {
+                "public": {
+                    "gid": "2468737960641832810",
+                    "size": "2914798121",
+                    "download": "893433392"
+                }
+            },
+            "decryptionkey": "0436067eb75cff1b710d9358a927c5423770b9485c078d2585083e64cc91759e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19142543",
+                "timeupdated": "1751962659"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
