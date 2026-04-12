@@ -1,0 +1,58 @@
+{
+    "appid": 3019830,
+    "name": "Sandbox Apocalypse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 12:08:35",
+    "change_number": 29740199,
+    "depot": {
+        "3019831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "111135077013059951",
+                    "size": "269545095",
+                    "download": "128684192"
+                }
+            },
+            "decryptionkey": "2ff31bdcd135c3226b91926f3f007b93248539c341438052b970e1a9a270fc2b"
+        },
+        "3019832": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7745342948711004324",
+                    "size": "265474403",
+                    "download": "126879104"
+                }
+            }
+        },
+        "3019833": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2326945609692356341",
+                    "size": "299332561",
+                    "download": "132576144"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18994157",
+                "timeupdated": "1750849710"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
