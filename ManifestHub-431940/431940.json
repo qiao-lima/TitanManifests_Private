@@ -1,0 +1,47 @@
+{
+    "appid": 431940,
+    "name": "Wildfire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 22:11:13",
+    "change_number": 30019907,
+    "depot": {
+        "baselanguages": "",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "431941": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1827648598203079500",
+                    "size": "336787881",
+                    "download": "236476384"
+                }
+            },
+            "decryptionkey": "09fb248748a867ba443f2cb385ab73eda2b28c0db118ccdadf414582881f41a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7866451",
+                "timeupdated": "1639201806"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
