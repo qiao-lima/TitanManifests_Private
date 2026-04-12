@@ -1,0 +1,35 @@
+{
+    "appid": 1353300,
+    "name": "Idle Slayer",
+    "type": "Game",
+    "schinese_name": "闲置猎手",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 19:13:31",
+    "change_number": 30212386,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1353301": {
+            "manifests": {
+                "public": {
+                    "gid": "53277249280654995",
+                    "size": "272335474",
+                    "download": "80668192"
+                }
+            },
+            "decryptionkey": "f91d768e30ad4481e09f9c4069c812642eb5f5721f043726cb1d46b6ccaacd21"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19264069",
+                "timeupdated": "1752775597"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
