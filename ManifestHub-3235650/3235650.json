@@ -1,0 +1,42 @@
+{
+    "appid": 3235650,
+    "name": "出張 Business trip",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 15:12:17",
+    "change_number": 29918949,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,japanese",
+        "3235651": {
+            "manifests": {
+                "public": {
+                    "gid": "7257652450069322468",
+                    "size": "803463446",
+                    "download": "674743088"
+                }
+            },
+            "decryptionkey": "f1894f67d013dc1838db468c1e985c3e0b0dcf01f52215cdd944a902083709ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16138577",
+                "timeupdated": "1729611562"
+            }
+        }
+    }
+}
