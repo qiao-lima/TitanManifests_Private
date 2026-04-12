@@ -1,0 +1,31 @@
+{
+    "appid": 1161900,
+    "name": "Door2:Key",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 22:01:09",
+    "change_number": 29975933,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1161901": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "902008228084491884",
+                    "size": "5730862594",
+                    "download": "1630883312"
+                }
+            },
+            "decryptionkey": "dc6df0a3df7810c49e9c0ce2403a5f7c0d87e40d04550744443f7048654f3b4d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4542566",
+                "timeupdated": "1578215409"
+            }
+        }
+    }
+}
