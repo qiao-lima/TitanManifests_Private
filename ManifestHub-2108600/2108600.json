@@ -1,0 +1,27 @@
+{
+    "appid": 2108600,
+    "name": "Potato Survival",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:26:32",
+    "change_number": 29652978,
+    "depot": {
+        "2108601": {
+            "manifests": {
+                "public": {
+                    "gid": "4199586700123094932",
+                    "size": "348310748",
+                    "download": "216273712"
+                }
+            },
+            "decryptionkey": "8eebb6e6f4699dcedf0ea11ce3cb177eaa6bcda73e7147b7d5509182c43ffb8d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9698262",
+                "timeupdated": "1665499329"
+            }
+        }
+    }
+}
