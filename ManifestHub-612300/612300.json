@@ -1,0 +1,68 @@
+{
+    "appid": 612300,
+    "name": "Sudden Strike Gold",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 14:15:31",
+    "change_number": 30089916,
+    "depot": {
+        "baselanguages": "english",
+        "612301": {
+            "manifests": {
+                "public": {
+                    "gid": "288154925267696080",
+                    "size": "512178467",
+                    "download": "455860368"
+                }
+            },
+            "decryptionkey": "b2869e24140c126a6a63aa0051e3f5e35afd31900c9a030371ef5c21c83a4f9f"
+        },
+        "612302": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3898919966663970560",
+                    "size": "491560810",
+                    "download": "438863920"
+                }
+            },
+            "decryptionkey": "0455c705f430b6f7264c37196d15dc3e5c9a8131f55ea970940c80562985df1f"
+        },
+        "612303": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6327247140170588180",
+                    "size": "516532861",
+                    "download": "454116528"
+                }
+            },
+            "decryptionkey": "b8a3f787333bf7d98d815640fffc21123953376e89b739df3da9514eba52fa75"
+        },
+        "612304": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "779277377463393480",
+                    "size": "498368741",
+                    "download": "436562688"
+                }
+            },
+            "decryptionkey": "9b06e14ae43558d3fdfeea422afc8c5646cd8e4d794eaa72eff271fb9b6b8375"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1842328",
+                "timeupdated": "1495617807"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
