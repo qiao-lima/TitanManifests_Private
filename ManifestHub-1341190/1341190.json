@@ -1,0 +1,31 @@
+{
+    "appid": 1341190,
+    "name": "Furry Nya",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 02:13:06",
+    "change_number": 30059068,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1341191": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3017774573987196128",
+                    "size": "361667681",
+                    "download": "138049360"
+                }
+            },
+            "decryptionkey": "ce1390a6ba0ba86d26eecf465b2fbfcf52d220352dfc4876e294001245e3347c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5144170",
+                "timeupdated": "1591772845"
+            }
+        }
+    }
+}
