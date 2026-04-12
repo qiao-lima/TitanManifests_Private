@@ -1,0 +1,48 @@
+{
+    "appid": 2360210,
+    "name": "Rune Coliseum",
+    "type": "Game",
+    "schinese_name": "符文竞技场",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:59:28",
+    "change_number": 30203801,
+    "depot": {
+        "2360211": {
+            "manifests": {
+                "public": {
+                    "gid": "5654647281399181870",
+                    "size": "10315640704",
+                    "download": "4502972384"
+                },
+                "bugfix": {
+                    "gid": "6457429977802286676",
+                    "size": "10315584604",
+                    "download": "4502921536"
+                },
+                "ea_2.9": {
+                    "gid": "7903266548121640594",
+                    "size": "10010869067",
+                    "download": "4267144768"
+                }
+            },
+            "decryptionkey": "1696b5cd888286bb56e4c212ad6050e26d06f6cd2360159f6166350ef9bdc3ae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19273451",
+                "timeupdated": "1752836876"
+            },
+            "bugfix": {
+                "buildid": "19189538",
+                "description": "DevBugFix",
+                "timeupdated": "1752231339"
+            },
+            "ea_2.9": {
+                "buildid": "18548306",
+                "description": "EAv2.9",
+                "timeupdated": "1747825832"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
