@@ -1,0 +1,31 @@
+{
+    "appid": 964933,
+    "name": "DYNASTY WARRIORS 9: Lianshi (Police officers Costume) / 練師 「警官風コスチューム」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:42",
+    "change_number": 26201212,
+    "depot": {
+        "964933": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1916059804757441402",
+                    "size": "39597748",
+                    "download": "39515328"
+                }
+            },
+            "dlcappid": "964933",
+            "decryptionkey": "b880a1329de2b8053ebaf9cfbfbd849abc6f8a16a916ffe1f65ce65825df610c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3234832",
+                "timeupdated": "1540551878"
+            }
+        }
+    }
+}
