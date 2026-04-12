@@ -1,0 +1,29 @@
+{
+    "appid": "491730",
+    "type": "Game",
+    "name": "Heavenly Battle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28682607",
+    "update_time": "2025-04-26 20:55:58",
+    "depot": {
+        "491731": {
+            "manifests": {
+                "public": {
+                    "gid": "3930459676557977649",
+                    "size": "37246093",
+                    "download": "15234896"
+                }
+            },
+            "decryptionkey": "9fd2c9e37f451fea50e4785361ec7abff789d7afeb8c43333586ebed0e1cbbbf"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "1186178",
+                "timeupdated": "1466181326"
+            }
+        }
+    },
+    "access_token": 16625745010108552533
+}
