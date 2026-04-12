@@ -1,0 +1,28 @@
+{
+    "appid": 3163170,
+    "name": "A Few Nights With Francesca",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:45:48",
+    "change_number": 29764183,
+    "depot": {
+        "3163171": {
+            "manifests": {
+                "public": {
+                    "gid": "7864621934826592593",
+                    "size": "333833294",
+                    "download": "124042000"
+                }
+            },
+            "decryptionkey": "298ee9ee6b1571e825d581b05b69760489711500e3d601b7ae4d3cb658b51e84"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19011749",
+                "timeupdated": "1750944492"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
