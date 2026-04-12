@@ -1,0 +1,27 @@
+{
+    "appid": 1862660,
+    "name": "garage:VAMP",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 14:23:47",
+    "change_number": 29432211,
+    "depot": {
+        "1862661": {
+            "manifests": {
+                "public": {
+                    "gid": "6867315329754761523",
+                    "size": "980969387",
+                    "download": "509704192"
+                }
+            },
+            "decryptionkey": "07d87c48f4349d8507efcde61bb47b2665ab7dca7b7232fc4ed424393707685a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9293679",
+                "timeupdated": "1660192910"
+            }
+        }
+    }
+}
