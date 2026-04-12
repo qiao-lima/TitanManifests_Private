@@ -1,0 +1,59 @@
+{
+    "appid": 567320,
+    "name": "VThree",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 01:42:35",
+    "change_number": 30176942,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,russian,arabic,greek",
+        "567321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4443884578365275905",
+                    "size": "327369543",
+                    "download": "182028080"
+                }
+            },
+            "decryptionkey": "b4d854ab876926b96e75de27e3a92d3a150cb34dc2877190cda0d614b052ff4f"
+        },
+        "567322": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3659449874891098371",
+                    "size": "337195483",
+                    "download": "186454608"
+                }
+            },
+            "decryptionkey": "d05608a61a6c7b386fa612666ca334132628eb3d60ae502c82383d45bbc49140"
+        },
+        "567323": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4676737056898623793",
+                    "size": "332529070",
+                    "download": "183185216"
+                }
+            },
+            "decryptionkey": "577c6cb388b82cf22396f5881ed136874fd3198237dec2c77a90acc4dca012f3"
+        },
+        "workshopdepot": "567320",
+        "branches": {
+            "public": {
+                "buildid": "2315538",
+                "timeupdated": "1511600703"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
