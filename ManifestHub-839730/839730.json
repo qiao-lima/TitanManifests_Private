@@ -1,0 +1,38 @@
+{
+    "appid": 839730,
+    "name": "Planum",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 11:31:28",
+    "change_number": 30087162,
+    "depot": {
+        "839731": {
+            "manifests": {
+                "public": {
+                    "gid": "4463584400184364496",
+                    "size": "64520484",
+                    "download": "29841760"
+                }
+            },
+            "decryptionkey": "21b354de51711e35987407db94a954ed24acf90f3eee498338b0ad76e25a3b62"
+        },
+        "857260": {
+            "manifests": {
+                "public": {
+                    "gid": "7251594120217897722",
+                    "size": "19560664",
+                    "download": "19325728"
+                }
+            },
+            "dlcappid": "857260",
+            "decryptionkey": "404a1bfb627b533093792fc19b2f6b9d8b3d7fee2ad43bc33d22a7801234c382"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2744796",
+                "timeupdated": "1525408343"
+            }
+        }
+    }
+}
