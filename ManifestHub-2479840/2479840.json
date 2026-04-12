@@ -1,0 +1,31 @@
+{
+    "appid": 2479840,
+    "name": "Pawn Planet",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 21:42:52",
+    "change_number": 29773725,
+    "depot": {
+        "2479841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4791404648961257821",
+                    "size": "8365307019",
+                    "download": "2266181408"
+                }
+            },
+            "decryptionkey": "94260d4c80c6837b2460639aa34e30da4caa193bf3e4ac9f93406d760bc22bed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19015708",
+                "timeupdated": "1750970565"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
