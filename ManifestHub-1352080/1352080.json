@@ -1,0 +1,35 @@
+{
+    "appid": 1352080,
+    "name": "SMASH LEGENDS",
+    "type": "Game",
+    "schinese_name": "传奇大乱斗",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 21:57:08",
+    "change_number": 30193987,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1352081": {
+            "manifests": {
+                "public": {
+                    "gid": "4848578732402444424",
+                    "size": "2907838486",
+                    "download": "1940777520"
+                }
+            },
+            "decryptionkey": "20447818b9565461276861087cdd7b980534e7e2c2bb27a52c707743691450a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19154128",
+                "timeupdated": "1752548894"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
