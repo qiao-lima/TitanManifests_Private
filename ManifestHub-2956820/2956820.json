@@ -1,0 +1,27 @@
+{
+    "appid": 2956820,
+    "name": "近畿霊務局",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 01:44:00",
+    "change_number": 29752438,
+    "depot": {
+        "2956821": {
+            "manifests": {
+                "public": {
+                    "gid": "3663858530450795471",
+                    "size": "16666318114",
+                    "download": "6968585616"
+                }
+            },
+            "decryptionkey": "d85f0965b6ceadca1d4c00a1d750c5c8374707418384253a53c980d98ad7b3bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16796828",
+                "timeupdated": "1734591522"
+            }
+        }
+    }
+}
