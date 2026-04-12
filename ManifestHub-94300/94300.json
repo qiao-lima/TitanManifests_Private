@@ -1,0 +1,164 @@
+{
+    "appid": "94300",
+    "type": "Game",
+    "name": "The Dream Machine",
+    "schinese_name": "造梦机器",
+    "isfreeapp": "0",
+    "change_number": "28969938",
+    "update_time": "2025-05-14 07:17:49",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "94301": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1032000677283964790",
+                    "size": "147199416",
+                    "download": "104357040"
+                },
+                "previous": {
+                    "gid": "5499445924646477353",
+                    "size": "147265401",
+                    "download": "104365856"
+                },
+                "experimental": {
+                    "gid": "154633208952413522",
+                    "size": "147221534",
+                    "download": "104367488"
+                }
+            },
+            "decryptionkey": "611224ca3044804065c0b9a7ca5d424e027857f8687038244b88f5fbbaea9143"
+        },
+        "94302": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "8943413912860625876",
+                    "size": "44970794",
+                    "download": "44539616"
+                },
+                "previous": {
+                    "gid": "2743921453174921568",
+                    "size": "44976912",
+                    "download": "44539920"
+                },
+                "experimental": {
+                    "gid": "8943413912860625876",
+                    "size": "44970794",
+                    "download": "44539616"
+                }
+            },
+            "decryptionkey": "023206ddbd64f73a9a8e1c4bb2c1f889c1b87949fe7fa10c5898367d35c0f4d5"
+        },
+        "94303": {
+            "optional": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7884791436224130450",
+                    "size": "40367854",
+                    "download": "39855024"
+                },
+                "previous": {
+                    "gid": "7023152059049953968",
+                    "size": "40373870",
+                    "download": "39855088"
+                },
+                "experimental": {
+                    "gid": "7884791436224130450",
+                    "size": "40367854",
+                    "download": "39855024"
+                }
+            },
+            "dlcappid": "94303",
+            "decryptionkey": "3c7de5c76540bbba37ff14cc26c9d95e2ec8999e1ff1a1039197d48bce419468"
+        },
+        "94304": {
+            "manifests": {
+                "public": {
+                    "gid": "6248333466501972126",
+                    "size": "126083099",
+                    "download": "116741280"
+                },
+                "previous": {
+                    "gid": "8205482307359302646",
+                    "size": "126092867",
+                    "download": "116745712"
+                },
+                "experimental": {
+                    "gid": "6248333466501972126",
+                    "size": "126083099",
+                    "download": "116741280"
+                }
+            },
+            "dlcappid": "94304",
+            "decryptionkey": "3a8baefc9827cbd2f540d21f094299b515ac25c3e06241730ed11a8ddde35a79"
+        },
+        "330260": {
+            "manifests": {
+                "public": {
+                    "gid": "4029724967817483490",
+                    "size": "202656847",
+                    "download": "190433408"
+                },
+                "previous": {
+                    "gid": "517190897047010985",
+                    "size": "202672734",
+                    "download": "190437584"
+                },
+                "experimental": {
+                    "gid": "4029724967817483490",
+                    "size": "202656847",
+                    "download": "190433408"
+                }
+            },
+            "dlcappid": "330260",
+            "decryptionkey": "172a9f19ac36ee56e75f200664fb1627ca55b70ed4c9b2421cc60f51ad7140eb"
+        },
+        "461900": {
+            "manifests": {
+                "public": {
+                    "gid": "5159485623556219001",
+                    "size": "597338910",
+                    "download": "537676016"
+                },
+                "previous": {
+                    "gid": "8285184996033027629",
+                    "size": "597354855",
+                    "download": "537680736"
+                },
+                "experimental": {
+                    "gid": "5159485623556219001",
+                    "size": "597338910",
+                    "download": "537676016"
+                }
+            },
+            "dlcappid": "461900",
+            "decryptionkey": "c6821405c172a08da6108962716809c6eafacd09ee7251bb5091aa61828ca3bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18342920",
+                "timeupdated": "1746426099"
+            },
+            "previous": {
+                "buildid": "7277525",
+                "description": "Previous version",
+                "timeupdated": "1640120601"
+            },
+            "experimental": {
+                "buildid": "18342905",
+                "description": "Achievements Test",
+                "timeupdated": "1746425798"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
