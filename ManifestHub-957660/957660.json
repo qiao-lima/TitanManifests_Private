@@ -1,0 +1,44 @@
+{
+    "appid": 957660,
+    "name": "Catizens",
+    "type": "Game",
+    "schinese_name": "喵星总动员 | Catizens",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 06:43:16",
+    "change_number": 29755986,
+    "depot": {
+        "957661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "112102498057762431",
+                    "size": "4082505944",
+                    "download": "1138564432"
+                }
+            },
+            "decryptionkey": "e829a594a0198fbc8170a10009da0acb0a49946a839cc60a9d79785e2d2915e4"
+        },
+        "957662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1260273893323103796",
+                    "size": "4163499984",
+                    "download": "1162341248"
+                }
+            },
+            "decryptionkey": "fb9243e69776019b21e5521ab03150eaa5822c20d4831b1176f049d578e201ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17262272",
+                "timeupdated": "1739200046"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
