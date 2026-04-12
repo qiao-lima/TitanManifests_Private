@@ -1,0 +1,29 @@
+{
+    "appid": 2516170,
+    "name": "G.I. Joe: Wrath of Cobra",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 04:11:47",
+    "change_number": 30032613,
+    "depot": {
+        "2516171": {
+            "manifests": {
+                "public": {
+                    "gid": "687876036041883604",
+                    "size": "1833425075",
+                    "download": "537146896"
+                }
+            },
+            "decryptionkey": "98445802b21b8f4cae4ad9483f0fb3cbd0320519e8cf6dc7bc3d97c9452339c0"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16572042",
+                "timeupdated": "1732833953"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
