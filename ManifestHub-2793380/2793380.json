@@ -1,0 +1,60 @@
+{
+    "appid": 2793380,
+    "name": "Starground",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 23:33:02",
+    "change_number": 30150188,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,schinese,russian,japanese,polish,danish,dutch,brazilian,latam",
+        "2793381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "653410182115245624",
+                    "size": "490949288",
+                    "download": "414898464"
+                },
+                "experimental": {
+                    "gid": "653410182115245624",
+                    "size": "490949288",
+                    "download": "414898464"
+                }
+            },
+            "decryptionkey": "4f7ea5e06d0257cdd9dd17bdee5da6ad9cbd4c81f6e096907f7c23221c654689"
+        },
+        "2793383": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2026596226656341293",
+                    "size": "493879056",
+                    "download": "416547456"
+                },
+                "experimental": {
+                    "gid": "2026596226656341293",
+                    "size": "493879056",
+                    "download": "416547456"
+                }
+            },
+            "decryptionkey": "05bcaf823ee0e843039b200ac5fd113a27cba9103d1a8ce64bd5b5d8ce69c914"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19287977",
+                "timeupdated": "1752964378"
+            },
+            "experimental": {
+                "buildid": "19287977",
+                "description": "Contains experimental features and content that isn't stable enough for the main branch yet",
+                "timeupdated": "1752964350"
+            }
+        }
+    }
+}
