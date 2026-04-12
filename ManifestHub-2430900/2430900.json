@@ -1,0 +1,31 @@
+{
+    "appid": 2430900,
+    "name": "Among Ashes",
+    "type": "Game",
+    "schinese_name": "Among Ashes / 灰烬之中",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 17:41:01",
+    "change_number": 29546344,
+    "depot": {
+        "2430901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7768446927309452933",
+                    "size": "8621085334",
+                    "download": "3725165808"
+                }
+            },
+            "decryptionkey": "90cfd24a24b805820e19c590e43a32922893e12eddebac0e319874a503e49b86"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18777098",
+                "timeupdated": "1749294614"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
