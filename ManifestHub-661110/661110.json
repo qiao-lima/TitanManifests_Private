@@ -1,0 +1,34 @@
+{
+    "appid": 661110,
+    "name": "Shattered God - Quest for the Divine Relic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 22:12:06",
+    "change_number": 30039026,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "661111": {
+            "manifests": {
+                "public": {
+                    "gid": "2284579940052470833",
+                    "size": "453906688",
+                    "download": "356028224"
+                }
+            },
+            "decryptionkey": "989ad7586f79a850ae0daab32b1a993f093a762ea2432587b3447d9963d5dd69"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2000727",
+                "timeupdated": "1501529150"
+            }
+        }
+    }
+}
