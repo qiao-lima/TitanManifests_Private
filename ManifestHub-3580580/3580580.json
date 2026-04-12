@@ -1,0 +1,30 @@
+{
+    "appid": 3580580,
+    "name": "Jacksmith: Weapons and Warriors",
+    "type": "Game",
+    "schinese_name": "杰克驴铁匠：武器与战士",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 04:18:02",
+    "change_number": 29856138,
+    "depot": {
+        "3580581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "161179547877802750",
+                    "size": "45688133",
+                    "download": "31458896"
+                }
+            },
+            "decryptionkey": "66b3c25e35e2d734a6591131492f846958fed2a8c5b0a1a4e44a9195f6f78866"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18571048",
+                "timeupdated": "1747941786"
+            }
+        }
+    }
+}
