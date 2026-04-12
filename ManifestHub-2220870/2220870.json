@@ -1,0 +1,32 @@
+{
+    "appid": 2220870,
+    "name": "Fantasy Survivors",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 19:40:31",
+    "change_number": 30137483,
+    "depot": {
+        "baselanguages": "english",
+        "2220871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2034292091443196627",
+                    "size": "513224816",
+                    "download": "78813680"
+                }
+            },
+            "decryptionkey": "25469231958c51bf8105c223f654e5a34d7f8eb27e6262e0eee6b3750c309bc6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19278590",
+                "timeupdated": "1752864026"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
