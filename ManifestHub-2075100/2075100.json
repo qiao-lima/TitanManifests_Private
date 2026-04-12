@@ -1,0 +1,47 @@
+{
+    "appid": 2075100,
+    "name": "Chernobylite 2: Exclusion Zone",
+    "type": "Game",
+    "schinese_name": "切尔诺贝利人2：禁区",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 14:03:49",
+    "change_number": 30206791,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2075101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "370068442921884914",
+                    "size": "113130102323",
+                    "download": "96263122896"
+                }
+            },
+            "decryptionkey": "deb4947ce8dada6c0b74940f9a79844962cd9a23424c47b47a10dbef210e4138"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,polish,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "18676669",
+                "timeupdated": "1748624528"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
