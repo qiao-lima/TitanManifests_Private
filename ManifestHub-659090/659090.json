@@ -1,0 +1,28 @@
+{
+    "appid": "659090",
+    "type": "Game",
+    "name": "Proviant",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:31:12",
+    "depot": {
+        "659091": {
+            "manifests": {
+                "public": {
+                    "gid": "373134581544655759",
+                    "size": "121090289",
+                    "download": "46721632"
+                }
+            },
+            "decryptionkey": "5335009143aa24463dc4e630d4611f85fbb7604d7278198ec66f2c6453844ccf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2019893",
+                "timeupdated": "1502158402"
+            }
+        }
+    },
+    "access_token": 13339107118995644241
+}
