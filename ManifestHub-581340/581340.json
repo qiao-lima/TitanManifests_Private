@@ -1,0 +1,28 @@
+{
+    "appid": 581340,
+    "name": "Narborion Saga",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 18:12:38",
+    "change_number": 29912104,
+    "depot": {
+        "581341": {
+            "manifests": {
+                "public": {
+                    "gid": "1499843882925639441",
+                    "size": "319407512",
+                    "download": "216988544"
+                }
+            },
+            "decryptionkey": "ea2955e2d794c0a2430140c7dccc5615061814701045601a1ab319fa704c1cfb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1897443",
+                "timeupdated": "1497723644"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
