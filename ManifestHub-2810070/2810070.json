@@ -1,0 +1,51 @@
+{
+    "appid": 2810070,
+    "name": "Surviving Ceres",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 00:12:44",
+    "change_number": 29914357,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2810071": {
+            "manifests": {
+                "public": {
+                    "gid": "8918818513976899315",
+                    "size": "2955432628",
+                    "download": "2732892496"
+                },
+                "experimental": {
+                    "gid": "7697886411412447980",
+                    "size": "2955430580",
+                    "download": "2733337616"
+                }
+            },
+            "decryptionkey": "d2039db98e9110ca1556fba909d73487a36f913fe0c41b6573ca84ce03004d73"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18875480",
+                "timeupdated": "1750028056"
+            },
+            "experimental": {
+                "buildid": "18921881",
+                "description": "This branch is for players willing to try unfinished or potentially buggy new builds for the game ahead of live release.",
+                "timeupdated": "1750307942"
+            }
+        }
+    }
+}
