@@ -1,0 +1,55 @@
+{
+    "appid": 604570,
+    "name": "Universe in Fire",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 11:09:14",
+    "change_number": 30065858,
+    "depot": {
+        "604571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "525394985344592379",
+                    "size": "40148903",
+                    "download": "13636496"
+                }
+            },
+            "decryptionkey": "d944f8d11522f84bd054f3dad21b728ea3616f796f241a1e840c8c9bb65ba5da"
+        },
+        "604572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8147345663478764103",
+                    "size": "85702744",
+                    "download": "26069104"
+                }
+            }
+        },
+        "604573": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7858817282174476574",
+                    "size": "49065870",
+                    "download": "15991632"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1929478",
+                "timeupdated": "1498857792"
+            }
+        }
+    },
+    "access_token": 12626552496932688284
+}
