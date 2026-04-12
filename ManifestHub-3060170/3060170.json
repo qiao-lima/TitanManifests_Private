@@ -1,0 +1,31 @@
+{
+    "appid": 3060170,
+    "name": "Chained in the Backrooms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 13:53:19",
+    "change_number": 30154460,
+    "depot": {
+        "3060172": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4497957947854372793",
+                    "size": "831781072",
+                    "download": "602629248"
+                }
+            },
+            "decryptionkey": "f451eb645020944aa802d8e58cf2d6829ea1e3e5e0ed4b5940f2871693984da9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19034052",
+                "timeupdated": "1751078256"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
