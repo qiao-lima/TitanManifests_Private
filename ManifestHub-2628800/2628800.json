@@ -1,0 +1,27 @@
+{
+    "appid": 2628800,
+    "name": "Brooks in Wild West",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 08:05:05",
+    "change_number": 29638745,
+    "depot": {
+        "2628801": {
+            "manifests": {
+                "public": {
+                    "gid": "4847812141702181802",
+                    "size": "1395627409",
+                    "download": "1251078176"
+                }
+            },
+            "decryptionkey": "c124c880df6b299eab8eb75fa52f4f1bde20c4bca0d522ad2279a2e7f1c4ae6c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18802342",
+                "timeupdated": "1749511475"
+            }
+        }
+    }
+}
