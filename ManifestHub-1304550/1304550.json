@@ -1,0 +1,52 @@
+{
+    "appid": 1304550,
+    "name": "Progressbar95",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 15:19:30",
+    "change_number": 30050275,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1304551": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6071361977449767081",
+                    "size": "179434449",
+                    "download": "137569760"
+                }
+            },
+            "decryptionkey": "1b0f19a431e308f5cd8444531c97409fd46eebe8d4d00ccf93b757d4b8e8279e"
+        },
+        "1304552": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6376315159541793986",
+                    "size": "419349176",
+                    "download": "171722816"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19217303",
+                "timeupdated": "1752502763"
+            }
+        }
+    }
+}
