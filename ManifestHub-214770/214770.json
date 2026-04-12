@@ -1,0 +1,102 @@
+{
+    "appid": 214770,
+    "name": "Guacamelee! Gold Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 03:24:09",
+    "change_number": 29471787,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,brazilian",
+        "markdlcdepots": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "214771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5773040644636234744",
+                    "size": "643636847",
+                    "download": "0"
+                },
+                "test2": {
+                    "gid": "5773040644636234744",
+                    "size": "643636847",
+                    "download": "0"
+                },
+                "test3": {
+                    "gid": "5773040644636234744",
+                    "size": "643636847",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5838c0ef1493b8157a7b2dcdc369bc86a91b05d34316b75a43b09888c2c8d9e9"
+        },
+        "214772": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5683447560709107711",
+                    "size": "607949396",
+                    "download": "0"
+                },
+                "test2": {
+                    "gid": "5683447560709107711",
+                    "size": "607949396",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f966591f456afbe008114277c4ad7fbcd971933e73c46e3687a9ba88a0d49c9d"
+        },
+        "214773": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5604305725406154095",
+                    "size": "591648786",
+                    "download": "0"
+                },
+                "test3": {
+                    "gid": "5604305725406154095",
+                    "size": "591648786",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2e94fec234196d6d7d782a053c186c445c776abbe8bfbcb0df76d731e0a91144"
+        },
+        "branches": {
+            "public": {
+                "buildid": "207076"
+            },
+            "test2": {
+                "buildid": "195427",
+                "description": "osx"
+            },
+            "test3": {
+                "buildid": "207074",
+                "description": "linux"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
