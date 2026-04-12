@@ -1,0 +1,27 @@
+{
+    "appid": 1341100,
+    "name": "Demonic Blade",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 18:11:54",
+    "change_number": 29920149,
+    "depot": {
+        "1341101": {
+            "manifests": {
+                "public": {
+                    "gid": "5779717552632294445",
+                    "size": "1502323392",
+                    "download": "1339252208"
+                }
+            },
+            "decryptionkey": "0b0b0f835edfc704a0bf6cfa21924b3ad4721927cb48366af96a80ffd440bd10"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5134794",
+                "timeupdated": "1591613862"
+            }
+        }
+    }
+}
