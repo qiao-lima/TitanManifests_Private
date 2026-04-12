@@ -1,0 +1,31 @@
+{
+    "appid": 2838640,
+    "name": "The Rough Guide to Sea of Thieves eBook",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 16:15:47",
+    "change_number": 29789777,
+    "depot": {
+        "2838640": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "2838640",
+            "manifests": {
+                "public": {
+                    "gid": "502403447961499835",
+                    "size": "29642567",
+                    "download": "13183168"
+                }
+            },
+            "decryptionkey": "68937ad2c3fcbdd9f020ab2a0bf862931c990fafd559f2fd67a362a76f4569ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13520441",
+                "timeupdated": "1708526123"
+            }
+        }
+    }
+}
