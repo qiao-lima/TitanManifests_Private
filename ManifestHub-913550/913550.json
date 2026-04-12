@@ -1,0 +1,52 @@
+{
+    "appid": 913550,
+    "name": "I wanna be the Creator",
+    "type": "Game",
+    "schinese_name": "我想成为创造者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 09:15:28",
+    "change_number": 29916860,
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "0",
+        "913551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "994262948986707281",
+                    "size": "1038757858",
+                    "download": "358019552"
+                },
+                "test": {
+                    "gid": "994262948986707281",
+                    "size": "1038757858",
+                    "download": "358019552"
+                }
+            },
+            "decryptionkey": "ef5cdb61edb59dbe1344d9f7f63bc6c86958de192c8c211927e7cfcd1c553b74"
+        },
+        "913552": {
+            "manifests": {
+                "test": {
+                    "gid": "261051855576975581",
+                    "size": "344293308",
+                    "download": "171839904"
+                }
+            },
+            "decryptionkey": "1b8dffbf48a8ec2053be8e98601c7bf026bd3af5ed540def304dcffa9e1efce4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17801209",
+                "timeupdated": "1742511853"
+            },
+            "test": {
+                "buildid": "19121906",
+                "description": "测试版",
+                "timeupdated": "1751789725"
+            }
+        }
+    }
+}
