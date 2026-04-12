@@ -1,0 +1,59 @@
+{
+    "appid": 3115510,
+    "name": "Catgirl Aim Trainer",
+    "type": "Game",
+    "schinese_name": "猫女瞄准训练师",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 06:58:46",
+    "change_number": 29873073,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3115511": {
+            "manifests": {
+                "public": {
+                    "gid": "4212506706067562712",
+                    "size": "536630185",
+                    "download": "412755776"
+                },
+                "censoredstreamermode": {
+                    "gid": "2242965653146691696",
+                    "size": "526641273",
+                    "download": "405404352"
+                }
+            },
+            "decryptionkey": "4eb4be2c5a5e441ef3407cb663b9ad7ff24ecd64eff4ed53b1f0e2dd73caf68c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19088681",
+                "timeupdated": "1751519756"
+            },
+            "censoredstreamermode": {
+                "buildid": "16528631",
+                "description": "Censored Mode for Streamers",
+                "timeupdated": "1732564147"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
