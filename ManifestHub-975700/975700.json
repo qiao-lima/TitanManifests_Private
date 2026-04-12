@@ -1,0 +1,66 @@
+{
+    "appid": 975700,
+    "name": "KóterGame",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-18 22:49:23",
+    "change_number": 29631161,
+    "depot": {
+        "baselanguages": "hungarian",
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "975701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "465527143433182691",
+                    "size": "130473828",
+                    "download": "38652608"
+                }
+            },
+            "decryptionkey": "b8e6a07d20f682cb1a1128d5bbab2bb03b52e2da1d978f940194603e1767b1c0"
+        },
+        "1000940": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1109605138257987140",
+                    "size": "46299797",
+                    "download": "46153104"
+                }
+            },
+            "dlcappid": "1000940",
+            "decryptionkey": ""
+        },
+        "1000970": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8040888889658047800",
+                    "size": "46299797",
+                    "download": "46153104"
+                }
+            },
+            "dlcappid": "1000970",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18913792",
+                "timeupdated": "1750258157"
+            }
+        }
+    }
+}
