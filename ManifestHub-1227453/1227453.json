@@ -1,0 +1,71 @@
+{
+    "appid": 1227453,
+    "name": "RACE",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 09:07:35",
+    "change_number": 29983748,
+    "depot": {
+        "1227453": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1227453"
+            },
+            "dlcappid": "1227453",
+            "manifests": {
+                "public": {
+                    "gid": "1025351284791509626",
+                    "size": "323846",
+                    "download": "107680"
+                },
+                "nightly": {
+                    "gid": "7606201352638996175",
+                    "size": "323846",
+                    "download": "132240"
+                }
+            },
+            "decryptionkey": "eb86e28d4fe9a6d574761b1e70b45fd6794059da2e51b4e7cb1778ca690068a1"
+        },
+        "1790010": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1227453"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3652138296004003928",
+                    "size": "390995",
+                    "download": "88112"
+                },
+                "nightly": {
+                    "gid": "3652138296004003928",
+                    "size": "390995",
+                    "download": "88112"
+                }
+            },
+            "dlcappid": "1227453",
+            "decryptionkey": "f7b98c8d971d771ab05330a3b4b4fc8d58229f3bae9c0dd7bf7104f5ebdb63a2"
+        },
+        "1790011": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1227453"
+            },
+            "dlcappid": "1227453"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265189",
+                "timeupdated": "1745845193"
+            },
+            "nightly": {
+                "buildid": "19172144",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752134850"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
