@@ -1,0 +1,44 @@
+{
+    "appid": "454460",
+    "type": "Game",
+    "name": "JiPS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:07:41",
+    "depot": {
+        "454461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9186863238892774721",
+                    "size": "315141511",
+                    "download": "206636064"
+                }
+            },
+            "decryptionkey": "49d01440eb1fcf94962a6b41451d866be4a605befcc0a93297ce7953c7db61ca"
+        },
+        "454462": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1017207586274472015",
+                    "size": "328744716",
+                    "download": "209189344"
+                }
+            },
+            "decryptionkey": "b24814d739909931250d4bcc5b45172eed3db2509c9cf4eacd33243add2d1322"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1075393",
+                "timeupdated": "1460682246"
+            }
+        }
+    },
+    "access_token": 382917437605933584
+}
