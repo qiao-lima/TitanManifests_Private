@@ -1,0 +1,29 @@
+{
+    "appid": 2376681,
+    "name": "Sonic Superstars - LEGO Fun Pack",
+    "type": "DLC",
+    "schinese_name": "LEGO® 欢乐包",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 13:11:29",
+    "change_number": 29910089,
+    "depot": {
+        "2376681": {
+            "manifests": {
+                "public": {
+                    "gid": "1536858451744743258",
+                    "size": "210242229",
+                    "download": "132021184"
+                }
+            },
+            "dlcappid": "2376681",
+            "decryptionkey": "0c92a1adfef01e648935444d21387d4210e9f8f9e44ce9540dd74fc366520cce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12078812",
+                "timeupdated": "1696979998"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
