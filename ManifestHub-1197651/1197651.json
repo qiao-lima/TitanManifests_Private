@@ -1,0 +1,41 @@
+{
+    "appid": 1197651,
+    "name": "Barotrauma - Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 22:26:53",
+    "change_number": 26997904,
+    "depot": {
+        "1197651": {
+            "manifests": {
+                "public": {
+                    "gid": "8244469861707077622",
+                    "size": "419333950",
+                    "download": "407728784"
+                }
+            },
+            "decryptionkey": "880374e21d84e1b54d094f73147f62e9aef49552b1e0a9a2f0bbfc04ae2ac069"
+        },
+        "1670640": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3983027488348997829",
+                    "size": "1652403687",
+                    "download": "1672560400"
+                }
+            },
+            "decryptionkey": "1e35785f229c02d68d16234645fcccb600afc2be5783df82a77896c835d4759b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12631208",
+                "timeupdated": "1702562304"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
