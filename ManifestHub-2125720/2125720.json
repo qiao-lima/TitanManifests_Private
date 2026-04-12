@@ -1,0 +1,37 @@
+{
+    "appid": 2125720,
+    "name": "RX Racing 2022 Pro",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-21 19:32:10",
+    "change_number": 29099373,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2125721": {
+            "manifests": {
+                "public": {
+                    "gid": "5320486947415382482",
+                    "size": "966179936",
+                    "download": "205973504"
+                }
+            },
+            "decryptionkey": "e232975244226bab73718db5b323de4755de07aa9de9a136137b4984cfd841ed"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "2125720",
+        "branches": {
+            "public": {
+                "buildid": "9848789",
+                "timeupdated": "1667346169"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
