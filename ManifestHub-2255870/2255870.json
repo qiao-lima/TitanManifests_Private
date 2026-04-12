@@ -1,0 +1,28 @@
+{
+    "appid": "2255870",
+    "type": "Game",
+    "name": "Play football",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 21:07:09",
+    "depot": {
+        "2255871": {
+            "manifests": {
+                "public": {
+                    "gid": "3056962685413550114",
+                    "size": "64536812",
+                    "download": "16699552"
+                }
+            },
+            "decryptionkey": "b7f8e876c46e07a33e167b2adcfe0ee495f49b79f50b633e898602c1dbac781f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10167066",
+                "timeupdated": "1671244281"
+            }
+        }
+    },
+    "access_token": 15967978789858511739
+}
