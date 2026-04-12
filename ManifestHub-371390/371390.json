@@ -1,0 +1,29 @@
+{
+    "appid": 371390,
+    "name": "Flix The Flea",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-26 11:15:04",
+    "change_number": 29183823,
+    "depot": {
+        "371391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "927233085445387069",
+                    "size": "80184705",
+                    "download": "62165504"
+                }
+            },
+            "decryptionkey": "13d64774ea7adf933249f8a3a5ca3eaf021951c8d39f5adbfe3a5afa519b58a5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "620956"
+            }
+        }
+    }
+}
