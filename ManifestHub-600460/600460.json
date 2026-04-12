@@ -1,0 +1,33 @@
+{
+    "appid": 600460,
+    "name": "Dustwind",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 19:22:22",
+    "change_number": 29434553,
+    "depot": {
+        "workshopdepot": "600460",
+        "600461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9090939292848675820",
+                    "size": "5826375213",
+                    "download": "2794199856"
+                }
+            },
+            "decryptionkey": "a8ab7eaa8a346366a62f98324aa42fc47810de3eddadec629dd8929afc9248f0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18553067",
+                "timeupdated": "1747923552"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "f09347490e468844ff41f208ee5c62824005a8eba8a62cc0542a440239fd8c6e"
+    }
+}
