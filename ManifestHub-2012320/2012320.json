@@ -1,0 +1,68 @@
+{
+    "appid": 2012320,
+    "name": "Parallel Experiment",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 10:11:35",
+    "change_number": 30045473,
+    "depot": {
+        "2012321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "393031631232286507",
+                    "size": "2160200509",
+                    "download": "1609486272"
+                }
+            },
+            "decryptionkey": "bcdcac45ea040db57ec42574707273f04ec7f21be80e16b4b0ad0e920c34a3b2"
+        },
+        "2012322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2458113604654955858",
+                    "size": "2183623080",
+                    "download": "1612530416"
+                }
+            }
+        },
+        "2012323": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9045314527887403807",
+                    "size": "2160200465",
+                    "download": "1609485440"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2012324": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2092576045842397836",
+                    "size": "2183629228",
+                    "download": "1616752784"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19007605",
+                "timeupdated": "1750944769"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
