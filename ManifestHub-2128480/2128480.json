@@ -1,0 +1,62 @@
+{
+    "appid": 2128480,
+    "name": "Staffer Case: A Supernatural Mystery Adventure",
+    "type": "Game",
+    "schinese_name": "Staffer Case - 异能缉凶",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 02:05:35",
+    "change_number": 29852109,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "",
+        "2128482": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "623336238412844951",
+                    "size": "2798669808",
+                    "download": "2261458384"
+                }
+            },
+            "decryptionkey": "58d50e75515b3f6a86b2046004aed5de3908c4e5b2ba2e812cbd089a0ff3cae7"
+        },
+        "2486600": {
+            "dlcappid": "2486600",
+            "config": {
+                "oslist": "windows,macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "935597932634647194",
+                    "size": "38948812",
+                    "download": "33643600"
+                }
+            },
+            "decryptionkey": "f3b15e694ef1e7d9e0c49bf6224701ffa1744b7e1c374e97291f1071076ed5b7"
+        },
+        "2486608": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4076641560754643244",
+                    "size": "2824076330",
+                    "download": "2265857200"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18317004",
+                "timeupdated": "1746159964"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
