@@ -1,0 +1,31 @@
+{
+    "appid": 956751,
+    "name": "Huang Zhong - Officer Ticket / 黄忠使用券",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:17",
+    "change_number": 26201212,
+    "depot": {
+        "956751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1395823817913116181",
+                    "size": "4",
+                    "download": "48"
+                }
+            },
+            "dlcappid": "956751",
+            "decryptionkey": "ddb3d9acb99288d755d3e1a4ad2358dae5d07a179bb3694956b8dbb1bb8d709e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3216499",
+                "timeupdated": "1539677159"
+            }
+        }
+    }
+}
