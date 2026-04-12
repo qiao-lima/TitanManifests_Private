@@ -1,0 +1,44 @@
+{
+    "appid": 2535770,
+    "name": "黄毛漂流记",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 15:36:36",
+    "change_number": 30133639,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "hasdepotsindlc": "0",
+        "2535771": {
+            "manifests": {
+                "public": {
+                    "gid": "6681023723857587342",
+                    "size": "1670580736",
+                    "download": "460469888"
+                }
+            },
+            "decryptionkey": "e63408e639d3e5bac5344c02be0a9a0b2afdff7fbcc07353212f91fbf0efab01"
+        },
+        "2767190": {
+            "dlcappid": "2767190",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7370198823662588260",
+                    "size": "223191184",
+                    "download": "148197904"
+                }
+            },
+            "decryptionkey": "f00d963fb6b766112946037767cecf16d02ffc74076949ec7439406dc6049f0f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18583198",
+                "timeupdated": "1748008603"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
