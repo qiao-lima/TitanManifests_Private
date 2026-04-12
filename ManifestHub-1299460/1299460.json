@@ -1,0 +1,43 @@
+{
+    "appid": 1299460,
+    "name": "Wanderstop",
+    "type": "Game",
+    "schinese_name": "漫游驿站",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 17:18:22",
+    "change_number": 30155872,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1299461": {
+            "manifests": {
+                "public": {
+                    "gid": "3606109380897154204",
+                    "size": "13613029828",
+                    "download": "4501127136"
+                }
+            },
+            "decryptionkey": "d17456022f048ed4e2819c267b7442a6fc81b5a8b031710e23d704f284d251b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18352510",
+                "timeupdated": "1747065353"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
