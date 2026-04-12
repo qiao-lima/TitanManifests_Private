@@ -1,0 +1,49 @@
+{
+    "appid": 3438040,
+    "name": "Gooning Aim Trainer",
+    "type": "Game",
+    "schinese_name": "性瘾者目标训练师",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 19:30:52",
+    "change_number": 30095604,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3438041": {
+            "manifests": {
+                "public": {
+                    "gid": "1856323759083302235",
+                    "size": "1251256197",
+                    "download": "1054685344"
+                }
+            },
+            "decryptionkey": "f9b2369caa6242168cdb458b1cd0f681804c9463b9cfb531cfadc8b661d8ed10"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19087031",
+                "timeupdated": "1751506963"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
