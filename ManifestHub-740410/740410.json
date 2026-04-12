@@ -1,0 +1,58 @@
+{
+    "appid": 740410,
+    "name": "Puzzle Chambers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:59:11",
+    "change_number": 29328617,
+    "depot": {
+        "740411": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3795160352521204139",
+                    "size": "571684881",
+                    "download": "83531760"
+                }
+            },
+            "decryptionkey": "01a03bf50e89c0e04c94e0494178986ba6274820906642d31131e5457e516b3c"
+        },
+        "740412": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4904813649374656035",
+                    "size": "566338065",
+                    "download": "81902336"
+                }
+            },
+            "decryptionkey": "de9a432b53d545d001958976147da7e23644a53f62024065e1705eef8fe697a3"
+        },
+        "740413": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2684811902159756809",
+                    "size": "614103012",
+                    "download": "95420640"
+                }
+            },
+            "decryptionkey": "8ca895587c7d10b13fea1e6db9422c45f6e7a6cd398574a94ed882d818dc245f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2722948",
+                "timeupdated": "1524729648"
+            }
+        }
+    }
+}
