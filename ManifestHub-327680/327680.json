@@ -1,0 +1,28 @@
+{
+    "appid": "327680",
+    "type": "Game",
+    "name": "Grind Zones",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 18:48:48",
+    "depot": {
+        "327681": {
+            "manifests": {
+                "public": {
+                    "gid": "6689804792992171509",
+                    "size": "265116483",
+                    "download": "91064656"
+                }
+            },
+            "decryptionkey": "5189c9bbcc6ac294a82217c399d59d1313858a185cc5f842f8492af1573e5419"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1528866",
+                "timeupdated": "1482164124"
+            }
+        }
+    },
+    "access_token": 9018206282937533167
+}
