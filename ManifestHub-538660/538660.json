@@ -1,0 +1,40 @@
+{
+    "appid": "538660",
+    "type": "Game",
+    "name": "Staircase of Darkness: VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:15:56",
+    "depot": {
+        "baselanguages": "english",
+        "538669": {
+            "manifests": {
+                "public": {
+                    "gid": "578274898595379399",
+                    "size": "76097515",
+                    "download": "21898352"
+                }
+            },
+            "decryptionkey": "3c52bcec108802c5112c4e97423a460f36d1d322a43f38861a5d6577384351f1"
+        },
+        "538661": {
+            "manifests": {
+                "public": {
+                    "gid": "955055447227030933",
+                    "size": "94340818",
+                    "download": "39678560"
+                }
+            },
+            "decryptionkey": "618dc57d21e517a2235450d35de33020ad4de842f9494fae8952ef4883fba8ed"
+        },
+        "538662": {},
+        "branches": {
+            "public": {
+                "buildid": "1464254",
+                "timeupdated": "1479378100"
+            }
+        }
+    },
+    "access_token": 11161971758510325730
+}
