@@ -1,0 +1,44 @@
+{
+    "appid": 2331130,
+    "name": "Just Another Night Shift",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 15:00:48",
+    "change_number": 30069818,
+    "depot": {
+        "baselanguages": "english",
+        "2331131": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "698635163530889865",
+                    "size": "1008828519",
+                    "download": "899925232"
+                },
+                "publicbeta": {
+                    "gid": "698635163530889865",
+                    "size": "1008828519",
+                    "download": "899925232"
+                }
+            },
+            "decryptionkey": "0c9747763a3a096f6bb8efe4f2bb686027090839ddcd8f1e41fa0a02b38a2661"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19230721",
+                "timeupdated": "1752588018"
+            },
+            "publicbeta": {
+                "buildid": "19230721",
+                "description": "Public Beta",
+                "timeupdated": "1752588034"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
