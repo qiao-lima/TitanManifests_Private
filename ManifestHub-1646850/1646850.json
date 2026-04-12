@@ -1,0 +1,52 @@
+{
+    "appid": 1646850,
+    "name": "SpaceBourne 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 12:52:55",
+    "change_number": 29740926,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1646851": {
+            "manifests": {
+                "public": {
+                    "gid": "1924699020852297024",
+                    "size": "13913085032",
+                    "download": "13202035680"
+                },
+                "developer": {
+                    "gid": "1924699020852297024",
+                    "size": "13913085032",
+                    "download": "13202035680"
+                }
+            },
+            "decryptionkey": "ddb6bc7f65029e83bfb22da6f5f0f2cdc1a8889992ea53a1e1f9626657148ed1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18991914",
+                "timeupdated": "1750852370"
+            },
+            "developer": {
+                "buildid": "18991914",
+                "description": "Developer Build with log to detect crashes",
+                "timeupdated": "1750840906"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
