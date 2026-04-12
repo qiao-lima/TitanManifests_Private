@@ -1,0 +1,129 @@
+{
+    "appid": 1317471,
+    "name": "Mass Effect™ 3 Digital Books",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:57:06",
+    "change_number": 25065303,
+    "depot": {
+        "1317471": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6155871490530629390",
+                    "size": "1179148644",
+                    "download": "1184575600"
+                }
+            },
+            "dlcappid": "1317471",
+            "decryptionkey": "b18bfca279876e1d2a578b2532de84c933799ae4d075d25f5453822b17141a97"
+        },
+        "1317790": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2975013065543440035",
+                    "size": "390",
+                    "download": "192"
+                }
+            },
+            "dlcappid": "1317471",
+            "decryptionkey": "95e49642ca4c964188fc0983d69b621d3cadbeac746adc910dd6d27e54abe03b"
+        },
+        "1317791": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3259824971787197000",
+                    "size": "390",
+                    "download": "176"
+                }
+            },
+            "dlcappid": "1317471",
+            "decryptionkey": "fa5e25d99462f2a9d94e41ae35805349521ff8f043eabadb2d4ad1c8fa46cd06"
+        },
+        "1317792": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "159527160869904355",
+                    "size": "390",
+                    "download": "192"
+                }
+            },
+            "dlcappid": "1317471",
+            "decryptionkey": "5befdb43ac2cfd1cc04acc956471c9ca543dafec8f6306f56046d0cdf2c5ebe4"
+        },
+        "1317793": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4477588434915110351",
+                    "size": "390",
+                    "download": "176"
+                }
+            },
+            "dlcappid": "1317471",
+            "decryptionkey": "582b5a77f0dfb8d09f2ecabd9f3c42cbd669263fb5be1f8b92e3d5531a502a48"
+        },
+        "1317794": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "772983137330776349",
+                    "size": "390",
+                    "download": "192"
+                }
+            },
+            "dlcappid": "1317471",
+            "decryptionkey": "809728da69c295e8c5abaf50550f5f40512d8dbcda2a21fb99a249ff263bd2cf"
+        },
+        "1317795": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7365982308374141170",
+                    "size": "390",
+                    "download": "176"
+                }
+            },
+            "dlcappid": "1317471",
+            "decryptionkey": "0ca71cc5fe88249b9e2edd06adea1ccd098d66ec93421cf5645bc865373e3d56"
+        },
+        "1317796": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4396449250889023305",
+                    "size": "390",
+                    "download": "176"
+                }
+            },
+            "dlcappid": "1317471",
+            "decryptionkey": "c9acea08b07af566c4347ff5879e59b5f22745afd868579c6dc0e47a51d50826"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5017421",
+                "timeupdated": "1589311374"
+            }
+        }
+    }
+}
