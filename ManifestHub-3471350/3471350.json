@@ -1,0 +1,41 @@
+{
+    "appid": 3471350,
+    "name": "Alpha League HD",
+    "type": "Game",
+    "schinese_name": "阿尔法联盟HD",
+    "isfreeapp": 1,
+    "update_time": "2025-07-01 09:07:13",
+    "change_number": 29838275,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3471351": {
+            "manifests": {
+                "public": {
+                    "gid": "2883873949279548594",
+                    "size": "3442926678",
+                    "download": "3278763168"
+                }
+            },
+            "decryptionkey": "d87879ecb0b506b4546d8405e77f7b8c837e4e637883765eba4c5f1fc5f2f492"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19059720",
+                "timeupdated": "1751357227"
+            }
+        }
+    }
+}
