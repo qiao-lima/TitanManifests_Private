@@ -1,0 +1,66 @@
+{
+    "appid": 1461600,
+    "name": "Project Sparrow",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 23:46:39",
+    "change_number": 30195248,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1461601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1884936792848382667",
+                    "size": "4913679495",
+                    "download": "4101133712"
+                },
+                "local": {
+                    "gid": "6580790000534000117",
+                    "size": "1184519246",
+                    "download": "610797104"
+                },
+                "og-sparrow": {
+                    "gid": "2136622948955375751",
+                    "size": "5075181489",
+                    "download": "4717555072"
+                }
+            },
+            "decryptionkey": "cbc746b053c338692113af793b41bbe7050161c76c1ff20a478fb19f65b81816"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19036706",
+                "timeupdated": "1751119798"
+            },
+            "local": {
+                "buildid": "12739867",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1700312291"
+            },
+            "og-sparrow": {
+                "buildid": "9575069",
+                "description": "Original version of Project Sparrow",
+                "timeupdated": "1734368780"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
