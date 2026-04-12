@@ -1,0 +1,58 @@
+{
+    "appid": 750470,
+    "name": "War Brokers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 16:21:39",
+    "change_number": 30051267,
+    "depot": {
+        "750471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2416765632783598322",
+                    "size": "1512107533",
+                    "download": "330111600"
+                }
+            },
+            "decryptionkey": "fbd154969f4e3cb7de9b28388358176a6f69a7daf275d61da88d0816561df44c"
+        },
+        "750472": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3873479885749249189",
+                    "size": "1482139003",
+                    "download": "299402560"
+                }
+            }
+        },
+        "750473": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1605603734606497985",
+                    "size": "1521376214",
+                    "download": "315013104"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,dutch,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19218056",
+                "timeupdated": "1752506495"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
