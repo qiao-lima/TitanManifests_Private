@@ -1,0 +1,38 @@
+{
+    "appid": 1903560,
+    "name": "Atomic Picnic",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 21:03:26",
+    "change_number": 30213925,
+    "depot": {
+        "1903561": {
+            "manifests": {
+                "public": {
+                    "gid": "1983682592868785263",
+                    "size": "8823995162",
+                    "download": "2961339216"
+                },
+                "hotfix-test": {
+                    "gid": "2418979572657539442",
+                    "size": "8708834806",
+                    "download": "2890498400"
+                }
+            },
+            "decryptionkey": "101090ea8a8c59cbcf29efee18361bfa5058a83a4a1a237659147e10c0d19108"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19195186",
+                "timeupdated": "1752263260"
+            },
+            "hotfix-test": {
+                "buildid": "19031694",
+                "description": "Public release hotfix testing environment",
+                "timeupdated": "1751057376"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
