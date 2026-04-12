@@ -1,0 +1,47 @@
+{
+    "appid": 616640,
+    "name": "B-12",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-30 02:22:14",
+    "change_number": 29267210,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "616641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5337518893910720909",
+                    "size": "248025546",
+                    "download": "75982080"
+                }
+            },
+            "decryptionkey": "e3356e87af4e79a06cab4edcaac5e09c80f38b5a40eab601b62754dc055bceb6"
+        },
+        "616642": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "616643": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4033897",
+                "timeupdated": "1563818272"
+            }
+        }
+    }
+}
