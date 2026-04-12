@@ -1,0 +1,77 @@
+{
+    "appid": 620240,
+    "name": "Outrunner",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 18:55:17",
+    "change_number": 29883803,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "620241": {
+            "manifests": {
+                "public": {
+                    "gid": "2603407480805540813",
+                    "size": "213712231",
+                    "download": "190412656"
+                }
+            },
+            "decryptionkey": "c547ff48f7b386022954001b834889c65b4f9f10e5f0910a35797953567cdbd6"
+        },
+        "620242": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5823067596710386624",
+                    "size": "212717630",
+                    "download": "189728544"
+                }
+            },
+            "decryptionkey": "1dd7680cdba5558e544e683854335c05eb5fd601eb3f580057d1163e794bb451"
+        },
+        "620243": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8716501975705712778",
+                    "size": "213712231",
+                    "download": "190412720"
+                }
+            },
+            "decryptionkey": "c8a32e5e979b193fa60a342c274b9b68a6c676a2b5fb4a33e34e08ff3c9ce181"
+        },
+        "622960": {
+            "dlcappid": "622960",
+            "manifests": {
+                "public": {
+                    "gid": "7730703690889883903",
+                    "size": "83639297",
+                    "download": "81131184"
+                }
+            },
+            "decryptionkey": "f9ac4e2343452cd73f7a06eafdcaeab6cf8dfa8c4297e9ae749637984396597c"
+        },
+        "1114770": {
+            "dlcappid": "1114770",
+            "manifests": {
+                "public": {
+                    "gid": "977277122884125627",
+                    "size": "83639380",
+                    "download": "81130144"
+                }
+            },
+            "decryptionkey": "5aed743badb72cefb95560b7055f5a918860e612d167c4859aae54b11aa1d61c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4240721",
+                "timeupdated": "1569789491"
+            }
+        }
+    },
+    "access_token": 397669776471316834
+}
