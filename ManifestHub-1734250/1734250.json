@@ -1,0 +1,30 @@
+{
+    "appid": 1734250,
+    "name": "Triple Take",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 21:15:25",
+    "change_number": 29794208,
+    "depot": {
+        "1734251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5920194034335235207",
+                    "size": "1305285831",
+                    "download": "1075290992"
+                }
+            },
+            "decryptionkey": "7a7aeb5aff7cf0280a43b324875489a849c11f5dd9e2b7130318d82e44875b47"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11127954",
+                "timeupdated": "1682907837"
+            }
+        }
+    }
+}
