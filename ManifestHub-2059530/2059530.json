@@ -1,0 +1,44 @@
+{
+    "appid": 2059530,
+    "name": "Dawn of Defiance",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:13:43",
+    "change_number": 30212390,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2059531": {
+            "manifests": {
+                "public": {
+                    "gid": "6834174459253531674",
+                    "size": "7611951410",
+                    "download": "7265530656"
+                }
+            },
+            "decryptionkey": "0e4801f0b0692f017a25532160e3efd4f0607c8ed1d179218d615d77de1fc9c0"
+        },
+        "2059532": {},
+        "branches": {
+            "public": {
+                "buildid": "19318301",
+                "timeupdated": "1753294416"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
