@@ -1,0 +1,43 @@
+{
+    "appid": 1522280,
+    "name": "Grim Realms",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 09:34:01",
+    "change_number": 30044966,
+    "depot": {
+        "1522281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6181330939804343509",
+                    "size": "667268570",
+                    "download": "510151584"
+                },
+                "previous-stableish": {
+                    "gid": "6385361410173631720",
+                    "size": "667268479",
+                    "download": "509601664"
+                }
+            },
+            "decryptionkey": "8160f1147cdf92cd96189792a0987ff4d9e5bd78e65150ecd46d5409871a9432"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "1522280",
+        "branches": {
+            "public": {
+                "buildid": "19213445",
+                "timeupdated": "1752482035"
+            },
+            "previous-stableish": {
+                "buildid": "18892966",
+                "description": "The previous most stable version",
+                "timeupdated": "1752465809"
+            }
+        },
+        "workshopdepotdecryptionkey": "d30e5aa6ef5e123879072082bd67b21c184312ada612d3656748fc2eed33ff14"
+    }
+}
