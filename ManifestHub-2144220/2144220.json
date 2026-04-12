@@ -1,0 +1,33 @@
+{
+    "appid": 2144220,
+    "name": "ダンジョンアーティファクト",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 17:29:49",
+    "change_number": 30135510,
+    "depot": {
+        "baselanguages": "japanese",
+        "2144221": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4319549528282772034",
+                    "size": "519493961",
+                    "download": "333657376"
+                }
+            },
+            "decryptionkey": "516c438f0258d3f0be915822f43d2e0602f391a2552ecc666d2567ad49febd9d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19277242",
+                "timeupdated": "1752856185"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
