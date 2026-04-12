@@ -1,0 +1,42 @@
+{
+    "appid": 2321880,
+    "name": "Spire Horizon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 09:26:01",
+    "change_number": 29338082,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2321881": {
+            "manifests": {
+                "public": {
+                    "gid": "8273870954262474661",
+                    "size": "9017406276",
+                    "download": "8587842912"
+                }
+            },
+            "decryptionkey": "9565d2f34c315b3c5ac147c028613d03bffb5fb1b39ab45c31f557a4385ed9ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13376595",
+                "timeupdated": "1707189076"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
