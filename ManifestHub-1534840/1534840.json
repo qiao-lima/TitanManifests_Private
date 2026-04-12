@@ -1,0 +1,35 @@
+{
+    "appid": 1534840,
+    "name": "Hyper Light Breaker",
+    "type": "Game",
+    "schinese_name": "光明破坏者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 00:57:26",
+    "change_number": 30216730,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1534841": {
+            "manifests": {
+                "public": {
+                    "gid": "7113872036891651161",
+                    "size": "6070774018",
+                    "download": "5610943648"
+                }
+            },
+            "decryptionkey": "faf4cabdfd4a2697de90722f8b1f942bf0f46e34b1bc28021eebb2a0c642e612"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18916463",
+                "timeupdated": "1750288155"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
