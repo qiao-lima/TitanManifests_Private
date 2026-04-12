@@ -1,0 +1,80 @@
+{
+    "appid": 2887680,
+    "name": "Vampire Survivors: Operation Guns",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 07:58:12",
+    "change_number": 30200921,
+    "depot": {
+        "2887681": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3514133824999244705",
+                    "size": "36505143",
+                    "download": "32437296"
+                },
+                "public-beta": {
+                    "gid": "3514133824999244705",
+                    "size": "36505143",
+                    "download": "32437296"
+                }
+            },
+            "dlcappid": "2887680",
+            "decryptionkey": "d3b3c80802a7007f3395fc2878accfc81fed7321a08b7ad295c50bbf10b9751b"
+        },
+        "2887682": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1031521598606042472",
+                    "size": "36508252",
+                    "download": "32439120"
+                },
+                "public-beta": {
+                    "gid": "1031521598606042472",
+                    "size": "36508252",
+                    "download": "32439120"
+                }
+            },
+            "dlcappid": "2887680",
+            "decryptionkey": "7883e4a2141db966f23677062d3c440c1b5e639a0dc7166104a00a78a4b468db"
+        },
+        "2887683": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3599029104468768936",
+                    "size": "36563422",
+                    "download": "32479328"
+                },
+                "public-beta": {
+                    "gid": "3599029104468768936",
+                    "size": "36563422",
+                    "download": "32479328"
+                }
+            },
+            "dlcappid": "2887680",
+            "decryptionkey": "8fae317404eb07fb5ef79a30d864888ec98d54c2ba86d3aa73cb68c24833eaca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18794516",
+                "timeupdated": "1749726626"
+            },
+            "public-beta": {
+                "buildid": "18794516",
+                "description": "Public Beta",
+                "timeupdated": "1749481772"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
