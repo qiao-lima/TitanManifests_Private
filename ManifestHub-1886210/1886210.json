@@ -1,0 +1,66 @@
+{
+    "appid": 1886210,
+    "name": "Mirrored Soul",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:02:22",
+    "change_number": 30213062,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1886211": {
+            "manifests": {
+                "public": {
+                    "gid": "7098744854291491122",
+                    "size": "8806601799",
+                    "download": "672658448"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1886212": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4713298171155942937",
+                    "size": "1004937216",
+                    "download": "615087984"
+                }
+            },
+            "decryptionkey": "e5c2e39a1d6e24f00918a0f27000d6963e301751899498b84a995a236e95ac73"
+        },
+        "1886213": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1520029044250759002",
+                    "size": "1007050864",
+                    "download": "616157616"
+                }
+            }
+        },
+        "1886214": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6525149609893364215",
+                    "size": "1042073303",
+                    "download": "625173328"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18819996",
+                "timeupdated": "1749618338"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
