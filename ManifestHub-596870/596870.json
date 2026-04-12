@@ -1,0 +1,28 @@
+{
+    "appid": "596870",
+    "type": "Game",
+    "name": "Drop Hunt",
+    "schinese_name": "Drop Hunt - 冒险解谜",
+    "isfreeapp": "0",
+    "change_number": "24776912",
+    "update_time": "2024-08-14 19:22:41",
+    "depot": {
+        "596871": {
+            "manifests": {
+                "public": {
+                    "gid": "1793874265731059537",
+                    "size": "196099372",
+                    "download": "63893168"
+                }
+            },
+            "decryptionkey": "14380b3fc03b562fa144f4ae8c0a1b7586769ef95d86750f8569e151c8c92c20"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1644010",
+                "timeupdated": "1487616011"
+            }
+        }
+    },
+    "access_token": 14222284224444669790
+}
