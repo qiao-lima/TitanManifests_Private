@@ -1,0 +1,35 @@
+{
+    "appid": 1220100,
+    "name": "Tentacular",
+    "type": "Game",
+    "schinese_name": "触手巧匠",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 19:42:00",
+    "change_number": 29184259,
+    "depot": {
+        "1220101": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8150135387679180592",
+                    "size": "3349273201",
+                    "download": "610252880"
+                }
+            },
+            "decryptionkey": "78049c1a79a8bca9383cc48176aaab95c26daeadd6677114c236601633c4f239"
+        },
+        "workshopdepot": "1220100",
+        "branches": {
+            "public": {
+                "buildid": "17676778",
+                "timeupdated": "1741695170"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
