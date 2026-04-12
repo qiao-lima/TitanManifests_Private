@@ -1,0 +1,41 @@
+{
+    "appid": 3239550,
+    "name": "ATC Ground Point",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 17:03:06",
+    "change_number": 30147663,
+    "depot": {
+        "3239551": {
+            "manifests": {
+                "public": {
+                    "gid": "7979990281891390393",
+                    "size": "333929106",
+                    "download": "132972944"
+                },
+                "publicbeta": {
+                    "gid": "7092902065676122830",
+                    "size": "333928818",
+                    "download": "132972864"
+                }
+            },
+            "decryptionkey": "c8cf68ff7c5f23849eec1b5532e7f9d718d4cb397a5b398b9894d8b46a99aa8f"
+        },
+        "hasdepotsindlc": "1",
+        "workshopdepot": "3239550",
+        "branches": {
+            "public": {
+                "buildid": "19286193",
+                "timeupdated": "1752940585"
+            },
+            "publicbeta": {
+                "buildid": "19286127",
+                "description": "Public beta version",
+                "timeupdated": "1752940514"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
