@@ -1,0 +1,119 @@
+{
+    "appid": 1147890,
+    "name": "Bonfire Peaks",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 13:04:29",
+    "change_number": 29809627,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1147891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3903061032907248944",
+                    "size": "613826792",
+                    "download": "441327616"
+                },
+                "demo": {
+                    "gid": "3923495491656511502",
+                    "size": "900285547",
+                    "download": "199479392"
+                },
+                "beta": {
+                    "gid": "393517227789728036",
+                    "size": "613826524",
+                    "download": "441327504"
+                },
+                "windows7": {
+                    "gid": "471450849322378333",
+                    "size": "598876750",
+                    "download": "441256144"
+                }
+            },
+            "decryptionkey": "464133c8d6074b0339f91632029811374c11e66fa99697ac89418d8be78af260"
+        },
+        "1147892": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "225616160760024226",
+                    "size": "628587463",
+                    "download": "447893008"
+                },
+                "demo": {
+                    "gid": "8417402176454289666",
+                    "size": "904557261",
+                    "download": "200286816"
+                },
+                "beta": {
+                    "gid": "3517590625126064395",
+                    "size": "628400706",
+                    "download": "447868992"
+                },
+                "windows7": {
+                    "gid": "225616160760024226",
+                    "size": "628587463",
+                    "download": "447893008"
+                }
+            },
+            "decryptionkey": "b0b5d47afb41ab02ce5072214e1686765765b43fbcd12b5ee10465e1fb6cdcff"
+        },
+        "1147893": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3175796980544256188",
+                    "size": "618827637",
+                    "download": "447941248"
+                },
+                "demo": {
+                    "gid": "6381006282296317383",
+                    "size": "917859864",
+                    "download": "203948912"
+                },
+                "beta": {
+                    "gid": "2103254753119001569",
+                    "size": "618827369",
+                    "download": "447940224"
+                },
+                "windows7": {
+                    "gid": "3175796980544256188",
+                    "size": "618827637",
+                    "download": "447941248"
+                }
+            },
+            "decryptionkey": "922b9027db69178e02154ace93e744ab6c3378e9994c460646beda7430edfbea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18675588",
+                "timeupdated": "1748616473"
+            },
+            "demo": {
+                "buildid": "5650359",
+                "timeupdated": "1602118328"
+            },
+            "beta": {
+                "buildid": "18657747",
+                "description": "Lost Memories part ii beta",
+                "timeupdated": "1748518604"
+            },
+            "windows7": {
+                "buildid": "18738086",
+                "description": "A legacy build that supports Windows 7",
+                "timeupdated": "1749058040"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
