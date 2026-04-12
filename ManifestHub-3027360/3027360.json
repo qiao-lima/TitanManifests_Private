@@ -1,0 +1,35 @@
+{
+    "appid": "3027360",
+    "type": "Demo",
+    "name": "DEATHWATCHERS Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28317685",
+    "update_time": "2025-04-05 06:28:21",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3027361": {
+            "manifests": {
+                "public": {
+                    "gid": "5701021392286457993",
+                    "size": "4999706389",
+                    "download": "2026858832"
+                }
+            },
+            "decryptionkey": "8daef9e23060f795d6478a14ad1b21e1801e6bcc3015928b2a963157efc06b2e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17991410",
+                "timeupdated": "1743805695"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
