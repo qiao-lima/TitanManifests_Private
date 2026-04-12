@@ -1,0 +1,67 @@
+{
+    "appid": 2109270,
+    "name": "Preserve",
+    "type": "Game",
+    "schinese_name": "东篱之下",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:24:13",
+    "change_number": 29526335,
+    "depot": {
+        "baselanguages": "english",
+        "2109271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1774950384291585898",
+                    "size": "1299981053",
+                    "download": "807426336"
+                }
+            },
+            "decryptionkey": "159b87c9592c3fcd889e37b4bb9ad67aa87361e8e6f1dc80f56e7013ce994bc0"
+        },
+        "2109272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3489568652291719002",
+                    "size": "986201887",
+                    "download": "786894768"
+                }
+            }
+        },
+        "2109273": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6311981407334737274",
+                    "size": "3376411388",
+                    "download": "2249737696"
+                }
+            }
+        },
+        "3114870": {
+            "dlcappid": "3114870",
+            "manifests": {
+                "public": {
+                    "gid": "5117146261738859761",
+                    "size": "74822790",
+                    "download": "69024400"
+                }
+            },
+            "decryptionkey": "784cbcfb5e2c251e30f6ec0a195863de46a66bae7a1ffd86766d8dff261adeca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18839027",
+                "timeupdated": "1749725319"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
