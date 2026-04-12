@@ -1,0 +1,36 @@
+{
+    "appid": 973740,
+    "name": "Moonlighter (Original Soundtrack)",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:19:20",
+    "change_number": 27190180,
+    "depot": {
+        "973744": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "583545003571083397",
+                    "size": "2387084584",
+                    "download": "1999321392"
+                }
+            },
+            "decryptionkey": "ed32db1a70aa32523032c4d8e0318da8957b6c1b97b3b5904c34d2f75cfc9423"
+        },
+        "973742": {
+            "config": {
+                "highqualityaudio": "1",
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4664422",
+                "timeupdated": "1581435567"
+            }
+        }
+    }
+}
