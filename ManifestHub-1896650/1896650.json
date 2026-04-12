@@ -1,0 +1,45 @@
+{
+    "appid": 1896650,
+    "name": "Soul In the Chamber",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-06 05:11:06",
+    "change_number": 29915689,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1896651": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5714915288997429824",
+                    "size": "1347362186",
+                    "download": "1190520480"
+                }
+            },
+            "decryptionkey": "7dea12245a5ca7bfb1fdfe44d630bf7e3a9b2a76329c04733352170b58446872"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8636687",
+                "timeupdated": "1651092766"
+            }
+        }
+    }
+}
