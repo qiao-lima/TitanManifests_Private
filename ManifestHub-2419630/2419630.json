@@ -1,0 +1,50 @@
+{
+    "appid": 2419630,
+    "name": "Worlds of Aria Friends Pass",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:39:09",
+    "change_number": 29702459,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2419631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8698720390854557953",
+                    "size": "3443391258",
+                    "download": "1062545248"
+                }
+            },
+            "decryptionkey": "d88a8dca01d32e2cfbb87660442f4ae986017923da6814f7d0891219b8d43a68"
+        },
+        "2419632": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5121491213355325992",
+                    "size": "3559855574",
+                    "download": "1090390576"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18322230",
+                "timeupdated": "1746523420"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
