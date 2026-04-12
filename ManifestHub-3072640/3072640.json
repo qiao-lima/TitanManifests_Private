@@ -1,0 +1,29 @@
+{
+    "appid": 3072640,
+    "name": "Guidus Zero",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 14:10:25",
+    "change_number": 29643075,
+    "depot": {
+        "baselanguages": "english,koreana",
+        "3072641": {
+            "manifests": {
+                "public": {
+                    "gid": "2903563353881537693",
+                    "size": "298906588",
+                    "download": "218112032"
+                }
+            },
+            "decryptionkey": "10ac283646a63acf803b8ac078e02749f657036f81f726266a2f5ab1ae933f94"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18922085",
+                "timeupdated": "1750313420"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
