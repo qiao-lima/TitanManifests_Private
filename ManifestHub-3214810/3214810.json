@@ -1,0 +1,27 @@
+{
+    "appid": 3214810,
+    "name": "Archaeology - Medieval",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 09:43:00",
+    "change_number": 30182279,
+    "depot": {
+        "3214811": {
+            "manifests": {
+                "public": {
+                    "gid": "4959223359470858594",
+                    "size": "2248914294",
+                    "download": "326370240"
+                }
+            },
+            "decryptionkey": "95fa3998cac02e8927bd214147ad409c00911625d5ad1c1025e0a89c2a321983"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17581455",
+                "timeupdated": "1741046661"
+            }
+        }
+    }
+}
