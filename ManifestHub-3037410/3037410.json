@@ -1,0 +1,28 @@
+{
+    "appid": 3037410,
+    "name": "Fish Idle 2: Underwater Mystery",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 18:36:57",
+    "change_number": 30116227,
+    "depot": {
+        "3037411": {
+            "manifests": {
+                "public": {
+                    "gid": "659619360534006900",
+                    "size": "167506409",
+                    "download": "70262848"
+                }
+            },
+            "decryptionkey": "9eed10fe299d3828e23f2b2bccb218676a85d92a15f24f79617985a1fe344101"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17684668",
+                "timeupdated": "1741989195"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
