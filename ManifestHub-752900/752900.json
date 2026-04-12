@@ -1,0 +1,40 @@
+{
+    "appid": 752900,
+    "name": "Prehistoric Hunt",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 06:13:39",
+    "change_number": 30199769,
+    "depot": {
+        "752901": {
+            "manifests": {
+                "public": {
+                    "gid": "6812469109574401107",
+                    "size": "12001707212",
+                    "download": "5053700400"
+                },
+                "public_test": {
+                    "gid": "466445837455913875",
+                    "size": "12018241779",
+                    "download": "5032917488"
+                }
+            },
+            "decryptionkey": "816e38ce1ca4d94a51fc985b14be35b05bd69bcdc2f07006176fde83d30c4464"
+        },
+        "workshopdepot": "752900",
+        "branches": {
+            "public": {
+                "buildid": "19304542",
+                "timeupdated": "1753128176"
+            },
+            "public_test": {
+                "buildid": "19146761",
+                "description": "early version of upcoming updates",
+                "timeupdated": "1752006153"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "35f0e8831a1c438084618fa8d530444a0a53d1384567f98d31132c90bb600ebd"
+    }
+}
