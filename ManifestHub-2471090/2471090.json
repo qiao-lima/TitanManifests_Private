@@ -1,0 +1,38 @@
+{
+    "appid": 2471090,
+    "name": "Gah!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 00:12:31",
+    "change_number": 30078604,
+    "depot": {
+        "2471091": {
+            "manifests": {
+                "public": {
+                    "gid": "417101966538879757",
+                    "size": "4337276821",
+                    "download": "2081975760"
+                },
+                "beta-branch": {
+                    "gid": "417101966538879757",
+                    "size": "4337276821",
+                    "download": "2081975760"
+                }
+            },
+            "decryptionkey": "ef41a2f828c3fa1975564e6374c14d480974e30f8c94d2939a11c1d957da3b0b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19216060",
+                "timeupdated": "1752496282"
+            },
+            "beta-branch": {
+                "buildid": "19216060",
+                "description": "Beta branch",
+                "timeupdated": "1752496228"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
