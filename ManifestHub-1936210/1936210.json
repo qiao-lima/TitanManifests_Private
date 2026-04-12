@@ -1,0 +1,27 @@
+{
+    "appid": 1936210,
+    "name": "Milf Toys 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 16:18:10",
+    "change_number": 29624605,
+    "depot": {
+        "1936211": {
+            "manifests": {
+                "public": {
+                    "gid": "2059588169003055692",
+                    "size": "145629249",
+                    "download": "42534400"
+                }
+            },
+            "decryptionkey": "0ca3a7747fa2e163d6506d17fadab7558e74966d8188749f665455d6214f25df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8393057",
+                "timeupdated": "1647553799"
+            }
+        }
+    }
+}
