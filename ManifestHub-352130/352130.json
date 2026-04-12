@@ -1,0 +1,103 @@
+{
+    "appid": 352130,
+    "name": "Locoland",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 22:03:16",
+    "change_number": 29396956,
+    "depot": {
+        "baselanguages": "english,german,russian,portuguese,polish,hungarian",
+        "352131": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2711384674789347297",
+                    "size": "551618874",
+                    "download": "180658752"
+                }
+            },
+            "decryptionkey": "d3d8ac3d2ff2e36c3b9810e03bd19ff5ef2686cda796f25d909536952a5107f1"
+        },
+        "352132": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5071878802041890814",
+                    "size": "552369848",
+                    "download": "181108976"
+                }
+            },
+            "decryptionkey": "303b11473ca1b2aac00273dfe0de9ab3503593185d4eabb2a706fdb716dea59c"
+        },
+        "352133": {
+            "config": {
+                "language": "hungarian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1575814689274281758",
+                    "size": "552013960",
+                    "download": "181005856"
+                }
+            },
+            "decryptionkey": "342f9d5feb60e1819fe732080240e13d16af860a0dd03a2f5f69f98c986c4577"
+        },
+        "352134": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2403466418972838475",
+                    "size": "551797336",
+                    "download": "180520192"
+                }
+            },
+            "decryptionkey": "db3871843c9b150848b194f47538d2a0b41a5ef2d9ed687925c0d554ea0023cb"
+        },
+        "352135": {
+            "config": {
+                "language": "portuguese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "667647862243870297",
+                    "size": "551618874",
+                    "download": "180658752"
+                }
+            },
+            "decryptionkey": "155ca0ad8bd400af00ef9c869c141b5f8b7d77ac93335a9b02bea7445a038ec0"
+        },
+        "352136": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7674597529574119858",
+                    "size": "559028076",
+                    "download": "183700064"
+                }
+            },
+            "decryptionkey": "9e75d7dfbf384394e467046747f6031ae8ef92f189cc02d80a072e93c11c9b88"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17481288",
+                "timeupdated": "1740390387"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
