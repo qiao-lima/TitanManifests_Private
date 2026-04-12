@@ -1,0 +1,45 @@
+{
+    "appid": 1191170,
+    "name": "CONVICTION visual book",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:13:36",
+    "change_number": 26201212,
+    "depot": {
+        "1191170": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1191170",
+            "manifests": {
+                "public": {
+                    "gid": "2200638140643447430",
+                    "size": "17145473",
+                    "download": "16529168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1191171": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1191170",
+            "manifests": {
+                "public": {
+                    "gid": "5429234366344212124",
+                    "size": "17144822",
+                    "download": "16528624"
+                }
+            },
+            "decryptionkey": "48ebfffa0115a0d5d439de98c20bd9deb0f3b6760d14936c75e614ffbb4c082c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4502128",
+                "timeupdated": "1576583530"
+            }
+        }
+    }
+}
