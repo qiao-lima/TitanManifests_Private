@@ -1,0 +1,27 @@
+{
+    "appid": 1482340,
+    "name": "BATTLE BEARS -1",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 13:31:26",
+    "change_number": 29318498,
+    "depot": {
+        "1482341": {
+            "manifests": {
+                "public": {
+                    "gid": "7124916635097570048",
+                    "size": "471657560",
+                    "download": "345993216"
+                }
+            },
+            "decryptionkey": "a8aa2823f5be3ceaa9a523ecee5fcbcfe7560ff5158d270f3d544295d90ef1c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5885875",
+                "timeupdated": "1606393474"
+            }
+        }
+    }
+}
