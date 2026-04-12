@@ -1,0 +1,46 @@
+{
+    "appid": 2303350,
+    "name": "Sticky Business",
+    "type": "Game",
+    "schinese_name": "小小贴纸铺",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 05:18:02",
+    "change_number": 30151880,
+    "depot": {
+        "2303351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8885614699474777085",
+                    "size": "197190097",
+                    "download": "99621152"
+                }
+            },
+            "decryptionkey": "e1e5834a839e5d6d19511a78badedf71f87df39381b487d0bf337e5604d59ca0"
+        },
+        "2303352": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8873465196723957244",
+                    "size": "330879319",
+                    "download": "132610368"
+                }
+            },
+            "decryptionkey": "9b953b84db48d1acf9b0e66758a8a8fdcbbda684ab8bfceffa73b10e9040b0ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19078307",
+                "timeupdated": "1752490729"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
