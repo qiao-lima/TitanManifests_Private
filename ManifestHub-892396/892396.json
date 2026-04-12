@@ -1,0 +1,28 @@
+{
+    "appid": 892396,
+    "name": "Lu Lingqi (Dudou Costume)/呂玲綺「肚兜風コスチューム」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:07",
+    "change_number": 26201212,
+    "depot": {
+        "892396": {
+            "manifests": {
+                "public": {
+                    "gid": "6780724957482823529",
+                    "size": "39077172",
+                    "download": "38756800"
+                }
+            },
+            "dlcappid": "892396",
+            "decryptionkey": "5482f5ecde1d0b051caac191bc329321d49fee4f8b06a296633a3e196d2e0aa3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2904266",
+                "timeupdated": "1530235924"
+            }
+        }
+    }
+}
