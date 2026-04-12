@@ -1,0 +1,33 @@
+{
+    "appid": 3310590,
+    "name": "Lurking Danger",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 20:12:13",
+    "change_number": 30018495,
+    "depot": {
+        "3310591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5878256779576390229",
+                    "size": "20456861659",
+                    "download": "7168416336"
+                }
+            },
+            "decryptionkey": "5c1af84a850c32a277eb4a29e4422040d3fef9cebf0840300f83651dabf9ecac"
+        },
+        "baselanguages": "english,latam",
+        "branches": {
+            "public": {
+                "buildid": "19069894",
+                "timeupdated": "1751399021"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
