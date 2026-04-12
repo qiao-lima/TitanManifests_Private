@@ -1,0 +1,43 @@
+{
+    "appid": 3151020,
+    "name": "Easy Ball Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 20:54:53",
+    "change_number": 29690247,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3151021": {
+            "manifests": {
+                "public": {
+                    "gid": "1564136158255482248",
+                    "size": "3876315071",
+                    "download": "3568885216"
+                }
+            },
+            "decryptionkey": "d557891ebb35427b41efca3b1b4634a3a8e060bb67ea747884d2be91c3c2ef1a"
+        },
+        "3151022": {},
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18875680",
+                "timeupdated": "1750022041"
+            }
+        }
+    }
+}
