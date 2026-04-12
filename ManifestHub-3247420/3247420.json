@@ -1,0 +1,40 @@
+{
+    "appid": 3247420,
+    "name": "Teenage Mutant Ninja Turtles: Splintered Fate Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 20:33:31",
+    "change_number": 27924129,
+    "depot": {
+        "3247422": {
+            "manifests": {
+                "public": {
+                    "gid": "6812494433406543824",
+                    "size": "96763956",
+                    "download": "96783616"
+                }
+            },
+            "decryptionkey": "83a069ffe8d6e373c15ea06e16652993927d88b27e9846ec9a09221b1d44ed1b"
+        },
+        "3247421": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4143961899691749749",
+                    "size": "426387868",
+                    "download": "382063664"
+                }
+            },
+            "decryptionkey": "e0fa92800392485535c849929c56e0f55d0fc0f57ede311b0794448ae9564d69"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16306492",
+                "timeupdated": "1730842600"
+            }
+        }
+    }
+}
