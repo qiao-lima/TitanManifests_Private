@@ -1,0 +1,42 @@
+{
+    "appid": 2622140,
+    "name": "Virtual Handheld",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 21:14:42",
+    "change_number": 30019280,
+    "depot": {
+        "2622141": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1349685825281124996",
+                    "size": "92681159",
+                    "download": "29627728"
+                },
+                "vh-open-beta": {
+                    "gid": "1663143314801720337",
+                    "size": "106732378",
+                    "download": "37285808"
+                }
+            },
+            "decryptionkey": "f610f0d1e29f613aad524d2301d42bc97f4374dd5ec069fb52a0c226151d24f0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19044263",
+                "timeupdated": "1751228564"
+            },
+            "vh-open-beta": {
+                "buildid": "19195942",
+                "description": "VH Open Beta",
+                "timeupdated": "1752264878"
+            }
+        }
+    }
+}
