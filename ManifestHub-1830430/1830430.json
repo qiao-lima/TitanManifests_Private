@@ -1,0 +1,29 @@
+{
+    "appid": 1830430,
+    "name": "Grimoire Groves",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:20:44",
+    "change_number": 29392195,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1830431": {
+            "manifests": {
+                "public": {
+                    "gid": "7172241062183762426",
+                    "size": "1768649003",
+                    "download": "251340816"
+                }
+            },
+            "decryptionkey": "323e9cdda818b3cdd55e784fd31bd0adaf092f0aabcbaa7b2a0f6e4d46cce635"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18563913",
+                "timeupdated": "1748013220"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
