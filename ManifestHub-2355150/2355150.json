@@ -1,0 +1,124 @@
+{
+    "appid": 2355150,
+    "name": "Mudborne",
+    "type": "Game",
+    "schinese_name": "Mudborne：育蛙模拟器",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 12:23:34",
+    "change_number": 30165636,
+    "depot": {
+        "workshopdepot": "2355150",
+        "2355152": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4343226588102887420",
+                    "size": "97077329",
+                    "download": "88917392"
+                },
+                "last_patch": {
+                    "gid": "1205636885586447888",
+                    "size": "97077107",
+                    "download": "88965872"
+                },
+                "preview_patch": {
+                    "gid": "4343226588102887420",
+                    "size": "97077329",
+                    "download": "88917392"
+                }
+            },
+            "decryptionkey": "caf7211b415a61d4a34e46e4b5108b7bab94b3a02738aa512d7234a25408024f"
+        },
+        "2355153": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7752308510528056513",
+                    "size": "122453349",
+                    "download": "95240672"
+                },
+                "last_patch": {
+                    "gid": "8623986273019709428",
+                    "size": "122453016",
+                    "download": "95294560"
+                },
+                "preview_patch": {
+                    "gid": "7752308510528056513",
+                    "size": "122453349",
+                    "download": "95240672"
+                }
+            }
+        },
+        "2355154": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "594338068661651098",
+                    "size": "100557866",
+                    "download": "89561104"
+                },
+                "last_patch": {
+                    "gid": "2105782460010009412",
+                    "size": "100557533",
+                    "download": "89615520"
+                },
+                "preview_patch": {
+                    "gid": "594338068661651098",
+                    "size": "100557866",
+                    "download": "89561104"
+                }
+            }
+        },
+        "2355151": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2655915945104566824",
+                    "size": "100585318",
+                    "download": "89555792"
+                },
+                "last_patch": {
+                    "gid": "7976753509817960956",
+                    "size": "100584985",
+                    "download": "89618064"
+                },
+                "preview_patch": {
+                    "gid": "2655915945104566824",
+                    "size": "100585318",
+                    "download": "89555792"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19298622",
+                "timeupdated": "1753095688"
+            },
+            "last_patch": {
+                "buildid": "18515790",
+                "description": "This branch will always contain the last update that was released",
+                "timeupdated": "1753097009"
+            },
+            "preview_patch": {
+                "buildid": "19298622",
+                "description": "This branch will sometimes contain the next update due to be released",
+                "timeupdated": "1753094537"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ed4ef4462c501a751369d4a576aadee055c835ab01b59a402e825960e0cdba47"
+    }
+}
