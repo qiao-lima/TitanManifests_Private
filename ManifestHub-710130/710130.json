@@ -1,0 +1,72 @@
+{
+    "appid": 710130,
+    "name": "隐龙传：影踪(Hidden Dragon Legend: ShadowTrace)",
+    "type": "Game",
+    "schinese_name": "隐龙传",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 22:14:51",
+    "change_number": 29774169,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "sc_schinese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "710131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamglobal",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "495112337277352245",
+                    "size": "4065884775",
+                    "download": "3994793888"
+                }
+            },
+            "decryptionkey": "3439aa851a12a1de3d8829cc5e75f09669955799e9f34f051eeb3ecfefe443c9"
+        },
+        "723440": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "dlcappid": "723440"
+        },
+        "710132": {
+            "config": {
+                "realm": "steamchina",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3929325330271440496",
+                    "size": "4054305606",
+                    "download": "3982294864"
+                }
+            },
+            "decryptionkey": "e65c75dcc4f2df1ec1ac2af35fc5eb72f15b19e6d861f10662f9a6b0cb17f3d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6121847",
+                "timeupdated": "1611307716"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
