@@ -1,0 +1,63 @@
+{
+    "appid": 3449050,
+    "name": "Outworld Station Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 21:39:19",
+    "change_number": 29349246,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3449051": {
+            "manifests": {
+                "public": {
+                    "gid": "5338545158666491282",
+                    "size": "2793533809",
+                    "download": "2596508576"
+                }
+            },
+            "decryptionkey": "92827aa1132161e09de64b04b51fe0c86978a48f9ee30f3e175c57786a7b35eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18623115",
+                "timeupdated": "1748340454"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
