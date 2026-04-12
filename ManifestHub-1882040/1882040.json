@@ -1,0 +1,41 @@
+{
+    "appid": 1882040,
+    "name": "沙盒勇者（Craft Hero）",
+    "type": "Game",
+    "schinese_name": "沙盒勇者",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 09:15:30",
+    "change_number": 29677885,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese",
+        "1882041": {
+            "manifests": {
+                "public": {
+                    "gid": "2219412139829981949",
+                    "size": "410276861",
+                    "download": "213324320"
+                }
+            },
+            "decryptionkey": "0cb8c33740a2b7fcc8033347c1d56c4a368ae5cf4170d4d55de4a94a98af4448"
+        },
+        "2237730": {
+            "dlcappid": "2237730",
+            "manifests": {
+                "public": {
+                    "gid": "8654803290824638255",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d40a6444d1f478c7a856a27d5895ef0bc16741947bf72fbdf416f76e07660496"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18880304",
+                "timeupdated": "1750214399"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
