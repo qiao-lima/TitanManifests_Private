@@ -1,0 +1,29 @@
+{
+    "appid": 348790,
+    "name": "Wooden Floor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 05:10:41",
+    "change_number": 29942310,
+    "depot": {
+        "348791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8830428821285688844",
+                    "size": "620459404",
+                    "download": "362625280"
+                }
+            },
+            "decryptionkey": "dc56543cece53ac054a65345b2229fdc2a1f8d80f72fefd0483ef5e1eb3160a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "519173"
+            }
+        }
+    }
+}
