@@ -1,0 +1,73 @@
+{
+    "appid": "80350",
+    "type": "Game",
+    "name": "Blackwell Convergence",
+    "schinese_name": "布莱克威尔3：集合",
+    "isfreeapp": "0",
+    "change_number": "28969938",
+    "update_time": "2025-05-14 07:17:53",
+    "depot": {
+        "overridescddb": "1",
+        "80351": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3055912570305016712",
+                    "size": "267877352",
+                    "download": "173131504"
+                }
+            },
+            "decryptionkey": "5f9a9773c02646980a0f05877d6c8f95a84f03f4f27d327bce552ac6a9206616"
+        },
+        "80352": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7203880183402406915",
+                    "size": "339098081",
+                    "download": "190965104"
+                }
+            },
+            "decryptionkey": "c35475ed30854ccfb6c03a3632e15644568d82d16c822279a4a680d5d966cd0c"
+        },
+        "80353": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1334579343700743120",
+                    "size": "283382552",
+                    "download": "177643376"
+                }
+            },
+            "decryptionkey": "226ce4efce3f215578f44637683ccb6ddab5a034f5200b9c2901128ffe1e86e4"
+        },
+        "2051780": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "572089469947813512",
+                    "size": "340057258",
+                    "download": "187111872"
+                }
+            },
+            "decryptionkey": "db97a604734d3bc6aaa267a41e5290696dca5eac028114e3f30a11c579da7cac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18133834",
+                "timeupdated": "1744831356"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
