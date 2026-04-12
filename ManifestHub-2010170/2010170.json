@@ -1,0 +1,41 @@
+{
+    "appid": 2010170,
+    "name": "Kogarashi",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-04 07:10:24",
+    "change_number": 29891952,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2010171": {
+            "manifests": {
+                "public": {
+                    "gid": "8996190608649358436",
+                    "size": "1198473997",
+                    "download": "1060375328"
+                }
+            },
+            "decryptionkey": "eabc855bb135fc9f5c22f90e3a416b5a0c59188e0af0da58faf8686fcf395aed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8782418",
+                "timeupdated": "1653089543"
+            }
+        }
+    }
+}
