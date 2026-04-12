@@ -1,0 +1,43 @@
+{
+    "appid": 3316620,
+    "name": "Prove You Can Win",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 15:12:32",
+    "change_number": 30027791,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3316621": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1544013420100186553",
+                    "size": "90844613",
+                    "download": "42891136"
+                }
+            },
+            "decryptionkey": "9e02597fbc3c69cd7081c2e48d929ea92947f81877dccc224141de03fb5738a6"
+        },
+        "3316622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "811282614506253422",
+                    "size": "158170456",
+                    "download": "56805760"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18584185",
+                "timeupdated": "1748012746"
+            }
+        }
+    }
+}
