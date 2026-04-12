@@ -1,0 +1,27 @@
+{
+    "appid": 2353130,
+    "name": "刻印战记2：七圣英雄",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:08:53",
+    "change_number": 30202936,
+    "depot": {
+        "2353131": {
+            "manifests": {
+                "public": {
+                    "gid": "4855635274748347901",
+                    "size": "1193635855",
+                    "download": "1119805520"
+                }
+            },
+            "decryptionkey": "7e4b6bb2bbafaba3b15c2dffe0b0ab2a381513ec1624010a0df7ae5cedfdc9db"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19326592",
+                "timeupdated": "1753261727"
+            }
+        }
+    }
+}
