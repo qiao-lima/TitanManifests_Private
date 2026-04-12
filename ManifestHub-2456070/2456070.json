@@ -1,0 +1,27 @@
+{
+    "appid": 2456070,
+    "name": "Motorbike Evolution 2024",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 18:44:56",
+    "change_number": 29705806,
+    "depot": {
+        "2456071": {
+            "manifests": {
+                "public": {
+                    "gid": "793842382360980444",
+                    "size": "2404866168",
+                    "download": "1117762592"
+                }
+            },
+            "decryptionkey": "8553e180c795f31d0e1900f1a553b0b52bcfdb38d430d30b6a019715ce498909"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17873097",
+                "timeupdated": "1743023159"
+            }
+        }
+    }
+}
