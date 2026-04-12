@@ -1,0 +1,60 @@
+{
+    "appid": 1206060,
+    "name": "Happy Game",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 23:31:18",
+    "change_number": 30039523,
+    "depot": {
+        "1206061": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4699412490645981754",
+                    "size": "1265159125",
+                    "download": "737731456"
+                }
+            },
+            "decryptionkey": "eb6485cbfb416d5094f82617fc7448c045d90a8a68f79bda7fff76a3ff4e4f0b"
+        },
+        "1206062": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5713709197595744973",
+                    "size": "1265986131",
+                    "download": "737872736"
+                }
+            },
+            "decryptionkey": "a996e131bf0c5218920adb1be0e8dfe22cc1a35f636aa6c6a9120e8f4b2e7e7c"
+        },
+        "1206063": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5018054560437139815",
+                    "size": "215563496",
+                    "download": "118901376"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "7697741",
+                "timeupdated": "1636658309"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
