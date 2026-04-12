@@ -1,0 +1,67 @@
+{
+    "appid": "434010",
+    "type": "Game",
+    "name": "Wishmaster",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25392619",
+    "update_time": "2024-09-26 03:01:08",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "434011": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2890865111160819098",
+                    "size": "57914880",
+                    "download": "58328544"
+                },
+                "live": {
+                    "gid": "2060153188387099856",
+                    "size": "57907712",
+                    "download": "58323552"
+                }
+            },
+            "decryptionkey": "bd1fa78bdeed76186b75ffa00259b2c67ef336286962e4fcda887efce8a8df29"
+        },
+        "434012": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1572207047994159610",
+                    "size": "57939968",
+                    "download": "58352448"
+                },
+                "live": {
+                    "gid": "4847210240961001243",
+                    "size": "57939968",
+                    "download": "58361648"
+                }
+            },
+            "decryptionkey": "ae1e4c0598c62204e697aa1539b14455be93282a777e81ce9a6c5b1ccc9da8b0"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "977037",
+                "timeupdated": "1463671974"
+            },
+            "live": {
+                "buildid": "944265"
+            }
+        }
+    },
+    "access_token": 3437684509419374810
+}
