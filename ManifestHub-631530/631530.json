@@ -1,0 +1,35 @@
+{
+    "appid": "631530",
+    "type": "Game",
+    "name": "Fight or Die 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "20626701",
+    "update_time": "2024-08-14 19:28:02",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "631531": {
+            "manifests": {
+                "public": {
+                    "gid": "5716788957387144002",
+                    "size": "31577644",
+                    "download": "13094528"
+                }
+            },
+            "decryptionkey": "5631956e6ed7db027eff3cd0ba917479108a7c8e37422b46686e6c09ae262bd6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1871448",
+                "timeupdated": "1496778646"
+            }
+        }
+    },
+    "access_token": 9735135382605145476
+}
