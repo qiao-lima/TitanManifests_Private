@@ -1,0 +1,46 @@
+{
+    "appid": 2752710,
+    "name": "WHAT THE PAK?!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 16:15:02",
+    "change_number": 30209148,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2752711": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4000881065681072346",
+                    "size": "3616827327",
+                    "download": "3148240288"
+                }
+            },
+            "decryptionkey": "8e55a3db740197131363d1a16aed388a6ef4265ad4282b3f6a88576666d40b73"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19123191",
+                "timeupdated": "1752053343"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
