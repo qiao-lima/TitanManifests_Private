@@ -1,0 +1,44 @@
+{
+    "appid": 3101230,
+    "name": "Montezuma's Revenge The 40th Anniversary Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-02 23:22:56",
+    "change_number": 29326948,
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "3101231": {
+            "manifests": {
+                "public": {
+                    "gid": "4925661724677087151",
+                    "size": "3540328678",
+                    "download": "1212622464"
+                }
+            },
+            "decryptionkey": "9bd13e044af52db77039e2397c0db6bcd73af4ca72ca81a2e574a7e1bc5c9747"
+        },
+        "3275340": {
+            "dlcappid": "3275340",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1186655049765491782",
+                    "size": "82811036",
+                    "download": "54210096"
+                }
+            },
+            "decryptionkey": "6a4a01028a95aa8dffea3b6027edb86e7192ac70e9c6c44d6207483fa3bc9792"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18702838",
+                "timeupdated": "1748872645"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
