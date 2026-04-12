@@ -1,0 +1,27 @@
+{
+    "appid": 960190,
+    "name": "Maytroid. I swear it's a nice game too",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 18:32:21",
+    "change_number": 30053517,
+    "depot": {
+        "960191": {
+            "manifests": {
+                "public": {
+                    "gid": "6186746203285096338",
+                    "size": "401675365",
+                    "download": "329966624"
+                }
+            },
+            "decryptionkey": "04435ba72638ce16ecfaaa71df9c82ff459f8aa0f5290c3ec04fd323d74f06a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8702281",
+                "timeupdated": "1652077159"
+            }
+        }
+    }
+}
