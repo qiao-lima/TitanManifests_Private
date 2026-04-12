@@ -1,0 +1,54 @@
+{
+    "appid": 775730,
+    "name": "Dialing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 14:25:58",
+    "change_number": 29308450,
+    "depot": {
+        "775731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5954353852584028923",
+                    "size": "64257923",
+                    "download": "11827600"
+                }
+            },
+            "decryptionkey": "3a2d25902bd7c7e89d0709e17fd5bf1af2b0479bb140495f804177d118507057"
+        },
+        "775732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3156525168403651719",
+                    "size": "79255288",
+                    "download": "15845488"
+                }
+            }
+        },
+        "775733": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3723819359565080758",
+                    "size": "113607672",
+                    "download": "27656368"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2491962",
+                "timeupdated": "1517573079"
+            }
+        }
+    }
+}
