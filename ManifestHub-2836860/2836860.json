@@ -1,0 +1,28 @@
+{
+    "appid": 2836860,
+    "name": "The Horror at Highrook",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 23:14:05",
+    "change_number": 29805507,
+    "depot": {
+        "2836861": {
+            "manifests": {
+                "public": {
+                    "gid": "6726319151531167618",
+                    "size": "620620989",
+                    "download": "324383488"
+                }
+            },
+            "decryptionkey": "1ddcd4129bd990478548f078a611ecbd55e1a03860ed64c86b1be24f1d0313ab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18387525",
+                "timeupdated": "1746703524"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
