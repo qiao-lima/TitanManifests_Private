@@ -1,0 +1,28 @@
+{
+    "appid": "1507320",
+    "type": "Game",
+    "name": "Driving License Test",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-02 21:59:15",
+    "depot": {
+        "1507321": {
+            "manifests": {
+                "public": {
+                    "gid": "7244815526080661337",
+                    "size": "48124988",
+                    "download": "11436848"
+                }
+            },
+            "decryptionkey": "ab44ccb4ec242fc322f7e2c55beb76dbdff6ba86e85bcaadc2d9e75ae0077fb1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6023914",
+                "timeupdated": "1609291789"
+            }
+        }
+    },
+    "access_token": 7797433732273448641
+}
