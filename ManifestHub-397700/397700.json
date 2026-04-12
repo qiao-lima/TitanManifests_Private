@@ -1,0 +1,33 @@
+{
+    "appid": "397700",
+    "type": "Game",
+    "name": "Urizen Shadows of the Cold Deluxe Frosty Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28096740",
+    "update_time": "2025-03-23 23:19:04",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "397701": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7228773773866752071",
+                    "size": "178990186",
+                    "download": "119739376"
+                }
+            },
+            "decryptionkey": "ded01e22a43613943c534e3b2a29faa527dbe588994e11cbb9a967e94405df20"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5286768",
+                "timeupdated": "1594723373"
+            }
+        }
+    },
+    "access_token": 9771098004197757922
+}
