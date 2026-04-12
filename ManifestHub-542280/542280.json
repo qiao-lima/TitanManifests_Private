@@ -1,0 +1,31 @@
+{
+    "appid": 542280,
+    "name": "Happy Maze",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-16 02:14:41",
+    "change_number": 29576280,
+    "depot": {
+        "baselanguages": "english,russian",
+        "542281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2702360780029698763",
+                    "size": "539429564",
+                    "download": "240215664"
+                }
+            },
+            "decryptionkey": "f1c1bfa74efdd4411d61ea115859ff584ca857425052eb24c8ddfd6a014cd9c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1540726",
+                "timeupdated": "1482721749"
+            }
+        }
+    }
+}
