@@ -1,0 +1,45 @@
+{
+    "appid": 2947800,
+    "name": "Paranormal place",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 02:11:41",
+    "change_number": 29906338,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2947801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "831065742342580457",
+                    "size": "3318073753",
+                    "download": "3168187824"
+                }
+            },
+            "decryptionkey": "f87e2a3e7665b4495e143a8d2cc281b488eba20eec10adbff91c7bdcf0bedfde"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15729515",
+                "timeupdated": "1726579619"
+            }
+        }
+    }
+}
