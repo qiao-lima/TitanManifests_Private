@@ -1,0 +1,86 @@
+{
+    "appid": 1683340,
+    "name": "Kayak VR: Mirage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 09:51:41",
+    "change_number": 29839000,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,japanese,portuguese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1683341": {
+            "manifests": {
+                "public": {
+                    "gid": "2256270289156975069",
+                    "size": "17209220222",
+                    "download": "16823069008"
+                },
+                "beta": {
+                    "gid": "2256270289156975069",
+                    "size": "17209220222",
+                    "download": "16823069008"
+                }
+            },
+            "decryptionkey": "8b6ef18be7308345993f5f17a40a8dcd8c78c73bf42a79a4180abbf3e7a537d6"
+        },
+        "2926750": {
+            "dlcappid": "2926750",
+            "manifests": {
+                "public": {
+                    "gid": "2466645859709230756",
+                    "size": "6911543578",
+                    "download": "6795059504"
+                },
+                "beta": {
+                    "gid": "2466645859709230756",
+                    "size": "6911543578",
+                    "download": "6795059504"
+                }
+            },
+            "decryptionkey": "1278d96e72cd6ddb2e72c4cd853d93a1166b341a0504b7bba89fbe25132c2e3b"
+        },
+        "3437140": {
+            "dlcappid": "3437140",
+            "manifests": {
+                "public": {
+                    "gid": "3061911037480614743",
+                    "size": "5250372136",
+                    "download": "5210649728"
+                },
+                "beta": {
+                    "gid": "3061911037480614743",
+                    "size": "5250372136",
+                    "download": "5210649728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19061694",
+                "timeupdated": "1751359375"
+            },
+            "beta": {
+                "buildid": "19061694",
+                "description": "Public beta branch",
+                "timeupdated": "1751359386"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
