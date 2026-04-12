@@ -1,0 +1,121 @@
+{
+    "appid": 2181620,
+    "name": "Monster Knockout",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-12 15:21:57",
+    "change_number": 30027869,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "workshopdepot": "2181620",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2181621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2197776341976892302",
+                    "size": "472381612",
+                    "download": "172557072"
+                },
+                "openbeta": {
+                    "gid": "2197776341976892302",
+                    "size": "472381612",
+                    "download": "172557072"
+                },
+                "firstbuild": {
+                    "gid": "4846509009683116345",
+                    "size": "131203228",
+                    "download": "39121392"
+                }
+            },
+            "decryptionkey": "a7bedd17f3a6ba86683a8a0a3ec6d8db4e46d636a82c8dbbaaba1a3f00506a63"
+        },
+        "2181622": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7739114314038357299",
+                    "size": "508668481",
+                    "download": "179748176"
+                },
+                "openbeta": {
+                    "gid": "8926929477292281521",
+                    "size": "508668481",
+                    "download": "179748176"
+                }
+            },
+            "decryptionkey": "ed28a8e8a78011a12bba5d63194d4281768bb03a67ebcd204edc23fd9e1d511d"
+        },
+        "2181623": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "openbeta": {
+                    "gid": "4443802510625168472",
+                    "size": "462593872",
+                    "download": "178786736"
+                }
+            },
+            "decryptionkey": "2dd684c5caf39eada1f27df149cf10b2193c34839ec6c2e8fff1a604b30e443a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18970631",
+                "timeupdated": "1750714585"
+            },
+            "openbeta": {
+                "buildid": "18972203",
+                "description": "Open Beta Branch",
+                "timeupdated": "1750717254"
+            },
+            "firstbuild": {
+                "buildid": "11769016",
+                "description": "The first ever build of Monster Knockout",
+                "timeupdated": "1723671936"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
