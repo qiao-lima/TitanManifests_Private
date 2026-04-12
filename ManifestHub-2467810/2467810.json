@@ -1,0 +1,43 @@
+{
+    "appid": 2467810,
+    "name": "Orebound",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:10:19",
+    "change_number": 30214835,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2467811": {
+            "manifests": {
+                "public": {
+                    "gid": "8441888756473399890",
+                    "size": "5153999020",
+                    "download": "4875796864"
+                }
+            },
+            "decryptionkey": "f58c8a69c8e18d048f04a68cdd49976bf5972ab6d4d04daa344735edbbafbf13"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish",
+        "branches": {
+            "public": {
+                "buildid": "19108252",
+                "timeupdated": "1751903583"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
