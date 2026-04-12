@@ -1,0 +1,39 @@
+{
+    "appid": 1926870,
+    "name": "Gold Wiper",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-27 01:17:07",
+    "change_number": 29196241,
+    "depot": {
+        "1926871": {
+            "manifests": {
+                "public": {
+                    "gid": "3110634930837478307",
+                    "size": "2525314680",
+                    "download": "789896992"
+                }
+            },
+            "decryptionkey": "52b516b1b15fe9513c3175ad0d8d16d1e9fff7ba4014da2720ee416be1b3b408"
+        },
+        "1926872": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1149228829498536342",
+                    "size": "2543061119",
+                    "download": "797183424"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8707255",
+                "timeupdated": "1652135503"
+            }
+        }
+    }
+}
