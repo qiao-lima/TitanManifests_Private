@@ -1,0 +1,27 @@
+{
+    "appid": 2876470,
+    "name": "TEACHERS SECRETS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 17:56:23",
+    "change_number": 29846601,
+    "depot": {
+        "2876471": {
+            "manifests": {
+                "public": {
+                    "gid": "7981063584166979003",
+                    "size": "10229554587",
+                    "download": "5585064960"
+                }
+            },
+            "decryptionkey": "cee7800540bdb724ec8797194eda7da6678395c3af2767593574b27468b1709f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16761309",
+                "timeupdated": "1734366580"
+            }
+        }
+    }
+}
