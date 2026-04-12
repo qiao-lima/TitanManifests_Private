@@ -1,0 +1,76 @@
+{
+    "appid": 688060,
+    "name": "Odd Realm",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 23:15:48",
+    "change_number": 29905102,
+    "depot": {
+        "688061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4441872404754789252",
+                    "size": "494150106",
+                    "download": "229840448"
+                },
+                "beta": {
+                    "gid": "4441872404754789252",
+                    "size": "494150106",
+                    "download": "229840448"
+                }
+            },
+            "decryptionkey": "17113a3ff27562d68ceec2376e075ef106ff7e1227eb87560f6156b9fa493aaa"
+        },
+        "688062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1190316652441391866",
+                    "size": "634426743",
+                    "download": "253325232"
+                },
+                "beta": {
+                    "gid": "1190316652441391866",
+                    "size": "634426743",
+                    "download": "253325232"
+                }
+            }
+        },
+        "688063": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4885542766330928164",
+                    "size": "504024456",
+                    "download": "229128288"
+                },
+                "beta": {
+                    "gid": "4885542766330928164",
+                    "size": "504024456",
+                    "download": "229128288"
+                }
+            }
+        },
+        "workshopdepot": "688060",
+        "branches": {
+            "public": {
+                "buildid": "19113533",
+                "timeupdated": "1751667341"
+            },
+            "beta": {
+                "buildid": "19113524",
+                "description": "Public test branch",
+                "timeupdated": "1751667297"
+            }
+        },
+        "workshopdepotdecryptionkey": "5ef496c500e7e21c08879b8ad76a93e2675e340f5651013aee7244c3e6015786"
+    }
+}
