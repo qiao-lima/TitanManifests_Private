@@ -1,0 +1,73 @@
+{
+    "appid": 1417420,
+    "name": "Endless Furry Killer 2020",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 13:06:35",
+    "change_number": 30205847,
+    "depot": {
+        "1417421": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4746178685564955782",
+                    "size": "262803171",
+                    "download": "86647168"
+                }
+            },
+            "decryptionkey": "d19c44978a85109a53ef622ff83766760b366e75136effa0b00b2fd3b9d8ee1b"
+        },
+        "1417422": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3435368256144841037",
+                    "size": "82024136",
+                    "download": "25340768"
+                }
+            },
+            "decryptionkey": "5623336564647369f52104e21b1c664555f06ef893cd86924704501f9b07d186"
+        },
+        "1417423": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2042492469696579405",
+                    "size": "137547158",
+                    "download": "73006512"
+                }
+            },
+            "decryptionkey": "cea51db6b58adedb033230fa45ccba219de3b661ef3ec81da96e2215a4cee7dd"
+        },
+        "1417424": {
+            "config": {
+                "oslist": "windows,linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8135627624562330217",
+                    "size": "261562706",
+                    "download": "85588208"
+                }
+            },
+            "decryptionkey": "76a92c853ee28d501f513cc8a954d2688592cbf913a402b846940f55e29b7d43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19328326",
+                "timeupdated": "1753270063"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
