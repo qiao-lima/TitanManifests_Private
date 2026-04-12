@@ -1,0 +1,58 @@
+{
+    "appid": 1546920,
+    "name": "Overboard!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 16:07:36",
+    "change_number": 29278955,
+    "depot": {
+        "1546921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "578766069341251729",
+                    "size": "193568035",
+                    "download": "88733024"
+                },
+                "espanol": {
+                    "gid": "6672274385493458151",
+                    "size": "192794603",
+                    "download": "88631872"
+                }
+            },
+            "decryptionkey": "b0aa3165b0cfd5a204a5be884fb0d360f1ba021a085c767305faeaba49acb2bd"
+        },
+        "1546922": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1136923001089806757",
+                    "size": "208851376",
+                    "download": "90234576"
+                },
+                "espanol": {
+                    "gid": "715919271083749633",
+                    "size": "171461332",
+                    "download": "83557664"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18670637",
+                "timeupdated": "1748592449"
+            },
+            "espanol": {
+                "buildid": "8656389",
+                "description": "Overboard, in Spanish!",
+                "timeupdated": "1651350152"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
