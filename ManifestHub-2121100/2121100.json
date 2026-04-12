@@ -1,0 +1,45 @@
+{
+    "appid": 2121100,
+    "name": "The Cabin - Summer Vacation",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 18:25:43",
+    "change_number": 30094493,
+    "depot": {
+        "2121101": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5300180362216555214",
+                    "size": "6342558431",
+                    "download": "3119918496"
+                }
+            },
+            "decryptionkey": "9d97606ed5674c3b6298ac7f549a99b762f8615fbf3546ddcd12c72fb74d86a2"
+        },
+        "2121102": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4743379024256151813",
+                    "size": "6342558431",
+                    "download": "3119918496"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18611729",
+                "timeupdated": "1748268761"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
