@@ -1,0 +1,43 @@
+{
+    "appid": 3044100,
+    "name": "Bat to the Heavens",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 00:49:50",
+    "change_number": 29922644,
+    "depot": {
+        "3044101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6739876050165723385",
+                    "size": "296192264",
+                    "download": "187675552"
+                }
+            },
+            "decryptionkey": "4e0fed514d6d3e80ca95cd0eb7fe9bc6c0b49b2c5f08691ae866045800a37299"
+        },
+        "3044102": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7726368028020376052",
+                    "size": "279786400",
+                    "download": "183211392"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19125881",
+                "timeupdated": "1751844894"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
