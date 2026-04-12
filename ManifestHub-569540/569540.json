@@ -1,0 +1,31 @@
+{
+    "appid": "569540",
+    "type": "Game",
+    "name": "Rest In Peace",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-28 11:58:52",
+    "depot": {
+        "569541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3680661874644267942",
+                    "size": "34021584",
+                    "download": "9307920"
+                }
+            },
+            "decryptionkey": "98e6cf8a444f2cc09ea2857043fd983dfac7dfcce8e597c22e238946a0c283ab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1511992",
+                "timeupdated": "1481476848"
+            }
+        }
+    },
+    "access_token": 13645087379242133674
+}
