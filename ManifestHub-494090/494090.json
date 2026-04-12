@@ -1,0 +1,41 @@
+{
+    "appid": 494090,
+    "name": "Dungeon Girl",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-29 22:17:32",
+    "change_number": 29261889,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "494091": {
+            "manifests": {
+                "public": {
+                    "gid": "2263353239350190235",
+                    "size": "508001202",
+                    "download": "267101456"
+                }
+            },
+            "decryptionkey": "1d0e66ad4ab61eefe95fe6d8ee0f7cd96816e9af66f166f1339bb6a4aaefb0af"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5275577",
+                "timeupdated": "1594401437"
+            }
+        }
+    }
+}
