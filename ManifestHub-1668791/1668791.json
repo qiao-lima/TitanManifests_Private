@@ -1,0 +1,31 @@
+{
+    "appid": 1668791,
+    "name": "Spin Rhythm XD - Chillhop DLC",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 01:05:20",
+    "change_number": 26201212,
+    "depot": {
+        "1668791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4864427980599404869",
+                    "size": "71135302",
+                    "download": "71335760"
+                }
+            },
+            "dlcappid": "1668791",
+            "decryptionkey": "64a1081e7e6d408a166bf3cf058fd384486eef13abdcbbc477f3dec90267f5a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6931315",
+                "timeupdated": "1624598455"
+            }
+        }
+    }
+}
