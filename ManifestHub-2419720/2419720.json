@@ -1,0 +1,43 @@
+{
+    "appid": 2419720,
+    "name": "Adrenaline Rampage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 09:37:28",
+    "change_number": 30202439,
+    "depot": {
+        "baselanguages": "english,russian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2419721": {
+            "manifests": {
+                "public": {
+                    "gid": "6745524552109419979",
+                    "size": "1429113666",
+                    "download": "1035759344"
+                }
+            },
+            "decryptionkey": "cea8eafd980619750fc21de9817b2cb628f5511fad456297052d5af8d9aa429c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18613296",
+                "timeupdated": "1748276804"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
