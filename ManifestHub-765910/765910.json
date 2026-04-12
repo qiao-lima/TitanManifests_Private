@@ -1,0 +1,36 @@
+{
+    "appid": 765910,
+    "name": "Leisure Suit Larry 6 - Shape Up Or Slip Out",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 16:13:22",
+    "change_number": 29744322,
+    "depot": {
+        "765911": {
+            "manifests": {
+                "public": {
+                    "gid": "6538076485632756933",
+                    "size": "566978685",
+                    "download": "399062400"
+                },
+                "vgaversion": {
+                    "gid": "58203429563723455",
+                    "size": "555045643",
+                    "download": "408029808"
+                }
+            },
+            "decryptionkey": "66d771aff0ee2689d95554f8fa59b6e9221dd0f3574294c8dd3f5c37213d3e15"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2351248",
+                "timeupdated": "1514137497"
+            },
+            "vgaversion": {
+                "buildid": "2352319",
+                "timeupdated": "1514137484"
+            }
+        }
+    }
+}
