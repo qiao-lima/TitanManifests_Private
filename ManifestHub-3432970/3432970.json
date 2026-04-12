@@ -1,0 +1,44 @@
+{
+    "appid": 3432970,
+    "name": "REMATCH BETA TEST",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 14:56:56",
+    "change_number": 29861606,
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3432971": {
+            "manifests": {
+                "public": {
+                    "gid": "5779704176389202712",
+                    "size": "4959148230",
+                    "download": "4444380304"
+                }
+            },
+            "decryptionkey": "acba842da42b42977676788e66c7e7f535f986c7799cdf3fad10e787ea413351"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18656007",
+                "timeupdated": "1748596223"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 15318011415389058545
+}
