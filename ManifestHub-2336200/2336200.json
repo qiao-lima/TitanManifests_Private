@@ -1,0 +1,43 @@
+{
+    "appid": 2336200,
+    "name": "Choo Choo Survivor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 14:02:55",
+    "change_number": 29307070,
+    "depot": {
+        "2336201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9125735771314056531",
+                    "size": "604531554",
+                    "download": "68756880"
+                }
+            },
+            "decryptionkey": "4fee206ce00d50938a4012d5f065dbfff6c0c908c0e37c24f0658327a0bbdae9"
+        },
+        "2336202": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9125692344757323505",
+                    "size": "629206704",
+                    "download": "76339600"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18689660",
+                "timeupdated": "1748742849"
+            }
+        }
+    }
+}
