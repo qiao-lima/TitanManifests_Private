@@ -1,0 +1,52 @@
+{
+    "appid": 1866980,
+    "name": "Worlds of Aria",
+    "type": "Game",
+    "schinese_name": "阿瑞亚之旅",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 18:15:09",
+    "change_number": 29811723,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,french",
+        "1866981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4433519347931477888",
+                    "size": "3443393462",
+                    "download": "1070264752"
+                }
+            },
+            "decryptionkey": "d0a56afaad1bad91e9f936e956c66c7a3a100a94cbcd509efc35a35e13856411"
+        },
+        "1866982": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7363702287909585476",
+                    "size": "3559857290",
+                    "download": "1098276080"
+                }
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18322359",
+                "timeupdated": "1746523376"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
