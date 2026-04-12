@@ -1,0 +1,27 @@
+{
+    "appid": 2197360,
+    "name": "Hot Heat Reset",
+    "type": "Game",
+    "schinese_name": "骨哥开冲",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 22:52:28",
+    "change_number": 29957596,
+    "depot": {
+        "2197361": {
+            "manifests": {
+                "public": {
+                    "gid": "6350848774460832425",
+                    "size": "412683587",
+                    "download": "73565904"
+                }
+            },
+            "decryptionkey": "0599f9eb5c57180f930a5818d18b59d6cf726179dbf047f8c1a351bcca5da810"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11674527",
+                "timeupdated": "1689079277"
+            }
+        }
+    }
+}
