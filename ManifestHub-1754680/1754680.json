@@ -1,0 +1,29 @@
+{
+    "appid": 1754680,
+    "name": "Atelier Sophie 2 - Atelier Series Legacy Swimsuit Set",
+    "type": "DLC",
+    "schinese_name": "苏菲的炼金工房２ - 《炼金工房》系列历代泳装组",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:31:15",
+    "change_number": 25065303,
+    "depot": {
+        "1754680": {
+            "manifests": {
+                "public": {
+                    "gid": "7595365842800207484",
+                    "size": "98609956",
+                    "download": "26985232"
+                }
+            },
+            "dlcappid": "1754680",
+            "decryptionkey": "19f21896c7cbe76801f0112566e96cb32d1c6c5efba7b056d7f24985f29ddf69"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7582032",
+                "timeupdated": "1635147523"
+            }
+        }
+    },
+    "access_token": 2438579537275917386
+}
