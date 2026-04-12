@@ -1,0 +1,84 @@
+{
+    "appid": 711810,
+    "name": "Never Split the Party",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 06:08:57",
+    "change_number": 30199709,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "711811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5989011548779149512",
+                    "size": "714142278",
+                    "download": "189957680"
+                },
+                "testing": {
+                    "gid": "514475095142068650",
+                    "size": "840834042",
+                    "download": "216830608"
+                }
+            },
+            "decryptionkey": "630727bbc622961df8a5fcdf11d2612865b232bc50aae2e9276ff005eeddbdef"
+        },
+        "711812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "591315637582909746",
+                    "size": "624091821",
+                    "download": "168394496"
+                },
+                "testing": {
+                    "gid": "1207879052730699807",
+                    "size": "762736713",
+                    "download": "197783968"
+                }
+            },
+            "decryptionkey": "d4eb0477e67ac64e9c3c630a3ad7fa8b903f0ecbfc5585594f8a36336f0c115d"
+        },
+        "711813": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6359324457586067383",
+                    "size": "604262671",
+                    "download": "160688464"
+                },
+                "testing": {
+                    "gid": "5019217860181840892",
+                    "size": "727229315",
+                    "download": "186837232"
+                }
+            },
+            "decryptionkey": "d7b8b5ad0595e3a6e281b164785663072801dd623025e7ac27a3758dcdbb9152"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "18944721",
+                "timeupdated": "1750452195"
+            },
+            "testing": {
+                "buildid": "19324289",
+                "description": "Testing Pre-release Builds",
+                "timeupdated": "1753247333"
+            }
+        }
+    }
+}
