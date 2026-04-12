@@ -1,0 +1,28 @@
+{
+    "appid": 2450400,
+    "name": "Trash of the Titans",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 06:42:56",
+    "change_number": 29943122,
+    "depot": {
+        "2450401": {
+            "manifests": {
+                "public": {
+                    "gid": "7153445842830391884",
+                    "size": "136960510",
+                    "download": "70412272"
+                }
+            },
+            "decryptionkey": "26746a8b70e55aec4453d1f65b98a324351487df2910713826a0ca791806db92"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15634242",
+                "timeupdated": "1726029218"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
