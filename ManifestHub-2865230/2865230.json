@@ -1,0 +1,33 @@
+{
+    "appid": 2865230,
+    "name": "HEAVEN SEEKER ――The Savior of This Cruel World",
+    "type": "Game",
+    "schinese_name": "HEAVEN SEEKER 残酷世界的拯救之道",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 06:48:16",
+    "change_number": 29780334,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2865231": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6494417253766227509",
+                    "size": "684884971",
+                    "download": "438286880"
+                }
+            },
+            "decryptionkey": "cacb7e2580465b9365628d8bdc5f9d64f6ab035b7234f4ce5860f58246b0d2ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19020030",
+                "timeupdated": "1751003291"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
