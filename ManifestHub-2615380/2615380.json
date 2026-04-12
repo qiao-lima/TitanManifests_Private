@@ -1,0 +1,31 @@
+{
+    "appid": 2615380,
+    "name": "The Legend of Yan Loong 1+2",
+    "type": "Game",
+    "schinese_name": "炎龙传说1+2",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 23:11:45",
+    "change_number": 30057272,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "2615381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4437843576191247003",
+                    "size": "331569484",
+                    "download": "213078304"
+                }
+            },
+            "decryptionkey": "743a2c714fd15c93f9ac9dc7971f1d8d7121b36f003c5543555e7f674c1fcb68"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19185778",
+                "timeupdated": "1752210396"
+            }
+        }
+    }
+}
