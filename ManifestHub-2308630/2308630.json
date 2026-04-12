@@ -1,0 +1,40 @@
+{
+    "appid": 2308630,
+    "name": "Dawnfolk",
+    "type": "Game",
+    "schinese_name": "晨曦族人",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 14:42:23",
+    "change_number": 30167752,
+    "depot": {
+        "2308631": {
+            "manifests": {
+                "public": {
+                    "gid": "2219171012996663443",
+                    "size": "1044714226",
+                    "download": "252805440"
+                },
+                "playtest": {
+                    "gid": "4554033835714149030",
+                    "size": "1044622642",
+                    "download": "252802384"
+                }
+            },
+            "decryptionkey": "4a0002995ee4b17bdf1fbcdf1b20a2ff66ecebbf0f7290dbe8d67d178e4c1983"
+        },
+        "workshopdepot": "2308630",
+        "branches": {
+            "public": {
+                "buildid": "18673260",
+                "timeupdated": "1748605063"
+            },
+            "playtest": {
+                "buildid": "18579522",
+                "description": "To test new features of the game in advance",
+                "timeupdated": "1747992347"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "099b30884500a92524d014e3d6584279ff9a0b9d23b1fec284a1239b634ef57e"
+    }
+}
