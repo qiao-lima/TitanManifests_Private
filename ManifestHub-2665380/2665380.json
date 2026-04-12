@@ -1,0 +1,27 @@
+{
+    "appid": 2665380,
+    "name": "Camping Vlog Simulator 2024",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 16:42:39",
+    "change_number": 30189308,
+    "depot": {
+        "2665381": {
+            "manifests": {
+                "public": {
+                    "gid": "4598199769362605770",
+                    "size": "785698546",
+                    "download": "378171056"
+                }
+            },
+            "decryptionkey": "5196f92211bf72c70802853cd1951c11e76ae8cdb7428c0d77fea36d130b26c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13978096",
+                "timeupdated": "1712484682"
+            }
+        }
+    }
+}
