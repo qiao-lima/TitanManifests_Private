@@ -1,0 +1,28 @@
+{
+    "appid": 3591940,
+    "name": "Jump Man",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:22:29",
+    "change_number": 29669897,
+    "depot": {
+        "3591941": {
+            "manifests": {
+                "public": {
+                    "gid": "4244800573425323380",
+                    "size": "271554927",
+                    "download": "171604784"
+                }
+            },
+            "decryptionkey": "ee7fbeb85f5737ea93c8f6e10c4a239f1269e16228fd97850e54334b2041d819"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17979477",
+                "timeupdated": "1743738424"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
