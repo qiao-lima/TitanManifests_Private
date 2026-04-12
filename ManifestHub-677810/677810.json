@@ -1,0 +1,47 @@
+{
+    "appid": 677810,
+    "name": "Wing of Misadventure Retro",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 01:10:19",
+    "change_number": 30216918,
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "677811": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5523839486375418724",
+                    "size": "1430918385",
+                    "download": "1384130864"
+                }
+            },
+            "decryptionkey": "0f91623f55d73b68838e68fb2b4f653ab50984d80460955f3f659befb889dee7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10191035",
+                "timeupdated": "1671615962"
+            }
+        }
+    }
+}
