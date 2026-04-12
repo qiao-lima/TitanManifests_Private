@@ -1,0 +1,27 @@
+{
+    "appid": 1872470,
+    "name": "HardWorker Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 04:10:58",
+    "change_number": 30041488,
+    "depot": {
+        "1872471": {
+            "manifests": {
+                "public": {
+                    "gid": "7731934222269289135",
+                    "size": "507390583",
+                    "download": "391968448"
+                }
+            },
+            "decryptionkey": "f01c5081130fbc4558da74dc1f80d4232e805d92c12fc6cc1de3bb8874b2475d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8154854",
+                "timeupdated": "1644177853"
+            }
+        }
+    }
+}
