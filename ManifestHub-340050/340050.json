@@ -1,0 +1,53 @@
+{
+    "appid": 340050,
+    "name": "Survivalist",
+    "type": "Game",
+    "schinese_name": "幸存者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 17:41:53",
+    "change_number": 30190376,
+    "depot": {
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "340051": {
+            "manifests": {
+                "public": {
+                    "gid": "259255412659958827",
+                    "size": "293654320",
+                    "download": "163037120"
+                },
+                "publicbeta": {
+                    "gid": "259255412659958827",
+                    "size": "293654320",
+                    "download": "163037120"
+                }
+            },
+            "decryptionkey": "730782494a436dd3b5d0a933732c72583b4db156ef2c92d957bf2b28ebb81b82"
+        },
+        "baselanguages": "english,german,french,italian,spanish,hungarian,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18958419",
+                "timeupdated": "1751202512"
+            },
+            "publicbeta": {
+                "buildid": "18958419",
+                "description": "Public beta",
+                "timeupdated": "1750632641"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
