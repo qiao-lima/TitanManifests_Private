@@ -1,0 +1,28 @@
+{
+    "appid": 2197700,
+    "name": "Gatekeeper: Eclipse",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 16:52:29",
+    "change_number": 30147591,
+    "depot": {
+        "2197701": {
+            "manifests": {
+                "public": {
+                    "gid": "2290847023723115593",
+                    "size": "1526794850",
+                    "download": "536749072"
+                }
+            },
+            "decryptionkey": "4bdc907cb8fcc7832c35abaa4ad5f3e6d5b94cfcc1863a83bb4eaeffefc71d5a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10848976",
+                "timeupdated": "1679669142"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
