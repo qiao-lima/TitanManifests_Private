@@ -1,0 +1,30 @@
+{
+    "appid": 2732730,
+    "name": "Tomboy: Love in Hot Forge",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 13:12:48",
+    "change_number": 30048191,
+    "depot": {
+        "2732731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6931491353555539132",
+                    "size": "449015541",
+                    "download": "352603504"
+                }
+            },
+            "decryptionkey": "f44060e8bacdd4cd1fc38616d8692f7b738fdee459520e13d0453c45a1ea6cfd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13883550",
+                "timeupdated": "1712245182"
+            }
+        }
+    }
+}
