@@ -1,0 +1,32 @@
+{
+    "appid": 2461350,
+    "name": "CUSTOM ORDER MAID 3D2&2.5+X1",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:17:40",
+    "change_number": 26201212,
+    "depot": {
+        "2461351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7000230851214745937",
+                    "size": "7207710853",
+                    "download": "1566207536"
+                }
+            },
+            "dlcappid": "2461350",
+            "decryptionkey": "1d6868df63c83d566fb742468699b18ae7e0575cafba451714aa6ea038844515"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11510903",
+                "timeupdated": "1687228428"
+            }
+        }
+    }
+}
