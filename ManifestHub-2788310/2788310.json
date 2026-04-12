@@ -1,0 +1,43 @@
+{
+    "appid": 2788310,
+    "name": "Twilight Survivors",
+    "type": "Game",
+    "schinese_name": "萌物求生 / Twilight Survivors",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 11:17:09",
+    "change_number": 29296791,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "2788311": {
+            "manifests": {
+                "public": {
+                    "gid": "7528325711308359576",
+                    "size": "1433616820",
+                    "download": "1228652224"
+                }
+            },
+            "decryptionkey": "8cc164865b658ab43fdfa17c84f11109c87a43d9d5d461497428635adcb63763"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16637739",
+                "timeupdated": "1733386736"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
