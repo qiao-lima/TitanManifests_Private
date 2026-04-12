@@ -1,0 +1,31 @@
+{
+    "appid": 1213330,
+    "name": "DFF NT: Ardyn Izunia Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:51",
+    "change_number": 26201212,
+    "depot": {
+        "1213330": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4428148789369555501",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1213330",
+            "decryptionkey": "c98868a1a7e6957aa0c70259cf3dfeb15ab7a8d196c24a3b8bd750dbe54e5ff0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4505607",
+                "timeupdated": "1576653549"
+            }
+        }
+    }
+}
