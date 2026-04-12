@@ -1,0 +1,41 @@
+{
+    "appid": 921070,
+    "name": "Spellwake",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-06 23:29:31",
+    "change_number": 29421366,
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "921071": {
+            "manifests": {
+                "public": {
+                    "gid": "8930917716227269905",
+                    "size": "508119197",
+                    "download": "331784672"
+                }
+            },
+            "decryptionkey": "d5238787d8d6123964530a05085f6508b03d95d5215efe38b1c8e963fda061c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18768282",
+                "timeupdated": "1749223767"
+            }
+        }
+    }
+}
