@@ -1,0 +1,27 @@
+{
+    "appid": 2722820,
+    "name": "Dash & Roll",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 15:15:22",
+    "change_number": 29802583,
+    "depot": {
+        "2722821": {
+            "manifests": {
+                "public": {
+                    "gid": "8257037682910279104",
+                    "size": "5412747059",
+                    "download": "1242182688"
+                }
+            },
+            "decryptionkey": "a6b3076c05fcc421f3f165a0c3fb77d8c1d806262a86474b269f8f6d07ef6e9a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12854693",
+                "timeupdated": "1704978940"
+            }
+        }
+    }
+}
