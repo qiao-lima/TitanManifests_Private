@@ -1,0 +1,41 @@
+{
+    "appid": 1275630,
+    "name": "Drug Dealer Simulator: Free Sample",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 06:38:50",
+    "change_number": 29676583,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1275631": {
+            "manifests": {
+                "public": {
+                    "gid": "1013069955031486284",
+                    "size": "6430729681",
+                    "download": "6318741648"
+                }
+            },
+            "decryptionkey": "f603a9d279559832e57ad42bb5202afa9986b976e8f00bf16424dadefdf85932"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4856481",
+                "timeupdated": "1585932844"
+            }
+        }
+    }
+}
