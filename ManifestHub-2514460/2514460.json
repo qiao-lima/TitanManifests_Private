@@ -1,0 +1,60 @@
+{
+    "appid": 2514460,
+    "name": "GUARDS!",
+    "type": "Game",
+    "schinese_name": "除暴守卫",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 00:26:00",
+    "change_number": 29832509,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2514461": {
+            "manifests": {
+                "public": {
+                    "gid": "7797957775658300921",
+                    "size": "794055844",
+                    "download": "614106944"
+                }
+            },
+            "decryptionkey": "d7ad238adaaa7cea38e98b320fb49c8b87ee3c12fa7c6211f25fef753208aa5e"
+        },
+        "2665430": {
+            "dlcappid": "2665430",
+            "manifests": {
+                "public": {
+                    "gid": "4815782827695626001",
+                    "size": "23",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "cde5e17841e4cac008e8bc08d32c115ec186259ca363702442612d92edbd1f23"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18770904",
+                "timeupdated": "1750452376"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
