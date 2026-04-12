@@ -1,0 +1,57 @@
+{
+    "appid": 2914050,
+    "name": "Jugs Bay",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:47:07",
+    "change_number": 29670424,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "2914052": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4511491460527843944",
+                    "size": "8376810847",
+                    "download": "8158834576"
+                },
+                "beta": {
+                    "gid": "4511491460527843944",
+                    "size": "8376810847",
+                    "download": "8158834576"
+                }
+            },
+            "decryptionkey": "07dc89651676149b0a0328077bed98f1333c5528b0ce452173ab8067ac3d1790"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18941477",
+                "timeupdated": "1750430823"
+            },
+            "beta": {
+                "buildid": "18941477",
+                "description": "beta",
+                "timeupdated": "1750430804"
+            }
+        }
+    }
+}
