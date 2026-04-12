@@ -1,0 +1,52 @@
+{
+    "appid": 339600,
+    "name": "VEGA Conflict",
+    "type": "Game",
+    "schinese_name": "维咔冲突",
+    "isfreeapp": 1,
+    "update_time": "2025-06-21 14:18:19",
+    "change_number": 29679783,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "339601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "247253653649011535",
+                    "size": "3916748639",
+                    "download": "3026981408"
+                }
+            },
+            "decryptionkey": "723ebe2d43dc5cc84d5e3d3f8674aac8c95b796c1d7b0e19574deb887a191989"
+        },
+        "339602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5784111104524893995",
+                    "size": "12037484559",
+                    "download": "3010914000"
+                }
+            },
+            "decryptionkey": "4248d02393c25890bf50441f3b26e610aedc7accd32e8c9c8d493a0a0268b48f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18754510",
+                "timeupdated": "1749155853"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
