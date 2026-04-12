@@ -1,0 +1,28 @@
+{
+    "appid": 2681950,
+    "name": "Boba Bar: Bubble Tea Tycoon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 10:52:40",
+    "change_number": 30153448,
+    "depot": {
+        "2681951": {
+            "manifests": {
+                "public": {
+                    "gid": "6180434559366520458",
+                    "size": "157849392",
+                    "download": "106514160"
+                }
+            },
+            "decryptionkey": "dee10691e084d77e0c9d64531b300db418dcd1da9e7930fee9238903f5c9f334"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14507390",
+                "timeupdated": "1716814036"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
