@@ -1,0 +1,31 @@
+{
+    "appid": 1813510,
+    "name": "Devil's Dungeon Patch",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-20 05:20:51",
+    "change_number": 29650970,
+    "depot": {
+        "1813510": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3788679452816283572",
+                    "size": "89578468",
+                    "download": "21353648"
+                }
+            },
+            "dlcappid": "1813510",
+            "decryptionkey": "a08368b568b4d67abb143610c8611ffc242610c90a91cc055639ec8b76c4ee6d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7680075",
+                "timeupdated": "1636435527"
+            }
+        }
+    }
+}
