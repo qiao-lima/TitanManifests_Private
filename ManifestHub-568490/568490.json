@@ -1,0 +1,80 @@
+{
+    "appid": 568490,
+    "name": "Frog Hop",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:13:11",
+    "change_number": 29175207,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "568491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1600762990834065663",
+                    "size": "106525720",
+                    "download": "75045104"
+                }
+            },
+            "decryptionkey": "25fdb28290653277d6c63444260e5d3a562277d68a030f27ae4396cf816ab67d"
+        },
+        "568492": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1352542168608392397",
+                    "size": "158294869",
+                    "download": "89384512"
+                }
+            }
+        },
+        "568493": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9015450818667914606",
+                    "size": "102666631",
+                    "download": "72349136"
+                }
+            }
+        },
+        "1437960": {
+            "dlcappid": "1437960",
+            "manifests": {
+                "public": {
+                    "gid": "7329879657132058537",
+                    "size": "22333996",
+                    "download": "20719200"
+                }
+            },
+            "decryptionkey": "c61d7e32119a439d5544a4c4c14474090019e0f82dacea88abf6cc8a9529e3a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11724985",
+                "timeupdated": "1689649218"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
