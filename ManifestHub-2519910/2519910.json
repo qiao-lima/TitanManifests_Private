@@ -1,0 +1,52 @@
+{
+    "appid": 2519910,
+    "name": "Creature Rumble",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 02:16:21",
+    "change_number": 29814882,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2519911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6824907140328171940",
+                    "size": "748380305",
+                    "download": "632583424"
+                }
+            },
+            "decryptionkey": "23ecd3ed19abfeadaca43d4368f93e2c8b49ce740e158d582460c82c12fcd65f"
+        },
+        "2531750": {
+            "dlcappid": "2531750",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13363314",
+                "timeupdated": "1707076013"
+            }
+        }
+    }
+}
