@@ -1,0 +1,28 @@
+{
+    "appid": 3086060,
+    "name": "Date Banger",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 15:32:44",
+    "change_number": 30147055,
+    "depot": {
+        "3086061": {
+            "manifests": {
+                "public": {
+                    "gid": "236550104191826062",
+                    "size": "3424388506",
+                    "download": "671863232"
+                }
+            },
+            "decryptionkey": "bca70a2e14a6c005cd9f488d8798f97e0e0936f239448bd04c0312de03f03ad3"
+        },
+        "baselanguages": "english,koreana,spanish,schinese,russian,japanese,turkish",
+        "branches": {
+            "public": {
+                "buildid": "19285925",
+                "timeupdated": "1752935561"
+            }
+        }
+    }
+}
