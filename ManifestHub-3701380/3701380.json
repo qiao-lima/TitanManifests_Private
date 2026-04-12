@@ -1,0 +1,72 @@
+{
+    "appid": 3701380,
+    "name": "The Mr. Rabbit Magic Show - Supporter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 14:40:08",
+    "change_number": 29861336,
+    "depot": {
+        "3701380": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "3701380",
+            "manifests": {
+                "public": {
+                    "gid": "2072688112271524843",
+                    "size": "107192287",
+                    "download": "97655680"
+                }
+            },
+            "decryptionkey": "74679874ade7f2bd48189eb7795309012c23556a44c71f2c1ffb50ef286a758a"
+        },
+        "3701381": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "587667548337481494",
+                    "size": "138508748",
+                    "download": "101774800"
+                }
+            },
+            "dlcappid": "3701380"
+        },
+        "3701383": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6685834888184854348",
+                    "size": "116663055",
+                    "download": "107064048"
+                }
+            },
+            "dlcappid": "3701380",
+            "decryptionkey": "5ce97a657113392e60960ca85a3321023a7764dbbddac67b9b10e8fbcda5f111"
+        },
+        "3701384": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5972359137761364883",
+                    "size": "147978361",
+                    "download": "111181952"
+                }
+            },
+            "dlcappid": "3701380"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19080085",
+                "timeupdated": "1751463602"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
