@@ -1,0 +1,46 @@
+{
+    "appid": 1781010,
+    "name": "Pine Hearts",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:33:38",
+    "change_number": 30217874,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,turkish,brazilian,latam",
+        "1781011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4660426249673594639",
+                    "size": "1212138226",
+                    "download": "847911008"
+                }
+            },
+            "decryptionkey": "665b407db8fad40d2933a69dae8c602621afaa6ec4e21d370d78bbb8dcc324f1"
+        },
+        "2996940": {
+            "dlcappid": "2996940",
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1988076122770878864",
+                    "size": "81503677",
+                    "download": "79727168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18661757",
+                "timeupdated": "1750758688"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
