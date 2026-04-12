@@ -1,0 +1,40 @@
+{
+    "appid": 452070,
+    "name": "Oblivion Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 09:58:12",
+    "change_number": 29792669,
+    "depot": {
+        "452070": {
+            "manifests": {
+                "public": {
+                    "gid": "8677345989153827241",
+                    "size": "140918848",
+                    "download": "111931200"
+                }
+            },
+            "decryptionkey": "28e57eac4572d002602c39ae6d906f302daaeeb469376ee36151283b5ebc9b6e"
+        },
+        "452071": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8969255607162370014",
+                    "size": "621170156",
+                    "download": "510572864"
+                }
+            },
+            "decryptionkey": "366f4fb630bc2e9fb533d8b066f9148238ad42dacf554a0f2cd96eb27b016e2b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18194954",
+                "timeupdated": "1745334579"
+            }
+        }
+    }
+}
