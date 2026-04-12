@@ -1,0 +1,32 @@
+{
+    "appid": "588420",
+    "type": "Game",
+    "name": "Uncompromising Trash",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-14 19:21:48",
+    "depot": {
+        "588421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "705677696140020232",
+                    "size": "278887952",
+                    "download": "91995312"
+                }
+            },
+            "decryptionkey": "bdeae07bb6bc38379c812e8c00d99bc6da6ecd79b4c8bcaf23d5c0720f04959a"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1633221",
+                "timeupdated": "1487171938"
+            }
+        }
+    },
+    "access_token": 7645202539108519788
+}
