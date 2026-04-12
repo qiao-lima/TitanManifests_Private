@@ -1,0 +1,47 @@
+{
+    "appid": 1564560,
+    "name": "Island Farmer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 11:14:02",
+    "change_number": 29141158,
+    "depot": {
+        "1564561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3418183582694209575",
+                    "size": "639709752",
+                    "download": "197203184"
+                }
+            },
+            "decryptionkey": "8577e9a90bd7d2867b6e3da1e27d8625723a6befe5f41553657f6ae6a98c612c"
+        },
+        "1564562": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1312058753017237066",
+                    "size": "633093073",
+                    "download": "195549520"
+                }
+            },
+            "decryptionkey": "ee810fe496c0a9edf24d15152aad98bc14b090efd70ef739ab2c7239f06d88d7"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "11184197",
+                "timeupdated": "1683662279"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
