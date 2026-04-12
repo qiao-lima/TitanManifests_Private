@@ -1,0 +1,27 @@
+{
+    "appid": 2442100,
+    "name": "The Galactic Harem Handbook",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 04:52:18",
+    "change_number": 29871829,
+    "depot": {
+        "2442101": {
+            "manifests": {
+                "public": {
+                    "gid": "820392587370563953",
+                    "size": "644112189",
+                    "download": "528946112"
+                }
+            },
+            "decryptionkey": "abe1e8a6ecc7b22c729bd76b120570aab30c20ef0db01495b7d51b926663c584"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13224209",
+                "timeupdated": "1705710559"
+            }
+        }
+    }
+}
