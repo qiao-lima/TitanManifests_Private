@@ -1,0 +1,73 @@
+{
+    "appid": 552390,
+    "name": "Druid",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:12:37",
+    "change_number": 29553538,
+    "depot": {
+        "552391": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6690538188964096701",
+                    "size": "221035132",
+                    "download": "29035440"
+                }
+            },
+            "decryptionkey": "71355bc7050bd66ef5d1e367c6bfbc78f4c90eca0b166699f78320943e03d664"
+        },
+        "552395": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "438471875536765692",
+                    "size": "238413346",
+                    "download": "32582384"
+                }
+            },
+            "decryptionkey": "d4e1fdf89a636f50c910b95d90c2f6fd9ae6450ee8430fc83acdf04a8dbf142e"
+        },
+        "552394": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6007726771483803073",
+                    "size": "229017222",
+                    "download": "31795296"
+                }
+            },
+            "decryptionkey": "3474d25bd9b81f1d7fc1ac40a5a104622c3b86659cfe9f7579457ce1d13c30dd"
+        },
+        "988760": {
+            "dlcappid": "988760",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6486889842636493456",
+                    "size": "4310895",
+                    "download": "3392352"
+                }
+            },
+            "decryptionkey": "0f2edf9f82c7416c55b837aa24bf1c0df1f498e7eb4ca1cf1f4fb14f07b86a2b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6077430",
+                "timeupdated": "1610563363"
+            }
+        }
+    }
+}
