@@ -1,0 +1,41 @@
+{
+    "appid": 3257660,
+    "name": "重燃星陨Reburning meteorite Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 09:12:45",
+    "change_number": 30084720,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3257661": {
+            "manifests": {
+                "public": {
+                    "gid": "6745172350949594029",
+                    "size": "4506549566",
+                    "download": "4322390768"
+                }
+            },
+            "decryptionkey": "2699d22f011e8add3668c2cc52e4299888695d03564746be3fe03de271cf4f51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19229600",
+                "timeupdated": "1752587968"
+            }
+        }
+    }
+}
