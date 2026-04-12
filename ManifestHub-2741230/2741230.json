@@ -1,0 +1,42 @@
+{
+    "appid": 2741230,
+    "name": "Forest Of Perdition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-13 22:12:51",
+    "change_number": 30039035,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2741231": {
+            "manifests": {
+                "public": {
+                    "gid": "8059894503972771331",
+                    "size": "1556627985",
+                    "download": "1429786800"
+                }
+            },
+            "decryptionkey": "94b73a1071722ff1cfa1f07842b1de88466730c4d0cc725272b3103dbf9ff284"
+        },
+        "baselanguages": "brazilian",
+        "branches": {
+            "public": {
+                "buildid": "14685815",
+                "timeupdated": "1740088087"
+            }
+        }
+    }
+}
