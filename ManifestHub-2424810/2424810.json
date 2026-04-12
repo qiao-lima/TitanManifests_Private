@@ -1,0 +1,31 @@
+{
+    "appid": 2424810,
+    "name": "Lost at Birth",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 00:42:33",
+    "change_number": 30176262,
+    "depot": {
+        "2424811": {
+            "config": {
+                "language": "english",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4973802895882488899",
+                    "size": "4663648592",
+                    "download": "4356538688"
+                }
+            },
+            "decryptionkey": "8b49861258d40f24022bbb72ffdaca4e75acb52974e4a695ea0227a4b8050cf1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19038619",
+                "timeupdated": "1751138895"
+            }
+        }
+    }
+}
