@@ -1,0 +1,83 @@
+{
+    "appid": 772290,
+    "name": "Rainswept",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:40:13",
+    "change_number": 29662288,
+    "depot": {
+        "772291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7495594851006119",
+                    "size": "1192753856",
+                    "download": "339750784"
+                }
+            },
+            "decryptionkey": "228e380d853b0b937e36afa0eacb3e6785485c923c7daf045eeb3ef07eae5723"
+        },
+        "772292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2421415749834978420",
+                    "size": "1220662219",
+                    "download": "350058208"
+                }
+            },
+            "decryptionkey": "d9b27a8c2a84dc8ea721936112aedf86e859a7125477bdd1aae6d2330fa7899e"
+        },
+        "772293": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4978682336921862912",
+                    "size": "1187431104",
+                    "download": "338128848"
+                }
+            },
+            "decryptionkey": "04c8b0d74e4534d6580961beed0984a1f8653d27d301a5bb4b4ad260cf08b0ae"
+        },
+        "772294": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4302470950554899170",
+                    "size": "1233927241",
+                    "download": "355051536"
+                }
+            },
+            "decryptionkey": "cd565b15cf58e05234e6f0fce8de1abf436c333cebed6013480e29112cdbc76d"
+        },
+        "1080880": {
+            "manifests": {
+                "public": {
+                    "gid": "6051224422017865147",
+                    "size": "57518780",
+                    "download": "54439376"
+                }
+            },
+            "dlcappid": "1080880",
+            "decryptionkey": "6ae652dda8510f2814c292bd00558fa475ef9a388f1e3616c201df9c6d7fad3f"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "3837551",
+                "timeupdated": "1558261205"
+            }
+        }
+    }
+}
