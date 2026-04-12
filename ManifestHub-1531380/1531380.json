@@ -1,0 +1,50 @@
+{
+    "appid": "1531380",
+    "type": "Game",
+    "name": "Ace Pilot",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 00:41:43",
+    "depot": {
+        "1531381": {
+            "manifests": {
+                "public": {
+                    "gid": "6766906639510093834",
+                    "size": "435025856",
+                    "download": "129356480"
+                }
+            },
+            "decryptionkey": "234d37804e5b331ccfb34be7640ef662f2844b353c7203e71d97698e3ae16851"
+        },
+        "1532450": {
+            "dlcappid": "1532450",
+            "manifests": {
+                "public": {
+                    "gid": "2849019503673361642",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1532451": {
+            "dlcappid": "1532451",
+            "manifests": {
+                "public": {
+                    "gid": "2541148697671107453",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6121225",
+                "timeupdated": "1611296921"
+            }
+        }
+    },
+    "access_token": 10334524461203192652
+}
