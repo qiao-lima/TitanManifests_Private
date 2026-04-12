@@ -1,0 +1,44 @@
+{
+    "appid": 1582390,
+    "name": "NINJA GAIDEN: Master Collection Digital Art Book & Soundtrack",
+    "type": "Game",
+    "schinese_name": "NINJA GAIDEN: Master Collection 下载版画集 & 原声带音乐",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:34:05",
+    "change_number": 30057887,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1582391": {
+            "manifests": {
+                "public": {
+                    "gid": "7745428015294055862",
+                    "size": "2460311059",
+                    "download": "1916383472"
+                }
+            },
+            "decryptionkey": "7d413f1c6d6f1ac91865a75fa12fb88391bbe8c484eda4103a5d21e7371f62f7"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "8857757",
+                "timeupdated": "1654246811"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 11328531627297403255
+}
