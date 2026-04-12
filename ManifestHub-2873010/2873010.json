@@ -1,0 +1,49 @@
+{
+    "appid": 2873010,
+    "name": "LOVE ON",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 09:41:58",
+    "change_number": 29856138,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2873011": {
+            "manifests": {
+                "public": {
+                    "gid": "8433564922052071065",
+                    "size": "2231877364",
+                    "download": "1978454224"
+                }
+            },
+            "decryptionkey": "68ddbeec1bab24a313e218498785524f53178dd5a2cc24dd41a440df0d6105e8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16769661",
+                "timeupdated": "1734651181"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
