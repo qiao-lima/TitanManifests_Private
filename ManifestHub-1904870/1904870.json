@@ -1,0 +1,48 @@
+{
+    "appid": 1904870,
+    "name": "City Bus Manager - Asia",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 12:47:32",
+    "change_number": 26201212,
+    "depot": {
+        "1904870": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1904870"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1794693257583529286",
+                    "size": "9255784317",
+                    "download": "9332816480"
+                }
+            },
+            "dlcappid": "1904870",
+            "decryptionkey": "5087d23a0c50807ef7c6be290cb96a270a6a9812eb6f0cdf415f8ba8a442c27b"
+        },
+        "1904871": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1904870"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4765184466760825081",
+                    "size": "9255784317",
+                    "download": "9332816480"
+                }
+            },
+            "dlcappid": "1904870",
+            "decryptionkey": "3c265b55622dc8cf1671c7cef104df57a21a364dc7c66312c17a05b6fc3ba17b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10483630",
+                "timeupdated": "1675790119"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
