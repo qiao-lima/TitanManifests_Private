@@ -1,0 +1,34 @@
+{
+    "appid": 3381020,
+    "name": "Shapelab 2025 Upgrade",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 21:08:51",
+    "change_number": 29629328,
+    "depot": {
+        "3381021": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "208530745751056684",
+                    "size": "849413594",
+                    "download": "268113392"
+                }
+            },
+            "dlcappid": "3381020",
+            "decryptionkey": "1fb8580c8fbcbc1343c0537f217290f278963c70fe5d15a23c4b683aeacd1d74"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18911412",
+                "timeupdated": "1750252123"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
