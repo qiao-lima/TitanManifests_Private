@@ -1,0 +1,31 @@
+{
+    "appid": 2182070,
+    "name": "Band Space",
+    "type": "Game",
+    "schinese_name": "超弦乐队",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 09:30:35",
+    "change_number": 29296027,
+    "depot": {
+        "2182071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3775868956550628144",
+                    "size": "3169599981",
+                    "download": "2722116784"
+                }
+            },
+            "decryptionkey": "267e36158a1c3beeb04601fda2f8c2bbc567d8bc56d816af7d174e5d66c28d70"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18455154",
+                "timeupdated": "1747202426"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
