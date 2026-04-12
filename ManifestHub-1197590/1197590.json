@@ -1,0 +1,36 @@
+{
+    "appid": 1197590,
+    "name": "Waifu Uncovered",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 16:19:44",
+    "change_number": 29279228,
+    "depot": {
+        "1197591": {
+            "manifests": {
+                "public": {
+                    "gid": "2551283807573653203",
+                    "size": "132194527",
+                    "download": "102910192"
+                },
+                "beta": {
+                    "gid": "2551283807573653203",
+                    "size": "132194527",
+                    "download": "102910192"
+                }
+            },
+            "decryptionkey": "ef67bde157f071641ed050d9f4ce29573f2907affa22f10c55ce565668f082ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7351733",
+                "timeupdated": "1631559347"
+            },
+            "beta": {
+                "buildid": "7351733",
+                "timeupdated": "1631559263"
+            }
+        }
+    }
+}
