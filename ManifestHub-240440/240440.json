@@ -1,0 +1,219 @@
+{
+    "appid": 240440,
+    "name": "Quadrilateral Cowboy",
+    "type": "Game",
+    "schinese_name": "黑客特工",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 19:11:01",
+    "change_number": 30137080,
+    "depot": {
+        "overridescddb": "1",
+        "workshopdepot": "240440",
+        "240441": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3317021355898743931",
+                    "size": "268935050",
+                    "download": "220237392"
+                },
+                "linux32": {
+                    "gid": "1328168174869248699",
+                    "size": "247457050",
+                    "download": "217337952"
+                },
+                "2025-update": {
+                    "gid": "142183966026417930",
+                    "size": "266723210",
+                    "download": "219544624"
+                },
+                "next_update": {
+                    "gid": "3317021355898743931",
+                    "size": "268935050",
+                    "download": "220237392"
+                }
+            },
+            "decryptionkey": "8e9073f759e075a9f3d712fe3fece67ee8830a7f6a634108b8b803ddb1ba5f81"
+        },
+        "240442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3072060921169790909",
+                    "size": "238881603",
+                    "download": "226404112"
+                },
+                "linux32": {
+                    "gid": "6302241711534574313",
+                    "size": "238483904",
+                    "download": "226919696"
+                },
+                "2025-update": {
+                    "gid": "6734737639870661963",
+                    "size": "238476995",
+                    "download": "226425312"
+                },
+                "next_update": {
+                    "gid": "3072060921169790909",
+                    "size": "238881603",
+                    "download": "226404112"
+                }
+            },
+            "decryptionkey": "a2c40d54c10fb411aa64161a9d346cde86f0c33d74c3ea7069b15b3a8ec19ecc"
+        },
+        "240443": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4710772113068972872",
+                    "size": "247074829",
+                    "download": "229151024"
+                },
+                "linux32": {
+                    "gid": "1554141503290527335",
+                    "size": "238106214",
+                    "download": "226850992"
+                },
+                "2025-update": {
+                    "gid": "1882958621052391589",
+                    "size": "247206778",
+                    "download": "229193664"
+                },
+                "next_update": {
+                    "gid": "4710772113068972872",
+                    "size": "247074829",
+                    "download": "229151024"
+                }
+            },
+            "decryptionkey": "b90a2b2845e847f317b94f4a73cbbea5d495bbc5d7d21b16f4a5104bcc42fa6b"
+        },
+        "489490": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "489490",
+            "manifests": {
+                "public": {
+                    "gid": "314108046834748541",
+                    "size": "50161098",
+                    "download": "23482208"
+                },
+                "linux32": {
+                    "gid": "314108046834748541",
+                    "size": "50161098",
+                    "download": "23482208"
+                },
+                "2025-update": {
+                    "gid": "314108046834748541",
+                    "size": "50161098",
+                    "download": "23482208"
+                },
+                "next_update": {
+                    "gid": "314108046834748541",
+                    "size": "50161098",
+                    "download": "23482208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "460091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5795316432795095447",
+                    "size": "651456",
+                    "download": "188880"
+                }
+            },
+            "depotfromapp": "460090",
+            "decryptionkey": "06ed29616c6f7406f969234ffeb7841b0d268944379064f6cb08c54c9c267e96"
+        },
+        "240444": {
+            "dlcappid": "489490",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "728358103938492273",
+                    "size": "74232418",
+                    "download": "30174832"
+                },
+                "linux32": {
+                    "gid": "5811828946429928691",
+                    "size": "96081175",
+                    "download": "36286608"
+                },
+                "2025-update": {
+                    "gid": "728358103938492273",
+                    "size": "74232418",
+                    "download": "30174832"
+                },
+                "next_update": {
+                    "gid": "728358103938492273",
+                    "size": "74232418",
+                    "download": "30174832"
+                }
+            }
+        },
+        "240445": {
+            "dlcappid": "489490",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1354923846124051725",
+                    "size": "101775576",
+                    "download": "33057456"
+                },
+                "linux32": {
+                    "gid": "5147511064735452863",
+                    "size": "70283437",
+                    "download": "28881568"
+                },
+                "2025-update": {
+                    "gid": "1354923846124051725",
+                    "size": "101775576",
+                    "download": "33057456"
+                },
+                "next_update": {
+                    "gid": "1354923846124051725",
+                    "size": "101775576",
+                    "download": "33057456"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19247660",
+                "timeupdated": "1752862258"
+            },
+            "linux32": {
+                "buildid": "2233507",
+                "description": "32-bit Linux (Legacy)",
+                "timeupdated": "1609455321"
+            },
+            "2025-update": {
+                "buildid": "19235420",
+                "description": "Incoming fixes and changes for 2025 Update",
+                "timeupdated": "1752611732"
+            },
+            "next_update": {
+                "buildid": "19247660",
+                "description": "Incoming fixes and changes.",
+                "timeupdated": "1752682818"
+            }
+        },
+        "workshopdepotdecryptionkey": "efbed6b29b423938c76699e509e1528d5a635a1c5f866e5f0cf407fd1950e586"
+    }
+}
