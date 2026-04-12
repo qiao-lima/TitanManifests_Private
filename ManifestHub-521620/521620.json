@@ -1,0 +1,32 @@
+{
+    "appid": 521620,
+    "name": "Alchemist Adventure",
+    "type": "Game",
+    "schinese_name": "炼金术师大冒险",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 18:39:12",
+    "change_number": 29954275,
+    "depot": {
+        "baselanguages": "english,portuguese",
+        "521621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5654736659266222561",
+                    "size": "5219792611",
+                    "download": "1903343840"
+                }
+            },
+            "decryptionkey": "36e28983708473ea6644a4752d4960ecff93966cdb8356ac3ea02d5f30f9d3ca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7904449",
+                "timeupdated": "1639773306"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
