@@ -1,0 +1,36 @@
+{
+    "appid": 577700,
+    "name": "THE VIDEOKID",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 22:48:58",
+    "change_number": 29711804,
+    "depot": {
+        "577701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6360448445508510165",
+                    "size": "304544618",
+                    "download": "66803120"
+                }
+            },
+            "decryptionkey": "96ef989ce5b5d34be8c0614e894a83366c5bc25503bc8eee06b95d1317c4db5c"
+        },
+        "577702": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1643697",
+                "timeupdated": "1487611453"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
