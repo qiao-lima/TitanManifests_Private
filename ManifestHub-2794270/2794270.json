@@ -1,0 +1,45 @@
+{
+    "appid": 2794270,
+    "name": "Evercore Heroes: Ascension Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 22:00:03",
+    "change_number": 30214684,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2794272": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1774253572883246325",
+                    "size": "6260987331",
+                    "download": "4691104784"
+                }
+            },
+            "decryptionkey": "510bb3c302721ed0803b4d671e5b8a51671b3275f33616368f28e1f53e440a11"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18847807",
+                "timeupdated": "1749770226"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
