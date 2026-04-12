@@ -1,0 +1,28 @@
+{
+    "appid": 2853200,
+    "name": "Zoria: Age of Shattering Digital Bestiary",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:12:02",
+    "change_number": 26201212,
+    "depot": {
+        "2853200": {
+            "dlcappid": "2853200",
+            "manifests": {
+                "public": {
+                    "gid": "1513237583066806522",
+                    "size": "27609974",
+                    "download": "26182064"
+                }
+            },
+            "decryptionkey": "f3efe572a9ca0110c3719018471c306defd99105fc5cfda1995531a9aa81d777"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13576066",
+                "timeupdated": "1709041207"
+            }
+        }
+    }
+}
