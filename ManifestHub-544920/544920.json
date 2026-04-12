@@ -1,0 +1,80 @@
+{
+    "appid": 544920,
+    "name": "Darwin Project",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 10:36:35",
+    "change_number": 30203409,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,french",
+        "544921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "262878272823548621",
+                    "size": "3612766112",
+                    "download": "3238218240"
+                },
+                "unofficial": {
+                    "gid": "590626508447197772",
+                    "size": "3613767064",
+                    "download": "3238515008"
+                }
+            },
+            "decryptionkey": "ddc9d4a343b307e464dc9a3b215fffc4f7541bd0c8769a1883d179b5584c2a07"
+        },
+        "544922": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8147051429259261890",
+                    "size": "10967605009",
+                    "download": "2743661376"
+                },
+                "unofficial": {
+                    "gid": "8147051429259261890",
+                    "size": "10967605009",
+                    "download": "2743661376"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6206081",
+                "timeupdated": "1612886408"
+            },
+            "unofficial": {
+                "buildid": "6479808",
+                "description": "Unsupported builds",
+                "timeupdated": "1617334454"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
