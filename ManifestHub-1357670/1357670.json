@@ -1,0 +1,29 @@
+{
+    "appid": 1357670,
+    "name": "Picture Perfect",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 19:41:32",
+    "change_number": 30137505,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1357671": {
+            "manifests": {
+                "public": {
+                    "gid": "8508570578473235398",
+                    "size": "2515583424",
+                    "download": "2392684976"
+                }
+            },
+            "decryptionkey": "5f94cc6734eabc5f31c44d35b01d9070bf276a962ed454800e832e1cba9ef363"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19278981",
+                "timeupdated": "1752864088"
+            }
+        }
+    }
+}
