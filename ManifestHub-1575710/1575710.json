@@ -1,0 +1,31 @@
+{
+    "appid": 1575710,
+    "name": "AutoChess of Gensokyo",
+    "type": "Game",
+    "schinese_name": "幻想乡自走棋 ~ AutoChess of Gensokyo",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 04:00:00",
+    "change_number": 29591707,
+    "depot": {
+        "1575711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3872381003795349073",
+                    "size": "476750411",
+                    "download": "318531328"
+                }
+            },
+            "decryptionkey": "6236ad1ae64a65c355ba006c43cb1a993f3cbea04cfdaaed336ac4d7fc4abc01"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18885584",
+                "timeupdated": "1750092381"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
