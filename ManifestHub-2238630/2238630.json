@@ -1,0 +1,30 @@
+{
+    "appid": 2238630,
+    "name": "Forgotten Mines",
+    "type": "Game",
+    "schinese_name": "失落矿场",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 16:42:26",
+    "change_number": 30189303,
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "hasdepotsindlc": "0",
+        "2238631": {
+            "manifests": {
+                "public": {
+                    "gid": "2774677284539586042",
+                    "size": "310266504",
+                    "download": "104655200"
+                }
+            },
+            "decryptionkey": "4c2050d579a527334f61fe29034c195273fdd9927c6f82df257578e26e955467"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18966692",
+                "timeupdated": "1750768778"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
