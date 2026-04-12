@@ -1,0 +1,32 @@
+{
+    "appid": 1471410,
+    "name": "SYNTHETIK 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 14:47:09",
+    "change_number": 30187165,
+    "depot": {
+        "1471411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8628528261847058461",
+                    "size": "10160288733",
+                    "download": "5732806352"
+                }
+            },
+            "decryptionkey": "7736e6becbf754713c9a4974b4accd1e7eea9cc5f22721a9899ccb43010a8398"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "19315298",
+                "timeupdated": "1753192024"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
