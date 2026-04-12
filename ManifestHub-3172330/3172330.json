@@ -1,0 +1,56 @@
+{
+    "appid": 3172330,
+    "name": "CUMVERSE [18+]",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 13:56:27",
+    "change_number": 29842771,
+    "depot": {
+        "3172331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6726171553908637998",
+                    "size": "4174813200",
+                    "download": "3171848096"
+                }
+            },
+            "decryptionkey": "99e879abbfeed90696ab54a0b5ea71447aae84a1a45683eb29e279a6d865fb3b"
+        },
+        "3172332": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "523936940570188791",
+                    "size": "4198157079",
+                    "download": "3175786432"
+                }
+            },
+            "decryptionkey": "adf3300b4710dd387f61402a9ead5100b26cde96a1520f14b40bc73fada8e269"
+        },
+        "3172333": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4276783023205457605",
+                    "size": "4176330948",
+                    "download": "3166562752"
+                }
+            },
+            "decryptionkey": "79c80967ba56e35498b7a6eb6415a17259bd135662ff0afa7838d52325a9cd5e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16346753",
+                "timeupdated": "1731099826"
+            }
+        }
+    }
+}
