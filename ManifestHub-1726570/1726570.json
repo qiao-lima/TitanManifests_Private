@@ -1,0 +1,28 @@
+{
+    "appid": 1726570,
+    "name": "Minecraft Dungeons Ultimate Edition Digital Artwork",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-22 14:13:58",
+    "change_number": 28097641,
+    "depot": {
+        "1726570": {
+            "manifests": {
+                "public": {
+                    "gid": "2582615933734748879",
+                    "size": "43513432",
+                    "download": "43718240"
+                }
+            },
+            "dlcappid": "1726570",
+            "decryptionkey": "0e89af5042b93fdac6bf07b8155a9addf8bc19a556fed00a326ece6e7c9e7a14"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7223091",
+                "timeupdated": "1629467820"
+            }
+        }
+    }
+}
