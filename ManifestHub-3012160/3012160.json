@@ -1,0 +1,34 @@
+{
+    "appid": "3012160",
+    "type": "Demo",
+    "name": "Botworld Odyssey Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28103188",
+    "update_time": "2025-03-24 14:05:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3012161": {
+            "manifests": {
+                "public": {
+                    "gid": "8903405561083610197",
+                    "size": "1080696330",
+                    "download": "288361504"
+                }
+            },
+            "decryptionkey": "b7285a2ec85b5118416ca127ebb7981fd8baedee5e73dd7da89c963ccf58974f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15987703",
+                "timeupdated": "1728520090"
+            }
+        }
+    }
+}
