@@ -1,0 +1,39 @@
+{
+    "appid": "585790",
+    "type": "Game",
+    "name": "Fergus The Fly",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:21:15",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "585791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5825905448410329924",
+                    "size": "48827507",
+                    "download": "38733728"
+                }
+            },
+            "decryptionkey": "baae6e6e769c078238317ab22881ce6fc965b3f3b156cba19b36512f8ba457f3"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1602729",
+                "timeupdated": "1485933237"
+            }
+        }
+    },
+    "access_token": 16678304139620788450
+}
