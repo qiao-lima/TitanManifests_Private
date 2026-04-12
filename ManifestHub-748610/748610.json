@@ -1,0 +1,42 @@
+{
+    "appid": 748610,
+    "name": "Airport Madness 3D: Volume 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 16:46:58",
+    "change_number": 30189394,
+    "depot": {
+        "748611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5048519057059292479",
+                    "size": "739754614",
+                    "download": "191625056"
+                }
+            },
+            "decryptionkey": "fa0b2f44a38db28fd5f6ec77b1aa3da70d21a7bde10e166722d4d27bf228ddca"
+        },
+        "748612": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5406754015560535589",
+                    "size": "739583097",
+                    "download": "195574176"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19316881",
+                "timeupdated": "1753199214"
+            }
+        }
+    }
+}
