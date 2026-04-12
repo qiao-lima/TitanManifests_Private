@@ -1,0 +1,58 @@
+{
+    "appid": 2963890,
+    "name": "Expelled!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 12:52:44",
+    "change_number": 30154105,
+    "depot": {
+        "2963891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3707129066299460355",
+                    "size": "1433249715",
+                    "download": "173346096"
+                },
+                "beta": {
+                    "gid": "3707129066299460355",
+                    "size": "1433249715",
+                    "download": "173346096"
+                }
+            },
+            "decryptionkey": "7426f560be42449d13454823aa763f5a517d0417ed3d1ad364b14f6213cb2d36"
+        },
+        "2963892": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4274200502553445703",
+                    "size": "1442078487",
+                    "download": "177845408"
+                },
+                "beta": {
+                    "gid": "4274200502553445703",
+                    "size": "1442078487",
+                    "download": "177845408"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18658285",
+                "timeupdated": "1748528733"
+            },
+            "beta": {
+                "buildid": "18658285",
+                "description": "quicktest",
+                "timeupdated": "1748521239"
+            }
+        }
+    }
+}
