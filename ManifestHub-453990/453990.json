@@ -1,0 +1,43 @@
+{
+    "appid": 453990,
+    "name": "Mibibli's Quest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 00:41:59",
+    "change_number": 30176253,
+    "depot": {
+        "453991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2664106565252036312",
+                    "size": "95587223",
+                    "download": "72842160"
+                }
+            },
+            "decryptionkey": "a1eb736365421baf5162ffbac36be0c761bc17c5cd0218d9656c0cb908ac817d"
+        },
+        "453992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8425857055546619859",
+                    "size": "96933646",
+                    "download": "70209808"
+                }
+            },
+            "decryptionkey": "21e1480d0ff97e5fb314767e5cb0d61a04f396b1f4170c5b1fd3f4247c22b879"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1257089",
+                "timeupdated": "1470096360"
+            }
+        }
+    }
+}
