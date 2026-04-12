@@ -1,0 +1,42 @@
+{
+    "appid": 2342750,
+    "name": "Shadows of Duat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 19:11:42",
+    "change_number": 30029724,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2342751": {
+            "manifests": {
+                "public": {
+                    "gid": "4978703676357975199",
+                    "size": "8711725839",
+                    "download": "8420467488"
+                }
+            },
+            "decryptionkey": "4c272c08bfeec56877b7f9950d58d430840d11d5d2d645ef120df11a3c2aefd7"
+        },
+        "baselanguages": "english,spanish",
+        "branches": {
+            "public": {
+                "buildid": "19096722",
+                "timeupdated": "1751561223"
+            }
+        }
+    }
+}
