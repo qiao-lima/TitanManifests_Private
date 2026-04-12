@@ -1,0 +1,72 @@
+{
+    "appid": 551170,
+    "name": "Onmyoji",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-08 07:55:07",
+    "change_number": 29943855,
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "551171": {
+            "manifests": {
+                "public": {
+                    "gid": "2392227301122111822",
+                    "size": "15543218066",
+                    "download": "14989537824"
+                }
+            },
+            "decryptionkey": "1177fe761a87f3644c11981b2f2d2c69a79d4ecb28fc1967f2a59c20b94a3737"
+        },
+        "551172": {
+            "manifests": {
+                "public": {
+                    "gid": "2824087798372537762",
+                    "size": "15543218066",
+                    "download": "14989587088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19141997",
+                "timeupdated": "1751957702"
+            }
+        }
+    }
+}
