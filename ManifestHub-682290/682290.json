@@ -1,0 +1,61 @@
+{
+    "appid": 682290,
+    "name": "Zeus' Battlegrounds",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 23:10:56",
+    "change_number": 30057262,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "682291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5018191151340447179",
+                    "size": "8913924247",
+                    "download": "3726669280"
+                }
+            },
+            "decryptionkey": "a19efe2d231a15609917b3e0c08d42758dbbfe2bcecbf81cfc425da277364c81"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3422383",
+                "timeupdated": "1545447115"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
