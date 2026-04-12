@@ -1,0 +1,47 @@
+{
+    "appid": 3025290,
+    "name": "UNDERWARD",
+    "type": "Game",
+    "schinese_name": "UNDERWARD: 运送实验怪物的人",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 03:03:22",
+    "change_number": 30218220,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "3025291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3363419471740338858",
+                    "size": "14214685927",
+                    "download": "12288663328"
+                }
+            },
+            "decryptionkey": "8cbe99cf4196809afbd529cb0abf66e2898f3e6c4693ce21949d9fd01c7547e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19309796",
+                "timeupdated": "1753167521"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
