@@ -1,0 +1,51 @@
+{
+    "appid": 2014110,
+    "name": "Townseek Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 16:39:00",
+    "change_number": 30169636,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2014111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "775842463113899234",
+                    "size": "2370804580",
+                    "download": "316351136"
+                }
+            },
+            "decryptionkey": "53034519cbfa0f5592efa9af69c9a117e7a3a9caffcb611e5830ab66fa5e8cf2"
+        },
+        "2014112": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "693468190135233135",
+                    "size": "2185000860",
+                    "download": "315136544"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19271025",
+                "timeupdated": "1752822724"
+            }
+        }
+    }
+}
