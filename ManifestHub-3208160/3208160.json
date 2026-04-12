@@ -1,0 +1,30 @@
+{
+    "appid": 3208160,
+    "name": "Coffee Extra: Ukuzala",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 08:08:53",
+    "change_number": 29517956,
+    "depot": {
+        "3208161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3351482508972230038",
+                    "size": "251883248",
+                    "download": "175569840"
+                }
+            },
+            "decryptionkey": "96a144c366ef2718517b56126253bfab7e8638e0cf207dca6c8e5d66b16e2f64"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16168528",
+                "timeupdated": "1729788455"
+            }
+        }
+    }
+}
