@@ -1,0 +1,48 @@
+{
+    "appid": 2597480,
+    "name": "Bardic: Quest for Love",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 05:12:46",
+    "change_number": 30199153,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2597481": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6659134388014241959",
+                    "size": "4622394804",
+                    "download": "503882032"
+                }
+            },
+            "decryptionkey": "af32872c3bf6a08ea3965468f88e46eb12d1573b884314644bfe01afac530580"
+        },
+        "2837650": {
+            "dlcappid": "2837650",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7880012168006259544",
+                    "size": "4688141745",
+                    "download": "567981184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18873281",
+                "timeupdated": "1749990311"
+            }
+        }
+    }
+}
