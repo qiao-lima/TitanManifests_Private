@@ -1,0 +1,28 @@
+{
+    "appid": 2715960,
+    "name": "Girls Hobby in LOVE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 06:52:32",
+    "change_number": 30161347,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2715961": {
+            "manifests": {
+                "public": {
+                    "gid": "205012440943540956",
+                    "size": "454398744",
+                    "download": "351758960"
+                }
+            },
+            "decryptionkey": "a23ef5d0e3e7cd05e1730c2050dc403d5bff82b36e790e334608ad4bde200ecb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13030032",
+                "timeupdated": "1703252166"
+            }
+        }
+    }
+}
