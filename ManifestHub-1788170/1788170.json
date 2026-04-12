@@ -1,0 +1,29 @@
+{
+    "appid": 1788170,
+    "name": "残秽的我们",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 07:29:45",
+    "change_number": 30083339,
+    "depot": {
+        "1788171": {
+            "manifests": {
+                "public": {
+                    "gid": "5874922750427521045",
+                    "size": "2795272389",
+                    "download": "435360512"
+                }
+            },
+            "decryptionkey": "49b1d1d33bdb486ca2fd0dc2f3f4505848867af098604f10ab406858240816d0"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "11111152",
+                "timeupdated": "1682655282"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
