@@ -1,0 +1,105 @@
+{
+    "appid": 2538370,
+    "name": "Long Story Short",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-28 13:39:19",
+    "change_number": 29801916,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2538371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7937132459277278381",
+                    "size": "2525744666",
+                    "download": "2358584144"
+                },
+                "local": {
+                    "gid": "4495000955844843689",
+                    "size": "0",
+                    "download": "0"
+                },
+                "public_alpha": {
+                    "gid": "1407108528039560077",
+                    "size": "2680758341",
+                    "download": "2509409232"
+                }
+            },
+            "decryptionkey": "83fcafc23d4204b0dc577b6792eeb8f23240220e9851a1db4bbe4452b05e9307"
+        },
+        "2538372": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6361798921941891274",
+                    "size": "2526290923",
+                    "download": "2353370848"
+                },
+                "local": {
+                    "gid": "8053122032191472104",
+                    "size": "0",
+                    "download": "0"
+                },
+                "public_alpha": {
+                    "gid": "3035657743919886092",
+                    "size": "2681277966",
+                    "download": "2504168128"
+                }
+            }
+        },
+        "2538373": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8683508829041305575",
+                    "size": "2517277083",
+                    "download": "2354562272"
+                },
+                "local": {
+                    "gid": "7952146957765109537",
+                    "size": "0",
+                    "download": "0"
+                },
+                "public_alpha": {
+                    "gid": "3875159865506969094",
+                    "size": "2672222418",
+                    "download": "2505344096"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16354036",
+                "timeupdated": "1731183353"
+            },
+            "local": {
+                "buildid": "11933390",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1691967749"
+            },
+            "public_alpha": {
+                "buildid": "18902799",
+                "description": "Version: 10.1a1",
+                "timeupdated": "1750191900"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
