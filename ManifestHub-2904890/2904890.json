@@ -1,0 +1,27 @@
+{
+    "appid": 2904890,
+    "name": "The Game of Sisyphus",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 05:54:09",
+    "change_number": 29683072,
+    "depot": {
+        "2904891": {
+            "manifests": {
+                "public": {
+                    "gid": "3663853528330125020",
+                    "size": "7535976595",
+                    "download": "2368563728"
+                }
+            },
+            "decryptionkey": "d20b433efdeedffdb199d29dbcd052c1513e8cae68b32ddc5b2935bcab8e8257"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14637185",
+                "timeupdated": "1717752239"
+            }
+        }
+    }
+}
