@@ -1,0 +1,41 @@
+{
+    "appid": 294260,
+    "name": "Trials Fusion Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:49:14",
+    "change_number": 29708352,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,dutch,brazilian",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "245491": {
+            "systemdefined": "1",
+            "depotfromapp": "245490",
+            "sharedinstall": "2"
+        },
+        "294261": {
+            "manifests": {
+                "public": {
+                    "gid": "4832164719717227837",
+                    "size": "7325279485",
+                    "download": "6838384896"
+                }
+            },
+            "decryptionkey": "fba45faa159d3a939c6401091db3c473c42a93ca39771adf4b7ce3d7b0fa1b83"
+        },
+        "branches": {
+            "public": {
+                "buildid": "635990"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
