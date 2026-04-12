@@ -1,0 +1,67 @@
+{
+    "appid": 1815780,
+    "name": "Asphalt Legends Unite",
+    "type": "Game",
+    "schinese_name": "狂野飙车：传奇集结",
+    "isfreeapp": 1,
+    "update_time": "2025-07-22 10:04:01",
+    "change_number": 30182641,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1815781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8557279586535801161",
+                    "size": "9600706196",
+                    "download": "9286689920"
+                }
+            },
+            "decryptionkey": "5bcde2a5b270cc5f3a1a571b16fba5c90347280e05940c8ac301a5a38df2a451"
+        },
+        "1815782": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "3673190": {
+            "dlcappid": "3673190",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "3831570": {
+            "dlcappid": "3831570",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19238098",
+                "timeupdated": "1753175036"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
