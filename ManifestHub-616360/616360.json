@@ -1,0 +1,29 @@
+{
+    "appid": "616360",
+    "type": "Game",
+    "name": "Crimson Earth",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27381713",
+    "update_time": "2025-02-09 04:26:18",
+    "depot": {
+        "616361": {
+            "manifests": {
+                "public": {
+                    "gid": "1550835311423254079",
+                    "size": "2361686454",
+                    "download": "1083534880"
+                }
+            },
+            "decryptionkey": "044f574db707ba69531379f0aafe253324f47a7aa22b41fcec1b573807600896"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1910622",
+                "timeupdated": "1498170543"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 2319898224298935317
+}
