@@ -1,0 +1,41 @@
+{
+    "appid": 3092980,
+    "name": "MALL MANAGER SIMULATOR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 16:59:29",
+    "change_number": 30189584,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3092981": {
+            "manifests": {
+                "public": {
+                    "gid": "7612470268459579561",
+                    "size": "1937928264",
+                    "download": "595482576"
+                }
+            },
+            "decryptionkey": "96699788ef76dec5bbcf1402a2668343313df50ee3eafe85bd3d9f267f53dbef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19279887",
+                "timeupdated": "1752870591"
+            }
+        }
+    }
+}
