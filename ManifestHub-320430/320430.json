@@ -1,0 +1,61 @@
+{
+    "appid": 320430,
+    "name": "Ascension",
+    "type": "Game",
+    "schinese_name": "创升纪元",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 18:33:04",
+    "change_number": 30053521,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "320431": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4848689699829604455",
+                    "size": "1021352123",
+                    "download": "591434976"
+                }
+            },
+            "decryptionkey": "43165e65a1d64e976dd456d3c965d9a9a429944bfb95d4d203fa1d86cff53d89"
+        },
+        "320432": {
+            "sharedinstall": "",
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8276116507637992542",
+                    "size": "1084952930",
+                    "download": "607432944"
+                }
+            },
+            "decryptionkey": "03240daf07cb0cc768ec3edcb7422a58351c257d83826c049269d69af3aeb637"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19070519",
+                "timeupdated": "1752514320"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
