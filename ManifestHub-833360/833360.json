@@ -1,0 +1,31 @@
+{
+    "appid": 833360,
+    "name": "Star Valor",
+    "type": "Game",
+    "schinese_name": "星光勇士",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 16:22:24",
+    "change_number": 30188972,
+    "depot": {
+        "833361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1516298313531097712",
+                    "size": "2483337266",
+                    "download": "812406032"
+                }
+            },
+            "decryptionkey": "18d5edd65605f06d3db636fe9ed1e93dd77c5f9e31cf42549b3621c6ed648e8e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19316493",
+                "timeupdated": "1753197739"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
