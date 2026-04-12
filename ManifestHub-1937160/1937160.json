@@ -1,0 +1,46 @@
+{
+    "appid": 1937160,
+    "name": "The Nightmare Catcher",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 07:02:30",
+    "change_number": 29495671,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1937161": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6841341235469273981",
+                    "size": "11502651309",
+                    "download": "11277670192"
+                }
+            },
+            "decryptionkey": "39b0efeae423ae43e074830b993734dcbcd579574f404a53122cbfec9cbd0d07"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18723526",
+                "timeupdated": "1748980878"
+            }
+        }
+    }
+}
