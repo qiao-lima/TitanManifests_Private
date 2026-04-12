@@ -1,0 +1,37 @@
+{
+    "appid": 763860,
+    "name": "Surgera VR",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-28 19:13:37",
+    "change_number": 29804131,
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "763861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "846365400357895957",
+                    "size": "396901071",
+                    "download": "69212704"
+                }
+            },
+            "decryptionkey": "8e2a333fb013f9d34fa8b8a4c30a568c5070a9440446e33d24ded30e6cf8c2d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2696037",
+                "timeupdated": "1524576491"
+            }
+        }
+    }
+}
