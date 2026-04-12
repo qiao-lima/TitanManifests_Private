@@ -1,0 +1,38 @@
+{
+    "appid": 3079970,
+    "name": "Airport X-Ray Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 20:15:48",
+    "change_number": 30149009,
+    "depot": {
+        "3079972": {
+            "manifests": {
+                "public": {
+                    "gid": "8563554393283104016",
+                    "size": "1439379279",
+                    "download": "459673392"
+                },
+                "beta": {
+                    "gid": "2490772839527729035",
+                    "size": "1537185024",
+                    "download": "496797888"
+                }
+            },
+            "decryptionkey": "6f8241800e907d0ce1e40888f65e5f11c779bfe313ba840d3334e581fe8ce753"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19027672",
+                "timeupdated": "1751034277"
+            },
+            "beta": {
+                "buildid": "19287227",
+                "description": "Beta testing branch",
+                "timeupdated": "1752952544"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
