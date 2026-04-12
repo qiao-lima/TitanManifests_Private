@@ -1,0 +1,73 @@
+{
+    "appid": 2248890,
+    "name": "The Beekeeper's Picnic",
+    "type": "Game",
+    "schinese_name": "养蜂人的野餐",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 13:42:45",
+    "change_number": 30186056,
+    "depot": {
+        "2248891": {
+            "manifests": {
+                "public": {
+                    "gid": "6789675938238581945",
+                    "size": "1361838914",
+                    "download": "482328256"
+                },
+                "reviewers": {
+                    "gid": "6789675938238581945",
+                    "size": "1361838914",
+                    "download": "482328256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2248892": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6401203950339473929",
+                    "size": "1361862930",
+                    "download": "477908016"
+                },
+                "reviewers": {
+                    "gid": "6401203950339473929",
+                    "size": "1361862930",
+                    "download": "477908016"
+                }
+            },
+            "decryptionkey": "b82451be94289feb6554a498fd53dbefdc9345db21390ea805045fb901921ffd"
+        },
+        "2248893": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6119227435342971616",
+                    "size": "1361862930",
+                    "download": "477908016"
+                },
+                "reviewers": {
+                    "gid": "6119227435342971616",
+                    "size": "1361862930",
+                    "download": "477908016"
+                }
+            }
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18815125",
+                "timeupdated": "1749585013"
+            },
+            "reviewers": {
+                "buildid": "18815125",
+                "description": "test branch",
+                "timeupdated": "1749584475"
+            }
+        }
+    }
+}
