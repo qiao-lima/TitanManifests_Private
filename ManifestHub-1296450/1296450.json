@@ -1,0 +1,28 @@
+{
+    "appid": 1296450,
+    "name": "Dust & Neon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 10:25:42",
+    "change_number": 29296450,
+    "depot": {
+        "1296452": {
+            "manifests": {
+                "public": {
+                    "gid": "5550094025947742250",
+                    "size": "2434539119",
+                    "download": "271793232"
+                }
+            },
+            "decryptionkey": "fb14c30ed0fd40c5fb9bc73655d211672ddf5c859892e92a842ab8abfecbd3e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12524761",
+                "timeupdated": "1699682232"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
