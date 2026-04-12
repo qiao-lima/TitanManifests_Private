@@ -1,0 +1,139 @@
+{
+    "appid": 1205550,
+    "name": "New World Public Test Realm",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:32:58",
+    "change_number": 30057887,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1205551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2599863629740315734",
+                    "size": "82787970548",
+                    "download": "73672588608"
+                }
+            },
+            "decryptionkey": "7cffd687bff0b76c358be57efe841f5cce72082bfc2414f9a299f7192993312b"
+        },
+        "1210580": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "1210580",
+            "manifests": {
+                "public": {
+                    "gid": "5391665789206368920",
+                    "size": "207961256",
+                    "download": "55495712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1205552": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "135389969197714374",
+                    "size": "39",
+                    "download": "96"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1258720": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "1258720",
+            "manifests": {
+                "public": {
+                    "gid": "3048995655699392825",
+                    "size": "465174143",
+                    "download": "114616000"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1210581": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {}
+        },
+        "1210582": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {}
+        },
+        "1210583": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {}
+        },
+        "1210584": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {}
+        },
+        "1210585": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {}
+        },
+        "1210586": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {}
+        },
+        "1210587": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {}
+        },
+        "1210588": {
+            "config": {
+                "language": "latam"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "13547262",
+                "timeupdated": "1708717981"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 12104810598194147933
+}
