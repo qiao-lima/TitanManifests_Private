@@ -1,0 +1,94 @@
+{
+    "appid": 1894430,
+    "name": "Plan B: Terraform",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 15:09:24",
+    "change_number": 30090855,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1894431": {
+            "manifests": {
+                "public": {
+                    "gid": "1596998379592621394",
+                    "size": "949195284",
+                    "download": "450079856"
+                },
+                "beta": {
+                    "gid": "4253736356375804842",
+                    "size": "1007159053",
+                    "download": "459296416"
+                },
+                "safe": {
+                    "gid": "1596998379592621394",
+                    "size": "949195284",
+                    "download": "450079856"
+                },
+                "test_loading": {
+                    "gid": "7747610506244655302",
+                    "size": "956381989",
+                    "download": "452663728"
+                },
+                "v0.7.5": {
+                    "gid": "5996079990439141722",
+                    "size": "835731867",
+                    "download": "354458000"
+                },
+                "v0.8.4": {
+                    "gid": "292069836472568639",
+                    "size": "855106235",
+                    "download": "431940832"
+                }
+            },
+            "decryptionkey": "9439661726bb617284dcc689e41986b97eb13d5b461523e300cc1a4a36ed3967"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,czech,turkish,brazilian,ukrainian",
+        "workshopdepot": "1894430",
+        "branches": {
+            "public": {
+                "buildid": "19039256",
+                "timeupdated": "1751148935"
+            },
+            "beta": {
+                "buildid": "19245795",
+                "description": "beta branch",
+                "timeupdated": "1752673936"
+            },
+            "safe": {
+                "buildid": "19039256",
+                "description": "delayed update, you can roll back to this one if you have sudden issue after update (but contact me!)",
+                "timeupdated": "1751624877"
+            },
+            "test_loading": {
+                "buildid": "19129203",
+                "description": "specific test version",
+                "timeupdated": "1751876703"
+            },
+            "v0.7.5": {
+                "buildid": "13702153",
+                "description": "v0.7.5 backup, as v0.8 might break things in your game (for example, it adds a great lot of water)",
+                "timeupdated": "1718981256"
+            },
+            "v0.8.4": {
+                "buildid": "15806816",
+                "description": "v0.8.4 backup, to continue playing with worlds created before v0.9",
+                "timeupdated": "1727173270"
+            }
+        },
+        "workshopdepotdecryptionkey": "9a08903b3c968b0479549a2a5e110047a7455b84e3cf01707658acae883ff7b4"
+    }
+}
