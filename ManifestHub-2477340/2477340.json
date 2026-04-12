@@ -1,0 +1,48 @@
+{
+    "appid": 2477340,
+    "name": "Expeditions: A MudRunner Game",
+    "type": "Game",
+    "schinese_name": "远征：泥泞奔驰游戏",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 11:47:52",
+    "change_number": 30184265,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2477341": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "175305219051861522",
+                    "size": "32005880902",
+                    "download": "22677038944"
+                }
+            },
+            "decryptionkey": "22d4226d21a2b7bd6a16784f1790c3905b675a00a531aaca94c7ea7f0ec706cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18713680",
+                "timeupdated": "1752137569"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
