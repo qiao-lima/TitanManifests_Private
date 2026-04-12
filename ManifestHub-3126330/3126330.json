@@ -1,0 +1,59 @@
+{
+    "appid": 3126330,
+    "name": "Kiosk",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 13:33:47",
+    "change_number": 30089147,
+    "depot": {
+        "3126332": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5896326290995966429",
+                    "size": "352682829",
+                    "download": "171300320"
+                }
+            },
+            "decryptionkey": "c7ca641cf58761e53aa8e95f746dcfbe37093b8db75257bf29cff35dd6ff045f"
+        },
+        "3126331": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8859910512556502316",
+                    "size": "374686054",
+                    "download": "177541312"
+                }
+            },
+            "decryptionkey": "7569912f8548bbe2ffbf0cd75ab6c8cab1dffa6348fa7657970895d9c5161d78"
+        },
+        "3126333": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1923594335206201399",
+                    "size": "347626168",
+                    "download": "163672848"
+                }
+            },
+            "decryptionkey": "d85591a97c21daed42382e4ed6cc5c95ac8ab83af5079158d40b6d1cbda3a754"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17910024",
+                "timeupdated": "1743259111"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
