@@ -1,0 +1,52 @@
+{
+    "appid": "732110",
+    "type": "Game",
+    "name": "OneScreen Wagons",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:39:53",
+    "depot": {
+        "baselanguages": "english,german,french,russian",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "732111": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1853162512700448899",
+                    "size": "949197444",
+                    "download": "282493680"
+                }
+            },
+            "decryptionkey": "7c78863b337d4a7d1acd08d9b7cb40a3306da31f62a57723381c4d47f699eabd"
+        },
+        "732112": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "2365152",
+                "timeupdated": "1513185765"
+            }
+        }
+    },
+    "access_token": 12600569950390936922
+}
