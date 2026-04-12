@@ -1,0 +1,56 @@
+{
+    "appid": 434750,
+    "name": "Z-Exemplar",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 18:57:14",
+    "change_number": 29994438,
+    "depot": {
+        "434751": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "588183430208846681",
+                    "size": "143995943",
+                    "download": "54906784"
+                }
+            },
+            "decryptionkey": "901cc7acaa84b04181694f060fa6ac5d5d099e6f02a998a2f8f4e00406dacacd"
+        },
+        "434753": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2284850042092782872",
+                    "size": "136137344",
+                    "download": "54096624"
+                }
+            },
+            "decryptionkey": "d71f31753134528440b2a53dea043b0fc034b7857eae346df42edc7b5d1e8181"
+        },
+        "434755": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4827386161244991772",
+                    "size": "95134274",
+                    "download": "42559808"
+                }
+            },
+            "decryptionkey": "70557cce07a1a2e6149039a6372f84e23e183e50d221ed2ff5991f44bacfc816"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1620710",
+                "timeupdated": "1486659300"
+            }
+        }
+    }
+}
