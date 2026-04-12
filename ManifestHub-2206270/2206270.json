@@ -1,0 +1,28 @@
+{
+    "appid": 2206270,
+    "name": "Vampire Hunters",
+    "type": "Game",
+    "schinese_name": "吸血鬼猎人",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 20:18:08",
+    "change_number": 30117600,
+    "depot": {
+        "2206271": {
+            "manifests": {
+                "public": {
+                    "gid": "1201971385844650451",
+                    "size": "7401357494",
+                    "download": "1391398480"
+                }
+            },
+            "decryptionkey": "11e8eea29af28f571f677aafcf463630a492c3ecb8e9639d50ca1bd5657e0d3b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18149207",
+                "timeupdated": "1748884892"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
