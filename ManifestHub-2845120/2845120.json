@@ -1,0 +1,56 @@
+{
+    "appid": 2845120,
+    "name": "Exoracer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 15:46:04",
+    "change_number": 30070637,
+    "depot": {
+        "baselanguages": "english",
+        "2845122": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2012306435309090777",
+                    "size": "221618683",
+                    "download": "126510528"
+                }
+            },
+            "decryptionkey": "a156b134bb8d68379a738cf051c2c6cab26af1c88aac6a1186beed92a417eae0"
+        },
+        "2845123": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1778760628217008524",
+                    "size": "307448885",
+                    "download": "149161536"
+                }
+            }
+        },
+        "2845124": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7833474438476784291",
+                    "size": "258453687",
+                    "download": "117365408"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19231428",
+                "timeupdated": "1752590758"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
