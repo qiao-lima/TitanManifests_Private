@@ -1,0 +1,46 @@
+{
+    "appid": 3335120,
+    "name": "Coconut Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 12:21:19",
+    "change_number": 30130240,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3335121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1300107328659764725",
+                    "size": "1031571797",
+                    "download": "919151840"
+                }
+            },
+            "decryptionkey": "e61a79b31c3b0ad970dcd4f4c367c9a422034046f29e6fab79aa4710d3fe05a1"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "19271120",
+                "timeupdated": "1752837675"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
