@@ -1,0 +1,199 @@
+{
+    "appid": "397770",
+    "type": "Game",
+    "name": "Age of Invention",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27310432",
+    "update_time": "2025-02-05 00:31:52",
+    "depot": {
+        "baselanguages": "english",
+        "397771": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8075329143345073248",
+                    "size": "777740297",
+                    "download": "223551728"
+                }
+            },
+            "decryptionkey": "6136f07a45696857e7bb6281b6f1e457ccaa7ed602b4c2ac87359da973938e1b"
+        },
+        "397772": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5666207744535303467",
+                    "size": "778312868",
+                    "download": "224136336"
+                }
+            },
+            "decryptionkey": "fd3903acccbcfaa1444846193ba613eb55da9c445c7ccfc5b5a143c9396db46f"
+        },
+        "397773": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7668109495586708861",
+                    "size": "784657146",
+                    "download": "230495184"
+                }
+            },
+            "decryptionkey": "ede50e1189f3573269530b85dd4e3b89e4c955faf843456404e39a74262d0ae3"
+        },
+        "397774": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "655959046121767572",
+                    "size": "784656933",
+                    "download": "230495904"
+                }
+            },
+            "decryptionkey": "ceadfb18a337bfc0767f749458beb2706f0cccca0492f15380f9795546fd6340"
+        },
+        "397775": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3823481656053720926",
+                    "size": "776523811",
+                    "download": "222317344"
+                }
+            },
+            "decryptionkey": "b85c8ba17b7455418cdd6508308f912f2311d8462a7316c4f0d0ac9845e0b680"
+        },
+        "397776": {
+            "config": {
+                "language": "dutch",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "995554776559925138",
+                    "size": "784651469",
+                    "download": "230494944"
+                }
+            },
+            "decryptionkey": "8b634b6683401993be7720b65ad83cf2841e9bee042d77a893ed0dbe26c1d208"
+        },
+        "397777": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4434497990915523021",
+                    "size": "778431313",
+                    "download": "224283216"
+                }
+            },
+            "decryptionkey": "17c658d1d467f51190fd889d4c227e0ac170a572d1d025c44ec24174f057fefe"
+        },
+        "397778": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3757177638207077822",
+                    "size": "784651747",
+                    "download": "230494384"
+                }
+            },
+            "decryptionkey": "79efb23c304f5e4e96ea3c72a8c475ef0399d3c368c82d7414c077dfe6857647"
+        },
+        "397779": {
+            "config": {
+                "language": "swedish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2955350425492005868",
+                    "size": "784651198",
+                    "download": "230495008"
+                }
+            },
+            "decryptionkey": "30bb247ebc6cce053f536936dd52c59a917c668ef512260813b3a00ab11041e4"
+        },
+        "398060": {
+            "config": {
+                "language": "czech",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7408505416128713536",
+                    "size": "778451361",
+                    "download": "224303392"
+                }
+            },
+            "decryptionkey": "37c2db4c92979bd2d151e31b112b469010fcec87684db14279a6c0896471cf86"
+        },
+        "398061": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1001129802569542303",
+                    "size": "785724857",
+                    "download": "231235664"
+                }
+            },
+            "decryptionkey": "8590e479be600cde3d92be8a055a42fe2252dc3eedebb4ed2041a7ccc94a119b"
+        },
+        "398062": {
+            "config": {
+                "language": "koreana",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "902982928735234419",
+                    "size": "778411797",
+                    "download": "224108752"
+                }
+            },
+            "decryptionkey": "a6dfe02f721c5a0144f8489e2d5395af1ef2188c7a1aae190241a07e18c0bdb6"
+        },
+        "398063": {
+            "config": {
+                "language": "portuguese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8633829490379286642",
+                    "size": "784651453",
+                    "download": "230493488"
+                }
+            },
+            "decryptionkey": "6143326a7769e7b9f4d40520569935155efdcb7d8506dfd491aa43ffc63e9f43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "751548"
+            }
+        }
+    }
+}
