@@ -1,0 +1,65 @@
+{
+    "appid": 291390,
+    "name": "Three Dead Zed",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 02:54:14",
+    "change_number": 29870586,
+    "depot": {
+        "overridescddb": "1",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "291391": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5711917443180456245",
+                    "size": "293781207",
+                    "download": "998521593817"
+                }
+            },
+            "decryptionkey": "608e5dc21a53591bb8f42e64e780118884b63e2fd5bf2540df2f042f83f57306"
+        },
+        "291392": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4310694472060750508",
+                    "size": "665166863",
+                    "download": "4365994759211"
+                }
+            },
+            "decryptionkey": "a64cee753d8dffe807f3df924347119dc74ebe6f014ef0a9874565d6cd974c29"
+        },
+        "branches": {
+            "public": {
+                "buildid": "424179"
+            }
+        }
+    }
+}
