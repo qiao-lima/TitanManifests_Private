@@ -1,0 +1,31 @@
+{
+    "appid": 666960,
+    "name": "Cowboy's Adventure",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 02:16:40",
+    "change_number": 29534412,
+    "depot": {
+        "baselanguages": "english",
+        "666961": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3070877767531621906",
+                    "size": "412794082",
+                    "download": "161555280"
+                }
+            },
+            "decryptionkey": "eefa2210df961a33ac766a9fb07bdad5759abe0ab1342bac29bad7bf2e503b25"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1915249",
+                "timeupdated": "1498388896"
+            }
+        }
+    }
+}
