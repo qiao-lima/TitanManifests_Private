@@ -1,0 +1,47 @@
+{
+    "appid": 349440,
+    "name": "The Undying Plague",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 11:51:43",
+    "change_number": 30153765,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "349441": {
+            "manifests": {
+                "public": {
+                    "gid": "222832292914685487",
+                    "size": "36808896",
+                    "download": "29020000"
+                }
+            },
+            "decryptionkey": "8d9463e6eb2148ea7bb1c748da185a8628ac0fd6e1866d50ac1f2e5e2d8d48a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "709729"
+            }
+        }
+    }
+}
