@@ -1,0 +1,31 @@
+{
+    "appid": "432020",
+    "type": "Game",
+    "name": "What's under your blanket !?",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22332387",
+    "update_time": "2024-08-14 19:04:33",
+    "depot": {
+        "432021": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2852027679654328036",
+                    "size": "56268970",
+                    "download": "36915632"
+                }
+            },
+            "decryptionkey": "ce85503cd342b000b46e2efe165fc9859c9a5e6bdd5d37f49b597956d287dafc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "965601"
+            }
+        }
+    },
+    "access_token": 5753719037027511358
+}
