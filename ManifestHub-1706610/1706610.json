@@ -1,0 +1,28 @@
+{
+    "appid": 1706610,
+    "name": "PIXASSO",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 04:00:58",
+    "change_number": 29980009,
+    "depot": {
+        "1706611": {
+            "manifests": {
+                "public": {
+                    "gid": "864067532709679973",
+                    "size": "18704678",
+                    "download": "12035488"
+                }
+            },
+            "decryptionkey": "cf41b457d44abaa8303e07dbf554aac4a835b71fc646c838e713d84a86fc97da"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7112816",
+                "timeupdated": "1627641254"
+            }
+        }
+    },
+    "access_token": 15186213028434530662
+}
