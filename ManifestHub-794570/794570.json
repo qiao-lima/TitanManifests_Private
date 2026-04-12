@@ -1,0 +1,28 @@
+{
+    "appid": 794570,
+    "name": "XBall Champion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 22:13:51",
+    "change_number": 29813334,
+    "depot": {
+        "794571": {
+            "manifests": {
+                "public": {
+                    "gid": "8628686434959473350",
+                    "size": "88568548",
+                    "download": "22111264"
+                }
+            },
+            "decryptionkey": "e34eca97f762c957d975b3f43df303377d1ad1d043903cda1ec4588a5fb71085"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "2573280",
+                "timeupdated": "1520095133"
+            }
+        }
+    }
+}
