@@ -1,0 +1,165 @@
+{
+    "appid": 962380,
+    "name": "HOT FIT! / フィットしちゃお！～年上女性と汗だくレッスン初体験～",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-12 10:22:13",
+    "change_number": 30025633,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,japanese",
+        "workshopdepot": "962380",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "962381": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4685274468333016225",
+                    "size": "638283706",
+                    "download": "507772464"
+                },
+                "test": {
+                    "gid": "4685274468333016225",
+                    "size": "638283706",
+                    "download": "507772464"
+                }
+            },
+            "decryptionkey": "1ef89851103d2aa0b76e6857dd90a76d2d72df19fabe20b9d8316212c326e832"
+        },
+        "980370": {
+            "dlcappid": "980370",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3639996024053336551",
+                    "size": "219331413",
+                    "download": "185123024"
+                },
+                "test": {
+                    "gid": "3639996024053336551",
+                    "size": "219331413",
+                    "download": "185123024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "980390": {
+            "dlcappid": "980390",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8028402961206787330",
+                    "size": "288706127",
+                    "download": "248482832"
+                },
+                "test": {
+                    "gid": "8028402961206787330",
+                    "size": "288706127",
+                    "download": "248482832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "980400": {
+            "dlcappid": "980400",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9012706037355317510",
+                    "size": "201368208",
+                    "download": "170679648"
+                },
+                "test": {
+                    "gid": "9012706037355317510",
+                    "size": "201368208",
+                    "download": "170679648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "980410": {
+            "dlcappid": "980410",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "675596361615236533",
+                    "size": "247459334",
+                    "download": "209528688"
+                },
+                "test": {
+                    "gid": "675596361615236533",
+                    "size": "247459334",
+                    "download": "209528688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "980420": {
+            "dlcappid": "980420",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2469270921376358457",
+                    "size": "297433154",
+                    "download": "247875712"
+                },
+                "test": {
+                    "gid": "2469270921376358457",
+                    "size": "297433154",
+                    "download": "247875712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "980430": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "980430",
+            "manifests": {
+                "public": {
+                    "gid": "5196946487031381266",
+                    "size": "1239027212",
+                    "download": "1047185728"
+                },
+                "test": {
+                    "gid": "5196946487031381266",
+                    "size": "1239027212",
+                    "download": "1047185728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19103382",
+                "timeupdated": "1751608491"
+            },
+            "test": {
+                "buildid": "19103382",
+                "timeupdated": "1751605891"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
