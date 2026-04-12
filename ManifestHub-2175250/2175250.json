@@ -1,0 +1,32 @@
+{
+    "appid": 2175250,
+    "name": "Volley Court",
+    "type": "Game",
+    "schinese_name": "排球进阶指南",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 17:38:15",
+    "change_number": 29391014,
+    "depot": {
+        "baselanguages": "english",
+        "2175251": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5859663117293360847",
+                    "size": "711925982",
+                    "download": "180470160"
+                }
+            },
+            "decryptionkey": "991dc0d8a63323d29955729a6581789c4d745791002a582dc1fc394cea2ffe56"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18747784",
+                "timeupdated": "1749114949"
+            }
+        }
+    }
+}
