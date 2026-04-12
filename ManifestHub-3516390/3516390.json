@@ -1,0 +1,42 @@
+{
+    "appid": 3516390,
+    "name": "Slice & Dice: Pizza Shop Simulator Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 17:08:07",
+    "change_number": 29604512,
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3516391": {
+            "manifests": {
+                "public": {
+                    "gid": "6610460958373022002",
+                    "size": "1297554257",
+                    "download": "1123102624"
+                }
+            },
+            "decryptionkey": "caa081e34762c8ba0aa43270c5b773b5720cb22bf601cedae0a71dc48475f8c4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18894827",
+                "timeupdated": "1750151281"
+            }
+        }
+    }
+}
