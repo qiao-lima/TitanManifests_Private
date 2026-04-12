@@ -1,0 +1,28 @@
+{
+    "appid": 2375180,
+    "name": "Hypno-Mart",
+    "type": "Game",
+    "schinese_name": "催眠临时工",
+    "isfreeapp": 0,
+    "update_time": "2025-06-05 22:04:41",
+    "change_number": 29396981,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "2375181": {
+            "manifests": {
+                "public": {
+                    "gid": "6208811986853473826",
+                    "size": "352077583",
+                    "download": "312439424"
+                }
+            },
+            "decryptionkey": "d9b759b2de5a44942daadb87272008f15b098998d517ba741ef8522b8c88d443"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11049079",
+                "timeupdated": "1681989170"
+            }
+        }
+    }
+}
