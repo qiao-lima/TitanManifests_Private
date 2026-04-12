@@ -1,0 +1,40 @@
+{
+    "appid": 2202770,
+    "name": "Pizza Hero",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 03:12:59",
+    "change_number": 30218338,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2202771": {
+            "manifests": {
+                "public": {
+                    "gid": "1808303845320189349",
+                    "size": "223120365",
+                    "download": "91042000"
+                }
+            },
+            "decryptionkey": "2f15a59ba4a6bb8129f26d0b2fb954b0478582a7ab0fb73c286e148669383812"
+        },
+        "3763570": {
+            "dlcappid": "3763570",
+            "manifests": {
+                "public": {
+                    "gid": "5525998726450249303",
+                    "size": "11821061",
+                    "download": "11787008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18724189",
+                "timeupdated": "1748984357"
+            }
+        }
+    }
+}
