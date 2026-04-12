@@ -1,0 +1,29 @@
+{
+    "appid": 1953780,
+    "name": "純愛貓娘的同居生活",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 22:52:28",
+    "change_number": 30149915,
+    "depot": {
+        "1953781": {
+            "manifests": {
+                "public": {
+                    "gid": "77370965807328336",
+                    "size": "2033834479",
+                    "download": "635472112"
+                }
+            },
+            "decryptionkey": "1ae516ef0c808e8570f31c775c6020dd2a1626676c2e4a7508ae83c795262e22"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "11869433",
+                "timeupdated": "1691416783"
+            }
+        }
+    }
+}
