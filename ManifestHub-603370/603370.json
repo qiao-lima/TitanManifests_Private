@@ -1,0 +1,31 @@
+{
+    "appid": "603370",
+    "type": "Game",
+    "name": "Western FPS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26123174",
+    "update_time": "2024-11-10 01:18:39",
+    "depot": {
+        "603371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7260514296478192490",
+                    "size": "173940993",
+                    "download": "51406896"
+                }
+            },
+            "decryptionkey": "0f65d32423a7e0714f39de095e5a6648b110c929979f1febbeaa1c0fed1fb3be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2615084",
+                "timeupdated": "1521450265"
+            }
+        }
+    },
+    "access_token": 13735319754210000121
+}
