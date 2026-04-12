@@ -1,0 +1,41 @@
+{
+    "appid": 2467400,
+    "name": "ParryRobot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-03 19:29:49",
+    "change_number": 29340786,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2467401": {
+            "manifests": {
+                "public": {
+                    "gid": "552587799560714078",
+                    "size": "1380052119",
+                    "download": "286129440"
+                }
+            },
+            "decryptionkey": "f31055002de4ba4a6ca47c97add6d94f713b4789b6951de43423c052807871e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11638704",
+                "timeupdated": "1688637396"
+            }
+        }
+    }
+}
