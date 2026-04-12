@@ -1,0 +1,61 @@
+{
+    "appid": 933060,
+    "name": "Hentai Weed PuZZles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 11:12:48",
+    "change_number": 29553067,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "933061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6576356310398068707",
+                    "size": "297188736",
+                    "download": "95984448"
+                }
+            },
+            "decryptionkey": "a21fe1bb03230a05689b2d58bd82b9bb2b7c0b89c55e3d517cc189b57e0f8cef"
+        },
+        "933100": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8250136889625563514",
+                    "size": "86496248",
+                    "download": "70588288"
+                }
+            },
+            "dlcappid": "933100",
+            "decryptionkey": "8d25e0afae158605f4613b21d6471e9b2bb5810e80053eb7e6d900076655395f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3068230",
+                "timeupdated": "1535399325"
+            }
+        }
+    }
+}
