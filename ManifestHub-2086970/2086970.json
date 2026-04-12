@@ -1,0 +1,27 @@
+{
+    "appid": 2086970,
+    "name": "Angel's Awakening",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 00:59:21",
+    "change_number": 29468669,
+    "depot": {
+        "2086971": {
+            "manifests": {
+                "public": {
+                    "gid": "4949256610934310920",
+                    "size": "9987239456",
+                    "download": "3821718480"
+                }
+            },
+            "decryptionkey": "632f83c23b73879c61da9dc3b03b8fe5747c9ed29053dceaef78a6e6fe0683b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9441378",
+                "timeupdated": "1662132283"
+            }
+        }
+    }
+}
