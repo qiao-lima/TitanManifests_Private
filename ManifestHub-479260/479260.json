@@ -1,0 +1,32 @@
+{
+    "appid": "479260",
+    "type": "Game",
+    "name": "Cuties",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:11:02",
+    "depot": {
+        "479261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6969921137336273936",
+                    "size": "11971952",
+                    "download": "10866416"
+                }
+            },
+            "decryptionkey": "f405e784bca83d1556c571a61be41c308566aa305ad434bafec488949eba3efc"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "1146166",
+                "timeupdated": "1487695956"
+            }
+        }
+    },
+    "access_token": 9285333501215947729
+}
