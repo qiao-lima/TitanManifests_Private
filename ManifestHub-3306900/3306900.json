@@ -1,0 +1,28 @@
+{
+    "appid": 3306900,
+    "name": "A Few Days With Emma",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:46:58",
+    "change_number": 29764943,
+    "depot": {
+        "3306901": {
+            "manifests": {
+                "public": {
+                    "gid": "6017253586945541208",
+                    "size": "338383355",
+                    "download": "124900352"
+                }
+            },
+            "decryptionkey": "bacac10f69c176de233db4dfff9771f8269f8149b26f574a05d9a7b55de1c7fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19012237",
+                "timeupdated": "1750946632"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
