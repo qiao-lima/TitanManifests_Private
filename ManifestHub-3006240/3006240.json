@@ -1,0 +1,27 @@
+{
+    "appid": 3006240,
+    "name": "Polylylyrhythm",
+    "type": "Game",
+    "schinese_name": "交错错错错拍子",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 13:06:43",
+    "change_number": 29521302,
+    "depot": {
+        "3006241": {
+            "manifests": {
+                "public": {
+                    "gid": "7485871539433639422",
+                    "size": "265545558",
+                    "download": "54976512"
+                }
+            },
+            "decryptionkey": "92899804638121e9e3db7dafbaafd7a8055e8a12cdee4fc10fbe54b603c79db3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18673153",
+                "timeupdated": "1748604616"
+            }
+        }
+    }
+}
