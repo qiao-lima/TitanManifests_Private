@@ -1,0 +1,28 @@
+{
+    "appid": 1779230,
+    "name": "Hammer time!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-19 02:12:11",
+    "change_number": 29051120,
+    "depot": {
+        "1779231": {
+            "manifests": {
+                "public": {
+                    "gid": "7105224131610216913",
+                    "size": "11768832",
+                    "download": "6558960"
+                }
+            },
+            "decryptionkey": "ed6da2adec0128bc590b57e7e9059ed565d7fd82b06c2c816bab89117086883f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7463616",
+                "timeupdated": "1633118183"
+            }
+        }
+    },
+    "access_token": 14469887275691401897
+}
