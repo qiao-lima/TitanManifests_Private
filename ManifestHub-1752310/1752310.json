@@ -1,0 +1,28 @@
+{
+    "appid": 1752310,
+    "name": "RPG Maker MZ - Retro Game Console Sound BGM Set",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:48:59",
+    "change_number": 26201212,
+    "depot": {
+        "1752310": {
+            "dlcappid": "1752310",
+            "manifests": {
+                "public": {
+                    "gid": "6013363504256018995",
+                    "size": "88672569",
+                    "download": "59221248"
+                }
+            },
+            "decryptionkey": "4aae2e539c3ddc7c507314294e4f9db054b7b11cd9dd6493b5edda2fa4272fc0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7314928",
+                "timeupdated": "1630989924"
+            }
+        }
+    }
+}
