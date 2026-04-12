@@ -1,0 +1,43 @@
+{
+    "appid": 1599780,
+    "name": "Afterlove EP",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 16:55:38",
+    "change_number": 29863452,
+    "depot": {
+        "1599781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6591295280221288850",
+                    "size": "5205622653",
+                    "download": "2719583824"
+                }
+            },
+            "decryptionkey": "7f040a1f00b276e19dc53c2c92828047371b4b63ded93eec07754fbfc785f586"
+        },
+        "3407400": {
+            "dlcappid": "3407400",
+            "manifests": {
+                "public": {
+                    "gid": "8163407596512741424",
+                    "size": "109927549",
+                    "download": "100070688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18983016",
+                "timeupdated": "1750780671"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
