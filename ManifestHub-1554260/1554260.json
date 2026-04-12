@@ -1,0 +1,31 @@
+{
+    "appid": 1554260,
+    "name": "Knightly Passions",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:26:48",
+    "change_number": 29288740,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1554261": {
+            "manifests": {
+                "public": {
+                    "gid": "881930456672526135",
+                    "size": "1144897625",
+                    "download": "923103200"
+                }
+            },
+            "decryptionkey": "f021768abc75d753fe480052bfb61d9e6cf6274bcab55b34a3ef65802c74e3cb"
+        },
+        "2919801": {
+            "dlcappid": "2919800"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18677014",
+                "timeupdated": "1748623077"
+            }
+        }
+    }
+}
