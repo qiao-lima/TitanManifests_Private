@@ -1,0 +1,46 @@
+{
+    "appid": 3270130,
+    "name": "Chroma Zero Demo",
+    "type": "Demo",
+    "schinese_name": "色度零 Chroma Zero Demo",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 13:24:53",
+    "change_number": 29275591,
+    "depot": {
+        "baselanguages": "english,german,koreana,spanish,schinese,japanese,polish,dutch,brazilian,ukrainian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3270131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7644826196709474595",
+                    "size": "611303347",
+                    "download": "479934832"
+                }
+            },
+            "decryptionkey": "4c177dca2c27a814ef8bc93fba2a348b6bde21eb640899ac934cd23cb8f343ab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18668454",
+                "timeupdated": "1748577370"
+            }
+        }
+    }
+}
