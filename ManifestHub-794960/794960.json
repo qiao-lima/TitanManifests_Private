@@ -1,0 +1,61 @@
+{
+    "appid": 794960,
+    "name": "The Sojourn",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 19:29:21",
+    "change_number": 30095572,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "794961": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "940714933356046918",
+                    "size": "2573379451",
+                    "download": "2383999616"
+                }
+            },
+            "decryptionkey": "d6752444bdc33b033712d98e7c5ffc7ec44cc5befe3011b412d32af3165c3486"
+        },
+        "1396270": {
+            "dlcappid": "1396270",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1455162071788174969",
+                    "size": "1520986624",
+                    "download": "644076320"
+                }
+            },
+            "decryptionkey": "6725fee2aa967c0a0ab3c04c5efa7e7e7028b1ce64b9b8b66e964a44897a67fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5602579",
+                "timeupdated": "1601236342"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
