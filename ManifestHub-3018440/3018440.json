@@ -1,0 +1,29 @@
+{
+    "appid": 3018440,
+    "name": "VTOL VR Mod Uploader",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 21:34:27",
+    "change_number": 29710904,
+    "depot": {
+        "3018441": {
+            "manifests": {
+                "public": {
+                    "gid": "4225017889775118772",
+                    "size": "109977855",
+                    "download": "36635488"
+                }
+            },
+            "decryptionkey": "5ba594e67461ef09fbc9984c4cc68d87a82efeaaaa5bb0991115ba24af487d98"
+        },
+        "workshopdepot": "3018440",
+        "branches": {
+            "public": {
+                "buildid": "18970217",
+                "timeupdated": "1750710859"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
