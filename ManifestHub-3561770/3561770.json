@@ -1,0 +1,48 @@
+{
+    "appid": 3561770,
+    "name": "イル・ドー",
+    "type": "Game",
+    "schinese_name": "黄金之岛",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 05:52:04",
+    "change_number": 30160913,
+    "depot": {
+        "baselanguages": "japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3561771": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3083865944663930741",
+                    "size": "1853243383",
+                    "download": "1420102576"
+                }
+            },
+            "decryptionkey": "7e348a4267151d68fa1b4bd51cab9d743124e9865d4dcb6f78728d5e40c14992"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19022078",
+                "timeupdated": "1751021495"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
