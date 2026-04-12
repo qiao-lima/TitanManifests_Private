@@ -1,0 +1,28 @@
+{
+    "appid": 2747550,
+    "name": "Bloodshed",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 10:52:20",
+    "change_number": 30164323,
+    "depot": {
+        "2747551": {
+            "manifests": {
+                "public": {
+                    "gid": "9220421746276315878",
+                    "size": "4296133421",
+                    "download": "900035296"
+                }
+            },
+            "decryptionkey": "998a98d376ce8a31aebac65ed4f83820283eaabac8258057bdd7052812b2cb30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19229912",
+                "timeupdated": "1752590278"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
