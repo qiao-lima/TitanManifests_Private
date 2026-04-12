@@ -1,0 +1,28 @@
+{
+    "appid": "448260",
+    "type": "Game",
+    "name": "Cubium Dreams",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24465136",
+    "update_time": "2024-08-14 19:06:35",
+    "depot": {
+        "448261": {
+            "manifests": {
+                "public": {
+                    "gid": "372113862592650182",
+                    "size": "162410339",
+                    "download": "67309968"
+                }
+            },
+            "decryptionkey": "b45b01083c8a04d5a80973f21cb398eec5d52cf7dae179bc42d157e9e1ed4287"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1100934",
+                "timeupdated": "1461863664"
+            }
+        }
+    },
+    "access_token": 9623406241075730869
+}
