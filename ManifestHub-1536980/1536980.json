@@ -1,0 +1,45 @@
+{
+    "appid": 1536980,
+    "name": "Glass Masquerade 3: Honeylines",
+    "type": "Game",
+    "schinese_name": "玻璃假面舞会3",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 02:11:40",
+    "change_number": 29923156,
+    "depot": {
+        "1536981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1701491979482603462",
+                    "size": "501500026",
+                    "download": "177795680"
+                }
+            },
+            "decryptionkey": "79d44fbaab425191d7d4dae87062773e4021c88156b2bd41d6c2e3c6d750458e"
+        },
+        "1536982": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "270267589188764449",
+                    "size": "536043424",
+                    "download": "188749232"
+                }
+            },
+            "decryptionkey": "ae0e6259d8dcb6b204d425c18874c6a916136698f3b2d8af34521c2bf660c450"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18223799",
+                "timeupdated": "1745511441"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
