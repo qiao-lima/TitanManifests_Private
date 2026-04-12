@@ -1,0 +1,30 @@
+{
+    "appid": 2315010,
+    "name": "Farming Tractor Simulator: Big Farm",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-15 18:16:06",
+    "change_number": 29573212,
+    "depot": {
+        "2315011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3937340011762828534",
+                    "size": "574576864",
+                    "download": "205273104"
+                }
+            },
+            "decryptionkey": "383f85f799717a2e97601933428795249ccb466e031b910ae82590043d63bba2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10506207",
+                "timeupdated": "1675865906"
+            }
+        }
+    }
+}
