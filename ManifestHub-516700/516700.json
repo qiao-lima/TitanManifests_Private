@@ -1,0 +1,31 @@
+{
+    "appid": "516700",
+    "type": "Game",
+    "name": "Zombie Boom",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:14:11",
+    "depot": {
+        "516701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8317284443415565211",
+                    "size": "99677560",
+                    "download": "54123104"
+                }
+            },
+            "decryptionkey": "2143776d3977e71a37eb89fa5c953da2570ffed82dd5c47dab588907efbe0e6c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1530780",
+                "timeupdated": "1482233522"
+            }
+        }
+    },
+    "access_token": 14379707159225492173
+}
