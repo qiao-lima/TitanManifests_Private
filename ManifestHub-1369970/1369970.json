@@ -1,0 +1,28 @@
+{
+    "appid": 1369970,
+    "name": "Infinite Mana",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 00:29:24",
+    "change_number": 29977649,
+    "depot": {
+        "baselanguages": "english",
+        "1369971": {
+            "manifests": {
+                "public": {
+                    "gid": "1302985395848169732",
+                    "size": "1233215024",
+                    "download": "835795264"
+                }
+            },
+            "decryptionkey": "6d720b6b8c3313de422469784a69b9f3e35c171c9fd38ed48f481029db65a7ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19167569",
+                "timeupdated": "1752103760"
+            }
+        }
+    }
+}
