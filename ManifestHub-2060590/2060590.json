@@ -1,0 +1,44 @@
+{
+    "appid": 2060590,
+    "name": "Wilmot Works It Out",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 18:08:08",
+    "change_number": 29846822,
+    "depot": {
+        "2060591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2384497608111936488",
+                    "size": "497245787",
+                    "download": "389856880"
+                }
+            },
+            "decryptionkey": "18a0a833e24ee4b4cf0441b97fc2d84f3901ab6db4509c12a6a495a619396acf"
+        },
+        "2060592": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "648293155329007285",
+                    "size": "545418742",
+                    "download": "402432496"
+                }
+            },
+            "decryptionkey": "1e2fdd03be925b90bb731c0c80c3b3f97c7bbe54c16ca404fe57125428509cf1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18269807",
+                "timeupdated": "1747157305"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
