@@ -1,0 +1,57 @@
+{
+    "appid": 1569580,
+    "name": "Blue Prince",
+    "type": "Game",
+    "schinese_name": "蓝途王子",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 23:31:19",
+    "change_number": 30039523,
+    "depot": {
+        "1569581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "422627518555786270",
+                    "size": "5320742521",
+                    "download": "4002784928"
+                }
+            },
+            "decryptionkey": "31965c819c33220b429da9fb8d633a2620f3b2b9e5f7ad47380878b719d85861"
+        },
+        "1569582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "606925973583177863",
+                    "size": "3193618596",
+                    "download": "1181455984"
+                }
+            }
+        },
+        "1569583": {
+            "config": {
+                "oslist": "windows",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3231140094273368846",
+                    "size": "3819936760",
+                    "download": "2545749536"
+                }
+            },
+            "decryptionkey": "6dc8f52fe7e1127a4c9a0da6a7fee1874d73046b9b1678d92037c85e7feaef9a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18936809",
+                "timeupdated": "1750441343"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
