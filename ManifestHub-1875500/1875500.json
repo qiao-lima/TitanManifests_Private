@@ -1,0 +1,48 @@
+{
+    "appid": 1875500,
+    "name": "Treason Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:31:46",
+    "change_number": 29731111,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1875501": {
+            "manifests": {
+                "public": {
+                    "gid": "7800804009900120660",
+                    "size": "2299594098",
+                    "download": "1116925248"
+                }
+            },
+            "decryptionkey": "a3553677696a6893d3a61639a91d5dc3d9da198842f24bfcfd0375749f41540f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18903866",
+                "timeupdated": "1750198339"
+            }
+        }
+    }
+}
