@@ -1,0 +1,38 @@
+{
+    "appid": 384500,
+    "name": "Zombie Party",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:23:46",
+    "change_number": 29669942,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "384501": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "389075317113648972",
+                    "size": "296977175",
+                    "download": "230294336"
+                }
+            },
+            "decryptionkey": "2910af6620c60054d9ff2ae2034585cb95701fc77afd6bcfe551d6752ed98c45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2967840",
+                "timeupdated": "1532324234"
+            }
+        }
+    }
+}
