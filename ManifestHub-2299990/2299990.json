@@ -1,0 +1,27 @@
+{
+    "appid": 2299990,
+    "name": "Into the Wonderland",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 09:12:46",
+    "change_number": 30033975,
+    "depot": {
+        "2299991": {
+            "manifests": {
+                "public": {
+                    "gid": "6596994262424611303",
+                    "size": "277984645",
+                    "download": "196182368"
+                }
+            },
+            "decryptionkey": "612dc979810aa889f66393d95db34276d44d092f3f48dac28a1139a4cdd51aff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10418078",
+                "timeupdated": "1674825343"
+            }
+        }
+    }
+}
