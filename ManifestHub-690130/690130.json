@@ -1,0 +1,58 @@
+{
+    "appid": 690130,
+    "name": "FlatFatCat",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:12:44",
+    "change_number": 30056467,
+    "depot": {
+        "baselanguages": "english,german,spanish,russian,polish",
+        "hasdepotsindlc": "0",
+        "690131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1056119987862635778",
+                    "size": "109068031",
+                    "download": "84913488"
+                }
+            },
+            "decryptionkey": "93143799d67ae1c050fc1c927b2249136c30ac9bbc446989686555fabf2ffd26"
+        },
+        "690132": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3740845831079041968",
+                    "size": "111957294",
+                    "download": "86261792"
+                }
+            },
+            "decryptionkey": "9ffaaa97b6590bce76add90ec48ea0623e0f0e1d6a6d5298fb2fbde56bcbfcd1"
+        },
+        "690133": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1978214436538303257",
+                    "size": "117149181",
+                    "download": "86922624"
+                }
+            },
+            "decryptionkey": "45e8692352a2dbfe8c1cf7aa344b151fee55bcbde1737168348f397cf1f8df18"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6565151",
+                "timeupdated": "1618847694"
+            }
+        }
+    }
+}
