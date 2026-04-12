@@ -1,0 +1,31 @@
+{
+    "appid": 1523720,
+    "name": "Cook-Out",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 13:52:49",
+    "change_number": 30154456,
+    "depot": {
+        "1523721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2782423008754012858",
+                    "size": "851253715",
+                    "download": "657711632"
+                }
+            },
+            "decryptionkey": "ea15734f4ea53d5e88df22b319f8fce3ecb126f4968c54e898d4ee384b1a8ace"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19024007",
+                "timeupdated": "1751017163"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
