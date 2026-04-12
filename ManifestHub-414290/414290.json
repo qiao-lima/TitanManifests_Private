@@ -1,0 +1,52 @@
+{
+    "appid": "414290",
+    "type": "Game",
+    "name": "Princess.Loot.Pixel.Again",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:00:43",
+    "depot": {
+        "414291 ": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "414291": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5086127556935332949",
+                    "size": "90407581",
+                    "download": "71357392"
+                }
+            },
+            "decryptionkey": "e71773b8254cbf446e9ebf988df8eafdb9d217bed1b26f29f505d19b51fffbc4"
+        },
+        "456040": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5096542175948997908",
+                    "size": "35170639",
+                    "download": "31595040"
+                }
+            },
+            "dlcappid": "456040",
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "1076002",
+                "timeupdated": "1460715850"
+            }
+        }
+    },
+    "access_token": 1913695037036115797
+}
