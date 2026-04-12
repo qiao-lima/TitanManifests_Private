@@ -1,0 +1,52 @@
+{
+    "appid": 3249050,
+    "name": "Tap 4 Sex",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 19:56:40",
+    "change_number": 30075325,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3249051": {
+            "manifests": {
+                "public": {
+                    "gid": "3104353432121327083",
+                    "size": "570546583",
+                    "download": "480360160"
+                },
+                "tests": {
+                    "gid": "3104353432121327083",
+                    "size": "570546583",
+                    "download": "480360160"
+                }
+            },
+            "decryptionkey": "fd15f7e4566aef8ab5ac7b08f42cd6e357cffe18d894de30cdcc800cca25de94"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "19234201",
+                "timeupdated": "1752605795"
+            },
+            "tests": {
+                "buildid": "19234201",
+                "description": "Tests Branch",
+                "timeupdated": "1752604754"
+            }
+        }
+    }
+}
