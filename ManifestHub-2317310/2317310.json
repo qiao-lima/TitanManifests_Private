@@ -1,0 +1,32 @@
+{
+    "appid": 2317310,
+    "name": "Hentai　HOTLADY",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 17:33:55",
+    "change_number": 29546192,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "2317311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8677830605492382086",
+                    "size": "731262326",
+                    "download": "634504016"
+                }
+            },
+            "decryptionkey": "2e5fca482ddc42a465d19a83846901c507864022ac09831ae18890989dc343d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18836665",
+                "timeupdated": "1749714729"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
