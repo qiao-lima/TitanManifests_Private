@@ -1,0 +1,31 @@
+{
+    "appid": 790800,
+    "name": "Ascent Spirit",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 22:21:30",
+    "change_number": 29669866,
+    "depot": {
+        "790801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6785791687901827657",
+                    "size": "1212461533",
+                    "download": "370044288"
+                }
+            },
+            "decryptionkey": "86eb263f5e72a26ac1f4de6486f1d809324edffa3f8c9e946d288f247ef60847"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2512461",
+                "timeupdated": "1518188461"
+            }
+        }
+    }
+}
