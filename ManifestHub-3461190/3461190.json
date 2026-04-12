@@ -1,0 +1,27 @@
+{
+    "appid": 3461190,
+    "name": "Magatch",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 06:16:33",
+    "change_number": 29638053,
+    "depot": {
+        "3461191": {
+            "manifests": {
+                "public": {
+                    "gid": "491560283280456965",
+                    "size": "129004253",
+                    "download": "88542064"
+                }
+            },
+            "decryptionkey": "230fb5ce0f907bf948ab99b7547effcf1e8defc2d6e6c2d06cd42b7afc64424f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17013633",
+                "timeupdated": "1736949232"
+            }
+        }
+    }
+}
