@@ -1,0 +1,28 @@
+{
+    "appid": 1634701,
+    "name": "SAMURAI WARRIORS 5 - Additional Horse \"Armor Coat\"",
+    "type": "DLC",
+    "schinese_name": "战国无双５ - 追加军马“铠缠”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:15:34",
+    "change_number": 26201212,
+    "depot": {
+        "1634701": {
+            "manifests": {
+                "public": {
+                    "gid": "7652796538222034124",
+                    "size": "524",
+                    "download": "352"
+                }
+            },
+            "dlcappid": "1634701",
+            "decryptionkey": "8ac5bc8173fc0b52e903685049d038784226e09e121fedadf884a9ac1f8bf94f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6933383",
+                "timeupdated": "1624626878"
+            }
+        }
+    }
+}
