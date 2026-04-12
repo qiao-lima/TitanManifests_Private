@@ -1,0 +1,43 @@
+{
+    "appid": 753650,
+    "name": "Due Process",
+    "type": "Game",
+    "schinese_name": "正当程序",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 00:19:36",
+    "change_number": 30140833,
+    "depot": {
+        "baselanguages": "english",
+        "753651": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2759904667273120104",
+                    "size": "8430698601",
+                    "download": "5378541248"
+                },
+                "public-test-environment": {
+                    "gid": "2759904667273120104",
+                    "size": "8430698601",
+                    "download": "5378541248"
+                }
+            },
+            "decryptionkey": "1c92c17e8d55c9e13845ae0587a9314cec99ae02d85a42fd865fa2138ca171d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19281059",
+                "timeupdated": "1752880772"
+            },
+            "public-test-environment": {
+                "buildid": "19281059",
+                "description": "Unfinished features currently in testing",
+                "timeupdated": "1752880603"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
