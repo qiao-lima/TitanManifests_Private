@@ -1,0 +1,41 @@
+{
+    "appid": 1974220,
+    "name": "Eden Island",
+    "type": "Game",
+    "schinese_name": "伊甸岛",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 13:52:21",
+    "change_number": 30166908,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1974221": {
+            "manifests": {
+                "public": {
+                    "gid": "7350848601951308717",
+                    "size": "3130382361",
+                    "download": "2910069856"
+                }
+            },
+            "decryptionkey": "d04501cf6168b2a41828b4c38e4ed25fe56e64d561e099b2d9f216d5430612b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18922200",
+                "timeupdated": "1750319878"
+            }
+        }
+    }
+}
