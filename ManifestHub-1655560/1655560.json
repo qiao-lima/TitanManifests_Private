@@ -1,0 +1,27 @@
+{
+    "appid": 1655560,
+    "name": "Speeder",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 17:15:15",
+    "change_number": 29790853,
+    "depot": {
+        "1655561": {
+            "manifests": {
+                "public": {
+                    "gid": "9060554868993286414",
+                    "size": "67966575",
+                    "download": "22214496"
+                }
+            },
+            "decryptionkey": "546ddb3fb5936709a8d36c17692c2eda98c6775819a65579beb806e7dd592527"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6792257",
+                "timeupdated": "1622544757"
+            }
+        }
+    }
+}
