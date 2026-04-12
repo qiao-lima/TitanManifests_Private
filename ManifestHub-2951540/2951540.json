@@ -1,0 +1,29 @@
+{
+    "appid": 2951540,
+    "name": "SILENT HILL 2 - Artbook",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 16:30:04",
+    "change_number": 25579601,
+    "depot": {
+        "2951541": {
+            "manifests": {
+                "public": {
+                    "gid": "4181790107554818304",
+                    "size": "395073872",
+                    "download": "224601584"
+                }
+            },
+            "dlcappid": "2951540",
+            "decryptionkey": "e089852efbe924984e137b7c02cf0f4d4481f091625dd22b61be2e5ffd02b994"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15663775",
+                "timeupdated": "1726056750"
+            }
+        }
+    },
+    "access_token": 3447079396028723161
+}
