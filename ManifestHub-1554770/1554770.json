@@ -1,0 +1,38 @@
+{
+    "appid": 1554770,
+    "name": "Last Standing",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:20:01",
+    "change_number": 29281608,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1554771": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3968113031104153538",
+                    "size": "455769011",
+                    "download": "64024544"
+                }
+            },
+            "decryptionkey": "002244ad392b9906569f50fd19c09eb876da71cea590aa8a8bcd3d22537023d9"
+        },
+        "1606230": {
+            "dlcappid": "1606230",
+            "config": {
+                "language": "english"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6698481",
+                "timeupdated": "1620974811"
+            }
+        }
+    }
+}
