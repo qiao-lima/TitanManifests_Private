@@ -1,0 +1,42 @@
+{
+    "appid": 2189670,
+    "name": "The Black Pool",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 15:31:34",
+    "change_number": 30013442,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2189671": {
+            "manifests": {
+                "public": {
+                    "gid": "2330864017629993601",
+                    "size": "25065794320",
+                    "download": "23959055312"
+                }
+            },
+            "decryptionkey": "afd10f48bc4fbc58fb2d395ed077b9caa8bda667587d27eceddd5702de1ae9d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17243506",
+                "timeupdated": "1738713784"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
