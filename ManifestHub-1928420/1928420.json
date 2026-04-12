@@ -1,0 +1,46 @@
+{
+    "appid": 1928420,
+    "name": "Farlight 84",
+    "type": "Game",
+    "schinese_name": "远光84",
+    "isfreeapp": 1,
+    "update_time": "2025-07-19 21:18:06",
+    "change_number": 30149362,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "1928421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2537571453520599546",
+                    "size": "16777590145",
+                    "download": "15949246384"
+                }
+            },
+            "decryptionkey": "1b831225fde5b44f7f354180183f732b4feb59c016faa3362e792bf9d455b294"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18963929",
+                "timeupdated": "1751873616"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
