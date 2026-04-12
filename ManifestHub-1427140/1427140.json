@@ -1,0 +1,27 @@
+{
+    "appid": 1427140,
+    "name": "Among School Girls",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-09 23:23:24",
+    "change_number": 29466052,
+    "depot": {
+        "1427141": {
+            "manifests": {
+                "public": {
+                    "gid": "7106063113132340935",
+                    "size": "85295884",
+                    "download": "20632784"
+                }
+            },
+            "decryptionkey": "ffb4b074e26666dbfe562e4b0086038fffd9ac675445050d3066c93909208f9a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5558684",
+                "timeupdated": "1600358252"
+            }
+        }
+    }
+}
