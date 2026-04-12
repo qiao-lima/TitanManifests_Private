@@ -1,0 +1,27 @@
+{
+    "appid": 1833380,
+    "name": "Izmir: An Independence Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:00:13",
+    "change_number": 29727047,
+    "depot": {
+        "1833381": {
+            "manifests": {
+                "public": {
+                    "gid": "5080873257961708640",
+                    "size": "1253641619",
+                    "download": "474940976"
+                }
+            },
+            "decryptionkey": "bf985d073c3a11027a830dbe8f2d84b14dd430bafe44a9b16dedacec253fee43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8651888",
+                "timeupdated": "1651258738"
+            }
+        }
+    }
+}
