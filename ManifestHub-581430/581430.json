@@ -1,0 +1,43 @@
+{
+    "appid": "581430",
+    "type": "Game",
+    "name": "Triangle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27149869",
+    "update_time": "2025-01-24 21:29:12",
+    "depot": {
+        "581431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3827637535669084828",
+                    "size": "109982189",
+                    "download": "40809424"
+                }
+            },
+            "decryptionkey": "65c8191044ced0b3456011ccef2339cd2198b67f1a2eade87389fe1158fd5703"
+        },
+        "581432": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2879396433926276736",
+                    "size": "154832992",
+                    "download": "45370000"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1570476",
+                "timeupdated": "1484509211"
+            }
+        }
+    },
+    "access_token": 10654285510191916299
+}
