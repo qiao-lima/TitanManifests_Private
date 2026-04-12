@@ -1,0 +1,27 @@
+{
+    "appid": 1974310,
+    "name": "Airport Administrator Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:30:49",
+    "change_number": 29655649,
+    "depot": {
+        "1974311": {
+            "manifests": {
+                "public": {
+                    "gid": "5765690486912048322",
+                    "size": "159961839",
+                    "download": "32536112"
+                }
+            },
+            "decryptionkey": "6de0424f37d65fb0748404852b42871a0b01a262e12616680e84de660e297213"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8576521",
+                "timeupdated": "1650302810"
+            }
+        }
+    }
+}
