@@ -1,0 +1,38 @@
+{
+    "appid": 1491670,
+    "name": "Venba",
+    "type": "Game",
+    "schinese_name": "薇妮巴一家",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 16:26:48",
+    "change_number": 29971145,
+    "depot": {
+        "1491671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8051712756163946134",
+                    "size": "1165676928",
+                    "download": "571529392"
+                }
+            },
+            "decryptionkey": "09dc31cd91dfdb17e84c1a025f2cbb38913889fac35ab621a1edb11e6eb66f6d"
+        },
+        "1491672": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18888215",
+                "timeupdated": "1750189065"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
