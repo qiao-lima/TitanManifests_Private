@@ -1,0 +1,36 @@
+{
+    "appid": 307950,
+    "name": "Caliber",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-12 18:11:07",
+    "change_number": 30029281,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "307951": {
+            "manifests": {
+                "public": {
+                    "gid": "912771731167193643",
+                    "size": "61167939270",
+                    "download": "32249098208"
+                }
+            },
+            "decryptionkey": "70bc1392b20dcf9bb99cda6f727f5e4b76a6e6ec8f89387c23c65026eab97076"
+        },
+        "baselanguages": "english,schinese,russian,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18900289",
+                "timeupdated": "1750236152"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
