@@ -1,0 +1,28 @@
+{
+    "appid": 3040560,
+    "name": "Elite Exorcist Miko",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 21:15:04",
+    "change_number": 29849131,
+    "depot": {
+        "3040561": {
+            "manifests": {
+                "public": {
+                    "gid": "5727498350601710227",
+                    "size": "354535211",
+                    "download": "181415680"
+                }
+            },
+            "decryptionkey": "9c72d9ba7bb49316b56c5f8448248757c1cc213d57cc01bcc4c9c49935cdbdb5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18690786",
+                "timeupdated": "1748761507"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
