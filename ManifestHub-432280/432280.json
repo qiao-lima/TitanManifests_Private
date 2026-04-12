@@ -1,0 +1,34 @@
+{
+    "appid": "432280",
+    "type": "Game",
+    "name": "BattleStorm",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:04:37",
+    "depot": {
+        "baselanguages": "english",
+        "432281": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2117790808239107352",
+                    "size": "2828833250",
+                    "download": "1035496128"
+                }
+            },
+            "decryptionkey": "27fb05f62748668c048c1d49fa8e5cffbc746bc720f47532feef311b5ef003eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1426671",
+                "timeupdated": "1477825927"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 1880642107406518280
+}
