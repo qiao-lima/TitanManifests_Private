@@ -1,0 +1,29 @@
+{
+    "appid": 2356500,
+    "name": "Cats Hidden in Bali",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 15:21:18",
+    "change_number": 29644286,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2356501": {
+            "manifests": {
+                "public": {
+                    "gid": "6040411246644421466",
+                    "size": "77197078",
+                    "download": "55726928"
+                }
+            },
+            "decryptionkey": "3fe4f5b5e35928b2092616b950f076e0a4a489b39bb866803851468eee847b70"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18822307",
+                "timeupdated": "1749632146"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
