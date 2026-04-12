@@ -1,0 +1,61 @@
+{
+    "appid": 2516360,
+    "name": "Nonsensical Video Generator",
+    "type": "Application",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-21 12:24:11",
+    "change_number": 29679128,
+    "depot": {
+        "workshopdepot": "2516360",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2516361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2438859194764024868",
+                    "size": "676673564",
+                    "download": "258970400"
+                },
+                "upcoming": {
+                    "gid": "64927086263379314",
+                    "size": "884121105",
+                    "download": "298041840"
+                },
+                "previous": {
+                    "gid": "3572548574808110799",
+                    "size": "677199517",
+                    "download": "258971440"
+                }
+            },
+            "decryptionkey": "779f27dc4de99eec1b8ed7a9ac3a70bc85c571ac15f944b3c8da2f9441cfca2a"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18462869",
+                "timeupdated": "1747237745"
+            },
+            "upcoming": {
+                "buildid": "18946841",
+                "description": " Upcoming changes for testing",
+                "timeupdated": "1750471339"
+            },
+            "previous": {
+                "buildid": "18390590",
+                "description": "Previous build rollback",
+                "timeupdated": "1747237727"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "09daf2b8cbecda5e32cff45a20fd36556d55965f6c605a48ebb531b1be1bb8b4"
+    }
+}
