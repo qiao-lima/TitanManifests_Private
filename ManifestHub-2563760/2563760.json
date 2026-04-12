@@ -1,0 +1,53 @@
+{
+    "appid": 2563760,
+    "name": "BMX Bastards",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 03:11:29",
+    "change_number": 30040980,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2563761": {
+            "manifests": {
+                "public": {
+                    "gid": "7808982587466335337",
+                    "size": "4323608933",
+                    "download": "4139606144"
+                },
+                "newphysicstesting": {
+                    "gid": "615157006934373250",
+                    "size": "4708220302",
+                    "download": "4524261408"
+                }
+            },
+            "decryptionkey": "8b08639d48243075627c3a67336803861405ee66784880fa8c21083f7ff5aaf6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16432808",
+                "timeupdated": "1731794771"
+            },
+            "newphysicstesting": {
+                "buildid": "18847950",
+                "description": "Test branch",
+                "timeupdated": "1749772978"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
