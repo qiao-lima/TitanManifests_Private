@@ -1,0 +1,67 @@
+{
+    "appid": 2167580,
+    "name": "Summoners War: Chronicles",
+    "type": "Game",
+    "schinese_name": "魔灵召唤: 克罗尼柯战记",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 03:02:38",
+    "change_number": 30218210,
+    "depot": {
+        "baselanguages": "english,koreana",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2167581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6181887633534430169",
+                    "size": "16760029510",
+                    "download": "14645852800"
+                }
+            },
+            "decryptionkey": "07bd2df5442b7d2faf3290d37c5faa84da8fdcad286d5eec8339b3a61d1226c6"
+        },
+        "2167582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3726379873958342762",
+                    "size": "15731958360",
+                    "download": "13845014736"
+                }
+            },
+            "decryptionkey": "9e28d1dfe8c8e44fc1523d7ca9b6d3525eef3b62b28e562cf5ce01eb8618bbf0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19313805",
+                "timeupdated": "1753322554"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
