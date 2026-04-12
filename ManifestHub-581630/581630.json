@@ -1,0 +1,77 @@
+{
+    "appid": 581630,
+    "name": "Sword With Sauce",
+    "type": "Game",
+    "schinese_name": "剑与汁：阿尔法",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 04:59:00",
+    "change_number": 29404540,
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "581630",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "581632": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8993458009248990153",
+                    "size": "2040969724",
+                    "download": "448807568"
+                }
+            },
+            "decryptionkey": "fa70fd2c20ba87ed2d6081b5d9e33aef3ecaff72a3fb07c40514181722a8ee51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17312018",
+                "timeupdated": "1739218982"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
