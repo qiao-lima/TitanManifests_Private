@@ -1,0 +1,33 @@
+{
+    "appid": 2707040,
+    "name": "KRAMPEN",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 20:13:43",
+    "change_number": 29912859,
+    "depot": {
+        "baselanguages": "russian",
+        "hasdepotsindlc": "1",
+        "2707041": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7667496400448432525",
+                    "size": "482335081",
+                    "download": "482869136"
+                }
+            },
+            "decryptionkey": "e1b0e5b1f5a1ba85ff8768b54bae3e3892fd8984e96f83582b944a94d300a63c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17818986",
+                "timeupdated": "1742629879"
+            }
+        }
+    }
+}
