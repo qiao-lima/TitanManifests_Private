@@ -1,0 +1,28 @@
+{
+    "appid": 892392,
+    "name": "Diaochan (Dudou Costume)/貂蝉「肚兜風コスチューム」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:06",
+    "change_number": 26201212,
+    "depot": {
+        "892392": {
+            "manifests": {
+                "public": {
+                    "gid": "5650584209348861618",
+                    "size": "41683636",
+                    "download": "41593424"
+                }
+            },
+            "dlcappid": "892392",
+            "decryptionkey": "13c3fc1f15dec088f5391a254ff6d943c7524c995c439e64a4f2ddc4026be8ab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2904248",
+                "timeupdated": "1530235753"
+            }
+        }
+    }
+}
