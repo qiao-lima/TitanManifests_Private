@@ -1,0 +1,86 @@
+{
+    "appid": "973450",
+    "type": "Game",
+    "name": "Ancient Abyss",
+    "schinese_name": "轮回深渊",
+    "isfreeapp": "0",
+    "change_number": "29046483",
+    "update_time": "2025-05-18 14:14:19",
+    "depot": {
+        "baselanguages": "schinese",
+        "973451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7234940143312680547",
+                    "size": "2959053915",
+                    "download": "230361232"
+                },
+                "alpha": {
+                    "gid": "4833222562281089479",
+                    "size": "2974467459",
+                    "download": "233830496"
+                }
+            },
+            "decryptionkey": "df6313f2d68e44fb98eb0233d01a385786e9e590b8f3385c4bb9a42b946281f0"
+        },
+        "973452": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3972185055523222149",
+                    "size": "2216263613",
+                    "download": "293086112"
+                },
+                "alpha": {
+                    "gid": "3972185055523222149",
+                    "size": "2216263613",
+                    "download": "293086112"
+                }
+            },
+            "decryptionkey": "ab686cf79fda635e86d1337391554d7c46b56ac418c95802bd9f11b818b39a1f"
+        },
+        "973453": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3228796968713390717",
+                    "size": "2363431445",
+                    "download": "290867264"
+                },
+                "alpha": {
+                    "gid": "3228796968713390717",
+                    "size": "2363431445",
+                    "download": "290867264"
+                }
+            }
+        },
+        "workshopdepot": "973450",
+        "branches": {
+            "public": {
+                "buildid": "8273348",
+                "timeupdated": "1645784395"
+            },
+            "alpha": {
+                "buildid": "8163417",
+                "description": "daily build",
+                "timeupdated": "1644305493"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    },
+    "access_token": 2338591241474724238
+}
