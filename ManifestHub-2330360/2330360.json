@@ -1,0 +1,58 @@
+{
+    "appid": 2330360,
+    "name": "Pixel Art Academy: Learn Mode",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:57:16",
+    "change_number": 29647651,
+    "depot": {
+        "2330361": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1315013134867864466",
+                    "size": "1409460440",
+                    "download": "1082398480"
+                }
+            },
+            "decryptionkey": "189631d951af14a00cb17eb458e7b3b5f6e6c07ac0db8cd81ffb050d83d43f39"
+        },
+        "2330362": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1364272677845810208",
+                    "size": "1399600295",
+                    "download": "1077867904"
+                }
+            }
+        },
+        "2330363": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7757977799367830459",
+                    "size": "1414593367",
+                    "download": "1077710112"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18912005",
+                "timeupdated": "1750318638"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
