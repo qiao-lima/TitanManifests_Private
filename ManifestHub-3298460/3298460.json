@@ -1,0 +1,57 @@
+{
+    "appid": 3298460,
+    "name": "Pushing it! Together - Sisyphus Co-op",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 05:29:44",
+    "change_number": 30082172,
+    "depot": {
+        "3298461": {
+            "manifests": {
+                "public": {
+                    "gid": "4888809046057827598",
+                    "size": "2752237716",
+                    "download": "1393618368"
+                },
+                "betabranch": {
+                    "gid": "1007180836924303874",
+                    "size": "2843817339",
+                    "download": "1463164240"
+                },
+                "devbranch": {
+                    "gid": "4504841848837009033",
+                    "size": "2776192685",
+                    "download": "1400485792"
+                },
+                "hotfixbranch1": {
+                    "gid": "4888809046057827598",
+                    "size": "2752237716",
+                    "download": "1393618368"
+                }
+            },
+            "decryptionkey": "ae6787b8a8070514e34870990b3546280cd1594d0c8a6e5c3857bacc39c287f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18918740",
+                "timeupdated": "1750286721"
+            },
+            "betabranch": {
+                "buildid": "19119269",
+                "description": "Beta Branch",
+                "timeupdated": "1751745392"
+            },
+            "devbranch": {
+                "buildid": "19116022",
+                "description": "Dev Branch",
+                "timeupdated": "1751701118"
+            },
+            "hotfixbranch1": {
+                "buildid": "18918740",
+                "description": "Testing hotfixes",
+                "timeupdated": "1750285608"
+            }
+        }
+    }
+}
