@@ -1,0 +1,51 @@
+{
+    "appid": 1882500,
+    "name": "Cattails: Wildwood Story",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 00:10:04",
+    "change_number": 30195638,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1882501": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1285773959866223686",
+                    "size": "486985709",
+                    "download": "339253088"
+                }
+            },
+            "decryptionkey": "abb69fd4cd37c84153990a5f70ac601107cd56733b9f80fbf7ac73a869bc2e42"
+        },
+        "1882502": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3852174393780555904",
+                    "size": "455731758",
+                    "download": "337645744"
+                }
+            },
+            "decryptionkey": "c6a4eaed25d79841f426e54391dfa287e279cd6c047f4a00772455f87a01060d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12791863",
+                "timeupdated": "1700838431"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
