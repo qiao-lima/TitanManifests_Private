@@ -1,0 +1,63 @@
+{
+    "appid": "566220",
+    "type": "Game",
+    "name": "Brain In My Head",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:18:49",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "566221": {
+            "manifests": {
+                "public": {
+                    "gid": "7977681284320096391",
+                    "size": "873714710",
+                    "download": "532031936"
+                }
+            },
+            "decryptionkey": "7ff4185a422ae3b30edf810fa29565b44042a436c05aa630c936b9e6807748bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1502304",
+                "timeupdated": "1481067692"
+            }
+        }
+    },
+    "access_token": 16090886945112125054
+}
