@@ -1,0 +1,44 @@
+{
+    "appid": 911760,
+    "name": "Fruit Tower Defense",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 23:42:23",
+    "change_number": 30175616,
+    "depot": {
+        "911761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3820565193268880405",
+                    "size": "577768256",
+                    "download": "496421424"
+                }
+            },
+            "decryptionkey": "4d97a8f292d413110536ea11e9b24461931c357188e4b6e517d3616e8177082b"
+        },
+        "911762": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2320015814877733491",
+                    "size": "619355461",
+                    "download": "506344992"
+                }
+            },
+            "decryptionkey": "1f1c9003b1a773f54efd222d123af27d46135c7b6bc2a18c55b0dc2bfaf0c756"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3795236",
+                "timeupdated": "1557054974"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
