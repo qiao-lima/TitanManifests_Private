@@ -1,0 +1,57 @@
+{
+    "appid": 359280,
+    "name": "Heroes of Loot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 12:02:06",
+    "change_number": 29986512,
+    "depot": {
+        "359281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5707698370944906926",
+                    "size": "79450934",
+                    "download": "42205648"
+                }
+            },
+            "decryptionkey": "155e44e30ea691deda03ce6d412b896ac94b08a231e7fb4c4030751a713f2daf"
+        },
+        "359282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6837673056691550190",
+                    "size": "84780792",
+                    "download": "42907696"
+                }
+            },
+            "decryptionkey": "b6464298d8ae30a0e3edb477e08fd3dec87ec579f46ddb6891cb8e9ae43833b1"
+        },
+        "359283": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2483426934623113171",
+                    "size": "91036735",
+                    "download": "44538624"
+                }
+            },
+            "decryptionkey": "ef8d5dc39ad9aa6a9a505c5525df1eae48bf18069183d21ff6281836ceec2213"
+        },
+        "359284": {},
+        "branches": {
+            "public": {
+                "buildid": "19161108",
+                "timeupdated": "1752067458"
+            }
+        }
+    }
+}
