@@ -1,0 +1,61 @@
+{
+    "appid": 1645270,
+    "name": "Art of Destruction",
+    "type": "Game",
+    "schinese_name": "破坏艺术家",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 14:12:10",
+    "change_number": 29930796,
+    "depot": {
+        "1645271": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2918800070493607493",
+                    "size": "426937741",
+                    "download": "135889312"
+                }
+            },
+            "decryptionkey": "578b0ab7e685fd298e70900e7ebabb6c2f6c95653a873177d5d266c113958e27"
+        },
+        "1645272": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7282659616566743698",
+                    "size": "474605803",
+                    "download": "144216640"
+                }
+            },
+            "decryptionkey": "9f59acd54c9cdd8a40d1adcfd4484ca8726f6c51b063ccb62c54b6bfdd7a09e9"
+        },
+        "1645273": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8349283348310330824",
+                    "size": "483775781",
+                    "download": "147174416"
+                }
+            },
+            "decryptionkey": "482fde6ae4b00ead58bef0d20a0afda7c4d0a2f27083f98fd2fff3b7d5c69da6"
+        },
+        "workshopdepot": "1645270",
+        "branches": {
+            "public": {
+                "buildid": "18592878",
+                "timeupdated": "1748074573"
+            }
+        },
+        "workshopdepotdecryptionkey": "54bde034d02098765908312a5f7685ecc7e7d63bc12868e14694dac0841616da"
+    }
+}
