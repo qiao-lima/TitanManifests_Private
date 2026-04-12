@@ -1,0 +1,28 @@
+{
+    "appid": 3263340,
+    "name": "Fishing On My Desktop",
+    "type": "Game",
+    "schinese_name": "桌面钓鱼",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 15:12:24",
+    "change_number": 29910842,
+    "depot": {
+        "3263341": {
+            "manifests": {
+                "public": {
+                    "gid": "3815121572466135419",
+                    "size": "279168292",
+                    "download": "59998880"
+                }
+            },
+            "decryptionkey": "ef2c16ec94d0064925d9aaee07d5ac56162db479e8b0113ac3dcfada97f8df8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19011065",
+                "timeupdated": "1750942004"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
