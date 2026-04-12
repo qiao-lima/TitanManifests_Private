@@ -1,0 +1,35 @@
+{
+    "appid": 2484250,
+    "name": "ASTRA: Knights of Veda",
+    "type": "Game",
+    "schinese_name": "星之後裔 : Knights of Veda",
+    "isfreeapp": 1,
+    "update_time": "2025-06-26 04:07:46",
+    "change_number": 29754313,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2484251": {
+            "manifests": {
+                "public": {
+                    "gid": "8273988697890465418",
+                    "size": "569853463",
+                    "download": "227755376"
+                }
+            },
+            "decryptionkey": "eec381bccb8c22c8214fe3e93326d08168ed21890ed5868458922052e82ff5c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19003432",
+                "timeupdated": "1750907243"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
