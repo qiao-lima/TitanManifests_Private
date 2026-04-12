@@ -1,0 +1,28 @@
+{
+    "appid": 2244420,
+    "name": "情人泪",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 19:16:14",
+    "change_number": 29548084,
+    "depot": {
+        "2244421": {
+            "manifests": {
+                "public": {
+                    "gid": "1441342060486502881",
+                    "size": "316904566",
+                    "download": "288825264"
+                }
+            },
+            "decryptionkey": "bf5f37d7004da1f54cfb8ba3ca4e070246884252defa0fb77a5b2c6c0919db53"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "10390888",
+                "timeupdated": "1674560590"
+            }
+        }
+    }
+}
