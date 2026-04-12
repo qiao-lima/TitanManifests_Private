@@ -1,0 +1,166 @@
+{
+    "appid": "741270",
+    "type": "Game",
+    "name": "- Occult preRaise -",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 19:41:25",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "741271": {
+            "manifests": {
+                "public": {
+                    "gid": "8973243637680429335",
+                    "size": "111610116",
+                    "download": "83056864"
+                }
+            },
+            "decryptionkey": "226dd05f8a560014103dbcaa8108da5c090a22c684a242dbd41b78ac373c010b"
+        },
+        "741280": {
+            "dlcappid": "741280",
+            "manifests": {
+                "public": {
+                    "gid": "3152425494291069574",
+                    "size": "6483",
+                    "download": "640"
+                }
+            },
+            "decryptionkey": "b70f7349e72427db56f94e60aeb9d89ca48fdb4744af228faf401bffe079b26c"
+        },
+        "741283": {
+            "dlcappid": "741283",
+            "manifests": {
+                "public": {
+                    "gid": "898698217962671414",
+                    "size": "6483",
+                    "download": "640"
+                }
+            },
+            "decryptionkey": "3853312ee97bbc2a7928decbd03fd022f964f0454522649779341c11fa816b1d"
+        },
+        "741282": {
+            "dlcappid": "741282",
+            "manifests": {
+                "public": {
+                    "gid": "2496510347526937319",
+                    "size": "6483",
+                    "download": "640"
+                }
+            },
+            "decryptionkey": "a6e737b832356a68691eecc6fd555cd4c4a05613bf04b767276275cf1bdaa217"
+        },
+        "741281": {
+            "dlcappid": "741281",
+            "manifests": {
+                "public": {
+                    "gid": "6927417869821630455",
+                    "size": "6483",
+                    "download": "640"
+                }
+            },
+            "decryptionkey": "bf93b56edbd37be0c72c83d7af68c231d832394a386ad49cd5625364fccb281c"
+        },
+        "741284": {
+            "dlcappid": "741284",
+            "manifests": {
+                "public": {
+                    "gid": "8991056939562234854",
+                    "size": "6483",
+                    "download": "640"
+                }
+            },
+            "decryptionkey": "dee81b8884b0ec3e03a7aabac07c503e8057d3b0ff0efa261e088c9eef298fe3"
+        },
+        "741310": {
+            "manifests": {
+                "public": {
+                    "gid": "2825801086770528148",
+                    "size": "6483",
+                    "download": "640"
+                }
+            },
+            "dlcappid": "741310",
+            "decryptionkey": "ebf28acf737723e47a5bef28a0913acb46215123d209f612889e9e56a4490c53"
+        },
+        "741311": {
+            "manifests": {
+                "public": {
+                    "gid": "1179125282868415588",
+                    "size": "6483",
+                    "download": "640"
+                }
+            },
+            "dlcappid": "741311",
+            "decryptionkey": "ef80c267bce2567741ecddb0c5f00c2954445f97f109a4845eb00fba72b8521c"
+        },
+        "741312": {
+            "manifests": {
+                "public": {
+                    "gid": "2088884167566678407",
+                    "size": "6483",
+                    "download": "640"
+                }
+            },
+            "dlcappid": "741312",
+            "decryptionkey": "394526fee7468255aab6b3161aa065c5db0350811c91f79de07affe2299b3b52"
+        },
+        "741313": {
+            "manifests": {
+                "public": {
+                    "gid": "1951695195727797127",
+                    "size": "6483",
+                    "download": "640"
+                }
+            },
+            "dlcappid": "741313",
+            "decryptionkey": "2913b9d6affe53106d750a6d45fa3d6859d8caebc15978994cce461bca2a85b9"
+        },
+        "741314": {
+            "manifests": {
+                "public": {
+                    "gid": "8819017032906324769",
+                    "size": "6483",
+                    "download": "640"
+                }
+            },
+            "dlcappid": "741314",
+            "decryptionkey": "008aeb5b8694762098435ecfd95d8d9e0be5d5fc6568b4d350989a1877afb962"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2221019",
+                "timeupdated": "1508735096"
+            }
+        }
+    },
+    "access_token": 5438507585268264557
+}
