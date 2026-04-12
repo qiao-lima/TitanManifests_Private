@@ -1,0 +1,55 @@
+{
+    "appid": 428430,
+    "name": "Endorlight",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:12:37",
+    "change_number": 29178452,
+    "depot": {
+        "428431": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2544452170887390684",
+                    "size": "34478432",
+                    "download": "29511600"
+                }
+            },
+            "decryptionkey": "0290fbdc3bd395e6e65bfa2302444481fb8f522a4e88c5e7d98e78a86a07c4b8"
+        },
+        "450730": {
+            "manifests": {
+                "public": {
+                    "gid": "5837277668520367711",
+                    "size": "26203676",
+                    "download": "23409216"
+                }
+            },
+            "dlcappid": "450730",
+            "decryptionkey": "bbeb8e7072ddf678e1c1b323ffcd2519a3191360818266983edd1f6f2ceb3388"
+        },
+        "428432": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "428433": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1094849",
+                "timeupdated": "1461667566"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
