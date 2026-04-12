@@ -1,0 +1,52 @@
+{
+    "appid": 1824960,
+    "name": "Propagation: Paradise Hotel",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 15:08:44",
+    "change_number": 29931632,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1824961": {
+            "manifests": {
+                "public": {
+                    "gid": "5208564856318351187",
+                    "size": "9701276440",
+                    "download": "3906097568"
+                },
+                "previous-release": {
+                    "gid": "1659184671246604912",
+                    "size": "9555521619",
+                    "download": "3852323424"
+                }
+            },
+            "decryptionkey": "07c983e39744ab97539aecc2caddacc0191ba05697ba21cd96819d9cda496afd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11666076",
+                "timeupdated": "1689001485"
+            },
+            "previous-release": {
+                "buildid": "11200674",
+                "description": "Previous stable version before last update",
+                "timeupdated": "1687768255"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
