@@ -1,0 +1,32 @@
+{
+    "appid": "543420",
+    "type": "Game",
+    "name": "Catacomb Explorers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26915791",
+    "update_time": "2025-01-09 08:15:12",
+    "depot": {
+        "543421": {
+            "manifests": {
+                "public": {
+                    "gid": "654550869203735208",
+                    "size": "6713837",
+                    "download": "2358560"
+                }
+            },
+            "decryptionkey": "1ddfc221910d38320b60fdeb01f87efee6d1f88be4baa479542c7a428915236c"
+        },
+        "560560": {
+            "dlcappid": "560560"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "1473831",
+                "timeupdated": "1479819201"
+            }
+        }
+    },
+    "access_token": 15388208073485339543
+}
