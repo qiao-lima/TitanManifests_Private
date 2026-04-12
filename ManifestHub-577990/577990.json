@@ -1,0 +1,54 @@
+{
+    "appid": 577990,
+    "name": "Ignition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 00:21:32",
+    "change_number": 29977572,
+    "depot": {
+        "577991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2800999711706544689",
+                    "size": "576283209",
+                    "download": "436500912"
+                }
+            },
+            "decryptionkey": "6a2759a6f45be3210ddd55d7e5e098b5f797d13af09d8113d9613707e049ab19"
+        },
+        "577992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4642461161519433914",
+                    "size": "583662517",
+                    "download": "438832432"
+                }
+            }
+        },
+        "577993": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6921246640466568342",
+                    "size": "579800822",
+                    "download": "433889344"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19167509",
+                "timeupdated": "1752103288"
+            }
+        }
+    }
+}
