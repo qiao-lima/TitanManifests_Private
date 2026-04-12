@@ -1,0 +1,28 @@
+{
+    "appid": 1921980,
+    "name": "Between Horizons",
+    "type": "Game",
+    "schinese_name": "地平线之间",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 19:44:11",
+    "change_number": 29865872,
+    "depot": {
+        "1921981": {
+            "manifests": {
+                "public": {
+                    "gid": "2582682177012277390",
+                    "size": "1727773715",
+                    "download": "1274808816"
+                }
+            },
+            "decryptionkey": "55a6baa9dd76ba059cb9661763d65bc2b772c37f41e47443c9e4f87b23ff30c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18726658",
+                "timeupdated": "1749041138"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
