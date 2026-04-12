@@ -1,0 +1,57 @@
+{
+    "appid": "492130",
+    "type": "Game",
+    "name": "Bye-Bye, Wacky Planet",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:12:02",
+    "depot": {
+        "492131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5772233658899253658",
+                    "size": "364856409",
+                    "download": "274210176"
+                }
+            },
+            "decryptionkey": "cf347f6c0ecb7ed9ea4bb3f80970a165f8ddfe1092d79420bf82a40353932a28"
+        },
+        "492132": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4499774992574002529",
+                    "size": "336362403",
+                    "download": "267477792"
+                }
+            },
+            "decryptionkey": "9033a14e83b5a0078adc54638f02ebad7eda028b551dec261f24168ccf650b4d"
+        },
+        "509410": {
+            "dlcappid": "509410",
+            "manifests": {
+                "public": {
+                    "gid": "6930792168369458883",
+                    "size": "123204933",
+                    "download": "117407136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "2220065",
+                "timeupdated": "1508687210"
+            }
+        }
+    },
+    "access_token": 8967838290130364072
+}
