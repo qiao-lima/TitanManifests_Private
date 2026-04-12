@@ -1,0 +1,77 @@
+{
+    "appid": 830640,
+    "name": "DayZ Tools",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 09:54:23",
+    "change_number": 30163426,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "830641": {
+            "manifests": {
+                "public": {
+                    "gid": "1257058634771520834",
+                    "size": "547016775",
+                    "download": "244345232"
+                }
+            },
+            "decryptionkey": "3e61bff301ba32c46755dfa2807e6b54e9482e44f9732d0a166ff258cc0a20c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19022683",
+                "timeupdated": "1751372918"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
