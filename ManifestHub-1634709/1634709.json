@@ -1,0 +1,28 @@
+{
+    "appid": 1634709,
+    "name": "SAMURAI WARRIORS 5 - Additional Scenario & BGM Set 2",
+    "type": "DLC",
+    "schinese_name": "战国无双５ - 追加剧本&BGM组合2",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 15:15:36",
+    "change_number": 26201212,
+    "depot": {
+        "1634709": {
+            "manifests": {
+                "public": {
+                    "gid": "6470204994933181770",
+                    "size": "145567",
+                    "download": "51424"
+                }
+            },
+            "dlcappid": "1634709",
+            "decryptionkey": "275f612fb4f6162d5c40ec15f8c7207fc827b2d37de4c65d20344b7a52ac8a21"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6985403",
+                "timeupdated": "1625565901"
+            }
+        }
+    }
+}
