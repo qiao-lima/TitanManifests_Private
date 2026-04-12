@@ -1,0 +1,27 @@
+{
+    "appid": 3029340,
+    "name": "The Photographer (Nymphs)",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 02:24:11",
+    "change_number": 30159575,
+    "depot": {
+        "3029341": {
+            "manifests": {
+                "public": {
+                    "gid": "938306042395602813",
+                    "size": "1966336846",
+                    "download": "1811540560"
+                }
+            },
+            "decryptionkey": "df025614ea1feba68d97f2e6530cc592b9c120dfd0c4fe6a5086a99013a72205"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18994695",
+                "timeupdated": "1750852669"
+            }
+        }
+    }
+}
