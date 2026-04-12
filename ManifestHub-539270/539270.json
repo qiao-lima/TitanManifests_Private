@@ -1,0 +1,32 @@
+{
+    "appid": 539270,
+    "name": "Mahjong",
+    "type": "Game",
+    "schinese_name": "麻将",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 06:17:10",
+    "change_number": 29686010,
+    "depot": {
+        "539271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "829858195424187892",
+                    "size": "469087728",
+                    "download": "74993536"
+                }
+            },
+            "decryptionkey": "d28934b2930159970def770e9ab910584b56ea532b220e1c58e7ace962b23eeb"
+        },
+        "baselanguages": "english,german,french,italian,spanish,dutch",
+        "branches": {
+            "public": {
+                "buildid": "1428147",
+                "timeupdated": "1477886915"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
