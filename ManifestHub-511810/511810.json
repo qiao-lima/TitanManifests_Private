@@ -1,0 +1,44 @@
+{
+    "appid": 511810,
+    "name": "CHEXS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:11:57",
+    "change_number": 30056460,
+    "depot": {
+        "511811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6391920985192792948",
+                    "size": "173949789",
+                    "download": "59621728"
+                }
+            },
+            "decryptionkey": "078844231d10864afe2aa9c42871abeabe40308319994b16d226b5791ac5cb4e"
+        },
+        "511812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "407524362006887935",
+                    "size": "184029206",
+                    "download": "61646960"
+                }
+            },
+            "decryptionkey": "7e62378e79806377c96f62a81d954bd49d6b52864bdcb658c63be770da86ef60"
+        },
+        "baselanguages": "english,german,french,spanish",
+        "branches": {
+            "public": {
+                "buildid": "1343148",
+                "timeupdated": "1474272867"
+            }
+        }
+    }
+}
