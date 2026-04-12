@@ -1,0 +1,138 @@
+{
+    "appid": "210950",
+    "type": "Game",
+    "name": "Rune Classic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28970267",
+    "update_time": "2025-05-14 07:47:44",
+    "depot": {
+        "210951": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6953708733068251455",
+                    "size": "934847348",
+                    "download": "672421104"
+                },
+                "local": {
+                    "gid": "8330462456683290134",
+                    "size": "934809264",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "20e574265959a10409f46d02edee05652540a625e8c1b0c489afb79513d231fd"
+        },
+        "210952": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "777107265273949166",
+                    "size": "169332942",
+                    "download": "153084880"
+                },
+                "local": {
+                    "gid": "777107265273949166",
+                    "size": "169332942",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2b2019d0c4b6cfe6cd1c18e3cb58babdbb1d60db19e192862a36cdd292da4661"
+        },
+        "210953": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3938299019139833940",
+                    "size": "170254644",
+                    "download": "154424528"
+                },
+                "local": {
+                    "gid": "3938299019139833940",
+                    "size": "170254644",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b00ef68d6c1db858fe6a509a0a69f5ad3ff989e6e0d2781cf35f8d520a689fd3"
+        },
+        "210954": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1739291614212622999",
+                    "size": "167953460",
+                    "download": "151842576"
+                },
+                "local": {
+                    "gid": "1739291614212622999",
+                    "size": "167953460",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "4e77c85798b22693d02a246b81c9c551b04202be4e39f48a716b0659f9c6fc6f"
+        },
+        "210955": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "759252740686823211",
+                    "size": "165993609",
+                    "download": "150433920"
+                },
+                "local": {
+                    "gid": "759252740686823211",
+                    "size": "165993609",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e9ded9f37c0ae8d4804c6de56e44ded1648f5d033d9ad2d0f5c44185fee4e8da"
+        },
+        "210956": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4888802562221311494",
+                    "size": "115232694",
+                    "download": "102626048"
+                },
+                "local": {
+                    "gid": "4888802562221311494",
+                    "size": "115232694",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "23d5aca40787abb9f8ced8c9a5208fc684d68229914fe224678c33cba08b64ea"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "3784864",
+                "timeupdated": "1556738299"
+            },
+            "local": {
+                "buildid": "4489",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
