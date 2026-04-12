@@ -1,0 +1,59 @@
+{
+    "appid": 861350,
+    "name": "Gym Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 01:53:35",
+    "change_number": 29713771,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "861351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2509484954433151086",
+                    "size": "2327428903",
+                    "download": "2131625328"
+                }
+            },
+            "decryptionkey": "1f5068c5a0e1ddccc75520127edbb93388136dba000157ccab1dfeb88f1d1d16"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4016572",
+                "timeupdated": "1563297502"
+            }
+        }
+    }
+}
