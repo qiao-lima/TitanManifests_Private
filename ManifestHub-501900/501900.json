@@ -1,0 +1,28 @@
+{
+    "appid": "501900",
+    "type": "Game",
+    "name": "Star Project",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24122753",
+    "update_time": "2024-08-14 19:12:54",
+    "depot": {
+        "501901": {
+            "manifests": {
+                "public": {
+                    "gid": "8820595570298008774",
+                    "size": "134848108",
+                    "download": "65511456"
+                }
+            },
+            "decryptionkey": "4c0553eb4e1eb02d67d3aa8786602b7c4f8c9ff2edbcb64f1a1bca44a362984f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1237331",
+                "timeupdated": "1469060398"
+            }
+        }
+    },
+    "access_token": 12373089987079980997
+}
