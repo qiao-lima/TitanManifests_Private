@@ -1,0 +1,39 @@
+{
+    "appid": 1384770,
+    "name": "Scrutinized",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 15:22:09",
+    "change_number": 30146982,
+    "depot": {
+        "1384771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3952188852050931384",
+                    "size": "2927775268",
+                    "download": "1441967248"
+                }
+            },
+            "decryptionkey": "6cebd0e1186fc00e399ecd654bbc54c511670b98fbec2598bd81f50431801eeb"
+        },
+        "1384772": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5417686",
+                "timeupdated": "1597529284"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
