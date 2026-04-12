@@ -1,0 +1,29 @@
+{
+    "appid": 999490,
+    "name": "Graviteam Tactics: Under the Cruel Star",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:51:22",
+    "change_number": 27015870,
+    "depot": {
+        "999490": {
+            "dlcappid": "999490",
+            "manifests": {
+                "public": {
+                    "gid": "676777354577140723",
+                    "size": "236636095",
+                    "download": "238029744"
+                }
+            },
+            "decryptionkey": "19f1731001addd5715f58dd865535a8960fd1c2387a397053fdef37033713de4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5911833",
+                "timeupdated": "1607082527"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
