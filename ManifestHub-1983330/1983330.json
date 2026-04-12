@@ -1,0 +1,27 @@
+{
+    "appid": 1983330,
+    "name": "Exorcist",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 03:52:06",
+    "change_number": 30151448,
+    "depot": {
+        "1983331": {
+            "manifests": {
+                "public": {
+                    "gid": "3541019869692929500",
+                    "size": "4552244270",
+                    "download": "2050317056"
+                }
+            },
+            "decryptionkey": "3cccc38ccd032450684664f399c74b817831845076525eedf9420547e16cba06"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8636007",
+                "timeupdated": "1651086571"
+            }
+        }
+    }
+}
