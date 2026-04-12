@@ -1,0 +1,206 @@
+{
+    "appid": 21970,
+    "name": "R.U.S.E",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 13:51:42",
+    "change_number": 30206596,
+    "depot": {
+        "21964": {
+            "config": {
+                "oslist": "macos"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7821097088409999656",
+                    "size": "70916158",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "21964"
+        },
+        "21963": {
+            "config": {
+                "oslist": "macos"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7813988246507863537",
+                    "size": "280203409",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "21963"
+        },
+        "21962": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "172535049306757282",
+                    "size": "5874887029",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "5adf4517542c010cabf8b715993c17f54dd7319f4396c365c160d50a61b4cf56"
+        },
+        "21996": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "1520678601774659923",
+                    "size": "71319880",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "21996",
+            "decryptionkey": "6e52e24afa5dfcfe1a5139433c950e457139f5fe2bf954e7c538329976e15768"
+        },
+        "21995": {
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7464603070576329608",
+                    "size": "282414961",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "21995",
+            "decryptionkey": "53aa6bccae73a0277e964309643e1fd3a33f05c9b6a39df0ed35d43effa80cd2"
+        },
+        "21971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "5246609984688734642",
+                    "size": "5689596286",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "e704dbef4f4282016b56efda28a5b9defecd3c92b4693419452e48342779da66"
+        },
+        "21972": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7828516888385125704",
+                    "size": "6",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ee735b0ecf542d1fc838ad6d5bd4c961b78e0e5012a86fb7e8091ceef0146585"
+        },
+        "21973": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7359324944454702074",
+                    "size": "6",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3aef726bd54bf84de604150f3fe3514b3bddd547e1c452b958b91f2b80eede98"
+        },
+        "21974": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9065111117075503126",
+                    "size": "6",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "870ff31e93239282a1f2ca1976c6d73b27b4624682e3f744a6a186df90439826"
+        },
+        "21975": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1064234262641003645",
+                    "size": "6",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "518629e5962326ec80f07329a7676cd08f6183ae0a188890c8f374c31e2026c6"
+        },
+        "21976": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6737201218084516978",
+                    "size": "6",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "59055e7fa9346e9cd1f33df0377fdddd34ae8ef26cd0071bcca67b556d0e8689"
+        },
+        "21977": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5460595300306078365",
+                    "size": "6",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "0cc975fcfc857ba6b9c6aafefbc7508d35b26a93ff5036f8923ab69f4cff48cb"
+        },
+        "21978": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2368388960424930659",
+                    "size": "6",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f57edcbcb968e9eb1f0c1dd62b547eb5d9a2d7444fea92087840fc8d86830d71"
+        },
+        "21979": {
+            "config": {
+                "language": "czech"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9104387818033069247",
+                    "size": "6",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "dd9cc83fdae46f0073ea9325a330bd8802d1f4f17ac00856cd9cfb09fad93f90"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "3591"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
