@@ -1,0 +1,27 @@
+{
+    "appid": 3006010,
+    "name": "Musician Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 14:37:16",
+    "change_number": 29364816,
+    "depot": {
+        "3006011": {
+            "manifests": {
+                "public": {
+                    "gid": "9105193983039652828",
+                    "size": "4902675516",
+                    "download": "1561406176"
+                }
+            },
+            "decryptionkey": "3d529d9240534e58f5c8a082014ad116cb2b23d5bd2fb2eb8dae75e510bad099"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18729476",
+                "timeupdated": "1749019031"
+            }
+        }
+    }
+}
