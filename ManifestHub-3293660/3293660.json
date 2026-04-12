@@ -1,0 +1,46 @@
+{
+    "appid": 3293660,
+    "name": "Cartier 06",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 22:11:50",
+    "change_number": 29937848,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3293661": {},
+        "3293662": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8636282257204836300",
+                    "size": "9278424491",
+                    "download": "9004990256"
+                }
+            },
+            "decryptionkey": "c7c158277a4221a34e8a77b79badc1dda2ec27f727fa035a9e8ff11ebc8e7ff2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18925431",
+                "timeupdated": "1750877602"
+            }
+        }
+    }
+}
