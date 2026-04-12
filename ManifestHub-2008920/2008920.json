@@ -1,0 +1,29 @@
+{
+    "appid": 2008920,
+    "name": "Lorelei and the Laser Eyes",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 12:44:30",
+    "change_number": 29918056,
+    "depot": {
+        "2008921": {
+            "manifests": {
+                "public": {
+                    "gid": "7495762646747800393",
+                    "size": "1270119745",
+                    "download": "624821024"
+                }
+            },
+            "decryptionkey": "aaa44ef0454a32c89d1c1e187e13f74045752843b01b4c3bf168254ff8ea15d1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,latam",
+        "branches": {
+            "public": {
+                "buildid": "15691260",
+                "timeupdated": "1733245241"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
