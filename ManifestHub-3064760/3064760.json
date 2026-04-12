@@ -1,0 +1,48 @@
+{
+    "appid": 3064760,
+    "name": "FOUNDRY: Mod Kit",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 20:59:01",
+    "change_number": 29486496,
+    "depot": {
+        "3064761": {
+            "manifests": {
+                "public": {
+                    "gid": "3195285496338008439",
+                    "size": "771387803",
+                    "download": "247425184"
+                },
+                "commerce_hotfix_1": {
+                    "gid": "3195285496338008439",
+                    "size": "771387803",
+                    "download": "247425184"
+                },
+                "legacy_update_1": {
+                    "gid": "5746980962606838857",
+                    "size": "763584106",
+                    "download": "245137072"
+                }
+            },
+            "decryptionkey": "c62a66c60f7a8ee8962479420f1aecc65245507e34a62d1be76882e693c93fd8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18625664",
+                "timeupdated": "1749560324"
+            },
+            "commerce_hotfix_1": {
+                "buildid": "18625664",
+                "description": "Commerce Hotfix 1",
+                "timeupdated": "1748352999"
+            },
+            "legacy_update_1": {
+                "buildid": "15386294",
+                "description": "Legacy Update 1",
+                "timeupdated": "1746192330"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
