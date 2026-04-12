@@ -1,0 +1,51 @@
+{
+    "appid": 529760,
+    "name": "TAIKU MANSION",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 17:46:42",
+    "change_number": 29483187,
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "529761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5994685509224950127",
+                    "size": "273579562",
+                    "download": "61412256"
+                }
+            },
+            "decryptionkey": "300b28a30439351860016841363912f316b1e2998e8474b5110037cab6f56706"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1628893",
+                "timeupdated": "1487027401"
+            }
+        }
+    }
+}
