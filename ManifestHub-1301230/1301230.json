@@ -1,0 +1,31 @@
+{
+    "appid": 1301230,
+    "name": "Astrodogs",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 01:42:53",
+    "change_number": 29354302,
+    "depot": {
+        "1301231": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8566687091635848656",
+                    "size": "913285906",
+                    "download": "584050672"
+                }
+            },
+            "decryptionkey": "1591875e17d8fbb2ce16a16d3db783c1cb2830b37718f7a70a6f5a54fc218ef9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13510610",
+                "timeupdated": "1708450853"
+            }
+        }
+    }
+}
