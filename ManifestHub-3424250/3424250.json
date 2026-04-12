@@ -1,0 +1,40 @@
+{
+    "appid": 3424250,
+    "name": "The Hungry Lamb: Digital Artbook",
+    "type": "DLC",
+    "schinese_name": "饿殍：明末千里行-艺术设定集",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 20:10:34",
+    "change_number": 30213180,
+    "depot": {
+        "3424250": {
+            "dlcappid": "3424250",
+            "manifests": {
+                "public": {
+                    "gid": "7063668859314841305",
+                    "size": "2555042257",
+                    "download": "1240800288"
+                }
+            },
+            "decryptionkey": "a9a81e13643ba4ee89a7c01beb080ec4c4f6151c883f5f59dd8f5fdf7b8601ad"
+        },
+        "3424251": {
+            "manifests": {
+                "public": {
+                    "gid": "8722312887969176214",
+                    "size": "2555042257",
+                    "download": "1305142528"
+                }
+            },
+            "dlcappid": "3424250",
+            "decryptionkey": "ed79b2517c6c65f86ddcb45e48bdf4237c1c2d3a89a483516558840a3b9cbe59"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18761385",
+                "timeupdated": "1749187981"
+            }
+        }
+    },
+    "access_token": 269075887191122936
+}
