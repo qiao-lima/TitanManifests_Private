@@ -1,0 +1,53 @@
+{
+    "appid": 694970,
+    "name": "Loading",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:30:49",
+    "change_number": 30057887,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "694971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6309021340414084613",
+                    "size": "187064795",
+                    "download": "60880000"
+                }
+            },
+            "decryptionkey": "9b118d016ec0c67ba5128d6d03cba85e1ea5d23a6dfb5343c03ab4032181740a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2148837",
+                "timeupdated": "1512840143"
+            }
+        }
+    },
+    "access_token": 11112480313015155215
+}
