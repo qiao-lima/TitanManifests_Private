@@ -1,0 +1,31 @@
+{
+    "appid": "365310",
+    "type": "Game",
+    "name": "Organ Biker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18987327",
+    "update_time": "2024-08-14 18:54:39",
+    "depot": {
+        "365311": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6618748036304074336",
+                    "size": "83246654",
+                    "download": "36555344"
+                }
+            },
+            "decryptionkey": "78cc02495fd679fec435354e26553ab3a637c4d75e3f4ca6bb4e9988d799d4a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "669779"
+            }
+        }
+    },
+    "access_token": 12423188904442858398
+}
