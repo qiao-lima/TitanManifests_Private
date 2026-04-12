@@ -1,0 +1,42 @@
+{
+    "appid": 1422940,
+    "name": "Glider Sim",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 05:02:42",
+    "change_number": 30199028,
+    "depot": {
+        "1422941": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7048263078438882063",
+                    "size": "24717787100",
+                    "download": "6620051920"
+                },
+                "previousversion": {
+                    "gid": "1015732195226876724",
+                    "size": "24709895434",
+                    "download": "6389867808"
+                }
+            },
+            "decryptionkey": "8556e2c91e663ffd6a371170bb0facf16363b843532941402e15ec39df70a930"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19323614",
+                "timeupdated": "1753243357"
+            },
+            "previousversion": {
+                "buildid": "18665262",
+                "description": "Older version of the game",
+                "timeupdated": "1751902223"
+            }
+        }
+    }
+}
