@@ -1,0 +1,45 @@
+{
+    "appid": 1800790,
+    "name": "Father's Day",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 20:01:11",
+    "change_number": 29812469,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1800791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "36962320812374484",
+                    "size": "19421807071",
+                    "download": "19129656080"
+                }
+            },
+            "decryptionkey": "d540a87149fbe7fdb433e7514cebf6016ad294a26c1f7b5950672ca705376ebc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19043887",
+                "timeupdated": "1751223666"
+            }
+        }
+    }
+}
