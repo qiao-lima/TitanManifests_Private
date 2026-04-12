@@ -1,0 +1,32 @@
+{
+    "appid": 2646250,
+    "name": "战棋英雄王子复仇记",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 09:52:47",
+    "change_number": 30153113,
+    "depot": {
+        "baselanguages": "schinese",
+        "2646251": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1806510253049410790",
+                    "size": "1274320305",
+                    "download": "234709184"
+                }
+            },
+            "decryptionkey": "a8de565640ef38310178d7ab12b0892bc41e5b99784a74c4da03e51e1d8cfed7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19036524",
+                "timeupdated": "1751109077"
+            }
+        }
+    }
+}
