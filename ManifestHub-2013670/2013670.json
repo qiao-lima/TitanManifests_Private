@@ -1,0 +1,27 @@
+{
+    "appid": 2013670,
+    "name": "Five Nights at Sexy's",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:15:59",
+    "change_number": 30217675,
+    "depot": {
+        "2013671": {
+            "manifests": {
+                "public": {
+                    "gid": "2393968452313967627",
+                    "size": "119592155",
+                    "download": "104689360"
+                }
+            },
+            "decryptionkey": "c6f34836363b502a25c119a25a5052acdb9271ff9189a5cebc503ea898754c72"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9130293",
+                "timeupdated": "1657908317"
+            }
+        }
+    }
+}
