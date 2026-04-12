@@ -1,0 +1,48 @@
+{
+    "appid": 2225480,
+    "name": "REMORE: INFESTED KINGDOM",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 09:18:07",
+    "change_number": 30162937,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2225481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "45402473331846080",
+                    "size": "628296966",
+                    "download": "514303040"
+                },
+                "beta": {
+                    "gid": "45402473331846080",
+                    "size": "628296966",
+                    "download": "514303040"
+                }
+            },
+            "decryptionkey": "39a1b1a0f70b37d090f9a7ff794524a69a26b30eb5442d4cd50abf3105e68ef3"
+        },
+        "baselanguages": "english,koreana",
+        "branches": {
+            "public": {
+                "buildid": "18973758",
+                "timeupdated": "1750729012"
+            },
+            "beta": {
+                "buildid": "18959605",
+                "description": "beta branch",
+                "timeupdated": "1750646141"
+            }
+        }
+    }
+}
