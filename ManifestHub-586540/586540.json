@@ -1,0 +1,28 @@
+{
+    "appid": "586540",
+    "type": "Game",
+    "name": "Ultimate Russian Zombie Rush",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22332387",
+    "update_time": "2024-08-14 19:21:35",
+    "depot": {
+        "586541": {
+            "manifests": {
+                "public": {
+                    "gid": "2578857216936738452",
+                    "size": "54830440",
+                    "download": "51717904"
+                }
+            },
+            "decryptionkey": "11def2dd290f5423ec5a1cc355529a99210f50671a9bd5fb0d5b5ef196e0ffc8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1617671",
+                "timeupdated": "1486556668"
+            }
+        }
+    },
+    "access_token": 13717334250684909782
+}
