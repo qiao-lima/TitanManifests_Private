@@ -1,0 +1,35 @@
+{
+    "appid": 647040,
+    "name": "Riaaf The Spider",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:50:48",
+    "change_number": 29427908,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "647041": {
+            "manifests": {
+                "public": {
+                    "gid": "5119981430877384054",
+                    "size": "60261825",
+                    "download": "50114000"
+                }
+            },
+            "decryptionkey": "a64bf5b05cd030962f76fc525b6f545e637e26a9d93d20b697768d7052411f53"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "1965465",
+                "timeupdated": "1500255256"
+            }
+        }
+    }
+}
