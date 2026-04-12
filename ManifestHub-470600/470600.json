@@ -1,0 +1,37 @@
+{
+    "appid": "470600",
+    "type": "Game",
+    "name": "Video Blogger Story",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18963424",
+    "update_time": "2024-08-28 11:57:57",
+    "depot": {
+        "baselanguages": "english",
+        "470601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4351793569220464509",
+                    "size": "732136455",
+                    "download": "93349776"
+                }
+            },
+            "decryptionkey": "aa01f334f57dcb3d3aa7dce23d165290c90ca022ba85e3184cff92f58d69ebff"
+        },
+        "470609": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1481662",
+                "timeupdated": "1480111985"
+            }
+        }
+    },
+    "access_token": 16187717725694414007
+}
