@@ -1,0 +1,58 @@
+{
+    "appid": 2076140,
+    "name": "Tavern Talk",
+    "type": "Game",
+    "schinese_name": "魔饮心语",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 11:40:26",
+    "change_number": 30204619,
+    "depot": {
+        "2076141": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7744576148693431847",
+                    "size": "709266411",
+                    "download": "423699968"
+                }
+            },
+            "decryptionkey": "38c00b2e11a56563435dc1469d94558e9c10aa7b35096d267019be9fd87ec844"
+        },
+        "2076142": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2815023982173445609",
+                    "size": "810591726",
+                    "download": "458714864"
+                }
+            },
+            "decryptionkey": "56978492b8bf6780f27db8b2a51a8673d6c317d0c16be12425ce6d0a85249607"
+        },
+        "3047210": {
+            "dlcappid": "3047210",
+            "manifests": {
+                "public": {
+                    "gid": "7786796183442676736",
+                    "size": "308310815",
+                    "download": "292670512"
+                }
+            },
+            "decryptionkey": "01842d4b8f01a186b76208cf8cfd86487e8568f7c5c09e032301d5c18fa80040"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "19315993",
+                "timeupdated": "1753267221"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
