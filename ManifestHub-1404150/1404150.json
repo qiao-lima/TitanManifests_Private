@@ -1,0 +1,33 @@
+{
+    "appid": 1404150,
+    "name": "Escape the City",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 17:24:24",
+    "change_number": 29482799,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1404151": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6767278844969646734",
+                    "size": "14774953879",
+                    "download": "6728831440"
+                }
+            },
+            "decryptionkey": "180d7d6f15a196b24eb31fffe73eb05e65ce00d7a4ef8abce93142b72bf2923d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5749035",
+                "timeupdated": "1603890908"
+            }
+        }
+    }
+}
