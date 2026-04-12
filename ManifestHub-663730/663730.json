@@ -1,0 +1,33 @@
+{
+    "appid": "663730",
+    "type": "Game",
+    "name": "Invasion of Barbarians",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26288345",
+    "update_time": "2024-11-21 07:18:07",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "0",
+        "663731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1498006640894474732",
+                    "size": "130026256",
+                    "download": "56790064"
+                }
+            },
+            "decryptionkey": "611508e152bf71125fe74f2a655a7182e9d2b24ca9f3c319a2d89a99a0ea1b24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1964523",
+                "timeupdated": "1500188980"
+            }
+        }
+    },
+    "access_token": 17141734689742217793
+}
