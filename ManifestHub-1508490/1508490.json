@@ -1,0 +1,31 @@
+{
+    "appid": 1508490,
+    "name": "Commie Killer 2069",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 02:07:44",
+    "change_number": 30177202,
+    "depot": {
+        "baselanguages": "english",
+        "1508491": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "163166076437589177",
+                    "size": "918869125",
+                    "download": "190939392"
+                }
+            },
+            "decryptionkey": "b85a5737d8a0bac49f74a47c3fcd79eae3fc72a3761eb84160f02272428ff4f0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6784288",
+                "timeupdated": "1622420468"
+            }
+        }
+    }
+}
