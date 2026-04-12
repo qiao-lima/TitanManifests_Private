@@ -1,0 +1,40 @@
+{
+    "appid": 844980,
+    "name": "I Am Your President",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 18:13:45",
+    "change_number": 30211350,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "844981": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6049653923097606906",
+                    "size": "9330903928",
+                    "download": "3578638640"
+                }
+            },
+            "decryptionkey": "102595d8c1a7022f8a67e9009163432ad1b2c970ac09fadbd89643cd571d2928"
+        },
+        "844982": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19332180",
+                "timeupdated": "1753290822"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
