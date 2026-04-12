@@ -1,0 +1,44 @@
+{
+    "appid": 3006100,
+    "name": "Night Project",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 01:47:17",
+    "change_number": 30217338,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3006101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7603644846625511827",
+                    "size": "17132287344",
+                    "download": "16115077808"
+                }
+            },
+            "decryptionkey": "55b37f13572958df26b9168cbdb2cb68d7c450514c459a90f0931bacaf4a2b87"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19311435",
+                "timeupdated": "1753171784"
+            }
+        }
+    }
+}
