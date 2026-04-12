@@ -1,0 +1,57 @@
+{
+    "appid": "487270",
+    "type": "Game",
+    "name": "Go Mission: Space Travel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24734831",
+    "update_time": "2024-08-14 19:11:32",
+    "depot": {
+        "487271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5058471997961327133",
+                    "size": "123359067",
+                    "download": "47921792"
+                }
+            },
+            "decryptionkey": "3c6481411133f544590d9dbc71548f5d22f669ce11d8a9775e59193cc0457c1b"
+        },
+        "487272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1886876691307892479",
+                    "size": "185700793",
+                    "download": "59239552"
+                }
+            },
+            "decryptionkey": "909b374c32608f73dcc88a857ef98459e01e61468d5c4fbfd2d015bf40007e29"
+        },
+        "487273": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8069983282052749724",
+                    "size": "155626875",
+                    "download": "49690096"
+                }
+            },
+            "decryptionkey": "e51c6d933b34ad52fc4a4de6bb998e78d66ef3d9a66ab6ebeca667da7f28cd26"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1329326",
+                "timeupdated": "1473587088"
+            }
+        }
+    },
+    "access_token": 17434944468012390793
+}
