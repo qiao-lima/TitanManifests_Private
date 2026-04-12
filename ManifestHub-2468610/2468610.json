@@ -1,0 +1,66 @@
+{
+    "appid": 2468610,
+    "name": "The Night Shift",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 13:50:58",
+    "change_number": 30206585,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2468611": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "120411943274829160",
+                    "size": "4168456093",
+                    "download": "3857920928"
+                }
+            },
+            "decryptionkey": "d12d39c3e06e346270c9c9ffe7ca2ee439e19183d96ecf49ca32af53efb2899e"
+        },
+        "2468612": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "2468613": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            }
+        },
+        "2468614": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17882512",
+                "timeupdated": "1743078839"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
