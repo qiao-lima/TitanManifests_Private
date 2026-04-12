@@ -1,0 +1,42 @@
+{
+    "appid": 2535440,
+    "name": "Shadows of the Damned: Hella Remastered",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:43:21",
+    "change_number": 30193798,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2535441": {
+            "manifests": {
+                "public": {
+                    "gid": "2296615163461998905",
+                    "size": "4921765455",
+                    "download": "4781424112"
+                }
+            },
+            "decryptionkey": "fbf63413634eff3b13d9afbe47cf8a3637d69342e0fd556b01f3779ade41447a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15991776",
+                "timeupdated": "1728553163"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
