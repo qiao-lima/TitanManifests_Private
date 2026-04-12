@@ -1,0 +1,54 @@
+{
+    "appid": 912650,
+    "name": "Time Carnage",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 00:16:42",
+    "change_number": 29632815,
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "912651": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7948324049364812392",
+                    "size": "2953156897",
+                    "download": "1143506448"
+                }
+            },
+            "decryptionkey": "7a986639a9eaa757647c569a3978c6ee5ff93ad629199bc32281c3d218d32fcd"
+        },
+        "912652": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3568377936311295893",
+                    "size": "2993907241",
+                    "download": "1168271520"
+                }
+            },
+            "decryptionkey": "a6f0fec13fc93e1e462b425a13f801ea4dd97359ce43f40b1ff98485ca916047"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3494267",
+                "timeupdated": "1548251084"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
