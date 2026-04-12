@@ -1,0 +1,50 @@
+{
+    "appid": 1918700,
+    "name": "Artistic Girl 1",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 04:18:08",
+    "change_number": 30102414,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1918701": {
+            "manifests": {
+                "public": {
+                    "gid": "5594516230685757938",
+                    "size": "3687896533",
+                    "download": "562629856"
+                }
+            },
+            "decryptionkey": "86c42761024c44108716627fc307f65b63f09381aaebf38069536f641b771aaa"
+        },
+        "1986530": {
+            "dlcappid": "1986530",
+            "manifests": {
+                "public": {
+                    "gid": "7738704805870756104",
+                    "size": "293432479",
+                    "download": "225430704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1987790": {
+            "dlcappid": "1987790",
+            "manifests": {
+                "public": {
+                    "gid": "2558369777928349006",
+                    "size": "113388877",
+                    "download": "96152768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8699986",
+                "timeupdated": "1652019947"
+            }
+        }
+    }
+}
