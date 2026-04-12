@@ -1,0 +1,31 @@
+{
+    "appid": "692250",
+    "type": "Tool",
+    "name": "Sudden Strike 4 - Editor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 19:34:52",
+    "depot": {
+        "692251": {
+            "manifests": {
+                "public": {
+                    "gid": "6782951588118039638",
+                    "size": "5270520187",
+                    "download": "5291584576"
+                }
+            },
+            "decryptionkey": "31f3910a820d014317ab5dff57232758fff156c0464189d3d157c999d8b99125"
+        },
+        "workshopdepot": "692250",
+        "branches": {
+            "public": {
+                "buildid": "2662967",
+                "timeupdated": "1524664183"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    },
+    "access_token": 10758626877084216542
+}
