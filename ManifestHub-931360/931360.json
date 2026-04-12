@@ -1,0 +1,27 @@
+{
+    "appid": 931360,
+    "name": "Land of Puzzles: Battles",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 02:15:13",
+    "change_number": 29806380,
+    "depot": {
+        "931361": {
+            "manifests": {
+                "public": {
+                    "gid": "7212635566984460161",
+                    "size": "164750999",
+                    "download": "42492400"
+                }
+            },
+            "decryptionkey": "d04efb92ee8b9fd321e3369c50b973056e54b87e9339ecbd2419de461b379e37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3104356",
+                "timeupdated": "1536436114"
+            }
+        }
+    }
+}
