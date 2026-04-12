@@ -1,0 +1,27 @@
+{
+    "appid": 1588160,
+    "name": "Putin VS Zombies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 15:36:06",
+    "change_number": 30112793,
+    "depot": {
+        "1588161": {
+            "manifests": {
+                "public": {
+                    "gid": "4178740446336614605",
+                    "size": "537117729",
+                    "download": "91058960"
+                }
+            },
+            "decryptionkey": "d93124309fb778266fe9231fdeed39a6c7408fbf0da480965177a37079b615ca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7455294",
+                "timeupdated": "1633025205"
+            }
+        }
+    }
+}
