@@ -1,0 +1,42 @@
+{
+    "appid": 1768650,
+    "name": "Path of the Abyss",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 13:50:07",
+    "change_number": 30146268,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1768651": {
+            "manifests": {
+                "public": {
+                    "gid": "6030150020111469124",
+                    "size": "1469242678",
+                    "download": "1118108752"
+                }
+            },
+            "decryptionkey": "3851d9d428d99c555d4edabbbe52ccd16c6e88d08202634eac75ed472d72fcb1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19285380",
+                "timeupdated": "1752929404"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
