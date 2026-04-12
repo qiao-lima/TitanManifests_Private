@@ -1,0 +1,38 @@
+{
+    "appid": 2443780,
+    "name": "Settlemoon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 23:39:12",
+    "change_number": 29694001,
+    "depot": {
+        "2443781": {
+            "manifests": {
+                "public": {
+                    "gid": "8575404343513135375",
+                    "size": "79708298",
+                    "download": "51960272"
+                },
+                "public_testing": {
+                    "gid": "8575404343513135375",
+                    "size": "79708298",
+                    "download": "51960272"
+                }
+            },
+            "decryptionkey": "e2f1132127a592bd66b9e6ce0abbf3d31cfa65a2a8fb86ef0eccc7c4a5c2abd6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18570433",
+                "timeupdated": "1748903322"
+            },
+            "public_testing": {
+                "buildid": "18570433",
+                "description": "Rarely-used branch for testing outside of beta",
+                "timeupdated": "1748020330"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
