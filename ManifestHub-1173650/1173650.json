@@ -1,0 +1,124 @@
+{
+    "appid": 1173650,
+    "name": "SWEET MILF",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-05 03:29:25",
+    "change_number": 29906777,
+    "depot": {
+        "workshopdepot": "1173650",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1173651": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3301343576859382233",
+                    "size": "337424467",
+                    "download": "288444064"
+                }
+            },
+            "decryptionkey": "b086663d9b7ac1f6435ad79386dc808804efdbb176b8c4e0cd1a6ab741681ea4"
+        },
+        "1195060": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1195060",
+            "manifests": {
+                "public": {
+                    "gid": "7401224379107584719",
+                    "size": "198427611",
+                    "download": "163520176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1195050": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1195050",
+            "manifests": {
+                "public": {
+                    "gid": "4460514629936537140",
+                    "size": "160049928",
+                    "download": "133101520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1195030": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1195030",
+            "manifests": {
+                "public": {
+                    "gid": "4822994096135692593",
+                    "size": "211429545",
+                    "download": "180971792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1195040": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1195040",
+            "manifests": {
+                "public": {
+                    "gid": "4113899855339299853",
+                    "size": "243438894",
+                    "download": "213834064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1288180": {
+            "dlcappid": "1288180",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1361866125641479035",
+                    "size": "346629579",
+                    "download": "232493264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1318320": {
+            "dlcappid": "1318320",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8840510188312753978",
+                    "size": "803042520",
+                    "download": "682647952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18992433",
+                "timeupdated": "1750841368"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
