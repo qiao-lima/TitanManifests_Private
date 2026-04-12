@@ -1,0 +1,43 @@
+{
+    "appid": 3218530,
+    "name": "Best Served Cold",
+    "type": "Game",
+    "schinese_name": "十年不晚",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 14:08:04",
+    "change_number": 30132024,
+    "depot": {
+        "3218531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5198804368497899973",
+                    "size": "2398901449",
+                    "download": "1689752688"
+                }
+            },
+            "decryptionkey": "50ece9f8ddbf60ec708059b18a272a27ce8789161e30aaa57626720f4496c173"
+        },
+        "3218532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8022761768548440226",
+                    "size": "2423918022",
+                    "download": "1698276752"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19259792",
+                "timeupdated": "1752844077"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
