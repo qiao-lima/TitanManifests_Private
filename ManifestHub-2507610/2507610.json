@@ -1,0 +1,40 @@
+{
+    "appid": 2507610,
+    "name": "The Quintessential Quintuplets - Memories of a Quintessential Summer",
+    "type": "Game",
+    "schinese_name": "五等分的新娘 ～夏日回忆也是五等分～",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 03:53:23",
+    "change_number": 29514740,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2507611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6379063856484205756",
+                    "size": "4087487873",
+                    "download": "4081710048"
+                }
+            },
+            "decryptionkey": "b3dba487c72cacb21d129d59ba0a0b3d13ac99c212dca6a0f8766766a7f3e54e"
+        },
+        "baselanguages": "english,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "13840879",
+                "timeupdated": "1711351751"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
