@@ -1,0 +1,39 @@
+{
+    "appid": "264580",
+    "type": "Game",
+    "name": "Lost Civilization",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25658360",
+    "update_time": "2024-10-11 23:39:17",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "264581": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2717023584235910004",
+                    "size": "511297601",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "f787ca750ec862b397dce65b943d87551e47f56f5afe5ff2f1fab94644aa36a7"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "180238"
+            }
+        }
+    }
+}
