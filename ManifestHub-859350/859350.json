@@ -1,0 +1,41 @@
+{
+    "appid": 859350,
+    "name": "Aces of the Luftwaffe - Squadron",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:00:48",
+    "change_number": 29727368,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "hasdepotsindlc": "1",
+        "859351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8756442616114623308",
+                    "size": "1877847573",
+                    "download": "1086196880"
+                }
+            },
+            "decryptionkey": "278bea2f94ba7069f687b491a20e1818778569a5eff95eccf5639c22be9272e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10451392",
+                "timeupdated": "1675264306"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
