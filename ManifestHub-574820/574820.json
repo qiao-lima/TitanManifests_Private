@@ -1,0 +1,31 @@
+{
+    "appid": 574820,
+    "name": "Cat or Bread?",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 10:07:51",
+    "change_number": 29857227,
+    "depot": {
+        "baselanguages": "english,russian",
+        "574821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6987489733329434722",
+                    "size": "36386198",
+                    "download": "11638080"
+                }
+            },
+            "decryptionkey": "629c7b822f20fa3d3b58c4f9ab5137a738b94e92ef9d880f086cadfa47b519c6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1805269",
+                "timeupdated": "1494141435"
+            }
+        }
+    }
+}
