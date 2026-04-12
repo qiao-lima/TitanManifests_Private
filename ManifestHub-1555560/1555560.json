@@ -1,0 +1,72 @@
+{
+    "appid": "1555560",
+    "type": "Game",
+    "name": "Wind Angel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24981165",
+    "update_time": "2024-09-03 03:24:44",
+    "depot": {
+        "1555561": {
+            "manifests": {
+                "public": {
+                    "gid": "2909948141342601515",
+                    "size": "517065190",
+                    "download": "152409616"
+                }
+            },
+            "decryptionkey": "214178caedde03560c439add6fb9466007f096de7557d08edb7cab545af945c0"
+        },
+        "1555603": {
+            "dlcappid": "1555603",
+            "manifests": {
+                "public": {
+                    "gid": "1303361908122246230",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1555600": {
+            "dlcappid": "1555600",
+            "manifests": {
+                "public": {
+                    "gid": "3700366795629334739",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1555601": {
+            "dlcappid": "1555601",
+            "manifests": {
+                "public": {
+                    "gid": "7848275867889507036",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1555602": {
+            "dlcappid": "1555602",
+            "manifests": {
+                "public": {
+                    "gid": "723425987396610474",
+                    "size": "79",
+                    "download": "128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6311407",
+                "timeupdated": "1614609052"
+            }
+        }
+    },
+    "access_token": 7691723354930042649
+}
