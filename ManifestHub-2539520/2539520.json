@@ -1,0 +1,27 @@
+{
+    "appid": 2539520,
+    "name": "Z.O.N.A: Origin",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 21:42:49",
+    "change_number": 30174206,
+    "depot": {
+        "2539521": {
+            "manifests": {
+                "public": {
+                    "gid": "6931857722272603245",
+                    "size": "20902554541",
+                    "download": "9325534448"
+                }
+            },
+            "decryptionkey": "eb0aca695321a6ad5cdd682ec2eac7d6bab978d2560cf40503730048d0cb8a43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19191864",
+                "timeupdated": "1752242505"
+            }
+        }
+    }
+}
