@@ -1,0 +1,39 @@
+{
+    "appid": 1439750,
+    "name": "9-Bit Armies: A Bit Too Far",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 15:12:01",
+    "change_number": 30036063,
+    "depot": {
+        "workshopdepot": "1439750",
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,dutch,norwegian,swedish",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1439751": {
+            "manifests": {
+                "public": {
+                    "gid": "6355089223054917361",
+                    "size": "6153268961",
+                    "download": "3020872416"
+                }
+            },
+            "decryptionkey": "3202b82a1f4a13018f158ed9dcfb8a5aa33dbc14ec52343a3bd460d393b6bdbe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18631408",
+                "timeupdated": "1748462090"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0a15409ca6d8cc451a97b6de12ad17630c22406cf4cbdafbe6a9544040149ca0"
+    }
+}
