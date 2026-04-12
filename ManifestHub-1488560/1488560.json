@@ -1,0 +1,46 @@
+{
+    "appid": 1488560,
+    "name": "Football Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 06:36:53",
+    "change_number": 29943051,
+    "depot": {
+        "1488561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2624962073598616436",
+                    "size": "13126609822",
+                    "download": "4010198960"
+                },
+                "beta": {
+                    "gid": "9136437054669148608",
+                    "size": "14905746309",
+                    "download": "4494641520"
+                }
+            },
+            "decryptionkey": "f95f16186d655c77c7291f449147c6c688be6c189ab6fa5a166c0b56c75c184b"
+        },
+        "1488562": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18306833",
+                "timeupdated": "1746084969"
+            },
+            "beta": {
+                "buildid": "19141363",
+                "description": "For beta testing",
+                "timeupdated": "1751953004"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
