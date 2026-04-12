@@ -1,0 +1,40 @@
+{
+    "appid": 1779700,
+    "name": "Escape Simulator Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 12:49:05",
+    "change_number": 29293462,
+    "depot": {
+        "1779702": {
+            "manifests": {
+                "public": {
+                    "gid": "5143987436536791490",
+                    "size": "993759620",
+                    "download": "554995200"
+                }
+            },
+            "decryptionkey": "1ecb09c7202500daef14cc2144fb1c21a517ce92c946c41aa0da4ae0d23bcb00"
+        },
+        "1779701": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7971151497652020977",
+                    "size": "2168758150",
+                    "download": "1692692928"
+                }
+            },
+            "decryptionkey": "8f503be67f2f750717ae93d6fc059d00d66234e96b34273041a1901f2276ada1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18629488",
+                "timeupdated": "1748426207"
+            }
+        }
+    }
+}
