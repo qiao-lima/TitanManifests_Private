@@ -1,0 +1,44 @@
+{
+    "appid": 364930,
+    "name": "Koi-Koi Japan [Hanafuda playing cards]",
+    "type": "Game",
+    "schinese_name": "日式花札纸牌",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 08:28:16",
+    "change_number": 29757494,
+    "depot": {
+        "364931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5206870843604673147",
+                    "size": "496904055",
+                    "download": "231443792"
+                }
+            },
+            "decryptionkey": "c32204f8e753a97f6297e88cee3fdc456d20e48e74e84403c688252c362f876f"
+        },
+        "364932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7544224858492402215",
+                    "size": "563016577",
+                    "download": "243209600"
+                }
+            },
+            "decryptionkey": "20a27099b209e09b94b448107609f23da8827a10cc053fa52c1da26a28a76c22"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19006485",
+                "timeupdated": "1750922761"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
