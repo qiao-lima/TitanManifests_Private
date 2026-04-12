@@ -1,0 +1,43 @@
+{
+    "appid": 2429240,
+    "name": "Soulslinger: Envoy of Death",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 12:52:55",
+    "change_number": 30145863,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2429241": {
+            "manifests": {
+                "public": {
+                    "gid": "1944159495814092287",
+                    "size": "35338174072",
+                    "download": "33394441744"
+                }
+            },
+            "decryptionkey": "53e4a954f1731f3f0a40aa1f67e503a468f4684263f1e00e4f9388cff872553c"
+        },
+        "baselanguages": "english,german,french,koreana,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18966734",
+                "timeupdated": "1751446984"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
