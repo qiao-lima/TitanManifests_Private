@@ -1,0 +1,30 @@
+{
+    "appid": 518120,
+    "name": "Chimpact 1 - Chuck's Adventure",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 17:00:33",
+    "change_number": 29971701,
+    "depot": {
+        "518121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4324772349416181970",
+                    "size": "54366854",
+                    "download": "54588608"
+                }
+            },
+            "decryptionkey": "612db50fe85727ebf2aa22df44ce973c446ffd4f63e5d6b0bf83f21b6d97c4cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1345825",
+                "timeupdated": "1474375902"
+            }
+        }
+    }
+}
