@@ -1,0 +1,87 @@
+{
+    "appid": 709380,
+    "name": "Circularity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 07:10:57",
+    "change_number": 29756304,
+    "depot": {
+        "709381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7765346707554103362",
+                    "size": "79755870",
+                    "download": "13832992"
+                }
+            },
+            "decryptionkey": "e7011f71d980abfa8250a50e8c2a0765fbae667056afea33b2cedf3b6e45f446"
+        },
+        "709382": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "208542942904246424",
+                    "size": "74385502",
+                    "download": "12202992"
+                }
+            },
+            "decryptionkey": "d5da6474bc3ecf97ba34745a9b8e5bf539bdefac8247c6c5fd1d10e544de1f42"
+        },
+        "709383": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2124274202138513091",
+                    "size": "87313517",
+                    "download": "15263664"
+                }
+            },
+            "decryptionkey": "68581a0414f8f0c2a7c20e83b4e76c3082dbbb3934bf94a665788279652816aa"
+        },
+        "709384": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7839068385300906141",
+                    "size": "85938927",
+                    "download": "16134000"
+                }
+            },
+            "decryptionkey": "bb4e23aa46146afb89d5824c5fd6d5dca21d923e5c647d2bd6f319c5df0b24bb"
+        },
+        "709385": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5658565858253706501",
+                    "size": "86687679",
+                    "download": "15847904"
+                }
+            },
+            "decryptionkey": "0e3889a3ea983936d13bc824a0cda10448720a7333fbf435bc7a958ab56b89be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2401914",
+                "timeupdated": "1514487010"
+            }
+        }
+    }
+}
