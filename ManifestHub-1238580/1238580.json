@@ -1,0 +1,84 @@
+{
+    "appid": 1238580,
+    "name": "A800",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-11 08:52:45",
+    "change_number": 30005999,
+    "depot": {
+        "1238580": {
+            "config": {
+                "oslist": "windows",
+                "optionaldlc": "1238580"
+            },
+            "dlcappid": "1238580",
+            "manifests": {
+                "public": {
+                    "gid": "824059072579686241",
+                    "size": "846892",
+                    "download": "308368"
+                },
+                "nightly": {
+                    "gid": "8332877222675326331",
+                    "size": "846892",
+                    "download": "372208"
+                }
+            },
+            "decryptionkey": "40a3e430a7155a168fd988754ab31ab03592aac592fe0cafc9c097f94b7efdb3"
+        },
+        "1238581": {
+            "config": {
+                "oslist": "linux",
+                "optionaldlc": "1238580"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7589814259229912455",
+                    "size": "870912",
+                    "download": "288416"
+                },
+                "nightly": {
+                    "gid": "7589814259229912455",
+                    "size": "870912",
+                    "download": "288416"
+                }
+            },
+            "dlcappid": "1238580",
+            "decryptionkey": "552c7945ca0bfb1dffb9bbad103e9d1d66abe9bb03882815940af5fcdb913969"
+        },
+        "1238582": {
+            "config": {
+                "oslist": "macos",
+                "optionaldlc": "1238580"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1998073793102008479",
+                    "size": "1799600",
+                    "download": "582752"
+                },
+                "nightly": {
+                    "gid": "1998073793102008479",
+                    "size": "1799600",
+                    "download": "582752"
+                }
+            },
+            "dlcappid": "1238580",
+            "decryptionkey": "7f40bb34fad61fd2daddd9d1bef32ee1de0a89e6732140f25ae616fc7e10cb44"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18265077",
+                "timeupdated": "1745845129"
+            },
+            "nightly": {
+                "buildid": "19187340",
+                "description": "Nightly unstable builds",
+                "timeupdated": "1752220360"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
