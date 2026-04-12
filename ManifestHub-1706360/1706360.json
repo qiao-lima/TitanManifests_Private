@@ -1,0 +1,48 @@
+{
+    "appid": 1706360,
+    "name": "Annihilate The Spance",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 16:10:21",
+    "change_number": 30169202,
+    "depot": {
+        "1706361": {
+            "manifests": {
+                "public": {
+                    "gid": "5946208091134523676",
+                    "size": "871523623",
+                    "download": "408497424"
+                },
+                "previous": {
+                    "gid": "5810310555582569692",
+                    "size": "868059614",
+                    "download": "408101488"
+                },
+                "tester": {
+                    "gid": "4240188527207207121",
+                    "size": "910692537",
+                    "download": "450512576"
+                }
+            },
+            "decryptionkey": "743fc770248686bf7b0f26a791326fc1bc77c9a86c074e83a4dc0c615526f681"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17297678",
+                "timeupdated": "1739105551"
+            },
+            "previous": {
+                "buildid": "17059750",
+                "description": "Previous version",
+                "timeupdated": "1738971774"
+            },
+            "tester": {
+                "buildid": "19301465",
+                "description": "unstable",
+                "timeupdated": "1753110617"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
