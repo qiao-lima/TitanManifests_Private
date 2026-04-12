@@ -1,0 +1,58 @@
+{
+    "appid": "581680",
+    "type": "Game",
+    "name": "To the home",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-28 11:58:58",
+    "depot": {
+        "581681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7957431112689581946",
+                    "size": "135878527",
+                    "download": "64595024"
+                },
+                "adad": {
+                    "gid": "5247693275945269519",
+                    "size": "0",
+                    "download": "0"
+                },
+                "dsfsfsds": {
+                    "gid": "3731280583014788324",
+                    "size": "133281876",
+                    "download": "62102608"
+                },
+                "fdsfs": {
+                    "gid": "5132044304396111249",
+                    "size": "130272504",
+                    "download": "59054368"
+                }
+            },
+            "decryptionkey": "05ed6b3d6e69bad9cbff9945a5ccc0140b3773c03c2e84e07e110b1697cf8e12"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1570025",
+                "timeupdated": "1484478248"
+            },
+            "adad": {
+                "buildid": "1570117",
+                "timeupdated": "1484478255"
+            },
+            "dsfsfsds": {
+                "buildid": "1569501",
+                "timeupdated": "1484477876"
+            },
+            "fdsfs": {
+                "buildid": "1569472",
+                "timeupdated": "1484477883"
+            }
+        }
+    },
+    "access_token": 4835371497332632693
+}
