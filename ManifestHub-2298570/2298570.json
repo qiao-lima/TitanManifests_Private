@@ -1,0 +1,71 @@
+{
+    "appid": 2298570,
+    "name": "Elsia War",
+    "type": "Game",
+    "schinese_name": "辉灭 Elsia War",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 08:27:58",
+    "change_number": 29736755,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "2298571": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5628176430778916787",
+                    "size": "549179869",
+                    "download": "323995728"
+                }
+            },
+            "decryptionkey": "d6a001e4b4cc526afe5c3a6a2b4504f864ba691124bb2cc4cb089e2f9e1eec0d"
+        },
+        "2298572": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5284839941474680009",
+                    "size": "549129955",
+                    "download": "323987408"
+                }
+            },
+            "decryptionkey": "9bc3e6f832f426f0a4407ecaeb1655f6c3882fcf32a3d0883facadf08ba225d6"
+        },
+        "2298575": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2029965156895913019",
+                    "size": "524699711",
+                    "download": "309196032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2298573": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3217621749325994845",
+                    "size": "525187082",
+                    "download": "311125360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18991407",
+                "timeupdated": "1750836066"
+            }
+        }
+    }
+}
