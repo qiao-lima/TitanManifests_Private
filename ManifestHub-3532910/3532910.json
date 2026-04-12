@@ -1,0 +1,29 @@
+{
+    "appid": 3532910,
+    "name": "JR EAST Train Simulator: 185 series",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:54:58",
+    "change_number": 29202865,
+    "depot": {
+        "3532911": {
+            "manifests": {
+                "public": {
+                    "gid": "3276686678913470047",
+                    "size": "385853600",
+                    "download": "308285776"
+                }
+            },
+            "dlcappid": "3532910",
+            "decryptionkey": "dcf9dd15aab3eeacc76357b260fa7995b0873a767b75bc6e95353bf37802f911"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18513874",
+                "timeupdated": "1748311497"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
