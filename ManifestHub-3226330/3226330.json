@@ -1,0 +1,27 @@
+{
+    "appid": 3226330,
+    "name": "FOOT LOVERS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 12:11:13",
+    "change_number": 29909776,
+    "depot": {
+        "3226331": {
+            "manifests": {
+                "public": {
+                    "gid": "1139809659719158774",
+                    "size": "317595851",
+                    "download": "158363216"
+                }
+            },
+            "decryptionkey": "f36abd5a345b1b14420be0d53daefa80d16d663d783eb1ef868ee0066984779f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16054261",
+                "timeupdated": "1730420684"
+            }
+        }
+    }
+}
