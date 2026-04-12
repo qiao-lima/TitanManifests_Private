@@ -1,0 +1,38 @@
+{
+    "appid": "674530",
+    "type": "Game",
+    "name": "The Unreal Journey of Mongol",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26961380",
+    "update_time": "2025-01-12 19:15:39",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "674531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "529299340248895238",
+                    "size": "674366580",
+                    "download": "90301872"
+                }
+            },
+            "decryptionkey": "4b2ef171f1dbe79e62b907415ffc032a83cab4810320dd63f94b56d30e5b23f3"
+        },
+        "674532": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1942910",
+                "timeupdated": "1499393378"
+            }
+        }
+    },
+    "access_token": 13323640962575468061
+}
