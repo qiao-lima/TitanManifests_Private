@@ -1,0 +1,77 @@
+{
+    "appid": 1154110,
+    "name": "Steamy Sextet",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 20:10:39",
+    "change_number": 30075535,
+    "depot": {
+        "baselanguages": "english,schinese,russian,hungarian,turkish,latam",
+        "1154111": {
+            "manifests": {
+                "public": {
+                    "gid": "1669483685528862922",
+                    "size": "69126433",
+                    "download": "53673216"
+                }
+            },
+            "decryptionkey": "0948bc6aacf2c91d274987f7149d13958d81ee0e220b2cb25347b8b53bc06216"
+        },
+        "1154114": {
+            "manifests": {
+                "public": {
+                    "gid": "409715894198584486",
+                    "size": "142814740",
+                    "download": "139344640"
+                }
+            },
+            "decryptionkey": "c03e2321d1d218e97bf4119da9611f7753cf0cb4e472deaacf00dfe99e791e18"
+        },
+        "1154112": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9222438128362008252",
+                    "size": "43255955",
+                    "download": "13225344"
+                }
+            },
+            "decryptionkey": "077ef46dc1ba559f38c6e0823a36c2c84c520fdcecc80451c0bc8bda4d6b9581"
+        },
+        "1154113": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2532618008643292934",
+                    "size": "72683007",
+                    "download": "21360976"
+                }
+            },
+            "decryptionkey": "3aee10ecfbfac39a4e5ee1fe5cf52b2b84a341be56a652ca244f898ab5b22c84"
+        },
+        "1154115": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8610625417424947967",
+                    "size": "31866101",
+                    "download": "9304560"
+                }
+            },
+            "decryptionkey": "59330460e9ed0a117830d35894ee12dc60c76c68e2651a20325a763d50162b0f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13436306",
+                "timeupdated": "1707765403"
+            }
+        }
+    }
+}
