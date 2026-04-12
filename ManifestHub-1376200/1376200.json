@@ -1,0 +1,53 @@
+{
+    "appid": 1376200,
+    "name": "KARMA: The Dark World",
+    "type": "Game",
+    "schinese_name": "黑暗世界：因与果",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 17:53:13",
+    "change_number": 29791380,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1376201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7037339919441498050",
+                    "size": "26928537567",
+                    "download": "25259757328"
+                }
+            },
+            "decryptionkey": "1612a57180e8cc4027cf689881dbb2601228dee5240b7d697edaa51c164d953e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18936619",
+                "timeupdated": "1750941690"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
