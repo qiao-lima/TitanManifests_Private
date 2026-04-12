@@ -1,0 +1,41 @@
+{
+    "appid": 1764630,
+    "name": "斩妖行 Eastern Exorcist - 设定集 Digital Artbook",
+    "type": "DLC",
+    "schinese_name": "斩妖行 - 电子美术集",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 02:15:58",
+    "change_number": 30217675,
+    "depot": {
+        "1764630": {
+            "config": {
+                "language": "schinese"
+            },
+            "dlcappid": "1764630",
+            "manifests": {
+                "public": {
+                    "gid": "571088566260532846",
+                    "size": "125722249",
+                    "download": "122417536"
+                },
+                "test": {
+                    "gid": "571088566260532846",
+                    "size": "125722249",
+                    "download": "122417536"
+                }
+            },
+            "decryptionkey": "4d381efb990ec6231562a7b89a0f3f34bdd224615307a1730f0c23ffe094fcb5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7458657",
+                "timeupdated": "1633068798"
+            },
+            "test": {
+                "buildid": "7458657",
+                "description": "test",
+                "timeupdated": "1633439226"
+            }
+        }
+    }
+}
