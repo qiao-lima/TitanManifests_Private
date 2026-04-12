@@ -1,0 +1,42 @@
+{
+    "appid": 3393380,
+    "name": "The Sex Curse 💋",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 16:12:05",
+    "change_number": 29911285,
+    "depot": {
+        "3393381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "952783327122989803",
+                    "size": "6364884599",
+                    "download": "5138730720"
+                }
+            },
+            "decryptionkey": "dbbbceaacfb69c9db65ca46e19cfec3e6f1e4e6e9b63328a5208a35b6ee90e5d"
+        },
+        "3393382": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "636742082686046891",
+                    "size": "6366579296",
+                    "download": "5137291360"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18023393",
+                "timeupdated": "1744104773"
+            }
+        }
+    }
+}
