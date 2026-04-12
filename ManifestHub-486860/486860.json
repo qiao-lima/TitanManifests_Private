@@ -1,0 +1,156 @@
+{
+    "appid": 486860,
+    "name": "MMORPG Tycoon 2",
+    "type": "Game",
+    "schinese_name": "MMORPG大亨2",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 13:01:49",
+    "change_number": 30154147,
+    "depot": {
+        "486861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9124517377280182646",
+                    "size": "425491970",
+                    "download": "185202992"
+                },
+                "past": {
+                    "gid": "4560384813658266736",
+                    "size": "418890296",
+                    "download": "180688976"
+                },
+                "test": {
+                    "gid": "7224504216478713475",
+                    "size": "425492014",
+                    "download": "185203712"
+                }
+            },
+            "decryptionkey": "f100e57b925b563c14f234bfe6509b498314076e867cd46c1b17fcc9ea8dc4ed"
+        },
+        "486862": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8212992594978314290",
+                    "size": "422852250",
+                    "download": "184315520"
+                },
+                "past": {
+                    "gid": "2090165783183100279",
+                    "size": "416250078",
+                    "download": "180107056"
+                },
+                "test": {
+                    "gid": "7885790896678451616",
+                    "size": "422852294",
+                    "download": "184317152"
+                }
+            },
+            "decryptionkey": "2c408903cda3f6fd77fe5df770602288a2a9b02c3eaefed69fae54a12bdaf370"
+        },
+        "486863": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4343877304894323042",
+                    "size": "423993981",
+                    "download": "189878000"
+                },
+                "past": {
+                    "gid": "7617963537343819185",
+                    "size": "417378739",
+                    "download": "181882256"
+                },
+                "test": {
+                    "gid": "7066322378524634282",
+                    "size": "423994025",
+                    "download": "189883056"
+                }
+            },
+            "decryptionkey": "77ee755c8013d9505e9a5d8d74a6dbb3cc4ff4835ad6f83a5ff519a093c2b868"
+        },
+        "486864": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4574264762031257862",
+                    "size": "390982542",
+                    "download": "178935760"
+                },
+                "past": {
+                    "gid": "5115246334407046984",
+                    "size": "384601204",
+                    "download": "174837904"
+                },
+                "test": {
+                    "gid": "828646049461738307",
+                    "size": "390982586",
+                    "download": "178935600"
+                }
+            },
+            "decryptionkey": "8c88a8eeb1e46390c526046dea00afffe2c27a4cb4000a76ba3db13216e80700"
+        },
+        "486865": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3904976010357149734",
+                    "size": "389791038",
+                    "download": "178171680"
+                },
+                "past": {
+                    "gid": "1525648293444097172",
+                    "size": "383439300",
+                    "download": "174192944"
+                },
+                "test": {
+                    "gid": "8337412114854100997",
+                    "size": "389791082",
+                    "download": "178168784"
+                }
+            },
+            "decryptionkey": "7dcd98f29a52326112c5781763c33289648b9202421662cf3f7b9e92b6a2fd67"
+        },
+        "baselanguages": "english,german,french,schinese,brazilian",
+        "workshopdepot": "486860",
+        "branches": {
+            "public": {
+                "buildid": "19282478",
+                "timeupdated": "1752891421"
+            },
+            "past": {
+                "buildid": "18954688",
+                "description": "Very old build for regression testing",
+                "timeupdated": "1752544637"
+            },
+            "test": {
+                "buildid": "19290968",
+                "description": "Public test build",
+                "timeupdated": "1753012905"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ac422f96c65118d98532446845bcac19d5f19ff0ba046561fd1664d973b16c9f"
+    }
+}
