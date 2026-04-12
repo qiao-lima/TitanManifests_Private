@@ -1,0 +1,61 @@
+{
+    "appid": 1411380,
+    "name": "The Story of The Flood",
+    "type": "Game",
+    "schinese_name": "大洪水的故事",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 00:12:12",
+    "change_number": 29914353,
+    "depot": {
+        "1411381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1777804071952112717",
+                    "size": "933153700",
+                    "download": "246006624"
+                }
+            },
+            "decryptionkey": "af1b630755526ab92c3088c46c28eb26f0a1c285e73da22e91e6068b8fc5efa1"
+        },
+        "1411382": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8927369708173131618",
+                    "size": "959878116",
+                    "download": "256709472"
+                }
+            },
+            "decryptionkey": "24791fffd211af3b7b5369b1f50442762bb7eaaad529cc2b61ad0cc8bda3fb6e"
+        },
+        "1411383": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7262315202849073478",
+                    "size": "976005835",
+                    "download": "267537280"
+                }
+            },
+            "decryptionkey": "0095a08469b077ce32e76c8d1c3414a39709beeb904bc6c24831155d11fee57f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18592572",
+                "timeupdated": "1748072083"
+            }
+        }
+    }
+}
