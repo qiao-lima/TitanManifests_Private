@@ -1,0 +1,32 @@
+{
+    "appid": "565340",
+    "type": "Game",
+    "name": "ZombieCarz",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:18:45",
+    "depot": {
+        "baselanguages": "english,russian",
+        "565341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5900049157046178151",
+                    "size": "265130474",
+                    "download": "85013296"
+                }
+            },
+            "decryptionkey": "cfc1bf21219576d67351a3ae40352e4ae39f3dbe26ea448873bbe89beff3941f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1500416",
+                "timeupdated": "1481000883"
+            }
+        }
+    },
+    "access_token": 18355158550540524819
+}
