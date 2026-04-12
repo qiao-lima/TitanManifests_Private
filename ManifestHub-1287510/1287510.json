@@ -1,0 +1,31 @@
+{
+    "appid": 1287510,
+    "name": "Wizard Lady",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 09:51:53",
+    "change_number": 30163389,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1287511": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "498777681849874185",
+                    "size": "240513380",
+                    "download": "146257040"
+                }
+            },
+            "decryptionkey": "e267d337ca83f94f9718b0155f22eaafcc0b4d9ec884e6c4452f2574f3228f33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4891355",
+                "timeupdated": "1586774817"
+            }
+        }
+    }
+}
