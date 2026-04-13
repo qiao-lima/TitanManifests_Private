@@ -1,0 +1,27 @@
+{
+    "appid": 2525230,
+    "name": "My Lovely Stepsister",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 19:28:01",
+    "change_number": 29340153,
+    "depot": {
+        "2525231": {
+            "manifests": {
+                "public": {
+                    "gid": "1338513224740046631",
+                    "size": "1813808930",
+                    "download": "1464566160"
+                }
+            },
+            "decryptionkey": "4899aefe8c0b3c65b53bb12bcf5387421c0e6bf741c9a109a925c12800b9c268"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12094901",
+                "timeupdated": "1693642216"
+            }
+        }
+    }
+}
