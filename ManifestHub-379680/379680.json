@@ -1,0 +1,43 @@
+{
+    "appid": 379680,
+    "name": "Secrets of Grindea Translation Suite",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 09:34:13",
+    "change_number": 29808403,
+    "depot": {
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "379681": {
+            "manifests": {
+                "public": {
+                    "gid": "7168376415467337140",
+                    "size": "85904048",
+                    "download": "20808928"
+                }
+            },
+            "decryptionkey": "1a9094ef525cab4ddb6b31c3f4675458a1c0e0007658c41f9b36f988da56732b"
+        },
+        "workshopdepot": "379680",
+        "branches": {
+            "public": {
+                "buildid": "19041302",
+                "timeupdated": "1751186048"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
