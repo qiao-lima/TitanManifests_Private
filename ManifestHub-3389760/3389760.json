@@ -1,0 +1,52 @@
+{
+    "appid": 3389760,
+    "name": "HoloRun",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 23:13:19",
+    "change_number": 29750766,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3389761": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6310363920132979203",
+                    "size": "1602869110",
+                    "download": "1296288480"
+                }
+            },
+            "decryptionkey": "6b1aca8f951780b377547eb8d52023ae8a22c823a8c146af57d915dd60359a34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17622628",
+                "timeupdated": "1741278765"
+            }
+        }
+    }
+}
