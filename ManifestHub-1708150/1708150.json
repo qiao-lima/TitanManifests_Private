@@ -1,0 +1,126 @@
+{
+    "appid": 1708150,
+    "name": "Juice Galaxy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 02:19:51",
+    "change_number": 30059160,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1708151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5320781542421044713",
+                    "size": "306126436",
+                    "download": "175389744"
+                },
+                "local": {
+                    "gid": "971997442750733619",
+                    "size": "293068783",
+                    "download": "163661136"
+                },
+                "beta": {
+                    "gid": "5320781542421044713",
+                    "size": "306126436",
+                    "download": "175389744"
+                }
+            },
+            "decryptionkey": "350e0a3bacd9f9a558fb952336912411ebc1dd3ea4e13cbc54ffd50c3805e7dd"
+        },
+        "1708152": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6690675053931437870",
+                    "size": "297694820",
+                    "download": "172823664"
+                },
+                "beta": {
+                    "gid": "6690675053931437870",
+                    "size": "297694820",
+                    "download": "172823664"
+                }
+            },
+            "decryptionkey": "a416649c4590909ce21411bbcd5f73de11da733340669e152b74afe1d29c3c34"
+        },
+        "1708153": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4765846936236234533",
+                    "size": "319611819",
+                    "download": "180121632"
+                },
+                "beta": {
+                    "gid": "4765846936236234533",
+                    "size": "319611819",
+                    "download": "180121632"
+                }
+            },
+            "decryptionkey": "4dcaaabed510cd6e63b04067324896dc8713d7da881cf453e3c99c4a43952f9d"
+        },
+        "1708154": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4995664622710873204",
+                    "size": "300885510",
+                    "download": "174054032"
+                },
+                "beta": {
+                    "gid": "4995664622710873204",
+                    "size": "300885510",
+                    "download": "174054032"
+                }
+            },
+            "decryptionkey": "995798dc31b8d22a5405ecef2a8ccb4ad415514fc8b869d9a438e1f1e9acd54c"
+        },
+        "2608730": {
+            "dlcappid": "2608730",
+            "manifests": {
+                "public": {
+                    "gid": "5784488609533887109",
+                    "size": "247615729",
+                    "download": "239538608"
+                },
+                "beta": {
+                    "gid": "5784488609533887109",
+                    "size": "247615729",
+                    "download": "239538608"
+                }
+            },
+            "decryptionkey": "81059967d4d512535581edd47d545aaf05ea7990ab3b2a09a931ff0a9f36f250"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19223444",
+                "timeupdated": "1752542383"
+            },
+            "local": {
+                "buildid": "11769285",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1690148344"
+            },
+            "beta": {
+                "buildid": "19223444",
+                "description": "beta",
+                "timeupdated": "1752541926"
+            }
+        }
+    }
+}
