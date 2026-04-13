@@ -1,0 +1,43 @@
+{
+    "appid": 2423270,
+    "name": "Pilo",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 23:14:47",
+    "change_number": 29813752,
+    "depot": {
+        "2423272": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5946950928160245786",
+                    "size": "2079378448",
+                    "download": "416294144"
+                }
+            },
+            "decryptionkey": "ccffea3d3a1c70e39303460b4afded0480b97015e8956aef1a3297d88d614324"
+        },
+        "2423271": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2521352948715293863",
+                    "size": "2104058031",
+                    "download": "423713760"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,koreana,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "19027302",
+                "timeupdated": "1751032706"
+            }
+        }
+    }
+}
