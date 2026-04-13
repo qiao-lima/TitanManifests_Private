@@ -1,0 +1,27 @@
+{
+    "appid": 393580,
+    "name": "Rocket League: Official Game Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 02:50:09",
+    "change_number": 28355991,
+    "depot": {
+        "393580": {
+            "manifests": {
+                "public": {
+                    "gid": "4120205217819863998",
+                    "size": "149618788",
+                    "download": "138558624"
+                }
+            },
+            "decryptionkey": "628c163c87b7bac4a376f928b2f7187534048fb3545f46f3f3d8e295fc828949"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3268879",
+                "timeupdated": "1541110364"
+            }
+        }
+    }
+}
