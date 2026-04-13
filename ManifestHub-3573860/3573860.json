@@ -1,0 +1,28 @@
+{
+    "appid": 3573860,
+    "name": "RebellionGODSOUL-HD&DynamicWallpapers",
+    "type": "DLC",
+    "schinese_name": "叛逆神魂-额外高清&动态壁纸包",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 14:12:55",
+    "change_number": 29930810,
+    "depot": {
+        "3573860": {
+            "manifests": {
+                "public": {
+                    "gid": "2765758818816465416",
+                    "size": "195053406",
+                    "download": "193079424"
+                }
+            },
+            "dlcappid": "3573860",
+            "decryptionkey": "daa9c7677c0363903f504ee940a4451f70777b4b28ffb5ccd0175fbc7bff3a34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19051329",
+                "timeupdated": "1751289624"
+            }
+        }
+    }
+}
