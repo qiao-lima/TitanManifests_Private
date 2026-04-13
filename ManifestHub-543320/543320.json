@@ -1,0 +1,32 @@
+{
+    "appid": "543320",
+    "type": "Game",
+    "name": "Alchemist",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24541452",
+    "update_time": "2024-08-14 19:16:21",
+    "depot": {
+        "baselanguages": "english,french,koreana,schinese,russian,polish,brazilian",
+        "543321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3118623953338623254",
+                    "size": "365390668",
+                    "download": "73226336"
+                }
+            },
+            "decryptionkey": "ceae99e0d45eba837aad8bad41d1b7647d7f61b15298858e97066964a6976acf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1774581",
+                "timeupdated": "1492858968"
+            }
+        }
+    },
+    "access_token": 2911046785840779303
+}
