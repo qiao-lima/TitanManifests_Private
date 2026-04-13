@@ -1,0 +1,35 @@
+{
+    "appid": 1916310,
+    "name": "Remnant Records",
+    "type": "Game",
+    "schinese_name": "残存记录",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 22:15:55",
+    "change_number": 29711456,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1916311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6989927442886830710",
+                    "size": "9528296159",
+                    "download": "3987788944"
+                }
+            },
+            "decryptionkey": "c15fc1641b06961cce20b338388106482b2b58047fc4a139aa1c75fe574ef8f6"
+        },
+        "2781130": {
+            "dlcappid": "2781130"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18970619",
+                "timeupdated": "1750713351"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
