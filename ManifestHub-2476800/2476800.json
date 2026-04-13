@@ -1,0 +1,28 @@
+{
+    "appid": 2476800,
+    "name": "消防员康纳 - FireFighter Connor Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 07:34:10",
+    "change_number": 29293462,
+    "depot": {
+        "2476801": {
+            "manifests": {
+                "public": {
+                    "gid": "4503379163586453631",
+                    "size": "97649459",
+                    "download": "96118304"
+                }
+            },
+            "decryptionkey": "da5a52b9592a4904304b29780691754f3743be72649d44f41f6f7325f7d9c0a0"
+        },
+        "2476802": {},
+        "branches": {
+            "public": {
+                "buildid": "18678593",
+                "timeupdated": "1748632877"
+            }
+        }
+    }
+}
