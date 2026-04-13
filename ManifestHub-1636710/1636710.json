@@ -1,0 +1,50 @@
+{
+    "appid": 1636710,
+    "name": "The Brew Barons",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 18:40:52",
+    "change_number": 29746934,
+    "depot": {
+        "1636711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "511758388994070485",
+                    "size": "3920334826",
+                    "download": "1741960672"
+                },
+                "diagnostic": {
+                    "gid": "6339331538471391266",
+                    "size": "2657239528",
+                    "download": "1297546960"
+                },
+                "localization": {
+                    "gid": "8507311488618809435",
+                    "size": "3928391050",
+                    "download": "1743146416"
+                }
+            },
+            "decryptionkey": "4b89b9f61f17df4f8fc72e79e1ec6edb272ca29a9ed84979d5189c943c0b433a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15839242",
+                "timeupdated": "1727475594"
+            },
+            "diagnostic": {
+                "buildid": "17326957",
+                "description": "network test",
+                "timeupdated": "1750873246"
+            },
+            "localization": {
+                "buildid": "18848679",
+                "description": "localization testing",
+                "timeupdated": "1749775796"
+            }
+        }
+    }
+}
