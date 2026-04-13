@@ -1,0 +1,125 @@
+{
+    "appid": 469800,
+    "name": "Evolution",
+    "type": "Game",
+    "schinese_name": "进化：电子游戏",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 02:56:46",
+    "change_number": 29492750,
+    "depot": {
+        "469801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3327765026798032046",
+                    "size": "691980234",
+                    "download": "242594368"
+                }
+            },
+            "decryptionkey": "7ec4f46f958dc5dcdd78b99de9bf63f5d27459afa4f630cd4278524b20798a92"
+        },
+        "469802": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4288705917036305617",
+                    "size": "679452587",
+                    "download": "237183984"
+                }
+            },
+            "decryptionkey": "f946b43badd5f59db0b4993b28e24b3cca6fc9826669b003b0ea5be70166d433"
+        },
+        "469803": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1714591183287154274",
+                    "size": "683976078",
+                    "download": "239172656"
+                }
+            },
+            "decryptionkey": "039551ce8b8d644368ffddc4a71700d1d441a16497cc9d429d021d0b93b828d6"
+        },
+        "1472450": {
+            "dlcappid": "1472450",
+            "manifests": {
+                "public": {
+                    "gid": "1607333098482343892",
+                    "size": "21",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "ff8098ecc3f2c5c5d3286c103a2c345adc0fbb12b374b2b25271f88bcd16b1d8"
+        },
+        "1707110": {
+            "dlcappid": "1707110",
+            "manifests": {
+                "public": {
+                    "gid": "8840169813314064108",
+                    "size": "20",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "5d12a7019e95d7101c6c1351d13207e7d07c384cfcd33ab501edf623245dce4f"
+        },
+        "1707111": {
+            "dlcappid": "1707111",
+            "manifests": {
+                "public": {
+                    "gid": "8479072957048013733",
+                    "size": "20",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "3ea12dd4d7d073b3589376d93f38c0a324323bcbe1489ef7d5d7cd5616be16f4"
+        },
+        "1707112": {
+            "dlcappid": "1707112",
+            "manifests": {
+                "public": {
+                    "gid": "7832597456316858633",
+                    "size": "26",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "997e78de5aeb18d19bdc771ebf48efda762c2e2a9bb0a8f111b1fe8e8adece30"
+        },
+        "1904700": {
+            "dlcappid": "1904700",
+            "manifests": {
+                "public": {
+                    "gid": "8150710759508158536",
+                    "size": "17",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "96ce0108a052752530d68a82ced6ce245b720614e4e6d7cf83c909739c132af1"
+        },
+        "2731050": {
+            "dlcappid": "2731050",
+            "manifests": {
+                "public": {
+                    "gid": "7441313635191266415",
+                    "size": "20",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "071f4c6b6c858ba4d0b2d4e390407023389fafb92dabd3a24f0fa5acea18f668"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18701139",
+                "timeupdated": "1749581800"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
