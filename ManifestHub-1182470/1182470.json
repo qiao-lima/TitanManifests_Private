@@ -1,0 +1,48 @@
+{
+    "appid": 1182470,
+    "name": "reky",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 16:18:53",
+    "change_number": 30134362,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,turkish,greek",
+        "1182471": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4917782122718828965",
+                    "size": "494894031",
+                    "download": "49488464"
+                }
+            },
+            "decryptionkey": "b077bcc84c40b36ee5eb0c79c9757484abff3e2885ef49b31ffdc04ff8960192"
+        },
+        "1182473": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7204727974324811173",
+                    "size": "497812767",
+                    "download": "51283328"
+                }
+            },
+            "decryptionkey": "8e974653123253784f9535613d4bfb27ee1ffd1419dbf61739b7634e00a1d8c9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5510430",
+                "timeupdated": "1599457047"
+            }
+        }
+    }
+}
