@@ -1,0 +1,54 @@
+{
+    "appid": "571910",
+    "type": "Game",
+    "name": "Nightmare",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "23591175",
+    "update_time": "2024-08-28 11:58:54",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "571912": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8664377918012533119",
+                    "size": "966294067",
+                    "download": "313703104"
+                }
+            },
+            "decryptionkey": "f0e7704039a049b160800ce8d7d67d2600280e628bb916028320c11feee0e63f"
+        },
+        "571913": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6227175924594560922",
+                    "size": "965178982",
+                    "download": "319778832"
+                }
+            },
+            "decryptionkey": "61ef93b5a018373fb0d3073b1e5c17b8849e4c5715712aa18399b86bed585c16"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1550888",
+                "timeupdated": "1483544937"
+            }
+        }
+    },
+    "access_token": 2176151328554039606
+}
