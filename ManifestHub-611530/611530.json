@@ -1,0 +1,28 @@
+{
+    "appid": "611530",
+    "type": "Game",
+    "name": "Flagster",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26550050",
+    "update_time": "2024-12-09 07:15:34",
+    "depot": {
+        "611531": {
+            "manifests": {
+                "public": {
+                    "gid": "221162378108205746",
+                    "size": "88003330",
+                    "download": "13052816"
+                }
+            },
+            "decryptionkey": "47ac5d170d8e74afa572f90792ff733dd78aa2847e934cbfafe825d213c25e70"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3621738",
+                "timeupdated": "1551888764"
+            }
+        }
+    },
+    "access_token": 14362845512690350285
+}
