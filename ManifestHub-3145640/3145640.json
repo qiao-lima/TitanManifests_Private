@@ -1,0 +1,42 @@
+{
+    "appid": 3145640,
+    "name": "Gaming Copilot",
+    "type": "Application",
+    "schinese_name": "Gaming Copilot: 游戏搭子",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 12:11:11",
+    "change_number": 29909776,
+    "depot": {
+        "3145641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3285275606600339608",
+                    "size": "8494818340",
+                    "download": "4339225760"
+                }
+            },
+            "decryptionkey": "c111744effbcb0d822e67b34615963989e128ed95d1223a1cde1045e19684f65"
+        },
+        "3145642": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4926265284702630643",
+                    "size": "8772019260",
+                    "download": "4256630512"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19022384",
+                "timeupdated": "1751008332"
+            }
+        }
+    }
+}
