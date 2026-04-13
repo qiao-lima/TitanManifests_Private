@@ -1,0 +1,31 @@
+{
+    "appid": 2394450,
+    "name": "Frozen shelter",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 20:40:33",
+    "change_number": 29955946,
+    "depot": {
+        "baselanguages": "english",
+        "2394451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8040332776559587204",
+                    "size": "1884780235",
+                    "download": "640844048"
+                }
+            },
+            "decryptionkey": "8adbede9a43c12326700dbd0903ff4316eb26b610d426dd901900dde94a7c528"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11153647",
+                "timeupdated": "1683192782"
+            }
+        }
+    }
+}
