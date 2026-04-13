@@ -1,0 +1,36 @@
+{
+    "appid": 594040,
+    "name": "Series Makers",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 08:26:19",
+    "change_number": 29337391,
+    "depot": {
+        "baselanguages": "english,german,russian,portuguese",
+        "594041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1787842481935510878",
+                    "size": "962055562",
+                    "download": "132802528"
+                }
+            },
+            "decryptionkey": "464b7f803ff4e1535a597574552ce85c169bf944d373ba699be9081aa172d8ed"
+        },
+        "594042": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3629429",
+                "timeupdated": "1552074574"
+            }
+        }
+    }
+}
