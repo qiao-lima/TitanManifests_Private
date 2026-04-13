@@ -1,0 +1,56 @@
+{
+    "appid": 3125250,
+    "name": "STORROR Parkour Pro",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 12:27:12",
+    "change_number": 30165681,
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3125253": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6878080420915814396",
+                    "size": "29732412156",
+                    "download": "28000144736"
+                },
+                "beta": {
+                    "gid": "6878080420915814396",
+                    "size": "29732412156",
+                    "download": "28000144736"
+                }
+            },
+            "decryptionkey": "7161c64494cbeb2a1d23e06b21436c98c8c2af403e0c720ddd4d2b9446ae1a12"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19196916",
+                "timeupdated": "1752278477"
+            },
+            "beta": {
+                "buildid": "19196916",
+                "description": "Test builds",
+                "timeupdated": "1752275211"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
