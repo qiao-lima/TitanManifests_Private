@@ -1,0 +1,29 @@
+{
+    "appid": 2156235,
+    "name": "Atelier Ryza 3 - \"Summer Look\" Costume Set",
+    "type": "DLC",
+    "schinese_name": "莱莎的炼金工房３ - 服装组合“夏日穿搭”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:28:48",
+    "change_number": 26201212,
+    "depot": {
+        "2156235": {
+            "manifests": {
+                "public": {
+                    "gid": "3364080983846533736",
+                    "size": "153851515",
+                    "download": "46739344"
+                }
+            },
+            "dlcappid": "2156235",
+            "decryptionkey": "4bdd53f9ea00ae83f2a77ec17e55787ca22dc63cf00129f6556c3fed0506c6ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9989585",
+                "timeupdated": "1669104307"
+            }
+        }
+    },
+    "access_token": 11165716373575333441
+}
