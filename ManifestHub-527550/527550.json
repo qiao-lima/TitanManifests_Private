@@ -1,0 +1,28 @@
+{
+    "appid": "527550",
+    "type": "Game",
+    "name": "Platro",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "21117160",
+    "update_time": "2024-08-14 19:14:52",
+    "depot": {
+        "527551": {
+            "manifests": {
+                "public": {
+                    "gid": "8095355582063298872",
+                    "size": "25271980",
+                    "download": "9565568"
+                }
+            },
+            "decryptionkey": "10d77055baaf795b36bcc77c0935eabcbfc4da17c5932075653a171e9b686755"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1370631",
+                "timeupdated": "1475600666"
+            }
+        }
+    },
+    "access_token": 14483986970231880792
+}
