@@ -1,0 +1,38 @@
+{
+    "appid": 1133870,
+    "name": "Space Engineers 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 09:35:58",
+    "change_number": 30202415,
+    "depot": {
+        "workshopdepot": "1133870",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1133871": {
+            "manifests": {
+                "public": {
+                    "gid": "1001528048725791567",
+                    "size": "23681277488",
+                    "download": "11922613296"
+                }
+            },
+            "decryptionkey": "0d760afa5af25326869f34c4e246af9e2f3b4cf30464ad8587e36b5c5a6ae44e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19201791",
+                "timeupdated": "1752762752"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "bf27398c797a09cbf4c3715dbbf7e21d7e0665c642138f3da4ed1add87b1d62a"
+    }
+}
