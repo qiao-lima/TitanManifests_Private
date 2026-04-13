@@ -1,0 +1,30 @@
+{
+    "appid": 1316670,
+    "name": "DEEMO -Reborn- Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 16:14:30",
+    "change_number": 30209136,
+    "depot": {
+        "1316671": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5827647698298279223",
+                    "size": "71090468",
+                    "download": "69592272"
+                }
+            },
+            "decryptionkey": "8324432f88261451e26757a54a2c61c3c827d3ce55b32fb5ad6217fe3f7e43ed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5227339",
+                "timeupdated": "1598332389"
+            }
+        }
+    }
+}
