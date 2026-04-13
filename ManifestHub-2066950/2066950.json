@@ -1,0 +1,78 @@
+{
+    "appid": 2066950,
+    "name": "Quadrata",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 17:11:25",
+    "change_number": 30015441,
+    "depot": {
+        "workshopdepot": "2066950",
+        "2066951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4358493965645125049",
+                    "size": "223900962",
+                    "download": "30062896"
+                },
+                "legacy": {
+                    "gid": "1495299405297240785",
+                    "size": "59097798",
+                    "download": "16561408"
+                }
+            },
+            "decryptionkey": "f25d4e46d8193c3f056da7ef3d74f41104593d59f6fae71b976ba838bff29a4c"
+        },
+        "2066952": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8246937350156249146",
+                    "size": "228405005",
+                    "download": "30094256"
+                },
+                "legacy": {
+                    "gid": "2844675783531609469",
+                    "size": "60392860",
+                    "download": "16102176"
+                }
+            },
+            "decryptionkey": "2720787353fb926b14d446fb173d0c33a5bed6e119985482789363a79359dc67"
+        },
+        "2066953": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5198446147663069477",
+                    "size": "251149958",
+                    "download": "36992720"
+                },
+                "legacy": {
+                    "gid": "4475045253841850093",
+                    "size": "81716562",
+                    "download": "23370272"
+                }
+            },
+            "decryptionkey": "72e64bff35e7e13c9f67c5e7290be863dc30c37b8d94a84f340b5105380caeb9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18658098",
+                "timeupdated": "1748534687"
+            },
+            "legacy": {
+                "buildid": "18481793",
+                "description": "Public old version of Quadrata",
+                "timeupdated": "1747340819"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
