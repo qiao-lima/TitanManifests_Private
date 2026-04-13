@@ -1,0 +1,28 @@
+{
+    "appid": 3007750,
+    "name": "Innocent Grape - Digital Artbook",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 09:38:58",
+    "change_number": 27924129,
+    "depot": {
+        "3007750": {
+            "manifests": {
+                "public": {
+                    "gid": "4144553411478935953",
+                    "size": "81800024",
+                    "download": "76599936"
+                }
+            },
+            "dlcappid": "3007750",
+            "decryptionkey": "745389b76e6844e0b4ffc4f4fcaa6854ee067a5c644e970b6a2c0123ea8bc21f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15265713",
+                "timeupdated": "1722872358"
+            }
+        }
+    }
+}
