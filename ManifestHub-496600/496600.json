@@ -1,0 +1,40 @@
+{
+    "appid": 496600,
+    "name": "Partical City Guardians",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:29:45",
+    "change_number": 30057887,
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "496601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1719618452559841725",
+                    "size": "605340350",
+                    "download": "77460576"
+                }
+            },
+            "decryptionkey": "c01b6619e0b719503237f81aec5f0007dd8697413b48129e871d926272ea4bed"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "1382817",
+                "timeupdated": "1512194988"
+            }
+        }
+    },
+    "access_token": 1435977743433741576
+}
