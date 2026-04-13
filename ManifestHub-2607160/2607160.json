@@ -1,0 +1,29 @@
+{
+    "appid": 2607160,
+    "name": "Scarecropia",
+    "type": "Game",
+    "schinese_name": "稻草启世录",
+    "isfreeapp": 0,
+    "update_time": "2025-06-01 15:07:58",
+    "change_number": 29308683,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2607161": {
+            "manifests": {
+                "public": {
+                    "gid": "721670934600372123",
+                    "size": "468324200",
+                    "download": "241457456"
+                }
+            },
+            "decryptionkey": "ba2dc2c0a6252933526175043e256e36fed5e85d35f1a93d814c609a41f4e57c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18690807",
+                "timeupdated": "1748761673"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
