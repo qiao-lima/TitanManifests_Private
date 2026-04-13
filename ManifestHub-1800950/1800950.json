@@ -1,0 +1,27 @@
+{
+    "appid": 1800950,
+    "name": "Hot Milf",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 23:11:47",
+    "change_number": 30215582,
+    "depot": {
+        "1800951": {
+            "manifests": {
+                "public": {
+                    "gid": "194238973273835528",
+                    "size": "203294340",
+                    "download": "52782592"
+                }
+            },
+            "decryptionkey": "fa683ccf38940fa141c7b0659972f31583efd7107336518cfcbdbefdef11781e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7867090",
+                "timeupdated": "1639219728"
+            }
+        }
+    }
+}
