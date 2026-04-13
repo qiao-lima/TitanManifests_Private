@@ -1,0 +1,40 @@
+{
+    "appid": 3587380,
+    "name": "KAISERPUNK - Supporter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 19:40:25",
+    "change_number": 29955113,
+    "depot": {
+        "3587380": {
+            "dlcappid": "3587380",
+            "manifests": {
+                "public": {
+                    "gid": "5204301460403512729",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "6a475cee5719f87e97601b3387cfef5bc4f300e044aec62737bdde1f22de2a4f"
+        },
+        "3587381": {
+            "manifests": {
+                "public": {
+                    "gid": "2169396014359065857",
+                    "size": "45718196",
+                    "download": "41758896"
+                }
+            },
+            "dlcappid": "3587380",
+            "decryptionkey": "36fce335c938e7a5d6dc60d0da4c77e28dc145b3c7975a05e88390f1c9eede33"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18983393",
+                "timeupdated": "1750946610"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
