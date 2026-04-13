@@ -1,0 +1,58 @@
+{
+    "appid": 204360,
+    "name": "Castle Crashers",
+    "type": "Game",
+    "schinese_name": "城堡破坏者",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 23:00:29",
+    "change_number": 30215453,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "204361": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "615242043503966810",
+                    "size": "89031265",
+                    "download": "62653328"
+                }
+            },
+            "decryptionkey": "2428bf7adcf5bac5af5d4f346adeea328831349da1ac601a9d6c33db6d6b5677"
+        },
+        "204362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7767106169287332288",
+                    "size": "261630124",
+                    "download": "207180608"
+                }
+            },
+            "decryptionkey": "7a3159e2830293517766f4e7698bd55d7888ea6e752f32103a2543aa94c5548d"
+        },
+        "workshopdepot": "204360",
+        "branches": {
+            "public": {
+                "buildid": "15019473",
+                "timeupdated": "1722442916"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "f5bb85b444dee434a3aa48e4e0ff658c8ec1a74ce850aa9c986f5cefec9386cf"
+    },
+    "access_token": 14285758721387452983
+}
