@@ -1,0 +1,28 @@
+{
+    "appid": 2685500,
+    "name": "Falling with Ice Phoenix",
+    "type": "Game",
+    "schinese_name": "下来啊！冰鸟（是男人就下一百层）",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 11:32:26",
+    "change_number": 30087183,
+    "depot": {
+        "2685501": {
+            "manifests": {
+                "public": {
+                    "gid": "5955555422956952196",
+                    "size": "1551631592",
+                    "download": "1160854144"
+                }
+            },
+            "decryptionkey": "56d4ce5a7ddc4f9380bdc6771b93de03c22223e08bee1ad29f7d592dc74d4dc3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18961156",
+                "timeupdated": "1750694221"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
