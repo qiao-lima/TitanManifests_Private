@@ -1,0 +1,26 @@
+{
+    "appid": 346950,
+    "name": "The Dark Stone from Mebara",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-26 14:18:55",
+    "change_number": 29185353,
+    "depot": {
+        "346951": {
+            "manifests": {
+                "public": {
+                    "gid": "4546634200587543660",
+                    "size": "513142759",
+                    "download": "504819232"
+                }
+            },
+            "decryptionkey": "ddff6abf16e26a96310b38a215bda10b3dc9c606e7e612c4bb91675cb30e6595"
+        },
+        "branches": {
+            "public": {
+                "buildid": "645408"
+            }
+        }
+    }
+}
