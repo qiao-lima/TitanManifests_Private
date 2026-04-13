@@ -1,0 +1,89 @@
+{
+    "appid": 1471270,
+    "name": "Seablip",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 14:32:21",
+    "change_number": 30069334,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "1471271": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4624561832083678722",
+                    "size": "1969558472",
+                    "download": "438512016"
+                }
+            },
+            "decryptionkey": "606ff8f57195c5bebd0a972ea660b468d9b6f3a63f9936894308266a4c9714d1"
+        },
+        "1471272": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5153967922983061158",
+                    "size": "1987701198",
+                    "download": "444409456"
+                }
+            }
+        },
+        "1471273": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "879059698176141811",
+                    "size": "1969558472",
+                    "download": "438512016"
+                }
+            },
+            "decryptionkey": "d676bbac2f433cbacdab79b7ed7bf102fb9af9a86ac53795e21915219a32b8e5"
+        },
+        "1471274": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7310819194038496622",
+                    "size": "1987701198",
+                    "download": "444409456"
+                }
+            }
+        },
+        "1471275": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3628337918975630518",
+                    "size": "2071290993",
+                    "download": "449273360"
+                }
+            }
+        },
+        "workshopdepot": "1471270",
+        "branches": {
+            "public": {
+                "buildid": "18985645",
+                "timeupdated": "1750795985"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "cfd4938558a15d9bb64dfd61aa37b668f1d2d0c17495a224ba9a5d7d113041f9"
+    }
+}
