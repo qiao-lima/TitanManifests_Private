@@ -1,0 +1,27 @@
+{
+    "appid": 1935410,
+    "name": "The Smash Cars Tournament",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 01:37:39",
+    "change_number": 29531163,
+    "depot": {
+        "1935411": {
+            "manifests": {
+                "public": {
+                    "gid": "6498199488700663258",
+                    "size": "116772010",
+                    "download": "22166656"
+                }
+            },
+            "decryptionkey": "a160a6d74f9dfc771e2bb790093dd20caf54d6c68dd84dd3bccf1b8e46a33088"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8390621",
+                "timeupdated": "1647530083"
+            }
+        }
+    }
+}
