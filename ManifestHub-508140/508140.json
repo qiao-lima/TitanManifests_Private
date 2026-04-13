@@ -1,0 +1,28 @@
+{
+    "appid": "508140",
+    "type": "Game",
+    "name": "Zombitatos the end of the Pc master race",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "20898610",
+    "update_time": "2024-08-14 19:13:24",
+    "depot": {
+        "508141": {
+            "manifests": {
+                "public": {
+                    "gid": "4202415300678942519",
+                    "size": "1996424517",
+                    "download": "994214256"
+                }
+            },
+            "decryptionkey": "d3d4ac8f851b14994be3848b26e799f26ad0fd211c93a81e55b267c36302bd28"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1320809",
+                "timeupdated": "1473183094"
+            }
+        }
+    },
+    "access_token": 5172285639853081550
+}
