@@ -1,0 +1,42 @@
+{
+    "appid": 3022070,
+    "name": "Heart Electric Playtest",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 02:25:35",
+    "change_number": 30217772,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3022071": {
+            "manifests": {
+                "public": {
+                    "gid": "6073377133655459460",
+                    "size": "3752975486",
+                    "download": "3347536096"
+                }
+            },
+            "decryptionkey": "01d85ce9abc50da60519d13f4a804e3dd9ef4ed13d392deb91cfb2fbd8a630a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19268330",
+                "timeupdated": "1752827831"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
