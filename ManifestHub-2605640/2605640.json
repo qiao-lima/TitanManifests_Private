@@ -1,0 +1,27 @@
+{
+    "appid": 2605640,
+    "name": "Buried",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 01:20:45",
+    "change_number": 30176664,
+    "depot": {
+        "2605641": {
+            "manifests": {
+                "public": {
+                    "gid": "3970275538886361687",
+                    "size": "925851318",
+                    "download": "331652944"
+                }
+            },
+            "decryptionkey": "49912a0afdb198a7d2f29975217498c7f619dc813e6cf40871112995bd31aeb4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12565138",
+                "timeupdated": "1698580994"
+            }
+        }
+    }
+}
