@@ -1,0 +1,50 @@
+{
+    "appid": 2283580,
+    "name": "Voxile",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 19:46:34",
+    "change_number": 30212857,
+    "depot": {
+        "2283581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3517421421594251773",
+                    "size": "769113282",
+                    "download": "336989216"
+                },
+                "devtest": {
+                    "gid": "3517421421594251773",
+                    "size": "769113282",
+                    "download": "336989216"
+                },
+                "earlytest": {
+                    "gid": "3517421421594251773",
+                    "size": "769113282",
+                    "download": "336989216"
+                }
+            },
+            "decryptionkey": "9b84af9059367218f69b366e157a18614b0841913a555a78865df2f4515b2e7f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19333323",
+                "timeupdated": "1753296389"
+            },
+            "devtest": {
+                "buildid": "19333323",
+                "description": "for devs only, no testers",
+                "timeupdated": "1753295812"
+            },
+            "earlytest": {
+                "buildid": "19333323",
+                "description": "EarlyTest",
+                "timeupdated": "1753295868"
+            }
+        }
+    }
+}
