@@ -1,0 +1,32 @@
+{
+    "appid": "491030",
+    "type": "Game",
+    "name": "The Last Error",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28081003",
+    "update_time": "2025-03-22 06:18:19",
+    "depot": {
+        "baselanguages": "english",
+        "491031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2430478714492398306",
+                    "size": "54646667",
+                    "download": "52380928"
+                }
+            },
+            "decryptionkey": "6475dc3528d6b86d9c0107a9e7b7ef039b88e0cb54e3b58ef0a85bd836e92580"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1431027",
+                "timeupdated": "1477964618"
+            }
+        }
+    },
+    "access_token": 17707849907555893283
+}
