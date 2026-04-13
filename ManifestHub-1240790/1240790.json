@@ -1,0 +1,58 @@
+{
+    "appid": 1240790,
+    "name": "Legacy of Sin: The Father Sacrifice",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 20:11:44",
+    "change_number": 29920927,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1240791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7878112116130811458",
+                    "size": "470603256",
+                    "download": "144879184"
+                }
+            },
+            "decryptionkey": "d8ad34fae1fa997887123941d18057479b0469c74cc52e578aa532d134067ca7"
+        },
+        "1240792": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8967201456466569737",
+                    "size": "508883286",
+                    "download": "145795376"
+                }
+            },
+            "decryptionkey": "cba6f39535686b0705bce3a072ecfe44a49488c52c424e4a161198678aa00c0c"
+        },
+        "1240793": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9121212871138553321",
+                    "size": "488510371",
+                    "download": "151366368"
+                }
+            },
+            "decryptionkey": "109c504065310ae593d86995f9a9b7ef0bac7d4634ca65044526c3d5d29bbbef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9574100",
+                "timeupdated": "1663893280"
+            }
+        }
+    }
+}
