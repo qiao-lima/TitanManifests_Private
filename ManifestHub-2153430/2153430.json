@@ -1,0 +1,63 @@
+{
+    "appid": 2153430,
+    "name": "Signal Maze",
+    "type": "Game",
+    "schinese_name": "信号迷局 Signal Maze",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 02:47:03",
+    "change_number": 30059464,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2153433": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3336064149336658042",
+                    "size": "2005183879",
+                    "download": "710529456"
+                }
+            },
+            "decryptionkey": "a4a99e3c8e5ba8878790d4f8065073e1ad95f41c240140b36385f2edcb9cb565"
+        },
+        "2153432": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4154859474186977262",
+                    "size": "2005183879",
+                    "download": "710634112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2153431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5256386358938140128",
+                    "size": "2005183879",
+                    "download": "710742816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "2153430",
+        "branches": {
+            "public": {
+                "buildid": "19215039",
+                "timeupdated": "1752544018"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
