@@ -1,0 +1,61 @@
+{
+    "appid": 991710,
+    "name": "GunboundM",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 09:32:54",
+    "change_number": 30106173,
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "991711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1871961508694119216",
+                    "size": "222333125",
+                    "download": "93894208"
+                }
+            },
+            "decryptionkey": "7bc407ff2d113ea895ee22301b5848e22b92fe79c27b93733d8bc5fc0a9fee6c"
+        },
+        "baselanguages": "english,koreana",
+        "branches": {
+            "public": {
+                "buildid": "19242470",
+                "timeupdated": "1752741169"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
