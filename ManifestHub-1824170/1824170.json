@@ -1,0 +1,65 @@
+{
+    "appid": 1824170,
+    "name": "Christmas Mansion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 20:43:45",
+    "change_number": 30117916,
+    "depot": {
+        "baselanguages": "english,dutch",
+        "228989": {
+            "shareddepottype": "commonredist",
+            "sharedinstall": "1",
+            "depotfromapp": "0"
+        },
+        "1824171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3516477412056712534",
+                    "size": "144258574",
+                    "download": "121487888"
+                },
+                "test": {
+                    "gid": "3516477412056712534",
+                    "size": "144258574",
+                    "download": "121487888"
+                }
+            },
+            "decryptionkey": "a62833e17cfa3c787b6c45ec577ae3ee9d5e5dfc83326e13159a4d5025a9f881"
+        },
+        "1824172": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2130818846550988906",
+                    "size": "146816654",
+                    "download": "120625600"
+                },
+                "test": {
+                    "gid": "2130818846550988906",
+                    "size": "146816654",
+                    "download": "120625600"
+                }
+            },
+            "decryptionkey": "adc1e0efff4427b276a6fb3f1032843fb90bbc6c579bffee4cc4df12c71bed7d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19264976",
+                "timeupdated": "1752781419"
+            },
+            "test": {
+                "buildid": "19264976",
+                "description": "test branch",
+                "timeupdated": "1752781088"
+            }
+        }
+    }
+}
