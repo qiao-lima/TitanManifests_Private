@@ -1,0 +1,44 @@
+{
+    "appid": 1454540,
+    "name": "Lapin",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:39:13",
+    "change_number": 29383734,
+    "depot": {
+        "baselanguages": "english,koreana,japanese",
+        "1454541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8929422266256534490",
+                    "size": "4040052655",
+                    "download": "515355472"
+                }
+            },
+            "decryptionkey": "ba670f543339a838e5d4c449d09bb8a076d0b61190472fca5e86166a9be8961e"
+        },
+        "1454542": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1672145004891812164",
+                    "size": "6950586730",
+                    "download": "565107824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18727424",
+                "timeupdated": "1749005017"
+            }
+        }
+    }
+}
