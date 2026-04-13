@@ -1,0 +1,45 @@
+{
+    "appid": 2455940,
+    "name": "After School",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-10 04:47:35",
+    "change_number": 29980524,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2455941": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "951097595953003837",
+                    "size": "519451393",
+                    "download": "411183904"
+                }
+            },
+            "decryptionkey": "89729124326f8f1e44ba9dfb5b43053014f6b00cf9cea874a573aa8028967f50"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19169666",
+                "timeupdated": "1752119251"
+            }
+        }
+    }
+}
