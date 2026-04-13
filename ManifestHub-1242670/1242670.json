@@ -1,0 +1,32 @@
+{
+    "appid": 1242670,
+    "name": "RollingSky",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-02 21:55:37",
+    "change_number": 29867501,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,japanese,dutch,latam",
+        "1242671": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8047628872002884661",
+                    "size": "303852776",
+                    "download": "107678160"
+                }
+            },
+            "decryptionkey": "9493dce6761cebfb13fe2b5d43f19d53b55ea1d2f7a3bc1488382f6a27efb0b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4712515",
+                "timeupdated": "1582617023"
+            }
+        }
+    }
+}
