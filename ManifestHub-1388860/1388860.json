@@ -1,0 +1,79 @@
+{
+    "appid": 1388860,
+    "name": "Unmemory",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 08:16:19",
+    "change_number": 29781455,
+    "depot": {
+        "1388861": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6276789139025340171",
+                    "size": "2100054737",
+                    "download": "888904832"
+                },
+                "beta": {
+                    "gid": "3940473153695014713",
+                    "size": "2175045389",
+                    "download": "960206416"
+                }
+            },
+            "decryptionkey": "a17dd009a6ebcc47999cf67eda8317ae131937285c4a12ecbc0007c44c40ccbd"
+        },
+        "1388862": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4304972445784963377",
+                    "size": "2109848385",
+                    "download": "891812880"
+                },
+                "beta": {
+                    "gid": "1659764550497143835",
+                    "size": "2183882878",
+                    "download": "961191056"
+                }
+            },
+            "decryptionkey": "1f054f3b0caf204937eb5b668d8f3f5bdebcf1430827ba590b4fd72079cf35aa"
+        },
+        "1388863": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7587457631171780869",
+                    "size": "2120418306",
+                    "download": "891956176"
+                },
+                "beta": {
+                    "gid": "7242311942274784154",
+                    "size": "2194445904",
+                    "download": "963468320"
+                }
+            },
+            "decryptionkey": "5ead9bee6cfba8f1528ae649b286211b1c69c1b81fa68f1a94288fd48ecff4c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5783971",
+                "timeupdated": "1604520730"
+            },
+            "beta": {
+                "buildid": "6289842",
+                "timeupdated": "1614282443"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
