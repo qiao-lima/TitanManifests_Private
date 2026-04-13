@@ -1,0 +1,32 @@
+{
+    "appid": 292630,
+    "name": "Uriel's Chasm",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 20:44:30",
+    "change_number": 29913061,
+    "depot": {
+        "overridescddb": "1",
+        "292631": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "579737333388101563",
+                    "size": "152319502",
+                    "download": "9722510621"
+                }
+            },
+            "decryptionkey": "e9c647e40212aba24bd877f0d4c05f69a1da17e6816b3616eba4447f5b8a3418"
+        },
+        "branches": {
+            "public": {
+                "buildid": "385454"
+            }
+        }
+    }
+}
