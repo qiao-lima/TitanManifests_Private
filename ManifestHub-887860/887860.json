@@ -1,0 +1,62 @@
+{
+    "appid": 887860,
+    "name": "Insurgency: Sandstorm Community Test Environment",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:31:55",
+    "change_number": 30057887,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "887861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7273503393137229365",
+                    "size": "272671248",
+                    "download": "209674624"
+                }
+            },
+            "decryptionkey": "0894866fa75d2d330eaf7b86fdb5dd86c30e99ad2e465b425a482cc3fd396ae6"
+        },
+        "1575010": {
+            "dlcappid": "1575010",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "303772630779096563",
+                    "size": "272671248",
+                    "download": "209674624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "7371809",
+                "timeupdated": "1631811623"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 16324126011549371902
+}
