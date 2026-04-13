@@ -1,0 +1,27 @@
+{
+    "appid": 2834640,
+    "name": "Paintball Playground Dedicated Server",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-24 02:28:53",
+    "change_number": 29156552,
+    "depot": {
+        "2834641": {
+            "manifests": {
+                "public": {
+                    "gid": "3336468936735746249",
+                    "size": "1994069028",
+                    "download": "1010863536"
+                }
+            },
+            "decryptionkey": "d8f35c49180b4198f54fa5ae054bd1d917b273e8ef8033add207857f6715beae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18586779",
+                "timeupdated": "1748024928"
+            }
+        }
+    }
+}
