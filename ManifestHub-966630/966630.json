@@ -1,0 +1,27 @@
+{
+    "appid": 966630,
+    "name": "qop 4",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-18 07:19:38",
+    "change_number": 29618240,
+    "depot": {
+        "966631": {
+            "manifests": {
+                "public": {
+                    "gid": "435638734242873591",
+                    "size": "9260896",
+                    "download": "6430992"
+                }
+            },
+            "decryptionkey": "c3860281ba20da9dfa7c6cf6ec07030a4fcda0603e91ad387ad2387f86c4f25c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3816738",
+                "timeupdated": "1557700013"
+            }
+        }
+    }
+}
