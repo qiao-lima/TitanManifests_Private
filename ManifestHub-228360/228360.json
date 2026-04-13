@@ -1,0 +1,92 @@
+{
+    "appid": 228360,
+    "name": "Full Throttle Remastered",
+    "type": "Game",
+    "schinese_name": "极速天龙：重制版",
+    "isfreeapp": 0,
+    "update_time": "2025-05-23 05:27:33",
+    "change_number": 29129755,
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228361": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5780415567664732664",
+                    "size": "5474973766",
+                    "download": "4624269008"
+                }
+            },
+            "decryptionkey": "c291c092d3c31ecf5a8a79207b1c287cba54eb31fbab3d29e7d29293d3725e78"
+        },
+        "228362": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4257738348412462769",
+                    "size": "5480983922",
+                    "download": "4624202096"
+                }
+            },
+            "decryptionkey": "ec22c0713321b8a3b14a3f5b5502adb3b42f1825c3d5c3d83ad99c7b77430f69"
+        },
+        "228363": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5184660395550280898",
+                    "size": "5482370636",
+                    "download": "4624382784"
+                }
+            },
+            "decryptionkey": "e8f8d2fbfc136477fcd7d616edd46a4bf90b724275954c3b5b28af3ccb0bb4bc"
+        },
+        "228364": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9165309591737527700",
+                    "size": "5478771010",
+                    "download": "4626304576"
+                }
+            },
+            "decryptionkey": "3c7ed0ff2427df956e044481962391e8738a07e7f6c2e5782dc047b008813003"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5061015",
+                "timeupdated": "1593037773"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
