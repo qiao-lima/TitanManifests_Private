@@ -1,0 +1,42 @@
+{
+    "appid": 1736400,
+    "name": "TramSim Munich",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 07:01:48",
+    "change_number": 29962684,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1736401": {
+            "manifests": {
+                "public": {
+                    "gid": "622877735663167171",
+                    "size": "13952892916",
+                    "download": "13235293968"
+                }
+            },
+            "decryptionkey": "87335a1372ef65359000b31539137a4a72e652de2051c49a2c9aab389e2bb2fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9106802",
+                "timeupdated": "1658218093"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
