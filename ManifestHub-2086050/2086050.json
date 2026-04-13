@@ -1,0 +1,82 @@
+{
+    "appid": 2086050,
+    "name": "Oh So Hero!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 08:38:18",
+    "change_number": 30126646,
+    "depot": {
+        "2086051": {},
+        "2086052": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9013225875880756386",
+                    "size": "898970986",
+                    "download": "804316800"
+                }
+            },
+            "decryptionkey": "84af280228b4bd02a9c66b858cd9f9ffd607e6ad8c1cbd092a007b9ec488fd91"
+        },
+        "2086053": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "675496556107957626",
+                    "size": "889908512",
+                    "download": "801573776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2086054": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6731038580110456905",
+                    "size": "895439131",
+                    "download": "803775376"
+                }
+            }
+        },
+        "2086055": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7260624136536378770",
+                    "size": "925630006",
+                    "download": "812827280"
+                }
+            }
+        },
+        "2086056": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1161256828430833301",
+                    "size": "980759484",
+                    "download": "832358768"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19124680",
+                "timeupdated": "1751829132"
+            }
+        }
+    }
+}
