@@ -1,0 +1,45 @@
+{
+    "appid": 2859860,
+    "name": "Veloria: The Knot of Candles",
+    "type": "Game",
+    "schinese_name": "薇拉里娅的烛花 Veloria: The Knot of Candle",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 04:43:10",
+    "change_number": 29890499,
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "2859863": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3950864353775966944",
+                    "size": "1009977487",
+                    "download": "586404688"
+                }
+            },
+            "decryptionkey": "dbdf11de9e490280e6d377345bc39a5f5bfcd69237235e3123708f4d3bebf2f5"
+        },
+        "2859864": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2234476352462879650",
+                    "size": "1175648819",
+                    "download": "577775584"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19012981",
+                "timeupdated": "1750951237"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
