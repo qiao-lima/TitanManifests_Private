@@ -1,0 +1,46 @@
+{
+    "appid": 1737040,
+    "name": "Motor Town: Behind The Wheel Beta Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-30 07:40:05",
+    "change_number": 29817423,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1737041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8177036754233982393",
+                    "size": "3029803910",
+                    "download": "2643492896"
+                }
+            },
+            "decryptionkey": "cb05e8f01c6561028c45e74fd280f1e9c96caefd2c0b54d7d326268443826667"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19039956",
+                "timeupdated": "1751265599"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
