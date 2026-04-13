@@ -1,0 +1,64 @@
+{
+    "appid": 1962890,
+    "name": "IN HEAT: Lustful Nights",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 13:18:09",
+    "change_number": 30166426,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1962893": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6952131971804250097",
+                    "size": "2553455665",
+                    "download": "2195149104"
+                }
+            },
+            "decryptionkey": "ab7e60c39d99bce5621360d6d477edde9c110013223eb43348075d88a8d8ac4a"
+        },
+        "1962892": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3911600039453111123",
+                    "size": "2677090385",
+                    "download": "2236361808"
+                }
+            },
+            "decryptionkey": "60717376a71cf4201f92d9a5b64cc89b8cdb76d48ac2a3ecaeb022a01b2d3c37"
+        },
+        "1962891": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3192965226058634948",
+                    "size": "2516271116",
+                    "download": "2103396320"
+                }
+            },
+            "decryptionkey": "2fdfc7628e972abce5c5f744fccec79a1c0f4cd3e4782b58c608fcd0e44d4457"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19136416",
+                "timeupdated": "1751918947"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
