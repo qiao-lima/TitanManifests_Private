@@ -1,0 +1,51 @@
+{
+    "appid": 825190,
+    "name": "MisBits",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 02:51:40",
+    "change_number": 30159737,
+    "depot": {
+        "baselanguages": "english,polish",
+        "workshopdepot": "825190",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "825192": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5137301619269605535",
+                    "size": "6118225399",
+                    "download": "5673065424"
+                }
+            },
+            "decryptionkey": "3ae5e245769c3a3cce61f95e08640e04ae588967dca4cc5024b4ec4625531123"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "5221587",
+                "timeupdated": "1593210354"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3e8402a74dd84c37a773824a4bd3fe877fbeca5b791e9d90ce5d46968632e85e"
+    }
+}
