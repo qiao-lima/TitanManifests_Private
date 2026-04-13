@@ -1,0 +1,28 @@
+{
+    "appid": 1831680,
+    "name": "Waifu Crush",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 01:10:08",
+    "change_number": 30040138,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1831681": {
+            "manifests": {
+                "public": {
+                    "gid": "2477875205734059348",
+                    "size": "547360909",
+                    "download": "271539376"
+                }
+            },
+            "decryptionkey": "e0db5090fab30f272578476c3afad511ca8256f535eec1829773e95b1f6b8e43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8998883",
+                "timeupdated": "1656080981"
+            }
+        }
+    }
+}
