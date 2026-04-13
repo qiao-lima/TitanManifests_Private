@@ -1,0 +1,39 @@
+{
+    "appid": 1970020,
+    "name": "东方妖精武踏会",
+    "type": "Game",
+    "schinese_name": "东方妖精武踏会",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 15:39:44",
+    "change_number": 30050591,
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "1970021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6357863508437492383",
+                    "size": "643514871",
+                    "download": "359827936"
+                }
+            },
+            "decryptionkey": "1e1e255c8b2ba78328590d66f72c3af07bb7c2fc2699357493b16bc2d90597d0"
+        },
+        "1970022": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19217563",
+                "timeupdated": "1752503977"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
