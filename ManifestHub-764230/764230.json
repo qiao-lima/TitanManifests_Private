@@ -1,0 +1,43 @@
+{
+    "appid": 764230,
+    "name": "Shoujo City",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 23:37:39",
+    "change_number": 30140406,
+    "depot": {
+        "764231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8001629758620200055",
+                    "size": "1218044567",
+                    "download": "398773200"
+                }
+            },
+            "decryptionkey": "f0c70efe9c46592f764f79ec27c81e4dfd1d9568831d504a5f9d8605794a8a12"
+        },
+        "764232": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8086617009011807543",
+                    "size": "1240793627",
+                    "download": "407559520"
+                }
+            },
+            "decryptionkey": "ea331205dce6b20a3bdc1578e0ae7050c40fbec8584c22a3968489e780b7e18c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19105030",
+                "timeupdated": "1752878255"
+            }
+        }
+    }
+}
