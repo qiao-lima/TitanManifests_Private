@@ -1,0 +1,248 @@
+{
+    "appid": 471330,
+    "name": "Versus Squad",
+    "type": "Game",
+    "schinese_name": "对战小队",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 12:10:35",
+    "change_number": 30205059,
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "542130": {
+            "dlcappid": "542130",
+            "manifests": {
+                "public": {
+                    "gid": "2835692025218938231",
+                    "size": "262746902",
+                    "download": "231137120"
+                }
+            },
+            "decryptionkey": "262f7ec25fa3100c4554f16e5af549a1d28b7b3652528ddfd16311368f394bc2"
+        },
+        "471342": {
+            "config": {
+                "language": "russian",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9056046843353728023",
+                    "size": "16552067",
+                    "download": "4769296"
+                }
+            },
+            "decryptionkey": "8a20dc484d5d355ced5b4f8ffe174bab9992351fc9d2c64379667f7734a71399"
+        },
+        "471345": {
+            "config": {
+                "language": "schinese",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4639263637228348785",
+                    "size": "16486539",
+                    "download": "4764384"
+                }
+            },
+            "decryptionkey": "f754a3c503c1833262d81aa8f0ad286623086be6fece851190da4fda6eceb7dc"
+        },
+        "471344": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6907021101840885551",
+                    "size": "16486539",
+                    "download": "4763040"
+                }
+            },
+            "decryptionkey": "f8a6ceb5ace741a03fbf883997b65b05be17ebe2fe64719faa0633403d0c0aaa"
+        },
+        "471341": {
+            "config": {
+                "language": "japanese",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2002456637108577542",
+                    "size": "16490627",
+                    "download": "4762480"
+                }
+            },
+            "decryptionkey": "c3f2b9cd5f1362ec281e3497e7073f6eb31f17728843e5d63f8aeb01668ac14d"
+        },
+        "471343": {
+            "config": {
+                "language": "german",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2365506964449326767",
+                    "size": "16556163",
+                    "download": "4769280"
+                }
+            },
+            "decryptionkey": "790c9b6d717732be369906a4225ddd95a969612196ebff05c79c211e858f9b11"
+        },
+        "471340": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2243389986196354551",
+                    "size": "16543875",
+                    "download": "4767088"
+                }
+            },
+            "decryptionkey": "54a48185ff6f57d0874f019487b5f60c645f710331e2f312b5894ff7bd9c7975"
+        },
+        "471339": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4718713411006686412",
+                    "size": "12390977",
+                    "download": "3858880"
+                }
+            },
+            "decryptionkey": "9c089284b03a07f54cca2b50275106f7035ece138a406739c359bc20e9cc5f5a"
+        },
+        "471338": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2319558574752222010",
+                    "size": "13437149",
+                    "download": "3888928"
+                }
+            },
+            "decryptionkey": "de69f399b9e72af0df2d0cafb44e1c37d82abcbbd6e1956bedfa874fe2399dd3"
+        },
+        "471337": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "663900773939490224",
+                    "size": "11292760",
+                    "download": "3823296"
+                }
+            },
+            "decryptionkey": "35d35e5a0d8f7b0a9fa01e1e4e5a25ba8579c922595165eab4af77bf6d4a8984"
+        },
+        "471336": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "425880150535983344",
+                    "size": "11291224",
+                    "download": "3823744"
+                }
+            },
+            "decryptionkey": "0198a97371cecff2d16939eb70764baf2a2b25f27d5f64a4dacebb76521c717b"
+        },
+        "471334": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4712084016321105951",
+                    "size": "11324504",
+                    "download": "3827408"
+                }
+            },
+            "decryptionkey": "cf15f27305f5e0cd11b95fb093d0d676e321b430a0321345c45067c85f3fbb35"
+        },
+        "471333": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5864950192476991414",
+                    "size": "11293272",
+                    "download": "3822928"
+                }
+            },
+            "decryptionkey": "7c7815f8ad486474345d47e94081a4c9faa88f248285e41654e30c0c6e74a0df"
+        },
+        "471335": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4356973633241899870",
+                    "size": "12388417",
+                    "download": "3859136"
+                }
+            },
+            "decryptionkey": "f4908f50010cb4f4bc59c132e63f8b4b17fe033f91a488c2f7ae44063b9a78aa"
+        },
+        "471332": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "579850964559295248",
+                    "size": "11320408",
+                    "download": "3825104"
+                }
+            },
+            "decryptionkey": "b4471f30ecfdde02cda2eb8fdb3ce30730a69dd99740a498f85ea3c6d092196e"
+        },
+        "471331": {
+            "manifests": {
+                "public": {
+                    "gid": "454768688251042432",
+                    "size": "281134956",
+                    "download": "277953280"
+                }
+            },
+            "decryptionkey": "8efc44eec706a546e58370bf4c27a948f4b55f6969b78229f2ee6837abcf9a05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4111960",
+                "timeupdated": "1565956536"
+            }
+        }
+    }
+}
