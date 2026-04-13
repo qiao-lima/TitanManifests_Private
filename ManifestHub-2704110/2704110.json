@@ -1,0 +1,30 @@
+{
+    "appid": 2704110,
+    "name": "彼方的她-Aliya",
+    "type": "Game",
+    "schinese_name": "彼方的她-Aliya",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 11:12:35",
+    "change_number": 30204091,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "2704111": {
+            "manifests": {
+                "public": {
+                    "gid": "6695761162722337488",
+                    "size": "662804471",
+                    "download": "178663072"
+                }
+            },
+            "decryptionkey": "3cc2f04cef5b384e21ad0f4ec9a3624efca4f18763f15128c997ef49a611ef4a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19035344",
+                "timeupdated": "1751093467"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
