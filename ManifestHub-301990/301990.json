@@ -1,0 +1,26 @@
+{
+    "appid": 301990,
+    "name": "School Bus Fun",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 18:11:02",
+    "change_number": 29934629,
+    "depot": {
+        "301991": {
+            "manifests": {
+                "public": {
+                    "gid": "798105141867209050",
+                    "size": "89671558",
+                    "download": "153305137045"
+                }
+            },
+            "decryptionkey": "3cd592465e48c188e0df6d59ce1c6a1692f680b065a5f7abd712b88cc1985372"
+        },
+        "branches": {
+            "public": {
+                "buildid": "333160"
+            }
+        }
+    }
+}
