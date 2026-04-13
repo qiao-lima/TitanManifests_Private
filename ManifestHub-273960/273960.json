@@ -1,0 +1,383 @@
+{
+    "appid": 273960,
+    "name": "Mechs & Mercs: Black Talons",
+    "type": "Game",
+    "schinese_name": "机甲佣兵：黑爪",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:17:27",
+    "change_number": 29161168,
+    "depot": {
+        "overridescddb": "1",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "273961": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2686518984573042927",
+                    "size": "3476787879",
+                    "download": "1747028768"
+                },
+                "survival": {
+                    "gid": "263027452874002590",
+                    "size": "3325652198",
+                    "download": "208800798456"
+                }
+            },
+            "decryptionkey": "3f44135c82251053957fa0397716a9baed68aea84971a765c0cd9aada8f492e1"
+        },
+        "273962": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2778437371343960867",
+                    "size": "3232411921",
+                    "download": "1576388448"
+                },
+                "survival": {
+                    "gid": "3023873325118186929",
+                    "size": "3251154785",
+                    "download": "111732238926"
+                }
+            },
+            "decryptionkey": "98b6eb628720aa1eefe24076156e1477413b635eb8e938a2541a107ff3339936"
+        },
+        "273965": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5938566935640824602",
+                    "size": "3300630203",
+                    "download": "1663789488"
+                },
+                "survival": {
+                    "gid": "4023858971492371306",
+                    "size": "3335944682",
+                    "download": "412316902778"
+                }
+            },
+            "decryptionkey": "8982a6092b803726c3621fea4dfb077a175516f2a14d709c2d3324bdf2c157a6"
+        },
+        "273963": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5473239831199072071",
+                    "size": "3545519496",
+                    "download": "1812909744"
+                },
+                "survival": {
+                    "gid": "1529389937563850955",
+                    "size": "3569247534",
+                    "download": "1795937024"
+                }
+            },
+            "decryptionkey": "acb7e6a86c74518f4d6e78b3103f928f8721e0f69f11310595702de74feebec6"
+        },
+        "273964": {
+            "config": {
+                "language": "german",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7421520328736039523",
+                    "size": "3309473148",
+                    "download": "1587407984"
+                },
+                "survival": {
+                    "gid": "6204762870854066596",
+                    "size": "3316320522",
+                    "download": "1708271488"
+                }
+            },
+            "decryptionkey": "2a96267b6acfa70afc191058680da89d903d23b3451401770979ce9d1b8908ab"
+        },
+        "273978": {
+            "config": {
+                "language": "german",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5225036481431363345",
+                    "size": "3307446248",
+                    "download": "1498882272"
+                }
+            },
+            "decryptionkey": "d4c8addf18d72e951b033f0c9e25717758d5cbca35f31ad9161aa7a970add47f"
+        },
+        "273966": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2839683211282939165",
+                    "size": "3476808911",
+                    "download": "1740510272"
+                },
+                "survival": {
+                    "gid": "2687066122478166296",
+                    "size": "3545453882",
+                    "download": "1767174736"
+                }
+            },
+            "decryptionkey": "63e25b568c1c536068d3fdeb4e31ced70836e1accf4cadf1aea692b01b1a943c"
+        },
+        "273967": {
+            "config": {
+                "language": "french",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7925036914515522858",
+                    "size": "3232432953",
+                    "download": "1464612448"
+                }
+            },
+            "decryptionkey": "27facd7d104cc00555febbe4cbaa2c88fec334be664b325c51e419d148035ab5"
+        },
+        "273968": {
+            "config": {
+                "language": "french",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5613550183730263777",
+                    "size": "3300651235",
+                    "download": "1501719072"
+                }
+            },
+            "decryptionkey": "ecccd0e5d361e0b1c9715ab4be962f800adcad78c27545772b4c960b61f65764"
+        },
+        "273969": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2071795307335349419",
+                    "size": "3476766551",
+                    "download": "1740436096"
+                },
+                "survival": {
+                    "gid": "2760350163789412752",
+                    "size": "3545421315",
+                    "download": "1766613200"
+                }
+            },
+            "decryptionkey": "e3c71d98a65757d0ee35a7be211970886f23af2be4bc99c07db2b78c76d4c21e"
+        },
+        "273970": {
+            "config": {
+                "language": "italian",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4973121088144410379",
+                    "size": "3232390593",
+                    "download": "1464615280"
+                }
+            },
+            "decryptionkey": "5a5d3e0cb348ccabf019f9ac52c1654e5e28c1605e0cf154c8c9c995ef22ee36"
+        },
+        "273971": {
+            "config": {
+                "language": "italian",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8677074340618384342",
+                    "size": "3300608875",
+                    "download": "1502803888"
+                }
+            },
+            "decryptionkey": "329f3bdf54b5963854c14987619070179a3de3ba47a9defd2e0f96354a15a57e"
+        },
+        "273972": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2054163869842530218",
+                    "size": "3476872148",
+                    "download": "1600262560"
+                }
+            },
+            "decryptionkey": "f4028ff3bf1acbfa02ec58ce155705b40700b20e1c2d830b3cf8d15613a5f421"
+        },
+        "273973": {
+            "config": {
+                "language": "spanish",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9122684696448453101",
+                    "size": "3215118879",
+                    "download": "1450763808"
+                }
+            },
+            "decryptionkey": "e5cc44391362a8ff7b35682a7833085d98ffe917bf015af54b4d016e57b83d26"
+        },
+        "273974": {
+            "config": {
+                "language": "spanish",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8440423191046157276",
+                    "size": "3300618411",
+                    "download": "1502446416"
+                }
+            },
+            "decryptionkey": "fa1de4d88f7812d9624b257e80e5c676a353cb81b965dc4d12171fb19b8cfb87"
+        },
+        "273975": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2572767736809022039",
+                    "size": "3584078796",
+                    "download": "1805741008"
+                },
+                "survival": {
+                    "gid": "1178033624891704473",
+                    "size": "3566726898",
+                    "download": "1788712176"
+                }
+            },
+            "decryptionkey": "e2994296ccad4cbd4d4adf1b73af312e14d385fc0a5572e145f34862f6453e89"
+        },
+        "273977": {
+            "config": {
+                "language": "russian",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3226783577948036868",
+                    "size": "3424441370",
+                    "download": "1575229936"
+                }
+            },
+            "decryptionkey": "af0551d19a17440e78d333e92fbde5110a622be07bc2027582cdef068a057de5"
+        },
+        "273976": {
+            "config": {
+                "language": "portuguese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5320543846941281646",
+                    "size": "3583826872",
+                    "download": "1594296544"
+                }
+            },
+            "decryptionkey": "531bfd4cda8b1c015af63397d26da6cb9886a4639260763d1b29b3e98225bf24"
+        },
+        "273979": {
+            "config": {
+                "language": "portuguese",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2436903309141276787",
+                    "size": "3424083647",
+                    "download": "1536681232"
+                }
+            },
+            "decryptionkey": "04c0b783026982a5d22272763488bbff0ee6eaab0e2e8d54c9b7fdb43d4ef79c"
+        },
+        "345100": {
+            "config": {
+                "language": "russian",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "859068110177719958",
+                    "size": "3352889563",
+                    "download": "1529634160"
+                }
+            },
+            "decryptionkey": "920f9bf8c9fa0d443d220da8a881e4ffd686baf484e1ba97f8e94656016fbd12"
+        },
+        "345101": {
+            "config": {
+                "language": "portuguese",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3458026093903890052",
+                    "size": "3352550867",
+                    "download": "1529522976"
+                }
+            },
+            "decryptionkey": "02158326cf15415ac29ded030b10adde91478427b5f5ce97183917ef7ce50556"
+        },
+        "345102": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "183260138643886031",
+                    "size": "3583773489",
+                    "download": "1594565184"
+                }
+            },
+            "decryptionkey": "f8223f9cfd31645180c72cfad221bf9339d00e8785f5a4a6ebbc708147a07e45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "655387"
+            },
+            "survival": {
+                "buildid": "451907"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
