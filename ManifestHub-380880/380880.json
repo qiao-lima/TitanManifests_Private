@@ -1,0 +1,64 @@
+{
+    "appid": "380880",
+    "type": "Tool",
+    "name": "Project Zomboid Modding Tools",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24483107",
+    "update_time": "2024-08-14 18:56:40",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "380881": {
+            "manifests": {
+                "public": {
+                    "gid": "9086851148623825154",
+                    "size": "149245781",
+                    "download": "143454928"
+                }
+            },
+            "decryptionkey": "eb131b1acac26d23b564ea0369c079b433c682ff4fb6677c3a27733e6797d863"
+        },
+        "380882": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3973899519429338413",
+                    "size": "49805984",
+                    "download": "11184960"
+                }
+            },
+            "decryptionkey": "2f4611bbc5a8729978f634c537d92995b30f414025ac7df66274538cbed9907c"
+        },
+        "380883": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8391921726761242325",
+                    "size": "57470041",
+                    "download": "12624208"
+                }
+            },
+            "decryptionkey": "40d2285163bee7b4da4b47066ccc012ce200cc0aa28142f7798b37534274ff7c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8861041",
+                "timeupdated": "1654190559"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 10920956331295462764
+}
