@@ -1,0 +1,58 @@
+{
+    "appid": 3341250,
+    "name": "WoT Blitz Reforged Update",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 05:23:58",
+    "change_number": 29651358,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3341251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2412997156537376113",
+                    "size": "15017039654",
+                    "download": "14242086304"
+                }
+            },
+            "decryptionkey": "d9e54e45120c44253288be4379eeb5543ff8597db00808d2d7a0ab0442a988cc"
+        },
+        "3341252": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6589926508327118334",
+                    "size": "15476142447",
+                    "download": "13342460624"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18928172",
+                "timeupdated": "1750344084"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
