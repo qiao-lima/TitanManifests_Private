@@ -1,0 +1,57 @@
+{
+    "appid": 2010210,
+    "name": "Sunwave Hotel",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 09:39:04",
+    "change_number": 30202455,
+    "depot": {
+        "2010211": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "346487694978087918",
+                    "size": "6493616958",
+                    "download": "1676106592"
+                }
+            },
+            "decryptionkey": "553c412a2d196d1525dd821199d29aea16c8378296f76b0d4ba58c2443e10e10"
+        },
+        "2010212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3018436526371254428",
+                    "size": "6516666892",
+                    "download": "1684036528"
+                }
+            }
+        },
+        "2010213": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8281768747605792937",
+                    "size": "4614387661",
+                    "download": "1276393856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19326242",
+                "timeupdated": "1753259941"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
