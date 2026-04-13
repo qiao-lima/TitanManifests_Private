@@ -1,0 +1,27 @@
+{
+    "appid": 2625620,
+    "name": "Dealer Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 11:52:53",
+    "change_number": 29745909,
+    "depot": {
+        "2625621": {
+            "manifests": {
+                "public": {
+                    "gid": "8695761176662550905",
+                    "size": "2186295015",
+                    "download": "1880689792"
+                }
+            },
+            "decryptionkey": "673442d6524278a802390329ad435ba6afa7f5e354c8ee77c28b84f95f0e5b08"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18995910",
+                "timeupdated": "1750858509"
+            }
+        }
+    }
+}
