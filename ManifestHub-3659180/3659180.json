@@ -1,0 +1,28 @@
+{
+    "appid": 3659180,
+    "name": "?? Movie Theater",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-07 08:51:16",
+    "change_number": 29428456,
+    "depot": {
+        "3659181": {
+            "manifests": {
+                "public": {
+                    "gid": "5838152674579765985",
+                    "size": "7292904570",
+                    "download": "3378953008"
+                }
+            },
+            "decryptionkey": "f2bd12ca475c39a70c61e39b606ddf5f9901171a6aa4092fa860e5b8916e7431"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18773017",
+                "timeupdated": "1749251323"
+            }
+        }
+    }
+}
