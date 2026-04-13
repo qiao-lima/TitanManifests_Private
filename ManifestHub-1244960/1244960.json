@@ -1,0 +1,42 @@
+{
+    "appid": 1244960,
+    "name": "Moonlight Mansion",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-25 02:12:28",
+    "change_number": 29732916,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1244961": {
+            "manifests": {
+                "public": {
+                    "gid": "158662376209680657",
+                    "size": "2136801886",
+                    "download": "1023815104"
+                }
+            },
+            "decryptionkey": "42b3f6c0cbcdf7d0e40bfd0511a1d4c54b4fc8eb35a5adcda9da16b6d82bd3a8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4782538",
+                "timeupdated": "1701067034"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
