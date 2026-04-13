@@ -1,0 +1,43 @@
+{
+    "appid": 2776940,
+    "name": "Echoes of Yi : Samsara",
+    "type": "Game",
+    "schinese_name": "义闻录：轮回",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 07:53:01",
+    "change_number": 30143902,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2776941": {
+            "manifests": {
+                "public": {
+                    "gid": "8649539706647447327",
+                    "size": "23445386412",
+                    "download": "22721154720"
+                }
+            },
+            "decryptionkey": "5405af9cbdda39dc278fb8dd7b2dca27fc7c9f441a61a3487c8ae40ea29199ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18923073",
+                "timeupdated": "1751031152"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 14381078706817549532
+}
