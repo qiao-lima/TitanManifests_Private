@@ -1,0 +1,37 @@
+{
+    "appid": 2102640,
+    "name": "Indoor Kickball",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 19:24:44",
+    "change_number": 29339448,
+    "depot": {
+        "2102641": {
+            "manifests": {
+                "public": {
+                    "gid": "3113894519591100711",
+                    "size": "1304923911",
+                    "download": "186273088"
+                },
+                "development": {
+                    "gid": "3113894519591100711",
+                    "size": "1304923911",
+                    "download": "186273088"
+                }
+            },
+            "decryptionkey": "61d35c82352c6990ba5be62bea690d70b188dc840df837174db47d35f2789238"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12818413",
+                "timeupdated": "1701183950"
+            },
+            "development": {
+                "buildid": "12818413",
+                "description": "dev",
+                "timeupdated": "1701183721"
+            }
+        }
+    }
+}
