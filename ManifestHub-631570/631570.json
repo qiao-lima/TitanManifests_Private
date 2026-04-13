@@ -1,0 +1,44 @@
+{
+    "appid": 631570,
+    "name": "Whispers of a Machine",
+    "type": "Game",
+    "schinese_name": "机械密语",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 00:08:22",
+    "change_number": 29775874,
+    "depot": {
+        "631571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "809572658432951994",
+                    "size": "767553633",
+                    "download": "616568048"
+                }
+            },
+            "decryptionkey": "d27bc18b75959ab647a470e55e734f85062f40389ab350570a4698418ba6c0f7"
+        },
+        "631572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2732770484351287308",
+                    "size": "773373419",
+                    "download": "618347840"
+                }
+            },
+            "decryptionkey": "fecf631d4ee06b150b099edd72fd98d951aaec6c116764cac5846b768bed603b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4637238",
+                "timeupdated": "1580762588"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
