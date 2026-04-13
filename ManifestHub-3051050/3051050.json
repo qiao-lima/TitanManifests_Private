@@ -1,0 +1,38 @@
+{
+    "appid": 3051050,
+    "name": "100 Aztec Cats",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 03:31:34",
+    "change_number": 30022728,
+    "depot": {
+        "3051051": {
+            "manifests": {
+                "public": {
+                    "gid": "5566618538106378545",
+                    "size": "324154980",
+                    "download": "35006624"
+                }
+            },
+            "decryptionkey": "35381e95d32acefb8f0be02ac0e53a8e39180e9510baeb2c39a3ae69b99ebfda"
+        },
+        "3496260": {
+            "dlcappid": "3496260",
+            "manifests": {
+                "public": {
+                    "gid": "2651955156524375878",
+                    "size": "39891721",
+                    "download": "37349968"
+                }
+            },
+            "decryptionkey": "7524e6e08e6bb89f98c71bb941669093d910e35e46f49a51644d4de3dcf12420"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19025165",
+                "timeupdated": "1751022372"
+            }
+        }
+    }
+}
