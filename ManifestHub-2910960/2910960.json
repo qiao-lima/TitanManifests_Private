@@ -1,0 +1,38 @@
+{
+    "appid": 2910960,
+    "name": "决胜千里：三国",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 07:13:31",
+    "change_number": 30200402,
+    "depot": {
+        "2910961": {
+            "manifests": {
+                "public": {
+                    "gid": "662417863040946617",
+                    "size": "6780378298",
+                    "download": "875109264"
+                },
+                "beta": {
+                    "gid": "6732998562270052327",
+                    "size": "6779866169",
+                    "download": "875073488"
+                }
+            },
+            "decryptionkey": "8d7451c45f3ea3dde2df56723f3e62de3acf617c926a56eafa98231e9814a27e"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "19312308",
+                "timeupdated": "1753175034"
+            },
+            "beta": {
+                "buildid": "19223440",
+                "description": "dev",
+                "timeupdated": "1752541952"
+            }
+        }
+    }
+}
