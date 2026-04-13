@@ -1,0 +1,45 @@
+{
+    "appid": 1743860,
+    "name": "eXpanSIM (Playtest)",
+    "type": "Beta",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 22:32:11",
+    "change_number": 30194417,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1743861": {
+            "manifests": {
+                "public": {
+                    "gid": "8109423603384138785",
+                    "size": "27289364132",
+                    "download": "8942600976"
+                },
+                "next": {
+                    "gid": "916140469982823631",
+                    "size": "27294670851",
+                    "download": "8991538400"
+                }
+            },
+            "decryptionkey": "29f330cdba1b817386bdf00566e7fcc4e1dcb4cee55f8cf812b2ac57a9c0985b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18859758",
+                "timeupdated": "1750069371"
+            },
+            "next": {
+                "buildid": "19263357",
+                "description": "Public next update branch (unstable for testing)",
+                "timeupdated": "1752840114"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
