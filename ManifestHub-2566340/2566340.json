@@ -1,0 +1,28 @@
+{
+    "appid": 2566340,
+    "name": "Gedonia 2",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 10:15:43",
+    "change_number": 30203061,
+    "depot": {
+        "2566341": {
+            "manifests": {
+                "public": {
+                    "gid": "6444923441921393156",
+                    "size": "14038542048",
+                    "download": "5943499056"
+                }
+            },
+            "decryptionkey": "a343c371cf6d12acb940c9b7287ff6b8362edaf688af430a7ed08a80cfef055a"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "19326503",
+                "timeupdated": "1753262138"
+            }
+        }
+    }
+}
