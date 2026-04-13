@@ -1,0 +1,43 @@
+{
+    "appid": 562600,
+    "name": "Our Wonderful World",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 18:23:13",
+    "change_number": 29300033,
+    "depot": {
+        "562601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8701674125731541452",
+                    "size": "24182459",
+                    "download": "18946400"
+                }
+            },
+            "decryptionkey": "6d1d03e9c9e28b5ff1279c1944f16d318a92fec222c58d536e0230f7e5085d08"
+        },
+        "562602": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "818954457315937124",
+                    "size": "27193891",
+                    "download": "22466672"
+                }
+            },
+            "decryptionkey": "5e568c4efa1cfb124deb8ab1f64b615ebb5b20cb0388b6afc63dd71c1c64e736"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1483490",
+                "timeupdated": "1480268617"
+            }
+        }
+    }
+}
