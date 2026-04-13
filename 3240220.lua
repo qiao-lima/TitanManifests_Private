@@ -1,0 +1,24 @@
+-- 3240220's Lua and Manifest Created by Morrenus
+-- Grand Theft Auto V Enhanced
+-- Created: March 31, 2026 at 17:19:20 EDT
+-- Website: https://manifest.morrenus.xyz/
+-- Total Depots: 6
+-- Total DLCs: 0
+-- Shared Depots: 1
+
+-- MAIN APPLICATION
+addappid(3240220, 1, "e8413d25287cc4f68993aedb97c3409173eb7fc3dad05699577992b013868147") -- Grand Theft Auto V Enhanced
+-- MAIN APP DEPOTS
+addappid(3240221, 1, "61fc2e176574df29022e435d489e10efa92e38b3297e1f0c641e63b11df58a8a") -- Depot 3240221
+setManifestid(3240221, "2696468952535592070", 600)
+addappid(3240222, 1, "a90ba98205062c9ae855344794a6a3e0e9e59d825595f0508d7276e4d26da852") -- Depot 3240222
+setManifestid(3240222, "8737726049140786475", 34299685325)
+addappid(3240223, 1, "46bece69b70a0f45bc94213cabf17a5a8e0546fe5b42c9d71f357f9fd7eaa605") -- Depot 3240223
+setManifestid(3240223, "6109028520665039655", 9159647232)
+addappid(3240224, 1, "3ff530fbca5308cf7d55f33334770b536834d48139880615673f26e3569b99d9") -- Depot 3240224
+setManifestid(3240224, "3207789125684884376", 54743156736)
+addappid(3240225, 1, "8951f7eb7724cc2b407c9170e8bf5ce6792f8d6a7ad6a42c460a74abacac719a") -- Depot 3240225
+setManifestid(3240225, "7366444774569991260", 3851812819)
+-- SHARED DEPOTS (from other apps)
+addappid(1899671, 1, "b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b") -- RGL/SC Content (Shared from App 1899670)
+setManifestid(1899671, "274155245002712969", 239649837)
