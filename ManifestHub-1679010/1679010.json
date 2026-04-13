@@ -1,0 +1,28 @@
+{
+    "appid": 1679010,
+    "name": "BLOCKPOST MOBILE",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 22:13:59",
+    "change_number": 30056495,
+    "depot": {
+        "1679011": {
+            "manifests": {
+                "public": {
+                    "gid": "1102855167777427099",
+                    "size": "918303261",
+                    "download": "230823840"
+                }
+            },
+            "decryptionkey": "c39d07cf3718bd76f33cf0c8e0286ef06ce680c44fd670abff85ecf345822f09"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16869158",
+                "timeupdated": "1735488095"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
