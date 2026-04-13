@@ -1,0 +1,28 @@
+{
+    "appid": 2156230,
+    "name": "Atelier Ryza 3 - \"Another Look\" Costume Set",
+    "type": "DLC",
+    "schinese_name": "莱莎的炼金工房３ - 服装组合“另类穿搭”",
+    "isfreeapp": 0,
+    "update_time": "2025-06-20 16:28:42",
+    "change_number": 25065303,
+    "depot": {
+        "2156230": {
+            "manifests": {
+                "public": {
+                    "gid": "4601918420981021498",
+                    "size": "548803432",
+                    "download": "137773024"
+                }
+            },
+            "dlcappid": "2156230",
+            "decryptionkey": "f8400b7b0326c7f520e98a587d14eb1c114aabb17a676cfde8dc184213b0116f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9989388",
+                "timeupdated": "1669102049"
+            }
+        }
+    }
+}
