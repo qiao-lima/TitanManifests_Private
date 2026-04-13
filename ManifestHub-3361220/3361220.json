@@ -1,0 +1,45 @@
+{
+    "appid": 3361220,
+    "name": "Watermelon Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 12:17:12",
+    "change_number": 30130167,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3361221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6636593401917741818",
+                    "size": "905013169",
+                    "download": "791915856"
+                }
+            },
+            "decryptionkey": "5e7c39fb5c76246e2e3f4afd93638af52ac757db6278d2ee0effac4a3da1cc15"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19270769",
+                "timeupdated": "1752837426"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
