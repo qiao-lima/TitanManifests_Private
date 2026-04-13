@@ -1,0 +1,41 @@
+{
+    "appid": "3477640",
+    "type": "Demo",
+    "name": "Rowdy Rascals Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27722668",
+    "update_time": "2025-03-01 01:50:20",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3477641": {
+            "manifests": {
+                "public": {
+                    "gid": "7556801407354848036",
+                    "size": "2014134025",
+                    "download": "1729678624"
+                }
+            },
+            "decryptionkey": "8f1f28708d3700d6188e64de4d8f27c36546dd59fae8071c47f5f5832903e108"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17550337",
+                "timeupdated": "1740765016"
+            }
+        }
+    }
+}
