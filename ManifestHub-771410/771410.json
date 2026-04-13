@@ -1,0 +1,30 @@
+{
+    "appid": 771410,
+    "name": "You Will Never Get This Achievement",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-08 06:22:44",
+    "change_number": 29440325,
+    "depot": {
+        "771411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1946062695866953326",
+                    "size": "71201464",
+                    "download": "43126256"
+                }
+            },
+            "decryptionkey": "b5b09239724b0ed77e11741fb147efd088fe8e191aee43f449b324aabddf275f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2971308",
+                "timeupdated": "1532417173"
+            }
+        }
+    }
+}
