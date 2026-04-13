@@ -1,0 +1,31 @@
+{
+    "appid": "604810",
+    "type": "Game",
+    "name": "Yeti Adventure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "22494394",
+    "update_time": "2024-08-14 19:23:53",
+    "depot": {
+        "604811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9054724830561615792",
+                    "size": "277987268",
+                    "download": "91745520"
+                }
+            },
+            "decryptionkey": "8e0db3435e86f7455cd7f6003688c1fb1d5b1c52a1304a998293894703ecab97"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1671296",
+                "timeupdated": "1488727520"
+            }
+        }
+    },
+    "access_token": 5237405534876930666
+}
