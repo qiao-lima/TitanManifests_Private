@@ -1,0 +1,56 @@
+{
+    "appid": 1458560,
+    "name": "I'm on Observation Duty 3",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 00:12:11",
+    "change_number": 29914353,
+    "depot": {
+        "1458561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3282581045216048629",
+                    "size": "4348309005",
+                    "download": "997682416"
+                }
+            },
+            "decryptionkey": "66ed816de6e8e4e6a935743efc8d034882889e3a3f57503b18a45503817d9a01"
+        },
+        "1458562": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3197603452313491648",
+                    "size": "2214469815",
+                    "download": "725001584"
+                }
+            },
+            "decryptionkey": "c659209d7e5195034bc1e43e3ba1523feb0cf252fd1f7022149e5b2245c1f670"
+        },
+        "1458563": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4003092775289655983",
+                    "size": "2189656306",
+                    "download": "728200912"
+                }
+            },
+            "decryptionkey": "36c3e5ec096fa476ccbbc06c015ab74a1610486ff54ff8d26a9f04e059333c37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9870774",
+                "timeupdated": "1667570533"
+            }
+        }
+    }
+}
