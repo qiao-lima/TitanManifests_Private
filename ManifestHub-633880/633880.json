@@ -1,0 +1,28 @@
+{
+    "appid": "633880",
+    "type": "Game",
+    "name": "Lone Warrior",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "25733982",
+    "update_time": "2024-10-16 02:55:40",
+    "depot": {
+        "633881": {
+            "manifests": {
+                "public": {
+                    "gid": "6695311524820751052",
+                    "size": "724479344",
+                    "download": "355943584"
+                }
+            },
+            "decryptionkey": "091aebbe01030a7356db011ac95ac70d09a108df5dbba86f313ca460739e58ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2125449",
+                "timeupdated": "1505670985"
+            }
+        }
+    },
+    "access_token": 3821028163336498600
+}
