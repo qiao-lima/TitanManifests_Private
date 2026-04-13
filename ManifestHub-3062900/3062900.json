@@ -1,0 +1,28 @@
+{
+    "appid": 3062900,
+    "name": "RPG Maker MZ - KR Flower Forest Tileset",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:51:01",
+    "change_number": 26201212,
+    "depot": {
+        "3062900": {
+            "manifests": {
+                "public": {
+                    "gid": "5871190982609668219",
+                    "size": "5461760",
+                    "download": "5414720"
+                }
+            },
+            "dlcappid": "3062900",
+            "decryptionkey": "52b5cc4bfd6e98763aaeb91b85e8fbb7e16db8d0f940ab42d86dbeb5eee9bbb3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15113884",
+                "timeupdated": "1721662978"
+            }
+        }
+    }
+}
