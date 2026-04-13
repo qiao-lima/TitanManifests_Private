@@ -1,0 +1,28 @@
+{
+    "appid": "528080",
+    "type": "Game",
+    "name": "Night Forest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:14:54",
+    "depot": {
+        "528081": {
+            "manifests": {
+                "public": {
+                    "gid": "2115023140008596546",
+                    "size": "2210530755",
+                    "download": "48830224"
+                }
+            },
+            "decryptionkey": "27de6995a129f536e2f812446945e587e52204874211ac5400e6cf4a7285cba7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1413683",
+                "timeupdated": "1477420489"
+            }
+        }
+    },
+    "access_token": 12462874896296294224
+}
