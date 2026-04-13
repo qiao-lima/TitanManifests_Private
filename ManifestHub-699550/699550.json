@@ -1,0 +1,31 @@
+{
+    "appid": "699550",
+    "type": "Game",
+    "name": "Forest Guardian",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "26747873",
+    "update_time": "2024-12-22 02:20:53",
+    "depot": {
+        "699551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1979982604783661655",
+                    "size": "158415600",
+                    "download": "78556640"
+                }
+            },
+            "decryptionkey": "8507e72188a49316a4e622fe08a4d60f8a6d20d13f8b9d58fe955a26b9c1a2dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4338563",
+                "timeupdated": "1572405835"
+            }
+        }
+    },
+    "access_token": 18148431099055890429
+}
