@@ -1,0 +1,47 @@
+{
+    "appid": 1697880,
+    "name": "Junkyard Truck",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 07:42:42",
+    "change_number": 29756752,
+    "depot": {
+        "1697881": {
+            "manifests": {
+                "public": {
+                    "gid": "2819614638324817250",
+                    "size": "5833589761",
+                    "download": "2157561184"
+                },
+                "beta": {
+                    "gid": "2819614638324817250",
+                    "size": "5833589761",
+                    "download": "2157561184"
+                },
+                "unstable": {
+                    "gid": "2819614638324817250",
+                    "size": "5833589761",
+                    "download": "2157561184"
+                }
+            },
+            "decryptionkey": "145e46e146327ae397ce387e8b18739c46642a40de020b99c14e7a434211d2dc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19005010",
+                "timeupdated": "1750920157"
+            },
+            "beta": {
+                "buildid": "19005010",
+                "description": "updates which need additional testing",
+                "timeupdated": "1750920115"
+            },
+            "unstable": {
+                "buildid": "19005010",
+                "description": "unstable pre-beta builds",
+                "timeupdated": "1750910362"
+            }
+        }
+    }
+}
