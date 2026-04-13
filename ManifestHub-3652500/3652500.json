@@ -1,0 +1,32 @@
+{
+    "appid": 3652500,
+    "name": "CUSTOM ORDER MAID 3D2 Friendly and Slightly Naughty Woman GP-02",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:18:00",
+    "change_number": 28739910,
+    "depot": {
+        "3652501": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7154670990628686516",
+                    "size": "1115125451",
+                    "download": "356660224"
+                }
+            },
+            "dlcappid": "3652500",
+            "decryptionkey": "57a851db2d8fcbeac2e2d266d4b293a0ef928d7ecff75828d3cca667447bac65"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18176880",
+                "timeupdated": "1745206473"
+            }
+        }
+    }
+}
