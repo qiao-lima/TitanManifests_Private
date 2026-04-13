@@ -1,0 +1,40 @@
+{
+    "appid": 1291100,
+    "name": "Night Spasm",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-19 07:37:25",
+    "change_number": 29638960,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1291101": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5828976792677452459",
+                    "size": "2225544115",
+                    "download": "2124605520"
+                }
+            },
+            "decryptionkey": "3c137660d08b9a27640fb121626d8d41d8b9eebfc1109d67facb475c0c8f9a55"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18919201",
+                "timeupdated": "1750289840"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
