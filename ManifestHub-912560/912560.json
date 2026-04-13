@@ -1,0 +1,46 @@
+{
+    "appid": 912560,
+    "name": "PROZE: Prologue",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-07 08:59:21",
+    "change_number": 29429723,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "912561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4016836687743685937",
+                    "size": "7026662647",
+                    "download": "6966947792"
+                }
+            },
+            "decryptionkey": "1533d3bdd560769d6ad712bcac06f56d04bad7d96dd21256e5278ce9884d53e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4258301",
+                "timeupdated": "1570207406"
+            }
+        }
+    }
+}
