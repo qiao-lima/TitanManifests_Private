@@ -1,0 +1,28 @@
+{
+    "appid": 2777970,
+    "name": "Stranger Things VR",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-22 09:17:47",
+    "change_number": 29686919,
+    "depot": {
+        "2777971": {
+            "manifests": {
+                "public": {
+                    "gid": "2519088982490199523",
+                    "size": "8687789686",
+                    "download": "3064188288"
+                }
+            },
+            "decryptionkey": "db69f241a2a0de3ae864eab00d6fd4c3c0ddc80be0c781b69fa9c558f92101c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16477575",
+                "timeupdated": "1732228889"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
