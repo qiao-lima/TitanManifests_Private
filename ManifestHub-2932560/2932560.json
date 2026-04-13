@@ -1,0 +1,27 @@
+{
+    "appid": 2932560,
+    "name": "SEX SLAVES",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-13 13:24:54",
+    "change_number": 29542469,
+    "depot": {
+        "2932561": {
+            "manifests": {
+                "public": {
+                    "gid": "7378602940393803723",
+                    "size": "317677109",
+                    "download": "158591264"
+                }
+            },
+            "decryptionkey": "506c45018c337be8ce5ad1cbc0937a6baaa4bb59304dc34939de6d178c4ac171"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14319944",
+                "timeupdated": "1715290865"
+            }
+        }
+    }
+}
