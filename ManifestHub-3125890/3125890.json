@@ -1,0 +1,74 @@
+{
+    "appid": 3125890,
+    "name": "Mineral Defense",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-03 19:26:28",
+    "change_number": 29339801,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3125891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8483818861292500074",
+                    "size": "914758929",
+                    "download": "700087184"
+                },
+                "nightly": {
+                    "gid": "8483818861292500074",
+                    "size": "914758929",
+                    "download": "700087184"
+                }
+            },
+            "decryptionkey": "a7a9b39f854c3b38cfd2c6605ee1b6926b5799dd7e2f03d3b5a17c9d27f4c7f9"
+        },
+        "3125892": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5801227393517249015",
+                    "size": "791714433",
+                    "download": "579521056"
+                },
+                "nightly": {
+                    "gid": "5801227393517249015",
+                    "size": "791714433",
+                    "download": "579521056"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18247051",
+                "timeupdated": "1745639297"
+            },
+            "nightly": {
+                "buildid": "18247051",
+                "description": "Where the latest changes will be available. Has a greater chance of issues ands bugs.",
+                "timeupdated": "1748922044"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
