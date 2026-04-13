@@ -1,0 +1,41 @@
+{
+    "appid": 2140900,
+    "name": "The Unluckiest Man",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-22 17:14:05",
+    "change_number": 29122816,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2140901": {
+            "manifests": {
+                "public": {
+                    "gid": "4889431884216704236",
+                    "size": "6138725975",
+                    "download": "2831191728"
+                }
+            },
+            "decryptionkey": "4db766c8b3e05e0d0d2c073caea434cc7728e567adfd63e610955fa9dc4866e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9801702",
+                "timeupdated": "1666769985"
+            }
+        }
+    }
+}
