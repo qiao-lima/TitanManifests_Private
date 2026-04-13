@@ -1,0 +1,29 @@
+{
+    "appid": 1840770,
+    "name": "Last Threshold",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-12 05:53:34",
+    "change_number": 29516432,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1840772": {},
+        "1840771": {
+            "manifests": {
+                "public": {
+                    "gid": "6348061701970444854",
+                    "size": "882564996",
+                    "download": "297830768"
+                }
+            },
+            "decryptionkey": "c0a5a766236103cabd0d53edb150b337220b65b53aff5bd9ea34cf7582fe32e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9053595",
+                "timeupdated": "1656880779"
+            }
+        }
+    }
+}
