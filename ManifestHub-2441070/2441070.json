@@ -1,0 +1,42 @@
+{
+    "appid": 2441070,
+    "name": "酒，音乐和虚无论",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 09:11:48",
+    "change_number": 29893542,
+    "depot": {
+        "2441071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3872400391414879681",
+                    "size": "485705904",
+                    "download": "377993632"
+                }
+            },
+            "decryptionkey": "d9f63f05b75b0daae0cb1415e15079f22d6f4bafdb2d426502ac1c2cc95b3e57"
+        },
+        "2441072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5538122926386070049",
+                    "size": "474070087",
+                    "download": "385965776"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19035371",
+                "timeupdated": "1751093875"
+            }
+        }
+    }
+}
