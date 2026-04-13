@@ -1,0 +1,20 @@
+-- 3991640's Lua and Manifest Created by Morrenus
+-- Love, Peace, and Roseleaf
+-- Created: March 17, 2026 at 17:42:08 EDT
+-- Website: https://manifest.morrenus.xyz/
+-- Total Depots: 5
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(3991640, 1, "eabb5d1260f32b2950fb88084e602bbc6146069ec808d2d429d870292947f541") -- Love, Peace, and Roseleaf
+-- MAIN APP DEPOTS
+addappid(3991641, 1, "0c9989b95180a9f0195e1c49cd0ef98fd98700d5cba87325eae18e6668d26e9a") -- Depot 3991641
+setManifestid(3991641, "9164389063123118199", 1226291145)
+addappid(3991642, 1, "08791b1260b40c2c0d092c27a92af92b5becf48ffc8a9dc0fe76ef6097dfdd9b") -- Depot 3991642
+setManifestid(3991642, "8960741502817007576", 1230397790)
+addappid(3991643, 1, "4c07c9410bbbf356509ec312b653bf1f5ee523f3f413e2186d597e41da13b76f") -- Depot 3991643
+setManifestid(3991643, "4746282597392142098", 1226005980)
+addappid(3991644, 1, "2fcef2ba5ad8940f35e5d8575d4209072e78615a0557139c55d4cde912083e98") -- Depot 3991644
+setManifestid(3991644, "1429391895534213687", 1226351211)
+addappid(3991645, 1, "c43187b2c3bf5a0ec24900d3dc942dc9ff3bb512e7516ea6a77053824a65618d") -- Depot 3991645
+setManifestid(3991645, "4535540124477429967", 1230195982)
