@@ -1,0 +1,46 @@
+{
+    "appid": "496870",
+    "type": "Game",
+    "name": "Inverted",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "18903802",
+    "update_time": "2024-08-14 19:12:27",
+    "depot": {
+        "496871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "77638840439167411",
+                    "size": "171739320",
+                    "download": "77325504"
+                }
+            },
+            "decryptionkey": "c1e02654da52310085a4b820efc31d08dda49f86b7aa3bc9ae55752e70225f73"
+        },
+        "496872": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1002798768038554258",
+                    "size": "145544859",
+                    "download": "69985424"
+                }
+            },
+            "decryptionkey": "bd743f6f0506a8a5b40a1a59922f197590321ba682557b6a83bb238966275b0b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1268221",
+                "timeupdated": "1470658692"
+            }
+        }
+    },
+    "access_token": 17628852866842871683
+}
