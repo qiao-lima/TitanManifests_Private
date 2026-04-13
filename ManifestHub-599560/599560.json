@@ -1,0 +1,57 @@
+{
+    "appid": 599560,
+    "name": "Ghost Files: The Face of Guilt",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 06:20:19",
+    "change_number": 29780067,
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,schinese,russian,japanese,polish",
+        "599561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3772862221975387242",
+                    "size": "2930605338",
+                    "download": "1015820992"
+                }
+            },
+            "decryptionkey": "705f845662d48e89e13f99f6c84068f1e83e69294226e6952f6a2c05b9125ce8"
+        },
+        "599562": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3794892516857455870",
+                    "size": "1409453463",
+                    "download": "1146695904"
+                }
+            },
+            "decryptionkey": "953570ab44554d7b99e8f86c6d4b791438b62d9a8899ddefe4a0c6ccc7546241"
+        },
+        "599563": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3357000539552904269",
+                    "size": "1331268368",
+                    "download": "1135497296"
+                }
+            },
+            "decryptionkey": "edc73d0a9d0f512025c7cb9e73fbcd43c797efcaf7c7c017d289a0cd7c0b1579"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1804021",
+                "timeupdated": "1494038025"
+            }
+        }
+    }
+}
