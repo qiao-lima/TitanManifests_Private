@@ -1,0 +1,42 @@
+{
+    "appid": 2380550,
+    "name": "CONSORTIUM Remastered",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 00:51:10",
+    "change_number": 30141099,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2380551": {
+            "manifests": {
+                "public": {
+                    "gid": "3542606377181942540",
+                    "size": "2683537449",
+                    "download": "2250344320"
+                }
+            },
+            "decryptionkey": "fbc2ba879f105b19ad249df806f89164bb2153b7d36360a2b74976f32943a578"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15456190",
+                "timeupdated": "1724306638"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
