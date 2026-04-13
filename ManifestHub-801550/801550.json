@@ -1,0 +1,45 @@
+{
+    "appid": 801550,
+    "name": "VAIL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 22:41:15",
+    "change_number": 30215224,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "801551": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8673205013583474990",
+                    "size": "17010695522",
+                    "download": "14112489680"
+                }
+            },
+            "decryptionkey": "728061a23095cca7547013f02f30eb273a145d3f9c601be56f719c439c127ab5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19177322",
+                "timeupdated": "1752159120"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
