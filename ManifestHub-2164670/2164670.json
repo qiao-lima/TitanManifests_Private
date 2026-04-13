@@ -1,0 +1,28 @@
+{
+    "appid": 2164670,
+    "name": "College Kings 2 - Episode 1 Supporter Edition",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 09:39:50",
+    "change_number": 26201212,
+    "depot": {
+        "2164670": {
+            "manifests": {
+                "public": {
+                    "gid": "6064972449798850537",
+                    "size": "146526466",
+                    "download": "146171536"
+                }
+            },
+            "dlcappid": "2164670",
+            "decryptionkey": "b215889ab3b5e31129008385eab85eea194926c369350c3fa4fb4d95ff6c58ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9873145",
+                "timeupdated": "1667591557"
+            }
+        }
+    }
+}
