@@ -1,0 +1,27 @@
+{
+    "appid": 1449300,
+    "name": "莉莉娜的奇幻之旅",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 03:50:36",
+    "change_number": 27924129,
+    "depot": {
+        "1449301": {
+            "manifests": {
+                "public": {
+                    "gid": "2759946364187862139",
+                    "size": "236582623",
+                    "download": "122420880"
+                }
+            },
+            "decryptionkey": "68b2b9da90cb4aa19175deb4eb7ba1618cfe51b3e68db07dd7d03447372a71cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5685521",
+                "timeupdated": "1602742367"
+            }
+        }
+    }
+}
