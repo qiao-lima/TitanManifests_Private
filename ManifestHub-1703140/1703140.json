@@ -1,0 +1,57 @@
+{
+    "appid": 1703140,
+    "name": "Isle of Jura",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-14 10:11:34",
+    "change_number": 30045473,
+    "depot": {
+        "baselanguages": "english",
+        "1703141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3164567154964460305",
+                    "size": "526747924",
+                    "download": "116922416"
+                }
+            },
+            "decryptionkey": "981eb524fa6581a1cbc2141a1a03c3e8b26196f322d4516c6e55c7ca706baef4"
+        },
+        "1703142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1980402055815913580",
+                    "size": "528749552",
+                    "download": "115858160"
+                }
+            },
+            "decryptionkey": "3fa89001c0603d701adbe03e3d5ab1bd6e035004930f2e9b3132ae1cbaa0153a"
+        },
+        "1703143": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3898304420839160007",
+                    "size": "539246991",
+                    "download": "119805280"
+                }
+            },
+            "decryptionkey": "d4ef17b2b98d9112f950dd0cf20f4fc602e9136719346846378caef163c6ba61"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18956050",
+                "timeupdated": "1750603477"
+            }
+        }
+    }
+}
