@@ -1,0 +1,39 @@
+{
+    "appid": 1252600,
+    "name": "ANOTHER EDEN",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-24 02:24:06",
+    "change_number": 30217757,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1252601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3204578385991355476",
+                    "size": "11716413493",
+                    "download": "11223437088"
+                }
+            },
+            "decryptionkey": "48646fb6dfc5f57027ab3696f0fc3a31568db38a78289dafd464c8ef4dbd7325"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19310492",
+                "timeupdated": "1753320241"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
