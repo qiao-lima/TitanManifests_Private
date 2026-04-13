@@ -1,0 +1,43 @@
+{
+    "appid": 2888290,
+    "name": "Bunny Girl Cumming for my Carrot",
+    "type": "Game",
+    "schinese_name": "便器骚兔的造人报恩",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 23:01:50",
+    "change_number": 29727955,
+    "depot": {
+        "2888291": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "294339233976678515",
+                    "size": "429682514",
+                    "download": "337861664"
+                }
+            },
+            "decryptionkey": "24417047ad2940ebc933386c2f571ae84032dd37849bfb5c2d97c47b1ee24ac6"
+        },
+        "2888292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1023063913502148927",
+                    "size": "425192962",
+                    "download": "336669568"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18966143",
+                "timeupdated": "1750687842"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
