@@ -1,0 +1,45 @@
+{
+    "appid": 1942530,
+    "name": "The Anointed: David Saves Keilah",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-17 11:06:24",
+    "change_number": 30107740,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1942531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "420253786235054652",
+                    "size": "17310239640",
+                    "download": "15803386800"
+                }
+            },
+            "decryptionkey": "94809b9b5e290f9231ac80248a8ab814342f6a9b4f7f1a6d672b08fc9c65e68e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19256881",
+                "timeupdated": "1752746778"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
