@@ -1,0 +1,52 @@
+{
+    "appid": 848030,
+    "name": "Roundguard",
+    "type": "Game",
+    "schinese_name": "圆形防护",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 19:36:00",
+    "change_number": 30117089,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "848031": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3361033279955673430",
+                    "size": "285910859",
+                    "download": "85839056"
+                }
+            },
+            "decryptionkey": "27d54c8b2ef0a50753e507cccb69f32609d503e2f150c98f912665e94e50c61c"
+        },
+        "848032": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4926763113957017846",
+                    "size": "254267722",
+                    "download": "85743952"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18846343",
+                "timeupdated": "1749760911"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
