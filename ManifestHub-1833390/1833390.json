@@ -1,0 +1,40 @@
+{
+    "appid": 1833390,
+    "name": "Sword Reverie Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:02:18",
+    "change_number": 26201212,
+    "depot": {
+        "1833391": {
+            "manifests": {
+                "public": {
+                    "gid": "8874652131727887250",
+                    "size": "43307838",
+                    "download": "41941248"
+                }
+            },
+            "decryptionkey": "de4e90a43c43f6583c436d31b912fb991353d5b9ec72a520c15803ea72d7ce13"
+        },
+        "1833392": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "591310976141811761",
+                    "size": "94027629",
+                    "download": "89353744"
+                }
+            },
+            "decryptionkey": "050de8ac3707d720511077c62e00e5968a9fc1387ec0d29cae531caca3ca707d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8030860",
+                "timeupdated": "1642369786"
+            }
+        }
+    }
+}
