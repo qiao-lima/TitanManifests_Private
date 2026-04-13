@@ -1,0 +1,32 @@
+{
+    "appid": 1200570,
+    "name": "AColony",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 23:11:05",
+    "change_number": 29938567,
+    "depot": {
+        "1200571": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "683120923279640717",
+                    "size": "2656366672",
+                    "download": "585251216"
+                }
+            },
+            "decryptionkey": "f0d6a4fd975b453d490b910f6306aee2c28cba84dd1617859ad6762e6f032fbc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19042617",
+                "timeupdated": "1751206206"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
