@@ -1,0 +1,27 @@
+{
+    "appid": 564980,
+    "name": "Killer Klownz",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 22:13:11",
+    "change_number": 29487871,
+    "depot": {
+        "564981": {
+            "manifests": {
+                "public": {
+                    "gid": "7313016948176736462",
+                    "size": "146811745",
+                    "download": "41185008"
+                }
+            },
+            "decryptionkey": "9ba86e5a96c73ee80c9e2919a370aad37c674e28549cba1200f6f1fd4a9341ef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1493404",
+                "timeupdated": "1480645856"
+            }
+        }
+    }
+}
