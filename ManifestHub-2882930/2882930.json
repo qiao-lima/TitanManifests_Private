@@ -1,0 +1,53 @@
+{
+    "appid": 2882930,
+    "name": "GRUEL",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 20:11:29",
+    "change_number": 30075546,
+    "depot": {
+        "2882931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6449436717823344089",
+                    "size": "77616153",
+                    "download": "52496464"
+                },
+                "beta": {
+                    "gid": "6449436717823344089",
+                    "size": "77616153",
+                    "download": "52496464"
+                },
+                "modded": {
+                    "gid": "449216388391441926",
+                    "size": "77632025",
+                    "download": "52501536"
+                }
+            },
+            "decryptionkey": "fab78c9499562ddf287a5f7e4d55d2abda90fbaff1236a8052f6f32b323701c6"
+        },
+        "workshopdepot": "2882930",
+        "branches": {
+            "public": {
+                "buildid": "18982178",
+                "timeupdated": "1750776537"
+            },
+            "beta": {
+                "buildid": "18982178",
+                "description": "Open Beta Testing",
+                "timeupdated": "1750776546"
+            },
+            "modded": {
+                "buildid": "18982440",
+                "description": "Modded",
+                "timeupdated": "1750777869"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
