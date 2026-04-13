@@ -1,0 +1,27 @@
+{
+    "appid": 2901220,
+    "name": "Palia Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 00:00:14",
+    "change_number": 30057803,
+    "depot": {
+        "2901221": {
+            "manifests": {
+                "public": {
+                    "gid": "8293930059531075371",
+                    "size": "258380509",
+                    "download": "258043040"
+                }
+            },
+            "decryptionkey": "9eca5a21254cc6c8d0861c419c2a2fdf89213c17d9e1069f4e020faa65574734"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13803611",
+                "timeupdated": "1710974145"
+            }
+        }
+    }
+}
