@@ -1,0 +1,43 @@
+{
+    "appid": 312780,
+    "name": "Way of the Samurai 4",
+    "type": "Game",
+    "schinese_name": "侍道4",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 04:09:20",
+    "change_number": 29890182,
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "312781": {
+            "manifests": {
+                "public": {
+                    "gid": "4915030369722441240",
+                    "size": "7187330295",
+                    "download": "4468148176"
+                }
+            },
+            "decryptionkey": "283af22c8e9dc9a74670197b5d11f643529eccb13deb029f6d087ca71bfbda23"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18697987",
+                "timeupdated": "1750957054"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
