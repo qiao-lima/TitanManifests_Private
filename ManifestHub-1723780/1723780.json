@@ -1,0 +1,74 @@
+{
+    "appid": 1723780,
+    "name": "Finnish Cottage Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 11:49:20",
+    "change_number": 30129713,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1723781": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "245526465887662760",
+                    "size": "4714232354",
+                    "download": "3884088416"
+                },
+                "fcspt": {
+                    "gid": "5565776710068784063",
+                    "size": "4711541282",
+                    "download": "3863695040"
+                }
+            },
+            "decryptionkey": "423942a94260c317f4cd8cc3a3f09e4a28488b2cc63c7109408c40a6afa1ab4c"
+        },
+        "1723782": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2729761589452525648",
+                    "size": "4714232354",
+                    "download": "3883440800"
+                },
+                "fcspt": {
+                    "gid": "5720377278169386420",
+                    "size": "4711541282",
+                    "download": "3862932736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19273450",
+                "timeupdated": "1752835756"
+            },
+            "fcspt": {
+                "buildid": "19124650",
+                "description": "Public testing",
+                "timeupdated": "1751828735"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
