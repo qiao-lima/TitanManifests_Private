@@ -1,0 +1,31 @@
+{
+    "appid": "559500",
+    "type": "Game",
+    "name": "Sleengster",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28065016",
+    "update_time": "2025-03-21 13:19:28",
+    "depot": {
+        "559501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7429959957400962559",
+                    "size": "508273865",
+                    "download": "54212416"
+                }
+            },
+            "decryptionkey": "1438382e1da971f47903e755c3a435dbbc9b22b274d842e179cb0abfc9facefa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1837471",
+                "timeupdated": "1495446996"
+            }
+        }
+    },
+    "access_token": 2266034587647962294
+}
