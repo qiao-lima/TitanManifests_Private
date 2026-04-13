@@ -1,0 +1,28 @@
+{
+    "appid": 3069120,
+    "name": "不恋爱就完蛋了Love Curse: Find Your Soulmate",
+    "type": "Game",
+    "schinese_name": "不恋爱就完蛋了",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 13:52:16",
+    "change_number": 29918436,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3069121": {
+            "manifests": {
+                "public": {
+                    "gid": "6177547652247453506",
+                    "size": "1187834140",
+                    "download": "891603648"
+                }
+            },
+            "decryptionkey": "6c732b4ed048dcfd3e6058463893d907004b54c5ebcd916c9e3088778a62070d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18995364",
+                "timeupdated": "1750855462"
+            }
+        }
+    }
+}
