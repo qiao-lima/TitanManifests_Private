@@ -1,0 +1,45 @@
+{
+    "appid": 390500,
+    "name": "Arma 3 Samples",
+    "type": "Tool",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 18:42:28",
+    "change_number": 29704218,
+    "depot": {
+        "390501": {
+            "manifests": {
+                "public": {
+                    "gid": "9078878636522247298",
+                    "size": "4339885791",
+                    "download": "3723530960"
+                },
+                "development": {
+                    "gid": "9078878636522247298",
+                    "size": "4339885791",
+                    "download": "3723530960"
+                }
+            },
+            "decryptionkey": "5a27a4ab29a120a36d3939a1531f7070510781ee303a052c30616a301dfda0e7"
+        },
+        "233802": {
+            "depotfromapp": "233800"
+        },
+        "390502": {
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "6608327",
+                "timeupdated": "1620124005"
+            },
+            "development": {
+                "buildid": "6608327",
+                "description": "Development Build",
+                "timeupdated": "1619534266"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 17746492832454752859
+}
