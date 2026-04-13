@@ -1,0 +1,46 @@
+{
+    "appid": 1184760,
+    "name": "Shovel Knight Pocket Dungeon",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 08:03:36",
+    "change_number": 30200999,
+    "depot": {
+        "1184761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5087182984813344689",
+                    "size": "180893438",
+                    "download": "94233728"
+                }
+            },
+            "decryptionkey": "b56b55a34487abef1582fb59076f21be023fe8ee57cf7a4198cf33ab2a742a7a"
+        },
+        "1184762": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4192857437693051753",
+                    "size": "197660206",
+                    "download": "105607344"
+                }
+            },
+            "decryptionkey": "1a8af630a226181d500504942c25926928755397f197ea6832117ace6353d6a9"
+        },
+        "workshopdepot": "1184760",
+        "branches": {
+            "public": {
+                "buildid": "19241381",
+                "timeupdated": "1752685663"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0fd50445f33432516a0f3a1348c59ed94a3c8c768410d13645ce29cc44474291"
+    }
+}
