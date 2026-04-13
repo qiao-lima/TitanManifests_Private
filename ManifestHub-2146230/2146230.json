@@ -1,0 +1,27 @@
+{
+    "appid": 2146230,
+    "name": "Samurai pussy",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-28 13:21:17",
+    "change_number": 29228500,
+    "depot": {
+        "2146231": {
+            "manifests": {
+                "public": {
+                    "gid": "4803482454013471375",
+                    "size": "312312313",
+                    "download": "68513904"
+                }
+            },
+            "decryptionkey": "19fc2eff03ea784a8eafd03e32f5b7e3dec70226c35032feb2d542958d600750"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9507053",
+                "timeupdated": "1663076801"
+            }
+        }
+    }
+}
