@@ -1,0 +1,28 @@
+{
+    "appid": 2924310,
+    "name": "Anoxia Station",
+    "type": "Game",
+    "schinese_name": "深矿缺氧",
+    "isfreeapp": 0,
+    "update_time": "2025-07-09 09:01:08",
+    "change_number": 29964251,
+    "depot": {
+        "2924311": {
+            "manifests": {
+                "public": {
+                    "gid": "5563730210383074686",
+                    "size": "711048439",
+                    "download": "460832768"
+                }
+            },
+            "decryptionkey": "ab58e5ab3a9492526a07c16dd55056e3740d0be139a73f8b780e1664258c0b5a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18519621",
+                "timeupdated": "1747666819"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
