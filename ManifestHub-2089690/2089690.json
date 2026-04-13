@@ -1,0 +1,87 @@
+{
+    "appid": 2089690,
+    "name": "Eigengrau Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-04 16:39:50",
+    "change_number": 29367082,
+    "depot": {
+        "baselanguages": "",
+        "1624325": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "458231137492647389",
+                    "size": "42492157",
+                    "download": "33854960"
+                }
+            },
+            "depotfromapp": "1624320",
+            "decryptionkey": "09f08c2e2c786b61358365f600b551472749d1db2e09b0b30266bac18fbac3d7"
+        },
+        "1624326": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3903607432671441180",
+                    "size": "18861016",
+                    "download": "6523520"
+                }
+            },
+            "depotfromapp": "1624320"
+        },
+        "1624322": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2194224506539476168",
+                    "size": "21606160",
+                    "download": "7160704"
+                }
+            },
+            "depotfromapp": "1624320",
+            "decryptionkey": "382b09302d615458ca4b6c4d1e840325ff53087a5466beec95d5e1e76e1a06cd"
+        },
+        "1624323": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1977592931177007124",
+                    "size": "9966897",
+                    "download": "3569456"
+                }
+            },
+            "depotfromapp": "1624320",
+            "decryptionkey": "3616133a3e26cd1b458480b211e2bfec98ac3e7a7e44fc0d75b40630c80ed293"
+        },
+        "2089691": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5569779204325473842",
+                    "size": "59261322",
+                    "download": "39693024"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18643782",
+                "timeupdated": "1748447473"
+            }
+        }
+    }
+}
