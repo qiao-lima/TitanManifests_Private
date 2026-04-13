@@ -1,0 +1,27 @@
+{
+    "appid": 1186030,
+    "name": "Death Park",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-01 08:51:29",
+    "change_number": 29837971,
+    "depot": {
+        "1186031": {
+            "manifests": {
+                "public": {
+                    "gid": "1015213056410713296",
+                    "size": "379257679",
+                    "download": "144886400"
+                }
+            },
+            "decryptionkey": "785bb90d106421ef741c8cf467db2c77ad8ac8daadc0a31bf6912c3573965238"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6468588",
+                "timeupdated": "1617185733"
+            }
+        }
+    }
+}
