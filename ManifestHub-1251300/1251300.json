@@ -1,0 +1,42 @@
+{
+    "appid": 1251300,
+    "name": "Last Floor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 23:54:08",
+    "change_number": 30120340,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1251301": {
+            "manifests": {
+                "public": {
+                    "gid": "8527696903755925207",
+                    "size": "616268576",
+                    "download": "326551136"
+                }
+            },
+            "decryptionkey": "ac4ab38960a59ffa12d78eaba6aa1151aee2aa355cdbc8d50a3c0f836665a831"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "10816941",
+                "timeupdated": "1679372690"
+            }
+        }
+    }
+}
