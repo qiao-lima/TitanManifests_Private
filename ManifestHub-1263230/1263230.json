@@ -1,0 +1,42 @@
+{
+    "appid": 1263230,
+    "name": "Cooking Companions",
+    "type": "Game",
+    "schinese_name": "烹饪伙伴「Cooking Companions」",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 20:08:06",
+    "change_number": 29793361,
+    "depot": {
+        "1263231": {
+            "manifests": {
+                "public": {
+                    "gid": "3321416093291954965",
+                    "size": "2497408070",
+                    "download": "1877386624"
+                }
+            },
+            "decryptionkey": "4d9a1f56e9c746ad4f279ea580ca2455c097c66bbabe1a4a4ee26d6023f4ab4d"
+        },
+        "1263232": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6665259902590836364",
+                    "size": "27886552",
+                    "download": "8287008"
+                }
+            },
+            "decryptionkey": "b05950c0bd7744e895e335788604940b06db14bef8d96f0b35bc2e8334095352"
+        },
+        "baselanguages": "english,japanese,latam",
+        "branches": {
+            "public": {
+                "buildid": "18316266",
+                "timeupdated": "1746153759"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
