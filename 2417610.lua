@@ -1,0 +1,22 @@
+-- 2417610's Lua and Manifest Created by Morrenus
+-- METAL GEAR SOLID Δ: SNAKE EATER
+-- Created: January 26, 2026 at 03:00:13 EST
+-- Website: https://manifest.morrenus.xyz/
+-- Total Depots: 3
+-- Total DLCs: 2
+-- Shared Depots: 2
+
+-- MAIN APPLICATION
+addappid(2417610, 1, "14b48d0210efd54e1d10ebf9167022f7e7e4618491c84746f64de8b474505681") -- METAL GEAR SOLID Δ: SNAKE EATER
+-- MAIN APP DEPOTS
+addappid(2417611, 1, "9a9b7b9956ecfecde761c3ec639b3c9efcc0e38d3b11a153d66014a015a8004d") -- Depot 2417611
+setManifestid(2417611, "7817157983409754902", 127646505753)
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "3514306556860204959", 39590283)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(2881290) -- METAL GEAR SOLID  SNAKE EATER - WHITE TUXEDO
+addappid(3364840) -- METAL GEAR SOLID  SNAKE EATER - Sneaking DLC Pack
+addtoken(3364840, "6792383297371870615")
