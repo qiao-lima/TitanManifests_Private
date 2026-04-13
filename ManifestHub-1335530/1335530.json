@@ -1,0 +1,57 @@
+{
+    "appid": 1335530,
+    "name": "Alisa",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-10 16:58:22",
+    "change_number": 29482349,
+    "depot": {
+        "1335531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3838329713333394627",
+                    "size": "574246374",
+                    "download": "295870416"
+                }
+            },
+            "decryptionkey": "2d17f7797a7334cdf7fd328185995bd76b2d9ce1d9b258303f8080c88d740815"
+        },
+        "1335532": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6921438870424421983",
+                    "size": "625743656",
+                    "download": "311713792"
+                }
+            },
+            "decryptionkey": "248a8fdb1667fcd735ec84c4710d9a374733820206294af6b2fe59e09d9db00c"
+        },
+        "1335533": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6265183053924012211",
+                    "size": "591558713",
+                    "download": "299681312"
+                }
+            },
+            "decryptionkey": "776354bf78937edfbc9f3c94ab3d02933b86cf4159201ce33676513714e39c6e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11951484",
+                "timeupdated": "1692158673"
+            }
+        }
+    }
+}
