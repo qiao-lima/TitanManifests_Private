@@ -1,0 +1,52 @@
+{
+    "appid": 3405020,
+    "name": "That Village",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 23:44:12",
+    "change_number": 29905302,
+    "depot": {
+        "baselanguages": "english,turkish",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3405021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5910217069751201107",
+                    "size": "6581497172",
+                    "download": "6138447520"
+                }
+            },
+            "decryptionkey": "3a68ac6e036d5356dd24e7487ec4d2d44ed74510136faa3552203bded12d5b3e"
+        },
+        "3405022": {
+            "config": {
+                "language": "turkish",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19014249",
+                "timeupdated": "1750955753"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
