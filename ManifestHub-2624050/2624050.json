@@ -1,0 +1,28 @@
+{
+    "appid": 2624050,
+    "name": "Lustful Brides",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-06 21:25:00",
+    "change_number": 29418836,
+    "depot": {
+        "2624051": {
+            "manifests": {
+                "public": {
+                    "gid": "4898459306078238254",
+                    "size": "1068871001",
+                    "download": "625946512"
+                }
+            },
+            "decryptionkey": "0c0db2f57ced57fca8022d01f6499238caa6002bbf5365d22bbc1e3b7cb7c242"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "15988729",
+                "timeupdated": "1728542992"
+            }
+        }
+    }
+}
