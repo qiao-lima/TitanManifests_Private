@@ -1,0 +1,180 @@
+{
+    "appid": 3034340,
+    "name": "ワールドネバーランド　エルネア王国の日々　Another Life Adventure",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 07:16:52",
+    "change_number": 30200446,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,japanese",
+        "3034341": {
+            "manifests": {
+                "public": {
+                    "gid": "7239542587854589392",
+                    "size": "703341282",
+                    "download": "528371808"
+                }
+            },
+            "decryptionkey": "3a6a236ea24a132fe1716b2a9fc3e6759885451b54d6e1a27ee8a84bf6ef12ce"
+        },
+        "3177940": {
+            "dlcappid": "3177940",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7363806032131488404",
+                    "size": "6192829",
+                    "download": "4647408"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3328640": {
+            "dlcappid": "3328640",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3335513936648345115",
+                    "size": "6725661",
+                    "download": "5048256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3328650": {
+            "dlcappid": "3328650",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7239226400582544644",
+                    "size": "6244782",
+                    "download": "4686480"
+                }
+            },
+            "decryptionkey": "baf8a8ba06872d7730ae92598f3deb2ec2a6d4bc84c8a58a97e2ecca730fd214"
+        },
+        "3328660": {
+            "dlcappid": "3328660",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7458434192617092",
+                    "size": "111450665",
+                    "download": "83731200"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3612220": {
+            "dlcappid": "3612220",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4591293035128465312",
+                    "size": "6800489",
+                    "download": "5103856"
+                }
+            },
+            "decryptionkey": "e35048b6bba03b9cfbd8e333944f15349f755c10130dece975728f59875d2ef1"
+        },
+        "3612230": {
+            "dlcappid": "3612230",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2619377471128445566",
+                    "size": "4546039",
+                    "download": "3412480"
+                }
+            },
+            "decryptionkey": "2a96e06665dbfea94af26ac57d5433acd1896dda6dafeb2e4b342691a340a687"
+        },
+        "3612240": {
+            "dlcappid": "3612240",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "501747143617351645",
+                    "size": "7243427",
+                    "download": "5436032"
+                }
+            },
+            "decryptionkey": "215b32d9ba2b00a5cd48dd90a2bb12e34edbdd5b66617831b9dc5b1e980dd338"
+        },
+        "3612260": {
+            "dlcappid": "3612260",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5911608723942111060",
+                    "size": "14264999",
+                    "download": "10706656"
+                }
+            },
+            "decryptionkey": "fe150aea1c34cf9044822f8de51910a2faea428cc6c172b2309344cfaa72add5"
+        },
+        "3828600": {
+            "dlcappid": "3828600",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6410444396993223496",
+                    "size": "8026627",
+                    "download": "6023744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3828630": {
+            "dlcappid": "3828630",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4115188355148467835",
+                    "size": "6112137",
+                    "download": "4587568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19128582",
+                "timeupdated": "1751943141"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
