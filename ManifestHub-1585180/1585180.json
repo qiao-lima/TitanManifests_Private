@@ -1,0 +1,67 @@
+{
+    "appid": 1585180,
+    "name": "Drova - Forsaken Kin",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-24 04:00:20",
+    "change_number": 30218869,
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "1585180",
+        "1585182": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3028857314096909511",
+                    "size": "3642921992",
+                    "download": "1158837968"
+                }
+            },
+            "decryptionkey": "e3f3f5b9271ecc5008846fdb91f891cfec142053bee010982ef6927466254c52"
+        },
+        "1585181": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7984230180066610582",
+                    "size": "3539190187",
+                    "download": "1140170512"
+                }
+            },
+            "decryptionkey": "fc3dcbcad5592e37ca4820226a3f1468ca1a204ae9eb531251f35720d446a33d"
+        },
+        "1585183": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6277738526832887337",
+                    "size": "3832973694",
+                    "download": "1191343376"
+                }
+            },
+            "decryptionkey": "4f32074c64c045394d23435667cba9c4f623b6beab4b60d5cd63d1f72bb26576"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18461987",
+                "timeupdated": "1747235327"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8c7c416113de482ba6d04c627f3da230066d1305b14dd95a62945b6d5d9f0eee"
+    }
+}
