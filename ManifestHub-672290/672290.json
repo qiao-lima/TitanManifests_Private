@@ -1,0 +1,31 @@
+{
+    "appid": 672290,
+    "name": "Magic Forest",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-11 06:09:29",
+    "change_number": 30003724,
+    "depot": {
+        "baselanguages": "english",
+        "672291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3571647991435988223",
+                    "size": "136727573",
+                    "download": "14744560"
+                }
+            },
+            "decryptionkey": "692e97c9e4076b836807d18426047cd8f642dfb5093ba9fe2a68674cc1afe94e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2205873",
+                "timeupdated": "1508254515"
+            }
+        }
+    }
+}
