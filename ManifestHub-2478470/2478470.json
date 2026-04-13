@@ -1,0 +1,48 @@
+{
+    "appid": 2478470,
+    "name": "末日",
+    "type": "Game",
+    "schinese_name": "末日",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 13:52:05",
+    "change_number": 30166898,
+    "depot": {
+        "baselanguages": "english,schinese",
+        "workshopdepot": "2478470",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2478471": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4017644532187012701",
+                    "size": "8624738664",
+                    "download": "8306765776"
+                }
+            },
+            "decryptionkey": "361b5e6eeffa2da595d1c9dfb766a0fcdb4212f7d90b65c7bcd043d4326ffa57"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18673472",
+                "timeupdated": "1748606323"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
