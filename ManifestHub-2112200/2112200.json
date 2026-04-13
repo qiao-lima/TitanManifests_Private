@@ -1,0 +1,28 @@
+{
+    "appid": 2112200,
+    "name": "Ancient Witch Arena",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-11 22:34:31",
+    "change_number": 29504477,
+    "depot": {
+        "2112201": {
+            "manifests": {
+                "public": {
+                    "gid": "7288846079380483734",
+                    "size": "920212155",
+                    "download": "310384416"
+                }
+            },
+            "decryptionkey": "6cab0f6b85aa1b7c01e84144509969002559afbd1ee4a7cf417f0ccafd7d148a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9794790",
+                "timeupdated": "1666701468"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
