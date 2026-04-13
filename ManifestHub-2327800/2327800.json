@@ -1,0 +1,27 @@
+{
+    "appid": 2327800,
+    "name": "STRIPPERS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-30 13:23:27",
+    "change_number": 29275205,
+    "depot": {
+        "2327801": {
+            "manifests": {
+                "public": {
+                    "gid": "1334531491578349715",
+                    "size": "226571236",
+                    "download": "140707120"
+                }
+            },
+            "decryptionkey": "70b2ee75a2f941828a5dd40c0ed0764f6f755863a2450ebf50c7f58a28e0d9ca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10646255",
+                "timeupdated": "1677504306"
+            }
+        }
+    }
+}
