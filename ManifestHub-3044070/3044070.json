@@ -1,0 +1,27 @@
+{
+    "appid": 3044070,
+    "name": "If you touch me, I will marry you.",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 16:52:34",
+    "change_number": 30155717,
+    "depot": {
+        "3044071": {
+            "manifests": {
+                "public": {
+                    "gid": "8661152433606110636",
+                    "size": "9797999781",
+                    "download": "1252267632"
+                }
+            },
+            "decryptionkey": "e101d384d2f386c91a207af0681c07a4ef44ef5f3ea62febfc143d963098b803"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14806293",
+                "timeupdated": "1719088273"
+            }
+        }
+    }
+}
