@@ -1,0 +1,27 @@
+{
+    "appid": 1726760,
+    "name": "Curse Crackers: For Whom the Belle Toils",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 08:11:03",
+    "change_number": 30201093,
+    "depot": {
+        "1726761": {
+            "manifests": {
+                "public": {
+                    "gid": "4956630656241409786",
+                    "size": "555280463",
+                    "download": "189348016"
+                }
+            },
+            "decryptionkey": "7032de95dc3c39caf86e27efc7e9c115e6ef1d5252910bcdd7c9620481dd67a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11012237",
+                "timeupdated": "1681586364"
+            }
+        }
+    }
+}
