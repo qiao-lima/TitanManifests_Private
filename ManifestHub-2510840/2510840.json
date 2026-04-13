@@ -1,0 +1,31 @@
+{
+    "appid": 2510840,
+    "name": "CUSTOM ORDER MAID 3D2 Personality Pack Friendly and Slightly Naughty Woman DLX edition",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:17:40",
+    "change_number": 26201212,
+    "depot": {
+        "2510841": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8043419181629611063",
+                    "size": "6449832200",
+                    "download": "1623096272"
+                }
+            },
+            "dlcappid": "2510840",
+            "decryptionkey": "0f061eb516521865925040782c20ee277bade66d5cb0341b80df952c385e4053"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11745263",
+                "timeupdated": "1689833709"
+            }
+        }
+    }
+}
