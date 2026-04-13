@@ -1,0 +1,50 @@
+{
+    "appid": 545040,
+    "name": "Feather",
+    "type": "Game",
+    "schinese_name": "羽毛",
+    "isfreeapp": 0,
+    "update_time": "2025-06-19 20:56:34",
+    "change_number": 29607400,
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "545041": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "502507429271609209",
+                    "size": "872075597",
+                    "download": "458613984"
+                }
+            },
+            "decryptionkey": "4dde7a91c0187c1676c399c1747b601ebf96006d5fff94482045e41819688a92"
+        },
+        "545042": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6302899557684477359",
+                    "size": "877935106",
+                    "download": "463169536"
+                }
+            },
+            "decryptionkey": "1ce2661b91cbb8ec32833056ed6f146cd713c7cb851040db8f6f749aa01add9d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7075074",
+                "timeupdated": "1634536139"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
