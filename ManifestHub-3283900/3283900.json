@@ -1,0 +1,27 @@
+{
+    "appid": 3283900,
+    "name": "Forest Ranger Services: Episode 1",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-06 04:11:01",
+    "change_number": 29915430,
+    "depot": {
+        "3283901": {
+            "manifests": {
+                "public": {
+                    "gid": "2174859450183514351",
+                    "size": "5808897890",
+                    "download": "1572251312"
+                }
+            },
+            "decryptionkey": "41fc0c0219e885fce044d5133b34719408391bda9b7b90307c741c9dae75b0c6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18113705",
+                "timeupdated": "1744721748"
+            }
+        }
+    }
+}
