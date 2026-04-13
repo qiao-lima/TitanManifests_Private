@@ -1,0 +1,33 @@
+{
+    "appid": 2961460,
+    "name": "神树残响",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 01:20:44",
+    "change_number": 30176677,
+    "depot": {
+        "baselanguages": "schinese",
+        "2961461": {
+            "manifests": {
+                "public": {
+                    "gid": "5524757332361225368",
+                    "size": "4585515388",
+                    "download": "4004849840"
+                }
+            },
+            "decryptionkey": "f212983d1e3601104cc7f5b5a4aa8955ad1572209b9afe60a34e610948ec8b65"
+        },
+        "3818700": {
+            "dlcappid": "3818700",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18852856",
+                "timeupdated": "1749803362"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
