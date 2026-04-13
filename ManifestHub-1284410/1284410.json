@@ -1,0 +1,118 @@
+{
+    "appid": 1284410,
+    "name": "GWENT: The Witcher Card Game",
+    "type": "Game",
+    "schinese_name": "巫师之昆特牌",
+    "isfreeapp": 1,
+    "update_time": "2025-06-29 09:54:14",
+    "change_number": 29568675,
+    "depot": {
+        "1284411": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4003067753639326697",
+                    "size": "5641627155",
+                    "download": "5203444944"
+                }
+            },
+            "decryptionkey": "b4cf4afd8eeb499a6acaf240167a6533e792b4bc1d5fdd6d15cd7139b12dd9f8"
+        },
+        "1284412": {
+            "config": {
+                "language": "german",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4935063395709817286",
+                    "size": "98100344",
+                    "download": "97970992"
+                }
+            },
+            "decryptionkey": "9ba94be7146078072633928c53dbf225831777bd0a6a05f194bc3bfce4c053fe"
+        },
+        "1284413": {
+            "config": {
+                "language": "french",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8705463241603602173",
+                    "size": "91678444",
+                    "download": "91588000"
+                }
+            },
+            "decryptionkey": "650d3822a1c9cfc4d8a216e443b97a5c880dea998e8d9cc90b18eda8d42a12e3"
+        },
+        "1284414": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6378204103458909152",
+                    "size": "97723731",
+                    "download": "97601728"
+                }
+            },
+            "decryptionkey": "b350f1adf75e9abda18394b2f716561156c0eabb960cdffdde4b3abef1edf445"
+        },
+        "1284415": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7452089957955849820",
+                    "size": "95512476",
+                    "download": "95339376"
+                }
+            },
+            "decryptionkey": "c1bae2e8ad347fb19a97f6a7165db325fa2cc2a906abc4c0ce2935f7b8d92b90"
+        },
+        "1284416": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4315113866844441972",
+                    "size": "92838637",
+                    "download": "92684032"
+                }
+            },
+            "decryptionkey": "966c05fb33286e72da3eb562aceefdd04286d9fcf01932c1fc853941f6aab989"
+        },
+        "1288440": {
+            "dlcappid": "1288440",
+            "manifests": {
+                "public": {
+                    "gid": "4501664487996823086",
+                    "size": "2407149361",
+                    "download": "2294127024"
+                }
+            },
+            "decryptionkey": "c237d9e0cd701027e822be12d2cb9b0ffe4dcdd03eb4b88831e5f1774ab537fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13000930",
+                "timeupdated": "1702998259"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
