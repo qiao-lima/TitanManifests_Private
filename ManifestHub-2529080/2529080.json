@@ -1,0 +1,27 @@
+{
+    "appid": 2529080,
+    "name": "Stellar Initiative",
+    "type": "Game",
+    "schinese_name": "异星计划 Stellar Initiative",
+    "isfreeapp": 0,
+    "update_time": "2025-05-25 08:17:47",
+    "change_number": 29172450,
+    "depot": {
+        "2529081": {
+            "manifests": {
+                "public": {
+                    "gid": "65276244291798686",
+                    "size": "236311399",
+                    "download": "94372400"
+                }
+            },
+            "decryptionkey": "1ef333f095bf09262912946941da1bd272c50b0ae91d1e16bbff6bf7a10912ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18503155",
+                "timeupdated": "1747498443"
+            }
+        }
+    }
+}
