@@ -1,0 +1,53 @@
+{
+    "appid": 2430990,
+    "name": "Their Land",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-05 10:25:41",
+    "change_number": 29909167,
+    "depot": {
+        "baselanguages": "english,german",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2430991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "23549714100957398",
+                    "size": "2967613475",
+                    "download": "2550668992"
+                }
+            },
+            "decryptionkey": "fb75ad5701873a67e493ee1807a6c1e4b06745782edbb03e00725bf51614276d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19116517",
+                "timeupdated": "1751707537"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
