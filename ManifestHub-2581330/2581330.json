@@ -1,0 +1,27 @@
+{
+    "appid": 2581330,
+    "name": "Moonstone Island Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-17 13:56:30",
+    "change_number": 29495671,
+    "depot": {
+        "2581331": {
+            "manifests": {
+                "public": {
+                    "gid": "2159491958622058371",
+                    "size": "48841463",
+                    "download": "48690400"
+                }
+            },
+            "decryptionkey": "5c3be39d3cc670be841eee2fad2211313e06ccc6023f4300f574d9f7e9dc4b10"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18772272",
+                "timeupdated": "1749245948"
+            }
+        }
+    }
+}
