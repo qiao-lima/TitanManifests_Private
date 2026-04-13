@@ -1,0 +1,43 @@
+{
+    "appid": 2190230,
+    "name": "Dust and Aliens",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-05-19 02:12:11",
+    "change_number": 29051120,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "2190230",
+        "2190231": {
+            "manifests": {
+                "public": {
+                    "gid": "1584514935601648099",
+                    "size": "1888478558",
+                    "download": "1592353392"
+                }
+            },
+            "decryptionkey": "c18bb38d06488e38449167566a76fbcfb95f4cc750d15411ec8aea1d8005e5f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11576256",
+                "timeupdated": "1687939996"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
