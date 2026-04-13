@@ -1,0 +1,40 @@
+{
+    "appid": 2103530,
+    "name": "Idle Clans",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-27 07:57:55",
+    "change_number": 29781166,
+    "depot": {
+        "2103531": {
+            "manifests": {
+                "public": {
+                    "gid": "2651057750011403688",
+                    "size": "221736325",
+                    "download": "61485552"
+                }
+            },
+            "decryptionkey": "0100e83dd88a9b05652e4c328d7e7df46f371d74ff3c84e987a9923262bdc901"
+        },
+        "2103532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7501783976453214665",
+                    "size": "262243819",
+                    "download": "96192560"
+                }
+            },
+            "decryptionkey": "bcf67df6dbbe71f920b6dcb586955db0e0d7479b935ee192dc215dc5b712f6be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19022146",
+                "timeupdated": "1751007468"
+            }
+        }
+    }
+}
