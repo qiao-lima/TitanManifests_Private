@@ -1,0 +1,12 @@
+-- 3418720's Lua and Manifest Created by Morrenus
+-- 禁地直播
+-- Created: March 31, 2026 at 20:17:16 EDT
+-- Website: https://manifest.morrenus.xyz/
+-- Total Depots: 1
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(3418720) -- 禁地直播
+-- MAIN APP DEPOTS
+addappid(3418721, 1, "88ee7a1ca5637388ae2e94cd1b4e0aa26a750efb1cd56f986bde6d8f1617c0cf") -- Depot 3418721
+setManifestid(3418721, "7073903175331921596", 5651177831)
