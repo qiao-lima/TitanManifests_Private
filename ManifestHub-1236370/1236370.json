@@ -1,0 +1,30 @@
+{
+    "appid": 1236370,
+    "name": "Northgard Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:39:27",
+    "change_number": 26201212,
+    "depot": {
+        "1236371": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4808349631386335890",
+                    "size": "57203642",
+                    "download": "57212368"
+                }
+            },
+            "decryptionkey": "5df18af649cbbe0facf2c0b6d17150b3003f03b1a9bd5bf3b1cbff38837fef74"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6152843",
+                "timeupdated": "1611847960"
+            }
+        }
+    }
+}
