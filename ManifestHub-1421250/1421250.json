@@ -1,0 +1,60 @@
+{
+    "appid": 1421250,
+    "name": "Tiny Bunny",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 10:23:08",
+    "change_number": 30065062,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1421251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5512094063047441378",
+                    "size": "3957167164",
+                    "download": "3566617168"
+                }
+            },
+            "decryptionkey": "26c7441369eb15b5a36a102139161693464b46afa6f77cc7744ea95f920ece2c"
+        },
+        "1421252": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5789249432343329591",
+                    "size": "3865393444",
+                    "download": "3539890640"
+                }
+            }
+        },
+        "3787220": {
+            "dlcappid": "3787220",
+            "manifests": {
+                "public": {
+                    "gid": "5610793731797059023",
+                    "size": "443048036",
+                    "download": "401793504"
+                }
+            },
+            "config": {
+                "optionaldlc": "3787220"
+            },
+            "decryptionkey": "c9edd435068cdbc2aac07cfa826cda1b8db0e3a820b6de7c23832f2f0bbcb076"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19227699",
+                "timeupdated": "1752571382"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
