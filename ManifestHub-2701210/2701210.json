@@ -1,0 +1,27 @@
+{
+    "appid": 2701210,
+    "name": "MWNeus",
+    "type": "Game",
+    "schinese_name": "两小无猜",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 11:31:35",
+    "change_number": 30026113,
+    "depot": {
+        "2701212": {
+            "manifests": {
+                "public": {
+                    "gid": "5053961881006471794",
+                    "size": "1807412668",
+                    "download": "1681790704"
+                }
+            },
+            "decryptionkey": "fe8fca091154c728b6b010b4efb7f2f0672ab6eb159888d77e9727dfd3f85ccf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15389434",
+                "timeupdated": "1723774747"
+            }
+        }
+    }
+}
