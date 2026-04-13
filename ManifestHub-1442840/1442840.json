@@ -1,0 +1,32 @@
+{
+    "appid": 1442840,
+    "name": "DIG - Deep In Galaxies",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 19:53:22",
+    "change_number": 29768928,
+    "depot": {
+        "baselanguages": "english,french",
+        "1442844": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6217807749658585184",
+                    "size": "397291582",
+                    "download": "332432976"
+                }
+            },
+            "decryptionkey": "c185fcdc5b3332031930475b2b943b035986013a42d20ebd5496e06a1ef34155"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19014429",
+                "timeupdated": "1750956987"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
