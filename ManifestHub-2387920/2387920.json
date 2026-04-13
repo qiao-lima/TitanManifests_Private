@@ -1,0 +1,31 @@
+{
+    "appid": 2387920,
+    "name": "Lords of the Fallen - Artbook",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-14 10:36:57",
+    "change_number": 28571623,
+    "depot": {
+        "2387920": {
+            "dlcappid": "2387920"
+        },
+        "2387921": {
+            "manifests": {
+                "public": {
+                    "gid": "6553904194185226573",
+                    "size": "185781686",
+                    "download": "94898784"
+                }
+            },
+            "dlcappid": "2387920",
+            "decryptionkey": "e69a9bfb62c1ca78c5fbb00518ff2251ada2f55dadfdbe8d842ee5174c83c3ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12480230",
+                "timeupdated": "1697703557"
+            }
+        }
+    }
+}
