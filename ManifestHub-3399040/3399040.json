@@ -1,0 +1,28 @@
+{
+    "appid": 3399040,
+    "name": "Office Simulator",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-19 01:51:03",
+    "change_number": 30141573,
+    "depot": {
+        "3399041": {
+            "manifests": {
+                "public": {
+                    "gid": "5168212116113715525",
+                    "size": "1235748282",
+                    "download": "567916688"
+                }
+            },
+            "decryptionkey": "bba17d3ffb70540886373a19080470a5dff40502d30cfcd5e386b1a3474e42ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18617008",
+                "timeupdated": "1748300016"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
