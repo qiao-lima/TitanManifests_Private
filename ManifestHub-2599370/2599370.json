@@ -1,0 +1,35 @@
+{
+    "appid": 2599370,
+    "name": "DEATHWATCHERS",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 00:42:44",
+    "change_number": 30176265,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2599371": {
+            "manifests": {
+                "public": {
+                    "gid": "2927798638497897579",
+                    "size": "10998899307",
+                    "download": "4381532288"
+                }
+            },
+            "decryptionkey": "feb1c54a0a57cbf15dd4b1c48a1f91835cc37c44598713decfc0cee5b3a3d52c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18773911",
+                "timeupdated": "1749258655"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
