@@ -1,0 +1,27 @@
+{
+    "appid": 2385280,
+    "name": "Palm Blocks",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-05-31 09:30:36",
+    "change_number": 29296027,
+    "depot": {
+        "2385281": {
+            "manifests": {
+                "public": {
+                    "gid": "4072357755260070605",
+                    "size": "14042872",
+                    "download": "8073168"
+                }
+            },
+            "decryptionkey": "af7304015622174d2cb67200306a297ba8103dc40604a88974d9398ae0032fde"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18017609",
+                "timeupdated": "1744064474"
+            }
+        }
+    }
+}
