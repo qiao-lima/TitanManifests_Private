@@ -1,0 +1,16 @@
+-- 1515220's Lua and Manifest Created by Hubcap Manifest
+-- Virtual Driving School
+-- Created: May 23, 2026 at 01:24:56 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 3
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(1515220) -- Virtual Driving School
+-- MAIN APP DEPOTS
+addappid(1515221, 1, "2473d051e499f4738af890b331955f201c1253128755ba2f50fd953d870699e9") -- Depot 1515221
+setManifestid(1515221, "6820083635186290240", 7787308405)
+addappid(1515222, 1, "b82f8ef724212a13f0218b9a224b2258344a422a848c05ccc1126c198e404d13") -- Depot 1515222
+setManifestid(1515222, "4940900928530828356", 10946274239)
+addappid(1515223, 1, "da7aa3a5156a065ffd020fb6fa34228aeb081c63c6307e1ae22e48a6bf0e1b8b") -- Depot 1515223
+setManifestid(1515223, "4195846518626881241", 9218821051)
