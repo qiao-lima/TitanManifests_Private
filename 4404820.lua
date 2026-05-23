@@ -1,0 +1,14 @@
+-- 4404820's Lua and Manifest Created by Hubcap Manifest
+-- How to Train Your Bro's Girlfriend
+-- Created: May 23, 2026 at 01:43:04 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 2
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(4404820, 1, "12a79bb9523993468cd1919d10835b92b9288b92c9c7f485931d8e3630a763d3") -- How to Train Your Bro's Girlfriend
+-- MAIN APP DEPOTS
+addappid(4404821, 1, "2ad62f5e491a44b36d45d11f06d77286986ace41b38991fd7289f7e23f9013dd") -- Depot 4404821
+setManifestid(4404821, "7992016038043179841", 1366368677)
+addappid(4404822, 1, "2bb775e523dbb4e3d24a4194c520428f35e01efa7b20739a564f34591a8c7598") -- Depot 4404822
+setManifestid(4404822, "8720564610395418811", 1350802427)
