@@ -1,0 +1,16 @@
+-- 4486310's Lua and Manifest Created by Hubcap Manifest
+-- Mogitate: Bearing Fruit
+-- Created: May 16, 2026 at 01:46:47 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 3
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(4486310) -- Mogitate: Bearing Fruit
+-- MAIN APP DEPOTS
+addappid(4486311, 1, "8ca848198cf21b935ec453148fdcc696ef29e5c662f024ac8d72a8ed6561ec9b") -- Depot 4486311
+setManifestid(4486311, "6298404168404872070", 456411355)
+addappid(4486312, 1, "cdfaf933b4c10c9be9ac972ae8c9803c3fbca32ba8a87c0321f8cbc974b584b5") -- Depot 4486312
+setManifestid(4486312, "3567944778200723927", 258219148)
+addappid(4486313, 1, "eb3313c2d4cac0c5a3a8e6c0774d02e37491fe07468b9f553133ef007746eba4") -- Depot 4486313
+setManifestid(4486313, "6763111859010772066", 259184726)
