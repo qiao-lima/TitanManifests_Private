@@ -1,0 +1,30 @@
+-- 1948980's Lua and Manifest Created by Hubcap Manifest
+-- 大侠立志传：碧血丹心
+-- Created: April 30, 2026 at 19:55:08 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 4
+-- Total DLCs: 5
+-- Shared Depots: 1
+
+-- MAIN APPLICATION
+addappid(1948980, 1, "6d0e4344aa93ffe73f7fe7bb24d37aed4024fb6abc21e376e1e551157551e56c") -- 大侠立志传：碧血丹心
+addtoken(1948980, "15007247341427304635")
+-- MAIN APP DEPOTS
+addappid(1948981, 1, "e24e21853fcf27393c4424978740b631785a618ee8356eb9fa135070ade87f1b") -- Depot 1948981
+setManifestid(1948981, "8374597281959489772", 1957016898)
+-- SHARED DEPOTS (from other apps)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITH DEDICATED DEPOTS
+--  - DLC (AppID: 2924120)
+addappid(2924120)
+addappid(2924120, 1, "1ee9dbc5a2205fa53b8290d7b9444ba5bcbee983bf5c04a92851b83c8edca2ce") --  - DLC - Depot 2924120
+setManifestid(2924120, "3268168688895929225", 212431319)
+--  -  (AppID: 3332620)
+addappid(3332620)
+addappid(3332620, 1, "ad493ff72c24f4f74d94a5255ec284fcf42f1717927f548cd65dc879a0c97855") --  -  - Depot 3332620
+setManifestid(3332620, "2332558840217941735", 291131152)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(3128600) --  - 
+addappid(3393130) --  - 
+addappid(3731090) --  - 
