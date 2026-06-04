@@ -1,0 +1,26 @@
+-- 4288090's Lua and Manifest Created by Hubcap Manifest
+-- Daydream Mosaics 6: Empire - Collector's Edition
+-- Created: June 04, 2026 at 07:10:16 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 8
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(4288090) -- Daydream Mosaics 6: Empire - Collector's Edition
+-- MAIN APP DEPOTS
+addappid(4288091, 1, "9f77811d884eb197c59840972fc04c2ebc3f4ba8a9a299e5baf80af5df5ed8d8") -- Depot 4288091
+setManifestid(4288091, "360757995372215503", 564815982)
+addappid(4288092, 1, "446b61d1e6c5ee18f2d63d12052be1abc36e0f400abb73308e8fd014597d2b13") -- Depot 4288092
+setManifestid(4288092, "3348679008434061575", 1855693)
+addappid(4288093, 1, "15f33d6b9325fccfcc4589a024e7766a4c14a4902fecbcc8012fff83ffb68942") -- Depot 4288093
+setManifestid(4288093, "9155368811472961028", 1900663)
+addappid(4288094, 1, "df28edb442257acfbb97701a734a05ce2c104a24a88eef988beddcdb4777e50a") -- Depot 4288094
+setManifestid(4288094, "1523642760044173496", 2063324)
+addappid(4288095, 1, "8566b2102f203e24964ac8a0e33a714fc8ae38a9b20d3b88a8d709f03b14024d") -- Depot 4288095
+setManifestid(4288095, "7145294996074011837", 2048385)
+addappid(4288096, 1, "7e5de3974e5960ca8cb0f0957fbf39df3f89733f62701dd7e6311dc8c8889bcd") -- Depot 4288096
+setManifestid(4288096, "5636855101196010208", 2051330)
+addappid(4288097, 1, "4047a573323da849a07b7907af8fee2ee2922a7ffba8fa11a785ad591a34c265") -- Depot 4288097
+setManifestid(4288097, "1351368842454448138", 2017345)
+addappid(4288098, 1, "164829d9b624b4e730f09687ead352265b65cbf1ad966695660eb65b4e443181") -- Depot 4288098
+setManifestid(4288098, "2258220438209530388", 2075394)
