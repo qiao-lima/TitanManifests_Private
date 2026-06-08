@@ -1,0 +1,44 @@
+{
+    "appid": 749830,
+    "name": "Moon Bullet",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 00:41:08",
+    "change_number": 29977767,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "749831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4626179811482466971",
+                    "size": "286635904",
+                    "download": "140419776"
+                }
+            },
+            "decryptionkey": "34bdc2b3fd67e798d3cb06695d849b55e3cdae96d713a1397db31e6c37073849"
+        },
+        "749832": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9150965741050988071",
+                    "size": "326302473",
+                    "download": "150851216"
+                }
+            },
+            "decryptionkey": "703ba909651c44d3613f852b0caa18fcb0ee1ed7d05718a183815b276b6d15b2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18785536",
+                "timeupdated": "1749400764"
+            }
+        }
+    }
+}
