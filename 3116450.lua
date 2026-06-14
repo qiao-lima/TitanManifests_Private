@@ -1,0 +1,20 @@
+-- 3116450's Lua and Manifest Created by Hubcap Manifest
+-- Exorcist of Lust: Kaede
+-- Created: May 25, 2026 at 07:45:26 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 5
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(3116450, 1, "dbd44f8440c878a1435ac89b49bcab3d64df136f6890ba90da843f3c6edf2422") -- Exorcist of Lust: Kaede
+-- MAIN APP DEPOTS
+addappid(3116451, 1, "0196c7ec0a664f18b093a1df50645391ed35880e1386854ab7e8b4b0767930ef") -- Depot 3116451
+setManifestid(3116451, "2489959239811621159", 802623110)
+addappid(3116452, 1, "ecc379b592f008dc24d664888ec4f7f9984cb639104a52fc1992f449ffdd2a7f") -- Depot 3116452
+setManifestid(3116452, "2899209645651325882", 815575959)
+addappid(3116453, 1, "20d884d51289bf83f7e99295608a37005a2599a09a167bfdeae77176b28471fc") -- Depot 3116453
+setManifestid(3116453, "3238698953545392646", 821379245)
+addappid(3116454, 1, "06c83d53e7f57e11673907068a62a26646b7a3b937af24a9532746e754df8ccd") -- Depot 3116454
+setManifestid(3116454, "1150858721546630759", 754544384)
+addappid(3116455, 1, "75136f71a8ca35c370a45bf854917facff83362485fe8c86a15d701b540d9f3e") -- Depot 3116455
+setManifestid(3116455, "4931297398812500887", 813316872)
