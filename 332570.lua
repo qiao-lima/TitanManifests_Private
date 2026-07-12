@@ -1,0 +1,19 @@
+-- Generated with Luie @ https://lua.tools/
+-- 332570 - Amazing Frog?
+-- Generated 2026-07-12 14:21:21 UTC
+-- # Depots (Total/DLC/Shared): 5/0/0
+
+-- Main AppID
+addappid(332570, 1, "e93f9378984ec16a4c0d74226562ab1cbf5e487378b102a24dfebf23af65ad65")
+
+-- Main Depots
+addappid(332571, 1, "914497bf7253dae27e380c140c5f34a17a7b0be144e186b299df16cd38673402")
+setManifestid(332571, "4960147226538579074", 5113820042)
+addappid(332572, 1, "ef05975e6a5e7e1b2319bc118cb199d4a6beb3c20979157e6eb3cc65c8ff93a0") -- (windows, 64-bit)
+setManifestid(332572, "7937302618310982024", 5078079194)
+addappid(332573, 1, "46e402f3b495e25ea0e9f1be5ee4689c0f97c9d3536cc697784118cb89109a6a") -- (macos, 64-bit)
+setManifestid(332573, "1066284144713219477", 5113820385)
+addappid(332574, 1, "8e6d00dbdfa286c81765c135bb5da8054e182ad8f5e56f2d8765ad785bc0cfa3") -- (linux)
+setManifestid(332574, "116281287654922969", 5588568874)
+addappid(332575, 1, "3b209ff0cb6e0bf31debc839a99e15c5e101f97f398c9076f0445202db777b01") -- (windows, 32-bit)
+setManifestid(332575, "5299363979502012344", 5053787193)
