@@ -1,0 +1,5 @@
+addappid(1006510)
+addappid(1006511, 1, "b0515ee5a374e6f06d1e93799d0bbec8efef4f9a2d74b40ffe98a8a07d710489")
+
+-- Manifests
+--setManifestid(1006511, "1295878910028272212")
