@@ -1,0 +1,6 @@
+
+-- MAIN APPLICATION
+addappid(4127360, 1, "1c58a88e9cefc12bc6138e6ccd3b891ba25d5a90fd8e122a1dfc3881c4fff179") -- Case Solved: The London Files
+-- MAIN APP DEPOTS
+addappid(4127361, 1, "22509ffa5ecbb7bb7de44696e0a4ad6de743d184060be380f343c22cdf49608b") -- Depot 4127361
+-- setManifestid(4127361, "2828074711411500542", 518143079)
