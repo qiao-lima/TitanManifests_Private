@@ -1,0 +1,15 @@
+-- Generated with Luie @ https://lua.tools/
+-- 3072310 - Missing
+-- Generated 2026-08-08 10:57:59 UTC
+-- # Depots (Total/DLC/Shared): 3/0/2
+
+-- Main AppID
+addappid(3072310)
+
+-- Main Depots
+addappid(3072311, 1, "45045b3b65e4e5ff532440b3b38a508ef76f6517f0cf0e9df78ce1ceab8e5cc2")
+setManifestid(3072311, "7652878131399298765", 1777766659)
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- (windows)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- (windows)
