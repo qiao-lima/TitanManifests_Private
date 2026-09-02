@@ -1,0 +1,29 @@
+-- Generated with Luie @ https://lua.tools/
+-- 4012810 - STEINS;GATE RE:BOOT
+-- Generated 2026-09-02 15:52:51 UTC
+-- # Depots (Total/DLC/Shared): 8/7/0
+
+-- Main AppID
+addappid(4012810, 1, "9a8e87ba0956ec43e72acfb99599e39906d83243bf38509f2ba46ed55787c91a")
+
+-- Main Depots
+addappid(4012811, 1, "dae973d4b45757294a7da031a84c01f05666ffc94165b08e734bbdee6085a6b2") -- (windows, 64-bit)
+setManifestid(4012811, "4900984998756496132", 7836248080)
+
+-- DLC's (with depot keys)
+-- STEINS;GATE RE:BOOT VISUAL COLLECTION (AppID: 4872730)
+addappid(4872730)
+addappid(4872730, 1, "db6a9cb603b47a0a3970e544c091174113cd647b5383fae82526cf42b6aedf42")
+setManifestid(4872730, "30374876050639586", 146339429)
+-- STEINS;GATE 15th LIVE ONE WORLD (AppID: 4872740)
+addappid(4872740)
+addappid(4872740, 1, "f9f5dd52eb8412d52b13b664f4f7d285e0c2f9ede39638dc053683ccab8fc695")
+setManifestid(4872740, "334657012050993329", 3764499745)
+addappid(4872741, 1, "232c820e7a23fca3bd8997f12104b3419ec499eb1871094848b87d9c91fd0189") -- Japanese
+setManifestid(4872741, "1208815057324518058", 3764984625)
+addappid(4872742, 1, "c22c2f97aeec4002241b25d8a152754206d83fa3f0db7a28fb30b0209b2793a6") -- Tchinese
+setManifestid(4872742, "1514169371241064625", 3764919906)
+addappid(4872743, 1, "2cb2e470f8a9f280b2562a38ec97b11c3b11322ad05ca99aaa7b04ad35d0d33f") -- Schinese
+setManifestid(4872743, "2868175873221413774", 3764706435)
+
+-- Missing Depots (We don't have the keys yet lol): 4860250, 4872721
