@@ -1,0 +1,82 @@
+-- Generated with Luie @ https://lua.tools/
+-- 953580 - Tourist Bus Simulator
+-- Generated 2026-09-03 11:29:52 UTC
+-- # Depots (Total/DLC/Shared): 20/16/1
+
+-- Main AppID
+addappid(953580, 1, "19189140d338e81ff265023fcb5c6034b498e3ed7fde9b8ec7981bac17f62861")
+
+-- Main Depots
+addappid(953581, 1, "22d29d0e7574aa3646b5486a9374eac19b3cde7b673ac0645760578c6ea471ec")
+setManifestid(953581, "2077230366960739797", 27286042077)
+addappid(1026751, 1, "dbcd300d2528c1fdff04b43a1911f3860c9d1d61c0d12d367db3f1ff58923245")
+setManifestid(1026751, "163323209732098990", 102433525)
+addappid(1026752, 1, "169c6ec413903a9efe4b281b6c17e80ce076d8f1b6e19053351649aa8560380e")
+setManifestid(1026752, "4905165358809824059", 105476941)
+
+-- DLC's (no depot keys required)
+addappid(2407430) -- Tourist Bus Simulator - Top Class HDH
+addappid(2407431) -- Tourist Bus Simulator - Neoplan Cityliner
+
+-- DLC's (with depot keys)
+-- Tourist Bus Simulator - Comfort Class HD (AppID: 953680)
+addappid(953680)
+addappid(953582, 1, "d51ae6401494816328acb668f144ee7ebb108ef324b33a9ea1266babe610865a")
+setManifestid(953582, "5953636843449255074", 0)
+-- Tourist Bus Simulator - VDL Futura FHD2 (AppID: 953681)
+addappid(953681)
+addappid(953583, 1, "bbfe3e721ddb6a6e6e34794d995bdbf0d86cea2022d101f9721450e59137cbc4")
+setManifestid(953583, "8751512754004194706", 0)
+-- Tourist Bus Simulator - Neoplan Skyliner (AppID: 953682)
+addappid(953682)
+addappid(953584, 1, "5441fcfc5f0fa21bdbaaf23956452cf8f9baceaeef876bd0f8352270f5ea391e")
+setManifestid(953584, "1623184393214560511", 0)
+-- Tourist Bus Simulator - MAN Lion's Intercity (AppID: 1026750)
+addappid(1026750)
+addappid(953585, 1, "ac964cc5bb85e35d66e868542d9dbceddb8656d055810de8030f67d8dc929e49")
+setManifestid(953585, "2749496403380181063", 0)
+-- Tourist Bus Simulator - BB40 (AppID: 1121020)
+addappid(1121020)
+addappid(953586, 1, "474f49db6238b2fb41a1047ee3242b4862065bd9bc7a3dc3721f28762ba68419")
+setManifestid(953586, "1280292202339611603", 0)
+-- Tourist Bus Simulator - Scania Touring (AppID: 1158130)
+addappid(1158130)
+addappid(953587, 1, "0fe3f425316697307070dbfdd7f6bce62c83cb4241625b0cc6c8434a2ee4942a")
+setManifestid(953587, "5135838414753424535", 0)
+-- Tourist Bus Simulator - W906 (AppID: 1250740)
+addappid(1250740)
+addappid(953588, 1, "d89e07093927b4eeed490b2fb18e8b2f568663ac1666e5abbe1bf04e1d33b8e3")
+setManifestid(953588, "3397041753652541692", 0)
+-- Tourist Bus Simulator - MAN Lion's Coach 3rd Gen (AppID: 1294460)
+addappid(1294460)
+addappid(953589, 1, "ba8541b3460e23f4c134ef2a72eb209ceea56e785d519b0c91012bb1d6fd94f1")
+setManifestid(953589, "855998593940098510", 0)
+-- Tourist Bus Simulator - VDL Futura FDD2 (AppID: 1370020)
+addappid(1370020)
+addappid(953683, 1, "4c30620741af56d18d2995c3e0b0e93d0606d929d1576790c9019ab72e317903")
+setManifestid(953683, "4834694809291704322", 0)
+-- Tourist Bus Simulator - Top Class DD (AppID: 1847580)
+addappid(1847580)
+addappid(953685, 1, "9be35a5113c757bb7d512210eea0185031510226bf4b4e4e175384127ef53c9a") -- (windows, 64-bit)
+setManifestid(953685, "9213767621758843290", 0)
+-- Tourist Bus Simulator - Altano TX (AppID: 2295460)
+addappid(2295460)
+addappid(953686, 1, "ada5ac12a67ebd1ad59fb2d2268ab7020c53aebf5107c91829620c5f9f329a2a")
+setManifestid(953686, "8299126853509996560", 180808758)
+-- Tourist Bus Simulator - Altano TDX (AppID: 2295461)
+addappid(2295461)
+addappid(953687, 1, "235ff4e195531d1614867902d5825e994f13fa9b67e82626e67686b4d20c330c")
+setManifestid(953687, "238482087814657338", 175547382)
+-- Tourist Bus Simulator - Astromega (AppID: 2295462)
+addappid(2295462)
+addappid(953688, 1, "196247529527339b4a0f5d6675369fb72408e1f26bc8049ed6809ffb25b12c2a")
+setManifestid(953688, "1351335576080176780", 175547274)
+-- Tourist Bus Simulator - Interlink HD (AppID: 2295463)
+addappid(2295463)
+addappid(953689, 1, "f6f37acf6fbfc664b95dfd4578712b10a2f3ca00403e566b80021710549b6b34")
+setManifestid(953689, "7336745557288960181", 97221590)
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- (windows)
+
+-- Missing Depots (We don't have the keys yet lol): 953684, 1026753
