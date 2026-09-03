@@ -1,0 +1,48 @@
+-- Generated with Luie @ https://lua.tools/
+-- 2239550 - Watch Dogs: Legion
+-- Generated 2026-09-03 12:12:21 UTC
+-- # Depots (Total/DLC/Shared): 15/0/4
+
+-- Main AppID
+addappid(2239550, 1, "c48f02481d40724181e1ba041664818a55be2d06768695001a83b10f9b239380")
+
+-- Main Depots
+addappid(2239551, 1, "62572c9c866092b5d5c24f9d76b0d30e122ec188a384cf332863c2354a16e499")
+setManifestid(2239551, "5409223134227379956", 53998923470)
+addappid(2239553, 1, "aedafe5b1f90390eead5c8b1284c9135978cb376a92d63f3cc50f72cfc25c1b9")
+setManifestid(2239553, "861626495949591325", 5334663107)
+addappid(2239554, 1, "7c56b1185c417eb03429ae8d45ac5f601ad32ea1b165aeb4e865d8be81b38057")
+setManifestid(2239554, "150776765054703772", 5668194139)
+addappid(2239555, 1, "5264cd8b1760303e1252fddcd7c22b8737ee4072a06c949c17a70567c46f91d0")
+setManifestid(2239555, "1126084741540836795", 5828098736)
+addappid(2239556, 1, "cf5f6a46e9a1570e6233eb2635494823fbb6500438ff91f9d9bf5e15dd7f1015")
+setManifestid(2239556, "1246586549978281605", 8082166732)
+addappid(2239557, 1, "7ef880457a787df11e53915796a5683e5b4cecbdf13e652cf6b241258670fc46")
+setManifestid(2239557, "1708196626566240967", 6046954926)
+addappid(2239558, 1, "96a2343878739aa83ae1594e8308477aae7103b27c47275413b29faf2467962e")
+setManifestid(2239558, "5263627914238077400", 5414279691)
+addappid(2239559, 1, "6e573031c1f7df976ba2afd51dc5d9ad29867474e9c89336c319a28746479ba6")
+setManifestid(2239559, "1849129399140238585", 5879759642)
+addappid(2239578, 1, "ab14e233729a7f7aa201e66ca2561e17606d2b5ef892d3c3d5576393ad51a296")
+setManifestid(2239578, "1722712900383029919", 5861473192)
+addappid(2239579, 1, "c9a01759f720b3981960152bf9935ad070d46a90896d63866b2f5628c2cfda75")
+setManifestid(2239579, "4016126354565287573", 16056051191)
+addappid(2239581, 1, "8780ca840c8994c0aea640128c1627f27ed861e147aebcbe0b965a1645a1eb4e")
+setManifestid(2239581, "2185846408303563524", 498)
+
+-- DLC's (no depot keys required)
+addappid(2239570) -- Watch Dogs: Legion Gold Edition Ubisoft Activation
+addappid(2239571) -- Watch Dogs: Legion Deluxe Edition Ubisoft Activation
+addappid(2239573) -- Watch Dogs: Legion Ultimate Edition Ubisoft Activation
+addappid(2239574) -- Watch Dogs: Legion Season Pass Ubisoft Activation
+addappid(2239575) -- Watch Dogs: Legion Season Pass
+addappid(2239576) -- Watch Dogs: Legion DLC Bloodline Ubisoft Activation
+addappid(2239577) -- Watch Dogs: Legion DLC Bloodline
+addappid(2239580) -- Watch Dogs: Legion Ubisoft Activation
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") -- (windows)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- (windows)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- (windows)
+addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
+setManifestid(1716751, "6659642105086821873", 264786072)
