@@ -1,0 +1,13 @@
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1028090.lua
+--Gamename Eruption 爆发
+addappid(1028090) --Mainappid Eruption 爆发
+addappid(1028091, 1, "9afafbd2016331b0630043415031e3921108f59ce8ffb1d71e0b17fd11b005ce") --Main Windows Depot Eruption 爆发
+setManifestid(1028091, "5131622021118021726", 493404592)
+--Share Depots
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(228988, "6645201662696499616", 22411856)
+addappid(229002, 1, "f95e8545cfe871c330a483b25520ba7ed3750d21b9a51791ff0f0ed0dae33738") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(229002, "7260605429366465749", 50365280)
+addappid(229003, 1, "8e0ded6e1d9481eb286217322054ce7b0b8243daae770f31a30667752b1a3c63") --Share Windows Depot Steamworks Common Redistributables
+setManifestid(229003, "8740933542064151477", 42914928)
